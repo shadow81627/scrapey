@@ -1,0 +1,30 @@
+{
+  "name": "scrapey",
+  "version": "0.0.0",
+  "description": "Web content scraping",
+  "main": "index.js",
+  "scripts": {
+    "scrape": "node index.js",
+    "scrape:new": "node index.js --only-new",
+    "scrape:dry": "node index.js --no-scrape"
+  },
+  "homepage": "https://daim.dev",
+  "author": {
+    "name": "Damien Robinson",
+    "email": "damien.robinson@daim.dev",
+    "url": "https://daim.dev"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "deep-sort-object": "^1.0.2",
+    "deepmerge": "^4.2.2",
+    "he": "^1.2.0",
+    "lodash": "^4.17.20",
+    "luxon": "^1.25.0",
+    "normalize-text": "^2.3.1",
+    "playwright": "^1.4.2",
+    "pluralize": "^8.0.0",
+    "slugify": "^1.4.5",
+    "yargs": "^16.0.3"
+  }
+}

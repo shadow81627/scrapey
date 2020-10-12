@@ -1,0 +1,16 @@
+{
+  "dependencyDashboard": true,
+  "rollbackPrs": true,
+  "automerge": false,
+  "bumpVersion": null,
+  "labels": ["dependencies"],
+  "lockFileMaintenance": { "enabled": true },
+  "extends": [
+    "config:base",
+    ":semanticCommits",
+    ":pinSkipCi",
+    ":prNotPending",
+    ":maintainLockFilesWeekly",
+    ":enableVulnerabilityAlerts"
+  ]
+}
