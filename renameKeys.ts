@@ -1,4 +1,7 @@
-const renameKeys = (keysMap, obj) =>
+const renameKeys = (
+  keysMap: Record<string, string>,
+  obj: Record<string, string>,
+) =>
   Object.keys(obj).reduce(
     (acc, key) => ({
       ...acc,
@@ -7,4 +10,4 @@ const renameKeys = (keysMap, obj) =>
     {},
   );
 
-module.exports = renameKeys;
+export default renameKeys;

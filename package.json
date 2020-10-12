@@ -4,9 +4,11 @@
   "description": "Web content scraping",
   "main": "index.js",
   "scripts": {
-    "scrape": "node index.js",
-    "scrape:new": "node index.js --only-new",
-    "scrape:dry": "node index.js --no-scrape"
+    "scrape": "ts-node index.ts",
+    "scrape:new": "ts-node index.ts --only-new",
+    "scrape:dry": "ts-node index.ts --no-scrape",
+    "lint": "eslint --ext .js,.ts --ignore-path .gitignore .",
+    "lint:fix": "eslint --ext .js,.ts --ignore-path .gitignore . --fix"
   },
   "homepage": "https://daim.dev",
   "author": {
@@ -15,16 +17,37 @@
     "url": "https://daim.dev"
   },
   "dependencies": {
-    "cheerio": "^1.0.0-rc.3",
-    "deep-sort-object": "^1.0.2",
-    "deepmerge": "^4.2.2",
-    "he": "^1.2.0",
-    "lodash": "^4.17.20",
-    "luxon": "^1.25.0",
-    "normalize-text": "^2.3.1",
-    "playwright": "^1.4.2",
-    "pluralize": "^8.0.0",
-    "slugify": "^1.4.5",
-    "yargs": "^16.0.3"
+    "@types/cheerio": "0.22.22",
+    "@types/he": "1.1.1",
+    "@types/lodash": "4.14.162",
+    "@types/node": "14.11.8",
+    "cheerio": "1.0.0-rc.3",
+    "deepmerge": "4.2.2",
+    "he": "1.2.0",
+    "is-plain-object": "5.0.0",
+    "lodash": "4.17.20",
+    "luxon": "1.25.0",
+    "normalize-text": "2.3.1",
+    "playwright": "1.4.2",
+    "pluralize": "8.0.0",
+    "slugify": "1.4.5",
+    "yargs": "16.0.3"
+  },
+  "devDependencies": {
+    "@commitlint/cli": "11.0.0",
+    "@commitlint/config-conventional": "11.0.0",
+    "@typescript-eslint/eslint-plugin": "4.4.0",
+    "@typescript-eslint/parser": "4.4.0",
+    "eslint": "7.11.0",
+    "eslint-config-prettier": "6.12.0",
+    "eslint-plugin-prettier": "3.1.4",
+    "husky": "4.3.0",
+    "prettier": "2.1.2",
+    "pretty-quick": "3.0.2",
+    "ts-node": "9.0.0",
+    "typescript": "4.0.3"
+  },
+  "engines": {
+    "node": "12.x"
   }
 }

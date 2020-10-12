@@ -1,11 +1,11 @@
-const fs = require('fs');
-const cheerio = require('cheerio');
-const slugify = require('slugify');
-const he = require('he');
-const sortobject = require('deep-sort-object');
-const { firefox } = require('playwright');
-const _ = require('lodash');
-const renameKeys = require('./renameKeys');
+import fs from 'fs';
+import cheerio from 'cheerio';
+import slugify from 'slugify';
+import he from 'he';
+import sortobject from './deep-sort';
+import { firefox } from 'playwright';
+import _ from 'lodash';
+import renameKeys from './renameKeys';
 
 const browserOptions = {
   headless: false,
@@ -16,7 +16,7 @@ const browserOptions = {
 
 const linkDataTypes = ['Product', 'Recipe', 'VideoObject'];
 
-async function scrape(url) {
+async function scrape(url: string) {
   /**
    * Get link data for url
    */
@@ -26,7 +26,7 @@ async function scrape(url) {
     // fetch browser rendered html
     const page = await browser.newPage();
     // Abort based on the request type
-    await page.route('**/*', (route) => {
+    await page.route('**/*', (route: any) => {
       return [
         'image',
         'stylesheet',
@@ -42,20 +42,18 @@ async function scrape(url) {
     const timeout = 120000; // timeout in milliseconds.
     await page.goto(url, { waitUntil: 'domcontentloaded', timeout });
     await page.waitForTimeout(15000);
-    const data = await page.evaluate(
-      () => document.querySelector('*').outerHTML,
-    );
+    const data = await page.content();
     await browser.close();
 
     // parse html and extract data to json file
     const $ = cheerio.load(data, { decodeEntities: true });
     const elements = $('script[type="application/ld+json"]')
-      .map((i, e) => $(e).html())
+      .map((_: number, e: any) => $(e).html())
       .get();
 
     for (const element of elements) {
       const linkDataHtmlDecoded = he.decode(element);
-      const html = cheerio.load(linkDataHtmlDecoded).text();
+      const html = cheerio.load(linkDataHtmlDecoded).root().text();
       const parsedData = JSON.parse(html);
 
       // check graph for recipe
@@ -113,8 +111,8 @@ async function scrape(url) {
         if (type === 'Product') {
           if (url.includes('woolworths')) {
             const price = $('.price').text();
-            const nutritionScraped = {};
-            $('.nutrition-row').each(function (i, rowElement) {
+            const nutritionScraped: Record<string, string> = {};
+            $('.nutrition-row').each(function (_: number, rowElement: any) {
               const key = slugify(
                 $($('.nutrition-column', rowElement).get(0)).text(),
                 { lower: true, strict: true, replacement: '_' },
@@ -203,7 +201,7 @@ async function scrape(url) {
 
         const organizations = _.filter(
           linkData,
-          (i) => i && i['@type'] === 'Organization',
+          (i: any) => i && i['@type'] === 'Organization',
         );
 
         if (linkData.brand && typeof linkData.brand !== 'object') {
@@ -212,8 +210,12 @@ async function scrape(url) {
           });
         }
 
+        interface Organization {
+          name: string;
+        }
+
         if (organizations) {
-          organizations.map((organization) => {
+          organizations.map((organization: Organization) => {
             const { name } = organization;
             if (name) {
               const folder = `content/organizations/`;

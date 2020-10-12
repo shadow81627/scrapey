@@ -1,5 +1,5 @@
 const { readFile, writeFile, mkdir } = require('fs').promises;
-const fs = require('fs');
+import fs from 'fs';
 const path = require('path');
 const _ = require('lodash');
 const slugify = require('slugify');
@@ -55,9 +55,9 @@ const urlBlacklist = [
   'https://www.reddit.com/r/4chan/comments/bk8hu5/anon_fools_an_nbc_roastie_with_his_salad_lasagna/',
 ];
 
-const fileUrlMap = {};
+const fileUrlMap: Map<string, string> = new Map();
 
-function parseInstructions(instructions) {
+function parseInstructions(instructions: string | Array<string>) {
   if (typeof instructions === 'string') {
     return formatString(instructions).match(/[^.!?]+[.!?]+[^)]/g);
   }
@@ -71,21 +71,22 @@ function parseInstructions(instructions) {
   return instructions || [];
 }
 
-const pipe = (...fns) => (x) => fns.reduce((v, f) => f(v), x);
+const pipe = (...fns: Array<Function>) => (x: string) =>
+  fns.reduce((v, f) => f(v), x);
 
-function formatString(value) {
-  const removeDuplicateSpaces = (str) => str.replace(/\s+/g, ' ');
-  const removeHtml = (str) => str.replace(/(<([^>]+)>)/gi, '');
-  const replaceFractionSlash = (str) =>
+function formatString(value: string) {
+  const removeDuplicateSpaces = (str: string) => str.replace(/\s+/g, ' ');
+  const removeHtml = (str: string) => str.replace(/(<([^>]+)>)/gi, '');
+  const replaceFractionSlash = (str: string) =>
     str
       .normalize('NFKD')
       .replace(/(\d)⁄(\d+)/g, ' $1/$2 ')
       .normalize();
-  const removeDuplicateParenthesis = (str) =>
+  const removeDuplicateParenthesis = (str: string) =>
     str.replace(/([()])(?=[()])/g, '');
-  const removeDuplicatePunctuation = (str) =>
+  const removeDuplicatePunctuation = (str: string) =>
     str.replace(/([.!?,;])(?=[.!?,;])/g, '');
-  const removeSpaceBeforePunctuation = (str) =>
+  const removeSpaceBeforePunctuation = (str: string) =>
     str.replace(/\s+([.!?,;])/g, '$1');
 
   return pipe(
@@ -104,7 +105,9 @@ function formatString(value) {
   )(value);
 }
 
-function formatIngredient(ingredient) {
+function formatIngredient(
+  ingredient: { quantity: string | number; ingredient: string } | string,
+) {
   // turn objects into strings
   if (
     typeof ingredient === 'object' &&
@@ -119,16 +122,32 @@ function formatIngredient(ingredient) {
       } ${ingredient.ingredient}`,
     );
   } else {
-    return formatString(ingredient);
+    return formatString(String(ingredient));
   }
 }
 
-function fromatInstructions(instructions) {
+class HowToStep {
+  '@type' = 'HowToStep';
+  text: string = '';
+  image?: string;
+  stepImageUrl?: string;
+
+  constructor(data: Partial<HowToStep>) {
+    Object.assign(this, data);
+  }
+}
+
+function fromatInstructions(instructions: Array<HowToStep | string>) {
   return (
     instructions
       // ensure instruction.text is a string
-      .map((instruction) =>
-        instruction.text ? instruction : { text: instruction || '' },
+      .map(
+        (instruction) =>
+          new HowToStep(
+            !instruction || typeof instruction === 'string'
+              ? { text: instruction || '' }
+              : instruction,
+          ),
       )
       // add type
       .map((instruction) => ({ ...instruction, '@type': 'HowToStep' }))
@@ -158,7 +177,7 @@ function fromatInstructions(instructions) {
   );
 }
 
-function parseDuration(duration) {
+function parseDuration(duration: string) {
   return `PT${((duration || '').match(/(\d+)/g) || [''])[0]}${
     (duration || '').search('mins') ? 'M' : 'H'
   }`;
@@ -177,7 +196,7 @@ function parseDuration(duration) {
     if (
       !argv['only-new'] &&
       content.sameAs &&
-      !content.sameAs.some((item) => urlBlacklist.includes(item)) &&
+      !content.sameAs.some((item: string) => urlBlacklist.includes(item)) &&
       (!argv.scrape ||
         !content.updatedAt ||
         DateTime.fromISO(content.updatedAt) <
@@ -187,7 +206,7 @@ function parseDuration(duration) {
     ) {
       urls.push(content.sameAs);
       for (const url of content.sameAs) {
-        fileUrlMap[url] = filename;
+        fileUrlMap.set(url, filename);
       }
     }
   }
@@ -208,9 +227,9 @@ function parseDuration(duration) {
       }
     }
 
-    if (fileUrlMap[_.head(chunk)]) {
+    if (fileUrlMap.get(_.head(chunk))) {
       const file = JSON.parse(
-        await readFile(fileUrlMap[_.head(chunk)], {
+        await readFile(fileUrlMap.get(_.head(chunk)), {
           encoding: 'utf8',
         }),
       );
@@ -251,12 +270,15 @@ function parseDuration(duration) {
       };
     });
 
-    const overwriteMerge = (destinationArray, sourceArray, options) =>
-      _.unionWith(destinationArray, sourceArray, _.isEqual);
+    const overwriteMerge = (
+      destinationArray: Array<any>,
+      sourceArray: Array<any>,
+      options: any,
+    ) => _.unionWith(destinationArray, sourceArray, _.isEqual);
     const linkData = merge.all(chunkData, { arrayMerge: overwriteMerge });
 
     if (linkData.name) {
-      const filename = fileUrlMap[_.head(chunk)];
+      const filename = fileUrlMap.get(_.head(chunk));
       linkData.name = formatString(linkData.name);
       const slug = path.basename(
         filename ||
@@ -371,6 +393,10 @@ function parseDuration(duration) {
         );
       }
 
+      interface Offer {
+        offeredBy: string;
+      }
+
       // dedup and print offers to offers collection
       if (linkData.offers && linkData.offers.offers) {
         linkData.offers.offers = _.uniqBy(linkData.offers.offers, 'offeredBy');
@@ -382,7 +408,7 @@ function parseDuration(duration) {
           lowPrice: Math.min(..._.map(linkData.offers.offers, 'price')),
           offerCount: linkData.offers.offers.length,
         };
-        linkData.offers.offers.map(async (newOffer) => {
+        linkData.offers.offers.map(async (newOffer: Offer) => {
           const offerSlug = slugify(newOffer.offeredBy, {
             lower: true,
             strict: true,
@@ -438,7 +464,7 @@ function parseDuration(duration) {
         linkData.createdAt = new Date();
       }
 
-      const folder = `content/${pluralize(type).toLocaleLowerCase()}`
+      const folder = `content/${pluralize(type).toLocaleLowerCase()}`;
       await mkdir(folder, { recursive: true });
       await writeFile(
         `${folder}/${slug}.json`,

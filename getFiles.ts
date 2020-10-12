@@ -5,7 +5,7 @@ const { readdir } = require('fs').promises;
  * https://stackoverflow.com/questions/5827612/node-js-fs-readdir-recursive-directory-search
  * @param {String} dir
  */
-async function* getFiles(dir) {
+async function* getFiles(dir: string): AsyncGenerator<string> {
   const dirents = await readdir(dir, { withFileTypes: true });
   for (const dirent of dirents) {
     const res = resolve(dir, dirent.name);

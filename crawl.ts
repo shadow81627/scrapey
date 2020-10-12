@@ -1,10 +1,10 @@
 const fs = require('fs').promises;
-const { firefox } = require('playwright');
-const cheerio = require('cheerio');
+import { firefox } from 'playwright';
+import cheerio from 'cheerio';
 
-const crawled = [];
+const crawled: Array<string> = [];
 
-async function crawl(url, origin = new URL(url).origin) {
+async function crawl(url: string, origin = new URL(url).origin) {
   const browserOptions = {
     headless: false,
     slowMo: 250,
@@ -16,11 +16,9 @@ async function crawl(url, origin = new URL(url).origin) {
     // fetch browser rendered html
     const page = await browser.newPage();
     const timeout = 1200000; // timeout in milliseconds.
-    await page.goto(url, { waitUntil: 'networkidle0', timeout });
+    await page.goto(url, { waitUntil: 'networkidle', timeout });
     await page.waitForTimeout(15000);
-    const data = await page.evaluate(
-      () => document.querySelector('*').outerHTML,
-    );
+    const data = await page.content();
     await browser.close();
 
     console.log(url);
@@ -30,12 +28,15 @@ async function crawl(url, origin = new URL(url).origin) {
     const $ = cheerio.load(data);
     // get a unique list of valid urls on the same origin
     const links = $('a[href]')
-      .map((i, e) => {
+      .map((_, e) => {
         try {
-          const url = new URL($(e).attr('href'), origin);
-          const href = `${url.origin}${url.pathname}`;
-          if (url.origin === origin && !crawled.includes(href)) {
-            return href;
+          const base = $(e).attr('href');
+          if (base) {
+            const url = new URL(base, origin);
+            const href = `${url.origin}${url.pathname}`;
+            if (url.origin === origin && !crawled.includes(href)) {
+              return href;
+            }
           }
         } catch (_) {
           // invalid url
