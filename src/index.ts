@@ -12,6 +12,7 @@ import { normalizeWhiteSpaces } from 'normalize-text';
 import scrape from './scrape';
 import deepSort from './utils/deepSort';
 import pipe from './utils/pipe';
+import getFiles from './utils/getFiles';
 
 const argv = yargs
   .command('scrape', 'Crawl urls with browser', {})

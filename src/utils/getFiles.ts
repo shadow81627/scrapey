@@ -17,4 +17,4 @@ async function* getFiles(dir: string): AsyncGenerator<string> {
   }
 }
 
-module.exports = getFiles;
+export default getFiles;
