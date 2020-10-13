@@ -4,9 +4,9 @@
   "description": "Web content scraping",
   "main": "index.js",
   "scripts": {
-    "scrape": "ts-node index.ts",
-    "scrape:new": "ts-node index.ts --only-new",
-    "scrape:dry": "ts-node index.ts --no-scrape",
+    "scrape": "ts-node src/index.ts",
+    "scrape:new": "ts-node src/index.ts --only-new",
+    "scrape:dry": "ts-node src/index.ts --no-scrape",
     "lint": "eslint --ext .js,.ts --ignore-path .gitignore .",
     "lint:fix": "eslint --ext .js,.ts --ignore-path .gitignore . --fix"
   },
