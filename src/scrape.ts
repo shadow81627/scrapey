@@ -2,10 +2,10 @@ import fs from 'fs';
 import cheerio from 'cheerio';
 import slugify from 'slugify';
 import he from 'he';
-import sortobject from './deep-sort';
+import sortobject from './utils/deep-sort';
 import { firefox } from 'playwright';
 import _ from 'lodash';
-import renameKeys from './renameKeys';
+import renameKeys from './utils/renameKeys';
 
 const browserOptions = {
   headless: false,
