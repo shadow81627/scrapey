@@ -1,31 +1,19 @@
 const fs = require('fs').promises;
-import { firefox } from 'playwright';
 import cheerio from 'cheerio';
+import getHtml from './utils/getHtml';
 
 const crawled: Array<string> = [];
 
 async function crawl(url: string, origin = new URL(url).origin) {
-  const browserOptions = {
-    headless: false,
-    slowMo: 250,
-    waitUntil: 'networkidle0',
-    defaultViewport: null,
-  };
-  const browser = await firefox.launch(browserOptions);
   try {
     // fetch browser rendered html
-    const page = await browser.newPage();
-    const timeout = 1200000; // timeout in milliseconds.
-    await page.goto(url, { waitUntil: 'networkidle', timeout });
-    await page.waitForTimeout(15000);
-    const data = await page.content();
-    await browser.close();
+    const html = await getHtml({ url });
 
     console.log(url);
     crawled.push(url);
     await fs.appendFile('scrape/urls.txt', `${url}\n`);
 
-    const $ = cheerio.load(data);
+    const $ = cheerio.load(html);
     // get a unique list of valid urls on the same origin
     const links = $('a[href]')
       .map((_, e) => {
@@ -49,7 +37,6 @@ async function crawl(url: string, origin = new URL(url).origin) {
     }
   } catch (error) {
     console.log(error);
-    await browser.close();
   }
 }
 

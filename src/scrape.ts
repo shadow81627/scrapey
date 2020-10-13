@@ -2,51 +2,20 @@ import fs from 'fs';
 import cheerio from 'cheerio';
 import slugify from 'slugify';
 import he from 'he';
-import sortobject from './utils/deep-sort';
-import { firefox } from 'playwright';
+import sortobject from './utils/deepSort';
 import _ from 'lodash';
 import renameKeys from './utils/renameKeys';
-
-const browserOptions = {
-  headless: false,
-  slowMo: 250,
-  waitUntil: 'networkidle0',
-  defaultViewport: null,
-};
+import getHtml from './utils/getHtml';
 
 const linkDataTypes = ['Product', 'Recipe', 'VideoObject'];
 
 async function scrape(url: string) {
-  /**
-   * Get link data for url
-   */
-  const browser = await firefox.launch(browserOptions);
-
   try {
     // fetch browser rendered html
-    const page = await browser.newPage();
-    // Abort based on the request type
-    await page.route('**/*', (route: any) => {
-      return [
-        'image',
-        'stylesheet',
-        'font',
-        'imageset',
-        'media',
-        'sub_frame',
-        'object',
-      ].includes(route.request().resourceType())
-        ? route.abort()
-        : route.continue();
-    });
-    const timeout = 120000; // timeout in milliseconds.
-    await page.goto(url, { waitUntil: 'domcontentloaded', timeout });
-    await page.waitForTimeout(15000);
-    const data = await page.content();
-    await browser.close();
+    const html = await getHtml({ url });
 
     // parse html and extract data to json file
-    const $ = cheerio.load(data, { decodeEntities: true });
+    const $ = cheerio.load(html, { decodeEntities: true });
     const elements = $('script[type="application/ld+json"]')
       .map((_: number, e: any) => $(e).html())
       .get();
@@ -257,8 +226,7 @@ async function scrape(url: string) {
     }
   } catch (error) {
     console.log(error);
-    await browser.close();
   }
 }
 
-module.exports = scrape;
+export default scrape;
