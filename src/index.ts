@@ -1,17 +1,17 @@
 const { readFile, writeFile, mkdir } = require('fs').promises;
 import fs from 'fs';
-const path = require('path');
-const _ = require('lodash');
-const slugify = require('slugify');
-const sortobject = require('deep-sort-object');
-const merge = require('deepmerge');
-const he = require('he');
-const yargs = require('yargs');
-const pluralize = require('pluralize');
-const { Duration, DateTime } = require('luxon');
-const { normalizeWhiteSpaces } = require('normalize-text');
-const scrape = require('./scrape');
-const getFiles = require('./getFiles');
+import path from 'path';
+import _ from 'lodash';
+import slugify from 'slugify';
+import merge from 'deepmerge';
+import he from 'he';
+import yargs from 'yargs';
+import pluralize from 'pluralize';
+import { Duration, DateTime } from 'luxon';
+import { normalizeWhiteSpaces } from 'normalize-text';
+import scrape from './scrape';
+import deepSort from './utils/deepSort';
+import pipe from './utils/pipe';
 
 const argv = yargs
   .command('scrape', 'Crawl urls with browser', {})
@@ -57,22 +57,111 @@ const urlBlacklist = [
 
 const fileUrlMap: Map<string, string> = new Map();
 
-function parseInstructions(instructions: string | Array<string>) {
-  if (typeof instructions === 'string') {
-    return formatString(instructions).match(/[^.!?]+[.!?]+[^)]/g);
+class HowToStep {
+  '@type' = 'HowToStep';
+  text = '';
+  image?: string;
+  stepImageUrl?: string;
+
+  constructor(data: Partial<HowToStep>) {
+    Object.assign(this, data);
   }
-  if (Array.isArray(instructions)) {
-    if (_.head(instructions).itemListElement) {
-      return _.head(instructions).itemListElement;
-    } else {
-      return instructions;
-    }
-  }
-  return instructions || [];
 }
 
-const pipe = (...fns: Array<Function>) => (x: string) =>
-  fns.reduce((v, f) => f(v), x);
+class HowToSection {
+  '@type' = 'HowToSection';
+  name?: string;
+  position?: string | number;
+  itemListElement?: Array<HowToStep>;
+
+  constructor(data: Partial<HowToSection>) {
+    Object.assign(this, data);
+  }
+}
+
+class Person {
+  '@type' = 'Person';
+  name: string;
+
+  constructor({ name, ...data }: Person) {
+    Object.assign(this, data);
+    this.name = name;
+  }
+}
+
+class Thing {
+  '@type'? = 'Thing';
+  name: string;
+  additionalProperty?: Array<any>;
+  sameAs?: Array<string>;
+  createdAt: Date = new Date();
+  updatedAt: Date = new Date();
+
+  constructor({ name, ...data }: Thing) {
+    this.name = formatString(name);
+    Object.assign(this, data);
+  }
+}
+
+interface Offer {
+  offeredBy: string;
+}
+
+interface Offers {
+  '@type': 'AggregateOffer';
+  priceCurrency: string;
+  highPrice?: number;
+  lowPrice?: number;
+  offerCount?: number;
+  offers: Array<Offer>;
+}
+
+class Product extends Thing {
+  '@type'? = 'Product';
+  offers?: Offers;
+
+  constructor(data: Product) {
+    super(data);
+    Object.assign(this, data);
+  }
+}
+
+class Recipe extends Thing {
+  '@type'? = 'Recipe';
+  prepTime?: string;
+  totalTime?: string;
+  cookTime?: string;
+  recipeIngredient?: Array<any>;
+  recipeInstructions?: Array<string | HowToSection | HowToStep> = [];
+  author?: Person;
+  video?: {};
+
+  constructor({ recipeInstructions = [], ...data }: Recipe) {
+    super(data);
+    this.recipeInstructions = parseInstructions(recipeInstructions);
+  }
+}
+
+function parseInstructions(
+  instructions: string | Array<string | HowToSection | HowToStep>,
+): Array<HowToStep> {
+  if (typeof instructions === 'string') {
+    return (
+      formatString(instructions)
+        .match(/[^.!?]+[.!?]+[^)]/g)
+        ?.map((text) => new HowToStep({ text })) || []
+    );
+  }
+  if (Array.isArray(instructions)) {
+    const head = _.head(instructions) as HowToSection;
+    if (head && head.itemListElement) {
+      return head.itemListElement as Array<HowToStep>;
+    } else {
+      return instructions as Array<HowToStep>;
+    }
+  }
+  return instructions;
+}
 
 function formatString(value: string) {
   const removeDuplicateSpaces = (str: string) => str.replace(/\s+/g, ' ');
@@ -126,18 +215,9 @@ function formatIngredient(
   }
 }
 
-class HowToStep {
-  '@type' = 'HowToStep';
-  text: string = '';
-  image?: string;
-  stepImageUrl?: string;
-
-  constructor(data: Partial<HowToStep>) {
-    Object.assign(this, data);
-  }
-}
-
-function fromatInstructions(instructions: Array<HowToStep | string>) {
+function fromatInstructions(
+  instructions: Array<HowToStep | string | HowToSection>,
+) {
   return (
     instructions
       // ensure instruction.text is a string
@@ -220,16 +300,18 @@ function parseDuration(duration: string) {
       for (const url of chunk) {
         const currentIndex = `${index + 1}`.padStart(`${total}`.length, '0');
         console.log(`${currentIndex}/${total}`, url);
-        const linkData = await scrape(url);
+        const linkData: Thing = await scrape(url);
         if (linkData) {
           chunkData.push(linkData);
         }
       }
     }
 
-    if (fileUrlMap.get(_.head(chunk))) {
+    const headChunk = _.head(chunk);
+
+    if (headChunk && fileUrlMap.get(headChunk)) {
       const file = JSON.parse(
-        await readFile(fileUrlMap.get(_.head(chunk)), {
+        await readFile(fileUrlMap.get(headChunk), {
           encoding: 'utf8',
         }),
       );
@@ -275,10 +357,16 @@ function parseDuration(duration: string) {
       sourceArray: Array<any>,
       options: any,
     ) => _.unionWith(destinationArray, sourceArray, _.isEqual);
-    const linkData = merge.all(chunkData, { arrayMerge: overwriteMerge });
+    const mergeData = merge.all(chunkData, {
+      arrayMerge: overwriteMerge,
+    }) as Thing;
+    const linkData =
+      mergeData['@type'] === 'Recipe'
+        ? new Recipe(mergeData)
+        : new Product(mergeData);
 
-    if (linkData.name) {
-      const filename = fileUrlMap.get(_.head(chunk));
+    if (linkData.name && headChunk) {
+      const filename = fileUrlMap.get(headChunk);
       linkData.name = formatString(linkData.name);
       const slug = path.basename(
         filename ||
@@ -305,160 +393,173 @@ function parseDuration(duration: string) {
         );
       }
 
-      if (linkData.prepTime && !Duration.fromISO(linkData.prepTime).toJSON()) {
-        linkData.prepTime = parseDuration(linkData.prepTime);
-      }
-      if (
-        linkData.totalTime &&
-        !Duration.fromISO(linkData.totalTime).toJSON()
-      ) {
-        linkData.totalTime = parseDuration(linkData.totalTime);
-      }
-      if (linkData.cookTime && !Duration.fromISO(linkData.cookTime).toJSON()) {
-        linkData.cookTime = parseDuration(linkData.cookTime);
-      }
-
-      const recipeIngredientChunkData = _.find(chunkData, 'recipeIngredient');
-      if (
-        recipeIngredientChunkData &&
-        recipeIngredientChunkData.recipeIngredient
-      ) {
-        const recipeIngredient = recipeIngredientChunkData.recipeIngredient;
-        const recipeIngredientArray =
-          recipeIngredient &&
-          recipeIngredient.length > 0 &&
-          typeof recipeIngredient[0] === 'object' &&
-          recipeIngredient[0].group &&
-          recipeIngredient[0].group.ingredients
-            ? recipeIngredient[0].group.ingredients
-            : recipeIngredient;
-
-        linkData.recipeIngredient = _.uniq(
-          _.map(recipeIngredientArray.map(formatIngredient), _.trim),
-        );
-      }
-
-      const recipeInstructionsChunkData = _.find(
-        chunkData,
-        'recipeInstructions',
-      );
-      if (
-        recipeInstructionsChunkData &&
-        recipeInstructionsChunkData.recipeInstructions
-      ) {
-        const recipeInstructions =
-          recipeInstructionsChunkData.recipeInstructions;
-
-        const recipeInstructionsArray = parseInstructions(recipeInstructions);
-
-        linkData.recipeInstructions = _.uniq(
-          fromatInstructions(recipeInstructionsArray),
-        );
-      }
-
-      if (linkData.author && linkData.author['@type'] === 'Person') {
-        const slug = slugify(linkData.author.name, {
-          lower: true,
-          strict: true,
-        });
-        const personPath = `content/people/${slug}.json`;
-        const oldPerson = fs.existsSync(path)
-          ? JSON.parse(
-              await readFile(personPath, {
-                encoding: 'utf8',
-              }),
-            )
-          : {};
-        const author = { ...oldPerson, ...linkData.author };
-        const sameAs = _.uniq([
-          ...(author.sameAs || []),
-          ...(linkData.sameAs || []),
-        ]);
-        if (argv.scrape) {
-          author.updatedAt = new Date();
+      if (linkData instanceof Recipe) {
+        if (
+          linkData.prepTime &&
+          !Duration.fromISO(linkData.prepTime).toJSON()
+        ) {
+          linkData.prepTime = parseDuration(linkData.prepTime);
         }
-        await writeFile(
-          personPath,
-          JSON.stringify(
-            sortobject({
-              ...author,
-              sameAs,
-              '@type': 'Person',
-              '@id': undefined,
-              '@context': undefined,
-            }),
-            undefined,
-            2,
-          ) + '\n',
+        if (
+          linkData.totalTime &&
+          !Duration.fromISO(linkData.totalTime).toJSON()
+        ) {
+          linkData.totalTime = parseDuration(linkData.totalTime);
+        }
+        if (
+          linkData.cookTime &&
+          !Duration.fromISO(linkData.cookTime).toJSON()
+        ) {
+          linkData.cookTime = parseDuration(linkData.cookTime);
+        }
+
+        const recipeIngredientChunkData = _.find(
+          chunkData,
+          'recipeIngredient',
+        ) as Recipe;
+        if (
+          recipeIngredientChunkData &&
+          recipeIngredientChunkData.recipeIngredient
+        ) {
+          const recipeIngredient = recipeIngredientChunkData.recipeIngredient;
+          const recipeIngredientArray =
+            recipeIngredient &&
+            recipeIngredient.length > 0 &&
+            typeof recipeIngredient[0] === 'object' &&
+            recipeIngredient[0].group &&
+            recipeIngredient[0].group.ingredients
+              ? recipeIngredient[0].group.ingredients
+              : recipeIngredient;
+
+          linkData.recipeIngredient = _.uniq(
+            _.map(recipeIngredientArray.map(formatIngredient), _.trim),
+          );
+        }
+
+        const recipeInstructionsChunkData = _.find(
+          chunkData,
+          'recipeInstructions',
         );
-      }
+        if (
+          recipeInstructionsChunkData &&
+          recipeInstructionsChunkData.recipeInstructions
+        ) {
+          const recipeInstructions =
+            recipeInstructionsChunkData.recipeInstructions;
 
-      interface Offer {
-        offeredBy: string;
-      }
+          const recipeInstructionsArray = parseInstructions(recipeInstructions);
+          if (recipeInstructionsArray) {
+            linkData.recipeInstructions = _.uniq(
+              fromatInstructions(recipeInstructionsArray),
+            );
+          }
+        }
 
-      // dedup and print offers to offers collection
-      if (linkData.offers && linkData.offers.offers) {
-        linkData.offers.offers = _.uniqBy(linkData.offers.offers, 'offeredBy');
-        linkData.offers = {
-          priceCurrency: _.head(_.map(linkData.offers.offers, 'priceCurrency')),
-          ...linkData.offers,
-          '@type': 'AggregateOffer',
-          highPrice: Math.max(..._.map(linkData.offers.offers, 'price')),
-          lowPrice: Math.min(..._.map(linkData.offers.offers, 'price')),
-          offerCount: linkData.offers.offers.length,
-        };
-        linkData.offers.offers.map(async (newOffer: Offer) => {
-          const offerSlug = slugify(newOffer.offeredBy, {
+        if (linkData.author && linkData.author['@type'] === 'Person') {
+          const slug = slugify(linkData.author.name, {
             lower: true,
             strict: true,
           });
-          const folder = `content/offers/${slug}`;
-          const offerPath = `${folder}/${offerSlug}.json`;
-          await mkdir(folder, { recursive: true });
-          const oldOffer = fs.existsSync(offerPath)
+          const personPath = `content/people/${slug}.json`;
+          const oldPerson = fs.existsSync(personPath)
             ? JSON.parse(
-                await readFile(offerPath, {
+                await readFile(personPath, {
                   encoding: 'utf8',
                 }),
               )
             : {};
-          const offer = {
-            ...oldOffer,
-            ...newOffer,
-            '@type': 'Offer',
-            '@id': undefined,
-            '@context': undefined,
-          };
-          if (!offer.createdAt) {
-            offer.createdAt = new Date();
-          }
-          if (argv.scrape || !offer.updatedAt) {
-            offer.updatedAt = new Date();
+          const author = { ...oldPerson, ...linkData.author };
+          const sameAs = _.uniq([
+            ...(author.sameAs || []),
+            ...(linkData.sameAs || []),
+          ]);
+          if (argv.scrape) {
+            author.updatedAt = new Date();
           }
           await writeFile(
-            offerPath,
-            JSON.stringify(sortobject(offer), undefined, 2) + '\n',
+            personPath,
+            JSON.stringify(
+              deepSort({
+                ...author,
+                sameAs,
+                '@type': 'Person',
+                '@id': undefined,
+                '@context': undefined,
+              }),
+              undefined,
+              2,
+            ) + '\n',
           );
-        });
+        }
+
+        // if (linkData.youtubeUrl) {
+        //   const crawlUrl = linkData.youtubeUrl.replace('/embed/', '/watch/');
+        //   const video = await scrape(crawlUrl);
+        //   if (video) {
+        //     linkData.video = video;
+        //     linkData.youtubeUrl = undefined;
+        //     if (!linkData.name) {
+        //       linkData.name = formatString(video.name);
+        //     }
+        //     if (!linkData.description) {
+        //       linkData.description = formatString(video.description);
+        //     }
+        //   }
+        // }
       }
 
-      linkData.name = linkData.name || linkData.title;
-
-      if (linkData.youtubeUrl) {
-        const crawlUrl = linkData.youtubeUrl.replace('/embed/', '/watch/');
-        const video = await scrape(crawlUrl);
-        if (video) {
-          linkData.video = video;
-          linkData.youtubeUrl = undefined;
-          if (!linkData.name) {
-            linkData.name = formatString(video.name);
-          }
-          if (!linkData.description) {
-            linkData.description = formatString(video.description);
-          }
+      if (linkData instanceof Product) {
+        // dedup and print offers to offers collection
+        if (linkData.offers && linkData.offers.offers) {
+          linkData.offers.offers = _.uniqBy(
+            linkData.offers.offers,
+            'offeredBy',
+          );
+          linkData.offers = {
+            // priceCurrency: _.head(_.map(linkData.offers.offers, 'priceCurrency')),
+            ...linkData.offers,
+            '@type': 'AggregateOffer',
+            highPrice: Math.max(..._.map(linkData.offers.offers, 'price')),
+            lowPrice: Math.min(..._.map(linkData.offers.offers, 'price')),
+            offerCount: linkData.offers.offers.length,
+          };
+          linkData.offers.offers.map(async (newOffer: Offer) => {
+            const offerSlug = slugify(newOffer.offeredBy, {
+              lower: true,
+              strict: true,
+            });
+            const folder = `content/offers/${slug}`;
+            const offerPath = `${folder}/${offerSlug}.json`;
+            await mkdir(folder, { recursive: true });
+            const oldOffer = fs.existsSync(offerPath)
+              ? JSON.parse(
+                  await readFile(offerPath, {
+                    encoding: 'utf8',
+                  }),
+                )
+              : {};
+            const offer = {
+              ...oldOffer,
+              ...newOffer,
+              '@type': 'Offer',
+              '@id': undefined,
+              '@context': undefined,
+            };
+            if (!offer.createdAt) {
+              offer.createdAt = new Date();
+            }
+            if (argv.scrape || !offer.updatedAt) {
+              offer.updatedAt = new Date();
+            }
+            await writeFile(
+              offerPath,
+              JSON.stringify(deepSort(offer), undefined, 2) + '\n',
+            );
+          });
         }
       }
+
+      // linkData.name = linkData.name || linkData.title;
 
       if (!linkData.createdAt) {
         linkData.createdAt = new Date();
@@ -468,7 +569,7 @@ function parseDuration(duration: string) {
       await mkdir(folder, { recursive: true });
       await writeFile(
         `${folder}/${slug}.json`,
-        JSON.stringify(sortobject(linkData), undefined, 2) + '\n',
+        JSON.stringify(deepSort(linkData), undefined, 2) + '\n',
       );
     }
   }
