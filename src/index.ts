@@ -4,15 +4,20 @@ import path from 'path';
 import _ from 'lodash';
 import slugify from 'slugify';
 import merge from 'deepmerge';
-import he from 'he';
 import yargs from 'yargs';
 import pluralize from 'pluralize';
 import { Duration, DateTime } from 'luxon';
-import { normalizeWhiteSpaces } from 'normalize-text';
 import scrape from './scrape';
 import deepSort from './utils/deepSort';
-import pipe from './utils/pipe';
 import getFiles from './utils/getFiles';
+import Thing from './models/Thing';
+import formatString from './utils/formatString';
+import HowToStep from './models/HowToStep';
+import HowToSection from './models/HowToSection';
+import Offer from './models/Offer';
+import Product from './models/Product';
+import Recipe from './models/Recipe';
+import parseInstructions from './utils/parseInstructions';
 
 const argv = yargs
   .command('scrape', 'Crawl urls with browser', {})
@@ -57,143 +62,6 @@ const urlBlacklist = [
 ];
 
 const fileUrlMap: Map<string, string> = new Map();
-
-class HowToStep {
-  '@type' = 'HowToStep';
-  text = '';
-  image?: string;
-  stepImageUrl?: string;
-
-  constructor(data: Partial<HowToStep>) {
-    Object.assign(this, data);
-  }
-}
-
-class HowToSection {
-  '@type' = 'HowToSection';
-  name?: string;
-  position?: string | number;
-  itemListElement?: Array<HowToStep>;
-
-  constructor(data: Partial<HowToSection>) {
-    Object.assign(this, data);
-  }
-}
-
-class Person {
-  '@type' = 'Person';
-  name: string;
-
-  constructor({ name, ...data }: Person) {
-    Object.assign(this, data);
-    this.name = name;
-  }
-}
-
-class Thing {
-  '@type'? = 'Thing';
-  name: string;
-  additionalProperty?: Array<any>;
-  sameAs?: Array<string>;
-  createdAt: Date = new Date();
-  updatedAt: Date = new Date();
-
-  constructor({ name, ...data }: Thing) {
-    this.name = formatString(name);
-    Object.assign(this, data);
-  }
-}
-
-interface Offer {
-  offeredBy: string;
-}
-
-interface Offers {
-  '@type': 'AggregateOffer';
-  priceCurrency: string;
-  highPrice?: number;
-  lowPrice?: number;
-  offerCount?: number;
-  offers: Array<Offer>;
-}
-
-class Product extends Thing {
-  '@type'? = 'Product';
-  offers?: Offers;
-
-  constructor(data: Product) {
-    super(data);
-    Object.assign(this, data);
-  }
-}
-
-class Recipe extends Thing {
-  '@type'? = 'Recipe';
-  prepTime?: string;
-  totalTime?: string;
-  cookTime?: string;
-  recipeIngredient?: Array<any>;
-  recipeInstructions?: Array<string | HowToSection | HowToStep> = [];
-  author?: Person;
-  video?: {};
-
-  constructor({ recipeInstructions = [], ...data }: Recipe) {
-    super(data);
-    this.recipeInstructions = parseInstructions(recipeInstructions);
-  }
-}
-
-function parseInstructions(
-  instructions: string | Array<string | HowToSection | HowToStep>,
-): Array<HowToStep> {
-  if (typeof instructions === 'string') {
-    return (
-      formatString(instructions)
-        .match(/[^.!?]+[.!?]+[^)]/g)
-        ?.map((text) => new HowToStep({ text })) || []
-    );
-  }
-  if (Array.isArray(instructions)) {
-    const head = _.head(instructions) as HowToSection;
-    if (head && head.itemListElement) {
-      return head.itemListElement as Array<HowToStep>;
-    } else {
-      return instructions as Array<HowToStep>;
-    }
-  }
-  return instructions;
-}
-
-function formatString(value: string) {
-  const removeDuplicateSpaces = (str: string) => str.replace(/\s+/g, ' ');
-  const removeHtml = (str: string) => str.replace(/(<([^>]+)>)/gi, '');
-  const replaceFractionSlash = (str: string) =>
-    str
-      .normalize('NFKD')
-      .replace(/(\d)⁄(\d+)/g, ' $1/$2 ')
-      .normalize();
-  const removeDuplicateParenthesis = (str: string) =>
-    str.replace(/([()])(?=[()])/g, '');
-  const removeDuplicatePunctuation = (str: string) =>
-    str.replace(/([.!?,;])(?=[.!?,;])/g, '');
-  const removeSpaceBeforePunctuation = (str: string) =>
-    str.replace(/\s+([.!?,;])/g, '$1');
-
-  return pipe(
-    String,
-    he.decode,
-    removeHtml,
-    replaceFractionSlash,
-    // normalizeDiacritics,
-    normalizeWhiteSpaces,
-    removeDuplicateSpaces,
-    removeDuplicateParenthesis,
-    removeSpaceBeforePunctuation,
-    removeDuplicatePunctuation,
-    // punctuation,
-    _.trim,
-  )(value);
-}
 
 function formatIngredient(
   ingredient: { quantity: string | number; ingredient: string } | string,
@@ -447,7 +315,6 @@ function parseDuration(duration: string) {
         ) {
           const recipeInstructions =
             recipeInstructionsChunkData.recipeInstructions;
-
           const recipeInstructionsArray = parseInstructions(recipeInstructions);
           if (recipeInstructionsArray) {
             linkData.recipeInstructions = _.uniq(

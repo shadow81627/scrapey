@@ -1,31 +1,27 @@
-import { isPlainObject } from 'is-plain-object';
-
 function defaultSortFn(a: string, b: string) {
   return a.localeCompare(b);
 }
 
 function deepSort(src: any, comparator = defaultSortFn): any {
-  let out: { [x: string]: any };
+  const data = JSON.parse(JSON.stringify(src));
 
-  if (Array.isArray(src)) {
-    return src.map(function (item) {
-      return deepSort(item, comparator);
-    });
+  if (typeof data !== 'object' || !data) {
+    return data;
   }
 
-  if (isPlainObject(src)) {
-    out = {};
-
-    Object.keys(src)
-      .sort(comparator)
-      .forEach(function (key) {
-        out[key] = deepSort(src[key], comparator);
-      });
-
-    return out;
+  if (Array.isArray(data)) {
+    return data.map((value) => deepSort(value, comparator));
   }
 
-  return src;
+  return Object.keys(data)
+    .sort(comparator)
+    .reduce((o, k) => ({ ...o, [k]: deepSort(data[k], comparator) }), {});
 }
+
+/**
+ * inspired by:
+ * https://stackoverflow.com/questions/35811799/javascript-recursively-order-object-and-nested-objects-as-well-as-arrays
+ * https://github.com/IndigoUnited/js-deep-sort-object/blob/master/index.js
+ */
 
 export default deepSort;
