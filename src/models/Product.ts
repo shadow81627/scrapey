@@ -2,7 +2,7 @@ import Offers from './Offers';
 import Thing from './Thing';
 
 export default class Product extends Thing {
-  '@type'? = 'Product';
+  '@type' = 'Product';
   offers?: Offers;
 
   constructor(data: Product) {

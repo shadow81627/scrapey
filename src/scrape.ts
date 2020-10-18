@@ -6,10 +6,13 @@ import sortobject from './utils/deepSort';
 import _ from 'lodash';
 import renameKeys from './utils/renameKeys';
 import getHtml from './utils/getHtml';
+import Thing from './models/Thing';
+import Organization from './models/Organization';
+import ImageObject from './models/ImageObject';
 
 const linkDataTypes = ['Product', 'Recipe', 'VideoObject'];
 
-async function scrape(url: string) {
+async function scrape(url: string): Promise<undefined | Thing> {
   try {
     // fetch browser rendered html
     const html = await getHtml({ url });
@@ -31,7 +34,7 @@ async function scrape(url: string) {
         parsedData['@graph'] &&
         !linkDataTypes.includes(_.upperFirst(parsedData['@type']))
           ? _.find(parsedData['@graph'], { '@type': 'Recipe' })
-          : parsedData;
+          : (parsedData as Thing);
 
       if (
         linkData &&
@@ -69,12 +72,13 @@ async function scrape(url: string) {
           }
 
           if (url.startsWith('https://www.connoisseurusveg.com/')) {
-            linkData.image = {
+            const image = {
               '@type': 'ImageObject',
               height: $('meta[property="og:image:width"]').attr('content'),
               url: $('meta[property="og:image"]').attr('content'),
               width: $('meta[property="og:image:height"]').attr('content'),
             };
+            linkData.image = image;
           }
         }
         if (type === 'Product') {
@@ -177,10 +181,6 @@ async function scrape(url: string) {
           organizations.push({
             name: linkData.brand,
           });
-        }
-
-        interface Organization {
-          name: string;
         }
 
         if (organizations) {

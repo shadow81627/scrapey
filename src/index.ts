@@ -12,12 +12,13 @@ import deepSort from './utils/deepSort';
 import getFiles from './utils/getFiles';
 import Thing from './models/Thing';
 import formatString from './utils/formatString';
-import HowToStep from './models/HowToStep';
-import HowToSection from './models/HowToSection';
 import Offer from './models/Offer';
 import Product from './models/Product';
 import Recipe from './models/Recipe';
 import parseInstructions from './utils/parseInstructions';
+import formatIngredient from './utils/formatIngredient';
+import fromatInstructions from './utils/fromatInstructions';
+import parseDuration from './utils/parseDuration';
 
 const argv = yargs
   .command('scrape', 'Crawl urls with browser', {})
@@ -52,9 +53,14 @@ const urls = [
   // ['https://www.connoisseurusveg.com/vegan-ribs/']
   // ['https://shop.coles.com.au/a/sunnybank-hills/product/pukka-tea-detox'],
   // ['https://bakeplaysmile.com/best-banana-bread/'],
-  [
-    'https://shop.coles.com.au/a/sunnybank-hills/product/coles-natures-kitchen-lentil-spag-bolognese',
-  ],
+  // [
+  //   'https://shop.coles.com.au/a/sunnybank-hills/product/coles-natures-kitchen-lentil-spag-bolognese',
+  // ],
+  ['https://tasty.co/recipe/kale-sweet-potato-salad'],
+  ['https://tasty.co/recipe/mushroom-lentil-burger-fries'],
+  ['https://tasty.co/recipe/sofritas-burrito-bowl'],
+  ['https://tasty.co/recipe/chickpea-sweet-potato-stew'],
+  ['https://tasty.co/recipe/mediterranean-flatbread'],
 ];
 
 const urlBlacklist = [
@@ -62,75 +68,6 @@ const urlBlacklist = [
 ];
 
 const fileUrlMap: Map<string, string> = new Map();
-
-function formatIngredient(
-  ingredient: { quantity: string | number; ingredient: string } | string,
-) {
-  // turn objects into strings
-  if (
-    typeof ingredient === 'object' &&
-    ingredient.quantity &&
-    ingredient.ingredient
-  ) {
-    return formatString(
-      `${
-        ingredient.quantity && ingredient.quantity !== 'N/A'
-          ? ingredient.quantity
-          : ''
-      } ${ingredient.ingredient}`,
-    );
-  } else {
-    return formatString(String(ingredient));
-  }
-}
-
-function fromatInstructions(
-  instructions: Array<HowToStep | string | HowToSection>,
-) {
-  return (
-    instructions
-      // ensure instruction.text is a string
-      .map(
-        (instruction) =>
-          new HowToStep(
-            !instruction || typeof instruction === 'string'
-              ? { text: instruction || '' }
-              : instruction,
-          ),
-      )
-      // add type
-      .map((instruction) => ({ ...instruction, '@type': 'HowToStep' }))
-      .map((instruction) => ({
-        ...instruction,
-        text: formatString(instruction.text),
-      }))
-      // rename stepImageUrl
-      // TODO: check iamge is public
-      .map((instruction) => ({
-        ...instruction,
-        image: instruction.image || instruction.stepImageUrl,
-        stepImageUrl: undefined,
-        url: undefined,
-        name: undefined,
-      }))
-      // remove empty
-      .filter(({ text }) => Boolean(text))
-      // ensure ends with punctuation
-      .map((instruction) => ({
-        ...instruction,
-        text: instruction.text,
-        // .replace(/([^.!?])$/, '$1.')
-        // remove whitespace before punctuation / non-word characters
-        // .replace(/\s+(\W)/g, '$1'),
-      }))
-  );
-}
-
-function parseDuration(duration: string) {
-  return `PT${((duration || '').match(/(\d+)/g) || [''])[0]}${
-    (duration || '').search('mins') ? 'M' : 'H'
-  }`;
-}
 
 /**
  * Main top level async/await
@@ -169,7 +106,7 @@ function parseDuration(duration: string) {
       for (const url of chunk) {
         const currentIndex = `${index + 1}`.padStart(`${total}`.length, '0');
         console.log(`${currentIndex}/${total}`, url);
-        const linkData: Thing = await scrape(url);
+        const linkData = await scrape(url);
         if (linkData) {
           chunkData.push(linkData);
         }

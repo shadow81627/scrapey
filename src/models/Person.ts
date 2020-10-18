@@ -1,9 +1,10 @@
-export default class Person {
-  '@type' = 'Person';
-  name: string;
+import Thing from './Thing';
 
-  constructor({ name, ...data }: Person) {
+export default class Person extends Thing {
+  '@type' = 'Person';
+
+  constructor({ ...data }: Person) {
+    super(data);
     Object.assign(this, data);
-    this.name = name;
   }
 }
