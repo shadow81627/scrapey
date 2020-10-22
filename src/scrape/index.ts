@@ -2,11 +2,11 @@ import fs from 'fs';
 import cheerio from 'cheerio';
 import slugify from 'slugify';
 import he from 'he';
-import sortobject from './utils/deepSort';
+import sortobject from '../utils/deepSort';
 import _ from 'lodash';
-import renameKeys from './utils/renameKeys';
-import getHtml from './utils/getHtml';
-import Thing from './models/Thing';
+import renameKeys from '../utils/renameKeys';
+import getHtml from '../utils/getHtml';
+import Thing from '../models/Thing';
 
 const linkDataTypes = ['Product', 'Recipe', 'VideoObject'];
 
