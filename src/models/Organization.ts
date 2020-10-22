@@ -1,7 +1,7 @@
 import Thing from './Thing';
 
 export default class Organization extends Thing {
-  '@type': 'Organization';
+  '@type' = 'Organization';
 
   constructor({ ...data }: Organization) {
     super(data);

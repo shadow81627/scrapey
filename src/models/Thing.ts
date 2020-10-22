@@ -5,8 +5,8 @@ export default class Thing {
   name: string;
   additionalProperty?: Array<any>;
   sameAs?: Array<string>;
-  createdAt: Date = new Date();
-  updatedAt: Date = new Date();
+  createdAt?: Date = new Date();
+  updatedAt?: Date = new Date();
 
   constructor({ name, ...data }: Thing) {
     Object.assign(this, data);

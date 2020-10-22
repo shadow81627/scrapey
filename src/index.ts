@@ -19,6 +19,7 @@ import parseInstructions from './utils/parseInstructions';
 import formatIngredient from './utils/formatIngredient';
 import fromatInstructions from './utils/fromatInstructions';
 import parseDuration from './utils/parseDuration';
+import Organization from './models/Organization';
 
 const argv = yargs
   .command('scrape', 'Crawl urls with browser', {})
@@ -50,17 +51,9 @@ const argv = yargs
  */
 
 const urls = [
-  // ['https://www.connoisseurusveg.com/vegan-ribs/']
-  // ['https://shop.coles.com.au/a/sunnybank-hills/product/pukka-tea-detox'],
-  // ['https://bakeplaysmile.com/best-banana-bread/'],
-  // [
-  //   'https://shop.coles.com.au/a/sunnybank-hills/product/coles-natures-kitchen-lentil-spag-bolognese',
-  // ],
-  ['https://tasty.co/recipe/kale-sweet-potato-salad'],
-  ['https://tasty.co/recipe/mushroom-lentil-burger-fries'],
-  ['https://tasty.co/recipe/sofritas-burrito-bowl'],
-  ['https://tasty.co/recipe/chickpea-sweet-potato-stew'],
-  ['https://tasty.co/recipe/mediterranean-flatbread'],
+  [
+    'https://www.woolworths.com.au/shop/productdetails/200695/sanitarium-weet-bix-breakfast-cereal',
+  ],
 ];
 
 const urlBlacklist = [
@@ -313,6 +306,12 @@ const fileUrlMap: Map<string, string> = new Map();
         // }
       }
 
+      const organizations: Organization[] = Object.values(
+        _.pickBy(linkData, (i: any) => {
+          return i && typeof i === 'object' && i['@type'] === 'Organization';
+        }),
+      );
+
       if (linkData instanceof Product) {
         // dedup and print offers to offers collection
         if (linkData.offers && linkData.offers.offers) {
@@ -362,6 +361,42 @@ const fileUrlMap: Map<string, string> = new Map();
             );
           });
         }
+
+        if (linkData.brand && typeof linkData.brand !== 'object') {
+          organizations.push(
+            new Organization({
+              '@type': 'Organization',
+              name: linkData.brand,
+            }),
+          );
+        }
+      }
+
+      if (organizations) {
+        organizations.map((organization: Organization) => {
+          const { name } = organization;
+          if (name) {
+            const folder = `content/organizations/`;
+            fs.mkdirSync(folder, { recursive: true });
+            fs.writeFileSync(
+              `${folder}/${slugify(name, {
+                lower: true,
+                strict: true,
+              })}.json`,
+              JSON.stringify(
+                deepSort({
+                  ...organization,
+                  name: name.split(' ').map(_.capitalize).join(' '),
+                  '@type': 'Organization',
+                  '@id': undefined,
+                  '@context': undefined,
+                }),
+                undefined,
+                2,
+              ) + '\n',
+            );
+          }
+        });
       }
 
       // linkData.name = linkData.name || linkData.title;

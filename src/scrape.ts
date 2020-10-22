@@ -7,8 +7,6 @@ import _ from 'lodash';
 import renameKeys from './utils/renameKeys';
 import getHtml from './utils/getHtml';
 import Thing from './models/Thing';
-import Organization from './models/Organization';
-import ImageObject from './models/ImageObject';
 
 const linkDataTypes = ['Product', 'Recipe', 'VideoObject'];
 
@@ -170,44 +168,6 @@ async function scrape(url: string): Promise<undefined | Thing> {
           } else {
             linkData.offers = undefined;
           }
-        }
-
-        const organizations = _.filter(
-          linkData,
-          (i: any) => i && i['@type'] === 'Organization',
-        );
-
-        if (linkData.brand && typeof linkData.brand !== 'object') {
-          organizations.push({
-            name: linkData.brand,
-          });
-        }
-
-        if (organizations) {
-          organizations.map((organization: Organization) => {
-            const { name } = organization;
-            if (name) {
-              const folder = `content/organizations/`;
-              fs.mkdirSync(folder, { recursive: true });
-              fs.writeFileSync(
-                `${folder}/${slugify(name, {
-                  lower: true,
-                  strict: true,
-                })}.json`,
-                JSON.stringify(
-                  sortobject({
-                    ...organization,
-                    name: name.split(' ').map(_.capitalize).join(' '),
-                    '@type': 'Organization',
-                    '@id': undefined,
-                    '@context': undefined,
-                  }),
-                  undefined,
-                  2,
-                ) + '\n',
-              );
-            }
-          });
         }
 
         const data = sortobject({

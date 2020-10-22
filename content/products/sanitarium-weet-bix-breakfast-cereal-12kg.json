@@ -1,0 +1,59 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "1490kJ",
+      "carbohydrateContent": "67.0g",
+      "fatContent": "1.3g",
+      "name": "nutrition",
+      "proteinContent": "12.4g",
+      "saturatedFatContent": "0.3g",
+      "servingSize": "100 g",
+      "sodiumContent": "270mg",
+      "sugarContent": "3.3g"
+    }
+  ],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "sanitarium"
+  },
+  "createdAt": "2020-10-22T00:37:15.785Z",
+  "description": "Sanitarium Weet-Bix Breakfast Cereal Value Pack contains low sugar, like it's always been. Weet-Bix has always been this good... High in vitamins B1, B2 & B3 for energy. High in iron to help fight tiredness and fatigue.  Golden goodness from Aussie Farms to Aussie KidsFor 90 years we've made Weet-Bix right here in Australia and because it's made from 97% wholegrains, only the best ingredients will do. That's why we source crisp golden wheat from Farmers like the Woods Family in sun-drenched Goondiwindi, Queensland. They say the key to creating top quality wheat is about harvesting the grain when the moisture content is just right. We think generations of Australian Farming experience and a passion for quality plays a big part too. But we both agree. It's this wheat that makes Weet-Bix an Aussie favourite. Made simply and low in sugar, the natural goodness of wholegrains shines through. For Aussie kids, only the best will do. Enjoy!",
+  "gtin13": "9300652010794",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/200695.jpg",
+  "name": "Sanitarium Weet-bix Breakfast Cereal 1.2kg",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 5,
+    "lowPrice": 5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2020-10-22T00:37:15.783Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 5,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://www.woolworths.com.au/shop/productdetails/200695/sanitarium-weet-bix-breakfast-cereal"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://www.woolworths.com.au/shop/productdetails/200695/sanitarium-weet-bix-breakfast-cereal"
+  ],
+  "sku": "200695",
+  "updatedAt": "2020-10-22T00:37:15.783Z"
+}
