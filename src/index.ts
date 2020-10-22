@@ -8,7 +8,6 @@ import yargs from 'yargs';
 import pluralize from 'pluralize';
 import { Duration, DateTime } from 'luxon';
 import scrape from './scrape';
-import deepSort from './utils/deepSort';
 import getFiles from './utils/getFiles';
 import Thing from './models/Thing';
 import formatString from './utils/formatString';
@@ -20,6 +19,7 @@ import formatIngredient from './utils/formatIngredient';
 import fromatInstructions from './utils/fromatInstructions';
 import parseDuration from './utils/parseDuration';
 import Organization from './models/Organization';
+import ContentService from './content.service';
 
 const argv = yargs
   .command('scrape', 'Crawl urls with browser', {})
@@ -50,10 +50,10 @@ const argv = yargs
  * example: <a href="https://www.budgetbytes.com/black-bean-avocado-enchiladas/"],>[
  */
 
-const urls = [
-  [
-    'https://www.woolworths.com.au/shop/productdetails/200695/sanitarium-weet-bix-breakfast-cereal',
-  ],
+const urls: Array<Array<string>> = [
+  // [
+  //   'https://www.woolworths.com.au/shop/productdetails/200695/sanitarium-weet-bix-breakfast-cereal',
+  // ],
 ];
 
 const urlBlacklist = [
@@ -79,9 +79,9 @@ const fileUrlMap: Map<string, string> = new Map();
       (!argv.scrape ||
         !content.updatedAt ||
         DateTime.fromISO(content.updatedAt) <
-          DateTime.local().minus({
-            days: content['@type'] === 'Recipe' ? 30 : 1,
-          }))
+        DateTime.local().minus({
+          days: content['@type'] === 'Recipe' ? 30 : 1,
+        }))
     ) {
       urls.push(content.sameAs);
       for (const url of content.sameAs) {
@@ -169,10 +169,10 @@ const fileUrlMap: Map<string, string> = new Map();
       linkData.name = formatString(linkData.name);
       const slug = path.basename(
         filename ||
-          slugify(linkData.name, {
-            lower: true,
-            strict: true,
-          }),
+        slugify(linkData.name, {
+          lower: true,
+          strict: true,
+        }),
         '.json',
       );
 
@@ -193,23 +193,13 @@ const fileUrlMap: Map<string, string> = new Map();
       }
 
       if (linkData instanceof Recipe) {
-        if (
-          linkData.prepTime &&
-          !Duration.fromISO(linkData.prepTime).toJSON()
-        ) {
-          linkData.prepTime = parseDuration(linkData.prepTime);
-        }
-        if (
-          linkData.totalTime &&
-          !Duration.fromISO(linkData.totalTime).toJSON()
-        ) {
-          linkData.totalTime = parseDuration(linkData.totalTime);
-        }
-        if (
-          linkData.cookTime &&
-          !Duration.fromISO(linkData.cookTime).toJSON()
-        ) {
-          linkData.cookTime = parseDuration(linkData.cookTime);
+        const durationProperties = new Map(Object.entries(_.pick(linkData, ['prepTime', 'totalTime', 'cookTime'])).filter(Boolean)) as Map<keyof Pick<Recipe, 'prepTime' | 'totalTime' | 'cookTime'>, string>
+        for (const [key, value] of durationProperties) {
+          if (
+            !Duration.fromISO(value).toJSON()
+          ) {
+            linkData[key] = parseDuration(value);
+          }
         }
 
         const recipeIngredientChunkData = _.find(
@@ -223,10 +213,10 @@ const fileUrlMap: Map<string, string> = new Map();
           const recipeIngredient = recipeIngredientChunkData.recipeIngredient;
           const recipeIngredientArray =
             recipeIngredient &&
-            recipeIngredient.length > 0 &&
-            typeof recipeIngredient[0] === 'object' &&
-            recipeIngredient[0].group &&
-            recipeIngredient[0].group.ingredients
+              recipeIngredient.length > 0 &&
+              typeof recipeIngredient[0] === 'object' &&
+              recipeIngredient[0].group &&
+              recipeIngredient[0].group.ingredients
               ? recipeIngredient[0].group.ingredients
               : recipeIngredient;
 
@@ -254,17 +244,18 @@ const fileUrlMap: Map<string, string> = new Map();
         }
 
         if (linkData.author && linkData.author['@type'] === 'Person') {
-          const slug = slugify(linkData.author.name, {
+          const personSlug = slugify(linkData.author.name, {
             lower: true,
             strict: true,
           });
-          const personPath = `content/people/${slug}.json`;
+          const folder = `content/people`;
+          const personPath = `${folder}/${personSlug}.json`;
           const oldPerson = fs.existsSync(personPath)
             ? JSON.parse(
-                await readFile(personPath, {
-                  encoding: 'utf8',
-                }),
-              )
+              await readFile(personPath, {
+                encoding: 'utf8',
+              }),
+            )
             : {};
           const author = { ...oldPerson, ...linkData.author };
           const sameAs = _.uniq([
@@ -274,20 +265,14 @@ const fileUrlMap: Map<string, string> = new Map();
           if (argv.scrape) {
             author.updatedAt = new Date();
           }
-          await writeFile(
-            personPath,
-            JSON.stringify(
-              deepSort({
-                ...author,
-                sameAs,
-                '@type': 'Person',
-                '@id': undefined,
-                '@context': undefined,
-              }),
-              undefined,
-              2,
-            ) + '\n',
-          );
+          const data = {
+            ...author,
+            sameAs,
+            '@type': 'Person',
+            '@id': undefined,
+            '@context': undefined,
+          };
+          await ContentService.save({ data, slug: personSlug, folder });
         }
 
         // if (linkData.youtubeUrl) {
@@ -333,69 +318,61 @@ const fileUrlMap: Map<string, string> = new Map();
               strict: true,
             });
             const folder = `content/offers/${slug}`;
-            const offerPath = `${folder}/${offerSlug}.json`;
-            await mkdir(folder, { recursive: true });
-            const oldOffer = fs.existsSync(offerPath)
-              ? JSON.parse(
-                  await readFile(offerPath, {
-                    encoding: 'utf8',
-                  }),
-                )
-              : {};
-            const offer = {
+            const oldOffer =
+              (await ContentService.load({ folder, slug: offerSlug })) ?? {};
+            const offer = new Offer({
               ...oldOffer,
               ...newOffer,
+              name: `${newOffer.offeredBy} ${linkData.name}`,
               '@type': 'Offer',
               '@id': undefined,
               '@context': undefined,
-            };
-            if (!offer.createdAt) {
-              offer.createdAt = new Date();
-            }
+            });
             if (argv.scrape || !offer.updatedAt) {
               offer.updatedAt = new Date();
             }
-            await writeFile(
-              offerPath,
-              JSON.stringify(deepSort(offer), undefined, 2) + '\n',
-            );
+            await ContentService.save({ data: offer, slug: offerSlug, folder });
           });
         }
 
         if (linkData.brand && typeof linkData.brand !== 'object') {
-          organizations.push(
-            new Organization({
-              '@type': 'Organization',
-              name: linkData.brand,
-            }),
-          );
+          organizations.push({
+            '@type': 'Organization',
+            name: linkData.brand,
+          });
         }
       }
 
       if (organizations) {
-        organizations.map((organization: Organization) => {
+        _.flatMap(
+          _.partition(organizations, 'name'),
+          (orgs) =>
+            merge.all(orgs, { arrayMerge: overwriteMerge }) as Organization,
+        ).filter(({ name }) => name).map(async (organization: Organization) => {
           const { name } = organization;
-          if (name) {
-            const folder = `content/organizations/`;
-            fs.mkdirSync(folder, { recursive: true });
-            fs.writeFileSync(
-              `${folder}/${slugify(name, {
-                lower: true,
-                strict: true,
-              })}.json`,
-              JSON.stringify(
-                deepSort({
-                  ...organization,
-                  name: name.split(' ').map(_.capitalize).join(' '),
-                  '@type': 'Organization',
-                  '@id': undefined,
-                  '@context': undefined,
-                }),
-                undefined,
-                2,
-              ) + '\n',
-            );
+          const orgSlug = `${slugify(name, {
+            lower: true,
+            strict: true,
+          })}`;
+          const folder = `content/organizations/`;
+          const oldData =
+            (await ContentService.load({ folder, slug: orgSlug })) ?? {};
+          const data = new Organization({
+            ...oldData,
+            ...organization,
+            name: name.split(' ').map(_.capitalize).join(' '),
+            '@type': 'Organization',
+            '@id': undefined,
+            '@context': undefined,
+          });
+          if (argv.scrape || !data.updatedAt) {
+            data.updatedAt = new Date();
           }
+          await ContentService.save({
+            data,
+            slug: orgSlug,
+            folder,
+          });
         });
       }
 
@@ -406,11 +383,7 @@ const fileUrlMap: Map<string, string> = new Map();
       }
 
       const folder = `content/${pluralize(type).toLocaleLowerCase()}`;
-      await mkdir(folder, { recursive: true });
-      await writeFile(
-        `${folder}/${slug}.json`,
-        JSON.stringify(deepSort(linkData), undefined, 2) + '\n',
-      );
+      await ContentService.save({ data: linkData, slug, folder });
     }
   }
 })();

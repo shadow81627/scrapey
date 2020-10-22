@@ -1,6 +1,8 @@
 import formatString from '../utils/formatString';
 
 export default class Thing {
+  '@id'? = undefined;
+  '@context'? = undefined;
   '@type' = 'Thing';
   name: string;
   additionalProperty?: Array<any>;
