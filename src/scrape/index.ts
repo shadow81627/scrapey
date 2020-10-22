@@ -1,8 +1,7 @@
-import fs from 'fs';
 import cheerio from 'cheerio';
 import slugify from 'slugify';
 import he from 'he';
-import sortobject from '../utils/deepSort';
+import deepSort from '../utils/deepSort';
 import _ from 'lodash';
 import renameKeys from '../utils/renameKeys';
 import getHtml from '../utils/getHtml';
@@ -29,8 +28,8 @@ async function scrape(url: string): Promise<undefined | Thing> {
       // check graph for recipe
       const linkData =
         parsedData &&
-        parsedData['@graph'] &&
-        !linkDataTypes.includes(_.upperFirst(parsedData['@type']))
+          parsedData['@graph'] &&
+          !linkDataTypes.includes(_.upperFirst(parsedData['@type']))
           ? _.find(parsedData['@graph'], { '@type': 'Recipe' })
           : (parsedData as Thing);
 
@@ -170,7 +169,7 @@ async function scrape(url: string): Promise<undefined | Thing> {
           }
         }
 
-        const data = sortobject({
+        const data = deepSort({
           ...linkData,
           sameAs,
           mainEntityOfPage: undefined,
