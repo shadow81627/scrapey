@@ -1,4 +1,5 @@
-const { readFile, writeFile, mkdir } = require('fs').promises;
+import { promises as fsPromises } from 'fs';
+const { readFile, mkdir } = fsPromises;
 import fs from 'fs';
 import path from 'path';
 import _ from 'lodash';
@@ -56,10 +57,6 @@ const urls: Array<Array<string>> = [
   // ],
 ];
 
-const urlBlacklist = [
-  'https://www.reddit.com/r/4chan/comments/bk8hu5/anon_fools_an_nbc_roastie_with_his_salad_lasagna/',
-];
-
 const fileUrlMap: Map<string, string> = new Map();
 
 /**
@@ -75,7 +72,6 @@ const fileUrlMap: Map<string, string> = new Map();
     if (
       !argv['only-new'] &&
       content.sameAs &&
-      !content.sameAs.some((item: string) => urlBlacklist.includes(item)) &&
       (!argv.scrape ||
         !content.updatedAt ||
         DateTime.fromISO(content.updatedAt) <
@@ -109,12 +105,15 @@ const fileUrlMap: Map<string, string> = new Map();
     const headChunk = _.head(chunk);
 
     if (headChunk && fileUrlMap.get(headChunk)) {
-      const file = JSON.parse(
-        await readFile(fileUrlMap.get(headChunk), {
-          encoding: 'utf8',
-        }),
-      );
-      chunkData.push(file);
+      const filename = fileUrlMap.get(headChunk)
+      if (filename) {
+        const file = JSON.parse(
+          await readFile(filename, {
+            encoding: 'utf8',
+          }),
+        );
+        chunkData.push(file);
+      }
     }
     // make sure existing file is first so all other data gets merged onto it.
     _.reverse(chunkData);
@@ -152,9 +151,8 @@ const fileUrlMap: Map<string, string> = new Map();
     });
 
     const overwriteMerge = (
-      destinationArray: Array<any>,
-      sourceArray: Array<any>,
-      options: any,
+      destinationArray: Array<Thing>,
+      sourceArray: Array<Thing>,
     ) => _.unionWith(destinationArray, sourceArray, _.isEqual);
     const mergeData = merge.all(chunkData, {
       arrayMerge: overwriteMerge,
@@ -211,14 +209,7 @@ const fileUrlMap: Map<string, string> = new Map();
           recipeIngredientChunkData.recipeIngredient
         ) {
           const recipeIngredient = recipeIngredientChunkData.recipeIngredient;
-          const recipeIngredientArray =
-            recipeIngredient &&
-              recipeIngredient.length > 0 &&
-              typeof recipeIngredient[0] === 'object' &&
-              recipeIngredient[0].group &&
-              recipeIngredient[0].group.ingredients
-              ? recipeIngredient[0].group.ingredients
-              : recipeIngredient;
+          const recipeIngredientArray = recipeIngredient || [];
 
           linkData.recipeIngredient = _.uniq(
             _.map(recipeIngredientArray.map(formatIngredient), _.trim),
@@ -291,11 +282,14 @@ const fileUrlMap: Map<string, string> = new Map();
         // }
       }
 
-      const organizations: Organization[] = Object.values(
-        _.pickBy(linkData, (i: any) => {
-          return i && typeof i === 'object' && i['@type'] === 'Organization';
+      const organizations = Object.values(
+        _.pickBy(linkData, (i: unknown) => {
+          if (i && typeof i === 'object' && i.hasOwnProperty('@type')) {
+            const org = i as Thing;
+            return org['@type'] === 'Organization';
+          }
         }),
-      );
+      ) as Organization[];
 
       if (linkData instanceof Product) {
         // dedup and print offers to offers collection

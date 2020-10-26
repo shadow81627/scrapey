@@ -2,7 +2,7 @@ function defaultSortFn(a: string, b: string) {
   return a.localeCompare(b);
 }
 
-function deepSort(src: any, comparator = defaultSortFn): any {
+function deepSort(src: unknown, comparator = defaultSortFn): unknown {
   const data = JSON.parse(JSON.stringify(src));
 
   if (typeof data !== 'object' || !data) {

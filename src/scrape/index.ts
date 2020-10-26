@@ -17,7 +17,7 @@ async function scrape(url: string): Promise<undefined | Thing> {
     // parse html and extract data to json file
     const $ = cheerio.load(html, { decodeEntities: true });
     const elements = $('script[type="application/ld+json"]')
-      .map((_: number, e: any) => $(e).html())
+      .map((_, e) => $(e).html())
       .get();
 
     for (const element of elements) {
@@ -82,7 +82,7 @@ async function scrape(url: string): Promise<undefined | Thing> {
           if (url.includes('woolworths')) {
             const price = $('.price').text();
             const nutritionScraped: Record<string, string> = {};
-            $('.nutrition-row').each(function (_: number, rowElement: any) {
+            $('.nutrition-row').each(function (_, rowElement) {
               const key = slugify(
                 $($('.nutrition-column', rowElement).get(0)).text(),
                 { lower: true, strict: true, replacement: '_' },
@@ -179,7 +179,7 @@ async function scrape(url: string): Promise<undefined | Thing> {
           '@id': undefined,
           '@context': undefined,
           updatedAt: new Date(),
-        });
+        }) as Thing;
         return data;
       }
     }

@@ -1,7 +1,7 @@
 const renameKeys = (
   keysMap: Record<string, string>,
   obj: Record<string, string>,
-) =>
+): Record<string, string> =>
   Object.keys(obj).reduce(
     (acc, key) => ({
       ...acc,

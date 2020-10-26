@@ -1,5 +1,6 @@
-const { resolve } = require('path');
-const { readdir } = require('fs').promises;
+import { resolve } from 'path'
+import { promises as fsPromises } from 'fs';
+const { readdir } = fsPromises;
 
 /**
  * https://stackoverflow.com/questions/5827612/node-js-fs-readdir-recursive-directory-search

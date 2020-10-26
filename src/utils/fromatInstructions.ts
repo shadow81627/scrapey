@@ -4,7 +4,7 @@ import formatString from './formatString';
 
 export default function fromatInstructions(
   instructions: Array<HowToStep | string | HowToSection>,
-) {
+): HowToStep[] {
   return (
     instructions
       // ensure instruction.text is a string

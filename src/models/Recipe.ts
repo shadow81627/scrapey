@@ -11,12 +11,12 @@ export default class Recipe extends Thing {
   prepTime?: string;
   totalTime?: string;
   cookTime?: string;
-  recipeIngredient?: Array<any>;
+  recipeIngredient?: Array<string>;
   recipeInstructions?: Array<string | HowToSection | HowToStep> = [];
   recipeYield?: string | number;
   recipeCuisine?: string;
   author?: Person;
-  video?: {};
+  video?: Record<string, unknown>;
 
   constructor({ recipeInstructions = [], ...data }: Recipe) {
     super(data);

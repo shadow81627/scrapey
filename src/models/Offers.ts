@@ -3,7 +3,7 @@ import Thing from './Thing';
 
 export default class Offers extends Thing {
   '@type': 'AggregateOffer';
-  priceCurrency: string = 'USD';
+  priceCurrency = 'USD';
   highPrice?: number;
   lowPrice?: number;
   offerCount?: number;

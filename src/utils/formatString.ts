@@ -3,7 +3,7 @@ import _ from 'lodash';
 import { normalizeWhiteSpaces } from 'normalize-text';
 import pipe from './pipe';
 
-function formatString(value: string) {
+function formatString(value: string): string {
   const removeDuplicateSpaces = (str: string) => str.replace(/\s+/g, ' ');
   const removeHtml = (str: string) => str.replace(/(<([^>]+)>)/gi, '');
   const replaceFractionSlash = (str: string) =>

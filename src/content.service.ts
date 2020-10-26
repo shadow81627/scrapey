@@ -1,9 +1,10 @@
-const { readFile, writeFile, mkdir } = require('fs').promises;
+import { promises as fsPromises, } from 'fs';
+const { readFile, mkdir, writeFile } = fsPromises;
 import Thing from './models/Thing';
 import deepSort from './utils/deepSort';
 
 export default class ContentService {
-  static async load({ slug, folder }: { slug: string; folder: string }) {
+  static async load({ slug, folder }: { slug: string; folder: string }): Promise<Thing | undefined> {
     try {
       return JSON.parse(await readFile(`${folder}/${slug}.json`, {
         encoding: 'utf8',
