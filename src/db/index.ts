@@ -43,18 +43,21 @@ createConnection().then(async connection => {
             if (type === 'Product') {
                 const { gtin13, brand } = content;
                 if (gtin13 || brand) {
-                    const product = (await connection.manager.findOne(Product, { where: [{ gtin13 }] })) ?? new Product();
+                    const product = (await connection.manager.findOne(Product, { where: [{ gtin13 }, { thing }] })) ?? new Product();
                     product.gtin13 = gtin13;
                     product.thing = thing
 
                     if (typeof brand === "string") {
-                        // const slug = `${slugify(brand, {
-                        //     lower: true,
-                        //     strict: true,
-                        // })}`
-                        const org = (await connection.manager.findOne(Organization, { thing })) ?? new Organization();
-                        // org.name = brand.split(' ').map(_.capitalize).join(' ');
-                        // org.slug = slug;
+                        const slug = `${slugify(brand, {
+                            lower: true,
+                            strict: true,
+                        })}`
+                        const orgThing = (await connection.manager.findOne(Thing, { slug })) ?? new Thing();
+                        const org = (await connection.manager.findOne(Organization, { where: [{ thing: orgThing }] })) ?? new Organization();
+                        orgThing.name = brand.split(' ').map(_.capitalize).join(' ');
+                        orgThing.slug = slug;
+                        org.thing = orgThing;
+                        await connection.manager.save(orgThing);
                         await connection.manager.save(org);
                         product.brand = org
                     }
@@ -62,16 +65,19 @@ createConnection().then(async connection => {
                 }
             }
         }
-        // if (type === 'Organization') {
-        //     const slug = `${slugify(name, {
-        //         lower: true,
-        //         strict: true,
-        //     })}`
-        //     const org = (await connection.manager.findOne(Organization, { slug })) ?? new Organization();
-        //     org.name = name.split(' ').map(_.capitalize).join(' ');
-        //     org.slug = slug;
-        //     await connection.manager.save(org);
-        // }
+        if (type === 'Organization') {
+            const slug = `${slugify(name, {
+                lower: true,
+                strict: true,
+            })}`
+            const orgThing = (await connection.manager.findOne(Thing, { slug })) ?? new Thing();
+            const org = (await connection.manager.findOne(Organization, { where: [{ thing: orgThing }] })) ?? new Organization();
+            orgThing.name = name.split(' ').map(_.capitalize).join(' ');
+            orgThing.slug = slug;
+            org.thing = orgThing;
+            await connection.manager.save(orgThing);
+            await connection.manager.save(org);
+        }
     }
 
 }).catch(error => console.log(error));

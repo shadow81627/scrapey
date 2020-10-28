@@ -1,7 +1,7 @@
 
 
 import { Column, Entity } from "typeorm";
-import { Base } from "../Base";
+import { Base } from "../util/Base";
 // import { Thing } from "./Thing";
 import { Url } from "./Url";
 

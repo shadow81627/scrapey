@@ -1,5 +1,5 @@
 import { Column, Entity, ManyToOne } from "typeorm";
-import { Base } from "../Base";
+import { Base } from "../util/Base";
 import { Url } from "./Url";
 
 

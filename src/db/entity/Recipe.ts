@@ -1,5 +1,5 @@
 import { Column, Entity, JoinColumn, OneToOne } from "typeorm";
-import { Base } from "../Base";
+import { Base } from "../util/Base";
 import { Thing } from "./Thing";
 
 
@@ -16,7 +16,7 @@ export class Recipe extends Base {
   @Column()
   recipeCuisine?: string;
 
-  @OneToOne(() => Thing)
+  @OneToOne(() => Thing, { nullable: false })
   @JoinColumn()
   thing?: Thing;
 

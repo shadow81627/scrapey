@@ -1,5 +1,5 @@
 import { Column, Entity, JoinColumn, ManyToOne, OneToOne } from "typeorm";
-import { Base } from "../Base";
+import { Base } from "../util/Base";
 import { Organization } from "./Organization";
 import { Thing } from "./Thing";
 
@@ -12,7 +12,7 @@ export class Product extends Base {
   @ManyToOne(() => Organization)
   brand?: Organization;
 
-  @OneToOne(() => Thing)
+  @OneToOne(() => Thing, { nullable: false })
   @JoinColumn()
   thing?: Thing;
 }
