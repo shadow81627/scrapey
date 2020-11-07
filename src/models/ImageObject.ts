@@ -1,12 +1,4 @@
-import probe from 'probe-image-size';
-
-interface ImageMeta {
-  height?: number;
-  width?: number;
-  mime?: string;
-}
-
-export default class ImageObject implements ImageMeta {
+export default class ImageObject {
   '@type'?= 'ImageObject';
   url: string;
   height?: number;
@@ -16,10 +8,5 @@ export default class ImageObject implements ImageMeta {
   constructor({ url, ...data }: ImageObject) {
     Object.assign(this, data);
     this.url = url;
-  }
-
-  public static async fetchMeta(url: string): Promise<ImageMeta> {
-    const { width, height, mime } = await probe(url);
-    return { width, height, mime };
   }
 }

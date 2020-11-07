@@ -10,15 +10,16 @@ import slugify from "slugify";
 import _ from "lodash";
 import { Thing } from "./entity/Thing";
 import { Image } from "./entity/Image";
-import ImageObject from "../models/ImageObject";
+import { Person } from "./entity/Person";
 const { readFile } = fsPromises;
+import probe from 'probe-image-size';
 
 createConnection().then(async connection => {
 
     // get list of urls to crawl from content files
     for await (const filename of getFiles('content')) {
         const file = await readFile(filename, { encoding: 'utf8' });
-        const { name, description, sameAs = [], '@type': type, ...content } = JSON.parse(file);
+        const { name, description, sameAs = [], '@type': type, createdAt, updatedAt, ...content } = JSON.parse(file);
 
         const urls = [];
 
@@ -36,21 +37,23 @@ createConnection().then(async connection => {
             const url = new Url({ hostname, pathname, search });
             await connection.manager.save(url);
             if (typeof imageUrl === 'string') {
-                try {
-                    const imageMeta = await ImageObject.fetchMeta(imageUrl);
-                    url.crawledAt = new Date();
-                    const image = (await connection.manager.findOne(Image, { where: [{ url }] })) ?? connection.manager.create(Image, { ...imageMeta, url });
-                    // if (typeof imageObject === "object") {
-                    // // TODO: remove url string from imageObject before merge
-                    //     connection.manager.merge(Image, image, imageObject);
-                    // }
-                    await connection.manager.save(image);
-                    await connection.manager.save(url);
-                } catch (e) {
-                    console.error(e);
-                    const image = (await connection.manager.findOne(Image, { where: [{ url }] })) ?? connection.manager.create(Image, { url });
-                    await connection.manager.save(image);
+                const image = (await connection.manager.findOne(Image, { where: [{ url }] })) ?? connection.manager.create(Image, { url });
+                if (!url.crawledAt) {
+                    try {
+                        const { width, height, mime } = await probe(imageUrl);
+                        connection.manager.merge(Image, image, { width, height, mime });
+                        url.crawledAt = new Date();
+                        // if (typeof imageObject === "object") {
+                        // // TODO: remove url string from imageObject before merge
+                        //     connection.manager.merge(Image, image, imageObject);
+                        // }
+                        await connection.manager.save(image);
+                        await connection.manager.save(url);
+                    } catch (e) {
+                        console.error(e);
+                    }
                 }
+                await connection.manager.save(image);
             }
         }
 
@@ -59,18 +62,14 @@ createConnection().then(async connection => {
                 lower: true,
                 strict: true,
             })}`;
-            const thing = (await connection.manager.findOne(Thing, { where: [{ slug }] })) ?? new Thing();
-            thing.type = type;
-            thing.slug = slug;
-            thing.name = name.split(' ').map(_.capitalize).join(' ');
-            thing.description = description;
-            thing.urls = urls;
+            const thing = (await connection.manager.findOne(Thing, { where: [{ slug }] })) ?? connection.manager.create(Thing, { dated: { createdAt, updatedAt } });
+            connection.manager.merge(Thing, thing, { type, slug, name: name.split(' ').map(_.capitalize).join(' '), description, urls, });
             await connection.manager.save(thing);
 
             if (type === 'Product') {
                 const { gtin13, brand } = content;
                 if (gtin13 || brand) {
-                    const product = (await connection.manager.findOne(Product, { where: [{ gtin13 }, { thing }] })) ?? new Product();
+                    const product = (await connection.manager.findOne(Product, { where: [{ gtin13 }, { thing }] })) ?? connection.manager.create(Product, { dated: { createdAt, updatedAt } });
                     product.gtin13 = gtin13;
                     product.thing = thing
 
@@ -79,8 +78,8 @@ createConnection().then(async connection => {
                             lower: true,
                             strict: true,
                         })}`
-                        const orgThing = (await connection.manager.findOne(Thing, { slug })) ?? new Thing();
-                        const org = (await connection.manager.findOne(Organization, { where: [{ thing: orgThing }] })) ?? new Organization();
+                        const orgThing = (await connection.manager.findOne(Thing, { slug })) ?? connection.manager.create(Thing, { dated: { createdAt, updatedAt } });
+                        const org = (await connection.manager.findOne(Organization, { where: [{ thing: orgThing }] })) ?? connection.manager.create(Organization, { dated: { createdAt, updatedAt } });
                         orgThing.name = brand.split(' ').map(_.capitalize).join(' ');
                         orgThing.slug = slug;
                         org.thing = orgThing;
@@ -91,14 +90,19 @@ createConnection().then(async connection => {
                     await connection.manager.save(product);
                 }
             }
+
+            if (type === 'Person') {
+                const person = (await connection.manager.findOne(Person, { where: [{ thing }] })) ?? connection.manager.create(Person, { thing });
+                await connection.manager.save(person);
+            }
         }
         if (type === 'Organization') {
             const slug = `${slugify(name, {
                 lower: true,
                 strict: true,
             })}`
-            const orgThing = (await connection.manager.findOne(Thing, { slug })) ?? new Thing();
-            const org = (await connection.manager.findOne(Organization, { where: [{ thing: orgThing }] })) ?? new Organization();
+            const orgThing = (await connection.manager.findOne(Thing, { slug })) ?? connection.manager.create(Thing, { dated: { createdAt, updatedAt } });
+            const org = (await connection.manager.findOne(Organization, { where: [{ thing: orgThing }] })) ?? connection.manager.create(Organization, { dated: { createdAt, updatedAt } });
             orgThing.name = name.split(' ').map(_.capitalize).join(' ');
             orgThing.slug = slug;
             org.thing = orgThing;

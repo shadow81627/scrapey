@@ -19,6 +19,7 @@ import parseDuration from '../utils/parseDuration';
 import Organization from '../models/Organization';
 import ContentService from '../content.service';
 import ImageObject from '../models/ImageObject';
+import probe from 'probe-image-size';
 
 interface ProcessLinkDataParams {
   // eslint-disable-next-line @typescript-eslint/no-explicit-any
@@ -123,8 +124,8 @@ export async function processLinkData({ chunkData, chunk, fileUrlMap, argv }: Pr
       const imageUrl = typeof image === "object" && image.url ? image.url : image;
       if (typeof imageUrl === 'string') {
         try {
-          const imageMeta = await ImageObject.fetchMeta(imageUrl);
-          linkData.image = new ImageObject({ url: imageUrl, ...imageMeta });
+          const imageMeta = await probe(imageUrl);
+          linkData.image = new ImageObject(imageMeta);
         } catch (_) { }
       }
     }
