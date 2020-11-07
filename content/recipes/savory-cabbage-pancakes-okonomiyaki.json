@@ -13,12 +13,13 @@
   "createdAt": "2020-10-08T05:45:40.792Z",
   "datePublished": "2016-08-31T16:28:37+00:00",
   "description": "Savory Cabbage Pancakes are a fun and filling way to use up pantry leftovers. Fill them and top them with whatever your heart desires! ",
-  "image": [
-    "https://www.budgetbytes.com/wp-content/uploads/2016/08/Cabbage-Pancake-Okonomiyaki-above-1.jpg",
-    "https://www.budgetbytes.com/wp-content/uploads/2016/08/Cabbage-Pancake-Okonomiyaki-above-1-500x500.jpg",
-    "https://www.budgetbytes.com/wp-content/uploads/2016/08/Cabbage-Pancake-Okonomiyaki-above-1-500x375.jpg",
-    "https://www.budgetbytes.com/wp-content/uploads/2016/08/Cabbage-Pancake-Okonomiyaki-above-1-480x270.jpg"
-  ],
+  "image": {
+    "@type": "ImageObject",
+    "height": 600,
+    "mime": "image/jpeg",
+    "url": "https://www.budgetbytes.com/wp-content/uploads/2016/08/Cabbage-Pancake-Okonomiyaki-above-1.jpg",
+    "width": 800
+  },
   "keywords": "Cabbage Recipes, Recipes for Leftovers",
   "name": "Savory Cabbage Pancakes (Okonomiyaki)",
   "nutrition": {

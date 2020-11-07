@@ -13,12 +13,13 @@
   "createdAt": "2020-10-08T05:25:31.652Z",
   "datePublished": "2011-02-21T20:05:00+00:00",
   "description": "Broccoli shells n' cheese is a classic American dish that goes well along side any meal, or as a hearty side dish. 100% real, 100% homemade.",
-  "image": [
-    "https://www.budgetbytes.com/wp-content/uploads/2011/02/Broccoli-Shells-and-Cheese-above.jpg",
-    "https://www.budgetbytes.com/wp-content/uploads/2011/02/Broccoli-Shells-and-Cheese-above-500x500.jpg",
-    "https://www.budgetbytes.com/wp-content/uploads/2011/02/Broccoli-Shells-and-Cheese-above-500x375.jpg",
-    "https://www.budgetbytes.com/wp-content/uploads/2011/02/Broccoli-Shells-and-Cheese-above-480x270.jpg"
-  ],
+  "image": {
+    "@type": "ImageObject",
+    "height": 600,
+    "mime": "image/jpeg",
+    "url": "https://www.budgetbytes.com/wp-content/uploads/2011/02/Broccoli-Shells-and-Cheese-above.jpg",
+    "width": 800
+  },
   "name": "Broccoli Shells n' Cheese",
   "nutrition": {
     "@type": "NutritionInformation",

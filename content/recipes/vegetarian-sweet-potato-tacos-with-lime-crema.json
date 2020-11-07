@@ -13,12 +13,13 @@
   "createdAt": "2020-10-08T06:00:49.786Z",
   "datePublished": "2015-07-16T11:20:39+00:00",
   "description": "These light and refreshing Sweet Potato Tacos are filled with a simple sweet potato and black bean hash, and topped with a tangy lime crema. ",
-  "image": [
-    "https://www.budgetbytes.com/wp-content/uploads/2015/07/Sweet-Potato-Tacos-H1.jpg",
-    "https://www.budgetbytes.com/wp-content/uploads/2015/07/Sweet-Potato-Tacos-H1-500x500.jpg",
-    "https://www.budgetbytes.com/wp-content/uploads/2015/07/Sweet-Potato-Tacos-H1-500x375.jpg",
-    "https://www.budgetbytes.com/wp-content/uploads/2015/07/Sweet-Potato-Tacos-H1-480x270.jpg"
-  ],
+  "image": {
+    "@type": "ImageObject",
+    "height": 600,
+    "mime": "image/jpeg",
+    "url": "https://www.budgetbytes.com/wp-content/uploads/2015/07/Sweet-Potato-Tacos-H1.jpg",
+    "width": 800
+  },
   "keywords": "bean tacos, Vegetarian tacos",
   "name": "Vegetarian Sweet Potato Tacos with Lime Crema",
   "nutrition": {

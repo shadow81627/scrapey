@@ -12,12 +12,13 @@
   "createdAt": "2020-10-08T05:21:28.613Z",
   "datePublished": "2012-06-23T18:15:00+00:00",
   "description": "This Apple Dijon Kale Salad is tangy, sweet, and crunchy with Granny Smith apples, walnuts, raisins, and a homemade Dijon vinaigrette.",
-  "image": [
-    "https://www.budgetbytes.com/wp-content/uploads/2012/06/Apple-Dijon-Kale-Salad-H1.jpg",
-    "https://www.budgetbytes.com/wp-content/uploads/2012/06/Apple-Dijon-Kale-Salad-H1-500x500.jpg",
-    "https://www.budgetbytes.com/wp-content/uploads/2012/06/Apple-Dijon-Kale-Salad-H1-500x375.jpg",
-    "https://www.budgetbytes.com/wp-content/uploads/2012/06/Apple-Dijon-Kale-Salad-H1-480x270.jpg"
-  ],
+  "image": {
+    "@type": "ImageObject",
+    "height": 600,
+    "mime": "image/jpeg",
+    "url": "https://www.budgetbytes.com/wp-content/uploads/2012/06/Apple-Dijon-Kale-Salad-H1.jpg",
+    "width": 800
+  },
   "keywords": "Meal Salad, Vegan",
   "name": "Apple Dijon Kale Salad",
   "nutrition": {

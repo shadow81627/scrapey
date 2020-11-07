@@ -13,12 +13,13 @@
   "createdAt": "2020-10-08T05:18:32.269Z",
   "datePublished": "2019-11-20T10:12:20+00:00",
   "description": "This super fast and easy Smoky Black Bean Soup is rich, filling, flavorful, and waiting to be piled high with fun toppings! An easy vegan weeknight dinner.",
-  "image": [
-    "https://www.budgetbytes.com/wp-content/uploads/2019/11/Smoky-Black-Bean-Soup-two-bowls-toppings.jpg",
-    "https://www.budgetbytes.com/wp-content/uploads/2019/11/Smoky-Black-Bean-Soup-two-bowls-toppings-500x500.jpg",
-    "https://www.budgetbytes.com/wp-content/uploads/2019/11/Smoky-Black-Bean-Soup-two-bowls-toppings-500x375.jpg",
-    "https://www.budgetbytes.com/wp-content/uploads/2019/11/Smoky-Black-Bean-Soup-two-bowls-toppings-480x270.jpg"
-  ],
+  "image": {
+    "@type": "ImageObject",
+    "height": 600,
+    "mime": "image/jpeg",
+    "url": "https://www.budgetbytes.com/wp-content/uploads/2019/11/Smoky-Black-Bean-Soup-two-bowls-toppings.jpg",
+    "width": 800
+  },
   "keywords": "Easy Soup, gluten-free soup, Vegan Soup",
   "name": "30-Minute Smoky Black Bean Soup",
   "nutrition": {

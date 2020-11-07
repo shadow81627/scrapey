@@ -55,7 +55,13 @@
   "createdAt": "2020-10-08T05:09:22.015Z",
   "description": "Annalisa Italian Peeled Tomatoes In Tomato Juice a 100% Italian Tomatoes.",
   "gtin13": "8002560200564",
-  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/037810.jpg",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1200,
+    "mime": "image/jpeg",
+    "url": "https://cdn0.woolworths.media/content/wowproductimages/large/037810.jpg",
+    "width": 1200
+  },
   "name": "Annalisa Tomatoes Peeled 400g",
   "offers": {
     "@type": "AggregateOffer",

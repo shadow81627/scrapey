@@ -10,7 +10,13 @@
   "createdAt": "2020-10-08T05:15:28.186Z",
   "datePublished": "2018-06-08T23:54:54",
   "description": "Here's what you need: extra virgin olive oil, small onion, celery, garlic, fresh basil, canned whole peeled tomato, salt, dried spathetti, freshly grated parmigiano-reggiano cheese, carrots",
-  "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/video-api/assets/162208.jpg",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1080,
+    "mime": "image/jpeg",
+    "url": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/video-api/assets/162208.jpg",
+    "width": 1920
+  },
   "keywords": "audrey, audrey hepburn, devin lytle, hepburn, history, history bites, jared nunn, pasta, pomodoro, sauce, spaghetti",
   "name": "Audrey Hepburn’s Spaghetti Al Pomodoro Recipe by Tasty",
   "nutrition": {

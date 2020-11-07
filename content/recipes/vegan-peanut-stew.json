@@ -13,12 +13,13 @@
   "createdAt": "2020-10-08T05:57:59.928Z",
   "datePublished": "2019-01-24T12:31:56+00:00",
   "description": "With a rich peanut and tomato sauce, sweet potatoes, collard greens, and crunchy peanuts, this Vegan Peanut Stew is comfort in a bowl! ",
-  "image": [
-    "https://www.budgetbytes.com/wp-content/uploads/2014/08/West-African-Peanut-Stew-eat.jpg",
-    "https://www.budgetbytes.com/wp-content/uploads/2014/08/West-African-Peanut-Stew-eat-500x500.jpg",
-    "https://www.budgetbytes.com/wp-content/uploads/2014/08/West-African-Peanut-Stew-eat-500x375.jpg",
-    "https://www.budgetbytes.com/wp-content/uploads/2014/08/West-African-Peanut-Stew-eat-480x270.jpg"
-  ],
+  "image": {
+    "@type": "ImageObject",
+    "height": 600,
+    "mime": "image/jpeg",
+    "url": "https://www.budgetbytes.com/wp-content/uploads/2014/08/West-African-Peanut-Stew-eat.jpg",
+    "width": 800
+  },
   "keywords": "gluten free, Vegan, Vegetarian",
   "name": "Vegan Peanut Stew",
   "nutrition": {

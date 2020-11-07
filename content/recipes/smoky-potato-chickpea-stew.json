@@ -13,12 +13,13 @@
   "createdAt": "2020-10-08T05:49:45.074Z",
   "datePublished": "2017-11-29T12:49:26+00:00",
   "description": "This Smoky Potato Chickpea Stew is a hearty and filling plant-based dish that will keep you full and warm this winter!",
-  "image": [
-    "https://www.budgetbytes.com/wp-content/uploads/2017/11/Smoky-Potato-Chickpea-Stew-above.jpg",
-    "https://www.budgetbytes.com/wp-content/uploads/2017/11/Smoky-Potato-Chickpea-Stew-above-500x500.jpg",
-    "https://www.budgetbytes.com/wp-content/uploads/2017/11/Smoky-Potato-Chickpea-Stew-above-500x375.jpg",
-    "https://www.budgetbytes.com/wp-content/uploads/2017/11/Smoky-Potato-Chickpea-Stew-above-480x270.jpg"
-  ],
+  "image": {
+    "@type": "ImageObject",
+    "height": 600,
+    "mime": "image/jpeg",
+    "url": "https://www.budgetbytes.com/wp-content/uploads/2017/11/Smoky-Potato-Chickpea-Stew-above.jpg",
+    "width": 800
+  },
   "name": "Smoky Potato Chickpea Stew",
   "nutrition": {
     "@type": "NutritionInformation",

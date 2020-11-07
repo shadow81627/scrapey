@@ -13,12 +13,13 @@
   "createdAt": "2020-10-08T05:29:29.805Z",
   "datePublished": "2017-06-05T11:59:26+00:00",
   "description": "These rich and spicy Coconut Jerk Peas are super simple to make and pair brilliantly with a sweet and vibrant pineapple salsa. ",
-  "image": [
-    "https://www.budgetbytes.com/wp-content/uploads/2017/06/Coconut-Jerk-Peas-close.jpg",
-    "https://www.budgetbytes.com/wp-content/uploads/2017/06/Coconut-Jerk-Peas-close-500x500.jpg",
-    "https://www.budgetbytes.com/wp-content/uploads/2017/06/Coconut-Jerk-Peas-close-500x375.jpg",
-    "https://www.budgetbytes.com/wp-content/uploads/2017/06/Coconut-Jerk-Peas-close-480x270.jpg"
-  ],
+  "image": {
+    "@type": "ImageObject",
+    "height": 600,
+    "mime": "image/jpeg",
+    "url": "https://www.budgetbytes.com/wp-content/uploads/2017/06/Coconut-Jerk-Peas-close.jpg",
+    "width": 800
+  },
   "keywords": "meal prep, Peas, Vegan Dinner",
   "name": "Coconut Jerk Peas with Pineapple Salsa",
   "nutrition": {

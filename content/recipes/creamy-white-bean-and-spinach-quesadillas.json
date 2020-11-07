@@ -13,12 +13,13 @@
   "createdAt": "2020-10-08T05:31:54.088Z",
   "datePublished": "2019-02-19T14:44:50+00:00",
   "description": "Crispy on the outside, creamy on the inside, these insanely delicious Creamy White Bean and Spinach Quesadillas make an awesomely fast weeknight dinner. ",
-  "image": [
-    "https://www.budgetbytes.com/wp-content/uploads/2019/02/Creamy-WHite-Bean-and-Spinach-Quesadillas-close.jpg",
-    "https://www.budgetbytes.com/wp-content/uploads/2019/02/Creamy-WHite-Bean-and-Spinach-Quesadillas-close-500x500.jpg",
-    "https://www.budgetbytes.com/wp-content/uploads/2019/02/Creamy-WHite-Bean-and-Spinach-Quesadillas-close-500x375.jpg",
-    "https://www.budgetbytes.com/wp-content/uploads/2019/02/Creamy-WHite-Bean-and-Spinach-Quesadillas-close-480x270.jpg"
-  ],
+  "image": {
+    "@type": "ImageObject",
+    "height": 600,
+    "mime": "image/jpeg",
+    "url": "https://www.budgetbytes.com/wp-content/uploads/2019/02/Creamy-WHite-Bean-and-Spinach-Quesadillas-close.jpg",
+    "width": 800
+  },
   "keywords": "easy, Snack, Vegetarian",
   "name": "Creamy White Bean and Spinach Quesadillas",
   "nutrition": {

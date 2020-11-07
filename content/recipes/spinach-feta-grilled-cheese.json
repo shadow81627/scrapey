@@ -13,12 +13,13 @@
   "createdAt": "2020-10-08T05:52:49.590Z",
   "datePublished": "2013-08-31T11:44:15+00:00",
   "description": "Take your grilled cheese game to the next level with this Spinach Feta Grilled Cheese, featuring garlic, red pepper, and TWO cheeses!",
-  "image": [
-    "https://www.budgetbytes.com/wp-content/uploads/2013/08/Spinach-Feta-Grilled-Cheese-front-1.jpg",
-    "https://www.budgetbytes.com/wp-content/uploads/2013/08/Spinach-Feta-Grilled-Cheese-front-1-500x480.jpg",
-    "https://www.budgetbytes.com/wp-content/uploads/2013/08/Spinach-Feta-Grilled-Cheese-front-1-500x375.jpg",
-    "https://www.budgetbytes.com/wp-content/uploads/2013/08/Spinach-Feta-Grilled-Cheese-front-1-480x270.jpg"
-  ],
+  "image": {
+    "@type": "ImageObject",
+    "height": 480,
+    "mime": "image/jpeg",
+    "url": "https://www.budgetbytes.com/wp-content/uploads/2013/08/Spinach-Feta-Grilled-Cheese-front-1.jpg",
+    "width": 640
+  },
   "name": "Spinach Feta Grilled Cheese",
   "nutrition": {
     "@type": "NutritionInformation",

@@ -10,7 +10,13 @@
   "createdAt": "2020-10-18T00:41:28.796Z",
   "datePublished": "2018-06-29T20:11:06",
   "description": "Here's what you need: olive oil, kale, salt, garlic, pine nuts, red pepper flake, sun-dried tomato, flatbreads, hummus",
-  "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/video-api/assets/166822.jpg",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1080,
+    "mime": "image/jpeg",
+    "url": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/video-api/assets/166822.jpg",
+    "width": 1080
+  },
   "name": "Mediterranean Flatbread Recipe by Tasty",
   "nutrition": {
     "@type": "NutritionInformation",

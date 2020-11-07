@@ -13,12 +13,13 @@
   "createdAt": "2020-10-08T06:00:15.938Z",
   "datePublished": "2016-12-15T11:09:07+00:00",
   "description": "These Vegetarian French Dip Sandwiches are fast, easy, and feature a salty-sweet herb infused vegetarian au jus for dipping. ",
-  "image": [
-    "https://www.budgetbytes.com/wp-content/uploads/2016/12/Vegetarian-French-Dip-Sandwiches-H-1.jpg",
-    "https://www.budgetbytes.com/wp-content/uploads/2016/12/Vegetarian-French-Dip-Sandwiches-H-1-500x500.jpg",
-    "https://www.budgetbytes.com/wp-content/uploads/2016/12/Vegetarian-French-Dip-Sandwiches-H-1-500x375.jpg",
-    "https://www.budgetbytes.com/wp-content/uploads/2016/12/Vegetarian-French-Dip-Sandwiches-H-1-480x270.jpg"
-  ],
+  "image": {
+    "@type": "ImageObject",
+    "height": 600,
+    "mime": "image/jpeg",
+    "url": "https://www.budgetbytes.com/wp-content/uploads/2016/12/Vegetarian-French-Dip-Sandwiches-H-1.jpg",
+    "width": 800
+  },
   "keywords": "Hot Sandwich",
   "name": "Vegetarian French Dip Sandwiches",
   "nutrition": {

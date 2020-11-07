@@ -11,7 +11,13 @@
   "createdAt": "2020-10-18T00:40:32.309Z",
   "datePublished": "2018-04-18T14:40:51",
   "description": "Here's what you need: flax meal, water, olive oil, mushrooms, soy sauce, smoked paprika, small onion, garlic, salt, pepper, lentils, oats, russet potatoes, olive oil, garlic powder, paprika, salt, pepper, burger buns, dijon mustard, sliced tomato, fresh arugula, ketchup",
-  "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/9c497c8b57444de191a89fd8414b95a5/HowToEatVeganOnABudgetFBFinalNEW.jpg",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1080,
+    "mime": "image/jpeg",
+    "url": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/9c497c8b57444de191a89fd8414b95a5/HowToEatVeganOnABudgetFBFinalNEW.jpg",
+    "width": 1080
+  },
   "name": "Mushroom Lentil Burger & Fries Recipe by Tasty",
   "nutrition": {
     "@type": "NutritionInformation",

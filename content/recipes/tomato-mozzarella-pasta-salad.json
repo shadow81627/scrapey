@@ -13,12 +13,13 @@
   "createdAt": "2020-10-08T05:55:31.603Z",
   "datePublished": "2019-06-29T16:53:30+00:00",
   "description": "This Tomato Mozzarella Pasta Salad with homemade Parmesan Balsamic Vinaigrette is the perfect light and fresh summer meal. Perfect for potlucks!",
-  "image": [
-    "https://www.budgetbytes.com/wp-content/uploads/2019/06/Add-Parmesan-Balsamic-Vinaigrette-to-Tomato-Mozzarella-Pasta-Salad.jpg",
-    "https://www.budgetbytes.com/wp-content/uploads/2019/06/Add-Parmesan-Balsamic-Vinaigrette-to-Tomato-Mozzarella-Pasta-Salad-500x500.jpg",
-    "https://www.budgetbytes.com/wp-content/uploads/2019/06/Add-Parmesan-Balsamic-Vinaigrette-to-Tomato-Mozzarella-Pasta-Salad-500x375.jpg",
-    "https://www.budgetbytes.com/wp-content/uploads/2019/06/Add-Parmesan-Balsamic-Vinaigrette-to-Tomato-Mozzarella-Pasta-Salad-480x270.jpg"
-  ],
+  "image": {
+    "@type": "ImageObject",
+    "height": 600,
+    "mime": "image/jpeg",
+    "url": "https://www.budgetbytes.com/wp-content/uploads/2019/06/Add-Parmesan-Balsamic-Vinaigrette-to-Tomato-Mozzarella-Pasta-Salad.jpg",
+    "width": 800
+  },
   "keywords": "Breakfast Meal Prep, Cold Pasta Salad, Potluck Recipes",
   "name": "Tomato Mozzarella Pasta Salad",
   "nutrition": {

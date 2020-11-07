@@ -13,12 +13,13 @@
   "createdAt": "2020-10-08T05:48:43.466Z",
   "datePublished": "2017-04-10T15:47:44+00:00",
   "description": "With just a few ingredients you can make these easy and delicious Mushroom Broccoli Stir Fry Noodles for a fast weeknight dinner.",
-  "image": [
-    "https://www.budgetbytes.com/wp-content/uploads/2017/04/Mushroom-Broccoli-Stir-Fry-Noodles-plate.jpg",
-    "https://www.budgetbytes.com/wp-content/uploads/2017/04/Mushroom-Broccoli-Stir-Fry-Noodles-plate-500x500.jpg",
-    "https://www.budgetbytes.com/wp-content/uploads/2017/04/Mushroom-Broccoli-Stir-Fry-Noodles-plate-500x375.jpg",
-    "https://www.budgetbytes.com/wp-content/uploads/2017/04/Mushroom-Broccoli-Stir-Fry-Noodles-plate-480x270.jpg"
-  ],
+  "image": {
+    "@type": "ImageObject",
+    "height": 600,
+    "mime": "image/jpeg",
+    "url": "https://www.budgetbytes.com/wp-content/uploads/2017/04/Mushroom-Broccoli-Stir-Fry-Noodles-plate.jpg",
+    "width": 800
+  },
   "keywords": "Breakfast, Easy Dinner, Take Out Fake Out",
   "name": "Simple Mushroom Broccoli Stir Fry Noodles",
   "nutrition": {

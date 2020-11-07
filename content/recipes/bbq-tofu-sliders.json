@@ -13,12 +13,13 @@
   "createdAt": "2020-10-08T05:23:15.922Z",
   "datePublished": "2018-06-16T18:02:44+00:00",
   "description": "BBQ Tofu Sliders are an easy and inexpensive alternative to pulled meat sandwiches. With a simple and uncomplicated ingredient list, this is a tofu dish anyone can master!",
-  "image": [
-    "https://www.budgetbytes.com/wp-content/uploads/2018/06/BBQ-Tofu-Sliders-above.jpg",
-    "https://www.budgetbytes.com/wp-content/uploads/2018/06/BBQ-Tofu-Sliders-above-500x500.jpg",
-    "https://www.budgetbytes.com/wp-content/uploads/2018/06/BBQ-Tofu-Sliders-above-500x375.jpg",
-    "https://www.budgetbytes.com/wp-content/uploads/2018/06/BBQ-Tofu-Sliders-above-480x270.jpg"
-  ],
+  "image": {
+    "@type": "ImageObject",
+    "height": 600,
+    "mime": "image/jpeg",
+    "url": "https://www.budgetbytes.com/wp-content/uploads/2018/06/BBQ-Tofu-Sliders-above.jpg",
+    "width": 800
+  },
   "name": "BBQ Tofu Sliders",
   "nutrition": {
     "@type": "NutritionInformation",

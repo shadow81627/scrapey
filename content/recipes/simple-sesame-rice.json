@@ -13,12 +13,13 @@
   "createdAt": "2020-10-08T05:49:14.757Z",
   "datePublished": "2020-02-05T10:53:04+00:00",
   "description": "Adding just a few ingredients to your rice can really make your meal pop. Try this Simple Sesame Rice with any of your Southeast Asian inspired meals.",
-  "image": [
-    "https://www.budgetbytes.com/wp-content/uploads/2020/02/Sesame-Rice-served.jpg",
-    "https://www.budgetbytes.com/wp-content/uploads/2020/02/Sesame-Rice-served-500x500.jpg",
-    "https://www.budgetbytes.com/wp-content/uploads/2020/02/Sesame-Rice-served-500x375.jpg",
-    "https://www.budgetbytes.com/wp-content/uploads/2020/02/Sesame-Rice-served-480x270.jpg"
-  ],
+  "image": {
+    "@type": "ImageObject",
+    "height": 600,
+    "mime": "image/jpeg",
+    "url": "https://www.budgetbytes.com/wp-content/uploads/2020/02/Sesame-Rice-served.jpg",
+    "width": 800
+  },
   "keywords": "Easy Side Dish, Rice Recipe",
   "name": "Simple Sesame Rice",
   "nutrition": {

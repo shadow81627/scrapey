@@ -13,12 +13,13 @@
   "createdAt": "2020-10-08T05:58:31.446Z",
   "datePublished": "2012-11-06T15:29:00+00:00",
   "description": "This hearty Vegan Red Lentil Stew is packed with vegetables for tons of flavor, and will keep you warm and full in the cold winter weather!",
-  "image": [
-    "https://www.budgetbytes.com/wp-content/uploads/2012/11/RedLentilStewabove.jpg",
-    "https://www.budgetbytes.com/wp-content/uploads/2012/11/RedLentilStewabove-500x480.jpg",
-    "https://www.budgetbytes.com/wp-content/uploads/2012/11/RedLentilStewabove-500x375.jpg",
-    "https://www.budgetbytes.com/wp-content/uploads/2012/11/RedLentilStewabove-480x270.jpg"
-  ],
+  "image": {
+    "@type": "ImageObject",
+    "height": 480,
+    "mime": "image/jpeg",
+    "url": "https://www.budgetbytes.com/wp-content/uploads/2012/11/RedLentilStewabove.jpg",
+    "width": 640
+  },
   "name": "Vegan Red Lentil Stew",
   "nutrition": {
     "@type": "NutritionInformation",

@@ -14,12 +14,13 @@
   "createdAt": "2020-10-08T05:16:27.181Z",
   "datePublished": "2020-01-01",
   "description": "Even if you've never made homemade bread or worked with yeast before, this homemade artisan bread is for you. Watch the video tutorial above and review the recipe instructions and recipe notes prior to beginning. If you’re new to working with yeast, reference my Baking with Yeast Guide for answers to common yeast FAQs.",
-  "image": [
-    "https://cdn.sallysbakingaddiction.com/wp-content/uploads/2019/12/homemade-artisan-bread.jpg",
-    "https://cdn.sallysbakingaddiction.com/wp-content/uploads/2019/12/homemade-artisan-bread-225x225.jpg",
-    "https://cdn.sallysbakingaddiction.com/wp-content/uploads/2019/12/homemade-artisan-bread-260x195.jpg",
-    "https://cdn.sallysbakingaddiction.com/wp-content/uploads/2019/12/homemade-artisan-bread-320x180.jpg"
-  ],
+  "image": {
+    "@type": "ImageObject",
+    "height": 1800,
+    "mime": "image/jpeg",
+    "url": "https://cdn.sallysbakingaddiction.com/wp-content/uploads/2019/12/homemade-artisan-bread.jpg",
+    "width": 1200
+  },
   "keywords": "bread, loaf",
   "name": "Homemade Artisan Bread (With or Without Dutch Oven)",
   "prepTime": "PT4H",

@@ -13,12 +13,13 @@
   "createdAt": "2020-10-11T06:48:25.534Z",
   "datePublished": "2020-08-21T04:00:00+00:00",
   "description": "A delicious one-bowl banana bread that is so quick and easy to prepare!",
-  "image": [
-    "https://bakeplaysmile.com/wp-content/uploads/2020/07/Banana-Bread-6.jpg",
-    "https://bakeplaysmile.com/wp-content/uploads/2020/07/Banana-Bread-6-500x500.jpg",
-    "https://bakeplaysmile.com/wp-content/uploads/2020/07/Banana-Bread-6-500x375.jpg",
-    "https://bakeplaysmile.com/wp-content/uploads/2020/07/Banana-Bread-6-480x270.jpg"
-  ],
+  "image": {
+    "@type": "ImageObject",
+    "height": 1200,
+    "mime": "image/jpeg",
+    "url": "https://bakeplaysmile.com/wp-content/uploads/2020/07/Banana-Bread-6.jpg",
+    "width": 1200
+  },
   "keywords": "banana bread",
   "name": "Cafe Style Banana Bread",
   "nutrition": {

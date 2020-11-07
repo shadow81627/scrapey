@@ -13,12 +13,13 @@
   "createdAt": "2020-10-08T05:51:47.576Z",
   "datePublished": "2015-06-04T18:01:15+00:00",
   "description": "This one pot Spanish Chickpeas and rice has big flavor thanks to liberal dose of spices, artichoke hearts, and fresh lemon. ",
-  "image": [
-    "https://www.budgetbytes.com/wp-content/uploads/2015/06/Spanish-Chickpeas-and-Rice-bowl-above.jpg",
-    "https://www.budgetbytes.com/wp-content/uploads/2015/06/Spanish-Chickpeas-and-Rice-bowl-above-500x480.jpg",
-    "https://www.budgetbytes.com/wp-content/uploads/2015/06/Spanish-Chickpeas-and-Rice-bowl-above-500x375.jpg",
-    "https://www.budgetbytes.com/wp-content/uploads/2015/06/Spanish-Chickpeas-and-Rice-bowl-above-480x270.jpg"
-  ],
+  "image": {
+    "@type": "ImageObject",
+    "height": 480,
+    "mime": "image/jpeg",
+    "url": "https://www.budgetbytes.com/wp-content/uploads/2015/06/Spanish-Chickpeas-and-Rice-bowl-above.jpg",
+    "width": 640
+  },
   "keywords": "easy, One Pot, Vegan, Vegetarian",
   "name": "Spanish Chickpeas and Rice",
   "nutrition": {

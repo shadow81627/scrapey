@@ -13,12 +13,13 @@
   "createdAt": "2020-10-08T05:33:20.512Z",
   "datePublished": "2013-12-07T14:01:36+00:00",
   "description": "These super fast Curried Chickpeas with spinach are packed with flavor and nutrients, vegan, gluten-free, and filling! Plus they freeze great!",
-  "image": [
-    "https://www.budgetbytes.com/wp-content/uploads/2013/12/Curried-Cickpeas-with-Spinach-Finished.jpg",
-    "https://www.budgetbytes.com/wp-content/uploads/2013/12/Curried-Cickpeas-with-Spinach-Finished-500x500.jpg",
-    "https://www.budgetbytes.com/wp-content/uploads/2013/12/Curried-Cickpeas-with-Spinach-Finished-500x375.jpg",
-    "https://www.budgetbytes.com/wp-content/uploads/2013/12/Curried-Cickpeas-with-Spinach-Finished-480x270.jpg"
-  ],
+  "image": {
+    "@type": "ImageObject",
+    "height": 600,
+    "mime": "image/jpeg",
+    "url": "https://www.budgetbytes.com/wp-content/uploads/2013/12/Curried-Cickpeas-with-Spinach-Finished.jpg",
+    "width": 800
+  },
   "keywords": "easy, gluten free, Quick, Vegan, Vegetarian",
   "name": "Curried Chickpeas with Spinach",
   "nutrition": {

@@ -13,12 +13,13 @@
   "createdAt": "2020-10-08T05:51:19.132Z",
   "datePublished": "2017-12-09T11:44:22+00:00",
   "description": "These vegan Soy Marinated Tofu Bowls are full of rich flavors and plenty of texture to keep your taste buds happy and your belly full. ",
-  "image": [
-    "https://www.budgetbytes.com/wp-content/uploads/2017/12/Soy-Marinated-Tofu-Bowls-with-Peanut-Sauce-finished.jpg",
-    "https://www.budgetbytes.com/wp-content/uploads/2017/12/Soy-Marinated-Tofu-Bowls-with-Peanut-Sauce-finished-500x500.jpg",
-    "https://www.budgetbytes.com/wp-content/uploads/2017/12/Soy-Marinated-Tofu-Bowls-with-Peanut-Sauce-finished-500x375.jpg",
-    "https://www.budgetbytes.com/wp-content/uploads/2017/12/Soy-Marinated-Tofu-Bowls-with-Peanut-Sauce-finished-480x270.jpg"
-  ],
+  "image": {
+    "@type": "ImageObject",
+    "height": 600,
+    "mime": "image/jpeg",
+    "url": "https://www.budgetbytes.com/wp-content/uploads/2017/12/Soy-Marinated-Tofu-Bowls-with-Peanut-Sauce-finished.jpg",
+    "width": 800
+  },
   "name": "Soy Marinated Tofu Bowls with Spicy Peanut Sauce",
   "nutrition": {
     "@type": "NutritionInformation",

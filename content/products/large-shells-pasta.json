@@ -21,7 +21,13 @@
   "brand": "Coles",
   "createdAt": "2020-10-09T00:30:01.687Z",
   "description": "Made from 100% Australian durum wheat Al dente perfection in 11 minutes",
-  "image": "https://static.openfoodfacts.org/images/products/931/064/524/7229/front_en.13.full.jpg",
+  "image": {
+    "@type": "ImageObject",
+    "height": 2883,
+    "mime": "image/jpeg",
+    "url": "https://static.openfoodfacts.org/images/products/931/064/524/7229/front_en.13.full.jpg",
+    "width": 4032
+  },
   "name": "Large Shells Pasta",
   "offers": {
     "@type": "AggregateOffer",

@@ -13,12 +13,13 @@
   "createdAt": "2020-10-08T05:22:43.469Z",
   "datePublished": "2013-10-23T17:49:30+00:00",
   "description": "These BBQ Bean Sliders topped with a homemade creamy coleslaw are a quick dinner fix when you're craving BBQ and don't have time for slow cooking meat!",
-  "image": [
-    "https://www.budgetbytes.com/wp-content/uploads/2013/10/BBQ-Bean-Slider-side.jpg",
-    "https://www.budgetbytes.com/wp-content/uploads/2013/10/BBQ-Bean-Slider-side-500x500.jpg",
-    "https://www.budgetbytes.com/wp-content/uploads/2013/10/BBQ-Bean-Slider-side-500x375.jpg",
-    "https://www.budgetbytes.com/wp-content/uploads/2013/10/BBQ-Bean-Slider-side-480x270.jpg"
-  ],
+  "image": {
+    "@type": "ImageObject",
+    "height": 600,
+    "mime": "image/jpeg",
+    "url": "https://www.budgetbytes.com/wp-content/uploads/2013/10/BBQ-Bean-Slider-side.jpg",
+    "width": 800
+  },
   "keywords": "BBQ Sliders, Easy Dinner, Vegetarian BBQ",
   "name": "BBQ Bean Sliders",
   "nutrition": {

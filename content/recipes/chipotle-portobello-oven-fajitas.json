@@ -13,12 +13,13 @@
   "createdAt": "2020-10-08T05:28:27.398Z",
   "datePublished": "2016-06-11T13:06:52+00:00",
   "description": "Chipotle Portobello Oven Fajitas are an easy weeknight dinner, packed with flavor, color, and good-for-you vegetables. They're vegan, too!",
-  "image": [
-    "https://www.budgetbytes.com/wp-content/uploads/2016/06/Chipotle-Portobello-Fajitas-side-1.jpg",
-    "https://www.budgetbytes.com/wp-content/uploads/2016/06/Chipotle-Portobello-Fajitas-side-1-500x480.jpg",
-    "https://www.budgetbytes.com/wp-content/uploads/2016/06/Chipotle-Portobello-Fajitas-side-1-500x375.jpg",
-    "https://www.budgetbytes.com/wp-content/uploads/2016/06/Chipotle-Portobello-Fajitas-side-1-480x270.jpg"
-  ],
+  "image": {
+    "@type": "ImageObject",
+    "height": 480,
+    "mime": "image/jpeg",
+    "url": "https://www.budgetbytes.com/wp-content/uploads/2016/06/Chipotle-Portobello-Fajitas-side-1.jpg",
+    "width": 640
+  },
   "name": "Chipotle Portobello Oven Fajitas",
   "nutrition": {
     "@type": "NutritionInformation",

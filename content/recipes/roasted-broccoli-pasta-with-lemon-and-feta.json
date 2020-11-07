@@ -13,12 +13,13 @@
   "createdAt": "2020-10-08T05:44:39.124Z",
   "datePublished": "2020-01-26T18:51:21+00:00",
   "description": "Roasted Broccoli Pasta with Lemon and Feta is an incredibly simple pasta dish with big flavors. An easy, fast, and delicious weeknight dinner!",
-  "image": [
-    "https://www.budgetbytes.com/wp-content/uploads/2020/01/Roasted-Broccoli-Pasta-with-Lemon-and-Feta-bowl.jpg",
-    "https://www.budgetbytes.com/wp-content/uploads/2020/01/Roasted-Broccoli-Pasta-with-Lemon-and-Feta-bowl-500x500.jpg",
-    "https://www.budgetbytes.com/wp-content/uploads/2020/01/Roasted-Broccoli-Pasta-with-Lemon-and-Feta-bowl-500x375.jpg",
-    "https://www.budgetbytes.com/wp-content/uploads/2020/01/Roasted-Broccoli-Pasta-with-Lemon-and-Feta-bowl-480x270.jpg"
-  ],
+  "image": {
+    "@type": "ImageObject",
+    "height": 600,
+    "mime": "image/jpeg",
+    "url": "https://www.budgetbytes.com/wp-content/uploads/2020/01/Roasted-Broccoli-Pasta-with-Lemon-and-Feta-bowl.jpg",
+    "width": 800
+  },
   "keywords": "Broccoli Pasta, Easy dinner recipes, Roasted broccoli",
   "name": "Roasted Broccoli Pasta with Lemon and Feta",
   "nutrition": {

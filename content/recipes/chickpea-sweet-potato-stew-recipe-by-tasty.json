@@ -10,7 +10,13 @@
   "createdAt": "2020-10-18T00:41:09.993Z",
   "datePublished": "2018-02-15T16:48:57",
   "description": "Here's what you need: refined coconut oil, small onion, garlic, ginger, sweet paprika, cumin, dried coriander, cayenne, chickpeas, sweet potato, fire roasted crushed tomato, vegetable broth, fresh spinach",
-  "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/159381b1d4784e49a751d1d34a5efcc3/HealthyAndHeartSoupsThatWillFillYouUpFBFINAL.jpg",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1080,
+    "mime": "image/jpeg",
+    "url": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/159381b1d4784e49a751d1d34a5efcc3/HealthyAndHeartSoupsThatWillFillYouUpFBFINAL.jpg",
+    "width": 1080
+  },
   "name": "Chickpea Sweet Potato Stew Recipe by Tasty",
   "nutrition": {
     "@type": "NutritionInformation",

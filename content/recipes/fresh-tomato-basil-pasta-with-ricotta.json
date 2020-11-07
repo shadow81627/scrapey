@@ -13,12 +13,13 @@
   "createdAt": "2020-10-08T05:35:48.272Z",
   "datePublished": "2018-05-24T13:48:40+00:00",
   "description": "It only takes a few fresh ingredients make this Fresh Tomato Basil Pasta with Ricotta, the perfect light lunch or dinner for summer! ",
-  "image": [
-    "https://www.budgetbytes.com/wp-content/uploads/2018/05/Fresh-Tomato-Basil-Pasta-with-Ricotta-plate.jpg",
-    "https://www.budgetbytes.com/wp-content/uploads/2018/05/Fresh-Tomato-Basil-Pasta-with-Ricotta-plate-500x500.jpg",
-    "https://www.budgetbytes.com/wp-content/uploads/2018/05/Fresh-Tomato-Basil-Pasta-with-Ricotta-plate-500x375.jpg",
-    "https://www.budgetbytes.com/wp-content/uploads/2018/05/Fresh-Tomato-Basil-Pasta-with-Ricotta-plate-480x270.jpg"
-  ],
+  "image": {
+    "@type": "ImageObject",
+    "height": 600,
+    "mime": "image/jpeg",
+    "url": "https://www.budgetbytes.com/wp-content/uploads/2018/05/Fresh-Tomato-Basil-Pasta-with-Ricotta-plate.jpg",
+    "width": 800
+  },
   "name": "Fresh Tomato Basil Pasta with Ricotta",
   "nutrition": {
     "@type": "NutritionInformation",

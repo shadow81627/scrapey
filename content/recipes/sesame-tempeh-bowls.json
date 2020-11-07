@@ -13,12 +13,13 @@
   "createdAt": "2020-10-08T05:47:09.688Z",
   "datePublished": "2019-02-02T16:54:02+00:00",
   "description": "These Sesame Tempeh Bowls are a great vegan alternative to sesame chicken and only take about 20 minutes to make. An easy fast vegan meal prep! ",
-  "image": [
-    "https://www.budgetbytes.com/wp-content/uploads/2019/02/Sesame-Tempeh-eat.jpg",
-    "https://www.budgetbytes.com/wp-content/uploads/2019/02/Sesame-Tempeh-eat-500x500.jpg",
-    "https://www.budgetbytes.com/wp-content/uploads/2019/02/Sesame-Tempeh-eat-500x375.jpg",
-    "https://www.budgetbytes.com/wp-content/uploads/2019/02/Sesame-Tempeh-eat-480x270.jpg"
-  ],
+  "image": {
+    "@type": "ImageObject",
+    "height": 600,
+    "mime": "image/jpeg",
+    "url": "https://www.budgetbytes.com/wp-content/uploads/2019/02/Sesame-Tempeh-eat.jpg",
+    "width": 800
+  },
   "keywords": "easy, Vegan, Vegetarian",
   "name": "Sesame Tempeh Bowls",
   "nutrition": {

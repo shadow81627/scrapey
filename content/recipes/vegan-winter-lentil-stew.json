@@ -13,12 +13,13 @@
   "createdAt": "2020-10-08T05:59:03.068Z",
   "datePublished": "2018-10-18T11:51:32+00:00",
   "description": "A rich and hearty medley of vegetables, lentils, and herbs makes this freezer-friendly Vegan Winter Lentil Stew the perfect cold-weather comfort food. ",
-  "image": [
-    "https://www.budgetbytes.com/wp-content/uploads/2018/10/Vegan-WInter-Lentil-Stew-dip-bread.jpg",
-    "https://www.budgetbytes.com/wp-content/uploads/2018/10/Vegan-WInter-Lentil-Stew-dip-bread-500x500.jpg",
-    "https://www.budgetbytes.com/wp-content/uploads/2018/10/Vegan-WInter-Lentil-Stew-dip-bread-500x375.jpg",
-    "https://www.budgetbytes.com/wp-content/uploads/2018/10/Vegan-WInter-Lentil-Stew-dip-bread-480x270.jpg"
-  ],
+  "image": {
+    "@type": "ImageObject",
+    "height": 600,
+    "mime": "image/jpeg",
+    "url": "https://www.budgetbytes.com/wp-content/uploads/2018/10/Vegan-WInter-Lentil-Stew-dip-bread.jpg",
+    "width": 800
+  },
   "keywords": "Freezer Friendly, Vegan, Vegetarian",
   "name": "Vegan Winter Lentil Stew",
   "nutrition": {

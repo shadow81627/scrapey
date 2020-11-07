@@ -23,26 +23,13 @@
   "datePublished": "2012-07-12T21:36:48.000Z",
   "description": "This hearty soup is perfect for the cold winter months with lentils, carrots, potatoes, and spices. It's also an important part of Ramadan.",
   "headline": "Turkish Red Lentil Soup (Süzme Mercimek Çorbası)",
-  "image": [
-    {
-      "@type": "ImageObject",
-      "height": 2250,
-      "url": "https://www.thespruceeats.com/thmb/L55VE93v35OuHzYAwmxPwfEZwWs=/4000x2250/smart/filters:no_upscale()/mercimek-ET-56a993ca5f9b58b7d0fcee8a.JPG",
-      "width": 4000
-    },
-    {
-      "@type": "ImageObject",
-      "height": 3000,
-      "url": "https://www.thespruceeats.com/thmb/OFCCFY9r8Jjb3NWA34AamS3dLh8=/4000x3000/smart/filters:no_upscale()/mercimek-ET-56a993ca5f9b58b7d0fcee8a.JPG",
-      "width": 4000
-    },
-    {
-      "@type": "ImageObject",
-      "height": 3000,
-      "url": "https://www.thespruceeats.com/thmb/9JhPOO4xWCAKpVVfsHBRRe6IXwM=/3000x3000/smart/filters:no_upscale()/mercimek-ET-56a993ca5f9b58b7d0fcee8a.JPG",
-      "width": 3000
-    }
-  ],
+  "image": {
+    "@type": "ImageObject",
+    "height": 2250,
+    "mime": "image/jpeg",
+    "url": "https://www.thespruceeats.com/thmb/L55VE93v35OuHzYAwmxPwfEZwWs=/4000x2250/smart/filters:no_upscale()/mercimek-ET-56a993ca5f9b58b7d0fcee8a.JPG",
+    "width": 4000
+  },
   "keywords": "Lentil",
   "name": "Turkish Red Lentil Soup (Süzme Mercimek Çorbası)",
   "nutrition": {

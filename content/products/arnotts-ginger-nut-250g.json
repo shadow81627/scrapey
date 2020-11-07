@@ -22,7 +22,13 @@
   "createdAt": "2020-10-08T05:11:40.478Z",
   "description": "Arnott's The Original Ginger Nut contains no artificial flavours or preservatives.  Baking for 150 Years.A delicious sweet biscuit with a blissful ginger aroma and taste. Oven baked until golden and firm, it's the perfect dunking partner for your cuppa!",
   "gtin13": "9310072023038",
-  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/384568.jpg",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1200,
+    "mime": "image/jpeg",
+    "url": "https://cdn0.woolworths.media/content/wowproductimages/large/384568.jpg",
+    "width": 1200
+  },
   "name": "Arnott's Ginger Nut 250g",
   "offers": {
     "@type": "AggregateOffer",

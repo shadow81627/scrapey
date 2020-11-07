@@ -21,7 +21,13 @@
   "brand": "Coles",
   "createdAt": "2020-10-11T08:19:47.731Z",
   "description": "Coles Nature's Kitchen Meat Free Butter Chicken",
-  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/6/4/3649648.jpg",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/6/4/3649648.jpg",
+    "width": 300
+  },
   "name": "Nature's Kitchen Meat Free Butter Chicken",
   "offers": {
     "@type": "AggregateOffer",

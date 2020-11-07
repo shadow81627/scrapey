@@ -13,12 +13,13 @@
   "createdAt": "2020-10-08T05:24:33.559Z",
   "datePublished": "2020-05-01T08:36:53+00:00",
   "description": "This blueberry muffin in a mug recipe is so good and a great way to make breakfast in the microwave in one minute for one person. You don't have to share!",
-  "image": [
-    "https://temeculablogs.com/wp-content/uploads/2019/08/Blueberry-Muffin-in-a-Mug.jpg",
-    "https://temeculablogs.com/wp-content/uploads/2019/08/Blueberry-Muffin-in-a-Mug-500x500.jpg",
-    "https://temeculablogs.com/wp-content/uploads/2019/08/Blueberry-Muffin-in-a-Mug-500x375.jpg",
-    "https://temeculablogs.com/wp-content/uploads/2019/08/Blueberry-Muffin-in-a-Mug-480x270.jpg"
-  ],
+  "image": {
+    "@type": "ImageObject",
+    "height": 1050,
+    "mime": "image/jpeg",
+    "url": "https://temeculablogs.com/wp-content/uploads/2019/08/Blueberry-Muffin-in-a-Mug.jpg",
+    "width": 700
+  },
   "keywords": "blueberry, muffin, mug, mug cake",
   "name": "Blueberry Muffin in a Mug",
   "nutrition": {

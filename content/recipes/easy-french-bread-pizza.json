@@ -13,12 +13,13 @@
   "createdAt": "2020-10-08T05:34:24.544Z",
   "datePublished": "2018-09-15T10:08:00+00:00",
   "description": "French Bread Pizza is the perfect budget-friendly fast and easy weeknight dinner. Customize the toppings to fit your taste buds or what you have on hand! ",
-  "image": [
-    "https://www.budgetbytes.com/wp-content/uploads/2010/11/Finished-French-Bread-Pizza.jpg",
-    "https://www.budgetbytes.com/wp-content/uploads/2010/11/Finished-French-Bread-Pizza-500x500.jpg",
-    "https://www.budgetbytes.com/wp-content/uploads/2010/11/Finished-French-Bread-Pizza-500x375.jpg",
-    "https://www.budgetbytes.com/wp-content/uploads/2010/11/Finished-French-Bread-Pizza-480x270.jpg"
-  ],
+  "image": {
+    "@type": "ImageObject",
+    "height": 600,
+    "mime": "image/jpeg",
+    "url": "https://www.budgetbytes.com/wp-content/uploads/2010/11/Finished-French-Bread-Pizza.jpg",
+    "width": 800
+  },
   "keywords": "Dinner, easy, Fast, Pizza",
   "name": "Easy French Bread Pizza",
   "nutrition": {

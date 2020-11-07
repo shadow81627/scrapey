@@ -11,7 +11,13 @@
   "createdAt": "2020-10-18T00:40:13.503Z",
   "datePublished": "2018-06-01T14:14:33",
   "description": "Here's what you need: sweet potato, garlic powder, paprika, salt, pepper, olive oil, pumpkin seeds, chili powder, maple syrup, tahini, lemon juice, water, kale, quinoa, red onion",
-  "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/f2bc5630200b4288a45be24846e1ae50/ProteinPackedSaladsFBFINAL.jpg",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1080,
+    "mime": "image/jpeg",
+    "url": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/f2bc5630200b4288a45be24846e1ae50/ProteinPackedSaladsFBFINAL.jpg",
+    "width": 1080
+  },
   "name": "Kale & Sweet Potato Salad Recipe by Tasty",
   "nutrition": {
     "@type": "NutritionInformation",

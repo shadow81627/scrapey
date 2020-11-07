@@ -7,18 +7,19 @@
   },
   "author": {
     "@type": "Person",
-    "name": "Adapted from Love to be in the Kitchen"
+    "name": "Love to be in the Kitchen"
   },
   "cookTime": "PT15M",
   "createdAt": "2020-10-08T05:37:51.890Z",
   "datePublished": "2018-08-04T19:36:22+00:00",
   "description": "Make your own homemade freezer garlic bread slices, ready to bake on demand. Bake two or ten frozen slices at a time, ready in minutes! ",
-  "image": [
-    "https://www.budgetbytes.com/wp-content/uploads/2015/03/Freezer-Garlic-Bread-close.jpg",
-    "https://www.budgetbytes.com/wp-content/uploads/2015/03/Freezer-Garlic-Bread-close-500x500.jpg",
-    "https://www.budgetbytes.com/wp-content/uploads/2015/03/Freezer-Garlic-Bread-close-500x375.jpg",
-    "https://www.budgetbytes.com/wp-content/uploads/2015/03/Freezer-Garlic-Bread-close-480x270.jpg"
-  ],
+  "image": {
+    "@type": "ImageObject",
+    "height": 600,
+    "mime": "image/jpeg",
+    "url": "https://www.budgetbytes.com/wp-content/uploads/2015/03/Freezer-Garlic-Bread-close.jpg",
+    "width": 800
+  },
   "keywords": "easy, Freezer Friendly",
   "name": "Homemade Freezer Garlic Bread",
   "nutrition": {

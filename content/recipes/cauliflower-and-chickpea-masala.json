@@ -13,12 +13,13 @@
   "createdAt": "2020-10-08T05:26:02.164Z",
   "datePublished": "2019-01-23T14:29:37+00:00",
   "description": "This super easy, ultra creamy, and heavily spiced Cauliflower and Chickpea Masala will be your new favorite weeknight dinner! So much flavor, so little effort. ",
-  "image": [
-    "https://www.budgetbytes.com/wp-content/uploads/2019/01/Cauliflower-and-Chickpea-Masala-bowl.jpg",
-    "https://www.budgetbytes.com/wp-content/uploads/2019/01/Cauliflower-and-Chickpea-Masala-bowl-500x500.jpg",
-    "https://www.budgetbytes.com/wp-content/uploads/2019/01/Cauliflower-and-Chickpea-Masala-bowl-500x375.jpg",
-    "https://www.budgetbytes.com/wp-content/uploads/2019/01/Cauliflower-and-Chickpea-Masala-bowl-480x270.jpg"
-  ],
+  "image": {
+    "@type": "ImageObject",
+    "height": 600,
+    "mime": "image/jpeg",
+    "url": "https://www.budgetbytes.com/wp-content/uploads/2019/01/Cauliflower-and-Chickpea-Masala-bowl.jpg",
+    "width": 800
+  },
   "keywords": "Spicy, Vegetarian, Weeknight Dinner",
   "name": "Cauliflower and Chickpea Masala",
   "nutrition": {

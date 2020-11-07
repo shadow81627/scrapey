@@ -13,12 +13,13 @@
   "createdAt": "2020-10-08T05:39:55.878Z",
   "datePublished": "2019-07-20T16:18:08+00:00",
   "description": "This Lemony Artichoke and Quinoa Salad is a light and refreshing summer salad that holds up well in the refrigerator and is perfect for meal prep!",
-  "image": [
-    "https://www.budgetbytes.com/wp-content/uploads/2019/07/Lemony-Artichoke-and-Quinoa-Salad-in-bowl.jpg",
-    "https://www.budgetbytes.com/wp-content/uploads/2019/07/Lemony-Artichoke-and-Quinoa-Salad-in-bowl-500x500.jpg",
-    "https://www.budgetbytes.com/wp-content/uploads/2019/07/Lemony-Artichoke-and-Quinoa-Salad-in-bowl-500x375.jpg",
-    "https://www.budgetbytes.com/wp-content/uploads/2019/07/Lemony-Artichoke-and-Quinoa-Salad-in-bowl-480x270.jpg"
-  ],
+  "image": {
+    "@type": "ImageObject",
+    "height": 600,
+    "mime": "image/jpeg",
+    "url": "https://www.budgetbytes.com/wp-content/uploads/2019/07/Lemony-Artichoke-and-Quinoa-Salad-in-bowl.jpg",
+    "width": 800
+  },
   "keywords": "Lunch Meal Prep, Refrigerator Salad, summer salad, Vegan",
   "name": "Lemony Artichoke and Quinoa Salad",
   "nutrition": {

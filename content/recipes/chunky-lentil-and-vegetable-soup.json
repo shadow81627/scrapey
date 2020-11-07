@@ -13,12 +13,13 @@
   "createdAt": "2020-10-08T05:28:58.111Z",
   "datePublished": "2014-01-01T20:19:24+00:00",
   "description": "This Chunky Lentil and Vegetable Soup is packed with hearty flavor, texture, and good-for-you vegetables! ",
-  "image": [
-    "https://www.budgetbytes.com/wp-content/uploads/2014/01/Chunky-Lentil-and-Vegetable-Soup-spoon-in-1.jpg",
-    "https://www.budgetbytes.com/wp-content/uploads/2014/01/Chunky-Lentil-and-Vegetable-Soup-spoon-in-1-500x500.jpg",
-    "https://www.budgetbytes.com/wp-content/uploads/2014/01/Chunky-Lentil-and-Vegetable-Soup-spoon-in-1-500x375.jpg",
-    "https://www.budgetbytes.com/wp-content/uploads/2014/01/Chunky-Lentil-and-Vegetable-Soup-spoon-in-1-480x270.jpg"
-  ],
+  "image": {
+    "@type": "ImageObject",
+    "height": 600,
+    "mime": "image/jpeg",
+    "url": "https://www.budgetbytes.com/wp-content/uploads/2014/01/Chunky-Lentil-and-Vegetable-Soup-spoon-in-1.jpg",
+    "width": 800
+  },
   "name": "Chunky Lentil and Vegetable Soup",
   "nutrition": {
     "@type": "NutritionInformation",

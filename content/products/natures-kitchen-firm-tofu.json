@@ -21,7 +21,13 @@
   "brand": "Coles",
   "createdAt": "2020-10-11T08:20:07.854Z",
   "description": "Deliciously Vegan",
-  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/7/5/2752255.jpg",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/7/5/2752255.jpg",
+    "width": 300
+  },
   "name": "Nature's Kitchen Firm Tofu",
   "offers": {
     "@type": "AggregateOffer",

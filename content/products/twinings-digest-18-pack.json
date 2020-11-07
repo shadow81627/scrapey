@@ -8,7 +8,13 @@
   },
   "createdAt": "2020-10-08T05:13:40.554Z",
   "gtin13": "70177176112",
-  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/575845.jpg",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1200,
+    "mime": "image/jpeg",
+    "url": "https://cdn0.woolworths.media/content/wowproductimages/large/575845.jpg",
+    "width": 1200
+  },
   "name": "Twinings Digest 18 pack",
   "offers": {
     "@type": "AggregateOffer",

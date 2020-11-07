@@ -13,12 +13,13 @@
   "createdAt": "2020-10-08T05:57:28.563Z",
   "datePublished": "2019-09-25T17:44:45+00:00",
   "description": "This incredibly simple Vegan Creamy Mushroom Ramen is a rich and flavorful 15 minute meal that only requires a handful of ingredients! ",
-  "image": [
-    "https://www.budgetbytes.com/wp-content/uploads/2019/09/Vegan-Creamy-Mushroom-Ramen-close.jpg",
-    "https://www.budgetbytes.com/wp-content/uploads/2019/09/Vegan-Creamy-Mushroom-Ramen-close-500x500.jpg",
-    "https://www.budgetbytes.com/wp-content/uploads/2019/09/Vegan-Creamy-Mushroom-Ramen-close-500x375.jpg",
-    "https://www.budgetbytes.com/wp-content/uploads/2019/09/Vegan-Creamy-Mushroom-Ramen-close-480x270.jpg"
-  ],
+  "image": {
+    "@type": "ImageObject",
+    "height": 600,
+    "mime": "image/jpeg",
+    "url": "https://www.budgetbytes.com/wp-content/uploads/2019/09/Vegan-Creamy-Mushroom-Ramen-close.jpg",
+    "width": 800
+  },
   "name": "Vegan Creamy Mushroom Ramen",
   "nutrition": {
     "@type": "NutritionInformation",

@@ -13,12 +13,13 @@
   "createdAt": "2020-10-08T05:54:25.015Z",
   "datePublished": "2016-02-18T16:55:38+00:00",
   "description": "These Oven Baked Thick Cut Garlic Parmesan Fries are robust and flavorful enough to be a meal of their own and simple enough to serve as a side dish.",
-  "image": [
-    "https://www.budgetbytes.com/wp-content/uploads/2016/02/Garlic-Parmesan-Thick-Cut-Oven-Fries-above-1.jpg",
-    "https://www.budgetbytes.com/wp-content/uploads/2016/02/Garlic-Parmesan-Thick-Cut-Oven-Fries-above-1-500x480.jpg",
-    "https://www.budgetbytes.com/wp-content/uploads/2016/02/Garlic-Parmesan-Thick-Cut-Oven-Fries-above-1-500x375.jpg",
-    "https://www.budgetbytes.com/wp-content/uploads/2016/02/Garlic-Parmesan-Thick-Cut-Oven-Fries-above-1-480x270.jpg"
-  ],
+  "image": {
+    "@type": "ImageObject",
+    "height": 480,
+    "mime": "image/jpeg",
+    "url": "https://www.budgetbytes.com/wp-content/uploads/2016/02/Garlic-Parmesan-Thick-Cut-Oven-Fries-above-1.jpg",
+    "width": 640
+  },
   "keywords": "Baked Fries, baked potatoes, easy side, Easy Side Dish, french fries",
   "name": "Thick Cut Garlic Parmesan Baked Fries",
   "nutrition": {

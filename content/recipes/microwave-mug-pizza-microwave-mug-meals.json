@@ -7,18 +7,19 @@
   },
   "author": {
     "@type": "Person",
-    "name": "adapted recipe from Kirbiecravings.com"
+    "name": "Kirbiecravings.com"
   },
   "cookTime": "PT1M",
   "createdAt": "2020-10-08T05:42:03.124Z",
   "datePublished": "2018-03-21T07:30:17+00:00",
   "description": "Learn how to make my amazing Microwave Mug Pizza recipe in just minutes. You can add any toppings you'd like and it's faster and better than pizza delivery!",
-  "image": [
-    "https://www.biggerbolderbaking.com/wp-content/uploads/2016/01/IMG_9114.jpg",
-    "https://www.biggerbolderbaking.com/wp-content/uploads/2016/01/IMG_9114-500x500.jpg",
-    "https://www.biggerbolderbaking.com/wp-content/uploads/2016/01/IMG_9114-500x375.jpg",
-    "https://www.biggerbolderbaking.com/wp-content/uploads/2016/01/IMG_9114-480x270.jpg"
-  ],
+  "image": {
+    "@type": "ImageObject",
+    "height": 853,
+    "mime": "image/jpeg",
+    "url": "https://www.biggerbolderbaking.com/wp-content/uploads/2016/01/IMG_9114.jpg",
+    "width": 1280
+  },
   "keywords": "Miccrowave Mug Pizza, Microwave Mug Pizza, Microwave Pizza",
   "name": "Microwave Mug Pizza (Microwave Mug Meals)",
   "nutrition": {

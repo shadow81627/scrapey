@@ -12,12 +12,13 @@
   "createdAt": "2020-10-08T05:39:23.339Z",
   "datePublished": "2017-02-21T12:58:00+00:00",
   "description": "Homemade hummus is quick, easy, and inexpensive, and can be made with several different flavor add-ins. Here are four delicious flavors to try.",
-  "image": [
-    "https://www.budgetbytes.com/wp-content/uploads/2010/05/Homemade-Hummus-dip.jpg",
-    "https://www.budgetbytes.com/wp-content/uploads/2010/05/Homemade-Hummus-dip-500x500.jpg",
-    "https://www.budgetbytes.com/wp-content/uploads/2010/05/Homemade-Hummus-dip-500x375.jpg",
-    "https://www.budgetbytes.com/wp-content/uploads/2010/05/Homemade-Hummus-dip-480x270.jpg"
-  ],
+  "image": {
+    "@type": "ImageObject",
+    "height": 600,
+    "mime": "image/jpeg",
+    "url": "https://www.budgetbytes.com/wp-content/uploads/2010/05/Homemade-Hummus-dip.jpg",
+    "width": 800
+  },
   "keywords": "easy, gluten free, No-Cook, Quick, Vegan, Vegetarian",
   "name": "Homemade Hummus",
   "nutrition": {

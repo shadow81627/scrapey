@@ -13,12 +13,13 @@
   "createdAt": "2020-10-08T05:40:59.851Z",
   "datePublished": "2018-07-02T15:49:27+00:00",
   "description": "Perfect for stashing in the freezer, these Make Ahead Bean and Cheese Burritos will save you on busy weeknights!",
-  "image": [
-    "https://www.budgetbytes.com/wp-content/uploads/2018/07/Make-Ahead-Bean-and-Cheese-Burritos-front.jpg",
-    "https://www.budgetbytes.com/wp-content/uploads/2018/07/Make-Ahead-Bean-and-Cheese-Burritos-front-500x500.jpg",
-    "https://www.budgetbytes.com/wp-content/uploads/2018/07/Make-Ahead-Bean-and-Cheese-Burritos-front-500x375.jpg",
-    "https://www.budgetbytes.com/wp-content/uploads/2018/07/Make-Ahead-Bean-and-Cheese-Burritos-front-480x270.jpg"
-  ],
+  "image": {
+    "@type": "ImageObject",
+    "height": 600,
+    "mime": "image/jpeg",
+    "url": "https://www.budgetbytes.com/wp-content/uploads/2018/07/Make-Ahead-Bean-and-Cheese-Burritos-front.jpg",
+    "width": 800
+  },
   "name": "Make Ahead Bean and Cheese Burritos",
   "nutrition": {
     "@type": "NutritionInformation",

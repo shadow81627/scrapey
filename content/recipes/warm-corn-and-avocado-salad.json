@@ -13,12 +13,13 @@
   "createdAt": "2020-10-08T06:01:23.792Z",
   "datePublished": "2016-05-07T11:04:06+00:00",
   "description": "Warm Corn and Avocado Salad makes the perfect light and fresh side dish for enchiladas, grilled meats, tacos, or any summer meal.",
-  "image": [
-    "https://www.budgetbytes.com/wp-content/uploads/2016/05/Warm-Corn-and-Avocado-Salad-above-1.jpg",
-    "https://www.budgetbytes.com/wp-content/uploads/2016/05/Warm-Corn-and-Avocado-Salad-above-1-500x480.jpg",
-    "https://www.budgetbytes.com/wp-content/uploads/2016/05/Warm-Corn-and-Avocado-Salad-above-1-500x375.jpg",
-    "https://www.budgetbytes.com/wp-content/uploads/2016/05/Warm-Corn-and-Avocado-Salad-above-1-480x270.jpg"
-  ],
+  "image": {
+    "@type": "ImageObject",
+    "height": 480,
+    "mime": "image/jpeg",
+    "url": "https://www.budgetbytes.com/wp-content/uploads/2016/05/Warm-Corn-and-Avocado-Salad-above-1.jpg",
+    "width": 640
+  },
   "keywords": "Corn Salad, Easy Side Dish, Potluck Recipes",
   "name": "Warm Corn and Avocado Salad",
   "nutrition": {

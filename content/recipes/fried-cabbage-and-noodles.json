@@ -13,12 +13,13 @@
   "createdAt": "2020-10-08T05:36:18.060Z",
   "datePublished": "2016-10-08T16:44:52+00:00",
   "description": "Fried Cabbage and Noodles is a simple and inexpensive comfort food that can be served as a side dish or the base to full meal.",
-  "image": [
-    "https://www.budgetbytes.com/wp-content/uploads/2019/11/Fried-Cabbage-and-Noodles-close-pot.jpg",
-    "https://www.budgetbytes.com/wp-content/uploads/2019/11/Fried-Cabbage-and-Noodles-close-pot-500x500.jpg",
-    "https://www.budgetbytes.com/wp-content/uploads/2019/11/Fried-Cabbage-and-Noodles-close-pot-500x375.jpg",
-    "https://www.budgetbytes.com/wp-content/uploads/2019/11/Fried-Cabbage-and-Noodles-close-pot-480x270.jpg"
-  ],
+  "image": {
+    "@type": "ImageObject",
+    "height": 600,
+    "mime": "image/jpeg",
+    "url": "https://www.budgetbytes.com/wp-content/uploads/2019/11/Fried-Cabbage-and-Noodles-close-pot.jpg",
+    "width": 800
+  },
   "keywords": "Comfort Food, Easy Meal",
   "name": "Fried Cabbage and Noodles",
   "nutrition": {

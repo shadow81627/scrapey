@@ -12,12 +12,13 @@
   "createdAt": "2020-10-08T05:30:29.843Z",
   "datePublished": "2018-07-16T12:34:50+00:00",
   "description": "Cowboy Caviar is like a cross between a bean salad and fresh salsa with its colorful mix of beans, vegetables, and a fresh lime infused dressing.",
-  "image": [
-    "https://www.budgetbytes.com/wp-content/uploads/2016/07/Cowboy-Caviar-above-1.jpg",
-    "https://www.budgetbytes.com/wp-content/uploads/2016/07/Cowboy-Caviar-above-1-500x480.jpg",
-    "https://www.budgetbytes.com/wp-content/uploads/2016/07/Cowboy-Caviar-above-1-500x375.jpg",
-    "https://www.budgetbytes.com/wp-content/uploads/2016/07/Cowboy-Caviar-above-1-480x270.jpg"
-  ],
+  "image": {
+    "@type": "ImageObject",
+    "height": 480,
+    "mime": "image/jpeg",
+    "url": "https://www.budgetbytes.com/wp-content/uploads/2016/07/Cowboy-Caviar-above-1.jpg",
+    "width": 640
+  },
   "keywords": "easy, gluten free, Vegan, Vegetarian",
   "name": "Cowboy Caviar Recipe",
   "nutrition": {

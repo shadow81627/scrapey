@@ -11,7 +11,13 @@
   "createdAt": "2020-10-18T00:40:51.122Z",
   "datePublished": "2018-04-18T14:36:21",
   "description": "This protein-packed alternative to meat comes together with a medley of spices and soy sauce. Simply break apart your favorite extra firm tofu, mix in soy sauce, chili powder, garlic powder, cumin, paprika, and cayenne, and cook until browned. Serve it in a bowl with rice or lettuce, and use it as a taco filling.",
-  "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/f4a003406c30412ba569d7ff08c839e5/HowToEatVeganOnABudgetFBFinalNEW.jpg",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1080,
+    "mime": "image/jpeg",
+    "url": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/f4a003406c30412ba569d7ff08c839e5/HowToEatVeganOnABudgetFBFinalNEW.jpg",
+    "width": 1080
+  },
   "name": "Sofritas Burrito Bowl Recipe by Tasty",
   "nutrition": {
     "@type": "NutritionInformation",

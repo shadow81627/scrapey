@@ -13,12 +13,13 @@
   "createdAt": "2020-10-08T05:31:01.046Z",
   "datePublished": "2019-07-13T19:00:50+00:00",
   "description": "These rich, creamy, and earthy Coconut Curry Lentils are an easy and delicious vegan option for dinner or weekly meal prep!",
-  "image": [
-    "https://www.budgetbytes.com/wp-content/uploads/2019/07/Creamy-Coconut-Curry-Lentils-with-Spinach-dip-naan.jpg",
-    "https://www.budgetbytes.com/wp-content/uploads/2019/07/Creamy-Coconut-Curry-Lentils-with-Spinach-dip-naan-500x500.jpg",
-    "https://www.budgetbytes.com/wp-content/uploads/2019/07/Creamy-Coconut-Curry-Lentils-with-Spinach-dip-naan-500x375.jpg",
-    "https://www.budgetbytes.com/wp-content/uploads/2019/07/Creamy-Coconut-Curry-Lentils-with-Spinach-dip-naan-480x270.jpg"
-  ],
+  "image": {
+    "@type": "ImageObject",
+    "height": 600,
+    "mime": "image/jpeg",
+    "url": "https://www.budgetbytes.com/wp-content/uploads/2019/07/Creamy-Coconut-Curry-Lentils-with-Spinach-dip-naan.jpg",
+    "width": 800
+  },
   "keywords": "meal prep, Vegan Dinner",
   "name": "Creamy Coconut Curry Lentils with Spinach",
   "nutrition": {

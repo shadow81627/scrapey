@@ -13,12 +13,13 @@
   "createdAt": "2020-10-08T05:54:56.838Z",
   "datePublished": "2016-10-01T15:27:31+00:00",
   "description": "Tomato Herb Rice with White Beans and Spinach is a hearty and flavorful vegan dinner that will be loved by meat eaters and vegetarians alike.",
-  "image": [
-    "https://www.budgetbytes.com/wp-content/uploads/2016/10/Tomato-Herb-Rice-with-White-Beans-and-Spinach-spoon-1.jpg",
-    "https://www.budgetbytes.com/wp-content/uploads/2016/10/Tomato-Herb-Rice-with-White-Beans-and-Spinach-spoon-1-500x500.jpg",
-    "https://www.budgetbytes.com/wp-content/uploads/2016/10/Tomato-Herb-Rice-with-White-Beans-and-Spinach-spoon-1-500x375.jpg",
-    "https://www.budgetbytes.com/wp-content/uploads/2016/10/Tomato-Herb-Rice-with-White-Beans-and-Spinach-spoon-1-480x270.jpg"
-  ],
+  "image": {
+    "@type": "ImageObject",
+    "height": 600,
+    "mime": "image/jpeg",
+    "url": "https://www.budgetbytes.com/wp-content/uploads/2016/10/Tomato-Herb-Rice-with-White-Beans-and-Spinach-spoon-1.jpg",
+    "width": 800
+  },
   "keywords": "One Pot Meal, Skillet Meal, Vegetarian Dinner",
   "name": "Tomato Herb Rice with White Beans and Spinach",
   "nutrition": {

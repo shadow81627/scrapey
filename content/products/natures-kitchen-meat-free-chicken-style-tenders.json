@@ -21,7 +21,13 @@
   "brand": "Coles",
   "createdAt": "2020-10-11T08:20:28.098Z",
   "description": "Deliciously Vegan",
-  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/5/1/3512916.jpg",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/5/1/3512916.jpg",
+    "width": 300
+  },
   "name": "Nature's Kitchen Meat Free Chicken Style Tenders",
   "offers": {
     "@type": "AggregateOffer",

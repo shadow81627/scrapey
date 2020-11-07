@@ -13,12 +13,13 @@
   "createdAt": "2020-10-08T05:38:23.761Z",
   "datePublished": "2010-03-06T14:37:00+00:00",
   "description": "Homemade Garlic Bread is twice as nice for half the price of it's frozen store bought counterpart! ",
-  "image": [
-    "https://www.budgetbytes.com/wp-content/uploads/2010/03/Homemade-Garlic-Bread-front.jpg",
-    "https://www.budgetbytes.com/wp-content/uploads/2010/03/Homemade-Garlic-Bread-front-500x500.jpg",
-    "https://www.budgetbytes.com/wp-content/uploads/2010/03/Homemade-Garlic-Bread-front-500x375.jpg",
-    "https://www.budgetbytes.com/wp-content/uploads/2010/03/Homemade-Garlic-Bread-front-480x270.jpg"
-  ],
+  "image": {
+    "@type": "ImageObject",
+    "height": 600,
+    "mime": "image/jpeg",
+    "url": "https://www.budgetbytes.com/wp-content/uploads/2010/03/Homemade-Garlic-Bread-front.jpg",
+    "width": 800
+  },
   "name": "Homemade Garlic Bread",
   "nutrition": {
     "@type": "NutritionInformation",

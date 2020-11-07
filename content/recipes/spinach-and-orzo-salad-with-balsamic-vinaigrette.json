@@ -13,12 +13,13 @@
   "createdAt": "2020-10-08T05:52:18.757Z",
   "datePublished": "2017-05-24T16:33:07+00:00",
   "description": "A quick homemade balsamic vinaigrette makes this simple Spinach and Orzo Salad extra special. Serve as a light lunch or a side with dinner.",
-  "image": [
-    "https://www.budgetbytes.com/wp-content/uploads/2017/05/Spinach-and-Orzo-Salad-above.jpg",
-    "https://www.budgetbytes.com/wp-content/uploads/2017/05/Spinach-and-Orzo-Salad-above-500x500.jpg",
-    "https://www.budgetbytes.com/wp-content/uploads/2017/05/Spinach-and-Orzo-Salad-above-500x375.jpg",
-    "https://www.budgetbytes.com/wp-content/uploads/2017/05/Spinach-and-Orzo-Salad-above-480x270.jpg"
-  ],
+  "image": {
+    "@type": "ImageObject",
+    "height": 600,
+    "mime": "image/jpeg",
+    "url": "https://www.budgetbytes.com/wp-content/uploads/2017/05/Spinach-and-Orzo-Salad-above.jpg",
+    "width": 800
+  },
   "keywords": "cold lunch, Pasta Salad",
   "name": "Spinach and Orzo Salad with Balsamic Vinaigrette",
   "nutrition": {

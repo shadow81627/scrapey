@@ -13,12 +13,13 @@
   "createdAt": "2020-10-08T05:29:59.048Z",
   "datePublished": "2019-06-04T15:27:54+00:00",
   "description": "This Cold Peanut Noodle Salad with homemade peanut lime dressing is the perfect meal prep for summer! No reheating necessary.",
-  "image": [
-    "https://www.budgetbytes.com/wp-content/uploads/2019/06/Cold-Peanut-Noodle-Salad-add-dressing.jpg",
-    "https://www.budgetbytes.com/wp-content/uploads/2019/06/Cold-Peanut-Noodle-Salad-add-dressing-500x500.jpg",
-    "https://www.budgetbytes.com/wp-content/uploads/2019/06/Cold-Peanut-Noodle-Salad-add-dressing-500x375.jpg",
-    "https://www.budgetbytes.com/wp-content/uploads/2019/06/Cold-Peanut-Noodle-Salad-add-dressing-480x270.jpg"
-  ],
+  "image": {
+    "@type": "ImageObject",
+    "height": 600,
+    "mime": "image/jpeg",
+    "url": "https://www.budgetbytes.com/wp-content/uploads/2019/06/Cold-Peanut-Noodle-Salad-add-dressing.jpg",
+    "width": 800
+  },
   "keywords": "cold lunch, Lunch Meal Prep, Summer Recipes",
   "name": "Cold Peanut Noodle Salad",
   "nutrition": {

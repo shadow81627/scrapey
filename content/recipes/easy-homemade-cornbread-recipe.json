@@ -13,12 +13,13 @@
   "createdAt": "2020-10-08T05:34:56.623Z",
   "datePublished": "2015-09-05T11:24:58+00:00",
   "description": "Toss that boxed mix and make this fast and Easy Homemade Cornbread, which makes a great side dish for breakfast, lunch, or dinner! ",
-  "image": [
-    "https://www.budgetbytes.com/wp-content/uploads/2015/09/Everyday-Cornbread-V2.jpg",
-    "https://www.budgetbytes.com/wp-content/uploads/2015/09/Everyday-Cornbread-V2-500x500.jpg",
-    "https://www.budgetbytes.com/wp-content/uploads/2015/09/Everyday-Cornbread-V2-500x375.jpg",
-    "https://www.budgetbytes.com/wp-content/uploads/2015/09/Everyday-Cornbread-V2-480x270.jpg"
-  ],
+  "image": {
+    "@type": "ImageObject",
+    "height": 1067,
+    "mime": "image/jpeg",
+    "url": "https://www.budgetbytes.com/wp-content/uploads/2015/09/Everyday-Cornbread-V2.jpg",
+    "width": 800
+  },
   "keywords": "easy, Side Dish, Vegetarian",
   "name": "Easy Homemade Cornbread Recipe",
   "nutrition": {

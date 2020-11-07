@@ -13,12 +13,13 @@
   "createdAt": "2020-10-08T05:42:34.444Z",
   "datePublished": "2016-01-11T16:21:14+00:00",
   "description": "This rich and comforting One Pot Vegetarian Chili Mac and Cheese is the perfect quick and easy weeknight meal. Works great for meal prep! ",
-  "image": [
-    "https://www.budgetbytes.com/wp-content/uploads/2016/01/Cheesy-Vegetarian-Chili-Mac-close-1.jpg",
-    "https://www.budgetbytes.com/wp-content/uploads/2016/01/Cheesy-Vegetarian-Chili-Mac-close-1-500x480.jpg",
-    "https://www.budgetbytes.com/wp-content/uploads/2016/01/Cheesy-Vegetarian-Chili-Mac-close-1-500x375.jpg",
-    "https://www.budgetbytes.com/wp-content/uploads/2016/01/Cheesy-Vegetarian-Chili-Mac-close-1-480x270.jpg"
-  ],
+  "image": {
+    "@type": "ImageObject",
+    "height": 480,
+    "mime": "image/jpeg",
+    "url": "https://www.budgetbytes.com/wp-content/uploads/2016/01/Cheesy-Vegetarian-Chili-Mac-close-1.jpg",
+    "width": 640
+  },
   "keywords": "Easy Dinner, One Pot Meal, vegetarian pasta",
   "name": "One Pot Cheesy Vegetarian Chili Mac",
   "nutrition": {

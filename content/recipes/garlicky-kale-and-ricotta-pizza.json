@@ -13,12 +13,13 @@
   "createdAt": "2020-10-08T05:37:21.304Z",
   "datePublished": "2018-05-04T12:45:16+00:00",
   "description": "Garlicky greens and creamy ricotta pair perfectly on this light and fresh Garlicky Kale and Ricotta Pizza. It’s the perfect pizza for summer! ",
-  "image": [
-    "https://www.budgetbytes.com/wp-content/uploads/2018/05/Garlicky-Kale-and-Ricotta-Pizza-close.jpg",
-    "https://www.budgetbytes.com/wp-content/uploads/2018/05/Garlicky-Kale-and-Ricotta-Pizza-close-500x500.jpg",
-    "https://www.budgetbytes.com/wp-content/uploads/2018/05/Garlicky-Kale-and-Ricotta-Pizza-close-500x375.jpg",
-    "https://www.budgetbytes.com/wp-content/uploads/2018/05/Garlicky-Kale-and-Ricotta-Pizza-close-480x270.jpg"
-  ],
+  "image": {
+    "@type": "ImageObject",
+    "height": 600,
+    "mime": "image/jpeg",
+    "url": "https://www.budgetbytes.com/wp-content/uploads/2018/05/Garlicky-Kale-and-Ricotta-Pizza-close.jpg",
+    "width": 800
+  },
   "name": "Garlicky Kale and Ricotta Pizza",
   "nutrition": {
     "@type": "NutritionInformation",

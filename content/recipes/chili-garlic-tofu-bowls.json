@@ -13,12 +13,13 @@
   "createdAt": "2020-10-08T05:27:29.711Z",
   "datePublished": "2016-09-14T13:01:40+00:00",
   "description": "Chili Garlic Tofu Bowls are a fiber and flavor filled healthy lunch that you can pre-pack for your week ahead",
-  "image": [
-    "https://www.budgetbytes.com/wp-content/uploads/2016/09/Chili-Garlic-Tofu-Bowls-close-1.jpg",
-    "https://www.budgetbytes.com/wp-content/uploads/2016/09/Chili-Garlic-Tofu-Bowls-close-1-500x500.jpg",
-    "https://www.budgetbytes.com/wp-content/uploads/2016/09/Chili-Garlic-Tofu-Bowls-close-1-500x375.jpg",
-    "https://www.budgetbytes.com/wp-content/uploads/2016/09/Chili-Garlic-Tofu-Bowls-close-1-480x270.jpg"
-  ],
+  "image": {
+    "@type": "ImageObject",
+    "height": 600,
+    "mime": "image/jpeg",
+    "url": "https://www.budgetbytes.com/wp-content/uploads/2016/09/Chili-Garlic-Tofu-Bowls-close-1.jpg",
+    "width": 800
+  },
   "keywords": "bowl meals, Lunch Meal Prep, vegan meal prep",
   "name": "Chili Garlic Tofu Bowls",
   "nutrition": {

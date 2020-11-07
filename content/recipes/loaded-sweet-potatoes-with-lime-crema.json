@@ -13,12 +13,13 @@
   "createdAt": "2020-10-08T05:40:27.842Z",
   "datePublished": "2019-01-12T13:19:20+00:00",
   "description": "Loaded Sweet Potatoes are the perfect pre-portioned item for your weekly meal prep. They reheat well and can be customized to fit your needs. ",
-  "image": [
-    "https://www.budgetbytes.com/wp-content/uploads/2019/01/Loaded-Sweet-Potatoes-single.jpg",
-    "https://www.budgetbytes.com/wp-content/uploads/2019/01/Loaded-Sweet-Potatoes-single-500x500.jpg",
-    "https://www.budgetbytes.com/wp-content/uploads/2019/01/Loaded-Sweet-Potatoes-single-500x375.jpg",
-    "https://www.budgetbytes.com/wp-content/uploads/2019/01/Loaded-Sweet-Potatoes-single-480x270.jpg"
-  ],
+  "image": {
+    "@type": "ImageObject",
+    "height": 600,
+    "mime": "image/jpeg",
+    "url": "https://www.budgetbytes.com/wp-content/uploads/2019/01/Loaded-Sweet-Potatoes-single.jpg",
+    "width": 800
+  },
   "keywords": "Vegetarian",
   "name": "Loaded Sweet Potatoes with Lime Crema",
   "nutrition": {

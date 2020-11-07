@@ -13,7 +13,13 @@
   "brand": "Coles",
   "createdAt": "2020-10-09T00:07:46.217Z",
   "description": "Coles Brown Onion Shallots loose",
-  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/1/3/5134809.jpg",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/1/3/5134809.jpg",
+    "width": 300
+  },
   "name": "Brown Onion Shallots loose",
   "offers": {
     "@type": "AggregateOffer",

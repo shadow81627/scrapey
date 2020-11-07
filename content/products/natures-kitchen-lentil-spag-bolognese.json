@@ -21,7 +21,13 @@
   "brand": "Coles",
   "createdAt": "2020-10-14T00:56:59.343Z",
   "description": "Coles Natures Kitchen Lentil Spag Bolognese",
-  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/4/6/3468031.jpg",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/4/6/3468031.jpg",
+    "width": 300
+  },
   "name": "Natures Kitchen Lentil Spag Bolognese",
   "offers": {
     "@type": "AggregateOffer",

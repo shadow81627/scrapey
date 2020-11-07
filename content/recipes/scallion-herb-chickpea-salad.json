@@ -12,12 +12,13 @@
   "createdAt": "2020-10-08T05:46:10.838Z",
   "datePublished": "2019-03-10T15:39:12+00:00",
   "description": "Light, bright, and full of spring flavors, this Scallion Herb Chickpea Salad will keep you full all afternoon. Serve as a sandwich, wrap, or salad! ",
-  "image": [
-    "https://www.budgetbytes.com/wp-content/uploads/2019/03/Scallion-Herb-Chickpea-Salad-Sandwich-hand.jpg",
-    "https://www.budgetbytes.com/wp-content/uploads/2019/03/Scallion-Herb-Chickpea-Salad-Sandwich-hand-500x500.jpg",
-    "https://www.budgetbytes.com/wp-content/uploads/2019/03/Scallion-Herb-Chickpea-Salad-Sandwich-hand-500x375.jpg",
-    "https://www.budgetbytes.com/wp-content/uploads/2019/03/Scallion-Herb-Chickpea-Salad-Sandwich-hand-480x270.jpg"
-  ],
+  "image": {
+    "@type": "ImageObject",
+    "height": 600,
+    "mime": "image/jpeg",
+    "url": "https://www.budgetbytes.com/wp-content/uploads/2019/03/Scallion-Herb-Chickpea-Salad-Sandwich-hand.jpg",
+    "width": 800
+  },
   "keywords": "cold lunch, Hot Sandwich, meal prep",
   "name": "Scallion Herb Chickpea Salad",
   "nutrition": {

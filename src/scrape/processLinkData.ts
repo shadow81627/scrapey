@@ -174,6 +174,9 @@ export async function processLinkData({ chunkData, chunk, fileUrlMap, argv }: Pr
       }
 
       if (linkData.author && linkData.author['@type'] === 'Person') {
+        linkData.author.name = linkData.author.name.replace('Adapted from', '');
+        linkData.author.name = linkData.author.name.replace('adapted recipe from', '');
+        linkData.author.name = formatString(linkData.author.name);
         const personSlug = slugify(linkData.author.name, {
           lower: true,
           strict: true,

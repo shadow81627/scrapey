@@ -17,7 +17,13 @@
   "brand": "Pukka",
   "createdAt": "2020-10-09T04:13:31.935Z",
   "description": "Pukka Organic Feel New Herbal Tea Sachets 20 pack",
-  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/2/4/3248750.jpg",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/2/4/3248750.jpg",
+    "width": 300
+  },
   "name": "Organic Feel New Herbal Tea Sachets 20 pack",
   "offers": {
     "@type": "AggregateOffer",

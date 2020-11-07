@@ -13,12 +13,13 @@
   "createdAt": "2020-10-08T05:56:02.574Z",
   "datePublished": "2020-02-25T15:29:51+00:00",
   "description": "Tender baked sweet potatoes smothered with turkey and bean chili, then topped with melty cheddar. Turkey Chili Smothered Sweet Potatoes are an easy dinner!",
-  "image": [
-    "https://www.budgetbytes.com/wp-content/uploads/2015/12/Turkey-Chili-Smothered-Sweet-Potatoes-side-2.jpg",
-    "https://www.budgetbytes.com/wp-content/uploads/2015/12/Turkey-Chili-Smothered-Sweet-Potatoes-side-2-500x500.jpg",
-    "https://www.budgetbytes.com/wp-content/uploads/2015/12/Turkey-Chili-Smothered-Sweet-Potatoes-side-2-500x375.jpg",
-    "https://www.budgetbytes.com/wp-content/uploads/2015/12/Turkey-Chili-Smothered-Sweet-Potatoes-side-2-480x270.jpg"
-  ],
+  "image": {
+    "@type": "ImageObject",
+    "height": 600,
+    "mime": "image/jpeg",
+    "url": "https://www.budgetbytes.com/wp-content/uploads/2015/12/Turkey-Chili-Smothered-Sweet-Potatoes-side-2.jpg",
+    "width": 800
+  },
   "keywords": "meal prep ideas, stuffed sweet potatoes",
   "name": "Turkey Chili Smothered Sweet Potatoes",
   "nutrition": {
