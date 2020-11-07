@@ -18,6 +18,7 @@ import fromatInstructions from '../utils/fromatInstructions';
 import parseDuration from '../utils/parseDuration';
 import Organization from '../models/Organization';
 import ContentService from '../content.service';
+import ImageObject from '../models/ImageObject';
 
 interface ProcessLinkDataParams {
   // eslint-disable-next-line @typescript-eslint/no-explicit-any
@@ -115,6 +116,17 @@ export async function processLinkData({ chunkData, chunk, fileUrlMap, argv }: Pr
         linkData.additionalProperty,
         'name',
       );
+    }
+
+    if (linkData.image) {
+      const image = Array.isArray(linkData.image) && typeof linkData.image !== "string" ? _.head(linkData.image) : linkData.image;
+      const imageUrl = typeof image === "object" && image.url ? image.url : image;
+      if (typeof imageUrl === 'string') {
+        try {
+          const imageMeta = await ImageObject.fetchMeta(imageUrl);
+          linkData.image = new ImageObject({ url: imageUrl, ...imageMeta });
+        } catch (_) { }
+      }
     }
 
     if (linkData instanceof Recipe) {

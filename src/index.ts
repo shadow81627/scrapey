@@ -1,5 +1,4 @@
 import yargs from 'yargs';
-import Thing from './models/Thing';
 import scrape from './scrape';
 import { getFileUrlMap } from './scrape/getFileUrlMap';
 import { processLinkData } from './scrape/processLinkData'
@@ -24,6 +23,12 @@ const argv = yargs
     type: 'string',
     default: '',
   })
+  .option('url', {
+    alias: 'u',
+    description: 'URL',
+    type: 'string',
+    default: '',
+  })
   .help()
   .alias('help', 'h').argv;
 
@@ -42,7 +47,7 @@ const argv = yargs
   for (const [url, filename] of fileUrlMap.entries()) {
     tempFileNameMap.set(filename, [...tempFileNameMap.get(filename) ?? [], url]);
   }
-  const urls: string[][] = Array.from(tempFileNameMap.values()) ?? [];
+  const urls: string[][] = argv.url ? [[argv.url]] : Array.from(tempFileNameMap.values()) ?? [];
   const total = urls.length;
 
   // crawl urls

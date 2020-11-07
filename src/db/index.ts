@@ -9,6 +9,8 @@ import { Organization } from "./entity/Organization";
 import slugify from "slugify";
 import _ from "lodash";
 import { Thing } from "./entity/Thing";
+import { Image } from "./entity/Image";
+import ImageObject from "../models/ImageObject";
 const { readFile } = fsPromises;
 
 createConnection().then(async connection => {
@@ -25,6 +27,31 @@ createConnection().then(async connection => {
             const url = new Url({ hostname, pathname, search });
             urls.push(url)
             await connection.manager.save(url);
+        }
+
+        if (content.image) {
+            const imageObject = Array.isArray(content.image) && typeof content.image !== "string" ? _.head(content.image) : content.image;
+            const imageUrl = typeof imageObject === "object" && imageObject.url ? imageObject.url : imageObject;
+            const { hostname, pathname, search } = new URL(normalizeUrl(imageUrl));
+            const url = new Url({ hostname, pathname, search });
+            await connection.manager.save(url);
+            if (typeof imageUrl === 'string') {
+                try {
+                    const imageMeta = await ImageObject.fetchMeta(imageUrl);
+                    url.crawledAt = new Date();
+                    const image = (await connection.manager.findOne(Image, { where: [{ url }] })) ?? connection.manager.create(Image, { ...imageMeta, url });
+                    // if (typeof imageObject === "object") {
+                    // // TODO: remove url string from imageObject before merge
+                    //     connection.manager.merge(Image, image, imageObject);
+                    // }
+                    await connection.manager.save(image);
+                    await connection.manager.save(url);
+                } catch (e) {
+                    console.error(e);
+                    const image = (await connection.manager.findOne(Image, { where: [{ url }] })) ?? connection.manager.create(Image, { url });
+                    await connection.manager.save(image);
+                }
+            }
         }
 
         if (name) {

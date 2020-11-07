@@ -1,15 +1,18 @@
-import { Column, Entity, ManyToOne } from "typeorm";
+import { Column, Entity, JoinColumn, OneToOne } from "typeorm";
 import { Base } from "../util/Base";
 import { Url } from "./Url";
 
 
 @Entity()
 export class Image extends Base {
-  @Column()
+  @Column({ nullable: true })
   height?: number;
-  @Column()
+  @Column({ nullable: true })
   width?: number;
+  @Column({ nullable: true })
+  mime?: string;
 
-  @ManyToOne(() => Url)
+  @OneToOne(() => Url)
+  @JoinColumn()
   url?: Url;
 }

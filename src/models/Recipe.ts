@@ -3,11 +3,9 @@ import HowToSection from './HowToSection';
 import HowToStep from './HowToStep';
 import Person from './Person';
 import Thing from './Thing';
-import ImageObject from './ImageObject';
 
 export default class Recipe extends Thing {
   '@type' = 'Recipe';
-  image?: ImageObject;
   prepTime?: string;
   totalTime?: string;
   cookTime?: string;
