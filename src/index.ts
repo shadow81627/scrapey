@@ -1,4 +1,5 @@
 import yargs from 'yargs';
+import Thing from './models/Thing';
 import scrape from './scrape';
 import { getFileUrlMap } from './scrape/getFileUrlMap';
 import { processLinkData } from './scrape/processLinkData'
@@ -58,6 +59,6 @@ const argv = yargs
       }
     }
 
-    await processLinkData({ chunk, chunkData, fileUrlMap, argv })
+    await processLinkData({ chunk, chunkData, fileUrlMap, argv });
   }
 })();

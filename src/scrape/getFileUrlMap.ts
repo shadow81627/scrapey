@@ -14,6 +14,7 @@ export async function getFileUrlMap(argv: Record<string, unknown>): Promise<Map<
     if (
       !argv['only-new'] &&
       content.sameAs &&
+      content['@type'] !== 'Person' &&
       (!argv.scrape ||
         !content.updatedAt ||
         DateTime.fromISO(content.updatedAt) <
