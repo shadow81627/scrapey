@@ -3,7 +3,9 @@ const { readFile, mkdir } = fsPromises;
 import { DateTime } from 'luxon';
 import getFiles from '../utils/getFiles';
 
-export async function getFileUrlMap(argv: Record<string, unknown>): Promise<Map<string, string>> {
+export async function getFileUrlMap(
+  argv: Record<string, unknown>,
+): Promise<Map<string, string>> {
   const fileUrlMap: Map<string, string> = new Map();
   const folder = `content/${argv.collection}`;
   await mkdir(folder, { recursive: true });

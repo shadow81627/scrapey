@@ -96,10 +96,7 @@ export function processHtml(url: string, html: string): Thing | undefined {
             sugars: 'sugarContent',
             sodium: 'sodiumContent',
           };
-          const nutrition = renameKeys(
-            nutritionKeyRenameMap,
-            nutritionScraped,
-          );
+          const nutrition = renameKeys(nutritionKeyRenameMap, nutritionScraped);
           linkData.additionalProperty = linkData.additionalProperty
             ? linkData.additionalProperty
             : [];

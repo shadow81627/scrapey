@@ -23,17 +23,22 @@ import probe from 'probe-image-size';
 
 interface ProcessLinkDataParams {
   // eslint-disable-next-line @typescript-eslint/no-explicit-any
-  chunkData: Array<any>,
-  chunk: Array<string>,
-  fileUrlMap: Map<string, string>,
-  argv: Record<string, unknown>,
+  chunkData: Array<any>;
+  chunk: Array<string>;
+  fileUrlMap: Map<string, string>;
+  argv: Record<string, unknown>;
 }
 
-export async function processLinkData({ chunkData, chunk, fileUrlMap, argv }: ProcessLinkDataParams): Promise<void> {
+export async function processLinkData({
+  chunkData,
+  chunk,
+  fileUrlMap,
+  argv,
+}: ProcessLinkDataParams): Promise<void> {
   const headChunk = _.head(chunk);
 
   if (headChunk && fileUrlMap.get(headChunk)) {
-    const filename = fileUrlMap.get(headChunk)
+    const filename = fileUrlMap.get(headChunk);
     if (filename) {
       const file = JSON.parse(
         await readFile(filename, {
@@ -45,7 +50,6 @@ export async function processLinkData({ chunkData, chunk, fileUrlMap, argv }: Pr
   }
   // make sure existing file is first so all other data gets merged onto it.
   _.reverse(chunkData);
-
 
   // normalize attribute names
   chunkData.forEach((item, index) => {
@@ -108,8 +112,7 @@ export async function processLinkData({ chunkData, chunk, fileUrlMap, argv }: Pr
       : _.upperFirst(linkData['@type']);
 
     const type =
-      _.upperFirst(linkData['@type']) ||
-      _.upperFirst(pluralize(collection, 1));
+      _.upperFirst(linkData['@type']) || _.upperFirst(pluralize(collection, 1));
     linkData['@type'] = type;
 
     if (linkData.additionalProperty) {
@@ -120,8 +123,12 @@ export async function processLinkData({ chunkData, chunk, fileUrlMap, argv }: Pr
     }
 
     if (linkData.image) {
-      const image = Array.isArray(linkData.image) && typeof linkData.image !== "string" ? _.head(linkData.image) : linkData.image;
-      const imageUrl = typeof image === "object" && image.url ? image.url : image;
+      const image =
+        Array.isArray(linkData.image) && typeof linkData.image !== 'string'
+          ? _.head(linkData.image)
+          : linkData.image;
+      const imageUrl =
+        typeof image === 'object' && image.url ? image.url : image;
       if (typeof imageUrl === 'string') {
         try {
           const imageMeta = await probe(imageUrl);
@@ -131,11 +138,16 @@ export async function processLinkData({ chunkData, chunk, fileUrlMap, argv }: Pr
     }
 
     if (linkData instanceof Recipe) {
-      const durationProperties = new Map(Object.entries(_.pick(linkData, ['prepTime', 'totalTime', 'cookTime'])).filter(Boolean)) as Map<keyof Pick<Recipe, 'prepTime' | 'totalTime' | 'cookTime'>, string>
+      const durationProperties = new Map(
+        Object.entries(
+          _.pick(linkData, ['prepTime', 'totalTime', 'cookTime']),
+        ).filter(Boolean),
+      ) as Map<
+        keyof Pick<Recipe, 'prepTime' | 'totalTime' | 'cookTime'>,
+        string
+      >;
       for (const [key, value] of durationProperties) {
-        if (
-          !Duration.fromISO(value).toJSON()
-        ) {
+        if (!Duration.fromISO(value).toJSON()) {
           linkData[key] = parseDuration(value);
         }
       }
@@ -176,7 +188,10 @@ export async function processLinkData({ chunkData, chunk, fileUrlMap, argv }: Pr
 
       if (linkData.author && linkData.author['@type'] === 'Person') {
         linkData.author.name = linkData.author.name.replace('Adapted from', '');
-        linkData.author.name = linkData.author.name.replace('adapted recipe from', '');
+        linkData.author.name = linkData.author.name.replace(
+          'adapted recipe from',
+          '',
+        );
         linkData.author.name = formatString(linkData.author.name);
         const personSlug = slugify(linkData.author.name, {
           lower: true,
@@ -237,10 +252,7 @@ export async function processLinkData({ chunkData, chunk, fileUrlMap, argv }: Pr
     if (linkData instanceof Product) {
       // dedup and print offers to offers collection
       if (linkData.offers && linkData.offers.offers) {
-        linkData.offers.offers = _.uniqBy(
-          linkData.offers.offers,
-          'offeredBy',
-        );
+        linkData.offers.offers = _.uniqBy(linkData.offers.offers, 'offeredBy');
         linkData.offers = {
           // priceCurrency: _.head(_.map(linkData.offers.offers, 'priceCurrency')),
           ...linkData.offers,
@@ -285,32 +297,34 @@ export async function processLinkData({ chunkData, chunk, fileUrlMap, argv }: Pr
         _.partition(organizations, 'name'),
         (orgs) =>
           merge.all(orgs, { arrayMerge: overwriteMerge }) as Organization,
-      ).filter(({ name }) => name).map(async (organization: Organization) => {
-        const { name } = organization;
-        const orgSlug = `${slugify(name, {
-          lower: true,
-          strict: true,
-        })}`;
-        const folder = `content/organizations/`;
-        const oldData =
-          (await ContentService.load({ folder, slug: orgSlug })) ?? {};
-        const data = new Organization({
-          ...oldData,
-          ...organization,
-          name: name.split(' ').map(_.capitalize).join(' '),
-          '@type': 'Organization',
-          '@id': undefined,
-          '@context': undefined,
+      )
+        .filter(({ name }) => name)
+        .map(async (organization: Organization) => {
+          const { name } = organization;
+          const orgSlug = `${slugify(name, {
+            lower: true,
+            strict: true,
+          })}`;
+          const folder = `content/organizations/`;
+          const oldData =
+            (await ContentService.load({ folder, slug: orgSlug })) ?? {};
+          const data = new Organization({
+            ...oldData,
+            ...organization,
+            name: name.split(' ').map(_.capitalize).join(' '),
+            '@type': 'Organization',
+            '@id': undefined,
+            '@context': undefined,
+          });
+          if (argv.scrape || !data.updatedAt) {
+            data.updatedAt = new Date();
+          }
+          await ContentService.save({
+            data,
+            slug: orgSlug,
+            folder,
+          });
         });
-        if (argv.scrape || !data.updatedAt) {
-          data.updatedAt = new Date();
-        }
-        await ContentService.save({
-          data,
-          slug: orgSlug,
-          folder,
-        });
-      });
     }
 
     // linkData.name = linkData.name || linkData.title;
