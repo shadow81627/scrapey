@@ -1,3 +1,4 @@
+import NutritionInformation from './NutritionInformation';
 import parseInstructions from '../utils/parseInstructions';
 import HowToSection from './HowToSection';
 import HowToStep from './HowToStep';
@@ -15,6 +16,7 @@ export default class Recipe extends Thing {
   recipeCuisine?: string;
   author?: Person;
   video?: Record<string, unknown>;
+  nutrition?: NutritionInformation;
 
   constructor({ recipeInstructions = [], ...data }: Recipe) {
     super(data);

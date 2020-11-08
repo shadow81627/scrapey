@@ -20,6 +20,7 @@ import Organization from '../models/Organization';
 import ContentService from '../content.service';
 import ImageObject from '../models/ImageObject';
 import probe from 'probe-image-size';
+import NutritionInformation from '../models/NutritionInformation';
 
 interface ProcessLinkDataParams {
   // eslint-disable-next-line @typescript-eslint/no-explicit-any
@@ -131,8 +132,8 @@ export async function processLinkData({
         typeof image === 'object' && image.url ? image.url : image;
       if (typeof imageUrl === 'string') {
         try {
-          const imageMeta = await probe(imageUrl);
-          linkData.image = new ImageObject(imageMeta);
+          const { width, height, mime, url } = await probe(imageUrl);
+          linkData.image = new ImageObject({ url, width, height, mime });
         } catch (_) { }
       }
     }
@@ -150,6 +151,10 @@ export async function processLinkData({
         if (!Duration.fromISO(value).toJSON()) {
           linkData[key] = parseDuration(value);
         }
+      }
+
+      if (typeof linkData.recipeYield === 'string') {
+        linkData.recipeYield?.replace('servings', '')?.replace('Serves', '');
       }
 
       const recipeIngredientChunkData = _.find(
@@ -222,6 +227,20 @@ export async function processLinkData({
           '@context': undefined,
         };
         await ContentService.save({ data, slug: personSlug, folder });
+      }
+
+      if (linkData.nutrition) {
+        // calories are confusing
+        // linkData.nutrition?.calories?.replace(/(?<quantity>\d+) (?<unit>calories)/, function (match, quantity, unit) {
+        //   return `${quantity} ${unit}`;
+        // })
+        for (const [key, value] of Object.entries(linkData.nutrition)) {
+          linkData.nutrition[key as keyof NutritionInformation] = _.trim(
+            value
+              ?.replace(/carbohydrate|fat|fibre|protein|sugar|salt/, '')
+              ?.replace('grams', 'g'),
+          );
+        }
       }
 
       // if (linkData.youtubeUrl) {

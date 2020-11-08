@@ -14,6 +14,7 @@ import { Person } from './entity/Person';
 const { readFile } = fsPromises;
 import probe from 'probe-image-size';
 import { Recipe } from './entity/Recipe';
+import { NutritionInformation } from './entity/NutritionInformation';
 
 createConnection()
     .then(async (connection) => {
@@ -145,6 +146,18 @@ createConnection()
                 }
 
                 if (type === 'Recipe') {
+                    if (content.nutrition) {
+                        const nutrition =
+                            (await connection.manager.findOne(NutritionInformation, {
+                                where: [{ thing }],
+                            })) ??
+                            connection.manager.create(NutritionInformation, {
+                                thing,
+                                dated: { createdAt, updatedAt },
+                            });
+                        connection.manager.merge(NutritionInformation, nutrition, content.nutrition);
+                        await connection.manager.save(nutrition);
+                    }
                     const recipe =
                         (await connection.manager.findOne(Recipe, {
                             where: [{ thing }],
