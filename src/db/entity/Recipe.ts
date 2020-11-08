@@ -1,4 +1,4 @@
-import { Column, Entity, JoinColumn, OneToOne } from "typeorm";
+import { Column, Entity, JoinColumn, ManyToOne, OneToOne } from "typeorm";
 import { Base } from "../util/Base";
 import { Thing } from "./Thing";
 
@@ -20,8 +20,8 @@ export class Recipe extends Base {
   @JoinColumn()
   thing?: Thing;
 
-  // @ManyToOne(() => Person)
-  // author?: Person;
+  // @ManyToOne(() => Thing)
+  // author?: Thing;
 
   // video?: Record<string, unknown>;
   // image?: ImageObject;

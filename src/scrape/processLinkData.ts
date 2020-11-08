@@ -237,7 +237,7 @@ export async function processLinkData({
         for (const [key, value] of Object.entries(linkData.nutrition)) {
           linkData.nutrition[key as keyof NutritionInformation] = _.trim(
             value
-              ?.replace(/carbohydrate|fat|fibre|protein|sugar|salt/, '')
+              ?.replace(/carbohydrate|fat|fibre|protein|sugar|salt|saturated/, '')
               ?.replace('grams', 'g'),
           );
         }

@@ -40,57 +40,60 @@ createConnection()
                 await connection.manager.save(url);
             }
 
-            if (content.image) {
-                const imageObject =
-                    Array.isArray(content.image) && typeof content.image !== 'string'
-                        ? _.head(content.image)
-                        : content.image;
-                const imageUrl =
-                    typeof imageObject === 'object' && imageObject.url
-                        ? imageObject.url
-                        : imageObject;
-                const { hostname, pathname, search } = new URL(normalizeUrl(imageUrl));
-                const url = new Url({ hostname, pathname, search });
-                await connection.manager.save(url);
-                if (typeof imageUrl === 'string') {
-                    const image =
-                        (await connection.manager.findOne(Image, { where: [{ url }] })) ??
-                        connection.manager.create(Image, { url });
-                    if (!url.crawledAt) {
-                        try {
-                            const { width, height, mime } = await probe(imageUrl);
-                            connection.manager.merge(Image, image, { width, height, mime });
-                            url.crawledAt = new Date();
-                            // if (typeof imageObject === "object") {
-                            // // TODO: remove url string from imageObject before merge
-                            //     connection.manager.merge(Image, image, imageObject);
-                            // }
-                            await connection.manager.save(image);
-                            await connection.manager.save(url);
-                        } catch (e) {
-                            console.error(e);
-                        }
-                    }
-                    await connection.manager.save(image);
-                }
-            }
-
             if (name) {
                 const slug = `${slugify(name, {
                     lower: true,
                     strict: true,
                 })}`;
                 const thing =
-                    (await connection.manager.findOne(Thing, { where: [{ slug }] })) ??
+                    (await connection.manager.findOne(Thing, { where: [{ slug }], relations: ["images", "urls"] })) ??
                     connection.manager.create(Thing, { dated: { createdAt, updatedAt } });
                 connection.manager.merge(Thing, thing, {
                     type,
                     slug,
                     name: name.split(' ').map(_.capitalize).join(' '),
                     description,
-                    urls,
                 });
+                thing.urls = (thing.urls ?? []).concat(urls)
                 await connection.manager.save(thing);
+
+                if (content.image) {
+                    const imageObject =
+                        Array.isArray(content.image) && typeof content.image !== 'string'
+                            ? _.head(content.image)
+                            : content.image;
+                    const imageUrl =
+                        typeof imageObject === 'object' && imageObject.url
+                            ? imageObject.url
+                            : imageObject;
+                    const { hostname, pathname, search } = new URL(normalizeUrl(imageUrl));
+                    const url = new Url({ hostname, pathname, search });
+                    await connection.manager.save(url);
+                    if (typeof imageUrl === 'string') {
+                        const image =
+                            (await connection.manager.findOne(Image, { where: [{ url }] })) ??
+                            connection.manager.create(Image, { url });
+                        if (!url.crawledAt) {
+                            try {
+                                const { width, height, mime } = await probe(imageUrl);
+                                connection.manager.merge(Image, image, { width, height, mime });
+                                // if (typeof imageObject === "object") {
+                                // // TODO: remove url string from imageObject before merge
+                                //     connection.manager.merge(Image, image, imageObject);
+                                // }
+                                await connection.manager.save(image);
+                                await connection.manager.save(url);
+                            } catch (e) {
+                                console.error(e);
+                            } finally {
+                                url.crawledAt = new Date();
+                            }
+                        }
+                        await connection.manager.save(image);
+                        thing.images?.push(image);
+                        await connection.manager.save(thing);
+                    }
+                }
 
                 if (type === 'Product') {
                     const { gtin13, brand } = content;
