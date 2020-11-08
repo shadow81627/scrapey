@@ -13,6 +13,7 @@ import { Image } from "./entity/Image";
 import { Person } from "./entity/Person";
 const { readFile } = fsPromises;
 import probe from 'probe-image-size';
+import { Recipe } from "./entity/Recipe";
 
 createConnection().then(async connection => {
 
@@ -92,8 +93,15 @@ createConnection().then(async connection => {
             }
 
             if (type === 'Person') {
-                const person = (await connection.manager.findOne(Person, { where: [{ thing }] })) ?? connection.manager.create(Person, { thing });
+                const person = (await connection.manager.findOne(Person, { where: [{ thing }] })) ?? connection.manager.create(Person, { thing, dated: { createdAt, updatedAt } });
                 await connection.manager.save(person);
+            }
+
+            if (type === 'Recipe') {
+                const recipe = (await connection.manager.findOne(Recipe, { where: [{ thing }] })) ?? connection.manager.create(Recipe, { thing, dated: { createdAt, updatedAt } });
+                const { recipeYield, recipeCuisine } = content;
+                connection.manager.merge(Recipe, recipe, { ...content, thing, recipeCuisine: typeof recipeCuisine === "string" ? recipeCuisine : null, recipeYield: _.trim(recipeYield?.replace('servings', '').replace('Serves', '')) });
+                await connection.manager.save(recipe);
             }
         }
         if (type === 'Organization') {

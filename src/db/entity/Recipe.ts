@@ -5,15 +5,15 @@ import { Thing } from "./Thing";
 
 @Entity()
 export class Recipe extends Base {
-  @Column()
+  @Column({ nullable: true })
   prepTime?: string;
-  @Column()
+  @Column({ nullable: true })
   totalTime?: string;
-  @Column()
+  @Column({ nullable: true })
   cookTime?: string;
-  @Column()
+  @Column({ nullable: true })
   recipeYield?: string;
-  @Column()
+  @Column({ nullable: true })
   recipeCuisine?: string;
 
   @OneToOne(() => Thing, { nullable: false })
