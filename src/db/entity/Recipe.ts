@@ -15,13 +15,20 @@ export class Recipe extends Base {
   recipeYield?: string;
   @Column({ nullable: true })
   recipeCuisine?: string;
+  @Column({ nullable: true })
+  recipeCategory?: string;
+
+  @Column({ type: "simple-array", nullable: true })
+  suitableForDiet?: string;
+  @Column({ type: "simple-array", nullable: true })
+  keywords?: string[];
 
   @OneToOne(() => Thing, { nullable: false })
   @JoinColumn()
   thing?: Thing;
 
-  // @ManyToOne(() => Thing)
-  // author?: Thing;
+  @ManyToOne(() => Thing, { nullable: true })
+  author?: Thing;
 
   // video?: Record<string, unknown>;
   // image?: ImageObject;

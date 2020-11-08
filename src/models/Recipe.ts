@@ -4,6 +4,8 @@ import HowToSection from './HowToSection';
 import HowToStep from './HowToStep';
 import Person from './Person';
 import Thing from './Thing';
+import { RestrictedDiet } from 'schema-dts';
+import RecipeCategory from './RecipeCategory';
 
 export default class Recipe extends Thing {
   '@type' = 'Recipe';
@@ -17,6 +19,8 @@ export default class Recipe extends Thing {
   author?: Person;
   video?: Record<string, unknown>;
   nutrition?: NutritionInformation;
+  recipeCategory?: RecipeCategory;
+  suitableForDiet?: RestrictedDiet;
 
   constructor({ recipeInstructions = [], ...data }: Recipe) {
     super(data);

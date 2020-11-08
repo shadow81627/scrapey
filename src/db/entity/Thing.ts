@@ -11,7 +11,7 @@ export class Thing extends Base {
   @Column({ nullable: true, unique: true })
   slug?: string;
   @Column({ nullable: true, unique: true })
-  name?: string;
+  name!: string;
   @Column({ nullable: true, type: 'text' })
   description?: string;
 

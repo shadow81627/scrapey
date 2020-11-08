@@ -1,5 +1,5 @@
 import normalizeUrl from "normalize-url";
-import { Entity, Column, AfterLoad } from "typeorm";
+import { Entity, Column, AfterLoad, ManyToMany, JoinTable } from "typeorm";
 import { v5 as uuidv5 } from 'uuid';
 import { Dated } from "../util/Dated";
 
@@ -23,6 +23,14 @@ export class Url {
     })
     dated?: Dated;
 
+    // all the urls on this page
+    @ManyToMany(() => Url, { nullable: true })
+    @JoinTable({
+        name: "url_urls",
+    })
+    urls?: Url[];
+
+    // computed full url property
     url?: string;
 
     @AfterLoad()

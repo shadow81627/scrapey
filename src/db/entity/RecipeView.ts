@@ -11,6 +11,7 @@ import { ViewColumn, ViewEntity } from "typeorm";
       r.cookTime,
       r.recipeYield,
       r.recipeCuisine,
+      r.keywords,
       t.createdAt,
       t.updatedAt
   FROM thing AS t

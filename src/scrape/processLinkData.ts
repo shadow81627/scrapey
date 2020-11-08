@@ -21,6 +21,7 @@ import ContentService from '../content.service';
 import ImageObject from '../models/ImageObject';
 import probe from 'probe-image-size';
 import NutritionInformation from '../models/NutritionInformation';
+import RecipeCategory from '../models/RecipeCategory';
 
 interface ProcessLinkDataParams {
   // eslint-disable-next-line @typescript-eslint/no-explicit-any
@@ -237,9 +238,24 @@ export async function processLinkData({
         for (const [key, value] of Object.entries(linkData.nutrition)) {
           linkData.nutrition[key as keyof NutritionInformation] = _.trim(
             value
-              ?.replace(/carbohydrate|fat|fibre|protein|sugar|salt|saturated/, '')
+              ?.replace(
+                /carbohydrate|fat|fibre|protein|sugar|salt|saturated/,
+                '',
+              )
               ?.replace('grams', 'g'),
           );
+        }
+      }
+
+      if (Array.isArray(linkData.recipeCategory)) {
+        const recipeCategories = Object.values(RecipeCategory).filter(x => typeof x === "string");
+        const found = linkData.recipeCategory.find((category: string) =>
+          recipeCategories.find((value) => category.toLowerCase().includes(String(value).toLowerCase())),
+        );
+        if (found) {
+          linkData.recipeCategory = found;
+        } else {
+          linkData.recipeCategory = _.head(linkData.recipeCategory);
         }
       }
 
