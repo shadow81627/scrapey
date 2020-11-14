@@ -3,7 +3,6 @@ import { createConnection } from 'typeorm';
 import { Url } from './entity/Url';
 import getFiles from '../utils/getFiles';
 import { promises as fsPromises } from 'fs';
-import normalizeUrl from 'normalize-url';
 import { Product } from './entity/Product';
 import { Organization } from './entity/Organization';
 import slugify from 'slugify';
@@ -16,6 +15,9 @@ import probe from 'probe-image-size';
 import { Recipe } from './entity/Recipe';
 import { NutritionInformation } from './entity/NutritionInformation';
 import { ThingType } from './util/ThingType';
+import { Offer } from './entity/Offer';
+
+const schemaDomainRegex = /https?:\/\/schema.org\//g;
 
 createConnection()
     .then(async (connection) => {
@@ -100,8 +102,7 @@ createConnection()
             const urls = [];
 
             for (const location of sameAs) {
-                const { hostname, pathname, search } = new URL(normalizeUrl(location));
-                const url = new Url({ hostname, pathname, search });
+                const url = new Url(Url.urlToParts(location));
                 urls.push(url);
                 await connection.manager.save(url);
             }
@@ -124,10 +125,7 @@ createConnection()
                         typeof imageObject === 'object' && imageObject.url
                             ? imageObject.url
                             : imageObject;
-                    const { hostname, pathname, search } = new URL(
-                        normalizeUrl(imageUrl),
-                    );
-                    const url = new Url({ hostname, pathname, search });
+                    const url = new Url(Url.urlToParts(imageUrl));
                     await connection.manager.save(url);
                     if (typeof imageUrl === 'string') {
                         const image =
@@ -180,6 +178,35 @@ createConnection()
                             await connection.manager.save(org);
                             product.brand = org;
                         }
+
+                        if (content.offers && content.offers.offers) {
+                            for (const offerData of content.offers.offers) {
+                                const url = new Url(Url.urlToParts(offerData.url));
+                                await connection.manager.save(url);
+                                const seller = await createOrganization(offerData.seller);
+                                await connection.manager.save(seller);
+                                const offer =
+                                    (await connection.manager.findOne(Offer, {
+                                        where: [{ itemOffered: product, seller }],
+                                        relations: ['itemOffered', 'seller'],
+                                    })) ??
+                                    connection.manager.create(Offer, {
+                                        ...offerData,
+                                        itemOffered: product,
+                                        seller,
+                                        url,
+                                        dated: {
+                                            createdAt: offerData.createdAt,
+                                            updatedAt: offerData.updatedAt,
+                                        },
+                                    });
+                                connection.manager.merge(Offer, offer, {
+                                    availability: offerData.availability?.replace(schemaDomainRegex, ''),
+                                    itemCondition: offerData.itemCondition?.replace(schemaDomainRegex, ''),
+                                })
+                                await connection.manager.save(offer);
+                            }
+                        }
                         await connection.manager.save(product);
                     }
                 }
@@ -217,6 +244,7 @@ createConnection()
                     connection.manager.merge(Recipe, recipe, {
                         ...content,
                         thing,
+                        suitableForDiet: content.suitableForDiet ? String(content.suitableForDiet)?.replace(schemaDomainRegex, '') : null,
                         recipeCuisine:
                             typeof recipeCuisine === 'string' ? recipeCuisine : null,
                         recipeYield: _.trim(

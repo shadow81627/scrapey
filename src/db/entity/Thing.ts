@@ -1,8 +1,9 @@
-import { Entity, Column, ManyToMany, JoinTable } from "typeorm";
+import { Entity, Column, ManyToMany, JoinTable, OneToMany } from "typeorm";
 import { Base } from "../util/Base";
 import { ThingType } from "../util/ThingType";
 import { Url } from "./Url";
 import { Image } from "./Image";
+import { Offer } from "./Offer";
 
 @Entity()
 export class Thing extends Base {
@@ -14,6 +15,9 @@ export class Thing extends Base {
   name!: string;
   @Column({ nullable: true, type: 'text' })
   description?: string;
+
+  @OneToMany(() => Offer, (offer: Offer) => offer.itemOffered)
+  offers?: Offer[];
 
   @ManyToMany(() => Url, { nullable: true })
   @JoinTable({

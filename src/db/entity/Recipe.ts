@@ -1,3 +1,4 @@
+import { Duration } from "luxon";
 import { Column, Entity, JoinColumn, ManyToOne, OneToOne } from "typeorm";
 import { Base } from "../util/Base";
 import { Thing } from "./Thing";
@@ -7,8 +8,6 @@ import { Thing } from "./Thing";
 export class Recipe extends Base {
   @Column({ nullable: true })
   prepTime?: string;
-  @Column({ nullable: true })
-  totalTime?: string;
   @Column({ nullable: true })
   cookTime?: string;
   @Column({ nullable: true })
@@ -34,5 +33,9 @@ export class Recipe extends Base {
   // image?: ImageObject;
   // recipeIngredient?: Array<string>;
   // recipeInstructions?: Array<string | HowToSection | HowToStep> = [];
+
+  get totalTime(): string {
+    return Duration.fromISO(this.cookTime ?? 'PT0H').plus(Duration.fromISO(this.prepTime ?? 'PT0H')).toISO();
+  }
 
 }

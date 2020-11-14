@@ -3,6 +3,8 @@ import getHtml from './utils/getHtml';
 import { createConnection, getConnection } from 'typeorm';
 import { Url } from './db/entity/Url';
 import _ from 'lodash';
+import { processHtml } from './scrape/processHtml';
+import { processLinkData } from './scrape/processLinkData';
 
 async function crawl(url: string, origin = new URL(url).origin) {
   try {
@@ -15,7 +17,8 @@ async function crawl(url: string, origin = new URL(url).origin) {
     // save fetched url
     const connection = getConnection();
     const urlParts = Url.urlToParts(canonical);
-    console.log(urlParts)
+    const data = processHtml(url, html);
+    processLinkData({})
     await connection.manager.save(new Url({ ...urlParts, crawledAt: new Date() }));
 
     // get a unique list of valid urls on the same origin
