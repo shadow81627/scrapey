@@ -42,7 +42,14 @@ async function crawl(url: string, origin = new URL(url).origin) {
     dbCanonical.urls = await Promise.all(links.map(link => connection.manager.save(new Url(Url.urlToParts(link)))));
     await connection.manager.save(dbCanonical);
 
-    for (const link of links) {
+    const link = (await connection.manager.findOne(Url, {
+      where: [{ crawledAt: null }],
+      // order: {
+      //   dated.createdAt: 'ASC'
+      // }
+    }))?.url;
+
+    if (link) {
       const href = new URL(link)
       const id = Url.generateId(Url.urlToParts(link));
       const found = await connection.manager.findOne(Url, id);
@@ -60,8 +67,16 @@ async function crawl(url: string, origin = new URL(url).origin) {
  */
 //     'https://www.woolworths.com.au/shop/productdetails/29411/sanofi-hydrogen-peroxide'
 (async () => {
-  const url =
-    'https://shop.coles.com.au/a/national/everything/browse';
-  await createConnection();
-  await crawl(url);
+  // const url =
+  //   'https://shop.coles.com.au/a/national/everything/browse';
+  const connection = await createConnection();
+  const url = (await connection.manager.findOne(Url, {
+    where: [{ crawledAt: null }],
+    // order: {
+    //   dated.createdAt: 'ASC'
+    // }
+  }))?.url;
+  if (url) {
+    await crawl(url);
+  }
 })();
