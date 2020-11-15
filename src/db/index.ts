@@ -215,7 +215,7 @@ createConnection()
                             }
                         }
                         await connection.manager.save(product);
-                        await product.toFile();
+                        // await product.toFile();
                     }
                 }
 
