@@ -31,7 +31,7 @@ export class Url {
     urls?: Url[];
 
     // computed full url property
-    url?: string;
+    url!: string;
 
     @AfterLoad()
     computed(): string {

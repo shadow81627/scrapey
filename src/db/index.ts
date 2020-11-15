@@ -2,7 +2,6 @@ import 'reflect-metadata';
 import { createConnection } from 'typeorm';
 import { Url } from './entity/Url';
 import getFiles from '../utils/getFiles';
-import { promises as fsPromises } from 'fs';
 import { Product } from './entity/Product';
 import { Organization } from './entity/Organization';
 import slugify from 'slugify';
@@ -10,14 +9,17 @@ import _ from 'lodash';
 import { Thing } from './entity/Thing';
 import { Image } from './entity/Image';
 import { Person } from './entity/Person';
-const { readFile } = fsPromises;
 import probe from 'probe-image-size';
 import { Recipe } from './entity/Recipe';
 import { NutritionInformation } from './entity/NutritionInformation';
 import { ThingType } from './util/ThingType';
 import { Offer } from './entity/Offer';
+import { promises as fsPromises, } from 'fs';
+const { readFile } = fsPromises;
 
 const schemaDomainRegex = /https?:\/\/schema.org\//g;
+
+type ThingParmas = Pick<Thing, 'name' | 'type' | 'description' | 'urls' | 'dated' | 'additionalProperty'>
 
 createConnection()
     .then(async (connection) => {
@@ -27,7 +29,8 @@ createConnection()
             description,
             urls,
             dated,
-        }: Thing) {
+            additionalProperty,
+        }: ThingParmas) {
             const slug = `${slugify(name, {
                 lower: true,
                 strict: true,
@@ -42,6 +45,7 @@ createConnection()
                 slug,
                 name: name.split(' ').map(_.capitalize).join(' '),
                 description,
+                additionalProperty,
             });
             if (urls) {
                 thing.urls = (thing.urls ?? []).concat(urls);
@@ -49,7 +53,7 @@ createConnection()
             await connection.manager.save(thing);
             return thing;
         }
-        async function createPerson(params: Thing) {
+        async function createPerson(params: ThingParmas) {
             const thing = await createThing(params);
             const { dated } = params;
             const person =
@@ -64,7 +68,7 @@ createConnection()
             await connection.manager.save(person);
             return person;
         }
-        async function createOrganization(params: Thing) {
+        async function createOrganization(params: ThingParmas) {
             const thing = await createThing(params);
             const { dated } = thing;
             const org =
@@ -91,6 +95,7 @@ createConnection()
                 updatedAt,
                 author,
                 keywords,
+                additionalProperty,
                 ...content
             } = JSON.parse(file);
 
@@ -114,6 +119,7 @@ createConnection()
                     type,
                     urls,
                     dated,
+                    additionalProperty,
                 });
 
                 if (content.image) {
@@ -168,9 +174,9 @@ createConnection()
                         product.gtin13 = gtin13;
                         product.thing = thing;
 
-                        if (typeof brand === 'string') {
+                        if (brand) {
                             const org = await createOrganization({
-                                name: brand.split(' ').map(_.capitalize).join(' '),
+                                name: (brand.name ?? brand).split(' ').map(_.capitalize).join(' '),
                                 type: 'Organization' as ThingType,
                                 urls,
                                 dated,
@@ -203,11 +209,13 @@ createConnection()
                                 connection.manager.merge(Offer, offer, {
                                     availability: offerData.availability?.replace(schemaDomainRegex, ''),
                                     itemCondition: offerData.itemCondition?.replace(schemaDomainRegex, ''),
+                                    price: offerData.price,
                                 })
                                 await connection.manager.save(offer);
                             }
                         }
                         await connection.manager.save(product);
+                        await product.toFile();
                     }
                 }
 

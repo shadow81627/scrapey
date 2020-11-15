@@ -1,4 +1,5 @@
-import { Column, Entity, JoinColumn, OneToOne } from "typeorm";
+import { Column, Entity, getConnection, JoinColumn, OneToOne } from "typeorm";
+import ImageObject from "../../models/ImageObject";
 import { Base } from "../util/Base";
 import { Url } from "./Url";
 
@@ -14,5 +15,13 @@ export class Image extends Base {
 
   @OneToOne(() => Url)
   @JoinColumn()
-  url?: Url;
+  url!: Url;
+
+  async toObject(): Promise<ImageObject> {
+    const { height, width, mime } = this;
+    const connection = getConnection();
+    const image = await connection.manager.findOneOrFail(Image, { where: [{ id: this.id }], relations: ['url'] })
+    const url = image.url?.url
+    return new ImageObject({ height, width, mime, url })
+  }
 }
