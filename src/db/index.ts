@@ -188,6 +188,8 @@ async function createOrganization(params: ThingParmas) {
                             product.brand = org;
                         }
 
+                        await connection.manager.save(product);
+
                         if (content.offers && content.offers.offers) {
                             for (const offerData of content.offers.offers) {
                                 const url = new Url(Url.urlToParts(offerData.url));
@@ -195,7 +197,7 @@ async function createOrganization(params: ThingParmas) {
                                 const seller = await createOrganization(offerData.seller);
                                 const offer =
                                     (await connection.manager.findOne(Offer, {
-                                        where: [{ itemOffered: product, seller }],
+                                        where: [{ itemOffered: product, seller }, { url }],
                                         relations: ['itemOffered', 'seller'],
                                     })) ??
                                     connection.manager.create(Offer, {
@@ -212,11 +214,10 @@ async function createOrganization(params: ThingParmas) {
                                     availability: offerData.availability?.replace(schemaDomainRegex, ''),
                                     itemCondition: offerData.itemCondition?.replace(schemaDomainRegex, ''),
                                     price: offerData.price,
-                                })
-                                await connection.manager.save(offer);
+                                });
+                                connection.manager.save(offer);
                             }
                         }
-                        await connection.manager.save(product);
                         // await product.toFile();
                     }
                 }
@@ -297,4 +298,5 @@ async function createOrganization(params: ThingParmas) {
             console.log(filename, e);
         }
     }
+    await connection.close();
 })();
