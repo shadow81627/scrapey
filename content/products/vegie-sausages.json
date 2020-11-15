@@ -1,0 +1,72 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Water, Vegetable Protein (22%) (Wheat Gluten, Soy), Canola Oil, Starch (Tapioca, Potato), Seasoning [Soy, Salt, Vegetable Protein (Maize), Rice Bran Oil, Onion, Tomato Powder, Wheat Protein, Maltodextrin, Flavour, Garlic, Sugar, Spices, Thickeners (Guar Gum, Carrageenan Gum), Dextrose, Potassium Chloride, Rice Flour, Wheat Flour, Vegetable Powder, Yeast Extract (Barley)], Oats, Crumb (Wheat), Minerals (Zinc, Iron), Vitamin (B12), Fermented Rice"
+    },
+    {
+      "name": "Allergen",
+      "value": "Contains Cereals, May Be Present Peanuts, Contains Gluten, Contains Soy"
+    },
+    {
+      "name": "Dietary",
+      "value": "Source of Iron"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "3.0"
+    },
+    {
+      "name": "Warning",
+      "value": "May Contain Traces Peanuts"
+    },
+    {
+      "name": "Size",
+      "value": "300g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.67 per 100G"
+    }
+  ],
+  "brand": "Vegie Delights",
+  "createdAt": "2020-11-15T03:58:15.401Z",
+  "description": "Vegie Delights Vegie Sausages",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/1/4/5141815.jpg",
+    "width": 300
+  },
+  "name": "Vegie Sausages",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 5,
+    "lowPrice": 5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T03:58:15.400Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "5.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/sanitarium-vegie-delights-sausages-vegie"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/sanitarium-vegie-delights-sausages-vegie"
+  ],
+  "sku": "5141815",
+  "updatedAt": "2020-11-15T03:58:15.400Z"
+}

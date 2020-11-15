@@ -1,0 +1,72 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Coconut Kernel Extract (63%), Water"
+    },
+    {
+      "name": "Allergen",
+      "value": "Free From Gluten"
+    },
+    {
+      "name": "Dietary",
+      "value": "No Preservatives"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "3.8"
+    },
+    {
+      "name": "Size",
+      "value": "270mL"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.96 per 100mL"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Made in Malaysia"
+    }
+  ],
+  "brand": "Ayam",
+  "createdAt": "2020-11-15T03:50:14.181Z",
+  "description": "Ayam Premium Light Coconut Milk",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/9/1/2/9124341.jpg",
+    "width": 300
+  },
+  "name": "Premium Light Coconut Milk",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2.6,
+    "lowPrice": 2.6,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T03:50:14.181Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "2.60",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/ayam-milk-coconut-light"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/ayam-milk-coconut-light"
+  ],
+  "sku": "9124341",
+  "updatedAt": "2020-11-15T03:50:14.181Z"
+}

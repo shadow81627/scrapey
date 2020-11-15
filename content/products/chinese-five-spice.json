@@ -1,0 +1,72 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Cinnamon 33%, Star Anise 20%, Clove 20%, Fennel 14%, Rice Flour, Pepper 4%."
+    },
+    {
+      "name": "Contains",
+      "value": "May contain Sesame Seeds"
+    },
+    {
+      "name": "Allergen",
+      "value": "May Be Present Sesame Seeds"
+    },
+    {
+      "name": "Warning",
+      "value": "May contain sesame seeds."
+    },
+    {
+      "name": "Size",
+      "value": "30g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.93 per 10G"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Packed in Australia"
+    }
+  ],
+  "brand": "MasterFoods",
+  "createdAt": "2020-11-15T03:54:14.325Z",
+  "description": "MasterFoods Chinese Five Spice",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/1/8/318531.jpg",
+    "width": 300
+  },
+  "name": "Chinese Five Spice",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2.8,
+    "lowPrice": 2.8,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T03:54:14.324Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "2.80",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/masterfoods-chinese-five-spices"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/masterfoods-chinese-five-spices"
+  ],
+  "sku": "318531",
+  "updatedAt": "2020-11-15T03:54:14.324Z"
+}

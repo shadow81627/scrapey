@@ -1,0 +1,68 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "This Product contains 21% FruitINGREDIENTS: Pastry [Wheat Flour, Sugar, Margarine (Vegetable Oils (Palm Oil**, Coconut Oil), Water, Salt, Emulsifiers (322 (Soy), 471), Natural Flavouring, Acidity Regulator (330), Natural Colour (Carotene), Antioxidant (307b (Soy))), Water, Egg Replacer (Whey Powder, Maize Starch, Skimmed Milk Powder, Stabiliser (412), Acidity Regulator (330, 450), Salt, Raising Agent (Sodium Carbonates), Natural Colour (Turmeric)), Skim Milk Powder, Salt, Raising Agents (Sodium Carbonates, 450), Acidity Regulator (263)], Fruit Mince Filling (43.5%) [Sultanas (34%), Reconstituted Apple (16%), Sugar, Humectants (422, 420), Citrus Peel (Lemon, Orange, Lime), Stabilisers (1442, 460, 466), Canola Oil, Salt, Acidity Regulators (260, 330), Mixed Spice, Preservative (Potassium Sorbate), Natural Flavouring]."
+    },
+    {
+      "name": "Allergen",
+      "value": "May Contain TREE NUTS, May Contain EGG, May Contain PEANUTS, Contains SOY, Contains CEREALS CONTAINING GLUTEN, Contains MILK"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "6.0"
+    },
+    {
+      "name": "Size",
+      "value": "360g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.42 per 100G"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Made in New Zealand"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2020-11-15T03:44:37.310Z",
+  "description": "Shortcrust pastry filled with fruit mince",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/5/2/3520517.jpg",
+    "width": 300
+  },
+  "name": "Fruit Mince Pies 6 Pack",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 1.5,
+    "lowPrice": 1.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T03:44:37.307Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "1.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-fruit-mince-pies-6pk"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/coles-fruit-mince-pies-6pk"
+  ],
+  "sku": "3520517",
+  "updatedAt": "2020-11-15T03:44:37.307Z"
+}

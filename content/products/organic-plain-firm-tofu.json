@@ -1,0 +1,64 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Organic Soybeans, Water, Mineral Salts (511)."
+    },
+    {
+      "name": "Allergen",
+      "value": "Contains Soy"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "5.0"
+    },
+    {
+      "name": "Size",
+      "value": "500g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.07 per 100G"
+    }
+  ],
+  "brand": "Simply Better",
+  "createdAt": "2020-11-15T03:57:35.078Z",
+  "description": "Using only Australian Grown Certified Organic Soybeans to make our premium quality Organic Firm Tofu, ensures organic integrity & a naturally full flavoured, more nutritious tofu. Our Certified Organic Soy Beans are sourced locally from Qld & NSW,Australia",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/0/0/5005613.jpg",
+    "width": 300
+  },
+  "name": "Organic Plain Firm Tofu",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 5.35,
+    "lowPrice": 5.35,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T03:57:35.078Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "5.35",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/simply-better-tofu-plain-firm-organic-5005613p"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/simply-better-tofu-plain-firm-organic-5005613p"
+  ],
+  "sku": "5005613",
+  "updatedAt": "2020-11-15T03:57:35.078Z"
+}

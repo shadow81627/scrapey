@@ -1,0 +1,72 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Grain (Whole Rye Meal, Whole Rye Flour), Water, Salt, Yeast."
+    },
+    {
+      "name": "Allergen",
+      "value": "Contains Rye, May Be Present Sesame Seeds"
+    },
+    {
+      "name": "Dietary",
+      "value": "High in Fibre, No Added Sugars"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "7.0"
+    },
+    {
+      "name": "Size",
+      "value": "500g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.70 per 100G"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Product of Germany"
+    }
+  ],
+  "brand": "The Dutch Company",
+  "createdAt": "2020-11-15T03:47:33.684Z",
+  "description": "The Dutch Company Whole Grain Rye Bread",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/9/5/9/9594276.jpg",
+    "width": 300
+  },
+  "name": "Whole Grain Rye Bread",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3.5,
+    "lowPrice": 3.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T03:47:33.684Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "3.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/the-dutch-company-bread-wholegrain-rye"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/the-dutch-company-bread-wholegrain-rye"
+  ],
+  "sku": "9594276",
+  "updatedAt": "2020-11-15T03:47:33.684Z"
+}

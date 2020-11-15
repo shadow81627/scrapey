@@ -1,0 +1,64 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": " INGREDIENTS:Organic Beans (60%) (Butter Beans, Flageolet Beans, Chickpeas, Red Kidney Beans), Water, Salt."
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "4.0"
+    },
+    {
+      "name": "Size",
+      "value": "400g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.33 per 100G"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Packed in Italy"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2020-11-15T03:55:55.472Z",
+  "description": "Coles Organic Four Bean Mix",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/9/7/7/9776230.jpg",
+    "width": 300
+  },
+  "name": "Organic Four Bean Mix",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 1.3,
+    "lowPrice": 1.3,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T03:55:55.472Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "1.30",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-beans-4-bean-mix-organic"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/coles-beans-4-bean-mix-organic"
+  ],
+  "sku": "9776230",
+  "updatedAt": "2020-11-15T03:55:55.472Z"
+}

@@ -1,0 +1,72 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Water, Peanuts, Wheat Gluten, Onion, Salt, Minerals (Iron, Zinc), Vitamin (B12)"
+    },
+    {
+      "name": "Allergen",
+      "value": "Contains Cereals, Contains Peanuts, Contains Gluten, May Be Present Soy"
+    },
+    {
+      "name": "Dietary",
+      "value": "Source of Dietary Fibre"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "3.0"
+    },
+    {
+      "name": "Warning",
+      "value": "May Contain Traces Soy"
+    },
+    {
+      "name": "Size",
+      "value": "415g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.81 per 100G"
+    }
+  ],
+  "brand": "Vegie Delights",
+  "createdAt": "2020-11-15T03:59:15.679Z",
+  "description": "Vegie Delights Nut Meat",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/6/0/5/6059709.jpg",
+    "width": 300
+  },
+  "name": "Nut Meat",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3.35,
+    "lowPrice": 3.35,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T03:59:15.679Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "3.35",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/sanitarium-nutmeat"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/sanitarium-nutmeat"
+  ],
+  "sku": "6059709",
+  "updatedAt": "2020-11-15T03:59:15.679Z"
+}

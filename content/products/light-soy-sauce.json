@@ -1,0 +1,68 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Water 46%, Soya Beans (29%), Salt, Wheat Flour, Preservative (Potassium Sorbate E202)."
+    },
+    {
+      "name": "Allergen",
+      "value": "Contains Soy, Contains Wheat"
+    },
+    {
+      "name": "Warning",
+      "value": "Contains Allergens: Soy and Wheat."
+    },
+    {
+      "name": "Size",
+      "value": "500mL"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.57 per 100mL"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Product of China"
+    }
+  ],
+  "brand": "Pearl River Bridge",
+  "createdAt": "2020-11-15T03:54:54.860Z",
+  "description": "Pearl River Bridge Light Soy Sauce",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/4/0/4/404542.jpg",
+    "width": 300
+  },
+  "name": "Light Soy Sauce",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2.85,
+    "lowPrice": 2.85,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T03:54:54.860Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "2.85",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/pearl-river-bridge-light-soy-sauce"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/pearl-river-bridge-light-soy-sauce"
+  ],
+  "sku": "404542",
+  "updatedAt": "2020-11-15T03:54:54.860Z"
+}

@@ -1,0 +1,72 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Water, Vegetable Protein (25%) (Wheat, Soy, Wheat Gluten), Onion, Canola Oil, Starch (Tapioca, Potato), Flavour [Sugar, Maltodextrin, Salt, Yeast Extract, Flavour, Antioxidant (Vitamin E)], Oats, Crumb (Wheat), Garlic, Thickener (Carrageenan Gum), Minerals (Zinc, Iron), Vitamin (B12), Acidity Regulator (Citric Acid), Potassium Chloride, Chilli."
+    },
+    {
+      "name": "Allergen",
+      "value": "Contains Cereals, May Be Present Peanuts, Contains Gluten, Contains Soy"
+    },
+    {
+      "name": "Dietary",
+      "value": "Source of Iron"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "4.0"
+    },
+    {
+      "name": "Warning",
+      "value": "May Contain Traces Peanuts"
+    },
+    {
+      "name": "Size",
+      "value": "480g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.46 per 100G"
+    }
+  ],
+  "brand": "Vegie Delights",
+  "createdAt": "2020-11-15T03:58:35.232Z",
+  "description": "Vegie Delights Vegetable Roast",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/9/0/5903696.jpg",
+    "width": 300
+  },
+  "name": "Vegetable Roast",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 7,
+    "lowPrice": 7,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T03:58:35.231Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "7.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/sanitarium-vegie-delights-roast-vegetarian-with-rosemary-mint-glaze"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/sanitarium-vegie-delights-roast-vegetarian-with-rosemary-mint-glaze"
+  ],
+  "sku": "5903696",
+  "updatedAt": "2020-11-15T03:58:35.231Z"
+}
