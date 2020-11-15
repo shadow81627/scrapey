@@ -8,7 +8,7 @@ import ThingSchema from '../../models/Thing'
 @Entity()
 export class Thing extends Base {
 
-  @Column({ nullable: true, type: 'enum', enum: ThingType })
+  @Column({ nullable: false, type: 'enum', enum: ThingType })
   type!: ThingType;
   @Column({ nullable: false, unique: true })
   slug!: string;
