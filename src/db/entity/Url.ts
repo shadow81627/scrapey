@@ -1,5 +1,5 @@
 import normalizeUrl from "normalize-url";
-import { Entity, Column, AfterLoad, ManyToMany, JoinTable, ManyToOne, getConnection } from "typeorm";
+import { Entity, Column, AfterLoad, ManyToMany, JoinTable, ManyToOne } from "typeorm";
 import { v5 as uuidv5 } from 'uuid';
 import { Dated } from "../util/Dated";
 
