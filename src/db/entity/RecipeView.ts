@@ -6,8 +6,8 @@ import { ViewColumn, ViewEntity } from "typeorm";
       t.slug,
       t.name,
       t.description,
+      a.name as 'author',
       r.prepTime,
-      r.totalTime,
       r.cookTime,
       r.recipeYield,
       r.recipeCuisine,
@@ -17,6 +17,8 @@ import { ViewColumn, ViewEntity } from "typeorm";
   FROM thing AS t
   INNER JOIN recipe AS r
       ON t.id = r.thingId
+  LEFT JOIN thing as a
+      ON r.authorId = a.id
   `
 })
 export class RecipeView {
