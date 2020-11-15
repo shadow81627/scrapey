@@ -6,8 +6,11 @@ import _ from 'lodash';
 import { processHtml } from './scrape/processHtml';
 import { processLinkData } from './scrape/processLinkData';
 
+let iteration = 0;
+
 async function crawl(url: string) {
   const hostname = new URL(url).hostname;
+  iteration++
   try {
     // fetch browser rendered html
     const html = await getHtml({ url });
@@ -15,7 +18,7 @@ async function crawl(url: string) {
     const $ = cheerio.load(html);
 
     const canonical = $('link[rel="canonical"]').attr("href") || url;
-    console.log(canonical);
+    console.log(iteration, canonical);
     // save fetched url
     const connection = getConnection();
     const urlParts = Url.urlToParts(url);
@@ -46,7 +49,7 @@ async function crawl(url: string) {
     const link = (await connection.manager.findOne(Url, {
       where: [
         { crawledAt: IsNull(), hostname, canonical: IsNull() },
-        { crawledAt: IsNull(), hostname, canonical: Raw("canonical") }
+        { crawledAt: IsNull(), hostname, canonical: Raw("canonicalId") }
       ],
       // order: {
       //   createdAt: 'ASC'
@@ -77,7 +80,7 @@ async function crawl(url: string) {
   const url = (await connection.manager.findOne(Url, {
     where: [
       { crawledAt: IsNull(), hostname: 'shop.coles.com.au', canonical: IsNull() },
-      { crawledAt: IsNull(), hostname: 'shop.coles.com.au', canonical: Raw("canonical") }
+      { crawledAt: IsNull(), hostname: 'shop.coles.com.au', canonical: Raw("canonicalId") }
     ],
     // order: {
     //   dated.createdAt: 'ASC'
