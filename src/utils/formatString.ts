@@ -17,6 +17,8 @@ function formatString(value: string): string {
     str.replace(/([.!?,;])(?=[.!?,;])/g, '');
   const removeSpaceBeforePunctuation = (str: string) =>
     str.replace(/\s+([.!?,;])/g, '$1');
+  const removeNA = (str: string) => str.replace(/N\/A/, '');
+  const removeDash = (str: string) => str.replace(/-/, '');
 
   return pipe(
     String,
@@ -29,6 +31,8 @@ function formatString(value: string): string {
     removeDuplicateParenthesis,
     removeSpaceBeforePunctuation,
     removeDuplicatePunctuation,
+    removeNA,
+    removeDash,
     // punctuation,
     _.trim,
   )(value);
