@@ -1,5 +1,5 @@
 import 'reflect-metadata';
-import { createConnection } from 'typeorm';
+import { createConnection, getConnection } from 'typeorm';
 import { Url } from './entity/Url';
 import getFiles from '../utils/getFiles';
 import { Product } from './entity/Product';
@@ -19,99 +19,103 @@ const { readFile } = fsPromises;
 
 const schemaDomainRegex = /https?:\/\/schema.org\//g;
 
-type ThingParmas = Pick<Thing, 'name' | 'type' | 'description' | 'urls' | 'dated' | 'additionalProperty'>
+type ThingParmas = Pick<Thing, 'name' | 'type' | 'description' | 'urls' | 'dated' | 'additionalProperty'>;
 
-createConnection()
-    .then(async (connection) => {
-        async function createThing({
-            name,
-            type,
-            description,
-            urls,
+async function createThing({
+    name,
+    type,
+    description,
+    urls,
+    dated,
+    additionalProperty,
+}: ThingParmas) {
+    const connection = getConnection();
+    const slug = `${slugify(name, {
+        lower: true,
+        strict: true,
+    })}`;
+    const thing =
+        (await connection.manager.findOne(Thing, {
+            where: [{ slug }],
+            relations: ['images', 'urls'],
+        })) ?? connection.manager.create(Thing, { dated });
+    connection.manager.merge(Thing, thing, {
+        type,
+        slug,
+        name: name.split(' ').map(_.capitalize).join(' '),
+        description,
+        additionalProperty,
+    });
+    if (urls) {
+        thing.urls = (thing.urls ?? []).concat(urls);
+    }
+    await connection.manager.save(thing);
+    return thing;
+}
+async function createPerson(params: ThingParmas) {
+    const connection = getConnection();
+    const thing = await createThing(params);
+    const { dated } = params;
+    const person =
+        (await connection.manager.findOne(Person, {
+            where: [{ thing }],
+            relations: ['thing'],
+        })) ??
+        connection.manager.create(Person, {
+            thing,
             dated,
+        });
+    await connection.manager.save(person);
+    return person;
+}
+async function createOrganization(params: ThingParmas) {
+    const connection = getConnection();
+    const thing = await createThing(params);
+    const { dated } = thing;
+    const org =
+        (await connection.manager.findOne(Organization, {
+            where: [{ thing }],
+            relations: ['thing'],
+        })) ??
+        connection.manager.create(Organization, {
+            dated,
+            thing,
+        });
+    await connection.manager.save(org);
+    return org;
+}
+
+/**
+ * Main top level async/await
+ */
+(async () => {
+    const connection = await createConnection();
+    // get list of urls to crawl from content files
+    for await (const filename of getFiles('content')) {
+        const file = await readFile(filename, { encoding: 'utf8' });
+        const {
+            name,
+            description,
+            sameAs = [],
+            '@type': type,
+            createdAt,
+            updatedAt,
+            author,
+            keywords,
             additionalProperty,
-        }: ThingParmas) {
-            const slug = `${slugify(name, {
-                lower: true,
-                strict: true,
-            })}`;
-            const thing =
-                (await connection.manager.findOne(Thing, {
-                    where: [{ slug }],
-                    relations: ['images', 'urls'],
-                })) ?? connection.manager.create(Thing, { dated });
-            connection.manager.merge(Thing, thing, {
-                type,
-                slug,
-                name: name.split(' ').map(_.capitalize).join(' '),
-                description,
-                additionalProperty,
-            });
-            if (urls) {
-                thing.urls = (thing.urls ?? []).concat(urls);
-            }
-            await connection.manager.save(thing);
-            return thing;
-        }
-        async function createPerson(params: ThingParmas) {
-            const thing = await createThing(params);
-            const { dated } = params;
-            const person =
-                (await connection.manager.findOne(Person, {
-                    where: [{ thing }],
-                    relations: ['thing'],
-                })) ??
-                connection.manager.create(Person, {
-                    thing,
-                    dated,
-                });
-            await connection.manager.save(person);
-            return person;
-        }
-        async function createOrganization(params: ThingParmas) {
-            const thing = await createThing(params);
-            const { dated } = thing;
-            const org =
-                (await connection.manager.findOne(Organization, {
-                    where: [{ thing }],
-                    relations: ['thing'],
-                })) ??
-                connection.manager.create(Organization, {
-                    dated,
-                    thing,
-                });
-            await connection.manager.save(org);
-            return org;
-        }
-        // get list of urls to crawl from content files
-        for await (const filename of getFiles('content')) {
-            const file = await readFile(filename, { encoding: 'utf8' });
-            const {
-                name,
-                description,
-                sameAs = [],
-                '@type': type,
-                createdAt,
-                updatedAt,
-                author,
-                keywords,
-                additionalProperty,
-                ...content
-            } = JSON.parse(file);
-
-            const dated = {
-                createdAt,
-                updatedAt,
-            };
-
-            const urls = [];
-
+            ...content
+        } = JSON.parse(file);
+        const dated = {
+            createdAt,
+            updatedAt,
+        };
+        const urls = [];
+        try {
             for (const location of sameAs) {
                 const url = new Url(Url.urlToParts(location));
                 urls.push(url);
                 await connection.manager.save(url);
             }
-
             if (name) {
                 const thing = await createThing({
                     name,
@@ -181,7 +185,6 @@ createConnection()
                                 urls,
                                 dated,
                             });
-                            await connection.manager.save(org);
                             product.brand = org;
                         }
 
@@ -190,7 +193,6 @@ createConnection()
                                 const url = new Url(Url.urlToParts(offerData.url));
                                 await connection.manager.save(url);
                                 const seller = await createOrganization(offerData.seller);
-                                await connection.manager.save(seller);
                                 const offer =
                                     (await connection.manager.findOne(Offer, {
                                         where: [{ itemOffered: product, seller }],
@@ -284,14 +286,15 @@ createConnection()
                 }
             }
             if (type === 'Organization') {
-                const org = await createOrganization({
+                await createOrganization({
                     name: name.split(' ').map(_.capitalize).join(' '),
                     type: 'Organization' as ThingType,
                     urls,
                     dated,
                 });
-                await connection.manager.save(org);
             }
+        } catch (e) {
+            console.log(filename, e);
         }
-    })
-    .catch((error) => console.log(error));
+    }
+})();
