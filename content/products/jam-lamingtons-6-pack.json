@@ -1,0 +1,60 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "INGREDIENTS: Lamington Sponge [Wheat Flour, Sugar, Water, Egg Powder, Emulsifiers ((471, 475, 481 from Palm**), 322 (Soy)), Raising Agents (450, Sodium Carbonate, 341), Humectants (420, 1520), Starches (Wheat, Tapioca, Maize), Thickeners (1422, 1442), Salt, Preservatives (Sorbic Acid, Potassium Sorbate)], Lamington Dip [Sugar, Water, Cocoa Powder (5%), Canola Oil, Natural Flavourings, Thickeners (412, 415, 406), Preservative (Potassium Sorbate)], Jam Filling (15%) [Sugar, Apple, Gelling Agent (440), Acidity Regulator (330), Natural Colour (163), Natural Raspberry Flavour, Preservative (Potassium Sorbate)], Desiccated Coconut (6.5%) [Coconut, Preservative (223)]."
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "6.0"
+    },
+    {
+      "name": "Size",
+      "value": "350g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.71 per 100G"
+    }
+  ],
+  "brand": "Coles Bakery",
+  "createdAt": "2020-11-15T07:02:22.363Z",
+  "description": "Coles Bakery Jam Lamingtons 6 Pack",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/1/8/9/1898903.jpg",
+    "width": 300
+  },
+  "name": "Jam Lamingtons 6 Pack",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2.5,
+    "lowPrice": 2.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T07:02:22.362Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "2.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-jam-lamingtons-6-pack"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/sunnybank-hills/product/coles-jam-lamingtons-6-pack"
+  ],
+  "sku": "1898903",
+  "updatedAt": "2020-11-15T07:02:22.362Z"
+}

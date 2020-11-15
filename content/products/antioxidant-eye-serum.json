@@ -1,0 +1,56 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Warning",
+      "value": "Avoid contact with eyes, broken or irritated skin.If irritation occurs rinse immediately and discontinue use. We recommend patch testing.For external use only."
+    },
+    {
+      "name": "Size",
+      "value": "30mL"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$33.33 per 100mL"
+    }
+  ],
+  "brand": "Sukin",
+  "createdAt": "2020-11-15T10:28:46.910Z",
+  "description": "Sukin Antioxidant Eye Serum",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/9/9/2994549.jpg",
+    "width": 300
+  },
+  "name": "Antioxidant Eye Serum",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 10,
+    "lowPrice": 10,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T10:28:46.910Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "10.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/sukin-antioxidant-eye-serum"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/sukin-antioxidant-eye-serum"
+  ],
+  "sku": "2994549",
+  "updatedAt": "2020-11-15T10:28:46.910Z"
+}

@@ -1,0 +1,68 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Meat Including Pork, Curing Mix (Salt, Spices, Lactose (Milk), Dextrose (Maize or Tapioca), Maltodextrin (Maize or Tapioca), Dehydrated Vegetable, Antioxidant (316), Sugar, Preservative (250)), Starter Culture. Naturally Wood Smoked."
+    },
+    {
+      "name": "Contains",
+      "value": "Milk"
+    },
+    {
+      "name": "Allergen",
+      "value": "Contains Milk"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "4.0"
+    },
+    {
+      "name": "Size",
+      "value": "200g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$35.00 per 1Kg"
+    }
+  ],
+  "brand": "Hans",
+  "createdAt": "2020-11-15T10:08:37.425Z",
+  "description": "Traditional Hungarian style salami made from coarsely textured beef and pork, naturally wood smooked.",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/8/1/2819403.jpg",
+    "width": 300
+  },
+  "name": "Csabai Salami",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 7,
+    "lowPrice": 7,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T10:08:37.425Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "7.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/hans-csabai-salami"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/sunnybank-hills/product/hans-csabai-salami"
+  ],
+  "sku": "2819403",
+  "updatedAt": "2020-11-15T10:08:37.425Z"
+}

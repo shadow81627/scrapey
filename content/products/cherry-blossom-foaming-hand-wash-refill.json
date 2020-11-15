@@ -1,0 +1,60 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Water, Sodium Laureth Sulfate, Glycerin, Cocamidopropyl Betaine, PEG-7 Glyceryl Cocoate, Fragrance, Cocamide MEA, Sodium Salicylate, Sodium Benzoate, Citric acid, Tetrasodium EDTA, CI 16035."
+    },
+    {
+      "name": "Warning",
+      "value": "Does not contain Ethyl Alcohol."
+    },
+    {
+      "name": "Size",
+      "value": "500mL"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.10 per 100mL"
+    }
+  ],
+  "brand": "Palmolive",
+  "createdAt": "2020-11-15T11:55:44.238Z",
+  "description": "Palmolive Cherry Blossom Foaming Hand Wash Refill",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/8/1/2814636.jpg",
+    "width": 300
+  },
+  "name": "Cherry Blossom Foaming Hand Wash Refill",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 5.5,
+    "lowPrice": 5.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T11:55:44.238Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "5.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/palmolive-foam-hand-wash-refill-cherry-blossom"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/palmolive-foam-hand-wash-refill-cherry-blossom"
+  ],
+  "sku": "2814636",
+  "updatedAt": "2020-11-15T11:55:44.238Z"
+}

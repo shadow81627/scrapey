@@ -1,0 +1,56 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Contains",
+      "value": "Preservatives: Phenoxyethanol, Hydroxybenzoates"
+    },
+    {
+      "name": "Size",
+      "value": "75mL"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$7.33 per 100mL"
+    }
+  ],
+  "brand": "Banana Boat",
+  "createdAt": "2020-11-15T08:58:44.514Z",
+  "description": "Banana Boat Kids Roll On Sunscreen SPF 50+",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/7/2/1/7211445.jpg",
+    "width": 300
+  },
+  "name": "Kids Roll On Sunscreen SPF 50+",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 5.5,
+    "lowPrice": 5.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T08:58:44.513Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "5.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/banana-boat-kids-roll-on-sunscreen-spf-30"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/banana-boat-kids-roll-on-sunscreen-spf-30"
+  ],
+  "sku": "7211445",
+  "updatedAt": "2020-11-15T08:58:44.514Z"
+}

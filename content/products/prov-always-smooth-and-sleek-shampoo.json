@@ -1,0 +1,60 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Water, Sodium Laureth Sulfate, Sodium Citrate, Cocamidopropyl Betaine, Sodium Xylenesulfonate, Stearyl Alcohol, Sodium Lauryl Sulfate, Sodium Chloride, Cetyl Alcohol, Fragrance, Citric Acid, Sodium Benzoate, Polyquaternium-6, Guar Hydroxypropyltrimonium Chloride, Tetrasodium EDTA, Trihydroxystearin, Panthenol, Panthenyl Ethyl Ether, Histidine, Methylchloroisothiazolinone, Methylisothiazolinone"
+    },
+    {
+      "name": "Warning",
+      "value": "If in eyes wash out immediately with water."
+    },
+    {
+      "name": "Size",
+      "value": "900mL"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.94 per 100mL"
+    }
+  ],
+  "brand": "Pantene",
+  "createdAt": "2020-11-15T11:20:45.980Z",
+  "description": "Pantene Pro-V Always Smooth & Sleek Shampoo",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/2/9/2290444.jpg",
+    "width": 300
+  },
+  "name": "ProV Always Smooth & Sleek Shampoo",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 8.5,
+    "lowPrice": 8.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T11:20:45.980Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "8.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/pantene-always-smooth-shampoo"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/pantene-always-smooth-shampoo"
+  ],
+  "sku": "2290444",
+  "updatedAt": "2020-11-15T11:20:45.980Z"
+}

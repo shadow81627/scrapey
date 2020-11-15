@@ -1,0 +1,72 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Milk, Skim Milk, Sugar, Thickener (1442) (From Maize), Milk Solids, Stabilisers (412, 415, 407, 410, 452), Enzyme (Lactase), Flavours, Colour (160a)."
+    },
+    {
+      "name": "Contains",
+      "value": "Milk."
+    },
+    {
+      "name": "Allergen",
+      "value": "Contains Milk"
+    },
+    {
+      "name": "Dietary",
+      "value": "Source of Calcium"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "10.0"
+    },
+    {
+      "name": "Size",
+      "value": "1kg"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.52 per 100G"
+    }
+  ],
+  "brand": "Pauls",
+  "createdAt": "2020-11-15T07:17:07.964Z",
+  "description": "Pauls Zymil Vanilla Custard",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/0/2/3025030.jpg",
+    "width": 300
+  },
+  "name": "Zymil Vanilla Custard",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 5.2,
+    "lowPrice": 5.2,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T07:17:07.964Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "5.20",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/pauls-zymil-vanilla-custard"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/pauls-zymil-vanilla-custard"
+  ],
+  "sku": "3025030",
+  "updatedAt": "2020-11-15T07:17:07.964Z"
+}

@@ -1,0 +1,76 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Dairy ingredients (reconstituted buttermilk and/or reconstituted skim milk, milk solids, cream), glucose syrup (from wheat), cane sugar, gelatine, emulsifier (471), vegetable gums (401, 407, 410), flavours, colours (160b). Contains milk and wheat. May be present egg, pieces of peanuts and tree nuts"
+    },
+    {
+      "name": "Contains",
+      "value": "2L"
+    },
+    {
+      "name": "Allergen",
+      "value": "May Contain Tree Nuts, May Contain Egg, Contains Milk, May Contain Soybean, May Contain Peanuts, Contains Wheat"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "20.0"
+    },
+    {
+      "name": "Warning",
+      "value": "Contains allergens. See allergens for details."
+    },
+    {
+      "name": "Size",
+      "value": "2L"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$2.45 per 1L"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Made in Australia"
+    }
+  ],
+  "brand": "Blue Ribbon",
+  "createdAt": "2020-11-15T09:55:52.132Z",
+  "description": "Blue Ribbon Classic Vanilla Ice Cream Tub",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/0/7/207938.jpg",
+    "width": 300
+  },
+  "name": "Classic Vanilla Ice Cream Tub",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 4.9,
+    "lowPrice": 4.9,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T09:55:52.131Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "4.90",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/streets-blue-ribbon-ice-cream-vanilla"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/streets-blue-ribbon-ice-cream-vanilla"
+  ],
+  "sku": "207938",
+  "updatedAt": "2020-11-15T09:55:52.131Z"
+}

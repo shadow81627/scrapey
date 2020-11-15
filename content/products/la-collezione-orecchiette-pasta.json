@@ -1,0 +1,72 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Durum Wheat Semolina, Water."
+    },
+    {
+      "name": "Allergen",
+      "value": "May Be Present Egg, May Be Present Soy, Contains Wheat"
+    },
+    {
+      "name": "Dietary",
+      "value": "Low GI"
+    },
+    {
+      "name": "Warning",
+      "value": "Contains allergens. See allergens for details."
+    },
+    {
+      "name": "Size",
+      "value": "500g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.48 per 100G"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Made in Italy"
+    }
+  ],
+  "brand": "Barilla",
+  "createdAt": "2020-11-15T11:10:33.070Z",
+  "description": "Barilla La Collezione Orecchiette Pasta",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/1/2/1/1211340.jpg",
+    "width": 300
+  },
+  "name": "La Collezione Orecchiette Pasta",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2.4,
+    "lowPrice": 2.4,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T11:10:33.069Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "2.40",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/barilla-la-colezione-pasta-orecchiette"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/barilla-la-colezione-pasta-orecchiette"
+  ],
+  "sku": "1211340",
+  "updatedAt": "2020-11-15T11:10:33.069Z"
+}

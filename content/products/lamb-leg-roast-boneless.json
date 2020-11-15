@@ -1,0 +1,52 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "approx. 1.08kg"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$18.00 per 1Kg"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2020-11-15T09:20:13.625Z",
+  "description": "Coles Lamb Leg Roast Boneless",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/9/2/0/9206887.jpg",
+    "width": 300
+  },
+  "name": "Lamb Leg Roast Boneless",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 19.44,
+    "lowPrice": 19.44,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T09:20:13.624Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "19.44",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-butcher-lamb-leg-roast-boneless"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/sunnybank-hills/product/coles-butcher-lamb-leg-roast-boneless"
+  ],
+  "sku": "9206887",
+  "updatedAt": "2020-11-15T09:20:13.624Z"
+}

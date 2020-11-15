@@ -1,0 +1,60 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "WATER, GLUTINOUS RICE, WHEAT BRAN, SALT, SUGAR"
+    },
+    {
+      "name": "Size",
+      "value": "180mL"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$2.44 per 100mL"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Product of China"
+    }
+  ],
+  "brand": "Hengshun",
+  "createdAt": "2020-11-15T08:17:41.325Z",
+  "description": "Hengshun Chinkiang Vinegar has a deep, almost smoky flavour. It works well in braised dishes and as a dipping sauce for dumplings and seafood. It can also serve as a substitute for balsamic vinegar and may be used in salad dressings as well.",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/7/4/3746393.jpg",
+    "width": 300
+  },
+  "name": "Chinkiang Vinegar",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 4.4,
+    "lowPrice": 4.4,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/OutOfStock",
+        "availabilityStarts": "2020-11-15T08:17:41.325Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "4.40",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/hengshun-chinkiang-vinegar"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/hengshun-chinkiang-vinegar"
+  ],
+  "sku": "3746393",
+  "updatedAt": "2020-11-15T08:17:41.325Z"
+}

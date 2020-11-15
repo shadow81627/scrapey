@@ -1,0 +1,64 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "  Wheat Flour, Sugar, Sultanas, Margarine [Vegetable Oils (Palm Oil, Canola Oil, Coconut Oil), Water, Salt, Vegetable Emulsifiers (471 from Palm, 472c), Antioxidant (304 from Palm), Natural Flavouring, Natural Colour (160a)], Raising Agents (500, 541, 450), Milk Solids, Water, Egg Powder, Natural Flavourings, Vegetable Emulsifier (481 from Palm), Wheat Fibre, Canola Oil."
+    },
+    {
+      "name": "Allergen",
+      "value": "May Be Present SOY, May Be Present SESAME, May Be Present TREE NUTS, May Be Present PEANUTS"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "6.0"
+    },
+    {
+      "name": "Size",
+      "value": "6 pack"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.66 per 1Ea"
+    }
+  ],
+  "brand": "Coles Bakery",
+  "createdAt": "2020-11-15T10:34:52.892Z",
+  "description": "Coles Bakery Rock Cakes",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/0/7/5073806.jpg",
+    "width": 300
+  },
+  "name": "Rock Cakes",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3.95,
+    "lowPrice": 3.95,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T10:34:52.891Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "3.95",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-bakery-cake-rock-baked-in-store"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/coles-bakery-cake-rock-baked-in-store"
+  ],
+  "sku": "5073806",
+  "updatedAt": "2020-11-15T10:34:52.891Z"
+}

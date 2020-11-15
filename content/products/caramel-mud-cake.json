@@ -1,0 +1,64 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "INGREDIENTS: Cake [Sugar, Wheat Flour, Water, Canola Oil, Egg, Natural Caramel Flavourings, Thickener (1422), Raising Agents (Sodium Carbonates, 341, 541), Emulsifiers (435, 471 from Palm**), Salt, Natural Colour (Lutein), Preservative (Potassium Sorbate)], Caramel Flavoured Ganache [White Compound Chocolate (Sugar, Palm Oil**, Milk Solids (15%), Emulsifier (322 (Soy)), Salt, Natural Flavouring), Cream (Cream, Mineral Salts (450, Sodium Carbonates), Thickener (400)), Canola Oil, Natural Caramel Flavouring, Natural Colour (Lutein)], Choc Decoration [Dark Compound Chocolate (Sugar, Palm Oil**, Cocoa Solids (20%), Emulsifiers (322 (Soy), 476), Natural Flavour), Canola Oil]."
+    },
+    {
+      "name": "Allergen",
+      "value": "Contains EGG, May Contain TREE NUTS, May Contain PEANUTS, Contains SOY, Contains CEREALS CONTAINING GLUTEN, Contains MILK"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "8.0"
+    },
+    {
+      "name": "Size",
+      "value": "600g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.80 per 100G"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2020-11-15T09:13:55.522Z",
+  "description": "Coles Caramel Mud Cake",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/9/0/3904712.jpg",
+    "width": 300
+  },
+  "name": "Caramel Mud Cake",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 4.8,
+    "lowPrice": 4.8,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T09:13:55.522Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "4.80",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-caramel-mud-cake"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/coles-caramel-mud-cake"
+  ],
+  "sku": "3904712",
+  "updatedAt": "2020-11-15T09:13:55.522Z"
+}

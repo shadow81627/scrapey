@@ -1,0 +1,56 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "1L"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$4.00 per 1L"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Made in Australia from local and imported ingredients"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2020-11-15T11:59:45.864Z",
+  "description": "Coles Nourishing Milk & Honey Body Wash",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/2/3/3234438.jpg",
+    "width": 300
+  },
+  "name": "Nourishing Milk & Honey Body Wash",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 4,
+    "lowPrice": 4,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T11:59:45.863Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "4.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-body-wash-nourishing-milk-honey"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/coles-body-wash-nourishing-milk-honey"
+  ],
+  "sku": "3234438",
+  "updatedAt": "2020-11-15T11:59:45.863Z"
+}

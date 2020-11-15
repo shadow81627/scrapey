@@ -1,0 +1,64 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "INGREDIENTS: RSPCA Approved Australian Chicken (63%), Breadcrumb Coating [Wheat Flour, Water, Canola Oil, Salt, Wheat Gluten, Maize Flour, Thickener (1422), Egg Powder, Yeast, Dextrose, Vegetable Powders (Tomato, Garlic, Onion), Rapeseed Oil, Mineral Salts (450, Sodium Carbonates), Natural Colours (Paprika Oleoresins, Turmeric), Pepper, Oregano, Natural Flavouring, Basil Extract], Garlic Butter Filling (12%) [Water, Butter (Cream, Water, Salt), Cheese Powder (Milk Solids, Salt, Starter Culture, Enzyme, Acidity Regulator (270)), Cheese (Milk, Salt, Starter Culture, Enzyme, Preservative (Sorbic Acid)), Milk Solids, Garlic (Acidity Regulator (330)), Thickeners (1422, 415), Parsley, Salt], Marinade [Water, Salt, Soy Protein Isolate, Mineral Salts (451, 450, 452), Canola Oil]."
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "4.0"
+    },
+    {
+      "name": "Warning",
+      "value": "Food Warnings:rnALL CARE HAS BEEN TAKEN TO REMOVE ALL BONES AND BONE FRAGMENTS, HOWEVER SOME MAY REMAIN.rnrn"
+    },
+    {
+      "name": "Size",
+      "value": "700g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$11.43 per 1Kg"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2020-11-15T07:49:07.484Z",
+  "description": "first box: 25 minutes mid box: OVEN end box: RSPCA logo",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/9/7/5970321.jpg",
+    "width": 300
+  },
+  "name": "RSPCA Approved Chicken Breast Kiev Garlic Butter",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 8,
+    "lowPrice": 8,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T07:49:07.483Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "8.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-chicken-kiev-crumbed-family-pack"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/sunnybank-hills/product/coles-chicken-kiev-crumbed-family-pack"
+  ],
+  "sku": "5970321",
+  "updatedAt": "2020-11-15T07:49:07.483Z"
+}

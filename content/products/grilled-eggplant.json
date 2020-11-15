@@ -1,0 +1,52 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "150g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$3.33 per 100G"
+    }
+  ],
+  "brand": "Deli Express",
+  "createdAt": "2020-11-15T08:36:48.221Z",
+  "description": "Deli Express Grilled Eggplant",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/6/0/3609960.jpg",
+    "width": 300
+  },
+  "name": "Grilled Eggplant",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 5,
+    "lowPrice": 5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T08:36:48.221Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "5.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-skinpack-grilled-eggplant"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/sunnybank-hills/product/coles-skinpack-grilled-eggplant?adId=display_5FJ8bGnpGECHXlLx9r7Si9gNorQyMDAxNjgyUA%3D%3D"
+  ],
+  "sku": "3609960",
+  "updatedAt": "2020-11-15T08:36:48.221Z"
+}

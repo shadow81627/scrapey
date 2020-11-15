@@ -1,0 +1,56 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Contains",
+      "value": "Preservatives: Phenoxyethanol, Hydroxybenzoates"
+    },
+    {
+      "name": "Size",
+      "value": "400g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$2.63 per 100G"
+    }
+  ],
+  "brand": "Banana Boat",
+  "createdAt": "2020-11-15T09:59:53.285Z",
+  "description": "Fragrance free & easy to apply",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/7/2/1/7211503.jpg",
+    "width": 300
+  },
+  "name": "Kids Sunscreen Lotion SPF 50+",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 10.5,
+    "lowPrice": 10.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T09:59:53.284Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "10.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/banana-boat-kids-pump-sunscreen-spf-30"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/banana-boat-kids-pump-sunscreen-spf-30"
+  ],
+  "sku": "7211503",
+  "updatedAt": "2020-11-15T09:59:53.284Z"
+}

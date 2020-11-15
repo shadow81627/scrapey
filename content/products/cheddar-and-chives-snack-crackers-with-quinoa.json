@@ -1,0 +1,64 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Wholegrain Cereals (70%) (Corn, Wheat, Oats), Sunflower Oil, Quinoa (3%), Sugar, Whey Powder (Milk), Rice, Cheese Powder (Milk), Salt, Natural Flavours (Milk), Maltodextrin, Onion Powder, Yeast Extract, Herbs (Chives, Parsley), Natural Colour (Paprika Extract)."
+    },
+    {
+      "name": "Contains",
+      "value": "Gluten (Wheat, Oats), Milk or milk products, Soybean or soybean products."
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "4.4"
+    },
+    {
+      "name": "Size",
+      "value": "110g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$2.73 per 100G"
+    }
+  ],
+  "brand": "Sunbites",
+  "createdAt": "2020-11-15T10:09:38.105Z",
+  "description": "Here at Sunbites we use only the best ingredients grown by the sun. Each Sunbites Snack Cracker is packed with the goodness of real Australian corn, wheat and oats as well as added quinoa, giving you a little bit of sun in every bite!",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/9/7/2976831.jpg",
+    "width": 300
+  },
+  "name": "Cheddar & Chives Snack Crackers With Quinoa",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3,
+    "lowPrice": 3,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T10:09:38.104Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "3.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/sunbites-cheddar-chives-crackers-snack"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/sunnybank-hills/product/sunbites-cheddar-chives-crackers-snack"
+  ],
+  "sku": "2976831",
+  "updatedAt": "2020-11-15T10:09:38.104Z"
+}

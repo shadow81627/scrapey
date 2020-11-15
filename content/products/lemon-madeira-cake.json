@@ -1,0 +1,60 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": " INGREDIENTS: Madeira Cake [Sugar, Wheat Flour, Water, Canola Oil, Egg Powder, Buttermilk Powder, Glucose syrup, Unsalted Butter (Milk), Inverted Sugar Syrup, Salt, Humectants (420, 1520), Emulsifiers (471 Soy, 475, 481), Raising Agents (450, 500, 341), Preservative (200), Orange Oil, Wheat Starch, Natural Colours (160b, 164), Thickener (415)], Lemon Icing [Icing Sugar, Unsalted Butter (Milk), Water, Mineral Salts (170, 516), Maize Starch, Humectant (422), Vegetable Gum (401), Dextrose, Lemon Oil, Preservative (200), Antioxidant (307), Natural Colours (160b, 164)]."
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "9.0"
+    },
+    {
+      "name": "Size",
+      "value": "315g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.79 per 100G"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2020-11-15T07:18:48.730Z",
+  "description": "A deliciously moist and zesty cake baked using local flour and creamy butter",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/5/9/5592075.jpg",
+    "width": 300
+  },
+  "name": "Lemon Madeira Cake",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2.5,
+    "lowPrice": 2.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T07:18:48.730Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "2.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-bakery-cake-madeira-lemon-with-icing"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/coles-bakery-cake-madeira-lemon-with-icing"
+  ],
+  "sku": "5592075",
+  "updatedAt": "2020-11-15T07:18:48.730Z"
+}

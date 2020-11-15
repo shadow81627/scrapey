@@ -1,0 +1,56 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Water, Sodium Laureth Sulfate, Glycerin, Cocamidopropyl Betaine, PEG-7 Glyceryl Cocoate, Cocamide MEA, Sodium Salicylate, Sodium Benzoate, Fragrance, Citric acid, Tetrasodium EDTA, Benzophenone-4, CI 14700, CI 17200, CI 42090."
+    },
+    {
+      "name": "Size",
+      "value": "250mL"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.40 per 100mL"
+    }
+  ],
+  "brand": "Palmolive",
+  "createdAt": "2020-11-15T11:55:03.546Z",
+  "description": "Palmolive Raspberry Heavenly Hands Foaming Hand Wash",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/9/2/1/9216348.jpg",
+    "width": 300
+  },
+  "name": "Raspberry Heavenly Hands Foaming Hand Wash",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3.5,
+    "lowPrice": 3.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T11:55:03.545Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "3.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/palmolive-heavenly-hands-foaming-raspberry"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/palmolive-heavenly-hands-foaming-raspberry"
+  ],
+  "sku": "9216348",
+  "updatedAt": "2020-11-15T11:55:03.545Z"
+}

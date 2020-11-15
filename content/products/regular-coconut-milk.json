@@ -1,0 +1,72 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Coconut Kernel Extract (89%), Water"
+    },
+    {
+      "name": "Allergen",
+      "value": "Free From Gluten"
+    },
+    {
+      "name": "Dietary",
+      "value": "No Preservatives"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "5.7"
+    },
+    {
+      "name": "Size",
+      "value": "400mL"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.88 per 100mL"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Made in Malaysia"
+    }
+  ],
+  "brand": "Ayam",
+  "createdAt": "2020-11-15T10:21:24.826Z",
+  "description": "Ayam Regular Coconut Milk",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/7/5/3753560.jpg",
+    "width": 300
+  },
+  "name": "Regular Coconut Milk",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3.5,
+    "lowPrice": 3.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T10:21:24.825Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "3.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/ayam-regular-coconut-milk"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/sunnybank-hills/product/ayam-regular-coconut-milk"
+  ],
+  "sku": "3753560",
+  "updatedAt": "2020-11-15T10:21:24.825Z"
+}

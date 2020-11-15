@@ -1,0 +1,60 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Colecalciferol (Vitamin D3 1000IU) 25micrograms"
+    },
+    {
+      "name": "Contains",
+      "value": "NO ADDED: Gluten, lactose, artificial colours, artificial flavours, artificial sweeteners, artificial preservatives, or dairy products"
+    },
+    {
+      "name": "Size",
+      "value": "200 pack"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.05 per 1Ea"
+    }
+  ],
+  "brand": "Cenovis",
+  "createdAt": "2020-11-15T11:57:24.589Z",
+  "description": "Cenovis Vitamin D3 1000IU Tablets",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/7/9/7/7973921.jpg",
+    "width": 300
+  },
+  "name": "Vitamin D3 1000IU Tablets",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 9.8,
+    "lowPrice": 9.8,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T11:57:24.588Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "9.80",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/cenovis-tablets-vitamin-d3"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/cenovis-tablets-vitamin-d3"
+  ],
+  "sku": "7973921",
+  "updatedAt": "2020-11-15T11:57:24.588Z"
+}

@@ -1,0 +1,56 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "50g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$5.00 per 100G"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Made in United Kingdom FROM LOCAL AND IMPORTED INGREDIENTS"
+    }
+  ],
+  "brand": "Colmans",
+  "createdAt": "2020-11-15T08:34:07.836Z",
+  "description": "Colmans Shepherds Pie Recipe Mix",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/7/2/3724459.jpg",
+    "width": 300
+  },
+  "name": "Shepherds Pie Recipe Mix",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2.5,
+    "lowPrice": 2.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/OutOfStock",
+        "availabilityStarts": "2020-11-15T08:34:07.835Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "2.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/colmans-shepherds-pie-recipe-mix"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/sunnybank-hills/product/colmans-shepherds-pie-recipe-mix"
+  ],
+  "sku": "3724459",
+  "updatedAt": "2020-11-15T08:34:07.835Z"
+}

@@ -1,0 +1,52 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "4 pack"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$6.00 per 1L"
+    }
+  ],
+  "brand": "Remedy",
+  "createdAt": "2020-11-15T04:56:20.917Z",
+  "description": "Remedy Organic Kombucha Ginger Lemon Drink Multipack Cans 250mL",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/2/7/3277678.jpg",
+    "width": 300
+  },
+  "name": "Organic Kombucha Ginger Lemon Drink Multipack Cans 250mL",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 6,
+    "lowPrice": 6,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T04:56:20.916Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "6.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/remedy-kombucha-4x250ml-drinks-ginger-lemon"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/remedy-kombucha-4x250ml-drinks-ginger-lemon"
+  ],
+  "sku": "3277678",
+  "updatedAt": "2020-11-15T04:56:20.916Z"
+}

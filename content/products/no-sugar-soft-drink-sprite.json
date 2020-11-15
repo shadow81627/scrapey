@@ -1,0 +1,64 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Dietary",
+      "value": "No Added Sugars"
+    },
+    {
+      "name": "Warning",
+      "value": "Contains Phenylalanine"
+    },
+    {
+      "name": "Size",
+      "value": "1.25L"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.20 per 1L"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Made in Australia from imported and local ingredients"
+    }
+  ],
+  "brand": "Coca-Cola",
+  "createdAt": "2020-11-15T08:21:01.265Z",
+  "description": "Coca-Cola No Sugar Soft Drink Sprite",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/5/8/3585567.jpg",
+    "width": 300
+  },
+  "name": "No Sugar Soft Drink Sprite",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 1.5,
+    "lowPrice": 1.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T08:21:01.264Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "1.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/cca-no-suger-soft-drink-sprite"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/richmond-south/product/cca-no-suger-soft-drink-sprite"
+  ],
+  "sku": "3585567",
+  "updatedAt": "2020-11-15T08:21:01.264Z"
+}

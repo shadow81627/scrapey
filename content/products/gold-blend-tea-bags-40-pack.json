@@ -1,0 +1,72 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "100% Black Tea"
+    },
+    {
+      "name": "Allergen",
+      "value": "Contains Caffeine"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "40.0"
+    },
+    {
+      "name": "Warning",
+      "value": "Contains caffeine."
+    },
+    {
+      "name": "Size",
+      "value": "125g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$5.00 per 100G"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Product of Ireland"
+    }
+  ],
+  "brand": "Barry's Tea",
+  "createdAt": "2020-11-15T08:36:08.196Z",
+  "description": "Barry's Tea Gold Blend is Ireland's most loved tea. Famous for its rich golden colour with a deep aroma and full bodied taste, Barry's Gold Blend is a uniquely refreshing blend.",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/1/6/5/1655184.jpg",
+    "width": 300
+  },
+  "name": "Gold Blend Tea Bags 40 Pack",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 6.25,
+    "lowPrice": 6.25,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/OutOfStock",
+        "availabilityStarts": "2020-11-15T08:36:08.196Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "6.25",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/barrys-tea-bags-gold-blend-40-pack"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/barrys-tea-bags-gold-blend-40-pack"
+  ],
+  "sku": "1655184",
+  "updatedAt": "2020-11-15T08:36:08.196Z"
+}

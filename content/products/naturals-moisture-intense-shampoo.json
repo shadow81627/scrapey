@@ -1,0 +1,56 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Water, Ammonium Lauryl Sulfate, Ammonium Laureth Sulfate, Dimethiconol, Cocamide MEA, Glycol Distearate, Glycerin, Fragrance, Cocamidopropyl Betaine, Sodium Chloride, Sorbitol, Guar Hydropropyltrimonium Chloride, Sodium Phosphate, Citric Acid, Tetrasodium EDTA, Sodium Benzoate, Sodium Salicylate, Stearyl Dimethicone PG-Polyquaternium-6, Nonfat Dry Milk, Cocos Nucifera (Coconut) Oil."
+    },
+    {
+      "name": "Size",
+      "value": "700mL"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.71 per 100mL"
+    }
+  ],
+  "brand": "Palmolive",
+  "createdAt": "2020-11-15T11:59:25.832Z",
+  "description": "Palmolive Naturals Moisture Intense Shampoo",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/7/2/0/7200959.jpg",
+    "width": 300
+  },
+  "name": "Naturals Moisture Intense Shampoo",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 5,
+    "lowPrice": 5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T11:59:25.832Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "5.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/palmolive-naturals-shampoo-intensive-moisture"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/palmolive-naturals-shampoo-intensive-moisture"
+  ],
+  "sku": "7200959",
+  "updatedAt": "2020-11-15T11:59:25.832Z"
+}

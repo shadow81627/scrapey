@@ -1,0 +1,56 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Water, Ammonium Lauryl Sulfate, Ammonium Laureth Sulfate, Dimethiconol, Cocamide MEA, Glycol Distearate, Glycerin, Sodium Chloride, Cocamidopropyl Betaine, Fragrance, Sorbitol, Guar Hydroxypropyltrimonium Chloride, Sodium Phosphate, Citric Acid, Tetrasodium EDTA, Sodium Benzoate, Sodium Salicylate, Stearyl Dimethicone PG-Diethylmonium Chloride, PEG-55 Stearate, Laureth-4, Laureth-23, Polyquaternium-6, Aloe Barbadensis Leaf Juice Powder."
+    },
+    {
+      "name": "Size",
+      "value": "700mL"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.71 per 100mL"
+    }
+  ],
+  "brand": "Palmolive",
+  "createdAt": "2020-11-15T11:50:19.570Z",
+  "description": "Palmolive Naturals Active Nourishment Shampoo",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/8/9/5890970.jpg",
+    "width": 300
+  },
+  "name": "Naturals Active Nourishment Shampoo",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 5,
+    "lowPrice": 5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T11:50:19.569Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "5.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/palmolive-naturals-active-nourishment-shampoo"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/palmolive-naturals-active-nourishment-shampoo"
+  ],
+  "sku": "5890970",
+  "updatedAt": "2020-11-15T11:50:19.569Z"
+}

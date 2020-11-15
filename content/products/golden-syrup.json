@@ -1,0 +1,60 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Dietary",
+      "value": "No Preservatives, No Artificial Flavours or Colours"
+    },
+    {
+      "name": "Size",
+      "value": "454g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.13 per 100G"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Made in United Kingdom FROM LOCAL AND IMPORTED INGREDIENTS"
+    }
+  ],
+  "brand": "Lyles",
+  "createdAt": "2020-11-15T09:19:33.560Z",
+  "description": "Lyles Golden Syrup",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/9/2/1/9219696.jpg",
+    "width": 300
+  },
+  "name": "Golden Syrup",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 5.15,
+    "lowPrice": 5.15,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T09:19:33.559Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "5.15",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/lyles-golden-syrup"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/sunnybank-hills/product/lyles-golden-syrup"
+  ],
+  "sku": "9219696",
+  "updatedAt": "2020-11-15T09:19:33.559Z"
+}

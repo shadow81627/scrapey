@@ -1,0 +1,52 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "20 Pack"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.38 per 1Ea"
+    }
+  ],
+  "brand": "Pukka",
+  "createdAt": "2020-11-15T09:28:59.782Z",
+  "description": "Pukka Wonder Berry Green Tea",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/7/1/3710320.jpg",
+    "width": 300
+  },
+  "name": "Wonder Berry Green Tea",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 7.5,
+    "lowPrice": 7.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T09:28:59.779Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "7.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/pukka-tea-wonder-berry-gren"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/sunnybank-hills/product/pukka-tea-wonder-berry-gren"
+  ],
+  "sku": "3710320",
+  "updatedAt": "2020-11-15T09:28:59.779Z"
+}

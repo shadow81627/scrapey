@@ -1,0 +1,52 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "125mL"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$6.00 per 100mL"
+    }
+  ],
+  "brand": "Sukin",
+  "createdAt": "2020-11-15T10:29:27.451Z",
+  "description": "Sukin Purely Ageless Micro-exfoliating Cleanser",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/8/7/3877766.jpg",
+    "width": 300
+  },
+  "name": "Purely Ageless Microexfoliating Cleanser",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 7.5,
+    "lowPrice": 7.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T10:29:27.450Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "7.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/sukin-purely-ageless-micro-exfoliating-cleansr"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/sukin-purely-ageless-micro-exfoliating-cleansr"
+  ],
+  "sku": "3877766",
+  "updatedAt": "2020-11-15T10:29:27.450Z"
+}

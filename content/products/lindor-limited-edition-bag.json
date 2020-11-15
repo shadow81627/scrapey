@@ -1,0 +1,64 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Contains",
+      "value": "Milk Chocolate contains: cocoa solids 32% min., milk solids 21% min. Dark Chocolate contains: cocoa solids 45% min. White Chocolate contains: cocoa solids 30% min."
+    },
+    {
+      "name": "Allergen",
+      "value": "May Be Present Peanuts, May Be Present Tree Nuts"
+    },
+    {
+      "name": "Size",
+      "value": "516g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$2.91 per 100G"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Manufactured in Italy"
+    }
+  ],
+  "brand": "Lindt",
+  "createdAt": "2020-11-15T08:30:26.210Z",
+  "description": "Lindt Lindor Limited Edition Bag",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/1/9/8/1981428.jpg",
+    "width": 300
+  },
+  "name": "Lindor Limited Edition Bag",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 15,
+    "lowPrice": 15,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T08:30:26.210Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "15.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/lindt-lindor-bag-limited-edition"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/lindt-lindor-bag-limited-edition"
+  ],
+  "sku": "1981428",
+  "updatedAt": "2020-11-15T08:30:26.210Z"
+}

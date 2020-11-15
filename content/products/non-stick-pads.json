@@ -1,0 +1,52 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "5 pack"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.20 per 1Ea"
+    }
+  ],
+  "brand": "Elastoplast",
+  "createdAt": "2020-11-15T05:15:42.782Z",
+  "description": "Absorbs and protects wounds-Air permeable, absorbent and ideal for larger wounds-Non-woven material is kind to sensitive skin-Individual sterile wrapping",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/7/9/6/7960544.jpg",
+    "width": 300
+  },
+  "name": "Non Stick Pads",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 6,
+    "lowPrice": 6,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T05:15:42.781Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "6.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/elastoplast-strips-non-stick-pads"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/elastoplast-strips-non-stick-pads"
+  ],
+  "sku": "7960544",
+  "updatedAt": "2020-11-15T05:15:42.781Z"
+}

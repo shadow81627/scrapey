@@ -1,0 +1,48 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Unit Price",
+      "value": "$4.00 per 1Ea"
+    }
+  ],
+  "brand": "Coles Bakery",
+  "createdAt": "2020-11-15T04:45:12.979Z",
+  "description": "Due to the short shelf life of the product it is not available for delivery before 2pm.",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/8/7/2872643.jpg",
+    "width": 300
+  },
+  "name": "Stone Baked Multigrain Sourdough Vienna",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 4,
+    "lowPrice": 4,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T04:45:12.978Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "4.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-bakery-stone-baked-multigrain-sourdough-vienna"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/sunnybank-hills/product/coles-bakery-stone-baked-multigrain-sourdough-vienna"
+  ],
+  "sku": "2872643",
+  "updatedAt": "2020-11-15T04:45:12.978Z"
+}

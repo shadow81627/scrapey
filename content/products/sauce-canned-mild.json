@@ -1,0 +1,56 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "400mL"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$4.15 per 1Ea"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Made in Malaysia from Imported ingredients"
+    }
+  ],
+  "brand": "Yeo's Malaysian Curry",
+  "createdAt": "2020-11-15T05:38:40.860Z",
+  "description": "Yeo's Malaysian Curry Sauce Canned Mild",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/1/6/4/164370.jpg",
+    "width": 300
+  },
+  "name": "Sauce Canned Mild",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 4.15,
+    "lowPrice": 4.15,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T05:38:40.859Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "4.15",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/yeos-sauce-mild-malaysian--curry"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/sunnybank-hills/product/yeos-sauce-mild-malaysian--curry"
+  ],
+  "sku": "164370",
+  "updatedAt": "2020-11-15T05:38:40.859Z"
+}

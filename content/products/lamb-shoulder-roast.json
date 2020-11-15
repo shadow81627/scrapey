@@ -1,0 +1,52 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "approx. 1.6kg"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$12.00 per 1Kg"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2020-11-15T07:48:27.645Z",
+  "description": "-",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/9/1/5/9154794.jpg",
+    "width": 300
+  },
+  "name": "Lamb Shoulder Roast",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 19.2,
+    "lowPrice": 19.2,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T07:48:27.644Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "19.20",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-lamb-shoulder-slow-cook"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/sunnybank-hills/product/coles-lamb-shoulder-slow-cook"
+  ],
+  "sku": "9154794",
+  "updatedAt": "2020-11-15T07:48:27.645Z"
+}

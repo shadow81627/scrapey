@@ -1,0 +1,56 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Warning",
+      "value": "Do not use on children under age 3. Replace brush (head) every 3 months or sooner if brush head becomes loose due to damage."
+    },
+    {
+      "name": "Size",
+      "value": "1 pack"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$35.00 per 1Ea"
+    }
+  ],
+  "brand": "Oral-B",
+  "createdAt": "2020-11-15T08:42:10.465Z",
+  "description": "Oral-B Pro100 Cross Action Electric Brush",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/4/0/3401813.jpg",
+    "width": 300
+  },
+  "name": "Pro100 Cross Action Electric Brush",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 35,
+    "lowPrice": 35,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T08:42:10.463Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "35.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/oral-b-pro100-cross-action-powerbrush"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/oral-b-pro100-cross-action-powerbrush"
+  ],
+  "sku": "3401813",
+  "updatedAt": "2020-11-15T08:42:10.463Z"
+}

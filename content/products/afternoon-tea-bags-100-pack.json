@@ -1,0 +1,64 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Black Tea."
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "100.0"
+    },
+    {
+      "name": "Size",
+      "value": "200g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.06 per 1Ea"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Blended and packed in Poland to the highest standards by Twinings of London using the finest imported and local ingredients."
+    }
+  ],
+  "brand": "Twinings",
+  "createdAt": "2020-11-15T08:22:01.860Z",
+  "description": "Delicious and refreshing, this invigorating blend is the perfect pick me up and sure to liven up your day!",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/8/9/3/8930039.jpg",
+    "width": 300
+  },
+  "name": "Afternoon Tea Bags 100 pack",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 5.6,
+    "lowPrice": 5.6,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T08:22:01.860Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "5.60",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/twinings-tea-bags-australian-afternoon-8930039p"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/richmond-south/product/twinings-tea-bags-australian-afternoon-8930039p"
+  ],
+  "sku": "8930039",
+  "updatedAt": "2020-11-15T08:22:01.860Z"
+}

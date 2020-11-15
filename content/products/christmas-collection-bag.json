@@ -1,0 +1,64 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Contains",
+      "value": "Milk Chocolate contains: cocoa solids 30% min., milk solids 16% min. Dark Chocolate contains: cocoa solids 45% min."
+    },
+    {
+      "name": "Allergen",
+      "value": "May Be Present Peanuts, May Be Present Tree Nuts"
+    },
+    {
+      "name": "Size",
+      "value": "414g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$3.62 per 100G"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Lindt milk & white teddy manufactured in Germany Lindor peppermint cookie balls Manufactured in the USA Lindor milk and dark balls manufactured in Italy lindt white cresta manufactured in Switzerland"
+    }
+  ],
+  "brand": "Lindt",
+  "createdAt": "2020-11-15T08:30:46.269Z",
+  "description": "Since 1845, the Master Chocolatiers from Lindt have been passionately creating the finest chocolate. In 1879 Rodolphe Lindt discovered the secret of smooth melting chocolate and to this day the Lindt Master Chocolatiers remain faithful to his uncompromising standards.",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/3/1/3314402.jpg",
+    "width": 300
+  },
+  "name": "Christmas Collection Bag",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 15,
+    "lowPrice": 15,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T08:30:46.268Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "15.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/lindt-christmas-collection-bag"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/lindt-christmas-collection-bag"
+  ],
+  "sku": "3314402",
+  "updatedAt": "2020-11-15T08:30:46.268Z"
+}

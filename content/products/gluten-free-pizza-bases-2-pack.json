@@ -1,0 +1,60 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "INGREDIENTS: Water, Tapioca Starch, Rice Flour, Maize Starch, Soy Flour, Potato Starch, Egg White Powder, Rice Bran Oil, Psyllium Husk Powder, Vegetable Fibre, Vegetable Gum (464), Raising Agents (500, 575), Dried Yeast, Dextrose (Maize), Iodised Salt, Humectant (422), Vinegar, Preservative (Potassium Sorbate), Acidity Regulator (270).   "
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "4.0"
+    },
+    {
+      "name": "Size",
+      "value": "300g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.83 per 100G"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2020-11-15T09:08:15.667Z",
+  "description": "Light and crisp pizza base",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/1/5/9/1595548.jpg",
+    "width": 300
+  },
+  "name": "Gluten Free Pizza Bases 2 pack",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 5.5,
+    "lowPrice": 5.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T09:08:15.667Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "5.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-simply-gluten-free-pizza-bases"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/coles-simply-gluten-free-pizza-bases"
+  ],
+  "sku": "1595548",
+  "updatedAt": "2020-11-15T09:08:15.667Z"
+}

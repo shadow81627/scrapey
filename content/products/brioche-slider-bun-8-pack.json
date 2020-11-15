@@ -1,0 +1,64 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "INGREDIENTS: Wheat Flour, Water, Sugar, Whole Egg Powder (5%), Canola Oil, Glaze (Water, Vegetable Proteins on Maltodextrins, Sunflower Oil, Dextrose, Starch), Margarine Blend (Vegetable Oils (Canola, Coconut), Water, Butter (Butter Oil, Water, Salt), Salt, Buttermilk Powder, Emulsifiers (471, 472c), Food Acid (270), Natural Flavour, Antioxidant (304), Natural Colour (160a)), Inverted Sugar, Yeast, Anhydrous Butter Oil (1%), Milk Solids, Iodised Salt, Emulsifiers (322 from Soy, 471 from Palm), Acidity Regulators (260, 262), Natural Flavour, Natural Colour (160a), Vitamins (Thiamin, Folic Acid). "
+    },
+    {
+      "name": "Allergen",
+      "value": "May Be Present TREE NUTS, May Be Present PEANUTS"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "8.0"
+    },
+    {
+      "name": "Size",
+      "value": "190g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.42 per 100G"
+    }
+  ],
+  "brand": "Coles Bakery",
+  "createdAt": "2020-11-15T09:14:15.373Z",
+  "description": "Coles Bakery Brioche Slider Bun 8 Pack",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/5/7/3572306.jpg",
+    "width": 300
+  },
+  "name": "Brioche Slider Bun 8 Pack",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2.7,
+    "lowPrice": 2.7,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T09:14:15.373Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "2.70",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-brioche-slider-bun-8pk"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/sunnybank-hills/product/coles-brioche-slider-bun-8pk"
+  ],
+  "sku": "3572306",
+  "updatedAt": "2020-11-15T09:14:15.373Z"
+}

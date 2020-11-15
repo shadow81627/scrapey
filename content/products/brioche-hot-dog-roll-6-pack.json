@@ -1,0 +1,64 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "INGREDIENTS: Wheat Flour, Water, Sugar, Whole Egg Powder (5%), Canola Oil, Glaze (Water, Vegetable Proteins on Maltodextrins, Sunflower Oil, Dextrose, Starch), Margarine Blend (Vegetable Oils (Canola, Coconut), Water, Butter (Butter Oil, Water, Salt), Salt, Buttermilk Powder, Emulsifiers (471, 472c), Food Acid (270), Natural Flavour, Antioxidant (304), Natural Colour (160a)), Inverted Sugar, Yeast, Anhydrous Butter Oil (1%), Milk Solids, Iodised Salt, Emulsifiers (322 (Soy), 471 from Palm**), Acidity Regulators (260, 262), Natural Flavour, Natural Colour (160a), Vitamins (Thiamin, Folate)."
+    },
+    {
+      "name": "Allergen",
+      "value": "Contains EGG, May Contain TREE NUTS, May Contain PEANUTS, Contains SOY, Contains CEREALS CONTAINING GLUTEN, Contains MILK, May Contain SESAME"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "6.0"
+    },
+    {
+      "name": "Size",
+      "value": "270g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.00 per 100G"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2020-11-15T05:16:43.144Z",
+  "description": "Soft, Light and Delicately Sweet",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/7/5/3757120.jpg",
+    "width": 300
+  },
+  "name": "Brioche Hot Dog Roll 6 pack",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2.7,
+    "lowPrice": 2.7,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T05:16:43.143Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "2.70",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-brioche-hot-dog-roll-6pk"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/sunnybank-hills/product/coles-brioche-hot-dog-roll-6pk"
+  ],
+  "sku": "3757120",
+  "updatedAt": "2020-11-15T05:16:43.144Z"
+}

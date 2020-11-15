@@ -1,0 +1,56 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Refer to our website for full information"
+    },
+    {
+      "name": "Size",
+      "value": "50g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$6.00 per 100G"
+    }
+  ],
+  "brand": "Bref",
+  "createdAt": "2020-11-15T08:38:28.849Z",
+  "description": "Bref Hawaii Sensation Escapes",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/2/2/3223792.jpg",
+    "width": 300
+  },
+  "name": "Hawaii Sensation Escapes",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3,
+    "lowPrice": 3,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T08:38:28.849Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "3.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/bref-power-active-tropical-hawaii-escapes"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/bref-power-active-tropical-hawaii-escapes"
+  ],
+  "sku": "3223792",
+  "updatedAt": "2020-11-15T08:38:28.849Z"
+}

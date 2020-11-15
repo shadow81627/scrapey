@@ -1,0 +1,52 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "320g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.91 per 100G"
+    }
+  ],
+  "brand": "Weight Watchers",
+  "createdAt": "2020-11-15T11:22:27.049Z",
+  "description": "Weight Watchers Frozen Creamy Tuna Bake Meal",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/0/0/5006762.jpg",
+    "width": 300
+  },
+  "name": "Frozen Creamy Tuna Bake Meal",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2.9,
+    "lowPrice": 2.9,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T11:22:27.049Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "2.90",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/weight-watchers-meal-frozen-tuna-bake"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/weight-watchers-meal-frozen-tuna-bake"
+  ],
+  "sku": "5006762",
+  "updatedAt": "2020-11-15T11:22:27.049Z"
+}

@@ -1,0 +1,56 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "approx. 900g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$39.00 per 1Kg"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Product of Mixed Origin"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2020-11-15T08:09:21.527Z",
+  "description": "Coles ISM 11x9 Beef Scotch Fillet Steak",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/1/5/5152582.jpg",
+    "width": 300
+  },
+  "name": "ISM 11x9 Beef Scotch Fillet Steak",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 35.1,
+    "lowPrice": 35.1,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T08:09:21.526Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "35.10",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-beef-scotch-steak"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/sunnybank-hills/product/coles-beef-scotch-steak"
+  ],
+  "sku": "5152582",
+  "updatedAt": "2020-11-15T08:09:21.526Z"
+}

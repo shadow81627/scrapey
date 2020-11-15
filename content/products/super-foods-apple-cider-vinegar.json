@@ -1,0 +1,56 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Apple cider vinegar powder (67%), Vegan capsule (titanium dioxide, hypromellose), Microcrystalline cellulose, calcium hydrogen phosphate, Magnesium stearate, Silicon dioxide. Not suitable for Halal"
+    },
+    {
+      "name": "Size",
+      "value": "60 pack"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$13.33 per 100Ea"
+    }
+  ],
+  "brand": "Nature's Way",
+  "createdAt": "2020-11-15T08:58:04.416Z",
+  "description": "Made from naturally fermented Apple Cider Vinegar.The extract is produced through a drying process that maintains the goodness from liquid to powder by preserving 'the mother', which contains the acetic acid to support digestive vitality.Contains 'The Mother'.",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/2/7/3279538.jpg",
+    "width": 300
+  },
+  "name": "Super Foods Apple Cider Vinegar",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 8,
+    "lowPrice": 8,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T08:58:04.416Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "8.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/natures-way-super-foods-apple-cider-vinegar"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/natures-way-super-foods-apple-cider-vinegar"
+  ],
+  "sku": "3279538",
+  "updatedAt": "2020-11-15T08:58:04.416Z"
+}

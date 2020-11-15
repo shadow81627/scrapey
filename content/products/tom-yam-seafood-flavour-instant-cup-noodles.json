@@ -1,0 +1,56 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "75g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$2.80 per 100G"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Made in China from Imported ingredients"
+    }
+  ],
+  "brand": "Nissin",
+  "createdAt": "2020-11-15T05:27:57.758Z",
+  "description": "Nissin Tom Yam Seafood Flavour Instant Cup Noodles",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/9/3/1/9316422.jpg",
+    "width": 300
+  },
+  "name": "Tom Yam Seafood Flavour Instant Cup Noodles",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2.1,
+    "lowPrice": 2.1,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T05:27:57.758Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "2.10",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/nissin-noodle-cup-tom-yum-seafood"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/sunnybank-hills/product/nissin-noodle-cup-tom-yum-seafood"
+  ],
+  "sku": "9316422",
+  "updatedAt": "2020-11-15T05:27:57.758Z"
+}

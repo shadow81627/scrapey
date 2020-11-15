@@ -1,0 +1,64 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": " Carbonated Water, Food Acids (330, 331, 296), Natural Flavour, Preservative (211), Sweeteners (951, 950)."
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "5.0"
+    },
+    {
+      "name": "Size",
+      "value": "1.25L"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.80 per 1L"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Made in Australia"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2020-11-15T07:37:05.988Z",
+  "description": "Diet Lemonade Soft Drink",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/1/7/5179160.jpg",
+    "width": 300
+  },
+  "name": "Diet Lemonade soft Drink",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 1,
+    "lowPrice": 1,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T07:37:05.988Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "1.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-soft-drink-lemonade-diet-sugar-free"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/coles-soft-drink-lemonade-diet-sugar-free"
+  ],
+  "sku": "5179160",
+  "updatedAt": "2020-11-15T07:37:05.988Z"
+}

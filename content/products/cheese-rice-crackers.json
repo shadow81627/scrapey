@@ -1,0 +1,60 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": " Rice Flour (85%), Seasoning [Cheese Powder (Milk) (7%), Maltodextrin, Whey Powder (Milk), Salt, Vegetable Powders (Onion, Garlic), Hydrolyzed Vegetable Protein (Maize), Cream Powder (Milk), Icing Mixture, Yeast, Spices, Acidity Regulators (330, 270), Flavour Enhancer (627, 631), Spice Extracts, Emulsifier (508), Anticaking Agent (551), Natural Flavour], Sunflower Oil [Antioxidant (320)], Sugar, Salt."
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "4.0"
+    },
+    {
+      "name": "Size",
+      "value": "100g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.90 per 100G"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2020-11-15T07:01:41.992Z",
+  "description": "N/A",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/4/6/5460041.jpg",
+    "width": 300
+  },
+  "name": "Cheese Rice Crackers",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 0.9,
+    "lowPrice": 0.9,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T07:01:41.991Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "0.90",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-crackers-rice-cheese"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/coles-crackers-rice-cheese"
+  ],
+  "sku": "5460041",
+  "updatedAt": "2020-11-15T07:01:41.991Z"
+}

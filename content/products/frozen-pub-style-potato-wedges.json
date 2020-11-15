@@ -1,0 +1,60 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Potato, Batter (wheat flour, wheat starch, sea salt, maize flour, paprika, onion powder, garlic powder, black pepper, dextrose (from maize)), canola oil"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "7.5"
+    },
+    {
+      "name": "Size",
+      "value": "750g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$5.33 per 1Kg"
+    }
+  ],
+  "brand": "McCain",
+  "createdAt": "2020-11-15T08:29:45.856Z",
+  "description": "Create the pub meal at home with McCain Pub Style Wedges. Serve them alongside a juicy steak, delicious parma or crispy battered fish to create your favourite pub meal.",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/3/9/5394810.jpg",
+    "width": 300
+  },
+  "name": "Frozen Pub Style Potato Wedges",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 4,
+    "lowPrice": 4,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T08:29:45.856Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "4.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/mccain-potato-wedges-crunchy-frozen"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/mccain-potato-wedges-crunchy-frozen"
+  ],
+  "sku": "5394810",
+  "updatedAt": "2020-11-15T08:29:45.856Z"
+}

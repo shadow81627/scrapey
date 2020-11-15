@@ -1,0 +1,60 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Dosage form: Tablet, chewable Quantity: 500 chewable tablets Active ingredients per chewable tablet: Ascorbic acid 180 mg Sodium ascorbate (vitamin C) 360 mg Total vitamin C 500 mg Contains milk and milk products, lactose, sodium, salts, and sugars."
+    },
+    {
+      "name": "Warning",
+      "value": "Contains lactose.Always read the label. Follow the directions for use. If symptoms persist, talk to your healthcare professional. Vitamin supplements should not replace a balanced diet."
+    },
+    {
+      "name": "Size",
+      "value": "500 pack"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$2.90 per 100Ea"
+    }
+  ],
+  "brand": "Nature's Way",
+  "createdAt": "2020-11-15T08:57:43.321Z",
+  "description": "Nature's Way Vitamin C Tablets",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/4/8/5/4856455.jpg",
+    "width": 300
+  },
+  "name": "Vitamin C Tablets",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 14.5,
+    "lowPrice": 14.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T08:57:43.321Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "14.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/natures-way-vitamin-c-tablets"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/natures-way-vitamin-c-tablets"
+  ],
+  "sku": "4856455",
+  "updatedAt": "2020-11-15T08:57:43.321Z"
+}

@@ -1,0 +1,60 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "INGREDIENTS: Mudcake [Sugar, Wheat Flour, Water, Canola Oil, Cocoa Powder (4%), Egg White, Thickeners (1422, 415), Raising Agents (Sodium Carbonates, 450, 341), Vegetable Emulsifiers (435, 471, 472b, 477 from Palm**), Salt, Maltodextrin (Wheat), Milk Solids, Preservative (Potassium Sorbate)], Choc Icing [Dark Compound Chocolate (Sugar, Vegetable Oil (Palm**), Cocoa Powder, Vegetable Emulsifier (322 (Soy)), Natural Vanilla Flavouring), Thickened Cream (Cream, Mineral Salts (450, Sodium Carbonates), Thickener (400)), Canola Oil], White Topping [White Compound Chocolate (Sugar, Hydrogenerated Palm Oil**, Milk Solids, Emulsifier (322 (Soy)), Salt, Natural Flavour), Canola Oil]."
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "8.0"
+    },
+    {
+      "name": "Size",
+      "value": "600g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.80 per 100G"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2020-11-15T09:40:44.689Z",
+  "description": "Coles Chocolate Mud Cake",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/7/5/2/7523211.jpg",
+    "width": 300
+  },
+  "name": "Chocolate Mud Cake",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 4.8,
+    "lowPrice": 4.8,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T09:40:44.688Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "4.80",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-bakery-cake-mud"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/coles-bakery-cake-mud"
+  ],
+  "sku": "7523211",
+  "updatedAt": "2020-11-15T09:40:44.688Z"
+}

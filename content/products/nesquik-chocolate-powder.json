@@ -1,0 +1,72 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Cane Sugar, Cocoa, Emulsifier ( Soy Lecithin), Spice (Cinnamon). Contains Soy May Contain Milk."
+    },
+    {
+      "name": "Allergen",
+      "value": "Contains Soybean, May Contain Milk, Contains Soy"
+    },
+    {
+      "name": "Dietary",
+      "value": "No Artificial Flavours or Colours"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "22.0"
+    },
+    {
+      "name": "Warning",
+      "value": "Contains allergens. See allergen list for details."
+    },
+    {
+      "name": "Size",
+      "value": "250g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.12 per 100G"
+    }
+  ],
+  "brand": "Nestle",
+  "createdAt": "2020-11-15T10:57:49.108Z",
+  "description": "NESQUIK Chocolate is a delicious drink that makes milk fun without artificial colours or flavours. Simply add 2-heaped teaspoons of NESQUIK to a glass of cold or hot reduced fat milk and stir to enjoy your delicious NESQUIK.",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/1/1/6/116093.jpg",
+    "width": 300
+  },
+  "name": "Nesquik Chocolate Powder",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2.8,
+    "lowPrice": 2.8,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T10:57:49.108Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "2.80",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/nesquik-chocolate-116093p"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/sunnybank-hills/product/nesquik-chocolate-116093p"
+  ],
+  "sku": "116093",
+  "updatedAt": "2020-11-15T10:57:49.108Z"
+}

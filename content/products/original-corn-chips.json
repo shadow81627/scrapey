@@ -1,0 +1,60 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "INGREDIENTS: Corn, Vegetable Oil (Palm**), Salt."
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "4.0"
+    },
+    {
+      "name": "Size",
+      "value": "200g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.95 per 100G"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2020-11-15T04:27:47.671Z",
+  "description": "Made with Australian corn No added MSG",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/6/9/9/6993038.jpg",
+    "width": 300
+  },
+  "name": "Original Corn Chips",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 1.9,
+    "lowPrice": 1.9,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T04:27:47.668Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "1.90",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-corn-chips-original"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/coles-corn-chips-original"
+  ],
+  "sku": "6993038",
+  "updatedAt": "2020-11-15T04:27:47.668Z"
+}

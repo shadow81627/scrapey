@@ -1,0 +1,80 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Wheat Flour, Vegetable Oil, Vegetables (Tomato Powder, Onion Powder, Garlic Powder), Cheese (Contains: Milk), Cornflour (Maize), Salt, Milk Solids, Yeast, Glucose, Flavour (Contains Milk), Sugar, Flavour Enhancers (E621, E635), Spice, Baking Powder, Food Acids (E262, E330, E327, E270), Food Colours (E150a, E162, E141), Yeast Extract, Antioxidants (E300, E307b from Soy, E304), Emulsifier (Soy Lecithin, E322)."
+    },
+    {
+      "name": "Contains",
+      "value": "Gluten containing cereals (Wheat), milk and soy."
+    },
+    {
+      "name": "Allergen",
+      "value": "Contains Cereals Containing Gluten, May Be Present Egg, May Be Present Peanuts, May Be Present Tree Nuts, Contains Milk, May Be Present Sesame, Contains Soy, Contains Wheat"
+    },
+    {
+      "name": "Dietary",
+      "value": "No Preservatives"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "6.4"
+    },
+    {
+      "name": "Warning",
+      "value": "Biscuits not actual size."
+    },
+    {
+      "name": "Size",
+      "value": "160g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.56 per 100G"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Made in Australia"
+    }
+  ],
+  "brand": "Arnott's",
+  "createdAt": "2020-11-15T05:32:00.501Z",
+  "description": "Satisfy your cravings with shapes Nacho cheese. Mexican spices and a tomato salsa flavour on both sides and cheese baked into the biscuit. Shapes are the ultimate flavour hit!No artificial colours, flavours or preservativesFoil wrapped for freshnessOven baked not fried",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/5/9/5591888.jpg",
+    "width": 300
+  },
+  "name": "Nacho Cheese Shapes",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2.5,
+    "lowPrice": 2.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T05:32:00.500Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "2.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/arnotts-biscuits-shapes-nacho-cheese"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/sunnybank-hills/product/arnotts-biscuits-shapes-nacho-cheese"
+  ],
+  "sku": "5591888",
+  "updatedAt": "2020-11-15T05:32:00.500Z"
+}

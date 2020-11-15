@@ -1,0 +1,60 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": " Cooked Chickpeas (72%), Canola Oil, Tahini (Sesame) (8%), Garlic Paste, Salt, Extra Virgin Olive Oil, Lemon Juice from Concentrate, Acidity Regulator (330), Vinegar, Preservative (Potassium Sorbate), Thickener (415)."
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "5.0"
+    },
+    {
+      "name": "Size",
+      "value": "200g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.95 per 100G"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2020-11-15T05:37:40.851Z",
+  "description": "Coles Dip Hommus",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/6/5/3/6530721.jpg",
+    "width": 300
+  },
+  "name": "Dip Hommus",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 1.9,
+    "lowPrice": 1.9,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T05:37:40.850Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "1.90",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-dip-hommus"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/sunnybank-hills/product/coles-dip-hommus"
+  ],
+  "sku": "6530721",
+  "updatedAt": "2020-11-15T05:37:40.850Z"
+}

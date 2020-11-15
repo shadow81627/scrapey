@@ -1,0 +1,64 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Dried Apple, Preservative (220, 223)."
+    },
+    {
+      "name": "Dietary",
+      "value": "High in Fibre, 99% Fat Free"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "4.0"
+    },
+    {
+      "name": "Size",
+      "value": "200g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$22.00 per 1Kg"
+    }
+  ],
+  "brand": "Angas Park",
+  "createdAt": "2020-11-15T09:23:13.739Z",
+  "description": "Delicately Sliced and Dried.",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/9/2/0/9202172.jpg",
+    "width": 300
+  },
+  "name": "Dried Apples",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 4.4,
+    "lowPrice": 4.4,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T09:23:13.738Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "4.40",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/angas-park-apples-dried"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/angas-park-apples-dried"
+  ],
+  "sku": "9202172",
+  "updatedAt": "2020-11-15T09:23:13.738Z"
+}

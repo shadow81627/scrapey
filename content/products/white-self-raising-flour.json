@@ -1,0 +1,60 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": " Wheat Flour (96%), Raising Agents (339, 341, 450, 500)."
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "20.0"
+    },
+    {
+      "name": "Size",
+      "value": "2kg"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.90 per 1Kg"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2020-11-15T07:04:02.892Z",
+  "description": "Unbleached Made With Australian Wheat",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/8/8/5881265.jpg",
+    "width": 300
+  },
+  "name": "White Self Raising Flour",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 1.8,
+    "lowPrice": 1.8,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T07:04:02.891Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "1.80",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-flour-self-raising-white-5881265p"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/sunnybank-hills/product/coles-flour-self-raising-white-5881265p"
+  ],
+  "sku": "5881265",
+  "updatedAt": "2020-11-15T07:04:02.891Z"
+}

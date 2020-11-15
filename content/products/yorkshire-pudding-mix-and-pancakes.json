@@ -1,0 +1,72 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Wheat Flour, Milk Powder, Salt, Dried Egg."
+    },
+    {
+      "name": "Allergen",
+      "value": "Contains Gluten, Contains Milk, Contains Egg, Contains Wheat"
+    },
+    {
+      "name": "Dietary",
+      "value": "No Preservatives"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "12.0"
+    },
+    {
+      "name": "Size",
+      "value": "142g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.83 per 100G"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Made in United Kingdom FROM LOCAL AND IMPORTED INGREDIENTS"
+    }
+  ],
+  "brand": "Golden Fry",
+  "createdAt": "2020-11-15T10:24:05.143Z",
+  "description": "Light, delicious & easy to make.",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/8/7/5879140.jpg",
+    "width": 300
+  },
+  "name": "Yorkshire Pudding Mix & Pancakes",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2.6,
+    "lowPrice": 2.6,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T10:24:05.142Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "2.60",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/goldenfry-mix-yorkshire-pudding"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/sunnybank-hills/product/goldenfry-mix-yorkshire-pudding"
+  ],
+  "sku": "5879140",
+  "updatedAt": "2020-11-15T10:24:05.142Z"
+}

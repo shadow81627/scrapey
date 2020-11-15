@@ -1,0 +1,68 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Sugar, Water, Reconstituted Lime Juice (25%), Food Acid (330), Flavour, Preservative (223)."
+    },
+    {
+      "name": "Allergen",
+      "value": "Contains Sulphites"
+    },
+    {
+      "name": "Warning",
+      "value": "Contains allergen."
+    },
+    {
+      "name": "Size",
+      "value": "750mL"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$5.33 per 1L"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Made in Australia from local and imported ingredients"
+    }
+  ],
+  "brand": "Schweppes",
+  "createdAt": "2020-11-15T10:01:33.727Z",
+  "description": "Schweppes Lime Cordial",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/1/2/3/123714.jpg",
+    "width": 300
+  },
+  "name": "Lime Cordial",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 4,
+    "lowPrice": 4,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T10:01:33.726Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "4.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/schweppes-cordial-lime-juice"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/schweppes-cordial-lime-juice"
+  ],
+  "sku": "123714",
+  "updatedAt": "2020-11-15T10:01:33.726Z"
+}

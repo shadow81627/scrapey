@@ -1,0 +1,56 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "400g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.46 per 100G"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Product of China"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2020-11-15T09:18:14.131Z",
+  "description": "Coles Asia Udon Noodles",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/7/2/3725338.jpg",
+    "width": 300
+  },
+  "name": "Asia Udon Noodles",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 1.85,
+    "lowPrice": 1.85,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T09:18:14.131Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "1.85",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-asia-udon-nodles"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/coles-asia-udon-nodles"
+  ],
+  "sku": "3725338",
+  "updatedAt": "2020-11-15T09:18:14.131Z"
+}

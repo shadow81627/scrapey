@@ -1,0 +1,52 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "125mL"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$6.38 per 100mL"
+    }
+  ],
+  "brand": "Sukin",
+  "createdAt": "2020-11-15T10:28:26.483Z",
+  "description": "Sukin Volumising Thickening Spritz Spray",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/8/3/3837127.jpg",
+    "width": 300
+  },
+  "name": "Volumising Thickening Spritz Spray",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 7.97,
+    "lowPrice": 7.97,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T10:28:26.483Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "7.97",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/sukin-spritz-spray-volumising-thickening-"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/sukin-spritz-spray-volumising-thickening-"
+  ],
+  "sku": "3837127",
+  "updatedAt": "2020-11-15T10:28:26.483Z"
+}

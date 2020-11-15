@@ -1,0 +1,52 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "6 pack"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.45 per 1Ea"
+    }
+  ],
+  "brand": "Coles Bakery",
+  "createdAt": "2020-11-15T10:07:15.788Z",
+  "description": "Due to the short shelf life of the product it is not available for delivery before 2pm.",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/3/0/3301706.jpg",
+    "width": 300
+  },
+  "name": "Hotdog Jumbo Rolls",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2.7,
+    "lowPrice": 2.7,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T10:07:15.787Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "2.70",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-bakery-rolls-hotdog-jumbo"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/coles-bakery-rolls-hotdog-jumbo"
+  ],
+  "sku": "3301706",
+  "updatedAt": "2020-11-15T10:07:15.787Z"
+}

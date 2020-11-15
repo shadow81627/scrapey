@@ -1,0 +1,64 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "INGREDIENTS: Carbonated Water, Sugar, Acidity Regulators (330, 334, 331), Taurine (0.5%), Natural Flavour, Preservatives (211, 202), Caffeine (0.03%), Vitamins (Niacin, Pantothenic Acid, Vitamin B6, Vitamin B12), Maltodextrin."
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "1.0"
+    },
+    {
+      "name": "Size",
+      "value": "250mL"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$5.00 per 1L"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Made in Poland"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2020-11-15T07:07:04.458Z",
+  "description": "POWERED WITH TAURINE",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/4/4/3448588.jpg",
+    "width": 300
+  },
+  "name": "Summit Regular Energy Drink Can",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 1.25,
+    "lowPrice": 1.25,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T07:07:04.458Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "1.25",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/summit-energy-drink-regular"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/summit-energy-drink-regular"
+  ],
+  "sku": "3448588",
+  "updatedAt": "2020-11-15T07:07:04.458Z"
+}

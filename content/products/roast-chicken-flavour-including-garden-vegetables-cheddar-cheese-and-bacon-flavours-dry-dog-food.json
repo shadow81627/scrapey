@@ -1,0 +1,60 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Wholegrain cereals; meat & meat by-products (poultry, beef, and/or lamb); rice; cereal protein; chicken flavour; beet pulp; glycerol; vegetable oil; vitamins & minerals; salt; vegetables (including peas); taurine; preservative; flavours (including roast chicken, carrot & bacon flavours); cheddar cheese powder; colours; marigold meal and antioxidants."
+    },
+    {
+      "name": "Contains",
+      "value": "Kibble"
+    },
+    {
+      "name": "Size",
+      "value": "1.5kg"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.73 per 100G"
+    }
+  ],
+  "brand": "My Dog",
+  "createdAt": "2020-11-15T10:56:08.967Z",
+  "description": "My Dog Roast Chicken Flavour Including Garden Vegetables Cheddar Cheese And Bacon Flavours Dry Dog Food",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/0/1/3014431.jpg",
+    "width": 300
+  },
+  "name": "Roast Chicken Flavour Including Garden Vegetables Cheddar Cheese And Bacon Flavours Dry Dog Food",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 11,
+    "lowPrice": 11,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T10:56:08.965Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "11.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/my-dog-roast-chicken-flavour-dry-dog-food"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/my-dog-roast-chicken-flavour-dry-dog-food"
+  ],
+  "sku": "3014431",
+  "updatedAt": "2020-11-15T10:56:08.965Z"
+}

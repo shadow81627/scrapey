@@ -1,0 +1,60 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Warning",
+      "value": "Contains caffeine. Not recommended for children, pregnant or lactating women or individuals sensitive to caffeine."
+    },
+    {
+      "name": "Size",
+      "value": "24 Pack"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.39 per 1L"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Made in Australia"
+    }
+  ],
+  "brand": "Mountain Dew",
+  "createdAt": "2020-11-15T08:30:06.240Z",
+  "description": "Mountain Dew 375mL x 24 Pack",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/6/1/3613108.jpg",
+    "width": 300
+  },
+  "name": "Energised Multipack Soft Drink Cans 375mL",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 12.5,
+    "lowPrice": 12.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T08:30:06.238Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "12.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/mountain-dew-soft-drink-3613108p"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/richmond-south/product/mountain-dew-soft-drink-3613108p"
+  ],
+  "sku": "3613108",
+  "updatedAt": "2020-11-15T08:30:06.238Z"
+}

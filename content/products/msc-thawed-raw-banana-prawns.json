@@ -1,0 +1,60 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Banana Prawns [Prawns, Preservative (223)]."
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "50.0"
+    },
+    {
+      "name": "Size",
+      "value": "approx. 250g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$22.00 per 1Kg"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2020-11-15T09:11:55.618Z",
+  "description": "Indicated price based on approx. weight. Weight may vary between 200g and 300g.",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/8/8/3/8836813.jpg",
+    "width": 300
+  },
+  "name": "MSC Thawed Raw Banana Prawns",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 5.5,
+    "lowPrice": 5.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T09:11:55.616Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "5.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-deli-thawed-raw-banana-prawns"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/coles-deli-thawed-raw-banana-prawns"
+  ],
+  "sku": "8836813",
+  "updatedAt": "2020-11-15T09:11:55.616Z"
+}

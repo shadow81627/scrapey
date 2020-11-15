@@ -1,0 +1,68 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Raspberries, (50%), Sugar, Lemon Juice Concentrate, Gelling Agent (Fruit Pectin)"
+    },
+    {
+      "name": "Dietary",
+      "value": "No Preservatives, No Artificial Flavours or Colours"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "45.0"
+    },
+    {
+      "name": "Size",
+      "value": "455g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.10 per 100G"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Made in New Zealand"
+    }
+  ],
+  "brand": "Barker's",
+  "createdAt": "2020-11-15T04:41:32.535Z",
+  "description": "Barker's Raspberry Jam",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/7/5/4/7549350.jpg",
+    "width": 300
+  },
+  "name": "Raspberry Jam",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 5,
+    "lowPrice": 5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T04:41:32.534Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "5.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/anathoth-raspberry-jam"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/anathoth-raspberry-jam"
+  ],
+  "sku": "7549350",
+  "updatedAt": "2020-11-15T04:41:32.534Z"
+}

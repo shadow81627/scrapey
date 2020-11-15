@@ -1,0 +1,52 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "approx. 1.8kg"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$11.00 per 1Kg"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2020-11-15T09:37:43.669Z",
+  "description": "Coles Free Range Pork Shoulder Roast Boneless",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/7/4/2741907.jpg",
+    "width": 300
+  },
+  "name": "Free Range Pork Shoulder Roast Boneless",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 19.8,
+    "lowPrice": 19.8,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T09:37:43.669Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "19.80",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-free-range-pork-shoulder-roast-boneless"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/coles-free-range-pork-shoulder-roast-boneless"
+  ],
+  "sku": "2741907",
+  "updatedAt": "2020-11-15T09:37:43.669Z"
+}

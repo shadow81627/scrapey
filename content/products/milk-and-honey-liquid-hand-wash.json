@@ -1,0 +1,64 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Chloride, Cocamide MEA, Fragrance, Glycol Distearate, Sodium Salicylate, Sodium Benzoate, Polyquaternium-7, Citric Acid, Tetrasodium EDTA, Styrene/Acrylates Copolymer, Benzophenone-4, Sine Adipe Lac (Nonfat Dry Milk), Honey Extract, CI 19140, CI 16035."
+    },
+    {
+      "name": "Allergen",
+      "value": "Contains Milk"
+    },
+    {
+      "name": "Warning",
+      "value": "Does not contain Ethyl Alcohol."
+    },
+    {
+      "name": "Size",
+      "value": "250mL"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.12 per 100mL"
+    }
+  ],
+  "brand": "Palmolive",
+  "createdAt": "2020-11-15T11:53:21.769Z",
+  "description": "Palmolive Milk & Honey Liquid Hand Wash",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/9/0/7/9072408.jpg",
+    "width": 300
+  },
+  "name": "Milk & Honey Liquid Hand Wash",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2.8,
+    "lowPrice": 2.8,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T11:53:21.769Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "2.80",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/palmolive-hand-wash-liquid-softwash-milk-honey-pump"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/palmolive-hand-wash-liquid-softwash-milk-honey-pump"
+  ],
+  "sku": "9072408",
+  "updatedAt": "2020-11-15T11:53:21.769Z"
+}

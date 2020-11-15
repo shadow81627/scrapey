@@ -1,0 +1,56 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "92g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$3.91 per 100G"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Made in Japan from Imported ingredients"
+    }
+  ],
+  "brand": "S & B",
+  "createdAt": "2020-11-15T05:25:17.380Z",
+  "description": "S & B Golden Curry Medium Hot Sauce Mix",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/9/4/5/9456374.jpg",
+    "width": 300
+  },
+  "name": "Golden Curry Medium Hot Sauce Mix",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3.6,
+    "lowPrice": 3.6,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T05:25:17.379Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "3.60",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/s-b-curry-golden-medium-hot"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/sunnybank-hills/product/s-b-curry-golden-medium-hot"
+  ],
+  "sku": "9456374",
+  "updatedAt": "2020-11-15T05:25:17.379Z"
+}

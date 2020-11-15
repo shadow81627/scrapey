@@ -1,0 +1,56 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "457mL"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.26 per 100mL"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Made in France"
+    }
+  ],
+  "brand": "Haagen-Dazs",
+  "createdAt": "2020-11-15T10:11:21.702Z",
+  "description": "Haagen-Dazs Strawberries & Cream Ice Cream Tub",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/9/8/2983837.jpg",
+    "width": 300
+  },
+  "name": "Strawberries & Cream Ice Cream Tub",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 5.75,
+    "lowPrice": 5.75,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T10:11:21.701Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "5.75",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/haagen-dazs-ice-cream-strawberries-and-cream"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/richmond-south/product/haagen-dazs-ice-cream-strawberries-and-cream"
+  ],
+  "sku": "2983837",
+  "updatedAt": "2020-11-15T10:11:21.701Z"
+}

@@ -1,0 +1,56 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "210g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.52 per 100G"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Product of Thailand from Imported ingredients"
+    }
+  ],
+  "brand": "Valcom",
+  "createdAt": "2020-11-15T09:15:55.033Z",
+  "description": "Valcom Massaman Curry Paste",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/6/8/2/6823377.jpg",
+    "width": 300
+  },
+  "name": "Massaman Curry Paste",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3.2,
+    "lowPrice": 3.2,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T09:15:55.032Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "3.20",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/valcom-paste-massaman-curry"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/sunnybank-hills/product/valcom-paste-massaman-curry"
+  ],
+  "sku": "6823377",
+  "updatedAt": "2020-11-15T09:15:55.032Z"
+}

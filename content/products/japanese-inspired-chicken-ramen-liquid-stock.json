@@ -1,0 +1,60 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "  Reconstituted Chicken Broth (98%) [ Water, Chicken, Onion, Carrot, Celery, Bayleaf], Sea Salt, Natural Flavours, Glucose, Maltodextrin, Salt, Sugar, Chicken Powder, Soy Sauce Powder (Wheat), Sunflower Oil, Modified Tapioca Starch, Medium Chain Triglycerides."
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "4.0"
+    },
+    {
+      "name": "Size",
+      "value": "1L"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.30 per 100mL"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2020-11-15T09:17:54.126Z",
+  "description": "Create your perfect Japanese street food",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/4/5/3455572.jpg",
+    "width": 300
+  },
+  "name": "Japanese Inspired Chicken Ramen Liquid Stock",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3,
+    "lowPrice": 3,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T09:17:54.125Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "3.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-liquid-stock-chicken-ramen"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/coles-liquid-stock-chicken-ramen"
+  ],
+  "sku": "3455572",
+  "updatedAt": "2020-11-15T09:17:54.125Z"
+}

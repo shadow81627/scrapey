@@ -1,0 +1,52 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Alcohol Volume Percentage",
+      "value": "12.0%"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$8.00 per 1L"
+    }
+  ],
+  "brand": "Lindemans",
+  "createdAt": "2020-11-15T10:44:34.330Z",
+  "description": "Light to medium bodied with gooseberry, grassy and tropical fruit flavours on the palate. The finish is long and elegant with crisp acidity and good length.",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/1/3/3/133449.jpg",
+    "width": 300
+  },
+  "name": "Bin 95 Sauvignon Blanc 750mL",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 6,
+    "lowPrice": 6,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T10:44:34.330Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "6.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/lindemans-bin-95-sauvignon-blanc"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/lindemans-bin-95-sauvignon-blanc"
+  ],
+  "sku": "133449",
+  "updatedAt": "2020-11-15T10:44:34.330Z"
+}

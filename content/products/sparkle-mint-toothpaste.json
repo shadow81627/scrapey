@@ -1,0 +1,64 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Sorbitol, Water, Hydrated Silica, Sodium Lauryl Sulphate, Peg12, Flavour, Cellulose Gum, Tetrasodium Pyrophosphate, Sodium Saccharin, Sodium Fluoride, Mica (and) Titanium Dioxide, FD&C Blue No. 1, D&C Yellow No. 10."
+    },
+    {
+      "name": "Contains",
+      "value": "This product contains Sodium Fluoride 0.22% w/w (equivalent of 1000ppm F)"
+    },
+    {
+      "name": "Warning",
+      "value": "No Colgate toothpaste contains sugar."
+    },
+    {
+      "name": "Size",
+      "value": "110g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.82 per 100G"
+    }
+  ],
+  "brand": "Colgate",
+  "createdAt": "2020-11-15T11:48:38.794Z",
+  "description": "Colgate Sparkle Mint Toothpaste",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/0/1/5011671.jpg",
+    "width": 300
+  },
+  "name": "Sparkle Mint Toothpaste",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2,
+    "lowPrice": 2,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T11:48:38.793Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "2.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/colgate-toothpaste-gel-sparkling-mint-5011671p"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/colgate-toothpaste-gel-sparkling-mint-5011671p"
+  ],
+  "sku": "5011671",
+  "updatedAt": "2020-11-15T11:48:38.793Z"
+}

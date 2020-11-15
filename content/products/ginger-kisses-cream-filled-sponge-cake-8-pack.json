@@ -1,0 +1,56 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "200g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.85 per 100G"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Made in New Zealand"
+    }
+  ],
+  "brand": "Jon-Jon",
+  "createdAt": "2020-11-15T09:33:42.075Z",
+  "description": "Jon-Jon Ginger Kisses Cream Filled Sponge Cake 8 pack",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/6/0/2603798.jpg",
+    "width": 300
+  },
+  "name": "Ginger Kisses Cream Filled Sponge Cake 8 pack",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3.7,
+    "lowPrice": 3.7,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T09:33:42.075Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "3.70",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/jon-jon-ginger-kisses-8-pack"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/sunnybank-hills/product/jon-jon-ginger-kisses-8-pack"
+  ],
+  "sku": "2603798",
+  "updatedAt": "2020-11-15T09:33:42.075Z"
+}

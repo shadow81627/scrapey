@@ -1,0 +1,60 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Glycerin, Water, Hydrated Silica, Sodium Lauryl Sulfate, Arginine, Flavour, Zinc Oxide, Cellulose Gum, CI 77891, Poloxamer 407, Tetrasodium Pyrophosphate, Zinc Citrate, Benzyl Alcohol, Xanthan Gum, Cocamidopropyl Betaine, Sodium Saccharin, Phosphoric Acid, Sodium Fluoride, Mica, Charcoal Powder, Sucralose."
+    },
+    {
+      "name": "Contains",
+      "value": "Sodium Fluoride 0.22% w/w (equiv. 1000 ppm F)"
+    },
+    {
+      "name": "Size",
+      "value": "115g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$3.35 per 100G"
+    }
+  ],
+  "brand": "Colgate",
+  "createdAt": "2020-11-15T11:59:05.610Z",
+  "description": "Colgate Total Charcoal Deep Clean Multi Benefit Toothpaste",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/4/0/3400990.jpg",
+    "width": 300
+  },
+  "name": "Total Charcoal Deep Clean Multi Benefit Toothpaste",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3.85,
+    "lowPrice": 3.85,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T11:59:05.610Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "3.85",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/colgate-total-charcoal-deep-clean-toothpaste-3400990p"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/colgate-total-charcoal-deep-clean-toothpaste-3400990p"
+  ],
+  "sku": "3400990",
+  "updatedAt": "2020-11-15T11:59:05.610Z"
+}

@@ -1,0 +1,68 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": " Dried Turkish Apricots (99.7%), Preservative (220)."
+    },
+    {
+      "name": "Allergen",
+      "value": "Contains SULPHITES"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "14.0"
+    },
+    {
+      "name": "Warning",
+      "value": "Food Warnings:rnApricots are mechanically pitted and may contain an occasional pit or pit fragment. Take care to avoid dental injury.rnrn"
+    },
+    {
+      "name": "Size",
+      "value": "500g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$9.00 per 1Kg"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2020-11-15T11:12:35.591Z",
+  "description": "Coles Turkish Dried Apricots",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/7/4/2749400.jpg",
+    "width": 300
+  },
+  "name": "Turkish Dried Apricots",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 4.5,
+    "lowPrice": 4.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T11:12:35.591Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "4.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-dried-turk-apricots"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/sunnybank-hills/product/coles-dried-turk-apricots"
+  ],
+  "sku": "2749400",
+  "updatedAt": "2020-11-15T11:12:35.591Z"
+}

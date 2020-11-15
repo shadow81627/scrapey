@@ -1,0 +1,68 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Sugar, Peanuts, Glucose Syrup (Sources Include Wheat), Milk Solids, Cocoa Butter, Cocoa Mass, Vegetable Fat, Salt, Emulsifier (Soy Lecithin), Egg White, Flavour."
+    },
+    {
+      "name": "Contains",
+      "value": "Milk, Soy, Egg, Wheat And Peanuts"
+    },
+    {
+      "name": "Allergen",
+      "value": "Contains Peanuts, May Be Present Tree Nuts, Contains Milk, Contains Soy, Contains Egg, Contains Wheat"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "20.0"
+    },
+    {
+      "name": "Size",
+      "value": "360g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.39 per 100G"
+    }
+  ],
+  "brand": "Mars Large Funsize",
+  "createdAt": "2020-11-15T11:30:08.300Z",
+  "description": "Mars Large Funsize Snickers",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/8/1/8/8182127.jpg",
+    "width": 300
+  },
+  "name": "Snickers",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 5,
+    "lowPrice": 5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T11:30:08.299Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "5.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/snickers-chocolate-bar-funsize-large-multipack"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/snickers-chocolate-bar-funsize-large-multipack"
+  ],
+  "sku": "8182127",
+  "updatedAt": "2020-11-15T11:30:08.300Z"
+}

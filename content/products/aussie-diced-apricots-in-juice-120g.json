@@ -1,0 +1,60 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Dietary",
+      "value": "No Added Colours, No Preservatives"
+    },
+    {
+      "name": "Warning",
+      "value": "May contain stone fragments or stems."
+    },
+    {
+      "name": "Size",
+      "value": "4 pack"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$8.33 per 1Kg"
+    }
+  ],
+  "brand": "SPC",
+  "createdAt": "2020-11-15T04:55:18.258Z",
+  "description": "SPC Diced Apricots In Juice contain no added colours, flavours or preservatives.",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/8/3/2833856.jpg",
+    "width": 300
+  },
+  "name": "Aussie Diced Apricots in Juice 120g",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 4,
+    "lowPrice": 4,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T04:55:18.258Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "4.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/spc-diced-fruit-in-juice-2833856p"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/spc-diced-fruit-in-juice-2833856p"
+  ],
+  "sku": "2833856",
+  "updatedAt": "2020-11-15T04:55:18.258Z"
+}

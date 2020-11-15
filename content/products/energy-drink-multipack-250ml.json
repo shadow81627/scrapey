@@ -1,0 +1,60 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Contains",
+      "value": "4 Pack"
+    },
+    {
+      "name": "Size",
+      "value": "4 pack"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$10.85 per 1L"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Made in Austria"
+    }
+  ],
+  "brand": "Red Bull",
+  "createdAt": "2020-11-15T07:26:44.438Z",
+  "description": "Red Bull Energy Drink Multipack 250mL",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/9/0/4/9043363.jpg",
+    "width": 300
+  },
+  "name": "Energy Drink Multipack 250mL",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 10.85,
+    "lowPrice": 10.85,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T07:26:44.437Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "10.85",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/red-bull-drink-energy-250ml-cans-9043363p"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/red-bull-drink-energy-250ml-cans-9043363p"
+  ],
+  "sku": "9043363",
+  "updatedAt": "2020-11-15T07:26:44.437Z"
+}

@@ -1,0 +1,64 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Dietary",
+      "value": "No Added Sugars"
+    },
+    {
+      "name": "Warning",
+      "value": "Contains caffeine. Phenylketonurics: Contains Phenylalanine."
+    },
+    {
+      "name": "Size",
+      "value": "24 pack"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.39 per 1L"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Made In Australia From Local And Imported Ingredients"
+    }
+  ],
+  "brand": "Pepsi",
+  "createdAt": "2020-11-15T07:04:43.596Z",
+  "description": "Pepsi Max Soft Drink 375mL",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/7/3/6/7366022.jpg",
+    "width": 300
+  },
+  "name": "Max Soft Drink 375mL",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 12.5,
+    "lowPrice": 12.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T07:04:43.594Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "12.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/pepsi-max-soft-drink-cola-375ml-cans-7366022p"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/richmond-south/product/pepsi-max-soft-drink-cola-375ml-cans-7366022p"
+  ],
+  "sku": "7366022",
+  "updatedAt": "2020-11-15T07:04:43.594Z"
+}

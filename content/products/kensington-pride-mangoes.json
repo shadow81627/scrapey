@@ -1,0 +1,48 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Unit Price",
+      "value": "$2.90 per 1Ea"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2020-11-15T05:05:20.464Z",
+  "description": "Coles Kensington Pride Mangoes",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/4/0/9/409772.jpg",
+    "width": 300
+  },
+  "name": "Kensington Pride Mangoes",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2.9,
+    "lowPrice": 2.9,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T05:05:20.464Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "2.90",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/part_409772P"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/part_409772P"
+  ],
+  "sku": "409772",
+  "updatedAt": "2020-11-15T05:05:20.464Z"
+}

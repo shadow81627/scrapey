@@ -1,0 +1,64 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Dietary",
+      "value": "No Preservatives"
+    },
+    {
+      "name": "Warning",
+      "value": "This mango product is made in Thailand as we are unable to secure a suitable supply of Australian grown mangoes. We are working with Australian mango processors to understand if we can obtain a suitable supply of mangoes in the future."
+    },
+    {
+      "name": "Size",
+      "value": "4 pack"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$8.33 per 1Kg"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Made in Thailand"
+    }
+  ],
+  "brand": "SPC",
+  "createdAt": "2020-11-15T04:55:38.639Z",
+  "description": "SPC Tropics diced & juicy mangoes in juice.",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/8/3/2833812.jpg",
+    "width": 300
+  },
+  "name": "Tropics Diced & Juicy Mangoes in Juice 120g",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 4,
+    "lowPrice": 4,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T04:55:38.621Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "4.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/spc--tropics-diced-mangoes-4-pack"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/spc--tropics-diced-mangoes-4-pack"
+  ],
+  "sku": "2833812",
+  "updatedAt": "2020-11-15T04:55:38.621Z"
+}

@@ -1,0 +1,68 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "INGREDIENTS: Wheat Flour, Egg, Sugar, Butterfat (15%) (Milk), Milk, Sourdough (Wheat Flour, Water), Fructose, Emulsifier (471), Cocoa Butter, Salt, Yeast, Natural Flavouring."
+    },
+    {
+      "name": "Allergen",
+      "value": "Contains EGG, May Contain TREE NUTS, Contains CEREALS CONTAINING GLUTEN, Contains MILK, May Contain SOY"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "1.0"
+    },
+    {
+      "name": "Size",
+      "value": "80g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$5.00 per 100G"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Made in Italy"
+    }
+  ],
+  "brand": "Adalgisa",
+  "createdAt": "2020-11-15T04:48:13.713Z",
+  "description": "Our Mini Pandoro is baked using a traditional family recipe passed down through the generations. Sweet and buttery with a soft, delicate texture.",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/5/6/3562211.jpg",
+    "width": 300
+  },
+  "name": "Mini Pandoro",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 4,
+    "lowPrice": 4,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/OutOfStock",
+        "availabilityStarts": "2020-11-15T04:48:13.713Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "4.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-traditional-classic-pandoro"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/coles-traditional-classic-pandoro"
+  ],
+  "sku": "3562211",
+  "updatedAt": "2020-11-15T04:48:13.713Z"
+}

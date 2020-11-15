@@ -1,0 +1,56 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Water, Dimethicone, Cetyl Alcohol, Stearamidopropyl Dimethylamine, Stearyl Alcohol, Quaternium-18, Hydroxyethylcellulose, Sorbitan Caprylate, Benzyl Alcohol, Fragrance, PEG-2M, Cetearyl Alcohol, Oleyl Alcohol, Glyceryl Stearate, Citric Acid, Polysorbate 60, Lysine HCl, EDTA, Panthenol, Panthenyl Ethyl Ether, Histidine"
+    },
+    {
+      "name": "Size",
+      "value": "150mL"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$4.17 per 100mL"
+    }
+  ],
+  "brand": "Pantene",
+  "createdAt": "2020-11-15T08:27:08.033Z",
+  "description": "Pantene 10 In 1 Beauty Balm",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/7/2/3723569.jpg",
+    "width": 300
+  },
+  "name": "10 In 1 Beauty Balm",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 6.25,
+    "lowPrice": 6.25,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T08:27:08.033Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "6.25",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/pantene-10-in-1-beauty-balm"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/pantene-10-in-1-beauty-balm"
+  ],
+  "sku": "3723569",
+  "updatedAt": "2020-11-15T08:27:08.033Z"
+}

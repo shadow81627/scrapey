@@ -1,0 +1,52 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "200g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.25 per 100G"
+    }
+  ],
+  "brand": "Passage To Asia",
+  "createdAt": "2020-11-15T09:30:20.833Z",
+  "description": "Passage To Asia Hoisin & Garlic Stir Fry Sauce",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/7/4/3746316.jpg",
+    "width": 300
+  },
+  "name": "Hoisin & Garlic Stir Fry Sauce",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2.5,
+    "lowPrice": 2.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T09:30:20.833Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "2.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/passage-to-asia-hoisin-garlic-stir-fry-sauce"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/sunnybank-hills/product/passage-to-asia-hoisin-garlic-stir-fry-sauce"
+  ],
+  "sku": "3746316",
+  "updatedAt": "2020-11-15T09:30:20.833Z"
+}

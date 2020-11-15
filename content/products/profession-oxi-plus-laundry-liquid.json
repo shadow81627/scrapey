@@ -1,0 +1,56 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Please visit our website for details"
+    },
+    {
+      "name": "Size",
+      "value": "1.8L"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$5.56 per 1L"
+    }
+  ],
+  "brand": "Dynamo",
+  "createdAt": "2020-11-15T08:14:01.073Z",
+  "description": "Dynamo Profession Oxi Plus Laundry Liquid",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/7/7/3774300.jpg",
+    "width": 300
+  },
+  "name": "Profession Oxi Plus Laundry Liquid",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 10,
+    "lowPrice": 10,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T08:14:01.057Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "10.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/dynamo-prof-l-liquid-oxi-plus-3774300p"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/richmond-south/product/dynamo-prof-l-liquid-oxi-plus-3774300p"
+  ],
+  "sku": "3774300",
+  "updatedAt": "2020-11-15T08:14:01.057Z"
+}

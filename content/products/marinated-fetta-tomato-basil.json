@@ -1,0 +1,68 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Smooth Fetta (60%) [Milk, Vegetable Oil, Salt, Lactic Cultures, Microbial (Non-Animal) Rennet], Marinade (40%) [Vegetable Oils, Basil Leaves (1.3%), Tomato Powder (1.3%), Natural Colours (140, 160a)]."
+    },
+    {
+      "name": "Contains",
+      "value": "Milk"
+    },
+    {
+      "name": "Allergen",
+      "value": "May Be Present Peanuts, May Be Present Tree Nuts, Contains Milk"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "6.0"
+    },
+    {
+      "name": "Size",
+      "value": "250g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$27.20 per 1Kg"
+    }
+  ],
+  "brand": "Lemnos",
+  "createdAt": "2020-11-15T05:05:40.521Z",
+  "description": "A flavourful Lemnos Fetta, marinated in tomato & basil and the perfect amount of oil.",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/8/4/3841962.jpg",
+    "width": 300
+  },
+  "name": "Marinated Fetta Tomato Basil",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 6.8,
+    "lowPrice": 6.8,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T05:05:40.519Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "6.80",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/lemnos-marinated-fetta-tomato-basil"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/lemnos-marinated-fetta-tomato-basil"
+  ],
+  "sku": "3841962",
+  "updatedAt": "2020-11-15T05:05:40.519Z"
+}

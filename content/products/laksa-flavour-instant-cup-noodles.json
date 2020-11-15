@@ -1,0 +1,56 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "75g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$2.60 per 100G"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Made in China from Imported ingredients"
+    }
+  ],
+  "brand": "Nissin",
+  "createdAt": "2020-11-15T08:26:04.043Z",
+  "description": "Nissin Laksa Flavour Instant Cup Noodles",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/9/3/1/9315747.jpg",
+    "width": 300
+  },
+  "name": "Laksa Flavour Instant Cup Noodles",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 1.95,
+    "lowPrice": 1.95,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T08:26:04.043Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "1.95",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/nissin-noodle-cup-laksa"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/nissin-noodle-cup-laksa"
+  ],
+  "sku": "9315747",
+  "updatedAt": "2020-11-15T08:26:04.043Z"
+}

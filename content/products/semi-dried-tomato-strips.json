@@ -1,0 +1,56 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "125g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$32.00 per 1Kg"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Product of Turkey"
+    }
+  ],
+  "brand": "Sandhurst",
+  "createdAt": "2020-11-15T08:49:39.658Z",
+  "description": "Sandhurst Semi-Dried Tomato Strips",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/1/9/9/1997199.jpg",
+    "width": 300
+  },
+  "name": "Semi-Dried Tomato Strips",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 4,
+    "lowPrice": 4,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T08:49:39.658Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "4.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/sandhurst-semi-dried-tomato-strips"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/sunnybank-hills/product/sandhurst-semi-dried-tomato-strips"
+  ],
+  "sku": "1997199",
+  "updatedAt": "2020-11-15T08:49:39.658Z"
+}

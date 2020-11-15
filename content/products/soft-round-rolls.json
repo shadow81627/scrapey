@@ -1,0 +1,64 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "  Wheat Flour, Water, Yeast, Wheat Gluten, Vegetable Oils (Palm, Canola), Iodised Salt, Yellow Pea Flour, Potassium Chloride, Vitamins (Thiamin, Folic Acid)."
+    },
+    {
+      "name": "Allergen",
+      "value": "May Be Present SULPHITES, May Be Present SOY, May Be Present MILK, May Be Present SESAME, May Be Present TREE NUTS, May Be Present EGG, May Be Present PEANUTS"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "12.0"
+    },
+    {
+      "name": "Size",
+      "value": "12 pack"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.29 per 1Ea"
+    }
+  ],
+  "brand": "Coles Bakery",
+  "createdAt": "2020-11-15T04:46:53.135Z",
+  "description": "Due to the short shelf life of the product it is not available for delivery before 2pm.",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/1/9/8/1987162.jpg",
+    "width": 300
+  },
+  "name": "Soft Round Rolls",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3.5,
+    "lowPrice": 3.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T04:46:53.133Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "3.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-bakery-soft-round-rolls-1987162p"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/sunnybank-hills/product/coles-bakery-soft-round-rolls-1987162p"
+  ],
+  "sku": "1987162",
+  "updatedAt": "2020-11-15T04:46:53.133Z"
+}

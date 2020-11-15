@@ -1,0 +1,64 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Contains",
+      "value": "Gluten Cereals and Soy."
+    },
+    {
+      "name": "Allergen",
+      "value": "Contains Cereals, May Be Present Sesame Seeds, Contains Gluten, Contains Soy, Contains Wheat"
+    },
+    {
+      "name": "Dietary",
+      "value": "No Preservatives, No Artificial Flavours or Colours, Source of Dietary Fibre"
+    },
+    {
+      "name": "Size",
+      "value": "240g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.46 per 100G"
+    }
+  ],
+  "brand": "Tip Top",
+  "createdAt": "2020-11-15T07:16:47.674Z",
+  "description": "Tip Top Original Thins Sandwich",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/9/1/2917050.jpg",
+    "width": 300
+  },
+  "name": "Original Thins Sandwich",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3.5,
+    "lowPrice": 3.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T07:16:47.673Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "3.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/tip-top-sandwich-thins-original"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/tip-top-sandwich-thins-original"
+  ],
+  "sku": "2917050",
+  "updatedAt": "2020-11-15T07:16:47.673Z"
+}

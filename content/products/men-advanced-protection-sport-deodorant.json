@@ -1,0 +1,60 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Contains",
+      "value": "220 ML"
+    },
+    {
+      "name": "Warning",
+      "value": "WARNING: DO NOT SPRAY NEAR A NAKED FLAME OR ANY HOT SURFACE. KEEP AWAY FROM SOURCES OF IGNITION - NO SMOKING. AVOID DIRECT INHALATION. USE IN WELL VENTILATED PLACES, AVOID PROLONGED SPRAYING. KEEP OUT OF REACH OF CHILDREN."
+    },
+    {
+      "name": "Size",
+      "value": "220mL"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$2.73 per 100mL"
+    }
+  ],
+  "brand": "Rexona",
+  "createdAt": "2020-11-15T11:54:22.838Z",
+  "description": "Rexona Men Advanced Protection Sport Deodorant",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/6/6/3660811.jpg",
+    "width": 300
+  },
+  "name": "Men Advanced Protection Sport Deodorant",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 6,
+    "lowPrice": 6,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T11:54:22.837Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "6.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/rexona-men-ap-advanced-sport"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/rexona-men-ap-advanced-sport"
+  ],
+  "sku": "3660811",
+  "updatedAt": "2020-11-15T11:54:22.837Z"
+}

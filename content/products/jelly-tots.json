@@ -1,0 +1,56 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "150g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$3.53 per 100G"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "MADE IN UK FROM LOCAL AND IMPORTED INGREDIENTS"
+    }
+  ],
+  "brand": "Rowntrees",
+  "createdAt": "2020-11-15T08:36:27.983Z",
+  "description": "Rowntrees Jelly Tots",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/7/8/2783521.jpg",
+    "width": 300
+  },
+  "name": "Jelly Tots",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 5.3,
+    "lowPrice": 5.3,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T08:36:27.983Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "5.30",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/rowntree-jelly-tots"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/sunnybank-hills/product/rowntree-jelly-tots"
+  ],
+  "sku": "2783521",
+  "updatedAt": "2020-11-15T08:36:27.983Z"
+}

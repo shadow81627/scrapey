@@ -1,0 +1,56 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "280mL"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.96 per 100mL"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Made in Malaysia from Imported ingredients"
+    }
+  ],
+  "brand": "Lingham's Garlic",
+  "createdAt": "2020-11-15T09:48:13.752Z",
+  "description": "Lingham's Garlic Chilli Sauce",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/9/4/3/9434713.jpg",
+    "width": 300
+  },
+  "name": "Chilli Sauce",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2.7,
+    "lowPrice": 2.7,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T09:48:13.747Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "2.70",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/linghams-garlic-chilli-sauce"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/linghams-garlic-chilli-sauce"
+  ],
+  "sku": "9434713",
+  "updatedAt": "2020-11-15T09:48:13.747Z"
+}

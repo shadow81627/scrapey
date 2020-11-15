@@ -1,0 +1,56 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "250g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$2.00 per 100G"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Made in New Zealand"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2020-11-15T04:41:12.584Z",
+  "description": "Coles Iced Fruit Cake Slices 5 pack",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/8/1/3813107.jpg",
+    "width": 300
+  },
+  "name": "Iced Fruit Cake Slices 5 pack",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 5,
+    "lowPrice": 5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T04:41:12.582Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "5.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-iced-fruit-cake-slices-5pk-3813107p"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/coles-iced-fruit-cake-slices-5pk-3813107p"
+  ],
+  "sku": "3813107",
+  "updatedAt": "2020-11-15T04:41:12.582Z"
+}

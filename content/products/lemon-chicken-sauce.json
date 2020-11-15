@@ -1,0 +1,72 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Water, Sugar, Lemon (4%), Thickener (1414), Salted Plum (Plum, Salt), Lemon Flavour, Food Acid (330), Garlic, Salt, Turmeric"
+    },
+    {
+      "name": "Allergen",
+      "value": "Free From Gluten"
+    },
+    {
+      "name": "Dietary",
+      "value": "No Preservatives"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "14.0"
+    },
+    {
+      "name": "Size",
+      "value": "210mL"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.67 per 100mL"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Made in Malaysia"
+    }
+  ],
+  "brand": "Ayam",
+  "createdAt": "2020-11-15T08:44:37.861Z",
+  "description": "Tangy, savoury, and citrusy, pour over crispy chicken to make a classic Lemon Chicken dish. Use one bottle per 400g of chicken.",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/0/0/2001682.jpg",
+    "width": 300
+  },
+  "name": "Lemon Chicken Sauce",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3.5,
+    "lowPrice": 3.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T08:44:37.858Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "3.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/ayam-lemon-chicken-sauce"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/ayam-lemon-chicken-sauce"
+  ],
+  "sku": "2001682",
+  "updatedAt": "2020-11-15T08:44:37.858Z"
+}

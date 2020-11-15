@@ -1,0 +1,52 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "700g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.49 per 100G"
+    }
+  ],
+  "brand": "Wonder White",
+  "createdAt": "2020-11-15T08:29:25.838Z",
+  "description": "Wonder White Sandwich Bread +7 Vitamins & Minerals",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/7/9/5795130.jpg",
+    "width": 300
+  },
+  "name": "Sandwich Bread +7 Vitamins & Minerals",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3.4,
+    "lowPrice": 3.4,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T08:29:25.838Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "3.40",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/wonder-white-bread-7-vitamins-minerals-sandwich"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/wonder-white-bread-7-vitamins-minerals-sandwich"
+  ],
+  "sku": "5795130",
+  "updatedAt": "2020-11-15T08:29:25.838Z"
+}

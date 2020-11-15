@@ -1,0 +1,60 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "INGREDIENTS: Custard Filling (52.5%) [Water, Custard Mix (Sugar, Milk Solids, Thickener (1422), Vegetable Gums (401, 407, 410, 415), Salt, Natural Flavouring, Natural Colour (Gardenia Extract))], Pastry [Wheat Flour, Margarine (Animal Fat (Beef, Lamb), Water, Coconut Oil, Salt, Emulsifiers (322 (Soy), 435, 471, 492), Acidity Regulator (331, 330), Natural Flavouring, Antioxidant (307b (Soy)), Natural Colour (Carotene)), Sugar, Water], Nutmeg."
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "6.0"
+    },
+    {
+      "name": "Size",
+      "value": "360g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.39 per 100G"
+    }
+  ],
+  "brand": "Coles Bakery",
+  "createdAt": "2020-11-15T09:34:42.793Z",
+  "description": "Coles Bakery Custard Tarts 6 Pack",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/6/3/3639724.jpg",
+    "width": 300
+  },
+  "name": "Custard Tarts 6 Pack",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 5,
+    "lowPrice": 5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T09:34:42.793Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "5.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-custard-tarts-"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/coles-custard-tarts-"
+  ],
+  "sku": "3639724",
+  "updatedAt": "2020-11-15T09:34:42.793Z"
+}

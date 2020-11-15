@@ -1,0 +1,56 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Water, Wheat Flour, Rye Flour, Wheat Gluten, Salt, Wheat Malt Flour, Yeast, Vitamins [Folic Acid, Thiamin]."
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "5.0"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$6.00 per 1Ea"
+    }
+  ],
+  "brand": "Coles Finest",
+  "createdAt": "2020-11-15T09:37:03.228Z",
+  "description": "Due to the short shelf life of the product it is not available for delivery before 2pm.",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/0/1/3018057.jpg",
+    "width": 300
+  },
+  "name": "By Laurent Rye Sourdough Vienna",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 6,
+    "lowPrice": 6,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T09:37:03.227Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "6.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-finest-by-laurent-rye-soughrdough-vienna"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/coles-finest-by-laurent-rye-soughrdough-vienna"
+  ],
+  "sku": "3018057",
+  "updatedAt": "2020-11-15T09:37:03.227Z"
+}

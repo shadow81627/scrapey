@@ -1,0 +1,68 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Rice Flour, Rice Bran Oil, Cheese Powder 2% (contains Milk & Natural Colour (Turmeric Extract)), Salt, Sugar, Maltodextrin (from Corn), Natural Antioxidant (Vitamin E)."
+    },
+    {
+      "name": "Contains",
+      "value": "Milk"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "6.0"
+    },
+    {
+      "name": "Size",
+      "value": "120g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$2.50 per 100G"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Made in Thailand"
+    }
+  ],
+  "brand": "Peckish",
+  "createdAt": "2020-11-15T10:39:13.965Z",
+  "description": "Peckish Cheddar Cheese Rice Crackers 6 pack",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/1/4/2140780.jpg",
+    "width": 300
+  },
+  "name": "Cheddar Cheese Rice Crackers 6 pack",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3,
+    "lowPrice": 3,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T10:39:13.964Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "3.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/peckish-rice-cracker-cheddar-cheese-6-pack"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/peckish-rice-cracker-cheddar-cheese-6-pack"
+  ],
+  "sku": "2140780",
+  "updatedAt": "2020-11-15T10:39:13.964Z"
+}

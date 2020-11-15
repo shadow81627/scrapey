@@ -1,0 +1,72 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Meat including Pork, Water, Frankfurt Premix [Potato Starch, Salt, Thickener (1440), Soy Protein, Mineral Salts (450, 451, 452), Vegetable Gums (407, 412, 415), Food Acid (331, 262), Dextrose (Maize or Tapioca), Antioxidant (316), Vegetable Powder (including Onion and Garlic), Fermented Red Rice, Preservatives (250, 220), Spices and Spice Extracts, Natural Flavour], Acidity Regulators (326, 325, 262), Milk Protein, Edible Collagen Casing (Contains Colours (120, 160b, 160c))."
+    },
+    {
+      "name": "Contains",
+      "value": "Soy, Milk Protein, Sulphites"
+    },
+    {
+      "name": "Allergen",
+      "value": "Contains Milk, Contains Soy, Contains Sulphites"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "8.0"
+    },
+    {
+      "name": "Warning",
+      "value": "If present, Dextrose, Maltodextrin and/or Modified Starch is derived from Corn or Tapioca. "
+    },
+    {
+      "name": "Size",
+      "value": "500g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$6.30 per 1Kg"
+    }
+  ],
+  "brand": "Primo",
+  "createdAt": "2020-11-15T05:18:24.415Z",
+  "description": "Primo Thin Franks great for hot dogs. Contains no artificial colours, no artificial flavours and gluten free.",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/1/0/2/1028184.jpg",
+    "width": 300
+  },
+  "name": "Dairy Thin Franks",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3.15,
+    "lowPrice": 3.15,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T05:18:24.414Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "3.15",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/primo-frankfurts-slim"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/sunnybank-hills/product/primo-frankfurts-slim"
+  ],
+  "sku": "1028184",
+  "updatedAt": "2020-11-15T05:18:24.414Z"
+}

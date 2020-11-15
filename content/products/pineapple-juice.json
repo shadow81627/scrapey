@@ -1,0 +1,52 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "2L"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.90 per 1L"
+    }
+  ],
+  "brand": "Golden Circle",
+  "createdAt": "2020-11-15T10:02:13.669Z",
+  "description": "Golden Circle Pineapple Juice",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/4/8/5487536.jpg",
+    "width": 300
+  },
+  "name": "Pineapple Juice",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3.8,
+    "lowPrice": 3.8,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T10:02:13.669Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "3.80",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/golden-circle-pineapple-juice-unsweetened"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/golden-circle-pineapple-juice-unsweetened"
+  ],
+  "sku": "5487536",
+  "updatedAt": "2020-11-15T10:02:13.669Z"
+}

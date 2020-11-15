@@ -1,0 +1,60 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Safflower Oil, Sweet Almond Oil, Lavender Essential Oil, Ylang Ylang, Essential Oil 1, Vitamin E, Aloe Vera Oil, Antioxidant."
+    },
+    {
+      "name": "Warning",
+      "value": "Natural Oils may weaken latex - not recommended for use with condoms. Natural Oils may stain fabric or clothing."
+    },
+    {
+      "name": "Size",
+      "value": "150mL"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$4.80 per 100mL"
+    }
+  ],
+  "brand": "Four Seasons",
+  "createdAt": "2020-11-15T11:49:19.111Z",
+  "description": "Four Seasons Massage Oil",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/9/7/3/9738161.jpg",
+    "width": 300
+  },
+  "name": "Massage Oil",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 7.2,
+    "lowPrice": 7.2,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T11:49:19.111Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "7.20",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/four-seasons-massage-oil"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/four-seasons-massage-oil"
+  ],
+  "sku": "9738161",
+  "updatedAt": "2020-11-15T11:49:19.111Z"
+}

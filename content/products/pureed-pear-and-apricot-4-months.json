@@ -1,0 +1,52 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "120g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.38 per 100G"
+    }
+  ],
+  "brand": "Rafferty's Garden",
+  "createdAt": "2020-11-15T08:10:41.600Z",
+  "description": "Rafferty's Garden Pureed Pear & Apricot 4+ Months",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/7/5/7/7572126.jpg",
+    "width": 300
+  },
+  "name": "Pureed Pear & Apricot 4+ Months",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 1.65,
+    "lowPrice": 1.65,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T08:10:41.598Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "1.65",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/raffertys-garden-4-months-baby-food-pear-apricot"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/raffertys-garden-4-months-baby-food-pear-apricot"
+  ],
+  "sku": "7572126",
+  "updatedAt": "2020-11-15T08:10:41.598Z"
+}

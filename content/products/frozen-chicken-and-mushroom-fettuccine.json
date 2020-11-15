@@ -1,0 +1,56 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "300g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.97 per 100G"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Made in New Zealand from local and imported ingredients"
+    }
+  ],
+  "brand": "Weight Watchers",
+  "createdAt": "2020-11-15T09:32:01.467Z",
+  "description": "Weight Watchers Frozen Chicken & Mushroom Fettuccine",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/8/0/7/8071046.jpg",
+    "width": 300
+  },
+  "name": "Frozen Chicken & Mushroom Fettuccine",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2.9,
+    "lowPrice": 2.9,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T09:32:01.466Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "2.90",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/weight-watchers-meals-chicken-mushroom-fettucine"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/richmond-south/product/weight-watchers-meals-chicken-mushroom-fettucine"
+  ],
+  "sku": "8071046",
+  "updatedAt": "2020-11-15T09:32:01.466Z"
+}

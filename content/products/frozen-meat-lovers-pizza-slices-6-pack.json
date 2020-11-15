@@ -1,0 +1,60 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Wheat Flour, Water, Mozzarella Cheese (Milk, Salt, Non Animal Rennet, Starter Culture), Meat (12%) (Processed Ham (Pork, Water, Potato Starch, Salt, Soy Protein, Pork Protein, Mineral Salts (450, 451, 508), Thickener (407a), Antioxidant (316), Hydrolysed Vegetable Protein, Fermented Rice, Preservative (250)), Manufactured Meat (Beef, Mutton, Water, Potato Starch, Salt, Soy Protein, Tapioca Starch, Pork Protein, Mineral Salts (450, 451), Sugar, Flavours (Wheat, Garlic), Wheat Flour, Pepper, Spice Extract, Antioxidant (316))), Tomato Paste, Vegetable Shortening, Flavours (Sugar, Salt, Natural Flavour, Thickener (415), Garlic Powder, Soybean Oil), Canola Oil, Yeast, Salt, Soy Flour, Ascorbic Acid, Enzyme (Wheat)."
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "6.0"
+    },
+    {
+      "name": "Size",
+      "value": "600g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.92 per 100G"
+    }
+  ],
+  "brand": "McCain",
+  "createdAt": "2020-11-15T05:36:40.376Z",
+  "description": "A traditional pizza crust slice topped with mozzarella cheese, ham, bacon and BBQ beef.",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/8/5/4/8544793.jpg",
+    "width": 300
+  },
+  "name": "Frozen Meat Lovers Pizza Slices 6 pack",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 5.5,
+    "lowPrice": 5.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T05:36:40.376Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "5.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/mccain-pizza-slices-meat-lovers-6-pack-frozen"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/mccain-pizza-slices-meat-lovers-6-pack-frozen"
+  ],
+  "sku": "8544793",
+  "updatedAt": "2020-11-15T05:36:40.376Z"
+}

@@ -1,0 +1,60 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": " Wheat Bran Flakes [Whole Grain Wheat (43%), Wheat Bran (19%), Sugar, Malt Extract (Barley), Salt, Mineral (Iron), Vitamins (Niacin, Riboflavin, Thiamin, Folate)], Sultanas (26%) (Sultanas, Vegetable Oil)"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "11.0"
+    },
+    {
+      "name": "Size",
+      "value": "500g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.66 per 100G"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2020-11-15T04:39:12.562Z",
+  "description": "Supplier item code 43893173",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/6/8/6/6860125.jpg",
+    "width": 300
+  },
+  "name": "Bran Flakes With Sultanas",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3.3,
+    "lowPrice": 3.3,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T04:39:12.561Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "3.30",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-cereal-bran-flakes-with-sultanas"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/coles-cereal-bran-flakes-with-sultanas"
+  ],
+  "sku": "6860125",
+  "updatedAt": "2020-11-15T04:39:12.561Z"
+}

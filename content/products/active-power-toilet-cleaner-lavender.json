@@ -1,0 +1,56 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Refer to our website for full information"
+    },
+    {
+      "name": "Size",
+      "value": "50g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$6.00 per 100G"
+    }
+  ],
+  "brand": "Bref",
+  "createdAt": "2020-11-15T10:27:26.409Z",
+  "description": "Bref Active Power Toilet Cleaner Lavender",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/0/3/3033185.jpg",
+    "width": 300
+  },
+  "name": "Active Power Toilet Cleaner Lavender",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3,
+    "lowPrice": 3,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T10:27:26.408Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "3.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/bref-active-power-toilet-cleaner-lavender"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/bref-active-power-toilet-cleaner-lavender"
+  ],
+  "sku": "3033185",
+  "updatedAt": "2020-11-15T10:27:26.408Z"
+}

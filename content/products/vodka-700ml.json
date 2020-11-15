@@ -1,0 +1,48 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Unit Price",
+      "value": "$60.00 per 1L"
+    }
+  ],
+  "brand": "Absolut",
+  "createdAt": "2020-11-15T10:44:54.506Z",
+  "description": "Absolut Vodka 700mL",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/3/0/33039.jpg",
+    "width": 300
+  },
+  "name": "Vodka 700mL",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 42,
+    "lowPrice": 42,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T10:44:54.505Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "42.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/absolut-vodka-33039p"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/absolut-vodka-33039p"
+  ],
+  "sku": "33039",
+  "updatedAt": "2020-11-15T10:44:54.506Z"
+}

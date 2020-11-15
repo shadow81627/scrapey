@@ -1,0 +1,60 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": " Wheat Flour, Banana (26%), Sugar, Canola Oil, Egg Powder, Water, Raising Agents (Sodium Carbonate, 450), Salt, Preservative (Potassium Sorbate)."
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "5.0"
+    },
+    {
+      "name": "Size",
+      "value": "500g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.90 per 100G"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2020-11-15T11:29:28.143Z",
+  "description": "Made with real banana",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/9/1/2915724.jpg",
+    "width": 300
+  },
+  "name": "Banana Bread Slices 5 pack",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 4.5,
+    "lowPrice": 4.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T11:29:28.142Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "4.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-banana-slice"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/coles-banana-slice"
+  ],
+  "sku": "2915724",
+  "updatedAt": "2020-11-15T11:29:28.142Z"
+}

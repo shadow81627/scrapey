@@ -1,0 +1,64 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Potatoes, Canola Oil, Sunflower Oil, Salt, Antioxidants (Tocopherols, Ascorbic Acid, Citric Acid), Rosemary Extract."
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "6.3"
+    },
+    {
+      "name": "Size",
+      "value": "170g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$2.06 per 100G"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "MADE IN AUSTRALIA"
+    }
+  ],
+  "brand": "Smith's",
+  "createdAt": "2020-11-15T11:20:06.113Z",
+  "description": "Smith's Crinkle Cut Original Potato Chips",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/3/5/2358275.jpg",
+    "width": 300
+  },
+  "name": "Crinkle Cut Original Potato Chips",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3.5,
+    "lowPrice": 3.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T11:20:06.113Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "3.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/smiths-crinkle-cut-original-potato-chips"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/smiths-crinkle-cut-original-potato-chips?adId=display_V2AYzbkjXpP9yehGPaoGtB4PDbkyMzU4Mjg2UA%3D%3D"
+  ],
+  "sku": "2358275",
+  "updatedAt": "2020-11-15T11:20:06.113Z"
+}

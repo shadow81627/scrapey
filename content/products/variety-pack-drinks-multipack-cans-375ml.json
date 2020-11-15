@@ -1,0 +1,56 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "24 pack"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.40 per 1L"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Made in Australia"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2020-11-15T10:52:00.245Z",
+  "description": "24 x 375mL cans",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/6/0/2608805.jpg",
+    "width": 300
+  },
+  "name": "Variety Pack Drinks Multipack Cans 375mL",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 12.64,
+    "lowPrice": 12.64,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T10:52:00.240Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "12.64",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-variety-pack-soft-drinks-375ml-can"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/coles-variety-pack-soft-drinks-375ml-can"
+  ],
+  "sku": "2608805",
+  "updatedAt": "2020-11-15T10:52:00.240Z"
+}

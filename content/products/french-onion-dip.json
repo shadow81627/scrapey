@@ -1,0 +1,60 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": " Cream Cheese (51%) [Milk, Cream, Milk Solids, Salt, Thickener (410), Acidity Regulator (270), Starter Culture], Onion Blend (21%) [Water, Dehydrated Onion (13%), Onion (7%), Natural Flavouring, Sugar, Salt, Preservative (Potassium Sorbate)], Yoghurt [Milk, Milk Solids, Skimmed Milk, Cream, Starter Culture], Water, Mayonnaise (Egg), Canola Oil, Dijon Mustard [contains Colour (Turmeric)], Garlic Paste, Balsamic Vinegar, Parmesan Cheese (Milk), Preservative (Potassium Sorbate), Cracked Black Pepper, Citrus Fibre, Thickener (417)."
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "5.0"
+    },
+    {
+      "name": "Size",
+      "value": "200g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.95 per 100G"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2020-11-15T11:01:49.563Z",
+  "description": "Coles French Onion Dip",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/6/5/3/6530743.jpg",
+    "width": 300
+  },
+  "name": "French Onion Dip",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 1.9,
+    "lowPrice": 1.9,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T11:01:49.563Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "1.90",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-dip-french-onion"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/coles-dip-french-onion"
+  ],
+  "sku": "6530743",
+  "updatedAt": "2020-11-15T11:01:49.563Z"
+}

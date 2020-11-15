@@ -1,0 +1,56 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Allergen",
+      "value": "Contains Egg"
+    },
+    {
+      "name": "Size",
+      "value": "950mL"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.05 per 100mL"
+    }
+  ],
+  "brand": "Farm Pride",
+  "createdAt": "2020-11-15T11:46:36.341Z",
+  "description": "Farm Pride Frozen Egg Whites",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/1/9/0/1909588.jpg",
+    "width": 300
+  },
+  "name": "Frozen Egg Whites",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 10,
+    "lowPrice": 10,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T11:46:36.340Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "10.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/farm-pride-frozen-egg-white"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/sunnybank-hills/product/farm-pride-frozen-egg-white"
+  ],
+  "sku": "1909588",
+  "updatedAt": "2020-11-15T11:46:36.340Z"
+}

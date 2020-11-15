@@ -1,0 +1,52 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "40g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$18.75 per 100G"
+    }
+  ],
+  "brand": "Mitchum",
+  "createdAt": "2020-11-15T11:01:09.301Z",
+  "description": "Mitchum Natural Power Coconut",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/8/2/3823213.jpg",
+    "width": 300
+  },
+  "name": "Natural Power Coconut",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 7.5,
+    "lowPrice": 7.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T11:01:09.300Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "7.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/mitchum-natural-power-lightly-scented"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/mitchum-natural-power-lightly-scented"
+  ],
+  "sku": "3823213",
+  "updatedAt": "2020-11-15T11:01:09.300Z"
+}

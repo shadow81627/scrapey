@@ -1,0 +1,56 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "75g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.87 per 100G"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Made in Indonesia from Imported ingredients"
+    }
+  ],
+  "brand": "Indomie",
+  "createdAt": "2020-11-15T09:24:55.616Z",
+  "description": "Indomie Special Chicken Flavour Instant Noodles",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/2/5/5252791.jpg",
+    "width": 300
+  },
+  "name": "Special Chicken Flavour Instant Noodles",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 0.65,
+    "lowPrice": 0.65,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T09:24:55.608Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "0.65",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/indo-mie-noodles-special-chicken"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/sunnybank-hills/product/indo-mie-noodles-special-chicken"
+  ],
+  "sku": "5252791",
+  "updatedAt": "2020-11-15T09:24:55.608Z"
+}

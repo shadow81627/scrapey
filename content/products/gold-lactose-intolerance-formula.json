@@ -1,0 +1,56 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "900g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$2.33 per 100G"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Made in Mexico"
+    }
+  ],
+  "brand": "S-26",
+  "createdAt": "2020-11-15T10:07:35.869Z",
+  "description": "S-26 Gold Lactose Intolerance Formula",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/0/2/3025846.jpg",
+    "width": 300
+  },
+  "name": "Gold Lactose Intolerance Formula",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 21,
+    "lowPrice": 21,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T10:07:35.868Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "21.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/s-26-gold-alula-li"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/s-26-gold-alula-li"
+  ],
+  "sku": "3025846",
+  "updatedAt": "2020-11-15T10:07:35.868Z"
+}

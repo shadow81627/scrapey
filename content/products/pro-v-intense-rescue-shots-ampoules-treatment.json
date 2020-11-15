@@ -1,0 +1,60 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Water/ Eau, Cetyl Alcohol Bis-Amino-Propy1 Dimethicone, Stearamido-Propfl Dimethylamine, Glycerin, Stearyl Alcohol Glutamic Acid, Fragrance/Parfum, Citric Acid, Benzyl Alcohol Disodium Edta, Phenoxyethanol, Panthenol, Panthenyl Ethyl Ether, Sodium Chloride, Methylchloroisothiazolinone, Methylisothiazolinone."
+    },
+    {
+      "name": "Contains",
+      "value": "3 treatments"
+    },
+    {
+      "name": "Size",
+      "value": "45mL"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$10.00 per 100mL"
+    }
+  ],
+  "brand": "Pantene",
+  "createdAt": "2020-11-15T08:59:45.049Z",
+  "description": "Pantene Pro V Intense Rescue Shots Ampoules Treatment",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/6/1/3611215.jpg",
+    "width": 300
+  },
+  "name": "Pro V Intense Rescue Shots Ampoules Treatment",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 4.5,
+    "lowPrice": 4.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T08:59:45.048Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "4.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/pantene-3-minute-miracle-treatment-ampoules"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/pantene-3-minute-miracle-treatment-ampoules"
+  ],
+  "sku": "3611215",
+  "updatedAt": "2020-11-15T08:59:45.048Z"
+}

@@ -1,0 +1,60 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": " Sugar, Wheat Flour, Water, Canola Oil, Cocoa Powder (4.0%), Raising Agents (450, 500, 341) (Wheat), Thickeners (1422, 415), Egg Powder, Vegetable Emulsifiers (435, 471, 472b and 477 from Palm), Salt, Maltodextrin (Wheat), Milk Solids, Preservative (202), Stabiliser (450)."
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "5.0"
+    },
+    {
+      "name": "Size",
+      "value": "500g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.90 per 100G"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2020-11-15T09:42:24.944Z",
+  "description": "Coles Chocolate Mud Cake Slices 5 pack",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/0/0/3003661.jpg",
+    "width": 300
+  },
+  "name": "Chocolate Mud Cake Slices 5 pack",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 4.5,
+    "lowPrice": 4.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T09:42:24.944Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "4.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-chocolate-mud-cake-slices"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/sunnybank-hills/product/coles-chocolate-mud-cake-slices"
+  ],
+  "sku": "3003661",
+  "updatedAt": "2020-11-15T09:42:24.944Z"
+}

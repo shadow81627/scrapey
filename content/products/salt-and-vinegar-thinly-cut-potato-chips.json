@@ -1,0 +1,72 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Potatoes, Canola Oil, Sunflower Oil, Natural Flavours, Mineral Salts (Potassium Chloride, Potassium Phosphate), Salt Corn Starch, Sugar, Food Acids (Citric Acid, Acetic Acid), Antioxidants (Tocopherols, Ascorbic Acid, Rosemary Extract)."
+    },
+    {
+      "name": "Contains",
+      "value": "Milk or Milk products, Soybeans or Soybean products."
+    },
+    {
+      "name": "Allergen",
+      "value": "Contains Milk"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "6.5"
+    },
+    {
+      "name": "Size",
+      "value": "175g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.14 per 100G"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "MADE IN AUSTRALIA"
+    }
+  ],
+  "brand": "Smith's",
+  "createdAt": "2020-11-15T04:49:34.478Z",
+  "description": "Smith's Salt & Vinegar Thinly Cut Potato Chips",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/7/0/5706254.jpg",
+    "width": 300
+  },
+  "name": "Salt & Vinegar Thinly Cut Potato Chips",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2,
+    "lowPrice": 2,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T04:49:34.477Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "2.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/smiths-thin-cut-salt-vinegar-potato-chips"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/smiths-thin-cut-salt-vinegar-potato-chips"
+  ],
+  "sku": "5706254",
+  "updatedAt": "2020-11-15T04:49:34.477Z"
+}

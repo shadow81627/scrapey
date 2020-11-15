@@ -1,0 +1,60 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Servings Per Pack",
+      "value": "1.0"
+    },
+    {
+      "name": "Size",
+      "value": "170g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.18 per 100G"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Made in New Zealand"
+    }
+  ],
+  "brand": "Only Organic",
+  "createdAt": "2020-11-15T10:50:57.508Z",
+  "description": "Only Organic Sweet Potato Lamb & Couscous Baby Food Pouch 10+ Months",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/4/9/3499771.jpg",
+    "width": 300
+  },
+  "name": "Sweet Potato Lamb & Couscous Baby Food Pouch 10+ Months",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2,
+    "lowPrice": 2,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T10:50:57.508Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "2.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/only-organic-sweet-potato-lamb-cous-cous"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/sunnybank-hills/product/only-organic-sweet-potato-lamb-cous-cous"
+  ],
+  "sku": "3499771",
+  "updatedAt": "2020-11-15T10:50:57.508Z"
+}

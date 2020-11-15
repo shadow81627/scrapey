@@ -1,0 +1,60 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Contains",
+      "value": "440 ML"
+    },
+    {
+      "name": "Size",
+      "value": "440mL"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.02 per 100mL"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Made in Hungary"
+    }
+  ],
+  "brand": "Streets",
+  "createdAt": "2020-11-15T10:28:06.335Z",
+  "description": "Streets Magnum White Chocolate & Cookies Ice Cream Tub",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/5/7/3572678.jpg",
+    "width": 300
+  },
+  "name": "Magnum White Chocolate & Cookies Ice Cream Tub",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 4.5,
+    "lowPrice": 4.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T10:28:06.335Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "4.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/streets-magnum-tub-white-choc-cookies"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/streets-magnum-tub-white-choc-cookies"
+  ],
+  "sku": "3572678",
+  "updatedAt": "2020-11-15T10:28:06.335Z"
+}

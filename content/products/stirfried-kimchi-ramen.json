@@ -1,0 +1,56 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "116g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$2.59 per 100G"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Made in South Korea"
+    }
+  ],
+  "brand": "Paldo Mr Kimchi",
+  "createdAt": "2020-11-15T05:27:37.806Z",
+  "description": "Paldo Mr Kimchi Stirfried Kimchi Ramen",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/7/3/3735808.jpg",
+    "width": 300
+  },
+  "name": "Stirfried Kimchi Ramen",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3,
+    "lowPrice": 3,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T05:27:37.806Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "3.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/paldo-mr-kimchi-stirfried-kimchi-ramen-3735808p"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/sunnybank-hills/product/paldo-mr-kimchi-stirfried-kimchi-ramen-3735808p"
+  ],
+  "sku": "3735808",
+  "updatedAt": "2020-11-15T05:27:37.806Z"
+}

@@ -1,0 +1,52 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "approx. 5kg"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$13.00 per 1Kg"
+    }
+  ],
+  "brand": "Bertocchi Brothers",
+  "createdAt": "2020-11-15T07:47:47.572Z",
+  "description": "Indicated price based on approx. weight. Weight may vary between 4.8kg to 5.2kg.",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/6/0/2602004.jpg",
+    "width": 300
+  },
+  "name": "Ham On Bone Quarters",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 65,
+    "lowPrice": 65,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T07:47:47.571Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "65.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/bertocchi-ham-on-bone-quarters"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/sunnybank-hills/product/bertocchi-ham-on-bone-quarters"
+  ],
+  "sku": "2602004",
+  "updatedAt": "2020-11-15T07:47:47.571Z"
+}

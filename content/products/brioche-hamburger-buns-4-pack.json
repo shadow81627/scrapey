@@ -1,0 +1,64 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "INGREDIENTS: Wheat Flour, Water, Sugar, Whole Egg Powder (5%), Canola Oil, Glaze (Water, Vegetable Proteins on Maltodextrins, Sunflower Oil, Dextrose, Starch), Margarine Blend (Vegetable Oils (Canola, Coconut), Water, Butter (Butter Oil, Water, Salt), Salt, Buttermilk Powder, Emulsifiers (471, 472c), Food Acid (270), Natural Flavour, Antioxidant (304), Natural Colour (160a)), Inverted Sugar, Yeast, Anhydrous Butter Oil (1%), Milk Solids, Iodised Salt, Emulsifiers (322 from Soy, 471 from Palm), Acidity Regulators (260, 262), Natural Flavour, Natural Colour (160a), Vitamins (Thiamin, Folic Acid)."
+    },
+    {
+      "name": "Allergen",
+      "value": "May Be Present TREE NUTS, May Be Present PEANUTS"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "4.0"
+    },
+    {
+      "name": "Size",
+      "value": "200g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.35 per 100G"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2020-11-15T05:16:22.922Z",
+  "description": "Coles Brioche Hamburger Buns 4 Pack",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/5/7/3572292.jpg",
+    "width": 300
+  },
+  "name": "Brioche Hamburger Buns 4 Pack",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2.7,
+    "lowPrice": 2.7,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T05:16:22.921Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "2.70",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-brioche-hamburger-bun-4pk"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/sunnybank-hills/product/coles-brioche-hamburger-bun-4pk"
+  ],
+  "sku": "3572292",
+  "updatedAt": "2020-11-15T05:16:22.921Z"
+}

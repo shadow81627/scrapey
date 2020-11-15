@@ -1,0 +1,60 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Warning",
+      "value": "To help prevent and treat mild hydration, drink 250mL every 15 minutes during strenuous exercise;Average osmolality is 295milliOsmol/L"
+    },
+    {
+      "name": "Size",
+      "value": "1.5L"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$2.60 per 1L"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Made in Australia from imported and local ingredients"
+    }
+  ],
+  "brand": "Powerade",
+  "createdAt": "2020-11-15T07:14:47.312Z",
+  "description": "Powerade Mountain Blast Hydration Pack Isotonic Drink",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/0/3/3038939.jpg",
+    "width": 300
+  },
+  "name": "Mountain Blast Hydration Pack Isotonic Drink",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3.9,
+    "lowPrice": 3.9,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T07:14:47.311Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "3.90",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/powerade-sports-15l-value-drink-mount-blast"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/powerade-sports-15l-value-drink-mount-blast"
+  ],
+  "sku": "3038939",
+  "updatedAt": "2020-11-15T07:14:47.311Z"
+}

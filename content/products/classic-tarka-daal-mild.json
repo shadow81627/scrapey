@@ -1,0 +1,72 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Contains",
+      "value": "Mustard"
+    },
+    {
+      "name": "Allergen",
+      "value": "Contains Mustard, May Be Present Nuts, May Be Present Gluten, May Be Present Peanuts, May Be Present Sulphites, May Be Present Soy, May Be Present Sesame, May Be Present Milk"
+    },
+    {
+      "name": "Dietary",
+      "value": "Low in Sugar, No Preservatives"
+    },
+    {
+      "name": "Warning",
+      "value": "Do not use if pouch is bloated or leaking."
+    },
+    {
+      "name": "Size",
+      "value": "500g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.55 per 100G"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Made in India"
+    }
+  ],
+  "brand": "The Spice Tailor",
+  "createdAt": "2020-11-15T09:58:52.561Z",
+  "description": "The Spice Tailor Classic Tarka Daal Mild",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/8/0/2803425.jpg",
+    "width": 300
+  },
+  "name": "Classic Tarka Daal Mild",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2.75,
+    "lowPrice": 2.75,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T09:58:52.560Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "2.75",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/the-spice-tailor-classic-tarka-daal"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/the-spice-tailor-classic-tarka-daal"
+  ],
+  "sku": "2803425",
+  "updatedAt": "2020-11-15T09:58:52.560Z"
+}

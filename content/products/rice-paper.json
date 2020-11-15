@@ -1,0 +1,56 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "250g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.98 per 100G"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Made in Vietnam from Imported ingredients"
+    }
+  ],
+  "brand": "Valcom",
+  "createdAt": "2020-11-15T09:36:02.828Z",
+  "description": "Valcom Rice Paper",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/9/9/1/9919905.jpg",
+    "width": 300
+  },
+  "name": "Rice Paper",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2.45,
+    "lowPrice": 2.45,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T09:36:02.827Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "2.45",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/valcom-rice-paper-22cm"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/sunnybank-hills/product/valcom-rice-paper-22cm"
+  ],
+  "sku": "9919905",
+  "updatedAt": "2020-11-15T09:36:02.827Z"
+}

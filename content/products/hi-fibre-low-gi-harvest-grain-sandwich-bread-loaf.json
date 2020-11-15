@@ -1,0 +1,52 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "800g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.38 per 100G"
+    }
+  ],
+  "brand": "Coles Bakery",
+  "createdAt": "2020-11-15T04:47:53.931Z",
+  "description": "Due to the short shelf life of the product it is not available for delivery before 2pm.",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/1/4/2144861.jpg",
+    "width": 300
+  },
+  "name": "Hi Fibre Low GI Harvest Grain Sandwich Bread Loaf",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3,
+    "lowPrice": 3,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T04:47:53.930Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "3.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-bakery-low-gi-harvest-grain-sandwich-loaf"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/sunnybank-hills/product/coles-bakery-low-gi-harvest-grain-sandwich-loaf"
+  ],
+  "sku": "2144861",
+  "updatedAt": "2020-11-15T04:47:53.930Z"
+}

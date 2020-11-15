@@ -1,0 +1,68 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Contains Gluten Containing Ingredients Wholegrains (68%) [ Wheat (33%), Corn (25%), Oats (5%), Rice (5%)], Wheat Starch, Sugar, Golden Syrup, Sunflower Oil, Salt Blend [Salt, Mineral Sea Salts(508, 511)], Colours (Caramel and Annatto), Acidity Regulator (Trisodium Phosphate) Vitamins and Minerals Minerals (Calcium, Iron and Zinc), Vitamins (C, Niacin, E, B1, B2, B6 and Folate) May Contain Other Gluten Containing Ingredients Soy and Milk."
+    },
+    {
+      "name": "Allergen",
+      "value": "May Contain Rye, Contains Gluten, May Contain Barley, May Contain Milk, Contains Soy, May Contain Soybean, Contains Wheat, Contains Oats"
+    },
+    {
+      "name": "Dietary",
+      "value": "No Artificial Flavours or Colours, Source of Dietary Fibre"
+    },
+    {
+      "name": "Warning",
+      "value": "Contains allergens. See allergen list for details."
+    },
+    {
+      "name": "Size",
+      "value": "580g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.86 per 100G"
+    }
+  ],
+  "brand": "Uncle Tobys",
+  "createdAt": "2020-11-15T05:40:26.102Z",
+  "description": "Uncle Tobys Cheerios Multigrains Cereal",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/1/1/7/1175145.jpg",
+    "width": 300
+  },
+  "name": "Cheerios Multigrains Cereal",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 5,
+    "lowPrice": 5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T05:40:26.101Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "5.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/uncle-tobys-cereal-cheerios-multigrain"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/uncle-tobys-cereal-cheerios-multigrain"
+  ],
+  "sku": "1175145",
+  "updatedAt": "2020-11-15T05:40:26.101Z"
+}

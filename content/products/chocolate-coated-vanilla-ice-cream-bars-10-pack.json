@@ -1,0 +1,64 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Fresh Whole Milk, Compounded Chocolate (Vegetable Oil, Sugar, Cocoa, Milk Solids, Emulsifier (322 Soy, 476), Flavour, Salt), Liquid Sugar (Sugar, Water), Fresh Cream, Milk Solids, Maltodextrin (Maize), Emulsifier (471), Vanilla Flavour, Thickeners (412, 407a), Colour (160b), Contains less than 10% Milk Fat in Ice Cream"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "10.0"
+    },
+    {
+      "name": "Size",
+      "value": "768mL"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.91 per 100mL"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Made in Australia"
+    }
+  ],
+  "brand": "Bulla",
+  "createdAt": "2020-11-15T05:34:00.515Z",
+  "description": "Choc coated creamy vanilla flavoured ice cream.",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/9/3/5938974.jpg",
+    "width": 300
+  },
+  "name": "Chocolate Coated Vanilla Ice Cream Bars 10 pack",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 7,
+    "lowPrice": 7,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T05:34:00.513Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "7.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/bulla-ice-cream-choc-bars-vanilla-768ml"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/sunnybank-hills/product/bulla-ice-cream-choc-bars-vanilla-768ml"
+  ],
+  "sku": "5938974",
+  "updatedAt": "2020-11-15T05:34:00.513Z"
+}

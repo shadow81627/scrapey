@@ -1,0 +1,52 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "700g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.33 per 100G"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2020-11-15T11:32:49.216Z",
+  "description": "High fibre white sandwich loaf with No Artificial Colours & Flavours",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/4/9/3/4938243.jpg",
+    "width": 300
+  },
+  "name": "High Fibre White Sandwich Bread",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2.3,
+    "lowPrice": 2.3,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T11:32:49.216Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "2.30",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/-4938243p"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/-4938243p"
+  ],
+  "sku": "4938243",
+  "updatedAt": "2020-11-15T11:32:49.216Z"
+}

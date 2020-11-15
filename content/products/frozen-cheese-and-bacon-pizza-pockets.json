@@ -1,0 +1,60 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Pocket crust (wheat flour, water, thickeners (1422, 464), milk solids, sugar, salt, emulsifiers (471, 435, 322 (soy)), vegetable oils (canola, palm, coconut), yeast, natural flavour), mozzarella and cheddar cheese (18%) (milk, salt, enzyme, starter cultures), sauce (water, tomato paste, thickeners (1442, 1412, 1422), herbs, vegetable powders, (wheat), spices), manufactured bacon (9%) (pork, water, potato starch, salt, soy protein isolate, pork protein, antioxidants (307b, 316), mineral salts (451, 450, 508), vegetable gum (407a), hydrolysed vegetable protein, fermented rice, preservative (250))."
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "4.0"
+    },
+    {
+      "name": "Size",
+      "value": "400g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.38 per 100G"
+    }
+  ],
+  "brand": "McCain",
+  "createdAt": "2020-11-15T10:00:13.421Z",
+  "description": "A traditional round pizza crust filled with creamy mozzarella, cheddar cheese and bacon.",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/8/6/9/8697604.jpg",
+    "width": 300
+  },
+  "name": "Frozen Cheese & Bacon Pizza Pockets",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 5.5,
+    "lowPrice": 5.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T10:00:13.420Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "5.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/mccain-pizza-pockets-cheese-bacon-frozen"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/mccain-pizza-pockets-cheese-bacon-frozen"
+  ],
+  "sku": "8697604",
+  "updatedAt": "2020-11-15T10:00:13.420Z"
+}

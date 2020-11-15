@@ -1,0 +1,60 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "    Pie Filling (55%) [Beef, Water, Thickener (1422), Seasoning (Salt, Wheat Flour, Hydrolysed Vegetable Protein, Spices, Dehydrated Vegetables, Canola Oil), Natural Colour (Caramel I)], Pastry (45%) [Wheat Flour, Margarine (Animal Fats, Vegetable Oil (Palm, Canola), Water, Salt, Emulsifiers (Soy Lecithin, 471 - Palm), Acidity Regulators (331, 330), Antioxidant (307b -Soy), Natural Colour (Carotene), Natural Flavouring), Water, Salt, Mineral Salts (Sodium Carbonate, 341), Emulsifier (481 - Palm), Thickener (412), Pastry Glaze [Mineral Salts (Sodium Carbonate, 451), Maltodextrin (Wheat), Sugar, Thickener (415), Natural Colour (Annatto)]. Party Pie contains 23% beef."
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "24.0"
+    },
+    {
+      "name": "Size",
+      "value": "1.1kg"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$5.64 per 1Kg"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2020-11-15T07:44:06.727Z",
+  "description": "Made with Australian Beef",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/6/1/5613641.jpg",
+    "width": 300
+  },
+  "name": "Frozen Party Pies 24 Pack",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 6.2,
+    "lowPrice": 6.2,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T07:44:06.724Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "6.20",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-smart-buy-pie-party-frozen"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/coles-smart-buy-pie-party-frozen"
+  ],
+  "sku": "5613641",
+  "updatedAt": "2020-11-15T07:44:06.724Z"
+}

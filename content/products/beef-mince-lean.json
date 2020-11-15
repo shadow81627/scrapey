@@ -1,0 +1,56 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Servings Per Pack",
+      "value": "8.0"
+    },
+    {
+      "name": "Size",
+      "value": "800g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.38 per 100G"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2020-11-15T07:47:27.658Z",
+  "description": "Australian Beef",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/4/4/3449773.jpg",
+    "width": 300
+  },
+  "name": "Beef Mince Lean",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 11,
+    "lowPrice": 11,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T07:47:27.657Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "11.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-rr-9x7-beef-lean-mince-3449773p"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/sunnybank-hills/product/coles-rr-9x7-beef-lean-mince-3449773p"
+  ],
+  "sku": "3449773",
+  "updatedAt": "2020-11-15T07:47:27.657Z"
+}

@@ -1,0 +1,68 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "100% Spanish Extra Virgin Olive Oil"
+    },
+    {
+      "name": "Dietary",
+      "value": "Cholesterol free"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "67.0"
+    },
+    {
+      "name": "Size",
+      "value": "1L"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$7.50 per 1L"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Product of Mixed Origin"
+    }
+  ],
+  "brand": "La Espanola",
+  "createdAt": "2020-11-15T05:10:22.320Z",
+  "description": "La Espanola Extra Virgin Olive Oil. Mild Flavour.The perfect cooking companion.A slightly sweet and fruity flavour, perfect with seafood, summer salads and baking.",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/5/2/3526116.jpg",
+    "width": 300
+  },
+  "name": "Extra Virgin Olive Oil Mild Flavour",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 7.5,
+    "lowPrice": 7.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T05:10:22.319Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "7.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/la-espanola-extra-virgin-olive-oil-blue-label"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/la-espanola-extra-virgin-olive-oil-blue-label"
+  ],
+  "sku": "3526116",
+  "updatedAt": "2020-11-15T05:10:22.319Z"
+}

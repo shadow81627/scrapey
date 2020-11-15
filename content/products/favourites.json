@@ -1,0 +1,64 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Sugar, Glucose Syrup (From Wheat And Corn), Milk Solids, Cocoa Mass, Cocoa Butter, Sweetened Condensed Milk, Vegetable Fat, Coconut (Contains 223 (Sulphites)), Peanut Pieces, Glace Cherries (Cherries, Wheat Glucose Fructose Syrup, Colour (163), Food Acid (330), Sulphites), Wheat Flour Blend, Invert Sugar, Biscuit Pieces (Contain Wheat), Cocoa Powder, Golden Syrup, Full Cream Milk, Emulsifiers (Soy Lecithin, Sunflower Lecithin, 476, 471, 492), Malt Extract (From Barley), Humectant (422), Thickener (1401), Rice Crisps, Gelling Agents (500, 575), Salt, Vegetable Gum (440), Hydrolysed Milk Protein, Maltodextrin, Gelatine, Acidity Regulators (330, 331), Colours (120, 150C, 163, 160C), Flavours, Antioxidants (330, 319), Cornstarch, Enzyme (Invertase)."
+    },
+    {
+      "name": "Allergen",
+      "value": "Contains Peanuts, Contains Barley, May Be Present Tree Nuts, Contains Milk, Contains Soy, Contains Sulphites, Contains Wheat, Contains Wheat Glucose Syrup"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "33.0"
+    },
+    {
+      "name": "Size",
+      "value": "820g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.71 per 100G"
+    }
+  ],
+  "brand": "Cadbury",
+  "createdAt": "2020-11-15T08:31:26.156Z",
+  "description": "Cadbury Favourites has a delicious variety of Cadbury chocolate pieces, perfect for sharing at social occasions, with something for everyone.",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/3/2/3322207.jpg",
+    "width": 300
+  },
+  "name": "Favourites",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 14,
+    "lowPrice": 14,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T08:31:26.156Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "14.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/cadbury-favourites"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/cadbury-favourites"
+  ],
+  "sku": "3322207",
+  "updatedAt": "2020-11-15T08:31:26.156Z"
+}

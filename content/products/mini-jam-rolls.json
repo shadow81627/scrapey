@@ -1,0 +1,60 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": " INGREDIENTS: Sponge [Wheat Flour, Sugar, Water, Egg Powder, Humectant (422, 420, 1520), Milk Solids, Glucose syrup, Raising Agent (500, 450, 341), Salt, Emulsifier (471 Soy, 475, 481, 452), Wheat Starch, Preservative (202), Thickener (412), Natural Colour (160b, 164), Acidity Regulator (330)], Jam Filling (24%) [Sugar, Apple, Gelling Agent (440), Acidity Regulator (330), Natural Colour (163), Natural Flavouring, Preservative (202)]."
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "6.0"
+    },
+    {
+      "name": "Size",
+      "value": "6 pack"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.42 per 1Ea"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2020-11-15T07:11:05.170Z",
+  "description": "Coles Mini Jam Rolls",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/0/5/5057708.jpg",
+    "width": 300
+  },
+  "name": "Mini Jam Rolls",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2.5,
+    "lowPrice": 2.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T07:11:05.169Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "2.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-bakery-sponge-roll-mini-jam"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/sunnybank-hills/product/coles-bakery-sponge-roll-mini-jam"
+  ],
+  "sku": "5057708",
+  "updatedAt": "2020-11-15T07:11:05.169Z"
+}

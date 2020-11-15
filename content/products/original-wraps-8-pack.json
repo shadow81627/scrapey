@@ -1,0 +1,60 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Wheat Flour (64%) (Thiamine, Folic Acid), Water, Vegetable Oil [Antioxidant (320)], Mineral Salts (450, 500), Iodised Salt, Sugar, Vegetable Gums (412, 466), Emulsifier (471), Acidity Regulator (297), Preservatives (282, 200)"
+    },
+    {
+      "name": "Allergen",
+      "value": "Contains Soybean, Contains Wheat"
+    },
+    {
+      "name": "Size",
+      "value": "567g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.88 per 100G"
+    }
+  ],
+  "brand": "Mission",
+  "createdAt": "2020-11-15T04:45:32.955Z",
+  "description": "Mission Original Wraps 8 pack",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/6/9/5/6955662.jpg",
+    "width": 300
+  },
+  "name": "Original Wraps 8 pack",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 5,
+    "lowPrice": 5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T04:45:32.955Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "5.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/mission-wraps-original-8-pack"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/sunnybank-hills/product/mission-wraps-original-8-pack"
+  ],
+  "sku": "6955662",
+  "updatedAt": "2020-11-15T04:45:32.955Z"
+}

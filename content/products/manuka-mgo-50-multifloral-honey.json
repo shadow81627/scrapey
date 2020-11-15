@@ -1,0 +1,64 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "INGREDIENTS: 100% Pure New Zealand Honey"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "25.0"
+    },
+    {
+      "name": "Size",
+      "value": "250g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$4.40 per 100G"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Product of New Zealand"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2020-11-15T11:35:52.942Z",
+  "description": "MGO 50+ 100% Pure New Zealand",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/8/2/3828670.jpg",
+    "width": 300
+  },
+  "name": "Manuka MGO 50+ Multifloral Honey",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 11,
+    "lowPrice": 11,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T11:35:52.941Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "11.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-manuka-mgo-50-multifloral-honey-3828670p"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/coles-manuka-mgo-50-multifloral-honey-3828670p"
+  ],
+  "sku": "3828670",
+  "updatedAt": "2020-11-15T11:35:52.941Z"
+}

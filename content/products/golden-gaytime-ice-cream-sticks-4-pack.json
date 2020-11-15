@@ -1,0 +1,64 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Contains",
+      "value": "Milk, Gluten containing Cereals (Wheat and barley) and Soybean. 400ml"
+    },
+    {
+      "name": "Allergen",
+      "value": "Contains Cereals, May Be Present Peanuts, Contains Gluten, Contains Barley, May Be Present Tree Nuts, Contains Milk, Contains Soy, Contains Wheat"
+    },
+    {
+      "name": "Size",
+      "value": "400mL"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$2.13 per 100mL"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Made in Australia"
+    }
+  ],
+  "brand": "Streets",
+  "createdAt": "2020-11-15T05:34:20.636Z",
+  "description": "Streets Golden Gaytime Ice Cream Sticks 4 pack",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/9/6/1/9611648.jpg",
+    "width": 300
+  },
+  "name": "Golden Gaytime Ice Cream Sticks 4 pack",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 8.5,
+    "lowPrice": 8.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T05:34:20.635Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "8.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/streets-golden-gaytime-ice-cream-traditional"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/streets-golden-gaytime-ice-cream-traditional"
+  ],
+  "sku": "9611648",
+  "updatedAt": "2020-11-15T05:34:20.635Z"
+}

@@ -1,0 +1,56 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "1L"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.10 per 100mL"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Product of Australia"
+    }
+  ],
+  "brand": "Connoisseur",
+  "createdAt": "2020-11-15T09:56:52.507Z",
+  "description": "Connoisseur Cookies & Cream Gourmet Ice Cream Tub",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/8/3/5832850.jpg",
+    "width": 300
+  },
+  "name": "Cookies & Cream Gourmet Ice Cream Tub",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 11,
+    "lowPrice": 11,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T09:56:52.506Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "11.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/nestle-connoisseur-ice-cream-cookies-cream"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/nestle-connoisseur-ice-cream-cookies-cream"
+  ],
+  "sku": "5832850",
+  "updatedAt": "2020-11-15T09:56:52.506Z"
+}

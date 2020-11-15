@@ -1,0 +1,68 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Cashews, Sunflower Oil, Salt."
+    },
+    {
+      "name": "Contains",
+      "value": "Cashews."
+    },
+    {
+      "name": "Allergen",
+      "value": "May Be Present Gluten, May Be Present Peanuts, May Be Present Sesame Seeds, May Be Present Soy, Contains Tree Nuts, May Be Present Milk"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "10.0"
+    },
+    {
+      "name": "Size",
+      "value": "300g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$26.67 per 1Kg"
+    }
+  ],
+  "brand": "Nobby's",
+  "createdAt": "2020-11-15T10:29:48.124Z",
+  "description": "Australians have enjoyed the unbeatable quality and taste of Nobby's Nuts for more than 50 years. Whether you are relaxing at home or spending time with friends, Nobby's Nuts are the perfect snack to nibble on! Nibble Nobby's Nuts!",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/8/3/3/8331872.jpg",
+    "width": 300
+  },
+  "name": "Salted Cashews",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 8,
+    "lowPrice": 8,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T10:29:48.123Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "8.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/nobbys-nuts-cashews-salted"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/nobbys-nuts-cashews-salted"
+  ],
+  "sku": "8331872",
+  "updatedAt": "2020-11-15T10:29:48.123Z"
+}

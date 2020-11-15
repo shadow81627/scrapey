@@ -1,0 +1,60 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "INGREDIENTS: No Added Hormone Australian Beef (85%), Water, Seasoning [Crumb (Maize Starch, Rice Flour, Tapioca Starch, Potato Starch, Soy Flour, Preservatives (Sodium Carbonates, 575), Yeast, Salt), Salt, Dehydrated Beetroot, Preservative (223), Herbs (Parsley, Thyme), Spice Extracts (Paprika, Pepper)], Parsley, Thyme."
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "4.0"
+    },
+    {
+      "name": "Size",
+      "value": "500g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$12.00 per 1Kg"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2020-11-15T10:30:48.977Z",
+  "description": "Coles Beef Thyme And Parsley Burgers",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/0/3/3034348.jpg",
+    "width": 300
+  },
+  "name": "Beef Thyme And Parsley Burgers",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 6,
+    "lowPrice": 6,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T10:30:48.968Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "6.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-beef-thyme-and-parsley-burgers"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/sunnybank-hills/product/coles-beef-thyme-and-parsley-burgers"
+  ],
+  "sku": "3034348",
+  "updatedAt": "2020-11-15T10:30:48.968Z"
+}

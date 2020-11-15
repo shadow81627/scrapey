@@ -1,0 +1,52 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "195g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$51.28 per 1Kg"
+    }
+  ],
+  "brand": "Sard",
+  "createdAt": "2020-11-15T09:16:35.065Z",
+  "description": "Sard Power Fizz Stain Remover",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/6/3/3639393.jpg",
+    "width": 300
+  },
+  "name": "Power Fizz Stain Remover",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 10,
+    "lowPrice": 10,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T09:16:35.065Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "10.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/sard-power-fizz-stain-remover"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/sard-power-fizz-stain-remover"
+  ],
+  "sku": "3639393",
+  "updatedAt": "2020-11-15T09:16:35.065Z"
+}

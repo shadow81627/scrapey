@@ -1,0 +1,56 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Colour",
+      "value": "White"
+    },
+    {
+      "name": "Size",
+      "value": "2 pack"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.46 per 100Ea"
+    }
+  ],
+  "brand": "Viva",
+  "createdAt": "2020-11-15T05:06:20.724Z",
+  "description": "Viva White Paper Towels",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/9/3/3/9333523.jpg",
+    "width": 300
+  },
+  "name": "White Paper Towels",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 1.75,
+    "lowPrice": 1.75,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T05:06:20.724Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "1.75",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/viva-paper-towels-white-9333523p"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/richmond-south/product/viva-paper-towels-white-9333523p"
+  ],
+  "sku": "9333523",
+  "updatedAt": "2020-11-15T05:06:20.724Z"
+}

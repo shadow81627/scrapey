@@ -1,0 +1,56 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "120g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.50 per 100G"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Made in South Korea from Imported ingredients"
+    }
+  ],
+  "brand": "Nongshim",
+  "createdAt": "2020-11-15T09:18:53.768Z",
+  "description": "Nongshim Neoguri Spicy Noodle features deep and clean broth and plump and al dente noodles. Chunks of Korean kelp became the unique characteristic of Neoguri adding taste and nutrition.",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/6/6/7/6673219.jpg",
+    "width": 300
+  },
+  "name": "Neoguri Seafood & Spicy Udon Noodle Soup",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 1.8,
+    "lowPrice": 1.8,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T09:18:53.767Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "1.80",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/nong-shim-noodles-seafood-udon"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/nong-shim-noodles-seafood-udon"
+  ],
+  "sku": "6673219",
+  "updatedAt": "2020-11-15T09:18:53.767Z"
+}

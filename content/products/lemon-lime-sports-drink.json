@@ -1,0 +1,56 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "600mL"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$3.58 per 1L"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Made In Australia From Local And Imported Ingredients"
+    }
+  ],
+  "brand": "Gatorade",
+  "createdAt": "2020-11-15T10:48:55.124Z",
+  "description": "Gatorade Lemon Lime Sports Drink",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/4/6/5468870.jpg",
+    "width": 300
+  },
+  "name": "Lemon Lime Sports Drink",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2.15,
+    "lowPrice": 2.15,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T10:48:55.124Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "2.15",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/gatorade-sport-drink-lemon-lime-5468870p"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/gatorade-sport-drink-lemon-lime-5468870p?adId=display_RCQ-A8YfRUJmFqZoa1lrEP4OLf01NDY4ODcwUA%3D%3D"
+  ],
+  "sku": "5468870",
+  "updatedAt": "2020-11-15T10:48:55.124Z"
+}

@@ -1,0 +1,56 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "120g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.07 per 1Ea"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Blended and packed in Poland to the highest standards by Twinings of London using the finest imported and local ingredients."
+    }
+  ],
+  "brand": "Twinings",
+  "createdAt": "2020-11-15T08:53:01.402Z",
+  "description": "Twinings Lemon & Ginger Infusions Tea Bags 80 pack",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/2/4/2245563.jpg",
+    "width": 300
+  },
+  "name": "Lemon & Ginger Infusions Tea Bags 80 pack",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 5.6,
+    "lowPrice": 5.6,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T08:53:01.402Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "5.60",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/twinings-infusions-lemon-ginger"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/twinings-infusions-lemon-ginger"
+  ],
+  "sku": "2245563",
+  "updatedAt": "2020-11-15T08:53:01.402Z"
+}

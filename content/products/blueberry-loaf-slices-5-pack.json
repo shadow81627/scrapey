@@ -1,0 +1,60 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "  Wheat Flour, Sugar, Egg, Canola Oil, Blueberries (9%), Water, Raising Agents (Sodium Carbonate, 450), Salt, Preservative (Potassium Sorbate), Natural Flavouring."
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "5.0"
+    },
+    {
+      "name": "Size",
+      "value": "500g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.90 per 100G"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2020-11-15T09:44:46.122Z",
+  "description": "Coles Blueberry Loaf Slices 5 pack",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/2/3/3235408.jpg",
+    "width": 300
+  },
+  "name": "Blueberry Loaf Slices 5 pack",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 4.5,
+    "lowPrice": 4.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T09:44:46.121Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "4.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-blueberry-slice-5pk"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/coles-blueberry-slice-5pk"
+  ],
+  "sku": "3235408",
+  "updatedAt": "2020-11-15T09:44:46.121Z"
+}

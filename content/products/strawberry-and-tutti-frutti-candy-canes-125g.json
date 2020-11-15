@@ -1,0 +1,56 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "10 pack"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.80 per 100G"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Made in New Zealand"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2020-11-15T09:47:09.525Z",
+  "description": "Coles Strawberry & Tutti Frutti Candy Canes 125g",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/8/1/3812498.jpg",
+    "width": 300
+  },
+  "name": "Strawberry & Tutti Frutti Candy Canes 125g",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 1,
+    "lowPrice": 1,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T09:47:09.525Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "1.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/strawberry-tutti-frutti-candy-canes"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/sunnybank-hills/product/strawberry-tutti-frutti-candy-canes"
+  ],
+  "sku": "3812498",
+  "updatedAt": "2020-11-15T09:47:09.525Z"
+}

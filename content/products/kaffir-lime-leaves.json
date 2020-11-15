@@ -1,0 +1,56 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "100g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$28.50 per 1Kg"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Product of Thailand from Imported ingredients"
+    }
+  ],
+  "brand": "Valcom",
+  "createdAt": "2020-11-15T09:16:14.956Z",
+  "description": "Valcom Kaffir Lime Leaves",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/9/4/3/9435079.jpg",
+    "width": 300
+  },
+  "name": "Kaffir Lime Leaves",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2.85,
+    "lowPrice": 2.85,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T09:16:14.955Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "2.85",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/valcom-lime-leaves-kaffir"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/sunnybank-hills/product/valcom-lime-leaves-kaffir"
+  ],
+  "sku": "9435079",
+  "updatedAt": "2020-11-15T09:16:14.955Z"
+}

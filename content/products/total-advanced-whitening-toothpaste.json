@@ -1,0 +1,60 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Glycerin, Hydrated Silica, Water, Sodium Lauryl Sulfate, Arginine, Flavour, Zinc Oxide, Cellulose Gum, Poloxamer 407, Tetrasodium Pyrophosphate, Zinc Citrate, Benzyl Alcohol, Cocamidopropyl Betaine, Sodium Fluoride, Sodium Saccharin, Xanthan Gum, Phosphoric Acid, CI 77891, Mica, Sucralose, CI 74160, CI 74260, CI 77492."
+    },
+    {
+      "name": "Contains",
+      "value": "Sodium Fluoride 0.32% w/w (equiv. 1450 ppm F). 1 Toothpaste"
+    },
+    {
+      "name": "Size",
+      "value": "115g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$3.35 per 100G"
+    }
+  ],
+  "brand": "Colgate",
+  "createdAt": "2020-11-15T11:54:02.415Z",
+  "description": "Colgate Total Advanced Whitening Toothpaste",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/4/0/3400934.jpg",
+    "width": 300
+  },
+  "name": "Total Advanced Whitening Toothpaste",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3.85,
+    "lowPrice": 3.85,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T11:54:02.415Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "3.85",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/colgate-total-advanced-whitening-toothpaste-3400934p"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/colgate-total-advanced-whitening-toothpaste-3400934p"
+  ],
+  "sku": "3400934",
+  "updatedAt": "2020-11-15T11:54:02.415Z"
+}

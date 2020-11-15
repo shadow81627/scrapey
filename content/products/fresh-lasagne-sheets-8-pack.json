@@ -1,0 +1,64 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Durum Wheat Semolina (73%), Water, Egg (10%), Canola oil, Food Acid (Lactic Acid)"
+    },
+    {
+      "name": "Allergen",
+      "value": "Contains Egg, Contains Wheat"
+    },
+    {
+      "name": "Dietary",
+      "value": "No Artificial Flavours or Colours"
+    },
+    {
+      "name": "Size",
+      "value": "375g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.33 per 100G"
+    }
+  ],
+  "brand": "Latina",
+  "createdAt": "2020-11-15T08:50:40.284Z",
+  "description": "Latina Fresh Lasagne Sheets 8 Pack",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/1/6/5165427.jpg",
+    "width": 300
+  },
+  "name": "Fresh Lasagne Sheets 8 Pack",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 5,
+    "lowPrice": 5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T08:50:40.283Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "5.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/latina-fresh-lasagne-sheets"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/latina-fresh-lasagne-sheets"
+  ],
+  "sku": "5165427",
+  "updatedAt": "2020-11-15T08:50:40.283Z"
+}

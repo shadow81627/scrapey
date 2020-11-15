@@ -1,0 +1,52 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "225mL"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$5.56 per 100mL"
+    }
+  ],
+  "brand": "Bondi Sands",
+  "createdAt": "2020-11-15T10:13:22.594Z",
+  "description": "Sand, sea and sun, the enviable Australian image.Experience a sun-kissed Australian tan in just 1 hour with Bondi Sands Express Self Tanning Foam. Infused with a scent of coconut, this ultra lightweight aerosol foam will leave your skin glowing like a day on Bondi beach.",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/2/6/3264950.jpg",
+    "width": 300
+  },
+  "name": "Aero One Hour Express",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 12.5,
+    "lowPrice": 12.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/OutOfStock",
+        "availabilityStarts": "2020-11-15T10:13:22.591Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "12.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/bondi-sands-1-hour-express-tan"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/bondi-sands-1-hour-express-tan"
+  ],
+  "sku": "3264950",
+  "updatedAt": "2020-11-15T10:13:22.591Z"
+}

@@ -1,0 +1,56 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": " INGREDIENTS: Water, Modified Tapioca Starch (1442), Rice Flour, Maize Starch, Australian Vine Fruit (7 %) (Currants, Sultanas), Sugar, Soy Flour, Vegetable Oil, Vinegar, Egg White Powder, Soy Protein, Dried Yeast, Mixed Spice, Iodised Salt, Psyllium Husk Powder, Vegetable Gums (412, 464, 466, 461), Cinnamon, Humectant (422), Preservative (Sorbic Acid)."
+    },
+    {
+      "name": "Size",
+      "value": "500g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.00 per 100G"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2020-11-15T09:07:35.463Z",
+  "description": "Made with 100% Aussie fruit.",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/2/1/3216710.jpg",
+    "width": 300
+  },
+  "name": "Gluten Free Fruit Bread",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 5,
+    "lowPrice": 5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T09:07:35.462Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "5.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-gluten-free-fruit-loaf"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/coles-gluten-free-fruit-loaf"
+  ],
+  "sku": "3216710",
+  "updatedAt": "2020-11-15T09:07:35.462Z"
+}

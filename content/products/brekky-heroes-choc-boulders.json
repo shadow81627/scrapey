@@ -1,0 +1,76 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Rice Flour, Cane Sugar, Whole Grain Sorghum Flour, Maize Flour, Cocoa Powder (5%), Chickpea Fibre, Psyllium Husk, Flavour, Salt, Canola Oil, Emulsifier (Sunflower Lecithin)."
+    },
+    {
+      "name": "Contains",
+      "value": "May contain milk."
+    },
+    {
+      "name": "Allergen",
+      "value": "May Be Present Milk"
+    },
+    {
+      "name": "Dietary",
+      "value": "No Artificial Flavours or Colours, Source of Dietary Fibre"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "6.5"
+    },
+    {
+      "name": "Warning",
+      "value": "This product is sold by weight, not volume. Some settling of contents may have occurred during shipment and handling."
+    },
+    {
+      "name": "Size",
+      "value": "260g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.54 per 100G"
+    }
+  ],
+  "brand": "Freedom Foods",
+  "createdAt": "2020-11-15T04:39:32.601Z",
+  "description": "You'll need a full belly of goodness to help save the day! Just ask Captain Boulder - with no artificial colours and flavours, no preservatives, and a source of fibre, you'll be saving the world in no time.",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/2/0/3208278.jpg",
+    "width": 300
+  },
+  "name": "Brekky Heroes Choc Boulders",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 4,
+    "lowPrice": 4,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T04:39:32.601Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "4.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/brekky-heroes-choc-boulders"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/brekky-heroes-choc-boulders"
+  ],
+  "sku": "3208278",
+  "updatedAt": "2020-11-15T04:39:32.601Z"
+}

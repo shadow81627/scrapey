@@ -1,0 +1,56 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Contains",
+      "value": "Preservatives: Phenoxyethanol, Hydroxybenzoates"
+    },
+    {
+      "name": "Size",
+      "value": "240mL"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$3.65 per 100mL"
+    }
+  ],
+  "brand": "Banana Boat",
+  "createdAt": "2020-11-15T11:20:26.010Z",
+  "description": "Easy-to-apply sunscreen spray for active Aussies",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/4/2/2427946.jpg",
+    "width": 300
+  },
+  "name": "Sport Sunscreen Spray SPF 50+",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 8.75,
+    "lowPrice": 8.75,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/OutOfStock",
+        "availabilityStarts": "2020-11-15T11:20:26.009Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "8.75",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/banana-boat-sport-sunscreen-spray-spf-50"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/banana-boat-sport-sunscreen-spray-spf-50"
+  ],
+  "sku": "2427946",
+  "updatedAt": "2020-11-15T11:20:26.009Z"
+}

@@ -1,0 +1,60 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": " Wheat Flour (Folic Acid, Thiamin), Water, Butter (13%) (Butterfat, Water, Milk Solids), Egg (11%), Sugar, Milk Powder, Improver (Enzyme, Malted Wheat, Wheat Flour), Sesame Seeds (1.0%), Charcoal (1.0%) (Coconut derived), Salt, Yeast, Wheat Gluten."
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "2.0"
+    },
+    {
+      "name": "Size",
+      "value": "2 Pack"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.35 per 1Ea"
+    }
+  ],
+  "brand": "Coles Finest",
+  "createdAt": "2020-11-15T10:20:44.697Z",
+  "description": "by Laurent Rich buttery brioche buns, made with activated charcoal for a unique texture and colour",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/0/9/3092286.jpg",
+    "width": 300
+  },
+  "name": "By Laurent Charcoal Brioche Burger Buns",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2.7,
+    "lowPrice": 2.7,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T10:20:44.696Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "2.70",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-brioche-burger-bun-charcoal-2pk"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/sunnybank-hills/product/coles-brioche-burger-bun-charcoal-2pk"
+  ],
+  "sku": "3092286",
+  "updatedAt": "2020-11-15T10:20:44.696Z"
+}

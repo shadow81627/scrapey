@@ -1,0 +1,56 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": " Corn (88%), Sugar, Salt, Vitamins (Vitamin B3, Folic Acid, Vitamin B1, Vitamin B2), Mineral (Iron)."
+    },
+    {
+      "name": "Size",
+      "value": "475g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.36 per 100G"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2020-11-15T04:43:32.763Z",
+  "description": "43904254 Nestle Material Number to be placed on small base flap",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/8/7/2/8728071.jpg",
+    "width": 300
+  },
+  "name": "Corn Flakes",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 1.7,
+    "lowPrice": 1.7,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T04:43:32.762Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "1.70",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-cereal-corn-flakes"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/coles-cereal-corn-flakes"
+  ],
+  "sku": "8728071",
+  "updatedAt": "2020-11-15T04:43:32.762Z"
+}

@@ -1,0 +1,52 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "600g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.00 per 100G"
+    }
+  ],
+  "brand": "Helga's",
+  "createdAt": "2020-11-15T11:31:08.779Z",
+  "description": "Helga's Raisin Toast",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/8/2/3822607.jpg",
+    "width": 300
+  },
+  "name": "Raisin Toast",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 6,
+    "lowPrice": 6,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T11:31:08.778Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "6.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/helgas-raisin-toast"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/helgas-raisin-toast"
+  ],
+  "sku": "3822607",
+  "updatedAt": "2020-11-15T11:31:08.778Z"
+}

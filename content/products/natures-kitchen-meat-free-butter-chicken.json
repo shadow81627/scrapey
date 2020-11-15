@@ -19,7 +19,7 @@
     }
   ],
   "brand": "Coles",
-  "createdAt": "2020-10-11T08:19:47.731Z",
+  "createdAt": "2020-11-15T11:47:16.826Z",
   "description": "Coles Nature's Kitchen Meat Free Butter Chicken",
   "image": {
     "@type": "ImageObject",
@@ -38,8 +38,8 @@
       {
         "@context": "http://schema.org",
         "@type": "Offer",
-        "availability": "https://schema.org/InStock",
-        "availabilityStarts": "2020-10-11T08:19:47.726Z",
+        "availability": "https://schema.org/OutOfStock",
+        "availabilityStarts": "2020-11-15T11:47:16.825Z",
         "itemCondition": "https://schema.org/NewCondition",
         "offeredBy": "Coles",
         "price": "7.50",
@@ -50,12 +50,11 @@
         },
         "url": "https://shop.coles.com.au/a/national/product/coles-natures-kitchen-meat-free-butter-chicken"
       }
-    ],
-    "priceCurrency": "AUD"
+    ]
   },
   "sameAs": [
-    "https://shop.coles.com.au/a/sunnybank-hills/product/coles-natures-kitchen-meat-free-butter-chicken"
+    "https://shop.coles.com.au/a/national/product/coles-natures-kitchen-meat-free-butter-chicken"
   ],
   "sku": "3649648",
-  "updatedAt": "2020-10-11T08:19:47.728Z"
+  "updatedAt": "2020-11-15T11:47:16.825Z"
 }

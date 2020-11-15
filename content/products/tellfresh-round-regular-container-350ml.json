@@ -1,0 +1,48 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Unit Price",
+      "value": "$2.00 per 1Ea"
+    }
+  ],
+  "brand": "Decor",
+  "createdAt": "2020-11-15T11:38:24.653Z",
+  "description": "Decor Tellfresh Round Regular Container 350mL",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/8/0/5808582.jpg",
+    "width": 300
+  },
+  "name": "Tellfresh Round Regular Container 350mL",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2,
+    "lowPrice": 2,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T11:38:24.647Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "2.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/decor-tellfresh-container-round-regular"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/decor-tellfresh-container-round-regular"
+  ],
+  "sku": "5808582",
+  "updatedAt": "2020-11-15T11:38:24.652Z"
+}

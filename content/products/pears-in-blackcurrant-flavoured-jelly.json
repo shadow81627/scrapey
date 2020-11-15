@@ -1,0 +1,64 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "INGREDIENTS: Water, Diced Pears (30%), Sugar, Pear Juice Concentrate, Gelling Agents (Locust Bean Gum, Xanthan Gum, Gellan Gum), Acidity Regulators (Citric Acid, Sodium Citrate, Potassium Citrate), Firming Agent (509), Antioxidant (Ascorbic Acid), Natural Blackcurrant Flavour, Natural Colour (Anthocyanin)."
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "4.0"
+    },
+    {
+      "name": "Size",
+      "value": "500g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$4.40 per 1Kg"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Product of China"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2020-11-15T09:59:33.414Z",
+  "description": "Coles Pears in Blackcurrant Flavoured Jelly",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/3/4/2345273.jpg",
+    "width": 300
+  },
+  "name": "Pears in Blackcurrant Flavoured Jelly",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2.2,
+    "lowPrice": 2.2,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T09:59:33.414Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "2.20",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-pears-in-blackcurrant-jelly"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/sunnybank-hills/product/coles-pears-in-blackcurrant-jelly"
+  ],
+  "sku": "2345273",
+  "updatedAt": "2020-11-15T09:59:33.414Z"
+}

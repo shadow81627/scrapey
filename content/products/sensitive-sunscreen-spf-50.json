@@ -1,0 +1,56 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Contains",
+      "value": "Preservatives: Phenoxyethanol, Hydroxybenzoates"
+    },
+    {
+      "name": "Size",
+      "value": "200g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$4.13 per 100G"
+    }
+  ],
+  "brand": "Banana Boat",
+  "createdAt": "2020-11-15T08:55:42.329Z",
+  "description": "SPF 50+ broad spectrum UVA/UVB protectionOur most advanced protection for your sensitive skinTested for 4 hours water resistanceFragrance free & gentleNon-greasy",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/2/9/5293063.jpg",
+    "width": 300
+  },
+  "name": "Sensitive Sunscreen SPF 50+",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 8.25,
+    "lowPrice": 8.25,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T08:55:42.329Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "8.25",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/banana-boat-sunscreen-spf30-sensitive"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/banana-boat-sunscreen-spf30-sensitive"
+  ],
+  "sku": "5293063",
+  "updatedAt": "2020-11-15T08:55:42.329Z"
+}

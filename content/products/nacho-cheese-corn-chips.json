@@ -1,0 +1,72 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Corn, Vegetable Oil, Salt, Cheese Powders (including Cheddar), Milk Solids, Sugar, Vegetable Powders (Onion, Garlic, Tomato), Flavour Enhancers (621, 627, 631), Vegetable Extract, Food Acids (262, 330 270), Spices, Herbs, Corn Starch, Natural Colour (Paprika Extract), Flavours."
+    },
+    {
+      "name": "Allergen",
+      "value": "Contains Milk, May Contain Soy"
+    },
+    {
+      "name": "Dietary",
+      "value": "No Preservatives"
+    },
+    {
+      "name": "Warning",
+      "value": "Contains Milk. May contain Soy."
+    },
+    {
+      "name": "Size",
+      "value": "175g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.00 per 100G"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Made in Australia"
+    }
+  ],
+  "brand": "CC's",
+  "createdAt": "2020-11-15T07:42:05.955Z",
+  "description": "CC's Nacho Cheese Corn Chips",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/1/7/9/1795376.jpg",
+    "width": 300
+  },
+  "name": "Nacho Cheese Corn Chips",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 1.75,
+    "lowPrice": 1.75,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T07:42:05.954Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "1.75",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/ccs-nacho-cheese-corn-chips"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/ccs-nacho-cheese-corn-chips"
+  ],
+  "sku": "1795376",
+  "updatedAt": "2020-11-15T07:42:05.954Z"
+}

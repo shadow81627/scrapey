@@ -1,0 +1,48 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "6 PACK"
+    }
+  ],
+  "brand": "Libra",
+  "createdAt": "2020-11-15T09:01:05.603Z",
+  "description": "Libra Goodnight Extra Long & Wide",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/7/6/3760281.jpg",
+    "width": 300
+  },
+  "name": "Goodnight Extra Long & Wide",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2.1,
+    "lowPrice": 2.1,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T09:01:05.602Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "2.10",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/libra-godnight-extra"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/libra-godnight-extra"
+  ],
+  "sku": "3760281",
+  "updatedAt": "2020-11-15T09:01:05.602Z"
+}

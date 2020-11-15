@@ -1,0 +1,48 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Unit Price",
+      "value": "$4.99 per 1Ea"
+    }
+  ],
+  "brand": "Magazine",
+  "createdAt": "2020-11-15T11:09:52.728Z",
+  "description": "Not available for delivery on Mondays. Cover may not depict edition offered for sale.",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/6/4/0/640910.jpg",
+    "width": 300
+  },
+  "name": "Woman's Day",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 4.99,
+    "lowPrice": 4.99,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T11:09:52.728Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "4.99",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/womans-day-magazine"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/womans-day-magazine"
+  ],
+  "sku": "640910",
+  "updatedAt": "2020-11-15T11:09:52.728Z"
+}

@@ -1,0 +1,56 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "1kg"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.49 per 100G"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Product of United States of America from Imported ingredients"
+    }
+  ],
+  "brand": "Kokuho Rose",
+  "createdAt": "2020-11-15T11:09:32.730Z",
+  "description": "Kokuho Rose Premium Sushi Rice",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/9/6/8/9688201.jpg",
+    "width": 300
+  },
+  "name": "Premium Sushi Rice",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 4.9,
+    "lowPrice": 4.9,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T11:09:32.728Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "4.90",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/kokuho-rice-sushi-rose"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/sunnybank-hills/product/kokuho-rice-sushi-rose"
+  ],
+  "sku": "9688201",
+  "updatedAt": "2020-11-15T11:09:32.728Z"
+}

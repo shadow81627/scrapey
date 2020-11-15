@@ -1,0 +1,56 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "308g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$5.19 per 100G"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Manufactured in Italy"
+    }
+  ],
+  "brand": "Lindt",
+  "createdAt": "2020-11-15T08:31:06.175Z",
+  "description": "Image is an example only. Colour of product may vary. Print, colours and styles may vary. Item will be picked at random. Multiple items shown. Each sold separately.",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/2/0/2202232.jpg",
+    "width": 300
+  },
+  "name": "Lindor Chocolate Bag Assorted",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 16,
+    "lowPrice": 16,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T08:31:06.175Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "16.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/lindt-lindor-bag-assorted"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/lindt-lindor-bag-assorted"
+  ],
+  "sku": "2202232",
+  "updatedAt": "2020-11-15T08:31:06.175Z"
+}

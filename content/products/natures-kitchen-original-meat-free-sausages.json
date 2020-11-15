@@ -1,0 +1,60 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Water, Textured Wheat Protein [Wheat Protein, Wheat Flour], Textured Soy Protein [Defatted Soy Flour, Colour (Caramel 1], Coconut Powder, Canola Oil, Emulsifier (461) Maltodextrin, Maize Starch, Natural Flavouring, Yeast Extract, Thickener (461, 412) Wheat Protein, Lipoflex [Potato Powder], Pea Protein, Salt, Dehydrated Onion, Dehydrated Garlic, Flavour Enhancer (L-Cysteine) Potato Fibre, Parsley, Pepper, Dried Yeast, Stabiliser (401) Rosemary, Garlic, Rice Flour, Firming Agent (509."
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "3.0"
+    },
+    {
+      "name": "Size",
+      "value": "270g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$2.22 per 100G"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2020-11-15T10:19:24.209Z",
+  "description": "Deliciously Vegan",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/5/1/3513169.jpg",
+    "width": 300
+  },
+  "name": "Nature's Kitchen Original Meat Free Sausages",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 6,
+    "lowPrice": 6,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T10:19:24.209Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "6.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-original-meat-free-sausages"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/coles-original-meat-free-sausages"
+  ],
+  "sku": "3513169",
+  "updatedAt": "2020-11-15T10:19:24.209Z"
+}

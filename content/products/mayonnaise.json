@@ -1,0 +1,56 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "300g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.57 per 100G"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Product of Thailand from Imported ingredients"
+    }
+  ],
+  "brand": "Kewpie",
+  "createdAt": "2020-11-15T11:08:50.793Z",
+  "description": "Kewpie Mayonnaise",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/4/6/0/4604984.jpg",
+    "width": 300
+  },
+  "name": "Mayonnaise",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 4.7,
+    "lowPrice": 4.7,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T11:08:50.793Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "4.70",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/kewpie-mayonnaise-4604984p"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/sunnybank-hills/product/kewpie-mayonnaise-4604984p"
+  ],
+  "sku": "4604984",
+  "updatedAt": "2020-11-15T11:08:50.793Z"
+}

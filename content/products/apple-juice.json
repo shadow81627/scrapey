@@ -1,0 +1,60 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": " Reconstituted Apple Juice (99.6%), Food Acid (Citric Acid), Natural Flavour, Vitamin C."
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "8.0"
+    },
+    {
+      "name": "Size",
+      "value": "2L"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.00 per 1L"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2020-11-15T04:38:52.567Z",
+  "description": "No Added Sugar Good Source of Vitamin C",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/5/3/2531530.jpg",
+    "width": 300
+  },
+  "name": "Apple Juice",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2,
+    "lowPrice": 2,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T04:38:52.566Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "2.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-apple-juice"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/coles-apple-juice"
+  ],
+  "sku": "2531530",
+  "updatedAt": "2020-11-15T04:38:52.566Z"
+}

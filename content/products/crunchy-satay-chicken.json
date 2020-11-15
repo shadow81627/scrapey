@@ -1,0 +1,52 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "350g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$2.57 per 100G"
+    }
+  ],
+  "brand": "Core Power Foods",
+  "createdAt": "2020-11-15T10:42:54.280Z",
+  "description": "Core Power Foods Crunchy Satay Chicken",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/5/3/3533949.jpg",
+    "width": 300
+  },
+  "name": "Crunchy Satay Chicken",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 9,
+    "lowPrice": 9,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T10:42:54.280Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "9.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/core-power-foods-crunchy-satay-chicken"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/core-power-foods-crunchy-satay-chicken"
+  ],
+  "sku": "3533949",
+  "updatedAt": "2020-11-15T10:42:54.280Z"
+}

@@ -1,0 +1,68 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Low GI Wholegrain Brown Rice."
+    },
+    {
+      "name": "Ethical",
+      "value": "Australian Grown"
+    },
+    {
+      "name": "Dietary",
+      "value": "Low GI, Cholesterol free"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "10.7"
+    },
+    {
+      "name": "Size",
+      "value": "750g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.47 per 100G"
+    }
+  ],
+  "brand": "Sunrice",
+  "createdAt": "2020-11-15T11:42:53.652Z",
+  "description": "Sunrice Low GI Brown Rice",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/9/9/4/9946362.jpg",
+    "width": 300
+  },
+  "name": "Low GI Brown Rice",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3.5,
+    "lowPrice": 3.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T11:42:53.650Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "3.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/sunrice-rice-brown-low-gi"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/sunrice-rice-brown-low-gi"
+  ],
+  "sku": "9946362",
+  "updatedAt": "2020-11-15T11:42:53.650Z"
+}

@@ -1,0 +1,52 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "Approx. 460g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$4.90 per 1Kg"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2020-11-15T09:17:34.309Z",
+  "description": "Indicated price based on approx. weight. Weight may vary between 400g to 550g",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/3/2/5323153.jpg",
+    "width": 300
+  },
+  "name": "Large Grapefruit Ruby Red",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2.25,
+    "lowPrice": 2.25,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T09:17:34.309Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "2.25",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/grapefruit-ruby-red-loose-5323153p"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/grapefruit-ruby-red-loose-5323153p"
+  ],
+  "sku": "5323153",
+  "updatedAt": "2020-11-15T09:17:34.309Z"
+}

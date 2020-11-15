@@ -1,0 +1,60 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Wheat Flour [(60%), Thiamine, Folic Acid], Water, Sugar, Yeast, Iodised Salt, Acidity Regulator (297), Preservative (282)."
+    },
+    {
+      "name": "Allergen",
+      "value": "May Contain Milk, Contains Wheat"
+    },
+    {
+      "name": "Size",
+      "value": "400g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.33 per 100G"
+    }
+  ],
+  "brand": "Mission",
+  "createdAt": "2020-11-15T04:29:08.318Z",
+  "description": "Mission Thin Pizza Crusts are perfect for that pizza night in! With a thin base that crisps in the oven and a delicious crust, they'll soon become the new weekly family favourite.Mission Pizza Crusts provide a source of protein and fibre and contain no artificial colours and flavours.",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/8/7/3870825.jpg",
+    "width": 300
+  },
+  "name": "Crust Plain Pizza",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 5.3,
+    "lowPrice": 5.3,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T04:29:08.317Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "5.30",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/mission-pizza-crust-plain"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/sunnybank-hills/product/mission-pizza-crust-plain"
+  ],
+  "sku": "3870825",
+  "updatedAt": "2020-11-15T04:29:08.317Z"
+}

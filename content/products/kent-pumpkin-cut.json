@@ -1,0 +1,52 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "Approx. 900g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$2.50 per 1Kg"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2020-11-15T07:50:07.132Z",
+  "description": "Coles Kent Pumpkin Cut",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/4/2/0/4202540.jpg",
+    "width": 300
+  },
+  "name": "Kent Pumpkin Cut",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2.25,
+    "lowPrice": 2.25,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T07:50:07.132Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "2.25",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/pumpkin-kent-cut-wrapped"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/pumpkin-kent-cut-wrapped"
+  ],
+  "sku": "4202540",
+  "updatedAt": "2020-11-15T07:50:07.132Z"
+}

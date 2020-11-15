@@ -1,0 +1,52 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "335g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.75 per 100G"
+    }
+  ],
+  "brand": "Praise",
+  "createdAt": "2020-11-15T10:31:31.694Z",
+  "description": "Praise Whole Egg Mayonnaise",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/2/9/5296593.jpg",
+    "width": 300
+  },
+  "name": "Whole Egg Mayonnaise",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2.5,
+    "lowPrice": 2.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T10:31:31.694Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "2.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/praise-whole-egg-mayonnaise"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/richmond-south/product/praise-whole-egg-mayonnaise"
+  ],
+  "sku": "5296593",
+  "updatedAt": "2020-11-15T10:31:31.694Z"
+}

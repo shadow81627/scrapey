@@ -1,0 +1,72 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Rice Flour, Rice Bran, Oil, Maltodextrin (from Corn ), Salt, Sugar, Soy Sauce Powder, Natural Antioxidant (Vitamin E)."
+    },
+    {
+      "name": "Contains",
+      "value": "Soy"
+    },
+    {
+      "name": "Allergen",
+      "value": "Contains Soy"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "5.0"
+    },
+    {
+      "name": "Size",
+      "value": "100g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$2.20 per 100G"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Made in Thailand"
+    }
+  ],
+  "brand": "Peckish",
+  "createdAt": "2020-11-15T10:37:53.806Z",
+  "description": "You've never had a cracker quite like this before - by air baking (yes, using hot air), Peckish have created a thinner, lighter and crispier cracker. This unique way of baking layers of jasmine rice is what creates the perfect crunch and lightness in each flavourful bite.",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/9/9/9/9999336.jpg",
+    "width": 300
+  },
+  "name": "Original Rice Crackers",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2.2,
+    "lowPrice": 2.2,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T10:37:53.805Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "2.20",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/peckish-rice-crackers-original"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/peckish-rice-crackers-original"
+  ],
+  "sku": "9999336",
+  "updatedAt": "2020-11-15T10:37:53.805Z"
+}

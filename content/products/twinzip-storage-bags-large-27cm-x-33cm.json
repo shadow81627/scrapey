@@ -1,0 +1,56 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Warning",
+      "value": "To avoid risk of suffocation keep bags out of reach of children."
+    },
+    {
+      "name": "Size",
+      "value": "15 pack"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.19 per 1Ea"
+    }
+  ],
+  "brand": "Hercules",
+  "createdAt": "2020-11-15T08:16:01.478Z",
+  "description": "Hercules Twinzip Storage Bags Large 27cm x 33cm",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/4/5/8/4582032.jpg",
+    "width": 300
+  },
+  "name": "Twinzip Storage Bags Large 27cm x 33cm",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2.9,
+    "lowPrice": 2.9,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T08:16:01.478Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "2.90",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/hercules-resealable-bags-storage-large"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/hercules-resealable-bags-storage-large"
+  ],
+  "sku": "4582032",
+  "updatedAt": "2020-11-15T08:16:01.478Z"
+}

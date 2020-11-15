@@ -1,0 +1,52 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "260g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$5.00 per 100G"
+    }
+  ],
+  "brand": "Scentilla",
+  "createdAt": "2020-11-15T08:39:28.803Z",
+  "description": "Scentilla Pear & Verbena Soy Blend Double Wicked Candle",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/4/4/3445740.jpg",
+    "width": 300
+  },
+  "name": "Pear & Verbena Soy Blend Double Wicked Candle",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 13,
+    "lowPrice": 13,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T08:39:28.803Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "13.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/scentilla-soy-candle-pear-verbena"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/scentilla-soy-candle-pear-verbena"
+  ],
+  "sku": "3445740",
+  "updatedAt": "2020-11-15T08:39:28.803Z"
+}

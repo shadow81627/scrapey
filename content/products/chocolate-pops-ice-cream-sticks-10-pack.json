@@ -1,0 +1,60 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "INGREDIENTS: Water, Sugar Syrup, Glucose Syrup (from Wheat), Concentrated Skim Milk, Palm Oil (contains Antioxidants (304, 307b (from Soy))), Whey Powder (Milk), Maltodextrin (Maize), Cocoa Powder, Beef Gelatine, Emulsifier (471 Palm Derived), Natural Flavour."
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "10.0"
+    },
+    {
+      "name": "Size",
+      "value": "700mL"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.54 per 100mL"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2020-11-15T09:56:32.379Z",
+  "description": "Coles Chocolate Pops Ice Cream Sticks 10 pack",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/7/1/7/7172194.jpg",
+    "width": 300
+  },
+  "name": "Chocolate Pops Ice Cream Sticks 10 pack",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3.75,
+    "lowPrice": 3.75,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T09:56:32.378Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "3.75",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-ice-cream-chocolate-pops-10-pack"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/coles-ice-cream-chocolate-pops-10-pack"
+  ],
+  "sku": "7172194",
+  "updatedAt": "2020-11-15T09:56:32.378Z"
+}

@@ -1,0 +1,76 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Fresh reduced fat milk, cocoa powder (1%), natural flavours, vegetable gum (carrageenan), sweeteners (950, 951)."
+    },
+    {
+      "name": "Contains",
+      "value": "Milk, Phenylalanine."
+    },
+    {
+      "name": "Allergen",
+      "value": "Contains Phenylalanine, Contains Milk"
+    },
+    {
+      "name": "Dietary",
+      "value": "No Added Sugars, Source of Calcium"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "1.0"
+    },
+    {
+      "name": "Warning",
+      "value": "Pasteurised reduced fat (contains 26% less fat than a 3.4g fat per 100mL flavoured milk) chocolate flavoured milk."
+    },
+    {
+      "name": "Size",
+      "value": "500mL"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$5.00 per 1L"
+    }
+  ],
+  "brand": "Dairy Farmers",
+  "createdAt": "2020-11-15T09:20:33.582Z",
+  "description": "Dairy Farmers Chocolate Flavoured Milk",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/7/6/3762720.jpg",
+    "width": 300
+  },
+  "name": "Chocolate Flavoured Milk",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2.5,
+    "lowPrice": 2.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T09:20:33.582Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "2.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/dairy-farmers-nas-chocolate-flavoured-milk"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/dairy-farmers-nas-chocolate-flavoured-milk"
+  ],
+  "sku": "3762720",
+  "updatedAt": "2020-11-15T09:20:33.582Z"
+}

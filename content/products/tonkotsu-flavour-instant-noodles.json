@@ -1,0 +1,56 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "100g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.90 per 100G"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Made in Hong Kong from Imported ingredients"
+    }
+  ],
+  "brand": "Nissin",
+  "createdAt": "2020-11-15T08:52:20.962Z",
+  "description": "Nissin Tonkotsu Flavour Instant Noodles",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/8/7/1/8714703.jpg",
+    "width": 300
+  },
+  "name": "Tonkotsu Flavour Instant Noodles",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 0.9,
+    "lowPrice": 0.9,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T08:52:20.961Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "0.90",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/nissin-noodles-tonkotsu"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/sunnybank-hills/product/nissin-noodles-tonkotsu"
+  ],
+  "sku": "8714703",
+  "updatedAt": "2020-11-15T08:52:20.961Z"
+}

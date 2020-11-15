@@ -1,0 +1,60 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Medium Grain Wholegrain Brown Rice."
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "28.6"
+    },
+    {
+      "name": "Size",
+      "value": "2kg"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.33 per 100G"
+    }
+  ],
+  "brand": "Sunrice",
+  "createdAt": "2020-11-15T11:12:15.036Z",
+  "description": "Sunrice Medium Grain Brown Rice",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/9/5/295414.jpg",
+    "width": 300
+  },
+  "name": "Medium Grain Brown Rice",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 6.5,
+    "lowPrice": 6.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T11:12:15.036Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "6.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/sunrice-rice-medium-grain-brown"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/sunrice-rice-medium-grain-brown"
+  ],
+  "sku": "295414",
+  "updatedAt": "2020-11-15T11:12:15.036Z"
+}

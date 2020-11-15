@@ -1,0 +1,68 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "INGREDIENTS: Wheat Flour, Milk Chocolate (33%) (Sugar, Cocoa Butter, Milk Powder (16%), Whey Powder, Cocoa Mass (11.5%), Emulsifier (322 (Soy))), Glucose-fructose Syrup (Wheat), Sugar, Caramelised Sugar Syrup, Spices (Cinnamon, Ginger (25%), Anise, Coriander, Cloves, Allspice, Star Anise) Raising Agents (450, Sodium Carbonates, 501, Ammonium Carbonates), Salt."
+    },
+    {
+      "name": "Allergen",
+      "value": "May Contain TREE NUTS, May Contain EGG, May Contain PEANUTS, Contains SOY, Contains CEREALS CONTAINING GLUTEN, Contains MILK, May Contain SESAME"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "16.0"
+    },
+    {
+      "name": "Size",
+      "value": "400g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.00 per 100G"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Made in Germany"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2020-11-15T04:49:14.595Z",
+  "description": "Soft gingerbread biscuits covered in milk chocolate.",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/5/2/3526579.jpg",
+    "width": 300
+  },
+  "name": "Festive Gingerbread Shapes",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 4,
+    "lowPrice": 4,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T04:49:14.595Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "4.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-festive-gingerbread-shapes"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/coles-festive-gingerbread-shapes"
+  ],
+  "sku": "3526579",
+  "updatedAt": "2020-11-15T04:49:14.595Z"
+}

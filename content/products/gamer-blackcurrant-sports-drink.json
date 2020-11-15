@@ -1,0 +1,48 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Country Of Origin",
+      "value": "Manufactured in New Zealand or Australia from local and imported ingredients."
+    }
+  ],
+  "brand": "Maximus",
+  "createdAt": "2020-11-15T07:15:07.108Z",
+  "description": "Maximus Gamer Blackcurrant Sports Drink",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/8/0/3805437.jpg",
+    "width": 300
+  },
+  "name": "Gamer Blackcurrant Sports Drink",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2.15,
+    "lowPrice": 2.15,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T07:15:07.108Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "2.15",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/maximus-gamer-blackcurrant-sports-drink"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/maximus-gamer-blackcurrant-sports-drink"
+  ],
+  "sku": "3805437",
+  "updatedAt": "2020-11-15T07:15:07.108Z"
+}

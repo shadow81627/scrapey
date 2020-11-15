@@ -1,0 +1,52 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "10 pack"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.21 per 1Ea"
+    }
+  ],
+  "brand": "Libra",
+  "createdAt": "2020-11-15T08:59:05.115Z",
+  "description": "Libra Goodnights Extra Long with Wings Pads",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/5/3/5531401.jpg",
+    "width": 300
+  },
+  "name": "Goodnights Extra Long with Wings Pads",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2.1,
+    "lowPrice": 2.1,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T08:59:05.114Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "2.10",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/libra-pads-goodnights-extra-long-with-wings"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/libra-pads-goodnights-extra-long-with-wings"
+  ],
+  "sku": "5531401",
+  "updatedAt": "2020-11-15T08:59:05.114Z"
+}

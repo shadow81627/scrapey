@@ -1,0 +1,56 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "100g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$4.75 per 100G"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Made in Republic of Korea"
+    }
+  ],
+  "brand": "Nescafe",
+  "createdAt": "2020-11-15T05:09:02.041Z",
+  "description": "Our signature smooth, premium coffee with a well-rounded taste & rich aroma",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/8/0/4/8049750.jpg",
+    "width": 300
+  },
+  "name": "Gold Original Premium Instant Coffee",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 4.75,
+    "lowPrice": 4.75,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T05:09:02.040Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "4.75",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/nescafe-gold-blend-coffee-original-8049750p"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/richmond-south/product/nescafe-gold-blend-coffee-original-8049750p"
+  ],
+  "sku": "8049750",
+  "updatedAt": "2020-11-15T05:09:02.040Z"
+}

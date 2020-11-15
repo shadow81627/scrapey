@@ -1,0 +1,56 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Lactic Acid, Fragrance, Cocamide MEA, Poloxamer 124, Sodium Salicylate, Sodium Benzoate, Citric acid, Glycerin, Tetrasodium EDTA, Benzophenone-4, Citrus Aurantifolia (Lime) Juice, Mentha Piperita (Peppermint) Leaf Extract, CI 47005, CI 42090."
+    },
+    {
+      "name": "Size",
+      "value": "250mL"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.40 per 100mL"
+    }
+  ],
+  "brand": "Palmolive",
+  "createdAt": "2020-11-15T11:54:43.010Z",
+  "description": "Palmolive Anti-Bacterial Foaming Lime & Mint Hand Wash",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/9/2/1/9216359.jpg",
+    "width": 300
+  },
+  "name": "AntiBacterial Foaming Lime & Mint Hand Wash",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3.5,
+    "lowPrice": 3.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T11:54:43.010Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "3.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/palmolive-antibacterial-foaming-lime-mint"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/palmolive-antibacterial-foaming-lime-mint"
+  ],
+  "sku": "9216359",
+  "updatedAt": "2020-11-15T11:54:43.010Z"
+}

@@ -1,0 +1,56 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "1L"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$2.15 per 1L"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "MADE IN NEW ZEALAND OR AUSTRALIA FROM LOCAL AND IMPORTED INGREDIENTS"
+    }
+  ],
+  "brand": "Maximus",
+  "createdAt": "2020-11-15T08:41:08.955Z",
+  "description": "Maximus Grape Sports Drink 1L",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/0/4/3049447.jpg",
+    "width": 300
+  },
+  "name": "Grape Sports Drink 1L",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2.15,
+    "lowPrice": 2.15,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T08:41:08.954Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "2.15",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/maximus-sports-drink"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/maximus-sports-drink"
+  ],
+  "sku": "3049447",
+  "updatedAt": "2020-11-15T08:41:08.954Z"
+}

@@ -1,0 +1,64 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Contains",
+      "value": "Milk and Hazelnuts. Milk chocolate contains minimum 20% cocoa solids and 14% milk solids. Dark chocolate contains minimum 20% cocoa solids."
+    },
+    {
+      "name": "Allergen",
+      "value": "Contains Hazelnuts, May Be Present Peanuts, May Be Present Tree Nuts, Contains Milk"
+    },
+    {
+      "name": "Size",
+      "value": "726g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.99 per 100G"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Made in Uk"
+    }
+  ],
+  "brand": "Nestle",
+  "createdAt": "2020-11-15T08:44:58.040Z",
+  "description": "Nestle Quality Street Chocolate Tub",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/5/1/3518796.jpg",
+    "width": 300
+  },
+  "name": "Quality Street Chocolate Tub",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 12.5,
+    "lowPrice": 12.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T08:44:58.039Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "12.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/quality-street-tub"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/quality-street-tub"
+  ],
+  "sku": "3518796",
+  "updatedAt": "2020-11-15T08:44:58.039Z"
+}

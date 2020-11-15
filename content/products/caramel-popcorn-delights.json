@@ -1,0 +1,56 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "142g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.97 per 100G"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Product of Mixed Origin"
+    }
+  ],
+  "brand": "Jonny's",
+  "createdAt": "2020-11-15T11:46:16.099Z",
+  "description": "Jonny's Caramel Popcorn Delights",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/5/3/3531546.jpg",
+    "width": 300
+  },
+  "name": "Caramel Popcorn Delights",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2.8,
+    "lowPrice": 2.8,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T11:46:16.098Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "2.80",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/jonnys-popcorn-delights-caramel-3531546p"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/sunnybank-hills/product/jonnys-popcorn-delights-caramel-3531546p"
+  ],
+  "sku": "3531546",
+  "updatedAt": "2020-11-15T11:46:16.098Z"
+}

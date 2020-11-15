@@ -1,0 +1,64 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Skimmed Milk, Milk Solids, Cream, Thickener (From Tapioca and Maize) (1442), Starter Culture."
+    },
+    {
+      "name": "Allergen",
+      "value": "Contains MILK"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "10.0"
+    },
+    {
+      "name": "Size",
+      "value": "1kg"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.39 per 100G"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2020-11-15T09:25:16.069Z",
+  "description": "78% Reduced Fat(Dagger Symbol). Claim in on FOP (2 faces) and lid.",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/2/7/2273489.jpg",
+    "width": 300
+  },
+  "name": "Light Greek Style Yoghurt",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3.9,
+    "lowPrice": 3.9,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T09:25:16.068Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "3.90",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-light-greek-style-yoghurt"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/coles-light-greek-style-yoghurt"
+  ],
+  "sku": "2273489",
+  "updatedAt": "2020-11-15T09:25:16.068Z"
+}

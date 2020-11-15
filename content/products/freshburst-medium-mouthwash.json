@@ -1,0 +1,60 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Water, Alcohol, Sorbitol, Poloxamer 407, Benzoic Acid, Sodium Saccharin, Eucalyptol, Flavour, Thymol, Methyl Salicylate, Menthol, Sodium Benzoate, CI 47005 (Quinoline Yellow), CI 42053 (Green 3)."
+    },
+    {
+      "name": "Warning",
+      "value": "Do not use if you are allergic to any of the ingredients.- Keep out of reach of children.- If an excessive amount is accidentally swallowed or in the event of an adverse reaction, stop use and seek medical attention immediately., Do not use if cap seal is broken or missing. If symptoms persist, see your doctor or dentist. Not recommended for children under 12 years. KEEP OUT OF REACH OF CHILDREN."
+    },
+    {
+      "name": "Size",
+      "value": "500mL"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.05 per 100mL"
+    }
+  ],
+  "brand": "Listerine",
+  "createdAt": "2020-11-15T11:53:01.802Z",
+  "description": "Listerine Freshburst Medium Mouthwash",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/7/9/4/7945303.jpg",
+    "width": 300
+  },
+  "name": "Freshburst Medium Mouthwash",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 5.25,
+    "lowPrice": 5.25,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T11:53:01.802Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "5.25",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/listerine-medium-mouthwash-freshburst"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/listerine-medium-mouthwash-freshburst"
+  ],
+  "sku": "7945303",
+  "updatedAt": "2020-11-15T11:53:01.802Z"
+}

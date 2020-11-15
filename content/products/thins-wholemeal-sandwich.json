@@ -1,0 +1,52 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "240g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.46 per 100G"
+    }
+  ],
+  "brand": "Tip Top",
+  "createdAt": "2020-11-15T11:26:07.640Z",
+  "description": "Tip Top Thins Wholemeal Sandwich",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/9/1/2917060.jpg",
+    "width": 300
+  },
+  "name": "Thins Wholemeal Sandwich",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3.5,
+    "lowPrice": 3.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T11:26:07.640Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "3.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/tip-top-sandwich-thins-wholemeal"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/sunnybank-hills/product/tip-top-sandwich-thins-wholemeal"
+  ],
+  "sku": "2917060",
+  "updatedAt": "2020-11-15T11:26:07.640Z"
+}

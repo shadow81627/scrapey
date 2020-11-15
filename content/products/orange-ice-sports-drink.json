@@ -1,0 +1,56 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "1L"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$2.50 per 1L"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "MADE IN AUSTRALIA FROM LOCAL AND IMPORTED INGREDIENTS"
+    }
+  ],
+  "brand": "Gatorade",
+  "createdAt": "2020-11-15T08:28:45.120Z",
+  "description": "Gatorade Orange Ice Sports Drink",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/4/8/2484939.jpg",
+    "width": 300
+  },
+  "name": "Orange Ice Sports Drink",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2.5,
+    "lowPrice": 2.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T08:28:45.117Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "2.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/gatorade-orange-ice-sports-drink"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/gatorade-orange-ice-sports-drink?adId=display_3LDaAf4_2XRqZ5IyZUvU9vKlvNcyNDg0OTI4UA%3D%3D"
+  ],
+  "sku": "2484939",
+  "updatedAt": "2020-11-15T08:28:45.117Z"
+}

@@ -1,0 +1,52 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "2 pack"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.88 per 1Ea"
+    }
+  ],
+  "brand": "Viva",
+  "createdAt": "2020-11-15T07:03:42.534Z",
+  "description": "Viva Paper Towel White Select A Size",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/8/2/3823596.jpg",
+    "width": 300
+  },
+  "name": "Paper Towel White Select A Size",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 1.75,
+    "lowPrice": 1.75,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T07:03:42.534Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "1.75",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/viva-paper-towel-white-select-a-size"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/richmond-south/product/viva-paper-towel-white-select-a-size"
+  ],
+  "sku": "3823596",
+  "updatedAt": "2020-11-15T07:03:42.534Z"
+}

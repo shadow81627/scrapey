@@ -1,0 +1,60 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "INGREDIENTS: Chocolate Sponge [Wheat Flour, Water, Sugar, Humectants (422 from Palm**, 420, 1520), Egg Powder, Glucose Syrup, Cocoa Powder (3.0%), Milk Solids, Raising Agents (Sodium Carbonates, 450, 341), Salt, Emulsifiers (322 (Soy), (471, 475, 481 from Palm**) 452), Wheat Starch, Preservative (Potassium Sorbate), Thickeners (412, 415), Natural Colours (Barley Malt Extract, Caramel 1), Acidity Regulators (570, 330)], Chocolate Flavoured Creme (26%) [Sugar, Vegetable Shortening (Palm Oil**, Soybean Oil, Emulsifiers (471, 435), Antioxidant (307b)), Water, Glucose Syrup, Cocoa Powder (3.5%), Starches (Wheat, Tapioca, Maize), Thickeners (1442, 1422), Preservatives (Potassium Sorbate, Sulphur Dioxide)]"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "6.0"
+    },
+    {
+      "name": "Size",
+      "value": "250g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.00 per 100G"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2020-11-15T11:23:07.178Z",
+  "description": "Coles Chocolate Mini Rolls 6 pack",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/0/5/5057683.jpg",
+    "width": 300
+  },
+  "name": "Chocolate Mini Rolls 6 pack",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2.5,
+    "lowPrice": 2.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T11:23:07.177Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "2.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-bakery-sponge-roll-mini-chocolate"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/coles-bakery-sponge-roll-mini-chocolate"
+  ],
+  "sku": "5057683",
+  "updatedAt": "2020-11-15T11:23:07.178Z"
+}

@@ -1,0 +1,60 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Wheat Flour, Water, Pineapple (13%) (Pineapple, Water, Sugar), Mozzarella Cheese (12%) (Milk, Salt, Non Animal Rennet, Starter Culture), Manufactured Ham (11%) (Pork, Water, Potato Starch, Salt, Soy Protein, Pork Protein, Mineral Salts (450, 451, 508), Thickener (407a), Antioxidant (316), Hydrolysed Vegetable Protein, Fermented Rice, Preservative (250)), Thickeners (1422, 1412, 1442), Milk Solids, Sugar, Salt, Emulsifier (471), Canola Oil, Tomato Paste, Yeast, Vegetable Shortening, Vegetable Powders (Wheat), Herbs, Spices, Emulsifier (322 (Soy))."
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "4.0"
+    },
+    {
+      "name": "Size",
+      "value": "400g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.38 per 100G"
+    }
+  ],
+  "brand": "McCain",
+  "createdAt": "2020-11-15T11:28:07.654Z",
+  "description": "A traditional round crust filled with mozzarella cheese, ham and juicy pineapple",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/8/5/3854658.jpg",
+    "width": 300
+  },
+  "name": "Pizza Pockets Hawaiian",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 5.5,
+    "lowPrice": 5.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T11:28:07.653Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "5.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/mccain-pizza-pockets-hawaian"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/mccain-pizza-pockets-hawaian"
+  ],
+  "sku": "3854658",
+  "updatedAt": "2020-11-15T11:28:07.653Z"
+}

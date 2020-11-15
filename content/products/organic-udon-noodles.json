@@ -1,0 +1,52 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "270g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.37 per 100G"
+    }
+  ],
+  "brand": "Hakubaku",
+  "createdAt": "2020-11-15T08:25:23.526Z",
+  "description": "Hakubaku Organic Udon Noodles",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/9/4/3/9434677.jpg",
+    "width": 300
+  },
+  "name": "Organic Udon Noodles",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3.7,
+    "lowPrice": 3.7,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T08:25:23.525Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "3.70",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/hakubaku-noodles-udon-organic"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/sunnybank-hills/product/hakubaku-noodles-udon-organic"
+  ],
+  "sku": "9434677",
+  "updatedAt": "2020-11-15T08:25:23.525Z"
+}

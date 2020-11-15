@@ -1,0 +1,56 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Water, Stearyl Alcohol, Stearamidopropyl Dimethylamine, Cetyl Alcohol, Glutamic Acid, Fragrance, Benzyl Alcohol, Citric Acid, Disodium EDTA, Panthenol, Panthenyl Ethyl Ether, Histidine, Propylene Glycol, Rosa Gallica Flower Extract, Methylchloroisothiazolinone, Methylisothiazolinone"
+    },
+    {
+      "name": "Size",
+      "value": "530mL"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.70 per 100mL"
+    }
+  ],
+  "brand": "Pantene",
+  "createdAt": "2020-11-15T11:25:07.618Z",
+  "description": "Pantene Micellar Rose Water Conditioner",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/7/2/3724186.jpg",
+    "width": 300
+  },
+  "name": "Micellar Rose Water Conditioner",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 9,
+    "lowPrice": 9,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T11:25:07.617Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "9.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/pantene-micellar-rose-water-conditioner"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/pantene-micellar-rose-water-conditioner"
+  ],
+  "sku": "3724186",
+  "updatedAt": "2020-11-15T11:25:07.617Z"
+}

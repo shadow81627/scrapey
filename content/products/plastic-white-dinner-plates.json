@@ -1,0 +1,56 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "20 pack"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.15 per 1Ea"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Made in China"
+    }
+  ],
+  "brand": "Cook & Dine",
+  "createdAt": "2020-11-15T10:46:14.492Z",
+  "description": "Cook & Dine Plastic White Dinner Plates",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/3/7/2371466.jpg",
+    "width": 300
+  },
+  "name": "Plastic White Dinner Plates",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3,
+    "lowPrice": 3,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T10:46:14.492Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "3.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/cook-dine-plastic-white-dinner-plates"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/cook-dine-plastic-white-dinner-plates"
+  ],
+  "sku": "2371466",
+  "updatedAt": "2020-11-15T10:46:14.492Z"
+}

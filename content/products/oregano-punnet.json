@@ -1,0 +1,52 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "10g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$3.00 per 10G"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2020-11-15T08:08:41.551Z",
+  "description": "Coles Oregano Punnet",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/2/1/3215091.jpg",
+    "width": 300
+  },
+  "name": "Oregano Punnet",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3,
+    "lowPrice": 3,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T08:08:41.550Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "3.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/cs-coles-oregano-punnet"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/sunnybank-hills/product/cs-coles-oregano-punnet"
+  ],
+  "sku": "3215091",
+  "updatedAt": "2020-11-15T08:08:41.550Z"
+}

@@ -1,0 +1,56 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Water, Stearyl Alcohol, Stearamidopropyl Dimethylamine, Cetyl Alcohol, Bis-Aminopropyl Dimethicone, Fragrance, Glutamic Acid, Benzyl Alcohol, Citric Acid, Disodium EDTA, Histidine, Panthenol, Panthenyl Ethyl Ether, Methylchloroisothiazolinone, Methylisothiazolinone."
+    },
+    {
+      "name": "Size",
+      "value": "400mL"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.69 per 100mL"
+    }
+  ],
+  "brand": "Pantene",
+  "createdAt": "2020-11-15T11:06:09.986Z",
+  "description": "Pantene 3mm Colour Protect Conditioner",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/1/5/3156833.jpg",
+    "width": 300
+  },
+  "name": "3mm Colour Protect Conditioner",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 6.75,
+    "lowPrice": 6.75,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T11:06:09.986Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "6.75",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/pantene-3mm-conditioner-colour-protect"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/pantene-3mm-conditioner-colour-protect"
+  ],
+  "sku": "3156833",
+  "updatedAt": "2020-11-15T11:06:09.986Z"
+}

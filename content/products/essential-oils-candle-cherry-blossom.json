@@ -1,0 +1,56 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Warning",
+      "value": "Safety directions are inward facing. Please read safety directions before use."
+    },
+    {
+      "name": "Size",
+      "value": "1 pack"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$6.00 per 1Ea"
+    }
+  ],
+  "brand": "Air Wick",
+  "createdAt": "2020-11-15T11:21:26.291Z",
+  "description": "Air Wick Essential Oils Candle Cherry Blossom",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/4/1/3413448.jpg",
+    "width": 300
+  },
+  "name": "Essential Oils Candle Cherry Blossom",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 6,
+    "lowPrice": 6,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T11:21:26.290Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "6.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/air-wick-essential-oils-candle-cherry-blossom"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/air-wick-essential-oils-candle-cherry-blossom"
+  ],
+  "sku": "3413448",
+  "updatedAt": "2020-11-15T11:21:26.290Z"
+}

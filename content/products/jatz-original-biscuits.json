@@ -1,0 +1,72 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Contains",
+      "value": "Soy and Gluten containing Cereals (Barley & Wheat)."
+    },
+    {
+      "name": "Allergen",
+      "value": "Contains Cereals Containing Gluten, May Be Present Egg, May Be Present Peanuts, Contains Barley, May Be Present Tree Nuts, May Be Present Sesame, Contains Soy, May Be Present Milk, Contains Wheat"
+    },
+    {
+      "name": "Dietary",
+      "value": "No Artificial Flavours or Colours"
+    },
+    {
+      "name": "Warning",
+      "value": "Do not purchase if carton is open or torn."
+    },
+    {
+      "name": "Size",
+      "value": "225g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.11 per 100G"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Made in Australia"
+    }
+  ],
+  "brand": "Arnott's",
+  "createdAt": "2020-11-15T10:04:14.769Z",
+  "description": "Arnott's Jatz Original Biscuits is baked not fried. It contains no artificial colours or flavours and no added MSG. Foil packed for freshness.",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/8/6/4/8646782.jpg",
+    "width": 300
+  },
+  "name": "Jatz Original Biscuits",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2.5,
+    "lowPrice": 2.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T10:04:14.768Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "2.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/arnotts-crackers-jatz-original"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/sunnybank-hills/product/arnotts-crackers-jatz-original"
+  ],
+  "sku": "8646782",
+  "updatedAt": "2020-11-15T10:04:14.768Z"
+}

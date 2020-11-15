@@ -1,0 +1,68 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Carbonated Water, Colour (150D), Food Acids (338, 330), Sweeteners (951,950), Flavour, Caffeine."
+    },
+    {
+      "name": "Dietary",
+      "value": "No Added Sugars"
+    },
+    {
+      "name": "Warning",
+      "value": "Contains Caffeine;Contains phenylalanine"
+    },
+    {
+      "name": "Size",
+      "value": "1.25L"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.20 per 1L"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Made in Australia from imported and local ingredients"
+    }
+  ],
+  "brand": "Coca-Cola",
+  "createdAt": "2020-11-15T08:19:21.630Z",
+  "description": "Coca-Cola Diet Coke Soft Drink",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/4/1/9/419211.jpg",
+    "width": 300
+  },
+  "name": "Diet Coke Soft Drink",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 1.5,
+    "lowPrice": 1.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T08:19:21.629Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "1.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/cca-coca-cola-diet-125l-soft-drink-diet-coke"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/richmond-south/product/cca-coca-cola-diet-125l-soft-drink-diet-coke"
+  ],
+  "sku": "419211",
+  "updatedAt": "2020-11-15T08:19:21.629Z"
+}

@@ -1,0 +1,64 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Wheat Flour, Water, Mixed Grains (14%) (Kibbled Wheat, Kibbled Rye, Malted Wheat Flakes, Oats, Kibbled Maize, Kibbled Triticale), Linseed, Yeast, Iodised Salt, Vinegar, Wheat Gluten, Vegetable Oil, Soy Flour, Vegetable Emulsifiers (481, 472e), Mineral Salt (Calcium Carbonate), Vitamins (Thiamin, Folic Acid)."
+    },
+    {
+      "name": "Allergen",
+      "value": "Contains Gluten"
+    },
+    {
+      "name": "Dietary",
+      "value": "Source of Dietary Fibre"
+    },
+    {
+      "name": "Size",
+      "value": "850g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.46 per 100G"
+    }
+  ],
+  "brand": "Helga's",
+  "createdAt": "2020-11-15T11:25:47.624Z",
+  "description": "Helga's Mixed Grain Bread",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/6/7/1/6711227.jpg",
+    "width": 300
+  },
+  "name": "Mixed Grain Bread",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3.9,
+    "lowPrice": 3.9,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T11:25:47.624Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "3.90",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/helgas-bread-continental-bakehouse-mixed-grain"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/helgas-bread-continental-bakehouse-mixed-grain"
+  ],
+  "sku": "6711227",
+  "updatedAt": "2020-11-15T11:25:47.624Z"
+}

@@ -1,0 +1,56 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "490mL"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.71 per 100mL"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Product of Australia"
+    }
+  ],
+  "brand": "Peters",
+  "createdAt": "2020-11-15T08:52:01.014Z",
+  "description": "Peters Drumstick Minis Classic Vanilla Ice Cream Cones 6 pack",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/8/6/5863445.jpg",
+    "width": 300
+  },
+  "name": "Drumstick Minis Classic Vanilla Ice Cream Cones 6 pack",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 8.4,
+    "lowPrice": 8.4,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T08:52:01.014Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "8.40",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/nestle-peters-drumstick-ice-cream-vanilla-minis-6-pack"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/sunnybank-hills/product/nestle-peters-drumstick-ice-cream-vanilla-minis-6-pack"
+  ],
+  "sku": "5863445",
+  "updatedAt": "2020-11-15T08:52:01.014Z"
+}

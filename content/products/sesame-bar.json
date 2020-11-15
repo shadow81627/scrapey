@@ -1,0 +1,76 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Wheat Glucose Syrup, Sesame Seeds, Sweetened Condensed Milk, Rice Crisps (Rice Flour, Corn Flavour, Sugar, Vegetable Oil, Stabiliser (170), Salt), Honey, Malt Extract (From Barley), Vegetable Fat, Emulsifiers (Soy Lecithin, 471), Salt, Flavours."
+    },
+    {
+      "name": "Contains",
+      "value": "Wheat Glucose Syrup, Sesame, Milk, Barley and Soy. Caramel (63%), Sesame Seeds (29%)."
+    },
+    {
+      "name": "Allergen",
+      "value": "May Be Present Oats, Contains Sesame, May Be Present Peanuts, Contains Barley, May Be Present Tree Nuts, Contains Milk, Contains Soy, Contains Sesame Seeds, Contains Wheat"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "1.0"
+    },
+    {
+      "name": "Warning",
+      "value": "Contains wheat glucose syrup, sesame, milk, barley and soy. May contain traces of wheat, oats, peanuts and tree nuts."
+    },
+    {
+      "name": "Size",
+      "value": "45g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$2.22 per 100G"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Made in Australia from Local and Imported Ingredients"
+    }
+  ],
+  "brand": "Europe",
+  "createdAt": "2020-11-15T05:09:42.120Z",
+  "description": "Europe Sesame Bar is made with lightly toasted sesame seeds combined with delicious caramel. Perfect for a morning or afternoon treat.",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/6/7/8/67883.jpg",
+    "width": 300
+  },
+  "name": "Sesame Bar",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 1,
+    "lowPrice": 1,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T05:09:42.119Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "1.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/europe-bars-sesame-bar"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/richmond-south/product/europe-bars-sesame-bar"
+  ],
+  "sku": "67883",
+  "updatedAt": "2020-11-15T05:09:42.119Z"
+}

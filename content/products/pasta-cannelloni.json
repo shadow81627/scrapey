@@ -1,0 +1,76 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Durum wheat semolina."
+    },
+    {
+      "name": "Contains",
+      "value": "Wheat"
+    },
+    {
+      "name": "Allergen",
+      "value": "May Be Present Egg, May Be Present Soy, Contains Wheat"
+    },
+    {
+      "name": "Dietary",
+      "value": "No Preservatives"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "5.0"
+    },
+    {
+      "name": "Size",
+      "value": "200g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.00 per 100G"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Produced in Italy"
+    }
+  ],
+  "brand": "San Remo",
+  "createdAt": "2020-11-15T08:51:20.581Z",
+  "description": "San Remo Cannelloni tubes are oven ready and so simple to fill and bake. Perfect with meat, vegetable, cheese and seafood fillings, they're sure to delight the whole family. Try our simple meal idea to make delicious and authentic baked Cannelloni.",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/6/8/5686543.jpg",
+    "width": 300
+  },
+  "name": "Pasta Cannelloni",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2.5,
+    "lowPrice": 2.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T08:51:20.580Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "2.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/san-remo-pasta-cannelloni"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/san-remo-pasta-cannelloni"
+  ],
+  "sku": "5686543",
+  "updatedAt": "2020-11-15T08:51:20.581Z"
+}

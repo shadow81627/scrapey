@@ -1,0 +1,72 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Sugar, Roasted Peanuts, Glucose Syrup (Sources Include Wheat), Milk Solids, Cocoa Mass, Vegetable Fat, Cocoa Butter, Salt, Emulsifier (Soy Lecithin), Egg White, Natural Flavour (Vanilla Extract)."
+    },
+    {
+      "name": "Contains",
+      "value": "Milk Chocolate 35% and Roasted Peanuts 22%. Milk Chocolate contains a minimum of 25% Cocoa Solids and 20% Milk Solids."
+    },
+    {
+      "name": "Allergen",
+      "value": "Contains Peanuts, May Be Present Tree Nuts, Contains Milk, Contains Soy, Contains Egg, Contains Wheat"
+    },
+    {
+      "name": "Warning",
+      "value": "Contains wheat, milk, peanuts, soy and egg. May contain tree nuts."
+    },
+    {
+      "name": "Size",
+      "value": "50g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$2.00 per 100G"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Made in China"
+    }
+  ],
+  "brand": "Snickers",
+  "createdAt": "2020-11-15T04:53:57.607Z",
+  "description": "Snickers Chocolate Bar",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/4/5/245868.jpg",
+    "width": 300
+  },
+  "name": "Chocolate Bar",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 1,
+    "lowPrice": 1,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T04:53:57.606Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "1.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/snickers-chocolate-bar"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/richmond-south/product/snickers-chocolate-bar"
+  ],
+  "sku": "245868",
+  "updatedAt": "2020-11-15T04:53:57.606Z"
+}

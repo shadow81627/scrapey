@@ -1,0 +1,60 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": " Chocolate Sponge (78.5%) [Sugar, Egg, Palm Oil**, Rice Flour, Maize Starch, Humectant (422, 420, 1520), Modified Tapioca Starch (1442), Cocoa Powder (3%), Inverted Sugar Syrup, Water, Whole Milk Powder (Whole Milk, Skimmed Milk Powder, Lactose), Soy Flour, Thickener (412, 464), Natural Vanilla Flavouring, Preservative (Potassium Sorbate), Emulsifier (471, 477, 475), Iodised Salt, Raising Agent (Sodium Carbonate, 450), Antioxidant (307), Acidity Regulator (570)], Chocolate Ganache (21%) [Milk Chocolate Compound (59%) (Sugar, Palm Oil**, Milk Solids, Cocoa Powder, Emulsifier (322, 476), Natural Flavouring), Cream (Milk), Sunflower Oil, Preservative (Potassium Sorbate), Iodised Salt]."
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "15.0"
+    },
+    {
+      "name": "Size",
+      "value": "1.2kg"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$10.00 per 1Kg"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2020-11-15T11:35:11.888Z",
+  "description": "Light and fluffy Chocolate Sponge topped with a silky milk chocolate ganache Decorate at home or serve as is",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/2/0/3207581.jpg",
+    "width": 300
+  },
+  "name": "Chocolate Celebration Cake",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 12,
+    "lowPrice": 12,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T11:35:11.888Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "12.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-chocolate-slab-cake-12kg"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/coles-chocolate-slab-cake-12kg"
+  ],
+  "sku": "3207581",
+  "updatedAt": "2020-11-15T11:35:11.888Z"
+}

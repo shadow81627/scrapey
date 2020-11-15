@@ -1,0 +1,56 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "425g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.47 per 100G"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Product of China"
+    }
+  ],
+  "brand": "Chef's World",
+  "createdAt": "2020-11-15T09:58:12.578Z",
+  "description": "Chef's World Straw Mushrooms Medium",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/6/5/9/6592762.jpg",
+    "width": 300
+  },
+  "name": "Straw Mushrooms Medium",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2,
+    "lowPrice": 2,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T09:58:12.577Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "2.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/chefs-world-mushrooms-straw-medium-6592762p"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/sunnybank-hills/product/chefs-world-mushrooms-straw-medium-6592762p"
+  ],
+  "sku": "6592762",
+  "updatedAt": "2020-11-15T09:58:12.577Z"
+}

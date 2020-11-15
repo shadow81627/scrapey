@@ -1,0 +1,68 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "INGREDIENTS: WATER, SUGAR, GLUCOSE SYRUP (SOURCES INCLUDE WHEAT), MILK SOLIDS, ROASTED PEANUTS, VEGETABLE OIL, CREAM 6%, COCOA BUTTER, COCOA MASS, EMULSIFIERS (SOY LECITHIN, 477, 471), COCOA POWDER, STABILISERS (412, 410), SALT, THICKENER (407), NATURAL FLAVOURS."
+    },
+    {
+      "name": "Contains",
+      "value": "SNICKERS SMOOTH AND CREAMY CONTAINS A CREAMY CENTRE 44%, MILK CHOC COATING 27%, CARAMEL16% AND PEANUTS 12% 6 x 53ml"
+    },
+    {
+      "name": "Allergen",
+      "value": "Contains Peanuts, May Be Present Tree Nuts, Contains Milk, Contains Soy, Contains Egg, Contains Wheat"
+    },
+    {
+      "name": "Size",
+      "value": "318mL"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$2.67 per 100mL"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "France"
+    }
+  ],
+  "brand": "Snickers",
+  "createdAt": "2020-11-15T10:31:54.431Z",
+  "description": "Snickers Ice Bar 6 pack",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/9/9/7/9979394.jpg",
+    "width": 300
+  },
+  "name": "Ice Bar 6 pack",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 8.5,
+    "lowPrice": 8.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T10:31:54.428Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "8.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/snickers-bars-ice-cream"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/sunnybank-hills/product/snickers-bars-ice-cream"
+  ],
+  "sku": "9979394",
+  "updatedAt": "2020-11-15T10:31:54.428Z"
+}

@@ -1,0 +1,64 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Chocolate Cup Cake [Water, Flour (Wheat), Sugar, Canola Oil, Dark Compound Chocolate (8%) (Sugar, Cocoa Powder, Palm Kernel Oil**, Coconut Oil, Emulsifier (322), Salt, Natural Flavouring), Greek Style Yoghurt (Milk, Milk Solids, Starter Culture), Cocoa Powder (6%), Humectant (422), Egg Powder, Raising Agent (450, Sodium Carbonates), Salt, Stabiliser (415), Preservative (Potassium Sorbate), Natural Vanilla Flavouring], Chocolate Icing (34%) [Icing Sugar (Sugar, Tapioca Starch), Vegetable Shortening (Palm Fat**, Coconut Oil, Canola Oil, Emulsifier (435, 471), Antioxidant (307b), Natural Flavouring), Water, Cocoa Powder (4.5%), Neufchatel Cheese (Milk, Cream, Milk Solids, Salt, Stabiliser (410), Starter Culture), Unsalted Butter (Cream), Glucose syrup, Salt, Preservative (Potassium Sorbate)]."
+    },
+    {
+      "name": "Allergen",
+      "value": "Contains EGG, May Contain TREE NUTS, May Contain SULPHITES, Contains SOY, Contains CEREALS CONTAINING GLUTEN, Contains MILK"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "4.0"
+    },
+    {
+      "name": "Size",
+      "value": "288g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.39 per 100G"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2020-11-15T08:14:41.031Z",
+  "description": "Indulgent chocolate cake with rich smooth choc icing",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/7/5/3757028.jpg",
+    "width": 300
+  },
+  "name": "Chocolate Cupcakes 4 pack",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 4,
+    "lowPrice": 4,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T08:14:41.030Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "4.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-cupcakes-chocolate-4pk"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/sunnybank-hills/product/coles-cupcakes-chocolate-4pk"
+  ],
+  "sku": "3757028",
+  "updatedAt": "2020-11-15T08:14:41.030Z"
+}

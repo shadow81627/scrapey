@@ -1,0 +1,68 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Fresh Cream (31%), Condensed Skimmed Milk, Sugar, Mango Puree (12%), Rasberry Puree (5%), Egg Yolk, Blackberry Puree, Concentrated Orange Juice, Concentrated Lemon Juice, Gelling Agent (Pectin), Natural Flavours, Ice Cream contains 14% Milk Fat"
+    },
+    {
+      "name": "Allergen",
+      "value": "Contains Milk, Contains Egg"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "5.0"
+    },
+    {
+      "name": "Size",
+      "value": "457mL"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.26 per 100mL"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Made in France"
+    }
+  ],
+  "brand": "Haagen-Dazs",
+  "createdAt": "2020-11-15T05:37:00.220Z",
+  "description": "Haagen-Dazs Mango & Raspberry Ice Cream Tub",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/1/2/3125080.jpg",
+    "width": 300
+  },
+  "name": "Mango & Raspberry Ice Cream Tub",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 5.75,
+    "lowPrice": 5.75,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T05:37:00.219Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "5.75",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/hagen-dazs-ice-cream-mango-raspberry"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/sunnybank-hills/product/hagen-dazs-ice-cream-mango-raspberry"
+  ],
+  "sku": "3125080",
+  "updatedAt": "2020-11-15T05:37:00.219Z"
+}

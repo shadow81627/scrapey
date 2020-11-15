@@ -1,0 +1,60 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "INGREDIENTS: Australian Sow Stall Free Pork (90%), Acidity Regulators (326, 262), Water, Salt, Sugar, Cure [Mineral Salts (451, 450), Dextrose (Maize), Antioxidant (316), Sugar, Preservative (250)]."
+    },
+    {
+      "name": "Allergen",
+      "value": "May Contain SOY"
+    },
+    {
+      "name": "Size",
+      "value": "approx. 2.5kg"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$11.00 per 1Kg"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2020-11-15T07:48:07.684Z",
+  "description": "Indicated price based on approx. weight. Weight may vary between 2Kg and 3Kg",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/8/7/2/8729212.jpg",
+    "width": 300
+  },
+  "name": "Beechwood Smoked Leg Ham Portion",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 27.5,
+    "lowPrice": 27.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T07:48:07.684Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "27.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-butcher-ham-leg-bone-in-portion"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/coles-butcher-ham-leg-bone-in-portion"
+  ],
+  "sku": "8729212",
+  "updatedAt": "2020-11-15T07:48:07.684Z"
+}

@@ -1,0 +1,48 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Unit Price",
+      "value": "$3.70 per 1Ea"
+    }
+  ],
+  "brand": "Magazine",
+  "createdAt": "2020-11-15T11:08:29.919Z",
+  "description": "Cover may not depict edition offered for sale.",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/7/1/8/7184557.jpg",
+    "width": 300
+  },
+  "name": "Take 5",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3.7,
+    "lowPrice": 3.7,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T11:08:29.919Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "3.70",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/take-5-magazine"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/sunnybank-hills/product/take-5-magazine"
+  ],
+  "sku": "7184557",
+  "updatedAt": "2020-11-15T11:08:29.919Z"
+}

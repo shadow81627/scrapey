@@ -1,0 +1,48 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Unit Price",
+      "value": "$3.77 per 1ea"
+    }
+  ],
+  "brand": "Decor",
+  "createdAt": "2020-11-15T07:27:45.259Z",
+  "description": "Decor Microsafe Container Round with Rack 1.5 litre",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/4/3/9/4399295.jpg",
+    "width": 300
+  },
+  "name": "Microsafe Container Round with Rack 1.5 litre",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3.77,
+    "lowPrice": 3.77,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T07:27:45.259Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "3.77",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/decor-microsafe-container-round-with-rack-15-litre"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/decor-microsafe-container-round-with-rack-15-litre"
+  ],
+  "sku": "4399295",
+  "updatedAt": "2020-11-15T07:27:45.259Z"
+}

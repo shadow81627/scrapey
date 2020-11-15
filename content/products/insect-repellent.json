@@ -1,0 +1,56 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Active constituents: 400g/kg Diethyltoluamide. Propellant: hydrocarbon"
+    },
+    {
+      "name": "Size",
+      "value": "130g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$12.00 per 100G"
+    }
+  ],
+  "brand": "Bushman",
+  "createdAt": "2020-11-15T08:35:07.918Z",
+  "description": "Bushman Insect Repellent",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/6/9/3/6939892.jpg",
+    "width": 300
+  },
+  "name": "Insect Repellent",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 15.6,
+    "lowPrice": 15.6,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T08:35:07.918Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "15.60",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/bushman-insect-repellent"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/bushman-insect-repellent"
+  ],
+  "sku": "6939892",
+  "updatedAt": "2020-11-15T08:35:07.918Z"
+}

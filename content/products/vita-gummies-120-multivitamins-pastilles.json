@@ -1,0 +1,52 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "1 pack"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$10.00 per 1Ea"
+    }
+  ],
+  "brand": "Nature's Way",
+  "createdAt": "2020-11-15T07:37:26.166Z",
+  "description": "Nature's Way Vita Gummies 120 Multivitamins Pastilles",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/9/1/1/9114075.jpg",
+    "width": 300
+  },
+  "name": "Vita Gummies 120 Multivitamins Pastilles",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 10,
+    "lowPrice": 10,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T07:37:26.166Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "10.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/natures-way-vitagummies-family-multi-vitamin"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/richmond-south/product/natures-way-vitagummies-family-multi-vitamin"
+  ],
+  "sku": "9114075",
+  "updatedAt": "2020-11-15T07:37:26.166Z"
+}

@@ -1,0 +1,60 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Glycerin, Water, Hydrated Silica, Sodium Lauryl Sulfate, Flavour, Arginine, Zinc Oxide, Cellulose Gum, CI 77891, Poloxamer 407, Zinc Citrate, Tetrasodium Pyrophosphate, Xanthan Gum, Benzyl Alcohol, Cocamidopropyl Betaine, Sodium Fluoride, Sodium Saccharin, Sucralose."
+    },
+    {
+      "name": "Contains",
+      "value": "Sodium Fluoride 0.32% w/w (equiv. 1450 ppm F). 1 Toothpaste"
+    },
+    {
+      "name": "Size",
+      "value": "115g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$3.35 per 100G"
+    }
+  ],
+  "brand": "Colgate",
+  "createdAt": "2020-11-15T11:58:45.444Z",
+  "description": "Colgate Total Advanced Clean Toothpaste",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/4/0/3400854.jpg",
+    "width": 300
+  },
+  "name": "Total Advanced Clean Toothpaste",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3.85,
+    "lowPrice": 3.85,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T11:58:45.444Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "3.85",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/colgate-total-advanced-clean-toothpaste-3400854p"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/colgate-total-advanced-clean-toothpaste-3400854p"
+  ],
+  "sku": "3400854",
+  "updatedAt": "2020-11-15T11:58:45.444Z"
+}

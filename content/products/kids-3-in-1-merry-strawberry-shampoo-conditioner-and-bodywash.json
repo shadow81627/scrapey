@@ -1,0 +1,56 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Water, Sodium Laureth Sulfate, Disodium Laureth Sulfosuccinate, Cocamidopropyl Betaine, Propylene Glycol, PEG-120 Methyl Glucose Dioleate, Cocamide MEA, Citric Acid, Sodium Salicylate, Sodium Benzoate, Fragrance, Tetrasodium EDTA, Polyquaternium-10, Poloxamer 124, CI 47005, CI 15985"
+    },
+    {
+      "name": "Size",
+      "value": "700mL"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.71 per 100mL"
+    }
+  ],
+  "brand": "Palmolive",
+  "createdAt": "2020-11-15T11:50:39.655Z",
+  "description": "Palmolive Kids 3 in 1 Merry Strawberry Shampoo Conditioner & Bodywash",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/9/9/3/9936187.jpg",
+    "width": 300
+  },
+  "name": "Kids 3 in 1 Merry Strawberry Shampoo Conditioner & Bodywash",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 5,
+    "lowPrice": 5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T11:50:39.654Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "5.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/palmolive-naturals-3-in-1-shampoo-merry-strawberry"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/palmolive-naturals-3-in-1-shampoo-merry-strawberry"
+  ],
+  "sku": "9936187",
+  "updatedAt": "2020-11-15T11:50:39.654Z"
+}

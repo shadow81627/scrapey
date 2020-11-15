@@ -1,0 +1,68 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Wholegrain Sorghum (96%), Golden Syrup, Salt, Vitamins (E, Niacin, Thiamine, Riboflavin, Folate)."
+    },
+    {
+      "name": "Ethical",
+      "value": "Australian Made and Owned"
+    },
+    {
+      "name": "Dietary",
+      "value": "Low in Sugar, Source of Dietary Fibre, High in Antioxidants"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "12.0"
+    },
+    {
+      "name": "Size",
+      "value": "375g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.20 per 100G"
+    }
+  ],
+  "brand": "Sanitarium",
+  "createdAt": "2020-11-15T09:08:35.856Z",
+  "description": "Sanitarium Weet-Bix Gluten Free Breakfast Cereal",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/0/0/2001365.jpg",
+    "width": 300
+  },
+  "name": "WeetBix Gluten Free Breakfast Cereal",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 4.5,
+    "lowPrice": 4.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T09:08:35.855Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "4.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/sanitarium-gluten-free-weet-bix"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/sunnybank-hills/product/sanitarium-gluten-free-weet-bix"
+  ],
+  "sku": "2001365",
+  "updatedAt": "2020-11-15T09:08:35.855Z"
+}

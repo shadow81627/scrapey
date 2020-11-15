@@ -1,0 +1,52 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "50mL"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$16.00 per 100mL"
+    }
+  ],
+  "brand": "Only Good",
+  "createdAt": "2020-11-15T11:00:49.117Z",
+  "description": "Only Good Deodorant Bliss",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/8/2/3823235.jpg",
+    "width": 300
+  },
+  "name": "Deodorant Bliss",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 8,
+    "lowPrice": 8,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T11:00:49.116Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "8.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/only-god-deodorant-bliss"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/only-god-deodorant-bliss"
+  ],
+  "sku": "3823235",
+  "updatedAt": "2020-11-15T11:00:49.116Z"
+}

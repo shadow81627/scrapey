@@ -1,0 +1,64 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Milk Chocolate [Sugar, Cocoa Solids 33%* (Pure Cocoa Butter & Cocoa Mass), NZ Milk Powder 30%*, Emulsifier (Soy Lecithin), Vanilla Flavour]; Toasted Coconut 18%. *Minimum Percentage."
+    },
+    {
+      "name": "Allergen",
+      "value": "May Be Present Gluten, May Be Present Peanuts, May Be Present Tree Nuts, Contains Milk, Contains Soy"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "10.0"
+    },
+    {
+      "name": "Size",
+      "value": "250g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$2.40 per 100G"
+    }
+  ],
+  "brand": "Whittaker's",
+  "createdAt": "2020-11-15T07:07:24.607Z",
+  "description": "There's something special about toasted coconut. Even more so when it is smothered in our 33% cocoa, Five Roll Refined, smooth Creamy Milk chocolate.",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/6/3/7/6379233.jpg",
+    "width": 300
+  },
+  "name": "Coconut Milk Chocolate Block",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 6,
+    "lowPrice": 6,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T07:07:24.606Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "6.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/whittakers-block-chocolate-coconut"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/whittakers-block-chocolate-coconut"
+  ],
+  "sku": "6379233",
+  "updatedAt": "2020-11-15T07:07:24.606Z"
+}

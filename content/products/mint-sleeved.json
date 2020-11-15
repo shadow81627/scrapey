@@ -1,0 +1,52 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "1 bunch"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$3.00 per 1Ea"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2020-11-15T09:09:15.832Z",
+  "description": "Coles Mint Sleeved",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/4/5/7/4575514.jpg",
+    "width": 300
+  },
+  "name": "Mint Sleeved",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3,
+    "lowPrice": 3,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T09:09:15.832Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "3.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/herbs-mint-sleeved"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/herbs-mint-sleeved"
+  ],
+  "sku": "4575514",
+  "updatedAt": "2020-11-15T09:09:15.832Z"
+}

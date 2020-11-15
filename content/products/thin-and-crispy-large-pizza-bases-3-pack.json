@@ -1,0 +1,56 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Allergen",
+      "value": "May Be Present SESAME"
+    },
+    {
+      "name": "Size",
+      "value": "750g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.80 per 100G"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2020-11-15T04:46:12.916Z",
+  "description": "Coles Thin & Crispy Large Pizza Bases 3 pack",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/1/9/9/1997166.jpg",
+    "width": 300
+  },
+  "name": "Thin & Crispy Large Pizza Bases 3 pack",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 6,
+    "lowPrice": 6,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T04:46:12.916Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "6.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-thin-crispy-large-pizza-base-12-inch"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/sunnybank-hills/product/coles-thin-crispy-large-pizza-base-12-inch"
+  ],
+  "sku": "1997166",
+  "updatedAt": "2020-11-15T04:46:12.916Z"
+}

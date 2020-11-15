@@ -1,0 +1,56 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Acetone, Water, Ricinus Communis (Castor) Seed Oil, Glycerin, Fragrance, Denatonium Benzoate, Simmondsia Chinensis (Jojoba) Seed Oil, D-Panthenol, Tocopheryl Acetate, CI 17200."
+    },
+    {
+      "name": "Size",
+      "value": "75mL"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.93 per 10mL"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2020-11-15T09:10:35.784Z",
+  "description": "1. with Jojoba, Vitamin B5 and E 2. Acetone 640g/L 3. 75ml",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/7/1/3711435.jpg",
+    "width": 300
+  },
+  "name": "Pot Nail Polish Remover",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 7,
+    "lowPrice": 7,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T09:10:35.783Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "7.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-pot-nail-polish-remover"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/coles-pot-nail-polish-remover"
+  ],
+  "sku": "3711435",
+  "updatedAt": "2020-11-15T09:10:35.783Z"
+}

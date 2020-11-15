@@ -1,0 +1,52 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Alcohol Volume Percentage",
+      "value": "37.0%"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$50.00 per 1L"
+    }
+  ],
+  "brand": "Gordons",
+  "createdAt": "2020-11-15T10:46:54.419Z",
+  "description": "Founded by Alexander Gordon in 1769, the Gordon's recipe has remained almost untouched since its creation. Triple-distilled, the gin contains juniper berries, coriander seeds and angelica root to name a few. Perfectly enjoyed in a classic Gin and Tonic.",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/4/0/540209.jpg",
+    "width": 300
+  },
+  "name": "Dry Gin 1 Litre",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 50,
+    "lowPrice": 50,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T10:46:54.419Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "50.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/gordons-dry-gin-540209p"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/gordons-dry-gin-540209p"
+  ],
+  "sku": "540209",
+  "updatedAt": "2020-11-15T10:46:54.419Z"
+}

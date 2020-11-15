@@ -1,0 +1,52 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "8 pack"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.18 per 1Ea"
+    }
+  ],
+  "brand": "Tena",
+  "createdAt": "2020-11-15T11:58:24.959Z",
+  "description": "Tena Large Pants for Men Level 4",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/9/8/8/9886577.jpg",
+    "width": 300
+  },
+  "name": "Large Pants for Men Level 4",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 9.45,
+    "lowPrice": 9.45,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/OutOfStock",
+        "availabilityStarts": "2020-11-15T11:58:24.958Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "9.45",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/tena-pants-for-men-large-level-4"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/tena-pants-for-men-large-level-4"
+  ],
+  "sku": "9886577",
+  "updatedAt": "2020-11-15T11:58:24.958Z"
+}

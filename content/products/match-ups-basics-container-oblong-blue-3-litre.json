@@ -1,0 +1,48 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Unit Price",
+      "value": "$8.50 per 1ea"
+    }
+  ],
+  "brand": "Decor",
+  "createdAt": "2020-11-15T11:38:00.381Z",
+  "description": "Decor Match Ups Basics Container Oblong Blue 3 Litre",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/1/8/9/1898787.jpg",
+    "width": 300
+  },
+  "name": "Match Ups Basics Container Oblong Blue 3 Litre",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 8.5,
+    "lowPrice": 8.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T11:38:00.380Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "8.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/decor-match-ups-container-oblong-blue-3-litre"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/decor-match-ups-container-oblong-blue-3-litre"
+  ],
+  "sku": "1898787",
+  "updatedAt": "2020-11-15T11:38:00.380Z"
+}

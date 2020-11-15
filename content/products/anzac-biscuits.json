@@ -1,0 +1,60 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": " Sugar, Wheat Flour, Oats, Vegetable Margarine [Palm Oil, Water, Salt, Emulsifier (471, 472c), Antioxidant (304), Natural Flavouring, Natural Colour (160a)], Dessicated Coconut [Preservative (223)], Golden Syrup, Raising Agent [Raising Agent (450, 500)]."
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "12.0"
+    },
+    {
+      "name": "Size",
+      "value": "12 pack"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.25 per 1Ea"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2020-11-15T11:23:47.309Z",
+  "description": "Coles Anzac Biscuits",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/9/1/5/9155538.jpg",
+    "width": 300
+  },
+  "name": "Anzac Biscuits",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3,
+    "lowPrice": 3,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T11:23:47.308Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "3.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-bakery-biscuits-anzac-baked-in-store-9155538p"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/coles-bakery-biscuits-anzac-baked-in-store-9155538p"
+  ],
+  "sku": "9155538",
+  "updatedAt": "2020-11-15T11:23:47.308Z"
+}

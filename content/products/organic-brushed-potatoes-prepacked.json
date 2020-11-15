@@ -1,0 +1,52 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "2kg"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$4.75 per 1Kg"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2020-11-15T09:37:23.165Z",
+  "description": "Coles Organic Brushed Potatoes Prepacked",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/0/2/5024866.jpg",
+    "width": 300
+  },
+  "name": "Organic Brushed Potatoes Prepacked",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 9.5,
+    "lowPrice": 9.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T09:37:23.165Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "9.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/organic-potatoes-brushed-prepacked-5024866p"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/organic-potatoes-brushed-prepacked-5024866p"
+  ],
+  "sku": "5024866",
+  "updatedAt": "2020-11-15T09:37:23.165Z"
+}

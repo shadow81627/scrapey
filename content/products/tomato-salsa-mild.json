@@ -1,0 +1,68 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": " Tomatoes (69%) [Water, Diced Tomato, Tomato Paste], Rehydrated Onion (15%), Rehydrated Capsicum (9.5%), Thickener (1442), Salt, Sugar, Acidity Regulator (260), Spices, Rehydrated Jalapeno Pepper, Ground Garlic."
+    },
+    {
+      "name": "Dietary",
+      "value": "99% Fat Free, No Artificial Flavours or Colours"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "15.0"
+    },
+    {
+      "name": "Size",
+      "value": "300g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.50 per 100G"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Made in New Zealand"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2020-11-15T09:22:33.859Z",
+  "description": "Coles Tomato Salsa Mild",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/8/5/5859834.jpg",
+    "width": 300
+  },
+  "name": "Tomato Salsa Mild",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 1.5,
+    "lowPrice": 1.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T09:22:33.859Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "1.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-salsa-mild"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/sunnybank-hills/product/coles-salsa-mild"
+  ],
+  "sku": "5859834",
+  "updatedAt": "2020-11-15T09:22:33.859Z"
+}

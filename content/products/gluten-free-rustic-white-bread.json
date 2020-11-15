@@ -1,0 +1,52 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "500g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.40 per 100G"
+    }
+  ],
+  "brand": "Abbott's Village Bakery",
+  "createdAt": "2020-11-15T11:33:30.245Z",
+  "description": "Abbott's Village Bakery Gluten Free Rustic White Bread",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/2/1/3216913.jpg",
+    "width": 300
+  },
+  "name": "Gluten Free Rustic White Bread",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 7,
+    "lowPrice": 7,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T11:33:30.245Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "7.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/abbotts-village-bakery-gluten-free-rustic-white"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/abbotts-village-bakery-gluten-free-rustic-white"
+  ],
+  "sku": "3216913",
+  "updatedAt": "2020-11-15T11:33:30.245Z"
+}

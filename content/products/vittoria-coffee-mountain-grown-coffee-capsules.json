@@ -1,0 +1,52 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "12 pack"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.35 per 1Ea"
+    }
+  ],
+  "brand": "Espressotoria",
+  "createdAt": "2020-11-15T10:15:42.911Z",
+  "description": "Espressotoria Vittoria Coffee Mountain Grown Coffee Capsules",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/0/0/2002732.jpg",
+    "width": 300
+  },
+  "name": "Vittoria Coffee Mountain Grown Coffee Capsules",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 4.2,
+    "lowPrice": 4.2,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T10:15:42.911Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "4.20",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/espressotoria-vittoria-mountain-grown-coffee-capsules"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/espressotoria-vittoria-mountain-grown-coffee-capsules"
+  ],
+  "sku": "2002732",
+  "updatedAt": "2020-11-15T10:15:42.911Z"
+}

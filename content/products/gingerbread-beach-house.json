@@ -1,0 +1,64 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "INGREDIENTS: Sugar, Wheat Flour, Butter Oil (Milk), Palm Oil**, Brown Sugar, Glucose Syrup, Egg White Powder, Corn Starch, Water, Thickeners (415, 414), Ginger Extract (0.7%), Maltodextrin, Acidity Regulators (Sodium Carbonates, Ammonium Bicarbonates, 336) Cinnamon Extract, Salt, Natural Flavouring, Beef Gelatine, Natural Colours (Beetroot Red, Turmeric, Carotene, Chlorophyll, Vegetable Carbon, 163, Caramel 1)."
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "5.0"
+    },
+    {
+      "name": "Size",
+      "value": "500g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$2.20 per 100G"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Made in China"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2020-11-15T07:38:47.295Z",
+  "description": "Coles Gingerbread Beach House",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/5/6/3568138.jpg",
+    "width": 300
+  },
+  "name": "Gingerbread Beach House",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 11,
+    "lowPrice": 11,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T07:38:47.294Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "11.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-aussie-gingerbread-house-blue-white"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/coles-aussie-gingerbread-house-blue-white"
+  ],
+  "sku": "3568138",
+  "updatedAt": "2020-11-15T07:38:47.294Z"
+}

@@ -1,0 +1,56 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "1L"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$4.20 per 1L"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Made in Australia from Local and Imported Ingredients"
+    }
+  ],
+  "brand": "Cottee's",
+  "createdAt": "2020-11-15T10:03:14.612Z",
+  "description": "Cottee's Orange No Added Sugar Cordial",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/7/7/6/7767952.jpg",
+    "width": 300
+  },
+  "name": "Orange No Added Sugar Cordial",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 4.2,
+    "lowPrice": 4.2,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T10:03:14.611Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "4.20",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/cottees-cordial-orange-no-added-sugar"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/cottees-cordial-orange-no-added-sugar?adId=display_4F4SKB44KJi2_6CBi3-ZiWwx1MM3NzY2NzQ1UA%3D%3D"
+  ],
+  "sku": "7767952",
+  "updatedAt": "2020-11-15T10:03:14.611Z"
+}

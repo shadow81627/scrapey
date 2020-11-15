@@ -1,0 +1,60 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "INGREDIENTS: Wholegrain Brown Rice (99%), Sunflower Oil, Salt, Rosemary Extract."
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "25.0"
+    },
+    {
+      "name": "Size",
+      "value": "150g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.10 per 100G"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2020-11-15T04:56:42.593Z",
+  "description": "Original",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/6/0/3/6033363.jpg",
+    "width": 300
+  },
+  "name": "Original Rice Cakes",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 1.65,
+    "lowPrice": 1.65,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T04:56:42.592Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "1.65",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-simply-less-rice-cakes-natural-thin"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/coles-simply-less-rice-cakes-natural-thin"
+  ],
+  "sku": "6033363",
+  "updatedAt": "2020-11-15T04:56:42.592Z"
+}

@@ -1,0 +1,60 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "100% Natural Coffee Beans"
+    },
+    {
+      "name": "Size",
+      "value": "140g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$3.36 per 100G"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Packed in Australia from Imported Spray Dried Soluble CoffeeA"
+    }
+  ],
+  "brand": "Nescafe",
+  "createdAt": "2020-11-15T05:09:22.042Z",
+  "description": "Nescafe Blend 43 Smooth & Creamy Instant Coffee",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/1/2/2125460.jpg",
+    "width": 300
+  },
+  "name": "Blend 43 Smooth & Creamy Instant Coffee",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 4.7,
+    "lowPrice": 4.7,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T05:09:22.041Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "4.70",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/nescafe-blend-43-smooth-creamy-coffee"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/richmond-south/product/nescafe-blend-43-smooth-creamy-coffee"
+  ],
+  "sku": "2125460",
+  "updatedAt": "2020-11-15T05:09:22.041Z"
+}

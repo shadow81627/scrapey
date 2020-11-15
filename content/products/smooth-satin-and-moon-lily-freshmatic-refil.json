@@ -1,0 +1,52 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "174g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$4.60 per 100G"
+    }
+  ],
+  "brand": "Air Wick",
+  "createdAt": "2020-11-15T05:02:19.287Z",
+  "description": "Air Wick Smooth Satin & Moon Lily Freshmatic Refil",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/4/3/3432511.jpg",
+    "width": 300
+  },
+  "name": "Smooth Satin & Moon Lily Freshmatic Refil",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 8,
+    "lowPrice": 8,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T05:02:19.287Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "8.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/air-wick-essential-oils-refill-satin-moon-lily"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/air-wick-essential-oils-refill-satin-moon-lily"
+  ],
+  "sku": "3432511",
+  "updatedAt": "2020-11-15T05:02:19.287Z"
+}

@@ -1,0 +1,72 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Wheat Flour, Sugar, Vegetable Oil, Cocoa Powder, Glucose Syrup, Salt, Raising Agents (500, 503), Emulsifier (Soy Lecithin), Flavours, Antioxidant (319, 304, 307b)."
+    },
+    {
+      "name": "Contains",
+      "value": "Wheat and Soy. Chocolate flavoured sandwich cookies with Vanilla flavoured creme (28%)."
+    },
+    {
+      "name": "Allergen",
+      "value": "May Be Present Peanuts, Contains Soy, May Be Present Milk, Contains Wheat"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "4.7"
+    },
+    {
+      "name": "Size",
+      "value": "133g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.13 per 100G"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Made in Bahrian"
+    }
+  ],
+  "brand": "Oreo",
+  "createdAt": "2020-11-15T05:19:47.201Z",
+  "description": "Oreo Original Creme Biscuits",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/7/1/2710437.jpg",
+    "width": 300
+  },
+  "name": "Original Creme Biscuits",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 1.5,
+    "lowPrice": 1.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T05:19:47.201Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "1.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/oreo-original-vanilla-crème-biscuits-2710437p"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/oreo-original-vanilla-cr%C3%A8me-biscuits-2710437p"
+  ],
+  "sku": "2710437",
+  "updatedAt": "2020-11-15T05:19:47.201Z"
+}

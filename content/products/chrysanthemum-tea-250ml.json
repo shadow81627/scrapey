@@ -1,0 +1,56 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "1500mL"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.25 per 1L"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Made in Malaysia from Imported ingredients"
+    }
+  ],
+  "brand": "Yeo's",
+  "createdAt": "2020-11-15T09:31:41.172Z",
+  "description": "Yeo's Chrysanthemum Tea 250mL",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/6/8/5686099.jpg",
+    "width": 300
+  },
+  "name": "Chrysanthemum Tea 250mL",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3.7,
+    "lowPrice": 3.7,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T09:31:41.172Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "3.70",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/yeos-drink-tea-chrysanthemum-6-pack"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/sunnybank-hills/product/yeos-drink-tea-chrysanthemum-6-pack"
+  ],
+  "sku": "5686099",
+  "updatedAt": "2020-11-15T09:31:41.172Z"
+}

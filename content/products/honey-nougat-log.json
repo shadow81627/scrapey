@@ -1,0 +1,68 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Sugar, Glucose Syrup, Milk Solids, Cocoa Butter, Peanuts, Coconut, Cocoa Mass, Rice Crisps, Honey (1.3%), Vegetable Fat, Hydrolised Milk Protein, Emulsifiers (Soy Lecithin, 471, 476), Gelatine, Flavours."
+    },
+    {
+      "name": "Allergen",
+      "value": "May Contain Wheat, May Contain Tree Nuts, Contains Peanuts, Contains Milk, Contains Soy"
+    },
+    {
+      "name": "Warning",
+      "value": "Contains milk, peanuts and soy. May contain wheat and tree nuts."
+    },
+    {
+      "name": "Size",
+      "value": "40g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$2.50 per 100G"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Made in Australia from Imported and Local Ingredients"
+    }
+  ],
+  "brand": "Europe",
+  "createdAt": "2020-11-15T09:10:55.679Z",
+  "description": "Europe Honey Nougat Log",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/6/7/8/67850.jpg",
+    "width": 300
+  },
+  "name": "Honey Nougat Log",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 1,
+    "lowPrice": 1,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T09:10:55.678Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "1.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/europe-bars-honey-nougat-log"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/richmond-south/product/europe-bars-honey-nougat-log"
+  ],
+  "sku": "67850",
+  "updatedAt": "2020-11-15T09:10:55.678Z"
+}

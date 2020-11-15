@@ -1,0 +1,52 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "1.5L"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$8.00 per 1L"
+    }
+  ],
+  "brand": "Pine O Cleen",
+  "createdAt": "2020-11-15T09:53:31.896Z",
+  "description": "Pine O Cleen Laundry Sanitiser Fragrance Free",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/7/9/3790431.jpg",
+    "width": 300
+  },
+  "name": "Laundry Sanitiser Fragrance Free",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 12,
+    "lowPrice": 12,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-15T09:53:31.896Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "12.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/pine-o-clen-laundry-sanitiser-fragrance-fre"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/pine-o-clen-laundry-sanitiser-fragrance-fre"
+  ],
+  "sku": "3790431",
+  "updatedAt": "2020-11-15T09:53:31.896Z"
+}
