@@ -6,7 +6,8 @@ import _ from 'lodash';
 import { processHtml } from './scrape/processHtml';
 import { processLinkData } from './scrape/processLinkData';
 
-async function crawl(url: string, origin = new URL(url).origin) {
+async function crawl(url: string) {
+  const hostname = new URL(url).hostname;
   try {
     // fetch browser rendered html
     const html = await getHtml({ url });
@@ -31,7 +32,7 @@ async function crawl(url: string, origin = new URL(url).origin) {
         try {
           const href = $(e).attr('href');
           if (href && (href.startsWith('http') || href.startsWith('/') || href.startsWith(':'))) {
-            return Url.getUrl(new URL(href, origin));
+            return Url.getUrl(new URL(href, `https://${hostname}`));
           }
         } catch (_) {
           // invalid url
@@ -43,9 +44,9 @@ async function crawl(url: string, origin = new URL(url).origin) {
     await connection.manager.save(dbCanonical);
 
     const link = (await connection.manager.findOne(Url, {
-      where: [{ crawledAt: null }],
+      where: [{ crawledAt: null, hostname }],
       // order: {
-      //   dated.createdAt: 'ASC'
+      //   createdAt: 'ASC'
       // }
     }))?.url;
 
@@ -53,8 +54,8 @@ async function crawl(url: string, origin = new URL(url).origin) {
       const href = new URL(link)
       const id = Url.generateId(Url.urlToParts(link));
       const found = await connection.manager.findOne(Url, id);
-      if (href.origin === origin && !found?.crawledAt) {
-        await crawl(link, origin);
+      if (href.hostname === hostname && !found?.crawledAt) {
+        await crawl(link);
       }
     }
   } catch (error) {
@@ -71,7 +72,7 @@ async function crawl(url: string, origin = new URL(url).origin) {
   //   'https://shop.coles.com.au/a/national/everything/browse';
   const connection = await createConnection();
   const url = (await connection.manager.findOne(Url, {
-    where: [{ crawledAt: null }],
+    where: [{ crawledAt: null, hostname: 'shop.coles.com.au' }],
     // order: {
     //   dated.createdAt: 'ASC'
     // }
