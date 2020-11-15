@@ -1,6 +1,6 @@
 import cheerio from 'cheerio';
 import getHtml from './utils/getHtml';
-import { createConnection, getConnection } from 'typeorm';
+import { createConnection, getConnection, IsNull, Raw } from 'typeorm';
 import { Url } from './db/entity/Url';
 import _ from 'lodash';
 import { processHtml } from './scrape/processHtml';
@@ -44,7 +44,10 @@ async function crawl(url: string) {
     await connection.manager.save(dbCanonical);
 
     const link = (await connection.manager.findOne(Url, {
-      where: [{ crawledAt: null, hostname }],
+      where: [
+        { crawledAt: IsNull(), hostname, canonical: IsNull() },
+        { crawledAt: IsNull(), hostname, canonical: Raw("canonical") }
+      ],
       // order: {
       //   createdAt: 'ASC'
       // }
@@ -72,7 +75,10 @@ async function crawl(url: string) {
   //   'https://shop.coles.com.au/a/national/everything/browse';
   const connection = await createConnection();
   const url = (await connection.manager.findOne(Url, {
-    where: [{ crawledAt: null, hostname: 'shop.coles.com.au' }],
+    where: [
+      { crawledAt: IsNull(), hostname: 'shop.coles.com.au', canonical: IsNull() },
+      { crawledAt: IsNull(), hostname: 'shop.coles.com.au', canonical: Raw("canonical") }
+    ],
     // order: {
     //   dated.createdAt: 'ASC'
     // }
