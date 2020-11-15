@@ -36,7 +36,7 @@ export async function processLinkData({
   chunk,
   fileUrlMap,
   argv,
-}: ProcessLinkDataParams): Promise<void> {
+}: ProcessLinkDataParams): Promise<Recipe | Product | undefined> {
   const headChunk = _.head(chunk);
 
   if (headChunk && fileUrlMap.get(headChunk)) {
@@ -370,5 +370,6 @@ export async function processLinkData({
 
     const folder = `content/${pluralize(type).toLocaleLowerCase()}`;
     await ContentService.save({ data: linkData, slug, folder });
+    return linkData;
   }
 }
