@@ -3,8 +3,8 @@ import getHtml from './utils/getHtml';
 import { createConnection, getConnection } from 'typeorm';
 import { Url } from './db/entity/Url';
 import _ from 'lodash';
-// import { processHtml } from './scrape/processHtml';
-// import { processLinkData } from './scrape/processLinkData';
+import { processHtml } from './scrape/processHtml';
+import { processLinkData } from './scrape/processLinkData';
 
 async function crawl(url: string, origin = new URL(url).origin) {
   try {
@@ -14,35 +14,41 @@ async function crawl(url: string, origin = new URL(url).origin) {
     const $ = cheerio.load(html);
 
     const canonical = $('link[rel="canonical"]').attr("href") || url;
+    console.log(canonical);
     // save fetched url
     const connection = getConnection();
-    const urlParts = Url.urlToParts(canonical);
-    // const data = processHtml(url, html);
-    // processLinkData({})
-    await connection.manager.save(new Url({ ...urlParts, crawledAt: new Date() }));
+    const urlParts = Url.urlToParts(url);
+    const data = processHtml(url, html);
+    if (data) {
+      processLinkData({ chunk: [canonical], chunkData: [data], fileUrlMap: new Map(), argv: { scrape: true } })
+    }
+    const dbCanonical = await connection.manager.save(new Url(Url.urlToParts(canonical)));
+    await connection.manager.save(new Url({ ...urlParts, crawledAt: new Date(), canonical: dbCanonical }));
 
     // get a unique list of valid urls on the same origin
-    const links: string[] = _.uniq((await Promise.all($('a[href]')
-      .map(async (_, e): Promise<string | undefined> => {
+    const links: string[] = _.uniq($('a[href]')
+      .map((_, e) => {
         try {
           const href = $(e).attr('href');
-          if (href) {
-            const url = new URL(href, origin);
-            const id = Url.generateId({ ...url });
-            const crawled = await connection.manager.findOne(Url, id);
-            if (url.origin === origin && !crawled) {
-              return Url.getUrl(Url.urlToParts(url.href));
-            }
+          if (href && (href.startsWith('http') || href.startsWith('/') || href.startsWith(':'))) {
+            return Url.getUrl(new URL(href, origin));
           }
         } catch (_) {
           // invalid url
         }
       })
-      .get()))).filter(Boolean);
+      .get()).filter(Boolean);
+
+    dbCanonical.urls = await Promise.all(links.map(link => connection.manager.save(new Url(Url.urlToParts(link)))));
+    await connection.manager.save(dbCanonical);
 
     for (const link of links) {
-      console.log(link)
-      // await crawl(link, origin);
+      const href = new URL(link)
+      const id = Url.generateId(Url.urlToParts(link));
+      const found = await connection.manager.findOne(Url, id);
+      if (href.origin === origin && !found?.crawledAt) {
+        await crawl(link, origin);
+      }
     }
   } catch (error) {
     console.log(error);
@@ -55,7 +61,7 @@ async function crawl(url: string, origin = new URL(url).origin) {
 //     'https://www.woolworths.com.au/shop/productdetails/29411/sanofi-hydrogen-peroxide'
 (async () => {
   const url =
-    'https://shop.coles.com.au/a/sunnybank-hills/everything/browse';
+    'https://shop.coles.com.au/a/national/everything/browse';
   await createConnection();
   await crawl(url);
 })();
