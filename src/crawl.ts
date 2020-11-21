@@ -1,11 +1,12 @@
 import cheerio from 'cheerio';
 import getHtml from './utils/getHtml';
-import { createConnection, getConnection, IsNull, Raw } from 'typeorm';
+import { createConnection, getConnection, In, IsNull, Raw } from 'typeorm';
 import { Url } from './db/entity/Url';
 import _ from 'lodash';
 import { processHtml } from './scrape/processHtml';
 import { processLinkData } from './scrape/processLinkData';
 
+const allowedHosts = ['shop.coles.com.au', 'woolworths.com.au'];
 let iteration = 0;
 
 async function crawl(url: string) {
@@ -48,8 +49,8 @@ async function crawl(url: string) {
 
     const link = (await connection.manager.findOne(Url, {
       where: [
-        { crawledAt: IsNull(), hostname, canonical: IsNull() },
-        { crawledAt: IsNull(), hostname, canonical: Raw("canonicalId") }
+        { crawledAt: IsNull(), hostname: In(allowedHosts), canonical: IsNull() },
+        { crawledAt: IsNull(), hostname: In(allowedHosts), canonical: Raw("canonicalId") }
       ],
       // order: {
       //   createdAt: 'ASC'
@@ -79,8 +80,8 @@ async function crawl(url: string) {
   const connection = await createConnection();
   const url = (await connection.manager.findOne(Url, {
     where: [
-      { crawledAt: IsNull(), hostname: 'shop.coles.com.au', canonical: IsNull() },
-      { crawledAt: IsNull(), hostname: 'shop.coles.com.au', canonical: Raw("canonicalId") }
+      { crawledAt: IsNull(), hostname: In(allowedHosts), canonical: IsNull() },
+      { crawledAt: IsNull(), hostname: In(allowedHosts), canonical: Raw("canonicalId") }
     ],
     // order: {
     //   dated.createdAt: 'ASC'
