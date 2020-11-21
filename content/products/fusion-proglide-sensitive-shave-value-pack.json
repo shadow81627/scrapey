@@ -1,0 +1,56 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Water, Triethanolamine, Palmitic Acid, Stearic Acid, Laureth-23, Isobutane, Sodium Lauryl Sulfate, Fragrance, Propane, Dimethicone, Menthol, BHT."
+    },
+    {
+      "name": "Warning",
+      "value": "Pressurised container: Protect from sunlight and do not expose to temperature exceeding 50C. Do not pierce or burn after use. Keep out of reach of children."
+    },
+    {
+      "name": "Unit Price",
+      "value": "$13.50 per 1Ea"
+    }
+  ],
+  "brand": "Gillette",
+  "createdAt": "2020-11-21T05:44:14.018Z",
+  "description": "Gillette Fusion Proglide Sensitive Shave Value pack",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/8/1/3819340.jpg",
+    "width": 300
+  },
+  "name": "Fusion Proglide Sensitive Shave Value pack",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 13.5,
+    "lowPrice": 13.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-21T05:44:14.018Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "13.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/gillette-fusion-active-sport-foam-red"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/gillette-fusion-active-sport-foam-red"
+  ],
+  "sku": "3819340",
+  "updatedAt": "2020-11-21T05:44:14.018Z"
+}

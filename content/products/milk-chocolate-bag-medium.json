@@ -1,0 +1,68 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Contains",
+      "value": "MILK CHOCOLATE CONTAINS A MINIMUM OF 25% COCOA SOLIDS AND 22% MILK SOLIDS. CONFECTIONERY CONTAINS PRODUCTS DERIVED FROM: MILK, SOY, WHEAT, BARLEY, GLUTEN."
+    },
+    {
+      "name": "Allergen",
+      "value": "Contains Gluten, Contains Barley, Contains Milk, Contains Soy, Contains Wheat"
+    },
+    {
+      "name": "Warning",
+      "value": "YOUR MALTESERS CHOCOLATES ARE MADE OF THE FINEST FOOD INGREDIENTS. THEY SHOULD REACH YOU FRESH AND IN EXCELLENT CONDITION. IF YOU ARE NOT SATISFIED IN ANY WAY, PLEASE CALL 1800 245 455 IN AUSTRALIA OR 0800 444 443 IN NEW ZEALAND. ALTERNATIVELY, JUST RETURN THE UNUSED PORTION PLUS PACKAGING AND TELL US WHERE AND WHEN YOU BOUGHT THEM."
+    },
+    {
+      "name": "Size",
+      "value": "140g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.61 per 100G"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Made in Australia"
+    }
+  ],
+  "brand": "Maltesers",
+  "createdAt": "2020-11-21T05:46:34.187Z",
+  "description": "Maltesers Milk Chocolate Bag Medium",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/1/0/5106508.jpg",
+    "width": 300
+  },
+  "name": "Milk Chocolate Bag Medium",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2.25,
+    "lowPrice": 2.25,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-21T05:46:34.187Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "2.25",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/maltesers-chocolates"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/maltesers-chocolates"
+  ],
+  "sku": "5106508",
+  "updatedAt": "2020-11-21T05:46:34.187Z"
+}

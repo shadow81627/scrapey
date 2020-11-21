@@ -1,0 +1,52 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "250g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.36 per 100G"
+    }
+  ],
+  "brand": "Royal Fields",
+  "createdAt": "2020-11-21T06:17:45.750Z",
+  "description": "ROYAL FIELDS TURKISH DRIED FIGS 250G",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/2/8/3287671.jpg",
+    "width": 300
+  },
+  "name": "Figs",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3.4,
+    "lowPrice": 3.4,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-21T06:17:45.749Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "3.40",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/royal-fields-figs-3287671p"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/royal-fields-figs-3287671p"
+  ],
+  "sku": "3287671",
+  "updatedAt": "2020-11-21T06:17:45.749Z"
+}

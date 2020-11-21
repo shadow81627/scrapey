@@ -1,0 +1,52 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "220mL"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$3.58 per 100mL"
+    }
+  ],
+  "brand": "Cancer Council",
+  "createdAt": "2020-11-21T05:42:32.475Z",
+  "description": "Cancer Council Everyday SPF 30+ Sunscreen",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/6/5/6/6563130.jpg",
+    "width": 300
+  },
+  "name": "Everyday SPF 30+ Sunscreen",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 7.87,
+    "lowPrice": 7.87,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-21T05:42:32.475Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "7.87",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/the-cancer-council-sunscreen-everyday-spf30"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/the-cancer-council-sunscreen-everyday-spf30"
+  ],
+  "sku": "6563130",
+  "updatedAt": "2020-11-21T05:42:32.475Z"
+}

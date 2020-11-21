@@ -1,0 +1,76 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Wheat Flour, Sugar, Vegetable Oil, Golden Syrup, Eggs, Baking Powder, Salt, Natural Flavour, Emulsifier (Soy Lecithin), Antioxidant (E307B From Soy)."
+    },
+    {
+      "name": "Contains",
+      "value": "Egg, Gluten containing Cereals (Wheat) and Soy."
+    },
+    {
+      "name": "Allergen",
+      "value": "May Be Present Peanuts, May Be Present Tree Nuts, May Be Present Sesame, Contains Soy, Contains CEREALS CONTAINING GLUTEN, May Be Present Milk, Contains Egg, Contains Wheat"
+    },
+    {
+      "name": "Dietary",
+      "value": "No Preservatives, No Artificial Flavours or Colours"
+    },
+    {
+      "name": "Warning",
+      "value": "Do not purchase if pack is open or torn."
+    },
+    {
+      "name": "Size",
+      "value": "250g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.20 per 100G"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Made in Australia"
+    }
+  ],
+  "brand": "Arnott's",
+  "createdAt": "2020-11-21T05:44:34.141Z",
+  "description": "Baking for 150 Years.A delightful golden teddy bear shaped biscuit with golden syrup notes and a sweet home-baked taste. A family favourite to dunk in milk!",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/2/9/329243.jpg",
+    "width": 300
+  },
+  "name": "Teddy Bear Biscuits",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3,
+    "lowPrice": 3,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-21T05:44:34.140Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "3.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/arnotts-biscuits-teddy-bear"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/arnotts-biscuits-teddy-bear"
+  ],
+  "sku": "329243",
+  "updatedAt": "2020-11-21T05:44:34.140Z"
+}

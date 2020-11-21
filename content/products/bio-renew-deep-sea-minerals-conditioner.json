@@ -1,0 +1,60 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Water, Stearyl Alcohol, Behentrimonium Methosulfate, Bis-Aminopropyl Dimethicone, Cetyl Alcohol, Fragrance, Benzyl Alcohol, Dicetyldimonium Chloride, Isopropyl Alcohol, Propylene Glycol, Disodium EDTA, Histidine, Citric Acid, Butylene Glycol, Aloe Barbadensis Leaf Juice, Alcohol Denatured, Methylchloroisothiazolinone, Methylisothiazolinone, Ecklonia Radiata Extract, Spirulina Platensis Extract"
+    },
+    {
+      "name": "Warning",
+      "value": "If in eyes, wash out immediately with water."
+    },
+    {
+      "name": "Size",
+      "value": "400mL"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$3.00 per 100mL"
+    }
+  ],
+  "brand": "Herbal Essences",
+  "createdAt": "2020-11-21T05:48:54.267Z",
+  "description": "Herbal Essences Bio Renew Deep Sea Minerals Conditioner",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/6/1/3611157.jpg",
+    "width": 300
+  },
+  "name": "Bio Renew Deep Sea Minerals Conditioner",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 12,
+    "lowPrice": 12,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-21T05:48:54.266Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "12.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/herbal-essences-bio-renew-conditioner-sea-minerals"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/herbal-essences-bio-renew-conditioner-sea-minerals"
+  ],
+  "sku": "3611157",
+  "updatedAt": "2020-11-21T05:48:54.266Z"
+}

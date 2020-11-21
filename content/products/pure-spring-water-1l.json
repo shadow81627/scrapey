@@ -1,0 +1,56 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Australian Spring Water"
+    },
+    {
+      "name": "Size",
+      "value": "6 pack"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.34 per 1L"
+    }
+  ],
+  "brand": "Mount Franklin",
+  "createdAt": "2020-11-21T06:23:10.511Z",
+  "description": "Mount Franklin Pure Spring Water 1L",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/9/5/9/9599848.jpg",
+    "width": 300
+  },
+  "name": "Pure Spring Water 1L",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 8.05,
+    "lowPrice": 8.05,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/OutOfStock",
+        "availabilityStarts": "2020-11-21T06:23:10.509Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "8.05",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/mount-franklin-water-1l-bottles"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/mount-franklin-water-1l-bottles"
+  ],
+  "sku": "9599848",
+  "updatedAt": "2020-11-21T06:23:10.509Z"
+}

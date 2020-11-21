@@ -1,0 +1,60 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Mustard Powder."
+    },
+    {
+      "name": "Warning",
+      "value": "Contains mustard powder."
+    },
+    {
+      "name": "Size",
+      "value": "50g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.84 per 10G"
+    }
+  ],
+  "brand": "Keens",
+  "createdAt": "2020-11-21T06:22:26.949Z",
+  "description": "Keen's Mustard Powder is an Aussie pantry staple. Made from crushed mustard seeds, giving flavour to any number of dishes.Celebrated for a flavour that is unparalleled 60g tin maintains optimal freshness Perfect to use in cooking",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/1/2/1/121300.jpg",
+    "width": 300
+  },
+  "name": "Mustard Powder",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 4.2,
+    "lowPrice": 4.2,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-21T06:22:26.941Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "4.20",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/keens-mustard-121300p"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/keens-mustard-121300p"
+  ],
+  "sku": "121300",
+  "updatedAt": "2020-11-21T06:22:26.941Z"
+}

@@ -1,0 +1,64 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "INGREDIENTS: Wheat Flour, Water, Butter (20%) (Cream), Sugar, Yeast, Iodised Salt, Wheat Gluten, Buttermilk Powder, Improver (Wheat Flour, Mineral Salt (Calcium Carbonate), Vegetable Emulsifiers (471, 472e), Thickeners (412, 415)), Barley Malt Flour."
+    },
+    {
+      "name": "Allergen",
+      "value": "May Be Present SOY, May Be Present SESAME, May Be Present TREE NUTS, May Be Present EGG, May Be Present PEANUTS"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "8.0"
+    },
+    {
+      "name": "Size",
+      "value": "160g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$2.19 per 100G"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2020-11-21T06:10:26.474Z",
+  "description": "Bake in the oven for a delicious golden flaky finish",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/9/9/3/9933564.jpg",
+    "width": 300
+  },
+  "name": "All Butter Mini Croissants 8 Pack",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3.5,
+    "lowPrice": 3.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-21T06:10:26.474Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "3.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-bakery-mini-croissants-baked-in-store"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/coles-bakery-mini-croissants-baked-in-store"
+  ],
+  "sku": "9933564",
+  "updatedAt": "2020-11-21T06:10:26.474Z"
+}

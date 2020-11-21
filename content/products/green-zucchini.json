@@ -1,0 +1,52 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "Approx. 150g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$5.90 per 1Kg"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2020-11-21T06:08:46.224Z",
+  "description": "Coles Green Zucchini",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/4/9/1/4910506.jpg",
+    "width": 300
+  },
+  "name": "Green Zucchini",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 0.89,
+    "lowPrice": 0.89,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-21T06:08:46.223Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "0.89",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/zucchini-green-loose"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/zucchini-green-loose"
+  ],
+  "sku": "4910506",
+  "updatedAt": "2020-11-21T06:08:46.223Z"
+}

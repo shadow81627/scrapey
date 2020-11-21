@@ -1,0 +1,68 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Milk, Skim Milk, Sugar, Flavour Colour (160a), Malt Extract (from Barley)."
+    },
+    {
+      "name": "Contains",
+      "value": "Contains Milk and Barley."
+    },
+    {
+      "name": "Allergen",
+      "value": "Contains Milk"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "300.0"
+    },
+    {
+      "name": "Size",
+      "value": "600mL"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$5.17 per 1L"
+    }
+  ],
+  "brand": "Oak",
+  "createdAt": "2020-11-21T06:10:06.593Z",
+  "description": "An Australian favourite for more than 40 years with its wide range of rich, creamy and authentic flavours - OAK is always the answer. Full flavor, full strength, full on.",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/7/6/3762549.jpg",
+    "width": 300
+  },
+  "name": "Banana Flavoured Milk",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3.1,
+    "lowPrice": 3.1,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-21T06:10:06.592Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "3.10",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/oak-banana-flavoured-milk"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/oak-banana-flavoured-milk"
+  ],
+  "sku": "3762549",
+  "updatedAt": "2020-11-21T06:10:06.592Z"
+}

@@ -1,0 +1,48 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Unit Price",
+      "value": "$60.00 per 1Ea"
+    }
+  ],
+  "brand": "Silk",
+  "createdAt": "2020-11-21T05:50:34.579Z",
+  "description": "Silk Epilator 3",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/8/2/3822786.jpg",
+    "width": 300
+  },
+  "name": "Epilator 3",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 60,
+    "lowPrice": 60,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-21T05:50:34.579Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "60.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/silk-epilator-3"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/silk-epilator-3"
+  ],
+  "sku": "3822786",
+  "updatedAt": "2020-11-21T05:50:34.579Z"
+}

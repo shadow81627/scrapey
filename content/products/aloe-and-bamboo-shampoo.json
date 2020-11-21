@@ -1,0 +1,56 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Water, Lauramidopropyl Betaine, Sodium Cocoyl Isethionate, Sodium Lauroyl Sarcosinate, Sodium Citrate, Citric Acid, Fragrance, Sodium Benzoate, Sodium Salicylate, Polyquaternium-10, Tetrasodium EDTA, Propylene Glycol, Aloe Barbadensis Leaf Juice, Butylene Glycol, Histidine, Bambusa Vulgaris Shoot Extract, Alcohol Denatured, Vitis Vinifera (Grape) Seed Extract, Ecklonia Radiata Extract"
+    },
+    {
+      "name": "Size",
+      "value": "400mL"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$5.00 per 100mL"
+    }
+  ],
+  "brand": "Herbal Essences",
+  "createdAt": "2020-11-21T05:53:56.354Z",
+  "description": "Herbal Essences Aloe & Bamboo Shampoo",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/8/3/3837182.jpg",
+    "width": 300
+  },
+  "name": "Aloe & Bamboo Shampoo",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 20,
+    "lowPrice": 20,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-21T05:53:56.354Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "20.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/herbal-essences-shampo-aloe-bambo-"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/herbal-essences-shampo-aloe-bambo-"
+  ],
+  "sku": "3837182",
+  "updatedAt": "2020-11-21T05:53:56.354Z"
+}

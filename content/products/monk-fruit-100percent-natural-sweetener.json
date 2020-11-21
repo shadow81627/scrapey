@@ -1,0 +1,68 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Sweeteners (*Organic Erythritol 99%, Monk Fruit Extract 1%)."
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "50.0"
+    },
+    {
+      "name": "Warning",
+      "value": "Excessive consumption may have a laxative effect. Organic erythritol acquired from a supplier with organic certification from Ecocert SA. Certificate No: 2019-193375-Z-131200-2019Code No: CN-BIO-154"
+    },
+    {
+      "name": "Size",
+      "value": "200g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$4.25 per 100G"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Made in Czech Republic"
+    }
+  ],
+  "brand": "Whole Earth",
+  "createdAt": "2020-11-21T06:19:25.240Z",
+  "description": "Whole Earth Monk Fruit 100% Natural Sweetener",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/7/7/3771878.jpg",
+    "width": 300
+  },
+  "name": "Monk Fruit 100% Natural Sweetener",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 8.5,
+    "lowPrice": 8.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/OutOfStock",
+        "availabilityStarts": "2020-11-21T06:19:25.240Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "8.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/whole-earth-monk-fruit-100-natural-swetener"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/whole-earth-monk-fruit-100-natural-swetener"
+  ],
+  "sku": "3771878",
+  "updatedAt": "2020-11-21T06:19:25.240Z"
+}

@@ -1,0 +1,52 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "110mL"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$5.68 per 100mL"
+    }
+  ],
+  "brand": "Cancer Council",
+  "createdAt": "2020-11-21T05:40:10.872Z",
+  "description": "Very high UVA/UVB protective lotion for harsh UV conditions. SPF50+ broad spectrum protection Suitable for all skin types Tested for 4 hours water resistance. Cancer Council recommends reapplying every 2 hours Made in Australia",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/1/1/5/1159910.jpg",
+    "width": 300
+  },
+  "name": "Ultra Sunscreen Tube SPF 50+",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 6.25,
+    "lowPrice": 6.25,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-21T05:40:10.871Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "6.25",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/cancer-council-spf-50-suncreen-ultra"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/cancer-council-spf-50-suncreen-ultra"
+  ],
+  "sku": "1159910",
+  "updatedAt": "2020-11-21T05:40:10.871Z"
+}

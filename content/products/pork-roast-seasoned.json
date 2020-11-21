@@ -1,0 +1,52 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "approx. 125g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$25.00 per 1Kg"
+    }
+  ],
+  "brand": "Primo",
+  "createdAt": "2020-11-21T06:06:06.353Z",
+  "description": "Indicated price based on approx. weight. Weight may vary between 120g and 130g",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/9/8/6/9860267.jpg",
+    "width": 300
+  },
+  "name": "Pork Roast Seasoned",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3.13,
+    "lowPrice": 3.13,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-21T06:06:06.352Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "3.13",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/roast-pork-seasoned"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/roast-pork-seasoned"
+  ],
+  "sku": "9860267",
+  "updatedAt": "2020-11-21T06:06:06.352Z"
+}

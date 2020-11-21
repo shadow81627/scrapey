@@ -1,0 +1,60 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Sodium Palmate, Sodium Palm Kernelate (used interchangeably) or Sodium Cocoate (used interchangeably), Water, Glycerin, Talc, Palmitic Acid, Fragrance, Phenoxyethanol, Titanium Dioxide, Camellia Sinensis Leaf Extract, CI 47005, CI 15510."
+    },
+    {
+      "name": "Contains",
+      "value": "4 x 90g Palmolive Gold Soap"
+    },
+    {
+      "name": "Size",
+      "value": "4 pack"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.79 per 100G"
+    }
+  ],
+  "brand": "Palmolive",
+  "createdAt": "2020-11-21T05:49:54.289Z",
+  "description": "Palmolive Gold Soap",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/9/2/5928755.jpg",
+    "width": 300
+  },
+  "name": "Gold Soap",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2.85,
+    "lowPrice": 2.85,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-21T05:49:54.288Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "2.85",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/palmolive-soap-gold"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/palmolive-soap-gold"
+  ],
+  "sku": "5928755",
+  "updatedAt": "2020-11-21T05:49:54.288Z"
+}

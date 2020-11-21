@@ -1,0 +1,56 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "350mL"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.71 per 100mL"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Product of Australia"
+    }
+  ],
+  "brand": "Connoisseur",
+  "createdAt": "2020-11-21T06:12:26.087Z",
+  "description": "Connoisseur Plant Based Vanilla Brownie 4 Pack",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/8/8/3883973.jpg",
+    "width": 300
+  },
+  "name": "Plant Based Vanilla Brownie 4 Pack",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 6,
+    "lowPrice": 6,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-21T06:12:26.087Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "6.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/connoisseur-plant-based-chocolate-brownie-4pk"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/connoisseur-plant-based-chocolate-brownie-4pk"
+  ],
+  "sku": "3883973",
+  "updatedAt": "2020-11-21T06:12:26.087Z"
+}

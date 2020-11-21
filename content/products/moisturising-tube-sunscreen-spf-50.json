@@ -1,0 +1,52 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "110mL"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$5.45 per 100mL"
+    }
+  ],
+  "brand": "Cancer Council",
+  "createdAt": "2020-11-21T05:41:51.770Z",
+  "description": "Cancer Council Moisturising Tube Sunscreen SPF 50+",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/2/9/3299987.jpg",
+    "width": 300
+  },
+  "name": "Moisturising Tube Sunscreen SPF 50+",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 6,
+    "lowPrice": 6,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-21T05:41:51.769Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "6.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/tcca-moisturising-tube-sunscreen-spf50"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/tcca-moisturising-tube-sunscreen-spf50"
+  ],
+  "sku": "3299987",
+  "updatedAt": "2020-11-21T05:41:51.769Z"
+}

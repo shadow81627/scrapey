@@ -1,0 +1,60 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Contains",
+      "value": "Soya Bean Products. 100 tablets"
+    },
+    {
+      "name": "Warning",
+      "value": "Vitamins can only be of assistance if dietary vitamin intake in inadequate. Use only as directed. Do not use if hypersensitive to any of the ingredients. Ask your doctor before use if you have impaired renal function. Consult your doctor before taking this product if you are presently taken or recently taken a prescription medicine. Seek medical advice for use under 18 years. Ask your healthcrae professional before use if you are pregnant or breastfeeding. Do not take if tamper evident seal is broken or missing. Keep out of reach of children. Contains soya bean products."
+    },
+    {
+      "name": "Size",
+      "value": "100 pack"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$8.50 per 100Ea"
+    }
+  ],
+  "brand": "Caltrate",
+  "createdAt": "2020-11-21T05:46:54.028Z",
+  "description": "Caltrate Bone & Muscle combines a unique blend of calcium and 4 other minerals that are important for collagen formation to support bone strength & flexibility. Plus high levels of Vitamin D to support muscle strength, to help keep you moving.",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/9/3/1/9314620.jpg",
+    "width": 300
+  },
+  "name": "Bone & Muscle Health Tablets",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 8.5,
+    "lowPrice": 8.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-21T05:46:54.028Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "8.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/caltrate-plus-calcium-supplement-tablets"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/caltrate-plus-calcium-supplement-tablets"
+  ],
+  "sku": "9314620",
+  "updatedAt": "2020-11-21T05:46:54.028Z"
+}

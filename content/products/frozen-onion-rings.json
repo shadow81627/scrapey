@@ -1,0 +1,64 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Onion, Wheat flour, Sunflower Oil, Maize starch, water, maize flour, modified starches (wheat, tapioca (1412)), sugar, salt, gelling agents (461, 401), dextrose, whey powder (milk), rapeseed oil,natural colour (160c), Raising Agents (450, 500) black pepperextract, yeast."
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "5.0"
+    },
+    {
+      "name": "Size",
+      "value": "500g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.80 per 100G"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Made in Netherlands"
+    }
+  ],
+  "brand": "McCain",
+  "createdAt": "2020-11-21T06:05:46.139Z",
+  "description": "McCain Onion Rings are perfect for dipping, snacking and sharing.",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/4/1/3412478.jpg",
+    "width": 300
+  },
+  "name": "Frozen Onion Rings",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 4,
+    "lowPrice": 4,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-21T06:05:46.139Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "4.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/mccains-onion-rings"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/mccains-onion-rings"
+  ],
+  "sku": "3412478",
+  "updatedAt": "2020-11-21T06:05:46.139Z"
+}

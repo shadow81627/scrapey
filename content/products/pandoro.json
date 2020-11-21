@@ -1,0 +1,68 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "INGREDIENTS: Pandoro [Wheat Flour, Egg, Sugar, Butterfat (16%) (Milk), Sourdough (Wheat Flour, Water), Milk, Fructose, Emulsifier (471), Cocoa Butter, Salt, Yeast, Natural Flavouring), Icing Sugar Sachet (5%) [Sugar, Wheat Starch]."
+    },
+    {
+      "name": "Allergen",
+      "value": "Contains EGG, May Contain TREE NUTS, Contains CEREALS CONTAINING GLUTEN, Contains MILK, May Contain SOY"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "12.0"
+    },
+    {
+      "name": "Size",
+      "value": "1kg"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.70 per 100G"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Made in Italy"
+    }
+  ],
+  "brand": "Adalgisa",
+  "createdAt": "2020-11-21T06:07:06.456Z",
+  "description": "Our Pandoro is baked using a traditional family recipe passed down through the generations. The sweet and buttery panettone is hung upside down and cooled slowly over 8 hours. Indulge in the soft, delicate texture and finish at home with a dusting of icing sugar.",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/5/6/3562200.jpg",
+    "width": 300
+  },
+  "name": "Pandoro",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 17,
+    "lowPrice": 17,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-21T06:07:06.454Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "17.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-traditional-classic-pandoro-3562200p"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/coles-traditional-classic-pandoro-3562200p"
+  ],
+  "sku": "3562200",
+  "updatedAt": "2020-11-21T06:07:06.454Z"
+}

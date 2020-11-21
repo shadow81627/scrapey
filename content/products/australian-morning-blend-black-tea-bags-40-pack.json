@@ -1,0 +1,64 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Pure Ceylon Tea from Kennilworth, Kiruwanaganga and Ullswater Estates*, *Rainforest Alliance Certified"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "40.0"
+    },
+    {
+      "name": "Size",
+      "value": "88g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$5.97 per 100G"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Packed in Sri Lanka from local and imported ingredients"
+    }
+  ],
+  "brand": "Madame Flavour",
+  "createdAt": "2020-11-21T06:19:45.088Z",
+  "description": "Bold, fresh and fragrant, Australian Morning Blend offers you a beautiful tea experience in a fast-infusing teabag. Full of the care & quality of finer cut tea, from classic Ceylon estates.",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/2/4/3247000.jpg",
+    "width": 300
+  },
+  "name": "Australian Morning Blend Black Tea Bags 40 pack",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 5.25,
+    "lowPrice": 5.25,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-21T06:19:45.087Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "5.25",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/madame-flavour-tea-australian-morning"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/madame-flavour-tea-australian-morning"
+  ],
+  "sku": "3247000",
+  "updatedAt": "2020-11-21T06:19:45.087Z"
+}

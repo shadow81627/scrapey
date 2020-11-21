@@ -1,0 +1,60 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Each Tablet Contains: Thiamine Nitrate (Vitamin B1) 150mg Riboflavine (Vitamin B2) 150mg Nicotinamide (Vitamin B3) 150mg Calcium Pantothenate (Vitamin B5) 150mg Pyridoxine Hydrochloride (Vitamin B6) 150mg Mecobalamin (Vitamin B12) 400micrograms Folic Acid 500micrograms Biotin 150micrograms Choline Bitartrate 75mg Inositol 75mg"
+    },
+    {
+      "name": "Contains",
+      "value": "NO ADDED: Gluten, lactose, sugar, artificial colours, artificial flavours, artificial sweeteners, dairy products or animal-derived products."
+    },
+    {
+      "name": "Size",
+      "value": "30 pack"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.33 per 1Ea"
+    }
+  ],
+  "brand": "Cenovis",
+  "createdAt": "2020-11-21T05:43:33.575Z",
+  "description": "Cenovis Hello Energy Tablets",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/7/0/3709728.jpg",
+    "width": 300
+  },
+  "name": "Hello Energy Tablets",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 10,
+    "lowPrice": 10,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-21T05:43:33.574Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "10.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/cenovis-hello-energy-30-tablets"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/cenovis-hello-energy-30-tablets"
+  ],
+  "sku": "3709728",
+  "updatedAt": "2020-11-21T05:43:33.574Z"
+}

@@ -1,0 +1,60 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "our ingredients... Sugar, corn starch, vegetable powders (tomato, onion), maltodextrin (from wheat), natural flavours, salt, potato starch, milk powders (cream, skilm milk), paprika, burnt sugar, yeast extract, natural colour (carotene), sunflower oil, garlic extract."
+    },
+    {
+      "name": "Contains",
+      "value": "40G"
+    },
+    {
+      "name": "Size",
+      "value": "40g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$4.00 per 100G"
+    }
+  ],
+  "brand": "Continental",
+  "createdAt": "2020-11-21T06:14:46.019Z",
+  "description": "Continental Beef Stroganoff Recipe Base Serves 4",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/9/4/7/9475969.jpg",
+    "width": 300
+  },
+  "name": "Beef Stroganoff Recipe Base Serves 4",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 1.6,
+    "lowPrice": 1.6,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-21T06:14:46.019Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "1.60",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/continental-recipe-mix-beef-stroganoff"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/continental-recipe-mix-beef-stroganoff"
+  ],
+  "sku": "9475969",
+  "updatedAt": "2020-11-21T06:14:46.019Z"
+}

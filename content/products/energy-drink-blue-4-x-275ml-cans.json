@@ -1,0 +1,64 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Key Ingredients: Sucrose, Guarana, Caffeine, B Vitamins, Taurine"
+    },
+    {
+      "name": "Warning",
+      "value": "This product contains caffeine. This product is not recommended for children, pregnant or lactating women, or individual sensitivity to caffeine. Consume responsibly."
+    },
+    {
+      "name": "Size",
+      "value": "4 pack"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$9.05 per 1L"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "MANUFACTURED IN NEW ZEALAND OR AUSTRALIA FROM LOCAL AND IMPORTED INGREDIENTS"
+    }
+  ],
+  "brand": "V",
+  "createdAt": "2020-11-21T06:08:26.361Z",
+  "description": "Blue can be a type of berry, a bird, a movie, or a state of mind. In this case it's the colour of our cans... and a mysterious flavour.",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/3/8/2383363.jpg",
+    "width": 300
+  },
+  "name": "Energy Drink Blue 4 x 275ml Cans",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 9.95,
+    "lowPrice": 9.95,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-21T06:08:26.360Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "9.95",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/v-energy-drink-blue-4-x-275ml-cans"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/v-energy-drink-blue-4-x-275ml-cans"
+  ],
+  "sku": "2383363",
+  "updatedAt": "2020-11-21T06:08:26.360Z"
+}

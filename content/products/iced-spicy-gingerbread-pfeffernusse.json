@@ -1,0 +1,68 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Wheat flour, glucose and fructose syrup, sugar, spices, potato flour, pigment: caramel, titanium oxide; raising agents; ammonium hydrogen carbonate, sodium hydrogen carbonate, pork Gelatin, acidity regulator: milk acid, salt."
+    },
+    {
+      "name": "Allergen",
+      "value": "Contains Milk, Contains Egg, Contains Nuts, Contains Wheat"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "10.0"
+    },
+    {
+      "name": "Size",
+      "value": "200g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.50 per 100G"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Product of Poland"
+    }
+  ],
+  "brand": "Heidi",
+  "createdAt": "2020-11-21T05:48:14.287Z",
+  "description": "iced Spicy Gingerbread",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/9/5/9/9594935.jpg",
+    "width": 300
+  },
+  "name": "Iced Spicy Gingerbread Pfeffernusse",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3,
+    "lowPrice": 3,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-21T05:48:14.286Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "3.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/heidi-pfeffernusse-spicy-gingerbread-iced"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/heidi-pfeffernusse-spicy-gingerbread-iced"
+  ],
+  "sku": "9594935",
+  "updatedAt": "2020-11-21T05:48:14.286Z"
+}

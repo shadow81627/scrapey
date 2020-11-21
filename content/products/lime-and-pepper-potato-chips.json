@@ -31,7 +31,7 @@
     },
     {
       "name": "Unit Price",
-      "value": "$2.82 per 100G"
+      "value": "$1.82 per 100G"
     },
     {
       "name": "Country Of Origin",
@@ -39,7 +39,7 @@
     }
   ],
   "brand": "Red Rock Deli",
-  "createdAt": "2020-11-15T10:50:16.594Z",
+  "createdAt": "2020-11-21T05:45:33.967Z",
   "description": "Red Rock Deli Lime & Pepper Potato Chips",
   "image": {
     "@type": "ImageObject",
@@ -51,18 +51,18 @@
   "name": "Lime & Pepper Potato Chips",
   "offers": {
     "@type": "AggregateOffer",
-    "highPrice": 4.65,
-    "lowPrice": 4.65,
+    "highPrice": 3,
+    "lowPrice": 3,
     "offerCount": 1,
     "offers": [
       {
         "@context": "http://schema.org",
         "@type": "Offer",
         "availability": "https://schema.org/InStock",
-        "availabilityStarts": "2020-11-15T10:50:16.594Z",
+        "availabilityStarts": "2020-11-21T05:45:33.966Z",
         "itemCondition": "https://schema.org/NewCondition",
         "offeredBy": "Coles",
-        "price": "4.65",
+        "price": "3.00",
         "priceCurrency": "AUD",
         "seller": {
           "@type": "Organization",
@@ -73,8 +73,8 @@
     ]
   },
   "sameAs": [
-    "https://shop.coles.com.au/a/national/product/red-rock-deli-lime-pepper-potato-chips?adId=display_zyQ_mfGEchArwJBK3PZmjtT1j4YxNzg2MTYwUA%3D%3D"
+    "https://shop.coles.com.au/a/national/product/red-rock-deli-lime-pepper-potato-chips"
   ],
   "sku": "1786193",
-  "updatedAt": "2020-11-15T10:50:16.594Z"
+  "updatedAt": "2020-11-21T05:45:33.966Z"
 }

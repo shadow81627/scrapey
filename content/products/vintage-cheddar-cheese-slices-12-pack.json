@@ -1,0 +1,52 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "250g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$26.00 per 1Kg"
+    }
+  ],
+  "brand": "Cracker Barrel",
+  "createdAt": "2020-11-21T06:23:32.847Z",
+  "description": "Cracker Barrel Vintage Cheddar Cheese Slices 12 pack",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/4/3/8/4389178.jpg",
+    "width": 300
+  },
+  "name": "Vintage Cheddar Cheese Slices 12 pack",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 6.5,
+    "lowPrice": 6.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-21T06:23:32.842Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "6.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/cracker-barrel-cheese-slices-vintage-extra-sharp-12-pack"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/cracker-barrel-cheese-slices-vintage-extra-sharp-12-pack"
+  ],
+  "sku": "4389178",
+  "updatedAt": "2020-11-21T06:23:32.842Z"
+}

@@ -1,0 +1,52 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "approx.800g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$16.00 per 1Kg"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2020-11-21T06:13:45.426Z",
+  "description": "Indicated price based on approx. weight. Weight may vary between 600g and 1kg",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/9/1/6/9169317.jpg",
+    "width": 300
+  },
+  "name": "Beef Chuck Casserole Steak",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 12.8,
+    "lowPrice": 12.8,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-21T06:13:45.425Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "12.80",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-beef-chuck-casserole-steak"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/sunnybank-hills/product/coles-beef-chuck-casserole-steak"
+  ],
+  "sku": "9169317",
+  "updatedAt": "2020-11-21T06:13:45.425Z"
+}

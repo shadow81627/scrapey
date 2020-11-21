@@ -1,0 +1,52 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "350mL"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.23 per 100mL"
+    }
+  ],
+  "brand": "Morning Fresh",
+  "createdAt": "2020-11-21T06:04:25.774Z",
+  "description": "Morning Fresh Ultra Concentrate Botanicals Plum & Cherry Blossom Dishwashing Liquid",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/7/4/3744310.jpg",
+    "width": 300
+  },
+  "name": "Ultra Concentrate Botanicals Plum & Cherry Blossom Dishwashing Liquid",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 4.3,
+    "lowPrice": 4.3,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-21T06:04:25.771Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "4.30",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/morning-fresh-botanicals-dishwash-plum-cherry"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/morning-fresh-botanicals-dishwash-plum-cherry"
+  ],
+  "sku": "3744310",
+  "updatedAt": "2020-11-21T06:04:25.771Z"
+}

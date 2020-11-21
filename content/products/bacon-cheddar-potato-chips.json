@@ -1,0 +1,72 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Potatoes, Sunflower Oil, Sugar, Maltodextrin, Salt, Natural Flavours (Milk), Cheddar Cheese Powder (Milk), Yeast Extract, Smoked Yeast Powder, Smoked Dextrose, Cream Powder (Milk), Tea Powder, Natural Colours (Paprika Extract, Curcumin), Bacon Powder, Maple Syrup Powder."
+    },
+    {
+      "name": "Contains",
+      "value": "Milk or milk products, soybeans or soybean products."
+    },
+    {
+      "name": "Allergen",
+      "value": "Contains Milk, Contains Soy"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "5.4"
+    },
+    {
+      "name": "Size",
+      "value": "150g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$2.00 per 100G"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Made in Australia"
+    }
+  ],
+  "brand": "Red Rock Deli",
+  "createdAt": "2020-11-21T05:45:54.042Z",
+  "description": "Red Rock Deli Bacon Cheddar Potato Chips",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/1/5/3151840.jpg",
+    "width": 300
+  },
+  "name": "Bacon Cheddar Potato Chips",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3,
+    "lowPrice": 3,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-21T05:45:54.042Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "3.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/red-rock-deli-thai-chilli-lime-potato-chips-3151840p"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/red-rock-deli-thai-chilli-lime-potato-chips-3151840p"
+  ],
+  "sku": "3151840",
+  "updatedAt": "2020-11-21T05:45:54.042Z"
+}

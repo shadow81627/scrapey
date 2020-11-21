@@ -1,0 +1,56 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Contains",
+      "value": "Preservatives: Phenoxyethanol, Hydroxybenzoates"
+    },
+    {
+      "name": "Size",
+      "value": "400g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$5.25 per 100G"
+    }
+  ],
+  "brand": "Banana Boat",
+  "createdAt": "2020-11-21T06:22:06.838Z",
+  "description": "Banana Boat Sport SPF 50+ Sunscreen Lotion",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/7/2/1/7211514.jpg",
+    "width": 300
+  },
+  "name": "Sport SPF 50+ Sunscreen Lotion",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 21,
+    "lowPrice": 21,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-21T06:22:06.838Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "21.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/banana-boat-sport-pump-sunscreen-sweat-resistant-spf-30-7211514p"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/richmond-south/product/banana-boat-sport-pump-sunscreen-sweat-resistant-spf-30-7211514p"
+  ],
+  "sku": "7211514",
+  "updatedAt": "2020-11-21T06:22:06.838Z"
+}

@@ -1,0 +1,52 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "approx. 500g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$6.80 per 1Kg"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2020-11-21T06:11:46.470Z",
+  "description": "Coles RSPCA Approved Chicken Giblets",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/5/6/2565429.jpg",
+    "width": 300
+  },
+  "name": "RSPCA Approved Chicken Giblets",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3.4,
+    "lowPrice": 3.4,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-21T06:11:46.470Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "3.40",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-rspca-chicken-giblets"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/coles-rspca-chicken-giblets"
+  ],
+  "sku": "2565429",
+  "updatedAt": "2020-11-21T06:11:46.470Z"
+}

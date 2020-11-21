@@ -1,0 +1,60 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Contains",
+      "value": "120 Pastilles"
+    },
+    {
+      "name": "Warning",
+      "value": "Supplements may only be of assistance if dietary intake is inadequate. If you are pregnant or breastfeeding, talk to your health professional before use."
+    },
+    {
+      "name": "Size",
+      "value": "120 pack"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$16.67 per 100Ea"
+    }
+  ],
+  "brand": "Blackmores",
+  "createdAt": "2020-11-21T05:39:50.710Z",
+  "description": "Blackmores Vitamin C + Elderberry Gummies",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/7/0/3709615.jpg",
+    "width": 300
+  },
+  "name": "Vitamin C + Elderberry Gummies",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 20,
+    "lowPrice": 20,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-21T05:39:50.709Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "20.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/blackmores-vit-c-elderberry-gummy"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/blackmores-vit-c-elderberry-gummy"
+  ],
+  "sku": "3709615",
+  "updatedAt": "2020-11-21T05:39:50.709Z"
+}

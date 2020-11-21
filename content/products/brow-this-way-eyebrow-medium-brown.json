@@ -1,0 +1,52 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "0.4g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$400.00 per 10G"
+    }
+  ],
+  "brand": "Rimmel",
+  "createdAt": "2020-11-21T05:49:14.346Z",
+  "description": "Rimmel Brow This Way Eyebrow Medium Brown",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/7/0/3702354.jpg",
+    "width": 300
+  },
+  "name": "Brow This Way Eyebrow Medium Brown",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 16,
+    "lowPrice": 16,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-21T05:49:14.346Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "16.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/rimmel-brow-this-way-eyebrow-medium-brown"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/rimmel-brow-this-way-eyebrow-medium-brown"
+  ],
+  "sku": "3702354",
+  "updatedAt": "2020-11-21T05:49:14.346Z"
+}

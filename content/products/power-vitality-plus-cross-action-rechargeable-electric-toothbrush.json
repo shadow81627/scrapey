@@ -1,0 +1,60 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Contains",
+      "value": "1 Count"
+    },
+    {
+      "name": "Warning",
+      "value": "Do not use on children under age 3.Replace brush (head) every 3 months or sooner if brush head becomes loose due to damage."
+    },
+    {
+      "name": "Size",
+      "value": "1 pack"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$45.00 per 1Ea"
+    }
+  ],
+  "brand": "Oral-B",
+  "createdAt": "2020-11-21T05:55:37.713Z",
+  "description": "Oral-B Power Vitality Plus Cross Action Rechargeable Electric Toothbrush",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/8/6/2868760.jpg",
+    "width": 300
+  },
+  "name": "Power Vitality Plus Cross Action Rechargeable Electric Toothbrush",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 45,
+    "lowPrice": 45,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-21T05:55:37.712Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "45.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/oral-b-power-vitality-plus-cross-action"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/oral-b-power-vitality-plus-cross-action"
+  ],
+  "sku": "2868760",
+  "updatedAt": "2020-11-21T05:55:37.712Z"
+}

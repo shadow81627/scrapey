@@ -1,0 +1,52 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "110mL"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$6.14 per 100mL"
+    }
+  ],
+  "brand": "Cancer Council",
+  "createdAt": "2020-11-21T05:40:31.070Z",
+  "description": "Cancer Council Repel Sunscreen SPF 50+",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/5/6/3568273.jpg",
+    "width": 300
+  },
+  "name": "Repel Sunscreen SPF 50+",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 6.75,
+    "lowPrice": 6.75,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-21T05:40:31.069Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "6.75",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/tcca-sunscreen-repel-50-sunscreen-50"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/tcca-sunscreen-repel-50-sunscreen-50"
+  ],
+  "sku": "3568273",
+  "updatedAt": "2020-11-21T05:40:31.069Z"
+}
