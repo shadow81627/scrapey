@@ -1,0 +1,60 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Aqua, Isododecane, Isopropyl Alcohol, Panthenol, Phenoxyethanol, Histidine, Citric Acid, Parfum, Cetrimonium Chloride, Polyquaternium-6, Tocopherylacetate, Sodiumcocoamphoacetate, Polysorbate 20, Hexyl Cinnamal, Propylene Glycol, PEG-20 Glyceryl Laurate, Butylene Glycol, Aloe Barbadensis Leaf Juice, Benzyl Salicylate, Limonene, Linalool, Tocopherol, Linoleicacid, Alcohol Denatured, Zea Mays Silk Extract, Orchis Mascula Flower Extract, Cocos Nucifera Fruit Extract, Retinyl Palmitate, Ecklonia Radiata Extract"
+    },
+    {
+      "name": "Warning",
+      "value": "Flammable. Keep out of reach of children."
+    },
+    {
+      "name": "Size",
+      "value": "100mL"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$20.00 per 100mL"
+    }
+  ],
+  "brand": "Herbal Essences",
+  "createdAt": "2020-11-21T10:22:31.668Z",
+  "description": "Herbal Essences Coconut & Aloe Treatment",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/8/3/3837171.jpg",
+    "width": 300
+  },
+  "name": "Coconut & Aloe Treatment",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 20,
+    "lowPrice": 20,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-21T10:22:31.668Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "20.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/herbal-essences-treatment-coconut-"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/herbal-essences-treatment-coconut-"
+  ],
+  "sku": "3837171",
+  "updatedAt": "2020-11-21T10:22:31.668Z"
+}

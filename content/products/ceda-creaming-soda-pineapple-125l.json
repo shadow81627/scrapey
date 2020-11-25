@@ -1,0 +1,65 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "179kJ",
+      "carbohydrateContent": "10.5g",
+      "fatContent": "0g",
+      "name": "nutrition",
+      "proteinContent": "0g",
+      "saturatedFatContent": "0g",
+      "servingSize": "100 g",
+      "sodiumContent": "11mg",
+      "sugarContent": "10.5g"
+    }
+  ],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "ceda"
+  },
+  "createdAt": "2020-11-22T05:27:28.780Z",
+  "description": "Pineapple Soft Drink with a great Creaming Soda taste",
+  "gtin13": "9345905007640",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1200,
+    "mime": "image/jpeg",
+    "url": "https://cdn0.woolworths.media/content/wowproductimages/large/082116.jpg",
+    "width": 1200
+  },
+  "name": "Ceda Creaming Soda Pineapple 1.25l",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 1.55,
+    "lowPrice": 1.55,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2020-11-22T05:27:28.778Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 1.55,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/82116/ceda-creaming-soda-pineapple"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/82116/ceda-creaming-soda-pineapple"
+  ],
+  "sku": "82116",
+  "updatedAt": "2020-11-22T05:27:28.778Z"
+}

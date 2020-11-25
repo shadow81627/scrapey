@@ -1,0 +1,76 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Fresh Milk, Sugar, Coffee Powder (0.57%)(Robusta, Arabica), Cocoa Powder (0.27%), Flavours, Vegetable Gum (407)."
+    },
+    {
+      "name": "Contains",
+      "value": "Milk, Caffeine."
+    },
+    {
+      "name": "Allergen",
+      "value": "Contains Milk, Contains Caffeine"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "3.0"
+    },
+    {
+      "name": "Warning",
+      "value": "Not recommended for children, pregnant and lactating women or individuals sensitive to caffeine."
+    },
+    {
+      "name": "Size",
+      "value": "750mL"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$5.47 per 1L"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Refer to product packaging"
+    }
+  ],
+  "brand": "Dare",
+  "createdAt": "2020-11-21T08:11:44.515Z",
+  "description": "Dare Mocha Flavoured Milk",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/0/3/3034031.jpg",
+    "width": 300
+  },
+  "name": "Mocha Flavoured Milk",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 4.1,
+    "lowPrice": 4.1,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-21T08:11:44.514Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "4.10",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/dare-mocha-flavoured-milk"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/dare-mocha-flavoured-milk"
+  ],
+  "sku": "3034031",
+  "updatedAt": "2020-11-21T08:11:44.514Z"
+}

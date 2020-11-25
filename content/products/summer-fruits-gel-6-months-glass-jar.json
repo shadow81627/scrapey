@@ -1,0 +1,52 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "110g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.91 per 100G"
+    }
+  ],
+  "brand": "Heinz",
+  "createdAt": "2020-11-21T10:15:32.939Z",
+  "description": "Heinz Summer Fruits Gel 6+ Months Glass Jar",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/0/3/203110.jpg",
+    "width": 300
+  },
+  "name": "Summer Fruits Gel 6+ Months Glass Jar",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 1,
+    "lowPrice": 1,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-21T10:15:32.938Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "1.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/heinz-all-ages-from-6-months-smooth-gel-summer-fruits"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/heinz-all-ages-from-6-months-smooth-gel-summer-fruits"
+  ],
+  "sku": "203110",
+  "updatedAt": "2020-11-21T10:15:32.938Z"
+}

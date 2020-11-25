@@ -1,0 +1,52 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "110g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.91 per 100G"
+    }
+  ],
+  "brand": "Heinz",
+  "createdAt": "2020-11-21T10:15:52.990Z",
+  "description": "Heinz All Ages 6+ Months Glass Baby Food Vanilla Custard",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/7/9/5795629.jpg",
+    "width": 300
+  },
+  "name": "All Ages 6+ Months Glass Baby Food Vanilla Custard",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 1,
+    "lowPrice": 1,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-21T10:15:52.990Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "1.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/heinz-all-ages-from-6-months-smooth-custard-vanilla"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/heinz-all-ages-from-6-months-smooth-custard-vanilla"
+  ],
+  "sku": "5795629",
+  "updatedAt": "2020-11-21T10:15:52.990Z"
+}

@@ -1,0 +1,71 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "2390kJ",
+      "carbohydrateContent": "6.8g",
+      "fatContent": "50.6g",
+      "name": "nutrition",
+      "proteinContent": "19.7g",
+      "saturatedFatContent": "5.8g",
+      "servingSize": "100 g",
+      "sodiumContent": "7mg",
+      "sugarContent": "5.9g"
+    }
+  ],
+  "aggregateRating": {
+    "@context": "http://schema.org",
+    "@type": "AggregateRating",
+    "ratingCount": 249,
+    "ratingValue": 4.42
+  },
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "woolworths"
+  },
+  "createdAt": "2020-11-22T06:41:15.757Z",
+  "description": "Woolworths Pistachios can be crushed & added to your homemade chocolate bark.These pistachios are a source of fibre and a treat when added to a homemade chocolate bark. Also perfect when crushed and added to your favourite ice cream or dessert.Source of protein.Source of fibre.No artificial colours, flavors or preservatives.Healthy handful = 30g a day.",
+  "gtin13": "9300633308261",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1200,
+    "mime": "image/jpeg",
+    "url": "https://cdn0.woolworths.media/content/wowproductimages/large/726357.jpg",
+    "width": 1200
+  },
+  "name": "Woolworths Pistachios 80g",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 5,
+    "lowPrice": 5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2020-11-22T06:41:15.756Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 5,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/726357/woolworths-pistachios?reviewPageNumber=7"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/726357/woolworths-pistachios?reviewPageNumber=7"
+  ],
+  "sku": "726357",
+  "updatedAt": "2020-11-22T06:41:15.756Z"
+}

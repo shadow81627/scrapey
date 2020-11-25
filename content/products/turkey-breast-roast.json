@@ -1,0 +1,80 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Turkey Breast (76%), Marinade (23%) [Water, Modified Starch (1412), Mineral Salts (451, 450, 452, 508), Soy Protein Isolate, Salt, Vegetable Gum (407a, 415), Whey Protein, Food Acid (331), Sugar, Dextrose (Maize), Maltodextrin, Yeast Extract, Vegetable Oil, Herb Extract], Salt, Seasoning [Salt, Rice Flour, Herbs, Dehydrated Vegetable, Vegetable Powders, Spices, Sugar, Vegetable Oil]."
+    },
+    {
+      "name": "Contains",
+      "value": "This product contains Milk and Soy and may contain Tree Nuts."
+    },
+    {
+      "name": "Allergen",
+      "value": "May Be Present Tree Nuts, Contains Milk, Contains Soy"
+    },
+    {
+      "name": "Dietary",
+      "value": "No Preservatives, 99% Fat Free, No Artificial Flavours or Colours"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "10.0"
+    },
+    {
+      "name": "Warning",
+      "value": "Though great care has been taken to remove bones from this product, some may remain."
+    },
+    {
+      "name": "Size",
+      "value": "1kg"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$15.00 per 1Kg"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Product of Mixed Origin"
+    }
+  ],
+  "brand": "Steggles",
+  "createdAt": "2020-11-21T10:17:12.636Z",
+  "description": "Steggles Turkey Breast Roast",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/5/8/5588646.jpg",
+    "width": 300
+  },
+  "name": "Turkey Breast Roast",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 15,
+    "lowPrice": 15,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-21T10:17:12.635Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "15.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/steggles-turkey-breast-roast-frozen"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/steggles-turkey-breast-roast-frozen"
+  ],
+  "sku": "5588646",
+  "updatedAt": "2020-11-21T10:17:12.635Z"
+}

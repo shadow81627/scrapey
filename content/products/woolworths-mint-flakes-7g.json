@@ -1,0 +1,58 @@
+{
+  "@type": "Product",
+  "additionalProperty": [],
+  "aggregateRating": {
+    "@context": "http://schema.org",
+    "@type": "AggregateRating",
+    "ratingCount": 43,
+    "ratingValue": 4.4
+  },
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "woolworths"
+  },
+  "createdAt": "2020-11-22T06:40:32.724Z",
+  "description": "Woolworths Select Mint Flakes.",
+  "gtin13": "9300633928360",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1200,
+    "mime": "image/jpeg",
+    "url": "https://cdn0.woolworths.media/content/wowproductimages/large/251082.jpg",
+    "width": 1200
+  },
+  "name": "Woolworths Mint Flakes 7g",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 1.55,
+    "lowPrice": 1.55,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2020-11-22T06:40:32.719Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 1.55,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/251082/woolworths-mint-flakes"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/251082/woolworths-mint-flakes"
+  ],
+  "sku": "251082",
+  "updatedAt": "2020-11-22T06:40:32.719Z"
+}

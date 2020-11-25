@@ -1,0 +1,52 @@
+{
+  "@type": "Product",
+  "additionalProperty": [],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "mint"
+  },
+  "createdAt": "2020-11-22T08:03:44.448Z",
+  "description": "Get your ingredient measurements spot•on when whipping up a storm in the kitchen. This set of four measuring spoons come stamped with conversions for easy baking and stack into each other • a real space saver in the cupboard.\n\n• Stainless Steel\n• Set Contains: 1/4 TSP (1.25mL), 1/2 TSP (2.5mL), 1 TSP (5mL), 1 TBSP (20mL)\n• Soft grip handles",
+  "gtin13": "9339687065035",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1200,
+    "mime": "image/jpeg",
+    "url": "https://cdn0.woolworths.media/content/wowproductimages/large/807276.jpg",
+    "width": 1200
+  },
+  "name": "Mint Measuring Spoon 4 pack",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3.55,
+    "lowPrice": 3.55,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2020-11-22T08:03:44.448Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 3.55,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/807276/mint-measuring-spoon"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/807276/mint-measuring-spoon"
+  ],
+  "sku": "807276",
+  "updatedAt": "2020-11-22T08:03:44.448Z"
+}

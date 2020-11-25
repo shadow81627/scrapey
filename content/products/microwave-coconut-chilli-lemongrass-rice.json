@@ -1,0 +1,68 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Steamed Basmati Rice 80%, Coconut Cream 11% (Coconut Cream, Thickeners (Modified Cornstarch, Guar Gum, Xanthan Gum, Carrageenan Gum)), Capsicum, Lemongrass 2.5%, Coconut 1.5%, Vegetable Oil, Salt, Sugar, Chilli 0.5%, Pepper, Flavour, Vinegar. Contains Soy"
+    },
+    {
+      "name": "Contains",
+      "value": "Soy."
+    },
+    {
+      "name": "Allergen",
+      "value": "Contains Soy"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "2.0"
+    },
+    {
+      "name": "Size",
+      "value": "250g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.30 per 100G"
+    }
+  ],
+  "brand": "Uncle Ben's",
+  "createdAt": "2020-11-21T10:24:11.694Z",
+  "description": "Uncle Ben's Microwave Coconut Chilli Lemongrass Rice",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/2/3/3230947.jpg",
+    "width": 300
+  },
+  "name": "Microwave Coconut Chilli Lemongrass Rice",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3.25,
+    "lowPrice": 3.25,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-21T10:24:11.693Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "3.25",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/uncle-bens-express-rice-coconut-chi-lgrs"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/sunnybank-hills/product/uncle-bens-express-rice-coconut-chi-lgrs"
+  ],
+  "sku": "3230947",
+  "updatedAt": "2020-11-21T10:24:11.693Z"
+}

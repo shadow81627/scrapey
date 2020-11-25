@@ -15,7 +15,7 @@
     },
     {
       "name": "Unit Price",
-      "value": "$1.20 per 1L"
+      "value": "$2.52 per 1L"
     },
     {
       "name": "Country Of Origin",
@@ -23,7 +23,7 @@
     }
   ],
   "brand": "Coca-Cola",
-  "createdAt": "2020-11-15T08:20:21.254Z",
+  "createdAt": "2020-11-21T10:12:53.447Z",
   "description": "Coca-Cola Vanilla Flavour No Sugar Coke",
   "image": {
     "@type": "ImageObject",
@@ -35,18 +35,18 @@
   "name": "Vanilla Flavour No Sugar Coke",
   "offers": {
     "@type": "AggregateOffer",
-    "highPrice": 1.5,
-    "lowPrice": 1.5,
+    "highPrice": 3.15,
+    "lowPrice": 3.15,
     "offerCount": 1,
     "offers": [
       {
         "@context": "http://schema.org",
         "@type": "Offer",
         "availability": "https://schema.org/InStock",
-        "availabilityStarts": "2020-11-15T08:20:21.254Z",
+        "availabilityStarts": "2020-11-21T10:12:53.446Z",
         "itemCondition": "https://schema.org/NewCondition",
         "offeredBy": "Coles",
-        "price": "1.50",
+        "price": "3.15",
         "priceCurrency": "AUD",
         "seller": {
           "@type": "Organization",
@@ -57,8 +57,8 @@
     ]
   },
   "sameAs": [
-    "https://shop.coles.com.au/a/richmond-south/product/coca-cola-soft-drink-coke-no-sugar-vanilla"
+    "https://shop.coles.com.au/a/national/product/coca-cola-soft-drink-coke-no-sugar-vanilla"
   ],
   "sku": "3271060",
-  "updatedAt": "2020-11-15T08:20:21.254Z"
+  "updatedAt": "2020-11-21T10:12:53.446Z"
 }

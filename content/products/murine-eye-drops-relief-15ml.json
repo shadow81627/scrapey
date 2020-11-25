@@ -1,0 +1,58 @@
+{
+  "@type": "Product",
+  "additionalProperty": [],
+  "aggregateRating": {
+    "@context": "http://schema.org",
+    "@type": "AggregateRating",
+    "ratingCount": 7,
+    "ratingValue": 4.57
+  },
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "murine"
+  },
+  "createdAt": "2020-11-22T07:53:43.898Z",
+  "description": "MURINE®  Relief relieves, cleanses and soothes sore irritated eyes.MURINE Relief is a soothing, gentle solution which can be used as often as desired to provide relief for sore eyes. It provides relief from mild irritation and soreness associated with: - smoke - air pollution - dust - wind - allergy - sun - swimming.Relieves, cleanses, soothes for sore irritated eyesSoothing & gentle solution",
+  "gtin13": "9317039002266",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1200,
+    "mime": "image/jpeg",
+    "url": "https://cdn0.woolworths.media/content/wowproductimages/large/030449.jpg",
+    "width": 1200
+  },
+  "name": "Murine Eye Drops Relief 15ml",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 8.5,
+    "lowPrice": 8.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2020-11-22T07:53:43.897Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 8.5,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/30449/murine-eye-drops-relief"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/30449/murine-eye-drops-relief"
+  ],
+  "sku": "30449",
+  "updatedAt": "2020-11-22T07:53:43.897Z"
+}

@@ -1,0 +1,56 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "600mL"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$6.08 per 1L"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "MADE IN AUSTRALIA FROM LOCAL AND IMPORTED INGREDIENTS"
+    }
+  ],
+  "brand": "Gatorade",
+  "createdAt": "2020-11-21T10:25:11.457Z",
+  "description": "Gatorade Fierce Blue Bolt Sports Drink",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/6/1/5/6157082.jpg",
+    "width": 300
+  },
+  "name": "Fierce Blue Bolt Sports Drink",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3.65,
+    "lowPrice": 3.65,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-21T10:25:11.457Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "3.65",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/gatorade-sport-drink-blue-bolt"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/gatorade-sport-drink-blue-bolt?adId=display_8ipuGbFPoENqlwRP9Tann1IH8wM2MTU3MDgyUA%3D%3D"
+  ],
+  "sku": "6157082",
+  "updatedAt": "2020-11-21T10:25:11.457Z"
+}

@@ -1,0 +1,64 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Whole Milk, Sugar, Milk Solids, Cocoa (0.4%), Emulsifier (471), Stabilisers (407,412), Salt, Flavour (Wheat Maltodextrin)."
+    },
+    {
+      "name": "Allergen",
+      "value": "Contains Milk, Contains Wheat"
+    },
+    {
+      "name": "Dietary",
+      "value": "Source of Calcium"
+    },
+    {
+      "name": "Size",
+      "value": "6 pack"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$4.00 per 1L"
+    }
+  ],
+  "brand": "Devondale",
+  "createdAt": "2020-11-21T08:14:41.196Z",
+  "description": "Devondale Moo Chocolate Flavoured Multipack Milk 200mL",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/1/2/6/1262240.jpg",
+    "width": 300
+  },
+  "name": "Moo Chocolate Flavoured Multipack Milk 200mL",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 4.8,
+    "lowPrice": 4.8,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-21T08:14:41.196Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "4.80",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/devondale-milk-moo-uht-chocolate"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/devondale-milk-moo-uht-chocolate"
+  ],
+  "sku": "1262240",
+  "updatedAt": "2020-11-21T08:14:41.196Z"
+}

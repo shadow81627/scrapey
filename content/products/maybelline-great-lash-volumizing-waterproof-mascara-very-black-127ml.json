@@ -1,0 +1,58 @@
+{
+  "@type": "Product",
+  "additionalProperty": [],
+  "aggregateRating": {
+    "@context": "http://schema.org",
+    "@type": "AggregateRating",
+    "ratingCount": 5,
+    "ratingValue": 5
+  },
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "maybelline"
+  },
+  "createdAt": "2020-11-22T07:55:26.548Z",
+  "description": "After 40 years, Maybelline Great Lash Volumizing Waterproof Mascara is still loved for its lash doubling formula that conditions as it thickens.A true icon! After 40 years Maybelline Great Lash Volumizing Waterproof Mascara is still a best seller. It features a lash-doubling formula that glides on to build great-looking lashes.Formula conditions lashes as it thickensClump-free, natural looking lashesLash-building brush makes it easy to get a full lash lookContact lens safe and hypoallergenicAvailable in washproof and waterproof formula",
+  "gtin13": "41554626964",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1200,
+    "mime": "image/jpeg",
+    "url": "https://cdn0.woolworths.media/content/wowproductimages/large/041998.jpg",
+    "width": 1200
+  },
+  "name": "Maybelline Great Lash Volumizing Waterproof Mascara Very Black 12.7ml",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 7.8,
+    "lowPrice": 7.8,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2020-11-22T07:55:26.547Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 7.8,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/41998/maybelline-great-lash-volumizing-waterproof-mascara-very-black"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/41998/maybelline-great-lash-volumizing-waterproof-mascara-very-black"
+  ],
+  "sku": "41998",
+  "updatedAt": "2020-11-22T07:55:26.547Z"
+}

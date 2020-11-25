@@ -1,0 +1,56 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "6 pack"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.63 per 1Ea"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Made in Malaysia from local and imported ingredients"
+    }
+  ],
+  "brand": "Ribena",
+  "createdAt": "2020-11-21T08:15:21.118Z",
+  "description": "Ribena Blackcurrant Fruit Drink Multipack 250mL",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/9/5/1/9515087.jpg",
+    "width": 300
+  },
+  "name": "Blackcurrant Fruit Drink Multipack 250mL",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3.75,
+    "lowPrice": 3.75,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/OutOfStock",
+        "availabilityStarts": "2020-11-21T08:15:21.117Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "3.75",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/ribena-fruit-drink-blackcurrant-ready-to-drink-6-pack-tetra"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/ribena-fruit-drink-blackcurrant-ready-to-drink-6-pack-tetra"
+  ],
+  "sku": "9515087",
+  "updatedAt": "2020-11-21T08:15:21.117Z"
+}

@@ -1,0 +1,60 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Dietary",
+      "value": "No Artificial Flavours or Colours, Source of Dietary Fibre"
+    },
+    {
+      "name": "Warning",
+      "value": "Please take care with children less than 4 years as small pieces may present a choking hazard."
+    },
+    {
+      "name": "Size",
+      "value": "160g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$2.50 per 100G"
+    }
+  ],
+  "brand": "Messy Monkeys",
+  "createdAt": "2020-11-21T08:13:40.927Z",
+  "description": "Messy Monkeys Whole Grain Bites Burger Flavour",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/8/9/2897815.jpg",
+    "width": 300
+  },
+  "name": "Whole Grain Bites Burger Flavour",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 4,
+    "lowPrice": 4,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-21T08:13:40.927Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "4.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/messy-monkeys-quinoa-bites-burger"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/messy-monkeys-quinoa-bites-burger"
+  ],
+  "sku": "2897815",
+  "updatedAt": "2020-11-21T08:13:40.927Z"
+}

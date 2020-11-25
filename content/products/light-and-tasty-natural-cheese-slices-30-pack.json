@@ -1,0 +1,72 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Milk, Salt, Cultures, Enzyme (Non-Animal Rennet)."
+    },
+    {
+      "name": "Contains",
+      "value": "Milk."
+    },
+    {
+      "name": "Allergen",
+      "value": "Contains Milk"
+    },
+    {
+      "name": "Dietary",
+      "value": "Source of Calcium"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "30.0"
+    },
+    {
+      "name": "Size",
+      "value": "500g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$18.00 per 1Kg"
+    }
+  ],
+  "brand": "Bega",
+  "createdAt": "2020-11-21T10:20:12.347Z",
+  "description": "100% Natural.100% Natural Tasty Cheddar Cheese with 25% less fat (Contains 25% less fat than Bega Tasty Cheddar Cheese which contains 35.3g fat per 100g.).",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/9/1/8/9184139.jpg",
+    "width": 300
+  },
+  "name": "Light & Tasty Natural Cheese Slices 30 pack",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 9,
+    "lowPrice": 9,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-21T10:20:12.346Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "9.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/bega-so-light--cheese-slices-tasty-36-pack"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/bega-so-light--cheese-slices-tasty-36-pack"
+  ],
+  "sku": "9184139",
+  "updatedAt": "2020-11-21T10:20:12.346Z"
+}

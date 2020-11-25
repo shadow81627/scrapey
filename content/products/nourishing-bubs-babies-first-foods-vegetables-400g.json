@@ -1,0 +1,58 @@
+{
+  "@type": "Product",
+  "additionalProperty": [],
+  "aggregateRating": {
+    "@context": "http://schema.org",
+    "@type": "AggregateRating",
+    "ratingCount": 5,
+    "ratingValue": 3.8
+  },
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "nourishing bubs"
+  },
+  "createdAt": "2020-11-22T08:04:46.654Z",
+  "description": "Designed by Paedatric Dietitian and Nutritionist Olivia Bates, this Baby's First Foods Vegetable pack is suitable for babies starting their very first mouthfuls of solids from 4 months onwards. Each cube is a block of snap frozen, smooth puree designed to be heated (or served room temperature) and spoon fed to your infant. As your baby grows, matures and can tolerate more texture, you can start adding protein to the puree such as cooked fish or meat and grains such as quinoa or rice. Nourishing Bubs contain no additives, preservatives, flavours, thickeners or fillers and uses the most natural form of preservation without the need for harmful heat treatment. Our Baby's First Foods' Packs are designed to take the guesswork out of starting solids and lay healthy foundations for your baby from their very first mouthful, setting up healthy habits to last them a lifetime.Each pack contains: 16 x 25g frozen cube portions of Beetroot, Zucchini, Pumpkin and Cauliflower. 4 x 25g frozen beetroot cubes. 4 x 25g frozen zucchini cubes. 4 x 25g frozen pumpkin cubes. 4 x 25g frozen cauliflower cubes. ",
+  "gtin13": "9369998058556",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1200,
+    "mime": "image/jpeg",
+    "url": "https://cdn0.woolworths.media/content/wowproductimages/large/085704.jpg",
+    "width": 1200
+  },
+  "name": "Nourishing Bubs Babies First Foods Vegetables 400g",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 9.5,
+    "lowPrice": 9.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2020-11-22T08:04:46.653Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 9.5,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/85704/nourishing-bubs-babies-first-foods-vegetables"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/85704/nourishing-bubs-babies-first-foods-vegetables"
+  ],
+  "sku": "85704",
+  "updatedAt": "2020-11-22T08:04:46.653Z"
+}

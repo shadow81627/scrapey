@@ -1,0 +1,58 @@
+{
+  "@type": "Product",
+  "additionalProperty": [],
+  "aggregateRating": {
+    "@context": "http://schema.org",
+    "@type": "AggregateRating",
+    "ratingCount": 14,
+    "ratingValue": 4.71
+  },
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "palmolive"
+  },
+  "createdAt": "2020-11-22T07:54:45.760Z",
+  "description": "Palmolive Luminous Oils Shampoo Rose Petal Oil & Bamboo helps restore & renew your hair. Infused with Rose Petal Oil & Bamboo extract, this Palmolive Luminous Oils Hair Care formula, works to wrap around and moisturise each hair strand for rejuvenated, soft, naturally beautiful hair.Restore & revitalise your hair and enjoy the uplifting fragrance. Restore & Renew Rose Petal Oil & Bamboo Shampoo",
+  "gtin13": "8850006481349",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1200,
+    "mime": "image/jpeg",
+    "url": "https://cdn0.woolworths.media/content/wowproductimages/large/792532.jpg",
+    "width": 1200
+  },
+  "name": "Palmolive Luminous Oils Rose Petal Oil & Bamboo Restore & Renew Shampoo 350ml",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 5,
+    "lowPrice": 5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2020-11-22T07:54:45.760Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 5,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/792532/palmolive-luminous-oils-rose-petal-oil-bamboo-restore-renew-shampoo"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/792532/palmolive-luminous-oils-rose-petal-oil-bamboo-restore-renew-shampoo"
+  ],
+  "sku": "792532",
+  "updatedAt": "2020-11-22T07:54:45.760Z"
+}

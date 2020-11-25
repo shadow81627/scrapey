@@ -1,0 +1,58 @@
+{
+  "@type": "Product",
+  "additionalProperty": [],
+  "aggregateRating": {
+    "@context": "http://schema.org",
+    "@type": "AggregateRating",
+    "ratingCount": 3,
+    "ratingValue": 5
+  },
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "elastoplast"
+  },
+  "createdAt": "2020-11-22T07:53:23.569Z",
+  "description": "Elastoplast Fabric Extra Flexible Breathable for covering and protection of everyday wounds.  For covering and protection of minor, everyday wounds such as scratches, cuts and grazes. - Extra flexible & breathable - Sterile strips - Strong adhesion - Protects and cushions the wound - Ideal for joints - Textle plaster - Durable",
+  "gtin13": "4005800246258",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1200,
+    "mime": "image/jpeg",
+    "url": "https://cdn0.woolworths.media/content/wowproductimages/large/030276.jpg",
+    "width": 1200
+  },
+  "name": "Elastoplast Fabric Plasters Extra Flexible 20pk",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3,
+    "lowPrice": 3,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2020-11-22T07:53:23.569Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 3,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/30276/elastoplast-fabric-plasters-extra-flexible"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/30276/elastoplast-fabric-plasters-extra-flexible"
+  ],
+  "sku": "30276",
+  "updatedAt": "2020-11-22T07:53:23.569Z"
+}

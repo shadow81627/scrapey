@@ -1,0 +1,60 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "our ingredients... Corn starch, wheat flour, cheese powder, natural flavours (contain milk derivative), salt, yeast extract, sunflower oil, onion powder, maltodextrin (from wheat), parsley, natural colour (carotene), turmeric."
+    },
+    {
+      "name": "Contains",
+      "value": "30G"
+    },
+    {
+      "name": "Size",
+      "value": "30g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$5.33 per 100G"
+    }
+  ],
+  "brand": "Continental",
+  "createdAt": "2020-11-21T10:21:11.771Z",
+  "description": "Continental Creamy Tuna Mornay Recipe Base Serves 4",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/9/4/7/9475040.jpg",
+    "width": 300
+  },
+  "name": "Creamy Tuna Mornay Recipe Base Serves 4",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 1.6,
+    "lowPrice": 1.6,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-21T10:21:11.770Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "1.60",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/continental-recipe-mix-creamy-tuna-mornay"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/sunnybank-hills/product/continental-recipe-mix-creamy-tuna-mornay"
+  ],
+  "sku": "9475040",
+  "updatedAt": "2020-11-21T10:21:11.770Z"
+}

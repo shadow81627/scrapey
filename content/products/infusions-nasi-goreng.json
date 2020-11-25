@@ -1,0 +1,68 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Water, soy sauce (water, soy bean, molasses, wheat, sugar, salt, ethanol, iodine), onion, soybean oil , tomato paste, garlic, red chilli, sugar, salt, thickener (1442), tamarind puree, distilled vinegar, food acid (citric).Contains soy and wheat."
+    },
+    {
+      "name": "Allergen",
+      "value": "Contains Soybean, May Contain Crustacea, May Contain Sesame Seeds, Contains Wheat"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "8.0"
+    },
+    {
+      "name": "Size",
+      "value": "160g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$2.50 per 100G"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Made in Thailand"
+    }
+  ],
+  "brand": "Five Tastes",
+  "createdAt": "2020-11-21T10:23:11.567Z",
+  "description": "Five Tastes Infusions Nasi Goreng",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/7/4/3746848.jpg",
+    "width": 300
+  },
+  "name": "Infusions Nasi Goreng",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 4,
+    "lowPrice": 4,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-21T10:23:11.567Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "4.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/five-tastes-infusions-nasi-goreng"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/sunnybank-hills/product/five-tastes-infusions-nasi-goreng"
+  ],
+  "sku": "3746848",
+  "updatedAt": "2020-11-21T10:23:11.567Z"
+}

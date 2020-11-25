@@ -1,0 +1,56 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "800mL"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$6.50 per 1L"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Made in Norway"
+    }
+  ],
+  "brand": "Voss",
+  "createdAt": "2020-11-21T10:11:13.395Z",
+  "description": "Voss Artesian Sparkling Water",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/1/0/6/1069443.jpg",
+    "width": 300
+  },
+  "name": "Artesian Sparkling Water",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 5.2,
+    "lowPrice": 5.2,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-21T10:11:13.395Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "5.20",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/voss-water-sparkling"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/voss-water-sparkling?adId=display_zLA5Qve5pl2BiGWNXQEwgHgnHTsxNDQ0NTg2UA%3D%3D"
+  ],
+  "sku": "1069443",
+  "updatedAt": "2020-11-21T10:11:13.395Z"
+}

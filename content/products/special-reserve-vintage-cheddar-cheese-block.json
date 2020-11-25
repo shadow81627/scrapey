@@ -1,0 +1,52 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "250g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$27.16 per 1Kg"
+    }
+  ],
+  "brand": "Cracker Barrel",
+  "createdAt": "2020-11-21T10:10:13.063Z",
+  "description": "Cracker Barrel Special Reserve Vintage Cheddar Cheese Block",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/8/8/3/8838218.jpg",
+    "width": 300
+  },
+  "name": "Special Reserve Vintage Cheddar Cheese Block",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 6.79,
+    "lowPrice": 6.79,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-21T10:10:13.063Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "6.79",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/cracker-barrel-cheese-block-cheddar-vintage-special-reserve"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/cracker-barrel-cheese-block-cheddar-vintage-special-reserve"
+  ],
+  "sku": "8838218",
+  "updatedAt": "2020-11-21T10:10:13.063Z"
+}

@@ -1,0 +1,65 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "Approx.2170kJ",
+      "carbohydrateContent": "Approx.59g",
+      "fatContent": "Approx.27.9g",
+      "name": "nutrition",
+      "proteinContent": "Approx.4.9g",
+      "saturatedFatContent": "Approx.16.1g",
+      "servingSize": "100 g",
+      "sodiumContent": "Approx.3mg",
+      "sugarContent": "Approx.54.4g"
+    }
+  ],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "nestle"
+  },
+  "createdAt": "2020-11-22T08:00:38.495Z",
+  "description": "NESTLÉ BAKERS CHOICE Dark CHOC BITS are smooth morsels of rich dark chocolate with a minimum of 45% cocoa that stay whole and hold their shape when baked. - Holds shape when baked - perfect for adding into baking - Real Dark Chocolate - minimum 45% cocoa- Delicious when added into Choc Chip Cookies, triple choc brownies, chocolate cake, triffle- Mix with dried fruit & nuts to create a simple trail mix- UTZ certified cocoa- Also available in Milk or White Choc Bits- Made for baking- Store in a cool and dry place as heat and moisture may affect performance and cause blooming",
+  "gtin13": "9300605107632",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1200,
+    "mime": "image/jpeg",
+    "url": "https://cdn0.woolworths.media/content/wowproductimages/large/490008.jpg",
+    "width": 1200
+  },
+  "name": "Nestle Bakers' Choice Dark Choc Bits 200g",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2.3,
+    "lowPrice": 2.3,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2020-11-22T08:00:38.494Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 2.3,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/490008/nestle-bakers-choice-dark-choc-bits"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/490008/nestle-bakers-choice-dark-choc-bits"
+  ],
+  "sku": "490008",
+  "updatedAt": "2020-11-22T08:00:38.495Z"
+}

@@ -1,0 +1,68 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Each pack contains the juice of: Apple (37.5%)*, Carrot (30%)*, Orange (14%)*, Pear (9.5%)*, Pineapple (7.5%)*, Passionfruit (1%)*, Banana (<1%)*, Food Acid (Malic Acid, Citric Acid), Vitamin C, Natural Flavours. *Reconstituted Juice"
+    },
+    {
+      "name": "Dietary",
+      "value": "No Preservatives, Source of Vitamin C, No Added Sugars, No Artificial Flavours or Colours"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "1.0"
+    },
+    {
+      "name": "Warning",
+      "value": "Do not purchase if pack is open or torn."
+    },
+    {
+      "name": "Size",
+      "value": "3 pack"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$4.00 per 1L"
+    }
+  ],
+  "brand": "Campbell's",
+  "createdAt": "2020-11-21T08:15:01.281Z",
+  "description": "V8 Juice Tropical with apple, pineapple, passionfruit and carrot. Contains 1 serve of fruit and 1 serve of veg per 250mL.",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/7/9/4/7945223.jpg",
+    "width": 300
+  },
+  "name": "V8 Tropical Juice Multipack 250mL",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3,
+    "lowPrice": 3,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-21T08:15:01.280Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "3.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/campbells-v8-juice-tropical"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/campbells-v8-juice-tropical"
+  ],
+  "sku": "7945223",
+  "updatedAt": "2020-11-21T08:15:01.280Z"
+}

@@ -1,0 +1,58 @@
+{
+  "@type": "Product",
+  "additionalProperty": [],
+  "aggregateRating": {
+    "@context": "http://schema.org",
+    "@type": "AggregateRating",
+    "ratingCount": 8,
+    "ratingValue": 4.38
+  },
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "listerine"
+  },
+  "createdAt": "2020-11-22T07:52:42.057Z",
+  "description": "Listerine FreshBurst Antibacterial Mouthwash kills germs that cause bad breath & plaque.  Listerine FreshBurst Antibacterial Mouthwash kills germs that cause bad breath & plaque. Listerine FreshBurst gives you a deeper whole mouth clean than brushing alone. It:  - Kills germs that cause bad breath. - Helps prevent and reduce plaque. - Provides long lasting fresh breath - Maintains healthy gums  Listerine FreshBurst Mouthwash is a suitable mouthwash for bad breath and reducing plaque. For a fresher and cleaner mouth than brushing alone.   Ever wondered why you need to incorporate an anti-bacterial mouthwash as part of your oral care routine? Brushing and flossing alone only reaches 25% of your mouth. Incorporating Listerine® as your third step helps to kill germs in the remaining 75% of the mouth and can help reduce plaque to help provide that long-lasting fresh breath.   Listerine Antibacterial Mouthwash works to get rid of bad breath fast.  Antibacterial Mouthwash  250mL  Kills germs causing bad breath & plaque",
+  "gtin13": "9310059050200",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1200,
+    "mime": "image/jpeg",
+    "url": "https://cdn0.woolworths.media/content/wowproductimages/large/027457.jpg",
+    "width": 1200
+  },
+  "name": "Listerine Fresh Burst Mouthwash 250ml",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 4.7,
+    "lowPrice": 4.7,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2020-11-22T07:52:42.056Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 4.7,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/27457/listerine-fresh-burst-mouthwash"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/27457/listerine-fresh-burst-mouthwash"
+  ],
+  "sku": "27457",
+  "updatedAt": "2020-11-22T07:52:42.056Z"
+}

@@ -1,0 +1,58 @@
+{
+  "@type": "Product",
+  "additionalProperty": [],
+  "aggregateRating": {
+    "@context": "http://schema.org",
+    "@type": "AggregateRating",
+    "ratingCount": 13,
+    "ratingValue": 4.92
+  },
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "selsun"
+  },
+  "createdAt": "2020-11-22T07:57:32.274Z",
+  "description": "Selsun Blue contains selenium sulphide and is specifically designed to fight dandruff and the recurrence of flaking and itching from the first wash. Selsun Blue 5 Replenishing Anti-dandruff Shampoo is formulated with a 5 ingredient intensive conditioning system, including the B Vitamin Panthenol and Vitamin E to moisturise the hair and scalp. For best results use daily to leave hair looking healthy and feeling clean, soft and manageable.",
+  "gtin13": "41167660317",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1200,
+    "mime": "image/jpeg",
+    "url": "https://cdn0.woolworths.media/content/wowproductimages/large/027084.jpg",
+    "width": 1200
+  },
+  "name": "Selsun Blue Replenishing Antidandruff Shampoo 200ml",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 5.5,
+    "lowPrice": 5.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2020-11-22T07:57:32.273Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 5.5,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/27084/selsun-blue-replenishing-anti-dandruff-shampoo"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/27084/selsun-blue-replenishing-anti-dandruff-shampoo"
+  ],
+  "sku": "27084",
+  "updatedAt": "2020-11-22T07:57:32.273Z"
+}

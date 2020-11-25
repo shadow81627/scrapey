@@ -1,0 +1,64 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "1230.00kJ",
+      "carbohydrateContent": "3.50g",
+      "fatContent": "29.10g",
+      "name": "nutrition",
+      "proteinContent": "13.60g",
+      "saturatedFatContent": "19.50g",
+      "servingSize": "100 g",
+      "sodiumContent": "860.00mg",
+      "sugarContent": "1.00g"
+    }
+  ],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Bertocchi"
+  },
+  "createdAt": "2020-11-22T05:24:22.643Z",
+  "gtin13": "0271359000007",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1200,
+    "mime": "image/jpeg",
+    "url": "https://cdn0.woolworths.media/content/wowproductimages/large/227743.jpg",
+    "width": 1200
+  },
+  "name": "Bertocchi Mortadella Plain Shaved From The Deli per KG",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 13.5,
+    "lowPrice": 13.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2020-11-22T05:24:22.641Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 13.5,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/227743/bertocchi-mortadella-plain-shaved-from-the-deli"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/227743/bertocchi-mortadella-plain-shaved-from-the-deli"
+  ],
+  "sku": "227743",
+  "updatedAt": "2020-11-22T05:24:22.641Z"
+}

@@ -1,0 +1,52 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "300g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.40 per 100G"
+    }
+  ],
+  "brand": "Wicked Sisters",
+  "createdAt": "2020-11-21T10:12:33.533Z",
+  "description": "Wicked Sisters Strawberry Panacotta 2x150g",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/8/3/3835573.jpg",
+    "width": 300
+  },
+  "name": "Strawberry Panacotta 2x150g",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 4.2,
+    "lowPrice": 4.2,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-21T10:12:33.532Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "4.20",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/wicked-sisters-2x150g-strawberry-panacotta"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/wicked-sisters-2x150g-strawberry-panacotta"
+  ],
+  "sku": "3835573",
+  "updatedAt": "2020-11-21T10:12:33.532Z"
+}

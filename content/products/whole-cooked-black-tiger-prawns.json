@@ -1,0 +1,64 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Australian Farmed Black Tiger Prawns (Penaeus monodon) [Prawns, Salt, Antioxidant (586)]"
+    },
+    {
+      "name": "Allergen",
+      "value": "Contains CRUSTACEA"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "2.0"
+    },
+    {
+      "name": "Size",
+      "value": "450g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$33.33 per 1Kg"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2020-11-21T10:17:32.420Z",
+  "description": "Coles Whole Cooked Black Tiger Prawns",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/9/3/3934484.jpg",
+    "width": 300
+  },
+  "name": "Whole Cooked Black Tiger Prawns",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 15,
+    "lowPrice": 15,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-21T10:17:32.419Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "15.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-brand-whole-coked-black-tiger-prawn-450g"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/coles-brand-whole-coked-black-tiger-prawn-450g"
+  ],
+  "sku": "3934484",
+  "updatedAt": "2020-11-21T10:17:32.419Z"
+}

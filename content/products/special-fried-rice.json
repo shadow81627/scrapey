@@ -1,0 +1,68 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Steamed Long Grain Rice 73%, Capsicum 6%, Onion, Processed chicken (contains soy) 3.5%, Scrambled Egg (contains Milk) 3%, Soy Sauce (contains Wheat), Vegetable Oil, Ginger Puree (contains Soy), Sesame Oil, Sugar, Salt, Chives 0.5%, Pepper."
+    },
+    {
+      "name": "Contains",
+      "value": "Soy, egg, milk, wheat, and sesame."
+    },
+    {
+      "name": "Allergen",
+      "value": "Contains Sesame, Contains Milk, Contains Soy, Contains Egg, Contains Wheat"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "2.0"
+    },
+    {
+      "name": "Size",
+      "value": "250g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.30 per 100G"
+    }
+  ],
+  "brand": "Uncle Ben's",
+  "createdAt": "2020-11-21T10:24:31.919Z",
+  "description": "Great rice deserves something special.Our Special Fried Rice is made with carefully selected capsicum, garlic and egg (and a bit of Uncle Bens know-how). Simply no need for artificial colours.",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/6/5/4/6545966.jpg",
+    "width": 300
+  },
+  "name": "Special Fried Rice",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3.25,
+    "lowPrice": 3.25,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2020-11-21T10:24:31.919Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "3.25",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/uncle-bens-express-rice-special-fried-rice"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/sunnybank-hills/product/uncle-bens-express-rice-special-fried-rice"
+  ],
+  "sku": "6545966",
+  "updatedAt": "2020-11-21T10:24:31.919Z"
+}
