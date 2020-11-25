@@ -1,35 +1,52 @@
-import normalizeUrl from "normalize-url";
-import { Entity, Column, AfterLoad, ManyToMany, JoinTable, ManyToOne } from "typeorm";
+import normalizeUrl from 'normalize-url';
+import {
+    Entity,
+    Column,
+    AfterLoad,
+    ManyToMany,
+    JoinTable,
+    ManyToOne,
+} from 'typeorm';
 import { v5 as uuidv5 } from 'uuid';
-import { Dated } from "../util/Dated";
+import { Dated } from '../util/Dated';
 
-interface UrlParts { hostname: string, pathname?: string, search?: string }
+interface UrlParts {
+    hostname: string;
+    pathname?: string;
+    search?: string;
+}
 
 @Entity()
 export class Url {
-    @Column({ type: 'char', length: '36', unique: true, primary: true, update: false })
+    @Column({
+        type: 'char',
+        length: '36',
+        unique: true,
+        primary: true,
+        update: false,
+    })
     id?: string;
     @Column()
     hostname!: string;
     @Column({ default: '/' })
     pathname?: string;
-    @Column({ nullable: true })
+    @Column({ nullable: true, type: 'text' })
     search?: string;
     @Column({ nullable: true, type: 'timestamp' })
     crawledAt?: Date;
 
     @Column(() => Dated, {
-        prefix: false
+        prefix: false,
     })
     dated?: Dated;
 
-    @ManyToOne(() => Url, { nullable: true })
+    @ManyToOne(() => Url, { nullable: true, onDelete: 'SET NULL' })
     canonical?: Url;
 
     // all the urls on this page
-    @ManyToMany(() => Url, { nullable: true })
+    @ManyToMany(() => Url, { nullable: true, cascade: true })
     @JoinTable({
-        name: "url_urls",
+        name: 'url_urls',
     })
     urls?: Url[];
 
@@ -43,22 +60,31 @@ export class Url {
         return this.url;
     }
 
-    constructor({ hostname, pathname, search, ...params }: UrlParts & Partial<Url> = { hostname: '' }) {
+    constructor(
+        { hostname, pathname, search, ...params }: UrlParts & Partial<Url> = {
+            hostname: '',
+        },
+    ) {
         Object.assign(this, { hostname, pathname, search, ...params });
         this.id = Url.generateId({ hostname, pathname, search });
     }
 
     public static getUrl({ hostname, pathname, search }: UrlParts): string {
-        return `https://${hostname}${pathname}${search}`
+        return `https://${hostname}${pathname ?? ''}${search ?? ''}`;
     }
 
     public static urlToParts(url: string): UrlParts {
-        const { hostname, pathname, search } = new URL(normalizeUrl(url));
+        const { hostname, pathname, search } = new URL(
+            normalizeUrl(url, {
+                forceHttps: true,
+                stripHash: true,
+                removeQueryParameters: ['reviewPageNumber'],
+            }),
+        );
         return { hostname, pathname, search };
     }
 
     public static generateId(urlParts: UrlParts): string {
-        return uuidv5(Url.getUrl(urlParts), uuidv5.URL)
+        return uuidv5(Url.getUrl(urlParts), uuidv5.URL);
     }
-
 }

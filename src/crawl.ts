@@ -6,64 +6,115 @@ import _ from 'lodash';
 import { processHtml } from './scrape/processHtml';
 import { processLinkData } from './scrape/processLinkData';
 
+function isValidUrl(string: string): boolean {
+  try {
+    new URL(string);
+  } catch (_) {
+    return false;
+  }
+
+  return true;
+}
+
 const allowedHosts = ['shop.coles.com.au', 'woolworths.com.au'];
+const disallowedHosts = ['twitter.com', 'facebook.com', 'pinterest.com'];
 let iteration = 0;
 
 async function crawl(url: string) {
+  iteration++;
+  console.log(iteration, url);
   const hostname = new URL(url).hostname;
-  iteration++
   try {
     // fetch browser rendered html
     const html = await getHtml({ url });
 
     const $ = cheerio.load(html);
 
-    const canonical = $('link[rel="canonical"]').attr("href") || url;
-    console.log(iteration, canonical);
+    const canonicalHref = $('link[rel="canonical"]').attr('href');
+    const canonical =
+      canonicalHref && isValidUrl(canonicalHref) ? canonicalHref : url;
     // save fetched url
-    const connection = getConnection();
-    const urlParts = Url.urlToParts(url);
     const data = processHtml(url, html);
     if (data) {
-      processLinkData({ chunk: [canonical], chunkData: [data], fileUrlMap: new Map(), argv: { scrape: true } })
+      processLinkData({
+        chunk: [canonical],
+        chunkData: [data],
+        fileUrlMap: new Map(),
+        argv: { scrape: true },
+      });
     }
-    const dbCanonical = await connection.manager.save(new Url(Url.urlToParts(canonical)));
-    await connection.manager.save(new Url({ ...urlParts, crawledAt: new Date(), canonical: dbCanonical }));
 
-    // get a unique list of valid urls on the same origin
-    const links: string[] = _.uniq($('a[href]')
-      .map((_, e) => {
-        try {
-          const href = $(e).attr('href');
-          if (href && (href.startsWith('http') || href.startsWith('/') || href.startsWith(':'))) {
-            return Url.getUrl(new URL(href, `https://${hostname}`));
-          }
-        } catch (_) {
-          // invalid url
-        }
-      })
-      .get()).filter(Boolean);
-
-    dbCanonical.urls = await Promise.all(links.map(link => connection.manager.save(new Url(Url.urlToParts(link)))));
+    const connection = getConnection();
+    const urlParts = Url.urlToParts(url);
+    const dbCanonical =
+      (await connection.manager.findOne(Url, {
+        where: [{ id: Url.generateId(Url.urlToParts(canonical)) }],
+        relations: ['urls'],
+      })) ??
+      (await connection.manager.save(new Url(Url.urlToParts(canonical))));
+    await connection.manager.save(
+      new Url({ ...urlParts, crawledAt: new Date(), canonical: dbCanonical }),
+    );
+    dbCanonical.crawledAt = new Date();
     await connection.manager.save(dbCanonical);
 
-    const link = (await connection.manager.findOne(Url, {
-      where: [
-        { crawledAt: IsNull(), hostname: In(allowedHosts), canonical: IsNull() },
-        { crawledAt: IsNull(), hostname: In(allowedHosts), canonical: Raw("canonicalId") }
-      ],
-      // order: {
-      //   createdAt: 'ASC'
-      // }
-    }))?.url;
+    console.log(iteration, dbCanonical.url);
+    // TODO set all non canonical urls to crawled as well
+
+    // get a unique list of valid urls on the same origin
+    const links: string[] = _.uniq(
+      $('a[href]')
+        .map((_, e) => {
+          try {
+            const href = $(e).attr('href');
+            if (
+              href &&
+              (href.startsWith('http') ||
+                href.startsWith('/') ||
+                href.startsWith('://'))
+            ) {
+              return Url.getUrl(new URL(href, `https://${hostname}`));
+            }
+          } catch (_) {
+            // invalid url
+          }
+        })
+        .get(),
+    )
+      .filter(Boolean)
+      .filter((link) => !disallowedHosts.includes(new URL(link).hostname))
+      .filter((link) => !link.startsWith('https://woolworths.com.au/shop/printrecipe'));
+
+    try {
+      dbCanonical.urls = await Promise.all(
+        links.map((link) =>
+          connection.manager.save(new Url(Url.urlToParts(link))),
+        ),
+      );
+      await connection.manager.save(dbCanonical);
+    } catch (e) {
+      console.log(e.message);
+    }
+
+    const link = (
+      await connection.manager.findOne(Url, {
+        where: [
+          {
+            crawledAt: IsNull(),
+            hostname: In(allowedHosts),
+            canonical: IsNull(),
+          },
+          {
+            crawledAt: IsNull(),
+            hostname: In(allowedHosts),
+            canonical: Raw('canonicalId'),
+          },
+        ],
+      })
+    )?.url;
 
     if (link) {
-      const href = new URL(link)
-      const id = Url.generateId(Url.urlToParts(link));
-      const found = await connection.manager.findOne(Url, id);
-      if (href.hostname === hostname && !found?.crawledAt) {
-        await crawl(link);
-      }
+      await crawl(link);
     }
   } catch (error) {
     console.log(error);
@@ -78,16 +129,27 @@ async function crawl(url: string) {
   // const url =
   //   'https://shop.coles.com.au/a/national/everything/browse';
   const connection = await createConnection();
-  const url = (await connection.manager.findOne(Url, {
-    where: [
-      { crawledAt: IsNull(), hostname: In(allowedHosts), canonical: IsNull() },
-      { crawledAt: IsNull(), hostname: In(allowedHosts), canonical: Raw("canonicalId") }
-    ],
-    // order: {
-    //   dated.createdAt: 'ASC'
-    // }
-  }))?.url;
+  const url = (
+    await connection.manager.findOne(Url, {
+      where: [
+        {
+          crawledAt: IsNull(),
+          hostname: In(allowedHosts),
+          canonical: IsNull(),
+        },
+        {
+          crawledAt: IsNull(),
+          hostname: In(allowedHosts),
+          canonical: Raw('canonicalId'),
+        },
+      ],
+      // order: {
+      //   dated.createdAt: 'ASC'
+      // }
+    })
+  )?.url;
   if (url) {
     await crawl(url);
   }
+  await connection.close();
 })();
