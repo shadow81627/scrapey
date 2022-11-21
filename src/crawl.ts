@@ -5,6 +5,7 @@ import { Url } from './db/entity/Url';
 import _ from 'lodash';
 import { processHtml } from './scrape/processHtml';
 import { processLinkData } from './scrape/processLinkData';
+import { CrawlIssue } from './db/entity/CrawlIssue';
 
 function isValidUrl(string: string): boolean {
   try {
@@ -24,6 +25,7 @@ async function crawl(url: string) {
   iteration++;
   console.log(iteration, url);
   const hostname = new URL(url).hostname;
+  const connection = getConnection();
   try {
     // fetch browser rendered html
     const html = await getHtml({ url });
@@ -44,7 +46,6 @@ async function crawl(url: string) {
       });
     }
 
-    const connection = getConnection();
     const urlParts = Url.urlToParts(url);
     const dbCanonical =
       (await connection.manager.findOne(Url, {
@@ -58,7 +59,7 @@ async function crawl(url: string) {
     dbCanonical.crawledAt = new Date();
     await connection.manager.save(dbCanonical);
 
-    console.log(iteration, dbCanonical.url);
+    // console.log(iteration, dbCanonical.url);
     // TODO set all non canonical urls to crawled as well
 
     // get a unique list of valid urls on the same origin
@@ -83,7 +84,10 @@ async function crawl(url: string) {
     )
       .filter(Boolean)
       .filter((link) => !disallowedHosts.includes(new URL(link).hostname))
-      .filter((link) => !link.startsWith('https://woolworths.com.au/shop/printrecipe'));
+      .filter(
+        (link) =>
+          !link.startsWith('https://woolworths.com.au/shop/printrecipe'),
+      );
 
     try {
       dbCanonical.urls = await Promise.all(
@@ -95,29 +99,41 @@ async function crawl(url: string) {
     } catch (e) {
       console.log(e.message);
     }
-
-    const link = (
-      await connection.manager.findOne(Url, {
-        where: [
-          {
-            crawledAt: IsNull(),
-            hostname: In(allowedHosts),
-            canonical: IsNull(),
-          },
-          {
-            crawledAt: IsNull(),
-            hostname: In(allowedHosts),
-            canonical: Raw('canonicalId'),
-          },
-        ],
-      })
-    )?.url;
-
-    if (link) {
-      await crawl(link);
-    }
   } catch (error) {
-    console.log(error);
+    console.log('Error', error);
+    const dbUrl =
+      (await connection.manager.findOne(Url, {
+        where: [{ id: Url.generateId(Url.urlToParts(url)) }],
+        relations: ['urls'],
+      })) ?? (await connection.manager.save(new Url(Url.urlToParts(url))));
+    dbUrl.crawledAt = new Date();
+    const issue = new CrawlIssue();
+    issue.name = error.name;
+    issue.description = error.message;
+    issue.url = dbUrl;
+    await connection.manager.save(dbUrl);
+    await connection.manager.save(issue);
+  }
+
+  const link = (
+    await connection.manager.findOne(Url, {
+      where: [
+        {
+          crawledAt: IsNull(),
+          hostname: In(allowedHosts),
+          canonical: IsNull(),
+        },
+        {
+          crawledAt: IsNull(),
+          hostname: In(allowedHosts),
+          canonical: Raw('canonicalId'),
+        },
+      ],
+    })
+  )?.url;
+
+  if (link) {
+    await crawl(link);
   }
 }
 
