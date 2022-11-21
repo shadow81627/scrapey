@@ -1,0 +1,17 @@
+-- Number of urls per domain
+
+SELECT hostname,
+       COUNT(*) AS `urls`
+FROM url
+GROUP BY hostname
+ORDER BY urls DESC;
+
+
+SELECT hostname,
+       COUNT(*) AS `recipes`
+FROM thing
+LEFT JOIN thing_urls ON thing.id = thing_urls.thingId
+LEFT JOIN url ON url.id = thing_urls.urlId
+WHERE type = 'Recipe'
+GROUP BY hostname
+ORDER BY recipes DESC;
