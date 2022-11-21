@@ -1,13 +1,21 @@
-import { Column, Entity, getConnection, JoinColumn, ManyToOne, OneToMany, OneToOne } from "typeorm";
-import { Base } from "../util/Base";
-import { Offer } from "./Offer";
-import { Organization } from "./Organization";
-import { Thing } from "./Thing";
-import { promises as fsPromises, } from 'fs';
+import {
+  Column,
+  Entity,
+  getConnection,
+  JoinColumn,
+  ManyToOne,
+  OneToMany,
+  OneToOne,
+} from 'typeorm';
+import { Base } from '../util/Base';
+import { Offer } from './Offer';
+import { Organization } from './Organization';
+import { Thing } from './Thing';
+import { promises as fsPromises } from 'fs';
 const { writeFile } = fsPromises;
 import { head, map, omit, pickBy } from 'lodash';
-import deepSort from "../../utils/deepSort";
-import { Product as ProductSchema, Offer as OfferSchema } from 'schema-dts'
+import deepSort from '../../utils/deepSort';
+import { Product as ProductSchema, Offer as OfferSchema } from 'schema-dts';
 
 @Entity()
 export class Product extends Base {
@@ -26,14 +34,22 @@ export class Product extends Base {
 
   async toObject(): Promise<Partial<ProductSchema>> {
     const connection = getConnection();
-    const product = (await connection.manager.findOneOrFail(Product, {
+    const product = await connection.manager.findOneOrFail(Product, {
       where: [{ id: this.id }],
       relations: ['thing', 'offers', 'brand'],
-    }));
+    });
     const thing = pickBy(await product.thing?.toObject());
-    const brand = pickBy(omit(await product.brand?.toObject(), ['sameAs', 'additionalProperty', 'image'])) as unknown;
+    const brand = pickBy(
+      omit(await product.brand?.toObject(), [
+        'sameAs',
+        'additionalProperty',
+        'image',
+      ]),
+    ) as unknown;
     // eslint-disable-next-line @typescript-eslint/no-unused-vars
-    const offerData = await Promise.all(product.offers?.map(offer => offer.toObject()) ?? []) as OfferSchema[];
+    const offerData = (await Promise.all(
+      product.offers?.map((offer) => offer.toObject()) ?? [],
+    )) as OfferSchema[];
     return <ProductSchema>{
       ...thing,
       '@type': 'Product',
@@ -46,7 +62,7 @@ export class Product extends Base {
         highPrice: Math.max(...map(offerData, 'price').map(Number)),
         lowPrice: Math.min(...map(offerData, 'price').map(Number)),
         offerCount: offerData.length,
-      }
+      },
     };
   }
 
