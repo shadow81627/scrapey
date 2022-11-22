@@ -92,10 +92,22 @@ async function createOrganization(params: ThingParmas) {
  * Main top level async/await
  */
 (async () => {
+  let iteration = 0;
+  const files = [];
+  for await (const filename of getFiles('content')) {
+    files.push(filename);
+  }
+  const totalFiles = files.length;
   const connection = await createConnection();
   // get list of urls to crawl from content files
   for await (const filename of getFiles('content')) {
-    console.log(filename);
+    iteration++;
+    console.log(
+      `${String(iteration).padStart(String(totalFiles).length, '0')}/${String(
+        totalFiles,
+      )}`,
+      filename,
+    );
     const file = await readFile(filename, { encoding: 'utf8' });
     const {
       name,
@@ -310,7 +322,7 @@ async function createOrganization(params: ThingParmas) {
         });
       }
     } catch (e) {
-      console.log(filename, e);
+      console.error(filename, e);
     }
   }
   await connection.close();
