@@ -2,11 +2,13 @@ import 'reflect-metadata';
 import getFiles from '../../utils/getFiles';
 import { Pool, spawn, Worker } from 'threads';
 import path from 'path';
+import getOrCreateConnection from '../../utils/getOrCreateConnection';
 
 /**
  * Main top level async/await
  */
 (async () => {
+  const connection = await getOrCreateConnection();
   const files = [];
   for await (const filename of getFiles('content')) {
     files.push(filename);
@@ -28,4 +30,5 @@ import path from 'path';
   }
   await pool.completed();
   await pool.terminate();
+  await connection.close();
 })();

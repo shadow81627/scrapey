@@ -1,5 +1,5 @@
-import { getConnection, createConnection } from 'typeorm';
-export default async function getOrCreateConnection() {
+import { getConnection, createConnection, Connection } from 'typeorm';
+export default async function getOrCreateConnection(): Promise<Connection> {
   try {
     return getConnection();
   } catch {
