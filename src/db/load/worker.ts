@@ -16,6 +16,8 @@ const { readFile } = fsPromises;
 const schemaDomainRegex = /https?:\/\/schema.org\//g;
 import { expose } from 'threads/worker';
 import { getConnection, createConnection } from 'typeorm';
+const userAgent =
+  'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:106.0) Gecko/20100101 Firefox/106.0';
 
 async function loadDB(filename: string) {
   async function getOrCreateConnection() {
@@ -81,7 +83,10 @@ async function loadDB(filename: string) {
             })) ?? connection.manager.create(Image, { url });
           if (!url.crawledAt) {
             try {
-              const { width, height, mime } = await probe(imageUrl);
+              const { width, height, mime } = await probe(imageUrl, {
+                user_agent: userAgent,
+                rejectUnauthorized: false,
+              });
               connection.manager.merge(Image, image, { width, height, mime });
               // if (typeof imageObject === "object") {
               // // TODO: remove url string from imageObject before merge
