@@ -1,0 +1,66 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "515.00kJ",
+      "carbohydrateContent": "15.80g",
+      "dietary_fibre": "0.80g",
+      "fatContent": "5.60g",
+      "name": "nutrition",
+      "proteinContent": "1.90g",
+      "saturatedFatContent": "1.30g",
+      "servingSize": "100 g",
+      "sodiumContent": "171.00mg",
+      "sugarContent": "0.20g"
+    }
+  ],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Arnott's"
+  },
+  "createdAt": "2022-11-22T15:10:38.029Z",
+  "description": "Arnott’s Shapes Original Barbecue offer a rich tomato flavour with loads of herbs on a salty, crispy cracker base. In a shareable box of 8 packs, these oven baked, not fried, salty crackers loaded with herbs are big on crunch and even bigger on taste!Arnott’s Shapes Originals are delicious oven-baked crackers with loads of flavour you can see, and no artificial colours or preservatives. Whether you’re looking for a fun afternoon top-up or an easy snack to add a smile to lunchboxes, the 8 individual packs in this shareable multipack are convenient for little fingers to grab and go at recess time, share as an exciting treat, or for fun afternoon snack with flavours that your whole family will love. Arnott’s Shapes Original Barbecue crackers are a go-to savoury cravings-buster for any occasion. Bags of flavour in every box, no matter which flavour you savour!A rich tomato flavour with loads of herbs on a salty, crispy cracker base.Box contains 8 individual packs.Flavour you can see.Oven baked, not fried.Aussie made, Aussie loved.",
+  "gtin13": "9310072029443",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1200,
+    "mime": "image/jpeg",
+    "url": "https://cdn0.woolworths.media/content/wowproductimages/large/641527.jpg",
+    "width": 1200
+  },
+  "name": "Arnott's Shapes Multipack Crackers Barbecue 8 Pack",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 4.5,
+    "lowPrice": 4.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-22T15:10:38.028Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 4.5,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/641527/arnott-s-shapes-multipack-crackers-barbecue"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/641527/arnott-s-shapes-multipack-crackers-barbecue"
+  ],
+  "sku": "641527",
+  "updatedAt": "2022-11-22T15:10:38.028Z"
+}

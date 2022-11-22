@@ -1,0 +1,66 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "504.00kJ",
+      "carbohydrateContent": "22.10g",
+      "dietary_fibre": "0.00g",
+      "fatContent": "0.60g",
+      "name": "nutrition",
+      "proteinContent": "3.60g",
+      "saturatedFatContent": "0.10g",
+      "servingSize": "100 g",
+      "sodiumContent": "610.00mg",
+      "sugarContent": "9.50g"
+    }
+  ],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Wildly Good"
+  },
+  "createdAt": "2022-11-22T14:17:26.770Z",
+  "description": "Wildly Good Smoky Cauliflower Burgers with sweet potato and kale are a mouth-watering combination! Crafted by chefs from real food, grown fresh from the earth with natural flavours bursting though. Serve with your favourite burger fillings for a delicious meal. \n\n- Vegan\n- Source of Fibre \n- No artificial colours or flavours",
+  "gtin13": "9340784006821",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1200,
+    "mime": "image/jpeg",
+    "url": "https://cdn0.woolworths.media/content/wowproductimages/large/065246.jpg",
+    "width": 1200
+  },
+  "name": "Wildly Good Smoky Cauliflower Veggie Burgers 250g",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 7,
+    "lowPrice": 7,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-22T14:17:26.770Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 7,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/65246/wildly-good-smoky-cauliflower-veggie-burgers"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/65246/wildly-good-smoky-cauliflower-veggie-burgers"
+  ],
+  "sku": "65246",
+  "updatedAt": "2022-11-22T14:17:26.770Z"
+}

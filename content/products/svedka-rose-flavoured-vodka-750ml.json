@@ -1,0 +1,52 @@
+{
+  "@type": "Product",
+  "additionalProperty": [],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Svedka"
+  },
+  "createdAt": "2022-11-22T13:44:25.828Z",
+  "description": "Blended with 5% rose wine for a sweet and balanced flavor with vibrant fruit aromas, SVEDKA Rose Flavored Vodka is a smooth and easy-drinking vodka. Mouthwatering strawberry and pineapple flavors complement the aromas, while the rose flavor and notes of hibiscus complete the subtle, rounded sweetness of this rose wine vodka. Made with the finest spring water and winter wheat, this SVEDKA vodka is distilled five times to remove impurities, resulting in a clean, clear taste with a balanced body, making it delicious on its own or it countless vodka drinks.",
+  "gtin13": "617768221754",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1200,
+    "mime": "image/jpeg",
+    "url": "https://cdn0.woolworths.media/content/wowproductimages/large/095841.jpg",
+    "width": 1200
+  },
+  "name": "Svedka Rose Flavoured Vodka 750mL",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 37,
+    "lowPrice": 37,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-22T13:44:25.828Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 37,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/95841/svedka-rose-flavoured-vodka"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/95841/svedka-rose-flavoured-vodka"
+  ],
+  "sku": "95841",
+  "updatedAt": "2022-11-22T13:44:25.828Z"
+}

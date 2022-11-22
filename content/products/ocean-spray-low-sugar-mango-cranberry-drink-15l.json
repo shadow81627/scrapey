@@ -1,0 +1,66 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "88.00kJ",
+      "carbohydrateContent": "2.20g",
+      "dietary_fibre": "0.00g",
+      "fatContent": "0.00g",
+      "name": "nutrition",
+      "proteinContent": "0.00g",
+      "saturatedFatContent": "0.00g",
+      "servingSize": "100 g",
+      "sodiumContent": "65.00mg",
+      "sugarContent": "2.20g"
+    }
+  ],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Ocean Spray"
+  },
+  "createdAt": "2022-11-22T12:26:21.253Z",
+  "description": "With less than 10 little calories and 1 gram of sugar, enjoy the delicious blend of mouth-watering mango and crisp clean cranberries throughout the day!No Added Sugar< 1g SugarLess than 10 Calories per serve20% Antioxidant Vitamin C100% Profits to FarmersLight & Refreshing Taste",
+  "gtin13": "31200069061",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1200,
+    "mime": "image/jpeg",
+    "url": "https://cdn0.woolworths.media/content/wowproductimages/large/164630.jpg",
+    "width": 1200
+  },
+  "name": "Ocean Spray Low Sugar Mango Cranberry Drink 1.5l",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 6.4,
+    "lowPrice": 6.4,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-22T12:26:21.252Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 6.4,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/164630/ocean-spray-low-sugar-mango-cranberry-drink"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/164630/ocean-spray-low-sugar-mango-cranberry-drink"
+  ],
+  "sku": "164630",
+  "updatedAt": "2022-11-22T12:26:21.252Z"
+}

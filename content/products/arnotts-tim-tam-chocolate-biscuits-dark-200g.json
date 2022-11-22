@@ -1,0 +1,66 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "397.0kJ",
+      "carbohydrateContent": "11.8g",
+      "dietary_fibre": "0.4g",
+      "fatContent": "4.8g",
+      "name": "nutrition",
+      "proteinContent": "0.8g",
+      "saturatedFatContent": "2.7g",
+      "servingSize": "100 g",
+      "sodiumContent": "29.0mg",
+      "sugarContent": "7.8g"
+    }
+  ],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Arnott's"
+  },
+  "createdAt": "2022-11-22T15:09:55.827Z",
+  "description": "Arnott’s Tim Tam Dark biscuits are made with a mouth-watering combination of crunchy biscuit, luscious dark chocolate centre, wrapped in a smooth dark chocolate coating. It’s easy to see why Tim Tam is Australia’s most-loved chocolate biscuit.Indulge in true decadence with Arnott’s Tim Tam Dark Chocolate biscuits. With a unique combination of contrasting layers of dark chocolate, biscuit and cream, these biscuits are an iconic Aussie treat and the perfect way to indulge in the afternoon or unwind at the end of a long day. What more could you wish for?  • Australia’s most-loved chocolate biscuits. • Luscious dark chocolate centre, wrapped in a smooth dark chocolate coating. • For your moment of afternoon indulgence. • There is no substitute. • Made in Australia.Australia's most-loved chocolate biscuitsMade in AustraliaThere is no substituteMade with irresistible real chocolate",
+  "gtin13": "9310072012599",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1200,
+    "mime": "image/jpeg",
+    "url": "https://cdn0.woolworths.media/content/wowproductimages/large/089972.jpg",
+    "width": 1200
+  },
+  "name": "Arnott's Tim Tam Chocolate Biscuits Dark 200G",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3.5,
+    "lowPrice": 3.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-22T15:09:55.826Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 3.5,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/89972/arnott-s-tim-tam-chocolate-biscuits-dark"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/89972/arnott-s-tim-tam-chocolate-biscuits-dark"
+  ],
+  "sku": "89972",
+  "updatedAt": "2022-11-22T15:09:55.826Z"
+}

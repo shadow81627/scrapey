@@ -1,0 +1,52 @@
+{
+  "@type": "Product",
+  "additionalProperty": [],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Petaluma"
+  },
+  "createdAt": "2022-11-22T12:38:37.523Z",
+  "description": "With a commitment to producing the very best wines from South Australia's premier viticultural areas, Petaluma are able to present wines like this White Label Sauvignon Blanc. This aromatic white from the Adelaide Hills displays wonderful exotic fruit intensity that is touched by a subtle herbal note. There is also a line of definitive crisp minerality to leave your palate not only refreshed, but calling for more.",
+  "gtin13": "9338979000563",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1200,
+    "mime": "image/jpeg",
+    "url": "https://cdn0.woolworths.media/content/wowproductimages/large/750323.jpg",
+    "width": 1200
+  },
+  "name": "Petaluma White Label Sauvignon Blanc 750mL",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 22,
+    "lowPrice": 22,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-22T12:38:37.522Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 22,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/750323/petaluma-white-label-sauvignon-blanc"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/750323/petaluma-white-label-sauvignon-blanc"
+  ],
+  "sku": "750323",
+  "updatedAt": "2022-11-22T12:38:37.522Z"
+}

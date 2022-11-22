@@ -1,0 +1,52 @@
+{
+  "@type": "Product",
+  "additionalProperty": [],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Radiant"
+  },
+  "createdAt": "2022-11-22T14:33:30.176Z",
+  "description": "New & Improved Radiant Whites or Colours with more brightening power* and boosted fragrance. Specially formulated to brighten whites & colours while lifting dirt & tough stains to deliver an exceptional clean. Radiant's unique Colour Guard® technology combined with our advanced brightening system gives you sharper colours & brilliant whites wash after wash. Radiant keeps your colours looking newer for longer. *vs previous Radiant Whites or Colours",
+  "gtin13": "9300615092997",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1200,
+    "mime": "image/jpeg",
+    "url": "https://cdn0.woolworths.media/content/wowproductimages/large/143353.jpg",
+    "width": 1200
+  },
+  "name": "Radiant Whites Or Colours Laundry Liquid Detergent 2L",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 20,
+    "lowPrice": 20,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-22T14:33:30.176Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 20,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/143353/radiant-whites-or-colours-laundry-liquid-detergent"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/143353/radiant-whites-or-colours-laundry-liquid-detergent"
+  ],
+  "sku": "143353",
+  "updatedAt": "2022-11-22T14:33:30.176Z"
+}

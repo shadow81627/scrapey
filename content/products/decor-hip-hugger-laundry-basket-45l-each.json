@@ -1,0 +1,52 @@
+{
+  "@type": "Product",
+  "additionalProperty": [],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Decor"
+  },
+  "createdAt": "2022-11-22T14:38:25.811Z",
+  "description": "Award winning hip hugging shape designed for comfortable one handed use, the Classique Laundry Basket is durable and robust quality. Product Features;• Curved hip-hugging shape.• 3 easy-grip textured handles.• Secure and confident carrying.• Smooth surface finish to prevent clothing snags.• Extra large 45L capacity for full family loads.• Air flow holes to prevent mould and smells.• Superior and strong heavy-duty design.",
+  "gtin13": "9310497660436",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1200,
+    "mime": "image/jpeg",
+    "url": "https://cdn0.woolworths.media/content/wowproductimages/large/210267.jpg",
+    "width": 1200
+  },
+  "name": "Decor Hip Hugger Laundry Basket 45l Each",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 16,
+    "lowPrice": 16,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-22T14:38:25.810Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 16,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/210267/decor-hip-hugger-laundry-basket-45l"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/210267/decor-hip-hugger-laundry-basket-45l"
+  ],
+  "sku": "210267",
+  "updatedAt": "2022-11-22T14:38:25.810Z"
+}

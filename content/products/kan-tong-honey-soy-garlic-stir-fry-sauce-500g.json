@@ -1,0 +1,66 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "299.00kJ",
+      "carbohydrateContent": "21.60g",
+      "dietary_fibre": "0.75g",
+      "fatContent": "0.10g",
+      "name": "nutrition",
+      "proteinContent": "2.00g",
+      "saturatedFatContent": "0.10g",
+      "servingSize": "100 g",
+      "sodiumContent": "960.00mg",
+      "sugarContent": "14.40g"
+    }
+  ],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Kan Tong"
+  },
+  "createdAt": "2022-11-22T13:52:52.383Z",
+  "description": "Ignite your taste for adventure with Kan Tong.Create a quick and delicious Stir Fry the whole family will love with Kan Tong Honey, Soy & Garlic Cooking Sauce.  Made with authentic ingredients to create a delicious, aromatic stir fry sauce you'll love.- No Artificial Flavours, Colours or Preservatives- No added MSG- Made in Australia- Serves 4Serves 4",
+  "gtin13": "9310012047728",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1200,
+    "mime": "image/jpeg",
+    "url": "https://cdn0.woolworths.media/content/wowproductimages/large/421920.jpg",
+    "width": 1200
+  },
+  "name": "Kan Tong Honey Soy Garlic Stir Fry Sauce 500G",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3,
+    "lowPrice": 3,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-22T13:52:52.382Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 3,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/421920/kan-tong-honey-soy-garlic-stir-fry-sauce"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/421920/kan-tong-honey-soy-garlic-stir-fry-sauce"
+  ],
+  "sku": "421920",
+  "updatedAt": "2022-11-22T13:52:52.382Z"
+}

@@ -1,0 +1,66 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "Approx.385kJ",
+      "carbohydrateContent": "Approx.16.6g",
+      "dietary_fibre": "<1g",
+      "fatContent": "Approx.2.2g",
+      "name": "nutrition",
+      "proteinContent": "Approx.1.1g",
+      "saturatedFatContent": "<1g",
+      "servingSize": "100 g",
+      "sodiumContent": "Approx.725mg",
+      "sugarContent": "Approx.14.2g"
+    }
+  ],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Maggi"
+  },
+  "createdAt": "2022-11-22T14:45:01.209Z",
+  "description": "Serve up a stir fry for your next meal! MAGGI Chinese BBQ Pork Stir Fry Recipe Base is sure to be a hit at the dinner table with its delicious sticky BBQ stir fry sauce. Simply add your choice of meat and vegetables, and follow the easy two-step process of adding the infusion paste and then the finishing sauce. You'll have a delicious stir fry in just 20 minutes! \n\nFor a meat-free alternative, swap out the meat for some firm tofu.\n\nLove this stir fry? Check out the rest of the MAGGI Stir Fry range.",
+  "gtin13": "9300605095151",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1200,
+    "mime": "image/jpeg",
+    "url": "https://cdn0.woolworths.media/content/wowproductimages/large/777844.jpg",
+    "width": 1200
+  },
+  "name": "Maggi Stir Fry Creations Chinese Bbq Pork 150G",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3.5,
+    "lowPrice": 3.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-22T14:45:01.208Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 3.5,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/777844/maggi-stir-fry-creations-chinese-bbq-pork"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/777844/maggi-stir-fry-creations-chinese-bbq-pork"
+  ],
+  "sku": "777844",
+  "updatedAt": "2022-11-22T14:45:01.209Z"
+}

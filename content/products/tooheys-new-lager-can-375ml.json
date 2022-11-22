@@ -1,0 +1,52 @@
+{
+  "@type": "Product",
+  "additionalProperty": [],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Tooheys"
+  },
+  "createdAt": "2022-11-22T13:51:28.829Z",
+  "description": "An Aussie classic in a can, Tooheys New has been satisfying thirsts since 1931. A draught lager with a full flavour that's best enjoyed when served icy cold. A super refreshing beer that's still as enjoyable today as it was all those years ago. Crack open a can and enjoy. Liquor Style: Lager Beer Type: Lager Alcohol %: 4.6 Standard Drinks: 1.4 Country Of Origin: Australia",
+  "gtin13": "9311890123498",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1200,
+    "mime": "image/jpeg",
+    "url": "https://cdn0.woolworths.media/content/wowproductimages/large/010462.jpg",
+    "width": 1200
+  },
+  "name": "Tooheys New Lager Can 375ml",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 5,
+    "lowPrice": 5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-22T13:51:28.829Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 5,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/10462/tooheys-new-lager-can"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/10462/tooheys-new-lager-can"
+  ],
+  "sku": "10462",
+  "updatedAt": "2022-11-22T13:51:28.829Z"
+}

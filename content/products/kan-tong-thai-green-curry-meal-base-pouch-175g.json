@@ -1,0 +1,66 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "154",
+      "carbohydrateContent": "7.1g",
+      "dietary_fibre": "-",
+      "fatContent": "0.6g",
+      "name": "nutrition",
+      "proteinContent": "0.5g",
+      "saturatedFatContent": "<0.1g",
+      "servingSize": "100 g",
+      "sodiumContent": "350mg",
+      "sugarContent": "-"
+    }
+  ],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Kan Tong"
+  },
+  "createdAt": "2022-11-22T13:53:33.904Z",
+  "description": "KAN TONG Cooking Sauce Thai Green Curry 175g Pouch.",
+  "gtin13": "9310012049562",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1200,
+    "mime": "image/jpeg",
+    "url": "https://cdn0.woolworths.media/content/wowproductimages/large/656938.jpg",
+    "width": 1200
+  },
+  "name": "Kan Tong Thai Green Curry Meal Base Pouch 175G",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3.5,
+    "lowPrice": 3.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-22T13:53:33.903Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 3.5,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/656938/kan-tong-thai-green-curry-meal-base-pouch"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/656938/kan-tong-thai-green-curry-meal-base-pouch"
+  ],
+  "sku": "656938",
+  "updatedAt": "2022-11-22T13:53:33.903Z"
+}

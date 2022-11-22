@@ -1,0 +1,52 @@
+{
+  "@type": "Product",
+  "additionalProperty": [],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Bosisto's"
+  },
+  "createdAt": "2022-11-22T22:22:04.841Z",
+  "description": "Dermatologically tested*Create a healthier home for you and your family. With pure eucalyptus oil harvested from our farm in Inglewood Victoria, this naturally powered Laundry Liquid is tough on stains, but proven kind on sensitive skin.*Dermatologically tested & hypoallergenic*Proven to remove everyday stains, without harsh ingredients: No synthetic fragrances or dyesNo optical brightenersNo bleachesNo enzymesNo zeolitesNo sodium lauryl sulphate (SLS)No added phosphates*Dermatologically tested on fabric washed in this product by an independent laboratory.",
+  "gtin13": "9300710035127",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1200,
+    "mime": "image/jpeg",
+    "url": "https://cdn0.woolworths.media/content/wowproductimages/large/864345.jpg",
+    "width": 1200
+  },
+  "name": "Bosisto's Sensitive Laundry Liquid 1.2L",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 7.7,
+    "lowPrice": 7.7,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-22T22:22:04.841Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 7.7,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/864345/bosisto-s-sensitive-laundry-liquid"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/864345/bosisto-s-sensitive-laundry-liquid"
+  ],
+  "sku": "864345",
+  "updatedAt": "2022-11-22T22:22:04.841Z"
+}

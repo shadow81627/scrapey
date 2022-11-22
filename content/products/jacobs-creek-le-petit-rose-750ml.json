@@ -1,0 +1,52 @@
+{
+  "@type": "Product",
+  "additionalProperty": [],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Jacob's Creek"
+  },
+  "createdAt": "2022-11-22T14:25:37.302Z",
+  "description": "Jacob's Creek Le Petit Rosé is a great choice of wine for summer. A premium combination of Pinot Noir, Mataro and Grenache grapes ensure a complex palate that showcases some real varietal character. A shot of acidity provides a generous length of flavour.Varietal: Red BlendLiquor Style: RoséCountry Of Origin: AustraliaVintage: 2018*Alcohol %: 12.4Standard Drinks: 7.3",
+  "gtin13": "9300727020796",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1200,
+    "mime": "image/jpeg",
+    "url": "https://cdn0.woolworths.media/content/wowproductimages/large/508078.jpg",
+    "width": 1200
+  },
+  "name": "Jacob's Creek Le Petit Rose 750mL",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 14,
+    "lowPrice": 14,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-22T14:25:37.301Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 14,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/508078/jacob-s-creek-le-petit-rose"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/508078/jacob-s-creek-le-petit-rose"
+  ],
+  "sku": "508078",
+  "updatedAt": "2022-11-22T14:25:37.301Z"
+}

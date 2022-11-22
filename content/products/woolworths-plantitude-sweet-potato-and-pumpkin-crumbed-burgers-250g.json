@@ -1,0 +1,58 @@
+{
+  "@type": "Product",
+  "additionalProperty": [],
+  "aggregateRating": {
+    "@context": "http://schema.org",
+    "@type": "AggregateRating",
+    "ratingCount": 383,
+    "ratingValue": 3.58746736292428
+  },
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Woolworths"
+  },
+  "createdAt": "2022-11-22T14:17:48.389Z",
+  "description": "\"With silky sweet potato, smooth pumpkin and zesty red capsicum, Woolworths Plantitude Sweet Potato & Pumpkin Crumbed Burgers are bursting with wholesome flavours and feature a crunchy golden crumb for a delicious texture. High in fibre and free from artificial colours or flavours, Woolworths Plantitude Sweet Potato & Pumpkin Crumbed Burgers are the ideal plant-based choice for a nourishing lunch or a meat-free mid-week dinner.\"",
+  "gtin13": "9339687280346",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1200,
+    "mime": "image/jpeg",
+    "url": "https://cdn0.woolworths.media/content/wowproductimages/large/187438.jpg",
+    "width": 1200
+  },
+  "name": "Woolworths Plantitude Sweet Potato & Pumpkin Crumbed Burgers 250g",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 7,
+    "lowPrice": 7,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-22T14:17:48.388Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 7,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/187438/woolworths-plantitude-sweet-potato-pumpkin-crumbed-burgers"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/187438/woolworths-plantitude-sweet-potato-pumpkin-crumbed-burgers"
+  ],
+  "sku": "187438",
+  "updatedAt": "2022-11-22T14:17:48.388Z"
+}

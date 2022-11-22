@@ -1,0 +1,66 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "50.00kJ",
+      "carbohydrateContent": "2.10g",
+      "dietary_fibre": "0.48g",
+      "fatContent": "< 0.1g",
+      "name": "nutrition",
+      "proteinContent": "0.40g",
+      "saturatedFatContent": "< 0.1g",
+      "servingSize": "100 g",
+      "sodiumContent": "146.00mg",
+      "sugarContent": "1.40g"
+    }
+  ],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Doritos"
+  },
+  "createdAt": "2022-11-22T15:08:52.016Z",
+  "description": "Load up your Doritos Corn Chips & Crackers with Mild Salsa Dip to unleash the full Doritos taste experience! Mild Tangy salsa makes your snacking experience even bolder, is the perfect dip for sharing and is suitable for vegetarians containing no artificial colours or flavours. If you’re looking for a more explosive taste experience, look up our Doritos Nachos recipe. Doritos Salsa Dip, for the bold.- Mild Salsa- Goes great with corn chips and crackers- Perfect for sharing",
+  "gtin13": "9310015224072",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1200,
+    "mime": "image/jpeg",
+    "url": "https://cdn0.woolworths.media/content/wowproductimages/large/113816.jpg",
+    "width": 1200
+  },
+  "name": "Doritos Salsa Dip Mild 300G",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2.75,
+    "lowPrice": 2.75,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-22T15:08:52.015Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 2.75,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/113816/doritos-salsa-dip-mild"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/113816/doritos-salsa-dip-mild"
+  ],
+  "sku": "113816",
+  "updatedAt": "2022-11-22T15:08:52.015Z"
+}

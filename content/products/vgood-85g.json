@@ -1,0 +1,51 @@
+{
+  "@type": "Product",
+  "additionalProperty": [],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Vgood"
+  },
+  "createdAt": "2022-11-22T15:45:02.340Z",
+  "description": "Simplifying healthier snacks for families, VGood Smokin’ BBQ Chickpea Twists are a crispy crunchy twisted snack made with over 90% chickpeas and offering a 5-star health rating. With all-natural seasonings, they provide a clean ingredient list, and are packed with fibre and over 20% plant-based protein. \n\nVGood Twists are free from the 14 most common food allergens including gluten, nuts, soy, and dairy.\n\nVGood Twists actually do deliver on health, without compromising on a delicious taste.",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1200,
+    "mime": "image/jpeg",
+    "url": "https://cdn0.woolworths.media/content/wowproductimages/large/1073797544.jpg",
+    "width": 1200
+  },
+  "name": "Vgood 85G",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 4.3,
+    "lowPrice": 4.3,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-22T15:45:02.338Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 4.3,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/1073797544/vgood-chickpea-twists-smokin-bbq-85g"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/1073797544/vgood-chickpea-twists-smokin-bbq-85g"
+  ],
+  "sku": "1073797544",
+  "updatedAt": "2022-11-22T15:45:02.338Z"
+}
