@@ -18,7 +18,12 @@ function isValidUrl(string: string): boolean {
 }
 
 const allowedHosts = ['shop.coles.com.au', 'woolworths.com.au'];
-const disallowedHosts = ['twitter.com', 'facebook.com', 'pinterest.com'];
+const disallowedHosts = [
+  'twitter.com',
+  'facebook.com',
+  'pinterest.com',
+  'woolworthsrewards.com.au',
+];
 let iteration = 0;
 
 async function crawl(url: string) {
