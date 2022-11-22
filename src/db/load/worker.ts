@@ -15,19 +15,11 @@ import createPerson from '../load/createPerson';
 const { readFile } = fsPromises;
 const schemaDomainRegex = /https?:\/\/schema.org\//g;
 import { expose } from 'threads/worker';
-import { getConnection, createConnection } from 'typeorm';
+import getOrCreateConnection from '../../utils/getOrCreateConnection';
 const userAgent =
   'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:106.0) Gecko/20100101 Firefox/106.0';
 
 async function loadDB(filename: string) {
-  async function getOrCreateConnection() {
-    try {
-      return await createConnection();
-    } catch {
-      return await getConnection();
-    }
-  }
-
   const connection = await getOrCreateConnection();
 
   const file = await readFile(filename, { encoding: 'utf8' });
