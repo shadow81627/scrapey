@@ -9,7 +9,7 @@
     "scrape": "ts-node src/index.ts",
     "scrape:new": "ts-node src/index.ts --only-new",
     "scrape:dry": "ts-node src/index.ts --no-scrape",
-    "crawl": "ts-node src/crawl/crawl.ts",
+    "crawl": "ts-node src/crawl/index.ts",
     "lint": "eslint --ext .js,.ts,.json --ignore-path .gitignore .",
     "lint:fix": "npm run lint -- --fix"
   },

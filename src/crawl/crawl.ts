@@ -9,7 +9,6 @@ import { CrawlIssue } from '../db/entity/CrawlIssue';
 import isValidUrl from '../utils/isValidUrl';
 import getNextCrawlUrl from '../utils/getNextCrawlUrl';
 
-const allowedHosts = ['shop.coles.com.au', 'woolworths.com.au', 'budgetbytes.com', 'connoisseurusveg.com'];
 const disallowedHosts = [
   'twitter.com',
   'facebook.com',
@@ -18,7 +17,7 @@ const disallowedHosts = [
 ];
 let iteration = 0;
 
-async function crawl(url: string) {
+export default async function crawl(url: string) {
   iteration++;
   console.log(iteration, url);
   const hostname = new URL(url).hostname;
@@ -112,39 +111,9 @@ async function crawl(url: string) {
     await connection.manager.save(issue);
   }
 
-  const link = (
-    await connection.manager.findOne(Url, {
-      where: [
-        {
-          crawledAt: IsNull(),
-          hostname: In(allowedHosts),
-          canonical: IsNull(),
-        },
-        {
-          crawledAt: IsNull(),
-          hostname: In(allowedHosts),
-          canonical: Raw('canonicalId'),
-        },
-      ],
-    })
-  )?.url;
+  const link = await getNextCrawlUrl();
 
   if (link) {
     await crawl(link);
   }
 }
-
-/**
- * Main top level async/await
- */
-//     'https://www.woolworths.com.au/shop/productdetails/29411/sanofi-hydrogen-peroxide'
-(async () => {
-  // const url =
-  //   'https://shop.coles.com.au/a/national/everything/browse';
-  const connection = await createConnection();
-  const url = await getNextCrawlUrl();
-  if (url) {
-    await crawl(url);
-  }
-  await connection.close();
-})();
