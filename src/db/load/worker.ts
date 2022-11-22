@@ -1,17 +1,17 @@
 import 'reflect-metadata';
-import { Url } from './entity/Url';
-import { Product } from './entity/Product';
+import { Url } from '../entity/Url';
+import { Product } from '../entity/Product';
 import _ from 'lodash';
-import { Image } from './entity/Image';
+import { Image } from '../entity/Image';
 import probe from 'probe-image-size';
-import { Recipe } from './entity/Recipe';
-import { NutritionInformation } from './entity/NutritionInformation';
-import { ThingType } from './util/ThingType';
-import { Offer } from './entity/Offer';
+import { Recipe } from '../entity/Recipe';
+import { NutritionInformation } from '../entity/NutritionInformation';
+import { ThingType } from '../util/ThingType';
+import { Offer } from '../entity/Offer';
 import { promises as fsPromises } from 'fs';
-import createThing from './load/createThing';
-import createOrganization from './load/createOrganization';
-import createPerson from './load/createPerson';
+import createThing from '../load/createThing';
+import createOrganization from '../load/createOrganization';
+import createPerson from '../load/createPerson';
 const { readFile } = fsPromises;
 const schemaDomainRegex = /https?:\/\/schema.org\//g;
 import { expose } from 'threads/worker';
@@ -114,7 +114,7 @@ async function loadDB(filename: string) {
           product.gtin13 = gtin13;
           product.thing = thing;
 
-          if (brand) {
+          if (brand && (typeof brand === 'string' || brand.name)) {
             const org = await createOrganization({
               name: (brand.name ?? brand)
                 .split(' ')

@@ -1,5 +1,5 @@
 import 'reflect-metadata';
-import getFiles from '../utils/getFiles';
+import getFiles from '../../utils/getFiles';
 import { Pool, spawn, Worker } from 'threads';
 import path from 'path';
 
