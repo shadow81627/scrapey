@@ -7,6 +7,7 @@ import { processHtml } from '../scrape/processHtml';
 import { processLinkData } from '../scrape/processLinkData';
 import { CrawlIssue } from '../db/entity/CrawlIssue';
 import isValidUrl from '../utils/isValidUrl';
+import getNextCrawlUrl from '../utils/getNextCrawlUrl';
 
 const allowedHosts = ['shop.coles.com.au', 'woolworths.com.au', 'budgetbytes.com', 'connoisseurusveg.com'];
 const disallowedHosts = [
@@ -141,27 +142,7 @@ async function crawl(url: string) {
   // const url =
   //   'https://shop.coles.com.au/a/national/everything/browse';
   const connection = await createConnection();
-  const url = (
-    await connection.manager.findOne(Url, {
-      where: [
-        {
-          crawledAt: IsNull(),
-          hostname: In(allowedHosts),
-          canonical: IsNull(),
-        },
-        {
-          crawledAt: IsNull(),
-          hostname: In(allowedHosts),
-          canonical: Raw('canonicalId'),
-        },
-      ],
-      order: {
-        dated: {
-          createdAt: 'ASC'
-        }
-      },
-    })
-  )?.url;
+  const url = await getNextCrawlUrl();
   if (url) {
     await crawl(url);
   }
