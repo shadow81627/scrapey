@@ -6,16 +6,7 @@ import _ from 'lodash';
 import { processHtml } from '../scrape/processHtml';
 import { processLinkData } from '../scrape/processLinkData';
 import { CrawlIssue } from '../db/entity/CrawlIssue';
-
-function isValidUrl(string: string): boolean {
-  try {
-    new URL(string);
-  } catch (_) {
-    return false;
-  }
-
-  return true;
-}
+import isValidUrl from '../utils/isValidUrl';
 
 const allowedHosts = ['shop.coles.com.au', 'woolworths.com.au', 'budgetbytes.com', 'connoisseurusveg.com'];
 const disallowedHosts = [
