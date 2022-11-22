@@ -6,7 +6,7 @@ interface getHtmlArgs {
 
 export default async function getHtml({ url }: getHtmlArgs): Promise<string> {
   const browserOptions = {
-    headless: false,
+    headless: true,
     slowMo: 250,
     waitUntil: 'networkidle0',
     defaultViewport: null,
