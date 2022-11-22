@@ -164,9 +164,11 @@ async function crawl(url: string) {
           canonical: Raw('canonicalId'),
         },
       ],
-      // order: {
-      //   'dated.createdAt': 'ASC'
-      // },
+      order: {
+        dated: {
+          createdAt: 'ASC'
+        }
+      },
     })
   )?.url;
   if (url) {
