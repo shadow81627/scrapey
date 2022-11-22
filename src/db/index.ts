@@ -1,6 +1,7 @@
 import 'reflect-metadata';
 import getFiles from '../utils/getFiles';
 import { Pool, spawn, Worker } from 'threads';
+import path from 'path';
 
 /**
  * Main top level async/await
@@ -11,20 +12,20 @@ import { Pool, spawn, Worker } from 'threads';
     files.push(filename);
   }
   const totalFiles = files.length;
-  const pool = Pool(() => spawn(new Worker("./worker.ts")), 8 /* optional size */)
+  const pool = Pool(() => spawn(new Worker('./worker.ts')));
   let iteration = 0;
   for (const file of files) {
-    pool.queue(async loadDB => {
+    pool.queue(async (loadDB) => {
       iteration++;
-      await loadDB(file)
+      await loadDB(file);
       console.log(
         `${String(iteration).padStart(String(totalFiles).length, '0')}/${String(
           totalFiles,
         )}`,
-        file,
+        path.relative(process.cwd(), file),
       );
     });
   }
-  await pool.completed()
-  await pool.terminate()
+  await pool.completed();
+  await pool.terminate();
 })();
