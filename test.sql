@@ -1,9 +1,18 @@
--- Number of urls per domain
-
+/* Number of urls per domain */
 SELECT hostname,
        COUNT(*) AS `urls`
 FROM url
 GROUP BY hostname
+ORDER BY urls DESC;
+
+/* count urls without query string */
+SELECT hostname,
+       pathname,
+       COUNT(*) AS `urls`
+FROM url
+WHERE deletedAt IS NULL
+GROUP BY hostname,
+         pathname
 ORDER BY urls DESC;
 
 
