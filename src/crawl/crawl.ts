@@ -1,11 +1,11 @@
 import cheerio from 'cheerio';
-import getHtml from './utils/getHtml';
+import getHtml from '../utils/getHtml';
 import { createConnection, getConnection, In, IsNull, Raw } from 'typeorm';
-import { Url } from './db/entity/Url';
+import { Url } from '../db/entity/Url';
 import _ from 'lodash';
-import { processHtml } from './scrape/processHtml';
-import { processLinkData } from './scrape/processLinkData';
-import { CrawlIssue } from './db/entity/CrawlIssue';
+import { processHtml } from '../scrape/processHtml';
+import { processLinkData } from '../scrape/processLinkData';
+import { CrawlIssue } from '../db/entity/CrawlIssue';
 
 function isValidUrl(string: string): boolean {
   try {
@@ -165,8 +165,8 @@ async function crawl(url: string) {
         },
       ],
       // order: {
-      //   dated.createdAt: 'ASC'
-      // }
+      //   'dated.createdAt': 'ASC'
+      // },
     })
   )?.url;
   if (url) {
