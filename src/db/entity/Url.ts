@@ -7,6 +7,7 @@ import {
   JoinTable,
   ManyToOne,
   OneToMany,
+  VersionColumn,
 } from 'typeorm';
 import { v5 as uuidv5 } from 'uuid';
 import { Dated } from '../util/Dated';
@@ -41,6 +42,9 @@ export class Url {
     prefix: false,
   })
   dated?: Dated;
+
+  @VersionColumn()
+  version?: number;
 
   @ManyToOne(() => Url, { nullable: true, onDelete: 'SET NULL' })
   canonical?: Url;
