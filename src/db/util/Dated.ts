@@ -1,9 +1,12 @@
-import { CreateDateColumn } from "typeorm";
+import { CreateDateColumn, DeleteDateColumn, UpdateDateColumn } from 'typeorm';
 
 export class Dated {
   @CreateDateColumn({ type: 'timestamp' })
   public createdAt?: Date;
 
-  @CreateDateColumn({ type: 'timestamp' })
+  @UpdateDateColumn({ type: 'timestamp' })
   public updatedAt?: Date;
+
+  @DeleteDateColumn({ type: 'timestamp' })
+  public deletedAt?: Date;
 }
