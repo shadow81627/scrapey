@@ -4,6 +4,7 @@
   "description": "Web content scraping",
   "main": "index.js",
   "scripts": {
+    "playground": "ts-node playground.ts",
     "load:db": "ts-node src/db/index.ts",
     "scrape": "ts-node src/index.ts",
     "scrape:new": "ts-node src/index.ts --only-new",
