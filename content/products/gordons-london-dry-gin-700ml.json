@@ -1,0 +1,52 @@
+{
+  "@type": "Product",
+  "additionalProperty": [],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Gordon's"
+  },
+  "createdAt": "2022-11-22T09:27:39.628Z",
+  "description": "Gordon's London Dry Gin has remained unchanged since it was first produced back in 1769. With its unique blend of flavours it's triple distilled for extra smoothness. An excellent choice to keep on hand next time you feel like a G+T.Spirit Type: GinVarietal: London Dry GinAlcohol %: 37Standard Drinks: 20Country Of Origin: England",
+  "gtin13": "9310495051366",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1200,
+    "mime": "image/jpeg",
+    "url": "https://cdn0.woolworths.media/content/wowproductimages/large/021281.jpg",
+    "width": 1200
+  },
+  "name": "Gordon's London Dry Gin 700mL",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 42,
+    "lowPrice": 42,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-22T09:27:39.627Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 42,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/21281/gordon-s-london-dry-gin"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/21281/gordon-s-london-dry-gin"
+  ],
+  "sku": "21281",
+  "updatedAt": "2022-11-22T09:27:39.627Z"
+}

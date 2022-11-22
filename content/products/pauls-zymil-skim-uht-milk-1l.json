@@ -1,0 +1,66 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "382kJ",
+      "carbohydrateContent": "13.0g",
+      "dietary_fibre": "0.0g",
+      "fatContent": "<1g",
+      "name": "nutrition",
+      "proteinContent": "8.7g",
+      "saturatedFatContent": "<1g",
+      "servingSize": "100 g",
+      "sodiumContent": "113mg",
+      "sugarContent": "13.0g"
+    }
+  ],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Pauls"
+  },
+  "createdAt": "2022-11-22T08:16:19.552Z",
+  "description": "Pauls Zymil Skim Milk is 100% Australian milk, lactose free dairy milk that is easy to digest.At Pauls, we love dairy. We're pretty passionate about making great tasting products packed with real dairy goodness. We put that devotion into every Pauls milk, cream, custard and yoghurt we make. Milk is a natural source of protein, vitamins and minerals essential for good health. Rich in calcium, Pauls Zymil is simply milk which is easy to digest (As part of a healthy and varied diet, consuming Zymil instead of regular milk helps ease digestion in those who are sensitive to lactose). Plus Pauls Zymil is lactose free and made from real milk so it has all of the natural goodness of regular milk. Lactose free, easy to digest and rich in calcium.",
+  "gtin13": "9310036071501",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1200,
+    "mime": "image/jpeg",
+    "url": "https://cdn0.woolworths.media/content/wowproductimages/large/113025.jpg",
+    "width": 1200
+  },
+  "name": "Pauls Zymil Skim Uht Milk 1L",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2.75,
+    "lowPrice": 2.75,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-22T08:16:19.551Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 2.75,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/113025/pauls-zymil-skim-uht-milk"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/113025/pauls-zymil-skim-uht-milk"
+  ],
+  "sku": "113025",
+  "updatedAt": "2022-11-22T08:16:19.551Z"
+}

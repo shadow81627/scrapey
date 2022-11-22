@@ -1,0 +1,66 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "Approx.1030kJ",
+      "carbohydrateContent": "Approx.20.7g",
+      "dietary_fibre": "Approx.1.8g",
+      "fatContent": "Approx.16.4g",
+      "name": "nutrition",
+      "proteinContent": "Approx.3.6g",
+      "saturatedFatContent": "Approx.10g",
+      "servingSize": "100 g",
+      "sodiumContent": "Approx.42mg",
+      "sugarContent": "Approx.19.2g"
+    }
+  ],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Haagen-Dazs"
+  },
+  "createdAt": "2022-11-22T03:55:45.174Z",
+  "description": "Chocolate ice cream with Belgian chocolate (23%) Intense and mysterious, but i needn't be a stranger. If you love chocolate, I mean REALLY love chocolate it's time you got to know me. I'm smooth, rich, intense and full of surprises waiting to be discovered. So, what's my secret? My ice cream always begins with four simple ingredients: real cream, milk, eggs and sugar. To discover exträordinary, let's go back to your place.",
+  "gtin13": "3415581113365",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1200,
+    "mime": "image/jpeg",
+    "url": "https://cdn0.woolworths.media/content/wowproductimages/large/505061.jpg",
+    "width": 1200
+  },
+  "name": "Haagendazs Belgian Chocolate Ice Cream 457mL",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 12.5,
+    "lowPrice": 12.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-22T03:55:45.173Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 12.5,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/505061/haagen-dazs-belgian-chocolate-ice-cream"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/505061/haagen-dazs-belgian-chocolate-ice-cream"
+  ],
+  "sku": "505061",
+  "updatedAt": "2022-11-22T03:55:45.173Z"
+}

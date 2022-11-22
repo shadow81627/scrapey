@@ -1,0 +1,72 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "Approx.872kJ",
+      "carbohydrateContent": "Approx.0.9g",
+      "dietary_fibre": "Approx.1.9g",
+      "fatContent": "Approx.20.8g",
+      "name": "nutrition",
+      "proteinContent": "Approx.4.3g",
+      "saturatedFatContent": "Approx.1.3g",
+      "servingSize": "100 g",
+      "sodiumContent": "<5mg",
+      "sugarContent": "Approx.0.8g"
+    }
+  ],
+  "aggregateRating": {
+    "@context": "http://schema.org",
+    "@type": "AggregateRating",
+    "ratingCount": 302,
+    "ratingValue": 4.62913907284768
+  },
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Woolworths"
+  },
+  "createdAt": "2022-11-22T04:57:14.562Z",
+  "description": "These natural Californian walnuts are a good source of Omega 3, perfect for walnut tarts & loaves or are equally satisfying as a snack on their own.",
+  "gtin13": "9300633308292",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1200,
+    "mime": "image/jpeg",
+    "url": "https://cdn0.woolworths.media/content/wowproductimages/large/726360.jpg",
+    "width": 1200
+  },
+  "name": "Woolworths Walnuts Californian 450G",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 9,
+    "lowPrice": 9,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/OutOfStock",
+        "availabilityStarts": "2022-11-22T04:57:14.561Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 9,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/726360/woolworths-walnuts-californian"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/726360/woolworths-walnuts-californian"
+  ],
+  "sku": "726360",
+  "updatedAt": "2022-11-22T04:57:14.561Z"
+}

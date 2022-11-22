@@ -1,0 +1,51 @@
+{
+  "@type": "Product",
+  "additionalProperty": [],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Burt's Bees"
+  },
+  "createdAt": "2022-11-22T07:43:10.194Z",
+  "description": "Burt’s Bees Lip Shimmer keeps your lips hydrated with slightly more than a hint of color. The lip shimmer comes in one slim tube and is available in 12 shimmering shades. The lip shimmers glide on with the perfect complement of moisture and touch of color. Enriched with shea butter, beeswax and antioxidant rich fruit oils to moisturise, nourish and soften lips naturally. The 100% natural moisturising lip tint has a smooth texture that looks great alone or to layer with your favourite lipstick. The lip shimmers are free of parabens, phthalates, petrolatum and SLS.Product Features: Burt’s Bees 100% natural moisturising lip shimmerWatermelon a dark pink hueTouch of color with moisturising shineContents: 2.6 g",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1200,
+    "mime": "image/jpeg",
+    "url": "https://cdn0.woolworths.media/content/wowproductimages/large/1073816272.jpg",
+    "width": 1200
+  },
+  "name": "Burt's Bees 2.6G",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 6.1,
+    "lowPrice": 6.1,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-22T07:43:10.193Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 6.1,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/1073816272/burt-s-bees-lip-shimmer-watermelon"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/1073816272/burt-s-bees-lip-shimmer-watermelon"
+  ],
+  "sku": "1073816272",
+  "updatedAt": "2022-11-22T07:43:10.193Z"
+}

@@ -1,0 +1,66 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "Approx.190kJ",
+      "carbohydrateContent": "Approx.11g",
+      "dietary_fibre": "Approx.0g",
+      "fatContent": "<1g",
+      "name": "nutrition",
+      "proteinContent": "<1g",
+      "saturatedFatContent": "<1g",
+      "servingSize": "100 g",
+      "sodiumContent": "Approx.8mg",
+      "sugarContent": "Approx.10g"
+    }
+  ],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Bickford's"
+  },
+  "createdAt": "2022-11-22T05:14:19.868Z",
+  "description": "Originally made under the 'Our Jack' brand, our coffee syrup has been a piece of Bickford's history since 1919. The distinctive blend of arabica & robusta beans blended with our signature flourish of chicory, is a tradition passed down through generations, that's simply made to enjoy.",
+  "gtin13": "9349277001008",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1200,
+    "mime": "image/jpeg",
+    "url": "https://cdn0.woolworths.media/content/wowproductimages/large/082871.jpg",
+    "width": 1200
+  },
+  "name": "Bickford's Iced Coffee Syrup 500mL",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 7,
+    "lowPrice": 7,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-22T05:14:19.867Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 7,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/82871/bickford-s-iced-coffee-syrup"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/82871/bickford-s-iced-coffee-syrup"
+  ],
+  "sku": "82871",
+  "updatedAt": "2022-11-22T05:14:19.867Z"
+}

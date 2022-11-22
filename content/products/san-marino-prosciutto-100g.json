@@ -1,0 +1,66 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "230.3kJ",
+      "carbohydrateContent": "Less than 1g",
+      "dietary_fibre": "-",
+      "fatContent": "3.1g",
+      "name": "nutrition",
+      "proteinContent": "6.7g",
+      "saturatedFatContent": "1.0g",
+      "servingSize": "100 g",
+      "sodiumContent": "565mg",
+      "sugarContent": "Less than 1g"
+    }
+  ],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "San Marino"
+  },
+  "createdAt": "2022-11-22T08:52:13.920Z",
+  "description": "Made following traditional methods of preservation, the pork legs used are slow dried and cured using only salt. A perfect addition to any platter or perfect in a summer salad! Can even be used as a wrap around fruits and cheeses and served as a canape.",
+  "gtin13": "9310591500270",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1200,
+    "mime": "image/jpeg",
+    "url": "https://cdn0.woolworths.media/content/wowproductimages/large/775734.jpg",
+    "width": 1200
+  },
+  "name": "San Marino Prosciutto 100G",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 7,
+    "lowPrice": 7,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-22T08:52:13.920Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 7,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/775734"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/775734"
+  ],
+  "sku": "775734",
+  "updatedAt": "2022-11-22T08:52:13.920Z"
+}

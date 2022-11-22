@@ -1,0 +1,52 @@
+{
+  "@type": "Product",
+  "additionalProperty": [],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Maschio"
+  },
+  "createdAt": "2022-11-22T09:28:21.493Z",
+  "description": "Pretty in pink with an abundance of fine bubbles, Maschio Prosecco Rose stands out with its intense yeast character in a palate driven by strawberry and raspberry flavours. Wrapped in fragrances of rose and violets, this beauty definitely makes an elegant addition to any event.Varietal: Sparkling RoséLiquor Style: ProseccoRegion Of Origin: VenetoCountry Of Origin: ItalyVintage: Non VintageAlcohol %: 11.5Standard Drinks: 6.8*Vintage may vary from store to store",
+  "gtin13": "8002550503637",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1200,
+    "mime": "image/jpeg",
+    "url": "https://cdn0.woolworths.media/content/wowproductimages/large/026877.jpg",
+    "width": 1200
+  },
+  "name": "Maschio Sparkling Rose 750mL",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 12,
+    "lowPrice": 12,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-22T09:28:21.493Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 12,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/26877/maschio-sparkling-rose"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/26877/maschio-sparkling-rose"
+  ],
+  "sku": "26877",
+  "updatedAt": "2022-11-22T09:28:21.493Z"
+}

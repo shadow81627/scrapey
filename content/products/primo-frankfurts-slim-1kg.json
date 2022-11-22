@@ -1,0 +1,66 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "458.00kJ",
+      "carbohydrateContent": "3.10g",
+      "dietary_fibre": "1.13g",
+      "fatContent": "7.50g",
+      "name": "nutrition",
+      "proteinContent": "7.50g",
+      "saturatedFatContent": "2.50g",
+      "servingSize": "100 g",
+      "sodiumContent": "719.00mg",
+      "sugarContent": "0.50g"
+    }
+  ],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Primo"
+  },
+  "createdAt": "2022-11-22T08:51:31.585Z",
+  "description": "Primo Slim Franks are made from finely textured meat including pork, seasoned with mild spices. Great served with fresh hot dog buns and a tangy barbeque, mustard or tomato sauce.For best results fill a saucepan with enough water to cover the frankfurts and bring to the boil. Reduce heat to low and place frankfurts into the saucepan. Do not re boil. Heat for 5 to 6 minutes then serve.",
+  "gtin13": "9311594223463",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1200,
+    "mime": "image/jpeg",
+    "url": "https://cdn0.woolworths.media/content/wowproductimages/large/185280.jpg",
+    "width": 1200
+  },
+  "name": "Primo Frankfurts Slim 1Kg",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 7.35,
+    "lowPrice": 7.35,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-22T08:51:31.585Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 7.35,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/185280/primo-frankfurts-slim"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/185280/primo-frankfurts-slim"
+  ],
+  "sku": "185280",
+  "updatedAt": "2022-11-22T08:51:31.585Z"
+}

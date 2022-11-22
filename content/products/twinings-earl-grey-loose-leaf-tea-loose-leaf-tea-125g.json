@@ -1,0 +1,66 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "-",
+      "carbohydrateContent": "-",
+      "dietary_fibre": "-",
+      "fatContent": "-",
+      "name": "nutrition",
+      "proteinContent": "-",
+      "saturatedFatContent": "-",
+      "servingSize": "100 g",
+      "sodiumContent": "-",
+      "sugarContent": "-"
+    }
+  ],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Twinings"
+  },
+  "createdAt": "2022-11-22T05:01:57.232Z",
+  "description": "Twinings Earl Grey Light Strength Loose Tea is light & aromatic.A tea fit for an Earl!Legend has it that Earl Grey was developed especially for the 2nd Earl Grey of England in the 1800s. It is light and aromatic with a distinctive citrus bergamot flavour. So sip and enjoy this delightful blend inspired by the Earl and you will feel like you have just stepped back in time.In 1706, Thomas Twining started selling tea. More than 300 years on, the Twinings' tradition continues with our finest blends for you to enjoy every day.",
+  "gtin13": "70177060732",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1200,
+    "mime": "image/jpeg",
+    "url": "https://cdn0.woolworths.media/content/wowproductimages/large/041859.jpg",
+    "width": 1200
+  },
+  "name": "Twinings Earl Grey Loose Leaf Tea Loose Leaf Tea 125g",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 6,
+    "lowPrice": 6,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-22T05:01:57.231Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 6,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/41859/twinings-earl-grey-loose-leaf-tea-loose-leaf-tea"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/41859/twinings-earl-grey-loose-leaf-tea-loose-leaf-tea"
+  ],
+  "sku": "41859",
+  "updatedAt": "2022-11-22T05:01:57.231Z"
+}

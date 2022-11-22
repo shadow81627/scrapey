@@ -1,0 +1,66 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "378.00kJ",
+      "carbohydrateContent": "3.30g",
+      "dietary_fibre": "0.00g",
+      "fatContent": "8.70g",
+      "name": "nutrition",
+      "proteinContent": "0.00g",
+      "saturatedFatContent": "7.80g",
+      "servingSize": "100 g",
+      "sodiumContent": "204.00mg",
+      "sugarContent": "0.00g"
+    }
+  ],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Bio Cheese"
+  },
+  "createdAt": "2022-11-22T08:37:25.611Z",
+  "description": "A great tasting Mediterranean experience. Our Bio Cheese Feta is best crumbled on top of salads, pizzas, fruits or cooked vegetables, or through dips and pastries, allowing you to delight in the quintessential Mediterranean lifestyle on the opposite side of the globe. It’s flavoursome, it’s creamy and it’s versatile - what more could you want?! At My Life we believe that food should taste great and be food for you - natural, tasty and nutritious food should be a simple, everyday choice. That’s why we ensure our products tick ALL boxes.",
+  "gtin13": "9348204000220",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1200,
+    "mime": "image/jpeg",
+    "url": "https://cdn0.woolworths.media/content/wowproductimages/large/679072.jpg",
+    "width": 1200
+  },
+  "name": "Bio Cheese Feta 200G",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 7.2,
+    "lowPrice": 7.2,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-22T08:37:25.611Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 7.2,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/679072/bio-cheese-feta"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/679072/bio-cheese-feta"
+  ],
+  "sku": "679072",
+  "updatedAt": "2022-11-22T08:37:25.611Z"
+}

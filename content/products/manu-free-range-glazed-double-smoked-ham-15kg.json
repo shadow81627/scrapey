@@ -1,0 +1,51 @@
+{
+  "@type": "Product",
+  "additionalProperty": [],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Manu"
+  },
+  "createdAt": "2022-11-22T06:03:03.751Z",
+  "gtin13": "9354780000455",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1200,
+    "mime": "image/jpeg",
+    "url": "https://cdn0.woolworths.media/content/wowproductimages/large/180721.jpg",
+    "width": 1200
+  },
+  "name": "Manu Free Range Glazed Double Smoked Ham 1.5kg",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 49,
+    "lowPrice": 49,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/OutOfStock",
+        "availabilityStarts": "2022-11-22T06:03:03.750Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 49,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/180721/manu-free-range-glazed-double-smoked-ham"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/180721/manu-free-range-glazed-double-smoked-ham"
+  ],
+  "sku": "180721",
+  "updatedAt": "2022-11-22T06:03:03.750Z"
+}

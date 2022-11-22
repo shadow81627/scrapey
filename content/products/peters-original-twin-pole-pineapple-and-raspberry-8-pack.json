@@ -1,0 +1,57 @@
+{
+  "@type": "Product",
+  "additionalProperty": [],
+  "aggregateRating": {
+    "@context": "http://schema.org",
+    "@type": "AggregateRating",
+    "ratingCount": 1,
+    "ratingValue": 5
+  },
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Peters"
+  },
+  "createdAt": "2022-11-22T08:55:42.872Z",
+  "gtin13": "9347042003028",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1200,
+    "mime": "image/jpeg",
+    "url": "https://cdn0.woolworths.media/content/wowproductimages/large/179265.jpg",
+    "width": 1200
+  },
+  "name": "Peters Original Twin Pole Pineapple & Raspberry 8 Pack",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 7.5,
+    "lowPrice": 7.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-22T08:55:42.868Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 7.5,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/179265/peters-original-twin-pole-pineapple-raspberry"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/179265/peters-original-twin-pole-pineapple-raspberry"
+  ],
+  "sku": "179265",
+  "updatedAt": "2022-11-22T08:55:42.868Z"
+}

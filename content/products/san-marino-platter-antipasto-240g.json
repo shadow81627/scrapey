@@ -1,0 +1,66 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "213.8kJ",
+      "carbohydrateContent": "Less than 1g",
+      "dietary_fibre": "-",
+      "fatContent": "3.56g",
+      "name": "nutrition",
+      "proteinContent": "4.48g",
+      "saturatedFatContent": "1.56g",
+      "servingSize": "100 g",
+      "sodiumContent": "282mg",
+      "sugarContent": "Less than 1g"
+    }
+  ],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "San Marino"
+  },
+  "createdAt": "2022-11-22T09:56:35.421Z",
+  "description": "A carefully selected trio of cured meats all of which complement one another. It includes prosciutto, a hot salami and a mild salami - something for everyone! Sold on a convenient serving tray, all the hard work is done for you! Leave as is or take and add on to your own antipasto platter.",
+  "gtin13": "9310591500362",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1200,
+    "mime": "image/jpeg",
+    "url": "https://cdn0.woolworths.media/content/wowproductimages/large/775750.jpg",
+    "width": 1200
+  },
+  "name": "San Marino Platter Antipasto 240G",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 15,
+    "lowPrice": 15,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-22T09:56:35.420Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 15,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/775750/san-marino-platter-antipasto"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/775750/san-marino-platter-antipasto"
+  ],
+  "sku": "775750",
+  "updatedAt": "2022-11-22T09:56:35.420Z"
+}

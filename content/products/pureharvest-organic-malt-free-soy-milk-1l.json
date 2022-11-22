@@ -1,0 +1,66 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "505.00kJ",
+      "carbohydrateContent": "3.80g",
+      "dietary_fibre": "< 1.00g",
+      "fatContent": "8.50g",
+      "name": "nutrition",
+      "proteinContent": "7.50g",
+      "saturatedFatContent": "1.00g",
+      "servingSize": "100 g",
+      "sodiumContent": "38.00mg",
+      "sugarContent": "2.00g"
+    }
+  ],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Pureharvest"
+  },
+  "createdAt": "2022-11-22T12:19:39.225Z",
+  "description": "PureHarvest Organic Soy Unsweetened is made from 15% whole soy beans and no added sugars.Organic Soy Unsweetened is a delicious soy milk made using only certified organic whole soy beans. This product is completely unsweetened – it’s made without cane sugar, maltodextrin, or any other artificial sweetener.Our Organic Soy milks are creamy & nutritious due to being made from at least 15% whole organic soy beans. That means no soy flour, no soy isolates, and no emulsifiers or preservatives. Just simple organic ingredients produced right here in Australia.OrganicUnsweetenedGluten FreeNo additivesNo GMOsNo artificial colours or flavoursNo preservatives",
+  "gtin13": "9312231221231",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1200,
+    "mime": "image/jpeg",
+    "url": "https://cdn0.woolworths.media/content/wowproductimages/large/192366.jpg",
+    "width": 1200
+  },
+  "name": "Pureharvest Organic Malt Free Soy Milk 1L",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2,
+    "lowPrice": 2,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-22T12:19:39.224Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 2,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/192366/pureharvest-organic-malt-free-soy-milk"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/192366/pureharvest-organic-malt-free-soy-milk"
+  ],
+  "sku": "192366",
+  "updatedAt": "2022-11-22T12:19:39.224Z"
+}

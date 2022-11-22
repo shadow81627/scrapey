@@ -1,0 +1,72 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "-",
+      "carbohydrateContent": "-",
+      "dietary_fibre": "-",
+      "fatContent": "-",
+      "name": "nutrition",
+      "proteinContent": "-",
+      "saturatedFatContent": "-",
+      "servingSize": "100 g",
+      "sodiumContent": "-",
+      "sugarContent": "-"
+    }
+  ],
+  "aggregateRating": {
+    "@context": "http://schema.org",
+    "@type": "AggregateRating",
+    "ratingCount": 358,
+    "ratingValue": 4.41340782122905
+  },
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Woolworths"
+  },
+  "createdAt": "2022-11-22T05:46:11.090Z",
+  "description": "100% Australian Beef Mince. Typically 82% meat and 18% fat with nothing else added.",
+  "gtin13": "9300633636043",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1200,
+    "mime": "image/jpeg",
+    "url": "https://cdn0.woolworths.media/content/wowproductimages/large/577864.jpg",
+    "width": 1200
+  },
+  "name": "Woolworths Beef Mince 1Kg",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 13,
+    "lowPrice": 13,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-22T05:46:11.087Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 13,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/577864/woolworths-beef-mince"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/577864/woolworths-beef-mince"
+  ],
+  "sku": "577864",
+  "updatedAt": "2022-11-22T05:46:11.087Z"
+}

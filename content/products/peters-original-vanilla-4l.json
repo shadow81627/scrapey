@@ -1,0 +1,72 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "Approx.340kJ",
+      "carbohydrateContent": "Approx.12.9g",
+      "dietary_fibre": "-",
+      "fatContent": "Approx.3g",
+      "name": "nutrition",
+      "proteinContent": "Approx.0.8g",
+      "saturatedFatContent": "Approx.2.2g",
+      "servingSize": "100 g",
+      "sodiumContent": "Approx.37mg",
+      "sugarContent": "Approx.10g"
+    }
+  ],
+  "aggregateRating": {
+    "@context": "http://schema.org",
+    "@type": "AggregateRating",
+    "ratingCount": 79,
+    "ratingValue": 4.75949367088608
+  },
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Peters"
+  },
+  "createdAt": "2022-11-22T06:37:39.095Z",
+  "description": "Neapolitan ",
+  "gtin13": "9310080257418",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1200,
+    "mime": "image/jpeg",
+    "url": "https://cdn0.woolworths.media/content/wowproductimages/large/034673.jpg",
+    "width": 1200
+  },
+  "name": "Peters Original Vanilla 4L",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 10.9,
+    "lowPrice": 10.9,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-22T06:37:39.094Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 10.9,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/34673/peters-original-vanilla"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/34673/peters-original-vanilla"
+  ],
+  "sku": "34673",
+  "updatedAt": "2022-11-22T06:37:39.094Z"
+}

@@ -1,0 +1,51 @@
+{
+  "@type": "Product",
+  "additionalProperty": [],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Valco Baby"
+  },
+  "createdAt": "2022-11-22T10:39:05.096Z",
+  "description": "Sleek and Sturdy\n\nSleek, sturdy and compact. This change table is a breeze easy to set up, pack up and store away for your next child.\n\nThe Washable Liner is designed to fit this change table and is an ideal product to purchase together with your Pax Plus Changing Table.",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1200,
+    "mime": "image/jpeg",
+    "url": "https://cdn0.woolworths.media/content/wowproductimages/large/1073803958.jpg",
+    "width": 1200
+  },
+  "name": "Valco Baby 1EA",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 129,
+    "lowPrice": 129,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-22T10:39:05.095Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 129,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/1073803958/valco-baby-pax-plus-change-table-black"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/1073803958/valco-baby-pax-plus-change-table-black"
+  ],
+  "sku": "1073803958",
+  "updatedAt": "2022-11-22T10:39:05.095Z"
+}

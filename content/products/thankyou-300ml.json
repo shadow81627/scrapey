@@ -1,0 +1,51 @@
+{
+  "@type": "Product",
+  "additionalProperty": [],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Thankyou"
+  },
+  "createdAt": "2022-11-22T09:12:32.690Z",
+  "description": "Antibacterial & life-changing, Thankyou Hand Sanitiser with Grapefruit kills 99.9% of germs, is pH balanced and helps get safe water and toilets to empower people in need. Small bottle, big impact!",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1200,
+    "mime": "image/jpeg",
+    "url": "https://cdn0.woolworths.media/content/wowproductimages/large/1073814557.jpg",
+    "width": 1200
+  },
+  "name": "Thankyou 300ML",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 10,
+    "lowPrice": 10,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-22T09:12:32.689Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 10,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/1073814557/thankyou-hand-sanitiser-grapefruit-300ml"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/1073814557/thankyou-hand-sanitiser-grapefruit-300ml"
+  ],
+  "sku": "1073814557",
+  "updatedAt": "2022-11-22T09:12:32.689Z"
+}

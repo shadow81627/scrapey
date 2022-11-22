@@ -1,0 +1,66 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "-",
+      "carbohydrateContent": "-",
+      "dietary_fibre": "-",
+      "fatContent": "-",
+      "name": "nutrition",
+      "proteinContent": "-",
+      "saturatedFatContent": "-",
+      "servingSize": "100 g",
+      "sodiumContent": "-",
+      "sugarContent": "-"
+    }
+  ],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Grinders"
+  },
+  "createdAt": "2022-11-22T05:49:36.485Z",
+  "description": "Grinders Coffee Roasters Crema is a rich smooth  creamy coffee beans Medium roasted and made from 100 arabica coffee beansCrema the truth is in the grindAroma Nutty  fruityBody MediumAfter Taste Silky  creamySweetness MediumFlavour Cocoa malt  honeyAcidity MediumRoasted in MelbourneAs an award winning coffee brand the ultimate coffee experience is everything to us so our master roasters have crafted this Crema blend for you to indulge in your own ultimate coffee experience This blend is made from 100 Arabica coffee beansEST 1962 Lygon StOur story started in Lygon St Melbourne 1962 It was from this humble beginning that Grinders Coffee was born Ever mindful of our roots we continue to batch roast all of our beans to produce a finer coffee",
+  "gtin13": "9329214001018",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1200,
+    "mime": "image/jpeg",
+    "url": "https://cdn0.woolworths.media/content/wowproductimages/large/738617.jpg",
+    "width": 1200
+  },
+  "name": "Grinders Rainforest Alliance Certified Coffee Beans Crema 1Kg",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 25,
+    "lowPrice": 25,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-22T05:49:36.484Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 25,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/738617/grinders-rainforest-alliance-certified-coffee-beans-crema"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/738617/grinders-rainforest-alliance-certified-coffee-beans-crema"
+  ],
+  "sku": "738617",
+  "updatedAt": "2022-11-22T05:49:36.484Z"
+}

@@ -1,0 +1,65 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "-",
+      "carbohydrateContent": "-",
+      "dietary_fibre": "-",
+      "fatContent": "-",
+      "name": "nutrition",
+      "proteinContent": "-",
+      "saturatedFatContent": "-",
+      "servingSize": "100 g",
+      "sodiumContent": "-",
+      "sugarContent": "-"
+    }
+  ],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Woolworths"
+  },
+  "createdAt": "2022-11-22T08:29:23.910Z",
+  "gtin13": "0272512000001",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1200,
+    "mime": "image/jpeg",
+    "url": "https://cdn0.woolworths.media/content/wowproductimages/large/096995.jpg",
+    "width": 1200
+  },
+  "name": "Woolworths Green Banana Prawns Large Thawed Per Kg",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 20,
+    "lowPrice": 20,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-22T08:29:23.910Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 20,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/96995/woolworths-green-banana-prawns-large-thawed"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/96995/woolworths-green-banana-prawns-large-thawed"
+  ],
+  "sku": "96995",
+  "updatedAt": "2022-11-22T08:29:23.910Z"
+}

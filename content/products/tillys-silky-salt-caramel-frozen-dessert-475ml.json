@@ -1,0 +1,72 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "283.3kJ",
+      "carbohydrateContent": "10.9g",
+      "dietary_fibre": "-",
+      "fatContent": "2.5g",
+      "name": "nutrition",
+      "proteinContent": "2.5g",
+      "saturatedFatContent": "1.5g",
+      "servingSize": "100 g",
+      "sodiumContent": "106mg",
+      "sugarContent": "4.8g"
+    }
+  ],
+  "aggregateRating": {
+    "@context": "http://schema.org",
+    "@type": "AggregateRating",
+    "ratingCount": 3,
+    "ratingValue": 4.33333333333333
+  },
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Tilly's"
+  },
+  "createdAt": "2022-11-22T07:10:38.909Z",
+  "description": "Some may call you fancy, others call you genius, but here at Tilly?s we like your style. No need to blend in with the crowd, you?re projecting a stand-alone vibe and you?re proud of it. People might be intimated by you, but deep down you?re shy and the people?s unsung hero. Salted caramel elegantly gliding through a tantalising caramel sea that combines with a salty bae to result in a taste extravaganza ? this is your idea of a good time, and we?re riding this wave with you. Plus only 275 calories!",
+  "gtin13": "9352465000820",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1200,
+    "mime": "image/jpeg",
+    "url": "https://cdn0.woolworths.media/content/wowproductimages/large/817064.jpg",
+    "width": 1200
+  },
+  "name": "Tilly's Silky Salt Caramel Frozen Dessert 475mL",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 9.5,
+    "lowPrice": 9.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-22T07:10:38.908Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 9.5,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/817064/tilly-s-silky-salt-caramel-frozen-dessert"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/817064/tilly-s-silky-salt-caramel-frozen-dessert"
+  ],
+  "sku": "817064",
+  "updatedAt": "2022-11-22T07:10:38.909Z"
+}

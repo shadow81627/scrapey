@@ -1,0 +1,72 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "615.0kJ",
+      "carbohydrateContent": "21.2g",
+      "dietary_fibre": "-",
+      "fatContent": "7.3g",
+      "name": "nutrition",
+      "proteinContent": "0.9g",
+      "saturatedFatContent": "6.5g",
+      "servingSize": "100 g",
+      "sodiumContent": "10.0mg",
+      "sugarContent": "19.8g"
+    }
+  ],
+  "aggregateRating": {
+    "@context": "http://schema.org",
+    "@type": "AggregateRating",
+    "ratingCount": 18,
+    "ratingValue": 4.66666666666667
+  },
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Weis"
+  },
+  "createdAt": "2022-11-22T09:46:08.795Z",
+  "description": "Weis’ Raspberry & Coconut bar is the perfect balance of tangy raspberry and smooth coconut for a tropical tasting dessert treat. The best thing about this bar is that it is gluten and dairy free which is one of the first creamy, dairy-free offerings in the Streets range. It is also vegan-friendly. Weis was founded in Toowoomba, Queensland, in 1957.At Weis our products are based on recipes, so the focus is on the subtle blending of real ingredients and ultimately the taste, using real fruit for real flavour. There is nothing like it. Our knowledge and expertise in sourcing and working with all different kinds of fruits, premium grade nuts and natural ingredients enables us to create unique combinations and taste experiences. Today, the world-class Weis range of Bars, Ice Creams, Frozen Yoghurts and Sorbets is loved across Australia and around the world. After you’ve eaten a Weis product our aim is to leave you feeling surprised and delighted with the real taste of the wonderful natural ingredients that we use. Every single Weis product is made in our purpose-built factory located in Toowoomba, approximately 120kms west of Brisbane, Queensland, Australia.Above all, Streets is committed to capturing the true-to-the-source, natural taste of each ingredient we use.",
+  "gtin13": "9300830052301",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1200,
+    "mime": "image/jpeg",
+    "url": "https://cdn0.woolworths.media/content/wowproductimages/large/053973.jpg",
+    "width": 1200
+  },
+  "name": "Weis Dairy Free Raspberry & Coconut Bars 4 Pack",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 4.25,
+    "lowPrice": 4.25,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-22T09:46:08.794Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 4.25,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/53973/weis-dairy-free-raspberry-coconut-bars"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/53973/weis-dairy-free-raspberry-coconut-bars"
+  ],
+  "sku": "53973",
+  "updatedAt": "2022-11-22T09:46:08.794Z"
+}

@@ -1,0 +1,52 @@
+{
+  "@type": "Product",
+  "additionalProperty": [],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Woolworths"
+  },
+  "createdAt": "2022-11-22T07:12:51.350Z",
+  "description": "A distinctly lean and tender medallion cut from the pork loin which sits behind the shoulder. PREP: Remove pork from fridge and rest it to room temperature before cooking.SEASON & SEAR: Lightly oil and season well with salt & pepper. Sear in a hot pan to seal in the juices for 4 minutes on each side or unitl cooked through. Tip: If cooking over a BBQ grill, do not oil your pork to avoid burning.REST: Before serving, rest for 3 minutes for a more tender and juicy experience.",
+  "gtin13": "9339687029839",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1200,
+    "mime": "image/jpeg",
+    "url": "https://cdn0.woolworths.media/content/wowproductimages/large/675494.jpg",
+    "width": 1200
+  },
+  "name": "Woolworths Pork Medallion 250G",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 8,
+    "lowPrice": 8,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-22T07:12:51.349Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 8,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/675494/woolworths-pork-medallion"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/675494/woolworths-pork-medallion"
+  ],
+  "sku": "675494",
+  "updatedAt": "2022-11-22T07:12:51.349Z"
+}

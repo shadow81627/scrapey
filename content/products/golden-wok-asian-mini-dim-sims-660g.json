@@ -1,0 +1,71 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "127.00kJ",
+      "carbohydrateContent": "4.40g",
+      "dietary_fibre": "-",
+      "fatContent": "1.00g",
+      "name": "nutrition",
+      "proteinContent": "0.90g",
+      "saturatedFatContent": "0.50g",
+      "servingSize": "100 g",
+      "sodiumContent": "95.00mg",
+      "sugarContent": "0.60g"
+    }
+  ],
+  "aggregateRating": {
+    "@context": "http://schema.org",
+    "@type": "AggregateRating",
+    "ratingCount": 38,
+    "ratingValue": 4.34210526315789
+  },
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Golden Wok"
+  },
+  "createdAt": "2022-11-22T05:31:04.747Z",
+  "gtin13": "9310076666361",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1200,
+    "mime": "image/jpeg",
+    "url": "https://cdn0.woolworths.media/content/wowproductimages/large/022497.jpg",
+    "width": 1200
+  },
+  "name": "Golden Wok Asian Mini Dim Sims 660G",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 10,
+    "lowPrice": 10,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-22T05:31:04.746Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 10,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/22497/golden-wok-asian-mini-dim-sims"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/22497/golden-wok-asian-mini-dim-sims"
+  ],
+  "sku": "22497",
+  "updatedAt": "2022-11-22T05:31:04.746Z"
+}

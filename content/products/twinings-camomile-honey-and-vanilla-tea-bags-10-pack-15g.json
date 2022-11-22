@@ -1,0 +1,66 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "20kJ",
+      "carbohydrateContent": "<1g",
+      "dietary_fibre": "-",
+      "fatContent": "<1g",
+      "name": "nutrition",
+      "proteinContent": "<1g",
+      "saturatedFatContent": "<1g",
+      "servingSize": "100 g",
+      "sodiumContent": "10mg",
+      "sugarContent": "<1g"
+    }
+  ],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Twinings"
+  },
+  "createdAt": "2022-11-22T06:44:57.272Z",
+  "description": "Twinings Flavoured Herbal Infusions Bags Camomile, Honey & Vanilla is naturally caffeine free. Soothing & delicate.A delicious treat just for you...Our blenders have expertly balanced our Camomile, Honey & Vanilla infusion. Sweet and mellow, it's perfect for times when you need to come back to yourself. Take your time, savour this blend and create d special moment you can call your own.For more delightful flavoured herbal infusions, try our zesty and warming Lemon & Ginger.",
+  "gtin13": "70177287306",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1200,
+    "mime": "image/jpeg",
+    "url": "https://cdn0.woolworths.media/content/wowproductimages/large/701332.jpg",
+    "width": 1200
+  },
+  "name": "Twinings Camomile Honey & Vanilla Tea Bags 10 Pack 15G",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3,
+    "lowPrice": 3,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-22T06:44:57.269Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 3,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/701332/twinings-camomile-honey-vanilla-tea-bags"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/701332/twinings-camomile-honey-vanilla-tea-bags"
+  ],
+  "sku": "701332",
+  "updatedAt": "2022-11-22T06:44:57.269Z"
+}

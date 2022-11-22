@@ -1,0 +1,51 @@
+{
+  "@type": "Product",
+  "additionalProperty": [],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Paddy"
+  },
+  "createdAt": "2022-11-22T09:28:42.647Z",
+  "gtin13": "5011007005009",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1200,
+    "mime": "image/jpeg",
+    "url": "https://cdn0.woolworths.media/content/wowproductimages/large/875792.jpg",
+    "width": 1200
+  },
+  "name": "Paddy Paddy Irish Whiskey 700ml",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 45,
+    "lowPrice": 45,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-22T09:28:42.647Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 45,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/875792/paddy-irish-whiskey"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/875792/paddy-irish-whiskey"
+  ],
+  "sku": "875792",
+  "updatedAt": "2022-11-22T09:28:42.647Z"
+}

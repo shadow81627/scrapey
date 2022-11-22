@@ -1,0 +1,66 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "189",
+      "carbohydrateContent": "7.5",
+      "dietary_fibre": "-",
+      "fatContent": "1.2",
+      "name": "nutrition",
+      "proteinContent": "1.3",
+      "saturatedFatContent": "1",
+      "servingSize": "100 g",
+      "sodiumContent": "56",
+      "sugarContent": "1"
+    }
+  ],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Captain's Table"
+  },
+  "createdAt": "2022-11-22T10:29:09.541Z",
+  "description": "Captain's Table Rosemary & Thyme Water Crackers are great with friends, perfect for entertaining.At Captain's Table we believe that every creative expression should be shared and celebrated. Each cracker is a blank canvas for you to be your most creative self and paint your masterpiece. Join us as we embark on our inspiring culinary adventures.",
+  "gtin13": "7622300879143",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1200,
+    "mime": "image/jpeg",
+    "url": "https://cdn0.woolworths.media/content/wowproductimages/large/112388.jpg",
+    "width": 1200
+  },
+  "name": "Captain's Table Water Crackers Rosemary & Thyme 125G",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 1.8,
+    "lowPrice": 1.8,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-22T10:29:09.540Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 1.8,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/112388/captain-s-table-water-crackers-rosemary-thyme"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/112388/captain-s-table-water-crackers-rosemary-thyme"
+  ],
+  "sku": "112388",
+  "updatedAt": "2022-11-22T10:29:09.541Z"
+}

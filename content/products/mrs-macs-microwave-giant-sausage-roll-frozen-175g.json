@@ -1,0 +1,71 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "2010.00kJ",
+      "carbohydrateContent": "41.50g",
+      "dietary_fibre": "-",
+      "fatContent": "28.40g",
+      "name": "nutrition",
+      "proteinContent": "19.80g",
+      "saturatedFatContent": "14.70g",
+      "servingSize": "100 g",
+      "sodiumContent": "1200.00mg",
+      "sugarContent": "1.00g"
+    }
+  ],
+  "aggregateRating": {
+    "@context": "http://schema.org",
+    "@type": "AggregateRating",
+    "ratingCount": 1,
+    "ratingValue": 4
+  },
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Mrs Macs"
+  },
+  "createdAt": "2022-11-22T10:25:15.701Z",
+  "gtin13": "9310663407728",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1200,
+    "mime": "image/jpeg",
+    "url": "https://cdn0.woolworths.media/content/wowproductimages/large/219967.jpg",
+    "width": 1200
+  },
+  "name": "Mrs Macs Microwave Giant Sausage Roll Frozen 175g",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3.2,
+    "lowPrice": 3.2,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-22T10:25:15.700Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 3.2,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/219967/mrs-macs-microwave-giant-sausage-roll-frozen"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/219967/mrs-macs-microwave-giant-sausage-roll-frozen"
+  ],
+  "sku": "219967",
+  "updatedAt": "2022-11-22T10:25:15.700Z"
+}
