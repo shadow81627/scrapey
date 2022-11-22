@@ -17,7 +17,7 @@ function isValidUrl(string: string): boolean {
   return true;
 }
 
-const allowedHosts = ['shop.coles.com.au', 'woolworths.com.au'];
+const allowedHosts = ['shop.coles.com.au', 'woolworths.com.au', 'budgetbytes.com', 'connoisseurusveg.com'];
 const disallowedHosts = [
   'twitter.com',
   'facebook.com',
