@@ -1,5 +1,5 @@
-import { Column, Entity, PrimaryGeneratedColumn } from "typeorm";
-import { Dated } from "./Dated";
+import { Column, Entity, PrimaryGeneratedColumn, VersionColumn } from 'typeorm';
+import { Dated } from './Dated';
 
 @Entity()
 export class Base {
@@ -7,7 +7,10 @@ export class Base {
   id?: number;
 
   @Column(() => Dated, {
-    prefix: false
+    prefix: false,
   })
   dated?: Dated;
+
+  @VersionColumn()
+  version?: number;
 }
