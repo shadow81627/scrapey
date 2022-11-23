@@ -104,7 +104,6 @@ export default async function crawl(
     const dbUrl =
       (await connection.manager.findOne(Url, {
         where: [{ id: Url.generateId(Url.urlToParts(url)) }],
-        relations: { urls: true },
       })) ?? (await connection.manager.save(new Url(Url.urlToParts(url))));
     dbUrl.crawledAt = new Date();
     const issue = new CrawlIssue();
