@@ -27,6 +27,7 @@ export class Recipe extends Base {
   thing?: Relation<Thing>;
 
   @ManyToOne(() => Thing, { nullable: true })
+  @JoinColumn()
   author?: Relation<Thing>;
 
   // video?: Record<string, unknown>;

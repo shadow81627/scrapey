@@ -24,6 +24,7 @@ export class Product extends Base {
   gtin13?: number;
 
   @ManyToOne(() => Organization)
+  @JoinColumn()
   brand?: Relation<Organization>;
 
   @OneToMany(() => Offer, (offer: Offer) => offer.itemOffered)
