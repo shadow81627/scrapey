@@ -7,9 +7,9 @@
   "database": "scrapey",
   "synchronize": true,
   "logging": false,
-  "entities": ["src/db/entity/**/*.ts"],
-  "migrations": ["src/db/migration/**/*.ts"],
-  "subscribers": ["src/db/subscriber/**/*.ts"],
+  "entities": ["src/db/entity/**/*..{js,ts}"],
+  "migrations": ["src/db/migration/**/*..{js,ts}"],
+  "subscribers": ["src/db/subscriber/**/*..{js,ts}"],
   "cli": {
     "entitiesDir": "src/db/entity",
     "migrationsDir": "src/db/migration",
