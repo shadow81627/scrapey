@@ -3,6 +3,7 @@
   "version": "0.0.0",
   "description": "Web content scraping",
   "main": "index.js",
+  "license": "UNLICENSED",
   "scripts": {
     "playground": "ts-node src/playground/playground.ts",
     "load:db": "ts-node src/db/load/index.ts",
