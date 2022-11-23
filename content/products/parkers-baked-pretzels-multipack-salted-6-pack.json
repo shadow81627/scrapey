@@ -1,0 +1,66 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "422.00kJ",
+      "carbohydrateContent": "17.50g",
+      "dietary_fibre": "0.80g",
+      "fatContent": "2.00g",
+      "name": "nutrition",
+      "proteinContent": "2.80g",
+      "saturatedFatContent": "0.20g",
+      "servingSize": "100 g",
+      "sodiumContent": "140.00mg",
+      "sugarContent": "1.10g"
+    }
+  ],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Parker's"
+  },
+  "createdAt": "2022-11-23T00:02:10.208Z",
+  "description": "Baked Snacks Loved by All - Parker's Baked Mini Pretzels Multipack are crunchy oven-baked pretzel twists - delicious crunchy snacks and a real crowd-pleaser.Parker’s Baked Pretzel Minis can be enjoyed at home or on the go with this convenient multipack. Our baked mini pretzels are the perfect addition to school lunchbox, or even a quick treat on your work break.Baked Not Fried Snacks, Same Delicious Salty Pretzel TasteAs the Original Pretzel Co., Parker's takes pride in carefully crafting our delicious oven-baked pretzels using only the finest ingredients. Our signature salty pretzels are baked not fried, low in saturated fat, with no added msg and 50% less sodium (On average, 57% less sodium than Parker's Original Salted Baked Pretzels). Perfect Treats for the LunchboxParker’s Baked Pretzel Minis can be enjoyed at home or on the go with this convenient multipack. Our baked pretzels are the perfect addition to any school lunchbox, or even a quick treat on your work break.• Delicious salty flavour with our signature pretzel crunch• No artificial colours or flavours• Perfect for school lunch snacks, TV nights and entertainment Look out for our full range of Parker’s Pretzel snacks in the chip aisle.No artificial colours or flavours make for a robust crunch and flavour without any compromises.No added MSG, but the same delicious salty flavour with our signature pretzel crunch.Our signature salty pretzels are baked not fried and low in saturated fat.They’re tailor made for school school lunch snacks and entertaining.Our multipacks are the ideal size for taking with you on the go.",
+  "gtin13": "9310015236884",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1200,
+    "mime": "image/jpeg",
+    "url": "https://cdn0.woolworths.media/content/wowproductimages/large/378031.jpg",
+    "width": 1200
+  },
+  "name": "Parker's Baked Pretzels Multipack Salted 6 Pack",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3.9,
+    "lowPrice": 3.9,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-23T00:02:10.207Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 3.9,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/378031/parker-s-baked-pretzels-multipack-salted"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/378031/parker-s-baked-pretzels-multipack-salted"
+  ],
+  "sku": "378031",
+  "updatedAt": "2022-11-23T00:02:10.207Z"
+}

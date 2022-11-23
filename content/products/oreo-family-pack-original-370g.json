@@ -1,0 +1,66 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "581.00kJ",
+      "carbohydrateContent": "19.40g",
+      "dietary_fibre": "-",
+      "fatContent": "6.00g",
+      "name": "nutrition",
+      "proteinContent": "1.40g",
+      "saturatedFatContent": "2.90g",
+      "servingSize": "100 g",
+      "sodiumContent": "144.00mg",
+      "sugarContent": "10.90g"
+    }
+  ],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Oreo"
+  },
+  "createdAt": "2022-11-23T01:04:11.028Z",
+  "description": "OREO Original Cookies - choc cookie sandwich with sweet vanilla creme.Our most iconic cookie with sweet vanilla creme sandwiched between two chocolate flavoured cookies.OREO Original Cookies are perfect for celebrating the everyday moments in life with family and friends. Whether being eaten by themselves, included in a recipe or simply being dunked in a glass of milk. The World’s Favourite Cookie has been around for more than 100 years and is loved all over the world for not only its great taste but iconic cookie design.Choc cookies with sweet vanilla cremeSharing tray39 cookies",
+  "gtin13": "9300650451742",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1200,
+    "mime": "image/jpeg",
+    "url": "https://cdn0.woolworths.media/content/wowproductimages/large/073032.jpg",
+    "width": 1200
+  },
+  "name": "Oreo Family Pack Original 370G",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3.5,
+    "lowPrice": 3.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-23T01:04:11.027Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 3.5,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/73032/oreo-family-pack-original"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/73032/oreo-family-pack-original"
+  ],
+  "sku": "73032",
+  "updatedAt": "2022-11-23T01:04:11.027Z"
+}

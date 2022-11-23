@@ -1,0 +1,52 @@
+{
+  "@type": "Product",
+  "additionalProperty": [],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Sunfed"
+  },
+  "createdAt": "2022-11-23T00:24:42.602Z",
+  "description": "Sunfed® Chicken Free Chicken™ is lean and clean protein made from premium yellow pea protein. As you bite into Chicken Free Chicken™, be prepared to experience the full meaty texture. Cooks straight from the pack in 5 mins. Simply sub for chicken pieces in your favourite chicken recipe and you’re done. Stir fry? soup? curry? BBQ? easy! you won't miss a thing.",
+  "gtin13": "9421904535060",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1200,
+    "mime": "image/jpeg",
+    "url": "https://cdn0.woolworths.media/content/wowproductimages/large/814850.jpg",
+    "width": 1200
+  },
+  "name": "Sunfed Chicken Free Chicken 300G",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 10,
+    "lowPrice": 10,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-23T00:24:42.602Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 10,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/814850/sunfed-chicken-free-chicken"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/814850/sunfed-chicken-free-chicken"
+  ],
+  "sku": "814850",
+  "updatedAt": "2022-11-23T00:24:42.602Z"
+}

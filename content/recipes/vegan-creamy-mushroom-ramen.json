@@ -2,15 +2,15 @@
   "@type": "Recipe",
   "aggregateRating": {
     "@type": "AggregateRating",
-    "ratingCount": "83",
-    "ratingValue": "4.82"
+    "ratingCount": "120",
+    "ratingValue": "4.87"
   },
   "author": {
     "@type": "Person",
-    "name": "Beth - Budget Bytes"
+    "name": "Beth  Budget Bytes"
   },
   "cookTime": "PT12M",
-  "createdAt": "2020-10-08T05:57:28.563Z",
+  "createdAt": "2022-11-23T01:00:52.028Z",
   "datePublished": "2019-09-25T17:44:45+00:00",
   "description": "This incredibly simple Vegan Creamy Mushroom Ramen is a rich and flavorful 15 minute meal that only requires a handful of ingredients! ",
   "image": {
@@ -20,18 +20,21 @@
     "url": "https://www.budgetbytes.com/wp-content/uploads/2019/09/Vegan-Creamy-Mushroom-Ramen-close.jpg",
     "width": 800
   },
+  "keywords": "Easy Ramen, instant ramen, Ramen Noodles",
   "name": "Vegan Creamy Mushroom Ramen",
   "nutrition": {
     "@type": "NutritionInformation",
-    "calories": "513.7 kcal",
-    "carbohydrateContent": "64.8 g",
-    "fatContent": "24.1 g",
-    "fiberContent": "5 g",
-    "proteinContent": "12.3 g",
-    "servingSize": "1 Serving",
-    "sodiumContent": "3518.4 mg"
+    "calories": "714 kcal",
+    "carbohydrateContent": "67 g",
+    "fatContent": "45 g",
+    "fiberContent": "4 g",
+    "proteinContent": "16 g",
+    "servingSize": "1 recipe",
+    "sodiumContent": "2021 mg"
   },
   "prepTime": "PT3M",
+  "recipeCategory": "Dinner",
+  "recipeCuisine": "Asian",
   "recipeIngredient": [
     "1/2 Tbsp cooking oil ($0.02)",
     "4 oz. baby bella mushrooms ($0.85)",
@@ -40,7 +43,7 @@
     "1 package ramen noodles (discard seasoning) ($0.25)",
     "1/2 cup coconut milk (canned) ($0.66)",
     "1 green onion, sliced ($0.11)",
-    "1 Tbsp chili garlic sauce ($0.13)"
+    "1 Tbsp chili garlic sauce or sriracha ($0.13)"
   ],
   "recipeInstructions": [
     {
@@ -49,7 +52,7 @@
     },
     {
       "@type": "HowToStep",
-      "text": "Add the vegetable broth, turn the heat up to medium-high, and bring the broth up to a boil. Once boiling, add the ramen noodles (without the seasoning packet) to the broth. Cook the noodles in the boiling broth for about 3 minutes, or until tender."
+      "text": "Add the vegetable broth, turn the heat up to mediumhigh, and bring the broth up to a boil. Once boiling, add the ramen noodles (without the seasoning packet) to the broth. Cook the noodles in the boiling broth for about 3 minutes, or until tender."
     },
     {
       "@type": "HowToStep",
@@ -57,20 +60,21 @@
     },
     {
       "@type": "HowToStep",
-      "text": "Serve the Vegan Creamy Coconut Ramen as-is, or with garnishes like green onion or chili garlic sauce."
+      "text": "Serve the Vegan Creamy Coconut Ramen asis, or with garnishes like green onion or chili garlic sauce."
     }
   ],
   "recipeYield": "1",
   "sameAs": [
-    "https://www.budgetbytes.com/vegan-creamy-mushroom-ramen/"
+    "https://budgetbytes.com/vegan-creamy-mushroom-ramen"
   ],
   "totalTime": "PT15M",
-  "updatedAt": "2020-10-08T05:57:28.563Z",
+  "updatedAt": "2022-11-23T01:00:52.026Z",
   "video": {
     "@type": "VideoObject",
-    "contentUrl": "https://embed.mediavine.com/videos/tvj4clowjff39r4ettgx",
+    "contentUrl": "https://mediavine-res.cloudinary.com/video/upload/t_original/v1598795050/tvj4clowjff39r4ettgx.mp4",
     "description": "This incredibly simple Vegan Creamy Mushroom Ramen is a rich and flavorful 15 minute meal that only requires a handful of ingredients!",
     "duration": "PT52S",
+    "embedUrl": "https://video.mediavine.com/videos/tvj4clowjff39r4ettgx.js",
     "name": "Vegan Creamy Mushroom Ramen",
     "thumbnailUrl": "https://mediavine-res.cloudinary.com/image/upload/s--krRd92jq--/c_limit,f_auto,fl_lossy,h_1080,q_auto,w_1920/v1598795145/xi0gi7xsgtsvqxagejrv.jpg",
     "uploadDate": "2020-08-30T13:45:21+00:00"

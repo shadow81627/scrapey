@@ -1,41 +1,57 @@
 {
   "@type": "Recipe",
-  "createdAt": "2022-11-22T15:23:04.369Z",
-  "datePublished": "2021-03-10",
+  "author": {
+    "@type": "Person",
+    "name": "Fresh Ideas"
+  },
+  "cookTime": "PT0M",
+  "createdAt": "2022-11-23T00:27:08.223Z",
+  "datePublished": "2022-10-20",
   "description": "Try our easy to follow Tropical Fruit Smoothie recipe. Absolutely delicious with the best ingredients from Woolworths.",
   "image": {
     "@type": "ImageObject",
     "height": 1300,
-    "mime": "image/png",
-    "url": "https://foodhub.scene7.com/is/image/woolworthsltdprod/1812-tropical-fruit-smoothie?wid=1300&hei=1300&fmt=png-alpha",
+    "mime": "image/jpeg",
+    "url": "https://foodhub.scene7.com/is/image/woolworthsltdprod/1812-tropical-fruit-smoothie:Square-1300x1300",
     "width": 1300
   },
-  "keywords": "Tropical Fruit Smoothie",
+  "keywords": "Smoothie & frappé,Pescatarian,Low saturated fat,Low salt,Seafood free,Gluten free,Tree nut free,Egg free,Sesame free,Halal,High fibre,Christmas,Wheat free,Soy free,Vegetarian,Mango,Low fat,Peanut free",
   "name": "Tropical Fruit Smoothie Recipe | Woolworths",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "216 calories",
+    "carbohydrateContent": "39.3 g",
+    "fatContent": "2.2 g",
+    "fiberContent": "4.9 g",
+    "proteinContent": "7.0 g",
+    "saturatedFatContent": "1.4 g",
+    "sodiumContent": "60 millig",
+    "sugarContent": "36.0 g"
+  },
   "prepTime": "PT5M",
-  "recipeCategory": "drinks",
-  "recipeCuisine": "north-american",
+  "recipeCategory": "Drinks",
+  "recipeCuisine": "North American",
   "recipeId": "8291",
   "recipeIngredient": [
-    "0.5 ripe banana",
-    "1 mango cheek",
+    "0.5 ripe banana, roughly chopped, frozen",
+    "1 mango cheek, roughly chopped, frozen (see Summer sunset iceblocks recipe)",
     "1 passionfruit",
     "1 cup lowfat milk",
-    "0.5 cup pineapple pieces"
+    "0.5 cup pineapple pieces, frozen"
   ],
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "HowToStep": {},
+      "HowToTip": {},
       "text": "Place frozen fruit and milk in a blender and blend until smooth. To serve, add pulp to 2 serving glasses and pour in smoothie."
     }
   ],
   "recipeNameId": "tropical-fruit-smoothie",
   "recipeYield": "2",
   "sameAs": [
-    "https://woolworths.com.au/shop/find-recipes/fruit-smoothie"
+    "https://woolworths.com.au/shop/recipes/tropical-fruit-smoothie"
   ],
   "totalTime": "PT5M",
-  "updatedAt": "2022-11-22T15:23:04.368Z",
+  "updatedAt": "2022-11-23T00:27:08.222Z",
   "url": "https://www.woolworths.com.au/shop/recipes/tropical-fruit-smoothie"
 }

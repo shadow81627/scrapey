@@ -1,0 +1,71 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "1040.00kJ",
+      "carbohydrateContent": "42.60g",
+      "dietary_fibre": "2.60g",
+      "fatContent": "3.80g",
+      "name": "nutrition",
+      "proteinContent": "9.30g",
+      "saturatedFatContent": "0.80g",
+      "servingSize": "100 g",
+      "sodiumContent": "325.00mg",
+      "sugarContent": "0.80g"
+    }
+  ],
+  "aggregateRating": {
+    "@context": "http://schema.org",
+    "@type": "AggregateRating",
+    "ratingCount": 166,
+    "ratingValue": 4.24698795180723
+  },
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Woolworths"
+  },
+  "createdAt": "2022-11-23T00:33:38.574Z",
+  "gtin13": "0280091000008",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1200,
+    "mime": "image/jpeg",
+    "url": "https://cdn0.woolworths.media/content/wowproductimages/large/202570.jpg",
+    "width": 1200
+  },
+  "name": "Woolworths Bread Rolls Crusty Jumbo Long 6 Pack",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2.85,
+    "lowPrice": 2.85,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-23T00:33:38.572Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 2.85,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/202570/woolworths-bread-rolls-crusty-jumbo-long"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/202570/woolworths-bread-rolls-crusty-jumbo-long"
+  ],
+  "sku": "202570",
+  "updatedAt": "2022-11-23T00:33:38.572Z"
+}

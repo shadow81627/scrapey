@@ -4,9 +4,9 @@
   "brand": {
     "@context": "http://schema.org",
     "@type": "Organization",
-    "name": "twinings"
+    "name": "Twinings"
   },
-  "createdAt": "2020-10-08T05:13:40.554Z",
+  "createdAt": "2022-11-23T01:08:39.079Z",
   "gtin13": "70177176112",
   "image": {
     "@type": "ImageObject",
@@ -15,38 +15,37 @@
     "url": "https://cdn0.woolworths.media/content/wowproductimages/large/575845.jpg",
     "width": 1200
   },
-  "name": "Twinings Digest 18 pack",
+  "name": "Twinings Digest 18 Pack",
   "offers": {
     "@type": "AggregateOffer",
-    "highPrice": 4,
-    "lowPrice": 4,
+    "highPrice": 0,
+    "lowPrice": 0,
     "offerCount": 1,
     "offers": [
       {
         "@context": "http://schema.org",
         "@type": "Offer",
-        "availability": "http://schema.org/InStock",
-        "availabilityStarts": "2020-06-27T00:55:23.396Z",
+        "availability": "http://schema.org/OutOfStock",
+        "availabilityStarts": "2022-11-23T01:08:39.079Z",
         "itemCondition": "http://schema.org/NewCondition",
         "offeredBy": "Woolworths",
         "potentialAction": {
           "@context": "http://schema.org",
           "@type": "BuyAction"
         },
-        "price": 4,
+        "price": "",
         "priceCurrency": "AUD",
         "seller": {
           "@type": "Organization",
           "name": "Woolworths"
         },
-        "url": "https://www.woolworths.com.au/shop/productdetails/575845/twinings-digest"
+        "url": "https://woolworths.com.au/shop/productdetails/575845/twinings-digest"
       }
-    ],
-    "priceCurrency": "AUD"
+    ]
   },
   "sameAs": [
-    "https://www.woolworths.com.au/shop/productdetails/575845/twinings-digest"
+    "https://woolworths.com.au/shop/productdetails/575845/twinings-digest"
   ],
   "sku": "575845",
-  "updatedAt": "2020-11-07T01:57:05.398Z"
+  "updatedAt": "2022-11-23T01:08:39.079Z"
 }
