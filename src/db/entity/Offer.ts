@@ -1,7 +1,6 @@
 import {
   Column,
   Entity,
-  getConnection,
   JoinColumn,
   ManyToOne,
   OneToOne,
@@ -13,6 +12,7 @@ import { Product } from './Product';
 import { Url } from './Url';
 import { Offer as OfferSchema } from 'schema-dts';
 import { omit, pickBy } from 'lodash';
+import getOrCreateConnection from '../../utils/getOrCreateConnection';
 
 @Entity()
 // @Index("UNIQUE_ITEM_SELLER", ["itemOffered", "seller"], { unique: true })
@@ -48,7 +48,7 @@ export class Offer extends Base {
   url?: Relation<Url>;
 
   async toObject(): Promise<OfferSchema> {
-    const connection = getConnection();
+    const connection = getOrCreateConnection();
     const offer = await connection.manager.findOneOrFail(Offer, {
       where: [{ id: this.id }],
       relations: ['url', 'seller'],

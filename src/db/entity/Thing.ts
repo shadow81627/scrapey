@@ -4,6 +4,7 @@ import { ThingType } from "../util/ThingType";
 import { Url } from "./Url";
 import { Image } from "./Image";
 import ThingSchema from '../../models/Thing'
+import getOrCreateConnection from "../../utils/getOrCreateConnection";
 
 @Entity()
 export class Thing extends Base {
@@ -27,14 +28,14 @@ export class Thing extends Base {
   @JoinTable({
     name: "thing_images",
   })
-  images?: Image[];
+  images?: Relation<Image[]>;
 
   @Column({ type: "simple-json", nullable: true })
   additionalProperty?: Array<{ name: string, value: string }>
 
   async toObject(): Promise<ThingSchema> {
     const { type, name, description = undefined, additionalProperty = undefined } = this;
-    const connection = getConnection();
+    const connection = getOrCreateConnection();
     const thing = (await connection.manager.findOneOrFail(Thing, {
       where: [{ slug: this.slug }],
       relations: ['images', 'urls'],

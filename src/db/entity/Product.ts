@@ -1,7 +1,6 @@
 import {
   Column,
   Entity,
-  getConnection,
   JoinColumn,
   ManyToOne,
   OneToMany,
@@ -17,6 +16,7 @@ const { writeFile } = fsPromises;
 import { head, map, omit, pickBy } from 'lodash';
 import deepSort from '../../utils/deepSort';
 import { Product as ProductSchema, Offer as OfferSchema } from 'schema-dts';
+import getOrCreateConnection from '../../utils/getOrCreateConnection';
 
 @Entity()
 export class Product extends Base {
@@ -34,7 +34,7 @@ export class Product extends Base {
   thing?: Relation<Thing>;
 
   async toObject(): Promise<Partial<ProductSchema>> {
-    const connection = getConnection();
+    const connection = getOrCreateConnection();
     const product = await connection.manager.findOneOrFail(Product, {
       where: [{ id: this.id }],
       relations: ['thing', 'offers', 'brand'],

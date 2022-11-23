@@ -61,7 +61,7 @@ export class Url {
   urls?: Relation<Url[]>;
 
   @OneToMany(() => CrawlIssue, (issue: CrawlIssue) => issue.url)
-  issues?: CrawlIssue;
+  issues?: Relation<CrawlIssue>;
 
   // computed full url property
   @Column({ select: false, readonly: true, insert: false, nullable: true, })
