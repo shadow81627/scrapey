@@ -6,7 +6,6 @@ import { processHtml } from '../scrape/processHtml';
 import { processLinkData } from '../scrape/processLinkData';
 import { CrawlIssue } from '../db/entity/CrawlIssue';
 import isValidUrl from '../utils/isValidUrl';
-import getOrCreateConnection from '../utils/getOrCreateConnection';
 import { expose } from 'threads/worker';
 import AppDataSource from '../db/data-source';
 import parseHrtimeToSeconds from '../utils/parseHrtimeToSeconds';
@@ -16,6 +15,8 @@ const disallowedHosts = [
   'facebook.com',
   'pinterest.com',
   'woolworthsrewards.com.au',
+  'mobile.woolworths.com.au',
+  'woolworthsatwork.com.au',
 ];
 export default async function crawl(
   url: string,
@@ -25,7 +26,7 @@ export default async function crawl(
   if (!AppDataSource.isInitialized) {
     AppDataSource.initialize();
   }
-  const connection = await getOrCreateConnection();
+  const connection = AppDataSource;
   try {
     // fetch browser rendered html
     const html = await getHtml({ url });
@@ -50,12 +51,18 @@ export default async function crawl(
         where: [{ id: Url.generateId(Url.urlToParts(canonical)) }],
         relations: { urls: true },
       })) ??
-      (await connection.manager.save(new Url(Url.urlToParts(canonical))));
-    await connection.manager.save(
-      new Url({ ...urlParts, crawledAt: new Date(), canonical: dbCanonical }),
-    );
+      new Url(Url.urlToParts(canonical));
+    const dbUrl = new Url({
+      ...urlParts,
+      crawledAt: new Date(),
+      canonical: dbCanonical,
+    });
     dbCanonical.crawledAt = new Date();
+    dbCanonical.duration = Number(parseHrtimeToSeconds(process.hrtime(startTime)));
     await connection.manager.save(dbCanonical);
+    dbUrl.crawledAt = new Date();
+    dbUrl.duration = Number(parseHrtimeToSeconds(process.hrtime(startTime)));
+    await connection.manager.save(dbUrl);
 
     // console.log(iteration, dbCanonical.url);
     // TODO set all non canonical urls to crawled as well
@@ -78,9 +85,10 @@ export default async function crawl(
             // invalid url
           }
         })
-        .get(), function (link) {
-          return Url.generateId(Url.urlToParts(link))
-        }
+        .get(),
+      function (link) {
+        return Url.generateId(Url.urlToParts(link));
+      },
     )
       .filter(Boolean)
       .filter((link) => !disallowedHosts.includes(new URL(link).hostname))
@@ -90,14 +98,10 @@ export default async function crawl(
       );
 
     try {
-      dbCanonical.urls = await Promise.all(
-        links.map((link) =>
-          connection.manager.save(new Url(Url.urlToParts(link))),
-        ),
-      );
+      dbCanonical.urls = links.map((link) => new Url(Url.urlToParts(link)));
       await connection.manager.save(dbCanonical);
     } catch (e) {
-      console.error(e.message);
+      console.error('Urls Error', url, e.message);
     }
   } catch (error) {
     console.error('Error', error);
