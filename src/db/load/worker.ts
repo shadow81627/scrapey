@@ -241,7 +241,6 @@ async function loadDB(filename: string) {
   } catch (e) {
     console.error(filename, e);
   }
-  // await connection.close();
 }
 
 export type LoadDB = typeof loadDB;
