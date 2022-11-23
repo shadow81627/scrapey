@@ -38,6 +38,9 @@ export class Url {
   @Column({ nullable: true, type: 'timestamp' })
   crawledAt?: Date;
 
+  @Column({ nullable: true, type: 'bigint' })
+  duration?: number;
+
   @Column(() => Dated, {
     prefix: false,
   })
