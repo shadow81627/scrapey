@@ -60,6 +60,7 @@ export class Url {
   issues?: CrawlIssue;
 
   // computed full url property
+  @Column({ select: false, readonly: true, insert: false, nullable: true, })
   url!: string;
 
   @AfterLoad()
