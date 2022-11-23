@@ -7,3 +7,4 @@ export * from './CrawlIssue';
 export * from './Organization';
 export * from './Offer';
 export * from './Person';
+export * from './NutritionInformation';
