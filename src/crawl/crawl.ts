@@ -8,6 +8,7 @@ import { CrawlIssue } from '../db/entity/CrawlIssue';
 import isValidUrl from '../utils/isValidUrl';
 import getOrCreateConnection from '../utils/getOrCreateConnection';
 import { expose } from 'threads/worker';
+import AppDataSource from '../db/data-source';
 
 const disallowedHosts = [
   'twitter.com',
@@ -15,8 +16,11 @@ const disallowedHosts = [
   'pinterest.com',
   'woolworthsrewards.com.au',
 ];
-export default async function crawl(url: string): Promise<boolean> {
+export default async function crawl(url: string): Promise<void> {
   const hostname = new URL(url).hostname;
+  if (!AppDataSource.isInitialized) {
+    AppDataSource.initialize();
+  }
   const connection = await getOrCreateConnection();
   try {
     // fetch browser rendered html
@@ -106,7 +110,6 @@ export default async function crawl(url: string): Promise<boolean> {
     await connection.manager.save(dbUrl);
     await connection.manager.save(issue);
   }
-  return true;
 }
 
 expose(crawl);
