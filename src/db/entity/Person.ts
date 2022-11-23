@@ -1,4 +1,4 @@
-import { Entity, JoinColumn, OneToOne } from "typeorm";
+import { Entity, JoinColumn, OneToOne, Relation } from "typeorm";
 import { Base } from "../util/Base";
 import { Thing } from "./Thing";
 
@@ -7,5 +7,5 @@ import { Thing } from "./Thing";
 export class Person extends Base {
   @OneToOne(() => Thing, { nullable: false })
   @JoinColumn()
-  thing?: Thing;
+  thing?: Relation<Thing>;
 }

@@ -1,4 +1,4 @@
-import { Entity, Column, ManyToMany, JoinTable, getConnection } from "typeorm";
+import { Entity, Column, ManyToMany, JoinTable, getConnection, Relation } from "typeorm";
 import { Base } from "../util/Base";
 import { ThingType } from "../util/ThingType";
 import { Url } from "./Url";
@@ -21,7 +21,7 @@ export class Thing extends Base {
   @JoinTable({
     name: "thing_urls",
   })
-  urls?: Url[];
+  urls?: Relation<Url[]>;
 
   @ManyToMany(() => Image, { nullable: true })
   @JoinTable({

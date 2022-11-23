@@ -1,4 +1,4 @@
-import { Column, Entity, ManyToOne, JoinColumn } from 'typeorm';
+import { Column, Entity, ManyToOne, JoinColumn, Relation } from 'typeorm';
 import { Base } from '../util/Base';
 import { Url } from './Url';
 
@@ -11,5 +11,5 @@ export class CrawlIssue extends Base {
 
   @ManyToOne(() => Url, { nullable: true, onDelete: 'SET NULL' })
   @JoinColumn()
-  url!: Url;
+  url!: Relation<Url>;
 }

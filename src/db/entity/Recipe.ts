@@ -1,5 +1,5 @@
 import { Duration } from "luxon";
-import { Column, Entity, JoinColumn, ManyToOne, OneToOne } from "typeorm";
+import { Column, Entity, JoinColumn, ManyToOne, OneToOne, Relation } from "typeorm";
 import { Base } from "../util/Base";
 import { Thing } from "./Thing";
 
@@ -24,10 +24,10 @@ export class Recipe extends Base {
 
   @OneToOne(() => Thing, { nullable: false })
   @JoinColumn()
-  thing?: Thing;
+  thing?: Relation<Thing>;
 
   @ManyToOne(() => Thing, { nullable: true })
-  author?: Thing;
+  author?: Relation<Thing>;
 
   // video?: Record<string, unknown>;
   // image?: ImageObject;

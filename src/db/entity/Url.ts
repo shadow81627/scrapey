@@ -8,6 +8,7 @@ import {
   ManyToOne,
   OneToMany,
   VersionColumn,
+  Relation,
 } from 'typeorm';
 import { v5 as uuidv5 } from 'uuid';
 import { Dated } from '../util/Dated';
@@ -50,14 +51,14 @@ export class Url {
   version?: number;
 
   @ManyToOne(() => Url, { nullable: true, onDelete: 'SET NULL' })
-  canonical?: Url;
+  canonical?: Relation<Url>;
 
   // all the urls on this page
   @ManyToMany(() => Url, { nullable: true, cascade: true })
   @JoinTable({
     name: 'url_urls',
   })
-  urls?: Url[];
+  urls?: Relation<Url[]>;
 
   @OneToMany(() => CrawlIssue, (issue: CrawlIssue) => issue.url)
   issues?: CrawlIssue;

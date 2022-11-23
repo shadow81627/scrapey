@@ -1,4 +1,4 @@
-import { Entity, getConnection, JoinColumn, OneToOne } from "typeorm";
+import { Entity, getConnection, JoinColumn, OneToOne, Relation } from "typeorm";
 import { Base } from "../util/Base";
 import { Thing } from "./Thing";
 import ThingSchema from '../../models/Thing'
@@ -7,7 +7,7 @@ import ThingSchema from '../../models/Thing'
 export class Organization extends Base {
   @OneToOne(() => Thing, { nullable: false })
   @JoinColumn()
-  thing!: Thing;
+  thing!: Relation<Thing>;
 
   async toObject(): Promise<ThingSchema> {
     const connection = getConnection();

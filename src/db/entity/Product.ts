@@ -6,6 +6,7 @@ import {
   ManyToOne,
   OneToMany,
   OneToOne,
+  Relation,
 } from 'typeorm';
 import { Base } from '../util/Base';
 import { Offer } from './Offer';
@@ -23,14 +24,14 @@ export class Product extends Base {
   gtin13?: number;
 
   @ManyToOne(() => Organization)
-  brand?: Organization;
+  brand?: Relation<Organization>;
 
   @OneToMany(() => Offer, (offer: Offer) => offer.itemOffered)
-  offers?: Offer[];
+  offers?: Relation<Offer[]>;
 
   @OneToOne(() => Thing, { nullable: false })
   @JoinColumn()
-  thing?: Thing;
+  thing?: Relation<Thing>;
 
   async toObject(): Promise<Partial<ProductSchema>> {
     const connection = getConnection();
