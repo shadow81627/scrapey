@@ -24,7 +24,7 @@ export default async function crawl(
   const startTime = process.hrtime();
   const hostname = new URL(url).hostname;
   if (!AppDataSource.isInitialized) {
-    AppDataSource.initialize();
+    await AppDataSource.initialize();
   }
   const connection = AppDataSource;
   try {
