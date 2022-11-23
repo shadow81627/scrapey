@@ -12,6 +12,7 @@ import {
   JoinColumn,
 } from 'typeorm';
 import { v5 as uuidv5 } from 'uuid';
+import isValidUrl from '../../utils/isValidUrl';
 import { Dated } from '../util/Dated';
 import { CrawlIssue } from './CrawlIssue';
 
@@ -20,10 +21,6 @@ interface UrlParts {
   pathname?: string;
   search?: string;
 }
-
-const disallowedParams = [
-  'adobe_mc',
-]
 
 @Entity()
 export class Url {
@@ -90,18 +87,25 @@ export class Url {
   }
 
   public static getUrl({ hostname, pathname, search }: UrlParts): string {
-    const filteredSearch = new URLSearchParams(search ?? '')
-    disallowedParams.forEach(param => filteredSearch.delete(param))
-    return `https://${hostname}${pathname ?? ''}${filteredSearch}`;
+    const url = `https://${hostname}${pathname ?? ''}${search ?? ''}`
+    if (isValidUrl(url)) {
+      return normalizeUrl(url);
+    } else {
+      return url;
+    }
+  }
+
+  public static normaliseUrl(url: string) {
+    return normalizeUrl(url, {
+      forceHttps: true,
+      stripHash: true,
+      removeQueryParameters: ['reviewPageNumber', 'adobe_mc'],
+    })
   }
 
   public static urlToParts(url: string): UrlParts {
     const { hostname, pathname, search } = new URL(
-      normalizeUrl(url, {
-        forceHttps: true,
-        stripHash: true,
-        removeQueryParameters: ['reviewPageNumber', 'adobe_mc'],
-      }),
+      Url.normaliseUrl(url)
     );
     return { hostname, pathname, search };
   }
