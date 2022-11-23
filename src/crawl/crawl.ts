@@ -116,5 +116,5 @@ export default async function crawl(
   const duration = Number(parseHrtimeToSeconds(process.hrtime(startTime)));
   return { duration };
 }
-
+export type Crawler = typeof crawl;
 expose(crawl);
