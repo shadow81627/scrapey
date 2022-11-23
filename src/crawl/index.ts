@@ -4,17 +4,13 @@ import { Url } from '../db/entity/Url';
 import { Pool, spawn, Worker } from 'threads';
 import os from 'os';
 import { Subject } from 'rxjs';
-import { QueuedTask, ArbitraryThreadType } from 'threads/dist/master/pool';
+import { QueuedTask } from 'threads/dist/master/pool';
 const cpuCount = os.cpus().length;
 import AppDataSource from '../db/data-source';
-
-function parseHrtimeToSeconds(hrtime: [number, number]) {
-  const seconds = (hrtime[0] + hrtime[1] / 1e9).toFixed(3);
-  return seconds;
-}
+import { Crawler } from './crawl';
 
 const allowedHosts = [
-  'shop.coles.com.au',
+  // 'shop.coles.com.au',
   'woolworths.com.au',
   'budgetbytes.com',
   'connoisseurusveg.com',
@@ -42,41 +38,49 @@ const allowedHosts = [
         createdAt: 'ASC',
       },
     },
-    take: 10,
+    take: 100,
     skip: 0,
   });
-  const pool = Pool(() => spawn(new Worker('./crawl.ts')), {
+  const pool = Pool(() => spawn<Crawler>(new Worker('./crawl.ts')), {
     size: cpuCount / 2,
   });
   type MySubject = {
-    task: QueuedTask<ArbitraryThreadType, void>;
-    startTime: [number, number];
+    task: QueuedTask<ArbitraryThreadType, { duration: number }>;
     url: Url;
   };
-  const tasks = new Subject<MySubject>();
-  console.log('loaded', total, 'urls');
-  tasks.subscribe({
-    next: async ({ task, url, startTime }: MySubject) => {
-      await task;
-      iteration++;
-      const elapsedSeconds = parseHrtimeToSeconds(process.hrtime(startTime));
-      const iterationOf = `${String(iteration).padStart(
-        String(total).length,
-        '0',
-      )}/${String(total)}`;
-      console.log(iterationOf, url.url, elapsedSeconds);
-      url.duration = Number(elapsedSeconds);
-      await connection.manager.save(url);
-    },
-  });
+  const tasks: MySubject[] = [];
+  // const $tasks = new Subject<MySubject>();
+  console.log('total', total, 'urls');
+  async function taskDone({ task, url }: MySubject) {
+    const { duration } = await task;
+    iteration++;
+    const iterationOf = `${String(iteration).padStart(
+      String(total).length,
+      '0',
+    )}/${String(total)}`;
+    console.log(iterationOf, url.url, duration);
+    url.duration = duration;
+    url.crawledAt = new Date();
+    await connection.manager.save(url);
+  }
+  // $tasks.subscribe({
+  //   next: taskDone,
+  //   complete: async () => {
+  //     console.log('complete');
+  //     await connection.destroy();
+  //   }
+  // });
   for (const url of urls) {
-    const startTime = process.hrtime();
-    const task = pool.queue(async (crawl) => {
-      crawl(url.url);
-    });
-    tasks.next({ task, startTime, url });
+    const task = pool.queue((crawl) => crawl(url.url));
+    // $tasks.next({ task, startTime, url });
+    tasks.push({ task, url });
+  }
+  const completedTasks = await Promise.all(tasks);
+  for (const completedTask of completedTasks) {
+    await taskDone(completedTask);
   }
   await pool.completed();
   await pool.terminate();
+  // $tasks.complete();
   await connection.destroy();
 })();
