@@ -32,7 +32,7 @@ function formatString(value: string): string {
     removeSpaceBeforePunctuation,
     removeDuplicatePunctuation,
     removeNA,
-    removeDash,
+    // removeDash,
     // punctuation,
     _.trim,
   )(value);
