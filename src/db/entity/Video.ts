@@ -1,6 +1,6 @@
 
 
-import { Column, Entity } from "typeorm";
+import { Column, Entity, Relation } from "typeorm";
 import { Base } from "../util/Base";
 // import { Thing } from "./Thing";
 import { Url } from "./Url";
@@ -12,7 +12,7 @@ export class Video extends Base {
   @Column()
   duration?: string;
 
-  contentUrl?: Url;
+  contentUrl?: Relation<Url>;
   // thumbnail?: Image;
 
   // "publisher": {
