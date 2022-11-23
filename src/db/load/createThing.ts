@@ -1,7 +1,7 @@
 import 'reflect-metadata';
 import slugify from 'slugify';
 import _ from 'lodash';
-import { Thing } from '../entity/Thing';
+import { Thing } from '../entity';
 import ThingParmas from './ThingParams';
 import getOrCreateConnection from '../../utils/getOrCreateConnection';
 

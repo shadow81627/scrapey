@@ -1,7 +1,7 @@
 import { Duration } from "luxon";
 import { Column, Entity, JoinColumn, ManyToOne, OneToOne, Relation } from "typeorm";
 import { Base } from "../util/Base";
-import { Thing } from "./Thing";
+import { Thing } from "./index";
 
 
 @Entity()

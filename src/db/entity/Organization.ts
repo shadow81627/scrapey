@@ -1,6 +1,6 @@
 import { Entity, JoinColumn, OneToOne, Relation } from "typeorm";
 import { Base } from "../util/Base";
-import { Thing } from "./Thing";
+import { Thing } from "./index";
 import ThingSchema from '../../models/Thing'
 import getOrCreateConnection from "../../utils/getOrCreateConnection";
 

@@ -1,10 +1,10 @@
-import { Entity, Column, ManyToMany, JoinTable, getConnection, Relation } from "typeorm";
+import { Entity, Column, ManyToMany, JoinTable, Relation } from "typeorm";
 import { Base } from "../util/Base";
 import { ThingType } from "../util/ThingType";
 import { Url } from "./Url";
 import { Image } from "./Image";
 import ThingSchema from '../../models/Thing'
-import getOrCreateConnection from "../../utils/getOrCreateConnection";
+import AppDataSource from "../data-source";
 
 @Entity()
 export class Thing extends Base {
@@ -35,10 +35,10 @@ export class Thing extends Base {
 
   async toObject(): Promise<ThingSchema> {
     const { type, name, description = undefined, additionalProperty = undefined } = this;
-    const connection = getOrCreateConnection();
+    const connection = AppDataSource;
     const thing = (await connection.manager.findOneOrFail(Thing, {
       where: [{ slug: this.slug }],
-      relations: ['images', 'urls'],
+      relations: {images: true, urls: true},
     }));
     const images = thing.images;
     const image = images ? await Promise.all(images.map(image => image.toObject())) : undefined;

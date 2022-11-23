@@ -1,6 +1,6 @@
 import { Entity, JoinColumn, OneToOne, Relation } from "typeorm";
 import { Base } from "../util/Base";
-import { Thing } from "./Thing";
+import { Thing } from "./index";
 
 
 @Entity()

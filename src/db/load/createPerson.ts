@@ -1,6 +1,6 @@
 import 'reflect-metadata';
 import getOrCreateConnection from '../../utils/getOrCreateConnection';
-import { Person } from '../entity/Person';
+import { Person } from '../entity';
 import createThing from './createThing';
 import ThingParmas from './ThingParams';
 

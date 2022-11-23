@@ -1,13 +1,13 @@
 import 'reflect-metadata';
-import { Url } from '../entity/Url';
-import { Product } from '../entity/Product';
+import { Url } from '../entity';
+import { Product } from '../entity';
 import _ from 'lodash';
-import { Image } from '../entity/Image';
+import { Image } from '../entity';
 import probe from 'probe-image-size';
-import { Recipe } from '../entity/Recipe';
+import { Recipe } from '../entity';
 import { NutritionInformation } from '../entity/NutritionInformation';
 import { ThingType } from '../util/ThingType';
-import { Offer } from '../entity/Offer';
+import { Offer } from '../entity';
 import { promises as fsPromises } from 'fs';
 import createThing from '../load/createThing';
 import createOrganization from '../load/createOrganization';
@@ -15,12 +15,15 @@ import createPerson from '../load/createPerson';
 const { readFile } = fsPromises;
 const schemaDomainRegex = /https?:\/\/schema.org\//g;
 import { expose } from 'threads/worker';
-import getOrCreateConnection from '../../utils/getOrCreateConnection';
+import AppDataSource from '../data-source';
 const userAgent =
   'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:106.0) Gecko/20100101 Firefox/106.0';
 
 async function loadDB(filename: string) {
-  const connection = await getOrCreateConnection();
+  if (!AppDataSource.isInitialized) {
+    await AppDataSource.initialize();
+  }
+  const connection = AppDataSource;
 
   const file = await readFile(filename, { encoding: 'utf8' });
   const {
@@ -70,8 +73,8 @@ async function loadDB(filename: string) {
         if (typeof imageUrl === 'string') {
           const image =
             (await connection.manager.findOne(Image, {
-              where: [{ url }],
-              relations: ['url'],
+              where: [{ url: { id: url.id } }],
+              relations: { url: true },
             })) ?? connection.manager.create(Image, { url });
           if (!url.crawledAt) {
             try {
@@ -103,7 +106,7 @@ async function loadDB(filename: string) {
         if (gtin13 || brand) {
           const product =
             (await connection.manager.findOne(Product, {
-              where: [{ gtin13 }, { thing }],
+              where: [{ gtin13 }, { thing: { id: thing.id } }],
             })) ??
             connection.manager.create(Product, {
               dated,
@@ -133,8 +136,14 @@ async function loadDB(filename: string) {
               const seller = await createOrganization(offerData.seller);
               const offer =
                 (await connection.manager.findOne(Offer, {
-                  where: [{ itemOffered: product, seller }, { url }],
-                  relations: ['itemOffered', 'seller'],
+                  where: [
+                    {
+                      itemOffered: { id: product.id },
+                      seller: { id: seller.id },
+                    },
+                    { url: { id: url.id } },
+                  ],
+                  relations: { itemOffered: true, seller: true },
                 })) ??
                 connection.manager.create(Offer, {
                   ...offerData,

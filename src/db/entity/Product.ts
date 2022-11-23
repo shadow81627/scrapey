@@ -10,7 +10,7 @@ import {
 import { Base } from '../util/Base';
 import { Offer } from './Offer';
 import { Organization } from './Organization';
-import { Thing } from './Thing';
+import { Thing } from './index';
 import { promises as fsPromises } from 'fs';
 const { writeFile } = fsPromises;
 import { head, map, omit, pickBy } from 'lodash';
