@@ -25,16 +25,14 @@ export default async function crawl(url: string): Promise<void> {
   try {
     // fetch browser rendered html
     const html = await getHtml({ url });
-
     const $ = cheerio.load(html);
-
     const canonicalHref = $('link[rel="canonical"]').attr('href');
     const canonical =
       canonicalHref && isValidUrl(canonicalHref) ? canonicalHref : url;
     // save fetched url
     const data = processHtml(url, html);
     if (data) {
-      processLinkData({
+      await processLinkData({
         chunk: [canonical],
         chunkData: [data],
         fileUrlMap: new Map(),
@@ -100,7 +98,7 @@ export default async function crawl(url: string): Promise<void> {
     const dbUrl =
       (await connection.manager.findOne(Url, {
         where: [{ id: Url.generateId(Url.urlToParts(url)) }],
-        relations: ['urls'],
+        relations: { urls: true },
       })) ?? (await connection.manager.save(new Url(Url.urlToParts(url))));
     dbUrl.crawledAt = new Date();
     const issue = new CrawlIssue();
