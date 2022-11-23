@@ -2,13 +2,16 @@ import 'reflect-metadata';
 import getFiles from '../../utils/getFiles';
 import { Pool, spawn, Worker } from 'threads';
 import path from 'path';
-import getOrCreateConnection from '../../utils/getOrCreateConnection';
+import AppDataSource from '../data-source';
 
 /**
  * Main top level async/await
  */
 (async () => {
-  const connection = await getOrCreateConnection();
+  if (!AppDataSource.isInitialized) {
+    await AppDataSource.initialize();
+  }
+  const connection = AppDataSource;
   const files = [];
   for await (const filename of getFiles('content')) {
     files.push(filename);
@@ -17,7 +20,7 @@ import getOrCreateConnection from '../../utils/getOrCreateConnection';
   const pool = Pool(() => spawn(new Worker('./worker.ts')));
   let iteration = 0;
   for (const file of files) {
-    pool.queue(async (loadDB) => {
+    const task = pool.queue(async (loadDB) => {
       iteration++;
       await loadDB(file);
       console.log(
