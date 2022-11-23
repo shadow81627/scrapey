@@ -61,7 +61,7 @@ export default async function crawl(
     // TODO set all non canonical urls to crawled as well
 
     // get a unique list of valid urls on the same origin
-    const links: string[] = _.uniq(
+    const links: string[] = _.uniqBy(
       $('a[href]')
         .map((_, e) => {
           try {
@@ -78,7 +78,9 @@ export default async function crawl(
             // invalid url
           }
         })
-        .get(),
+        .get(), function (link) {
+          return Url.generateId(Url.urlToParts(link))
+        }
     )
       .filter(Boolean)
       .filter((link) => !disallowedHosts.includes(new URL(link).hostname))
