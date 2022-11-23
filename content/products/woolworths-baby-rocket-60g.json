@@ -1,0 +1,72 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "-",
+      "carbohydrateContent": "-",
+      "dietary_fibre": "3.0g",
+      "fatContent": "-",
+      "name": "nutrition",
+      "proteinContent": "-",
+      "saturatedFatContent": "-",
+      "servingSize": "100 g",
+      "sodiumContent": "-",
+      "sugarContent": "-"
+    }
+  ],
+  "aggregateRating": {
+    "@context": "http://schema.org",
+    "@type": "AggregateRating",
+    "ratingCount": 695,
+    "ratingValue": 4.47913669064748
+  },
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Woolworths"
+  },
+  "createdAt": "2022-11-23T21:58:29.451Z",
+  "description": "This product varies by state. Please review the product packaging for specific details when you receive this product, including nutritional information and country of origin, before consuming.AllergenAs this product varies by state, please review the product packaging when you receive your order for allergen information to determine whether this product is suitable for you before consuming, particularly if you suffer from a food allergy or intolerance.",
+  "gtin13": "9300633442194",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1200,
+    "mime": "image/jpeg",
+    "url": "https://cdn0.woolworths.media/content/wowproductimages/large/380580.jpg",
+    "width": 1200
+  },
+  "name": "Woolworths Baby Rocket 60g",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2.2,
+    "lowPrice": 2.2,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-23T21:58:29.449Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 2.2,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/380580/woolworths-baby-rocket-salad-bag"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/380580/woolworths-baby-rocket-salad-bag"
+  ],
+  "sku": "380580",
+  "updatedAt": "2022-11-23T21:58:29.449Z"
+}

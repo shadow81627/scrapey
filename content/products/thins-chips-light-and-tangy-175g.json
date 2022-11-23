@@ -1,0 +1,66 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "520kJ",
+      "carbohydrateContent": "12.4g",
+      "dietary_fibre": "0.7g",
+      "fatContent": "7.7g",
+      "name": "nutrition",
+      "proteinContent": "1.5g",
+      "saturatedFatContent": "3.6g",
+      "servingSize": "100 g",
+      "sodiumContent": "195mg",
+      "sugarContent": "1.0g"
+    }
+  ],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Thins"
+  },
+  "createdAt": "2022-11-23T22:37:17.133Z",
+  "description": "Thins are the original thin cut potato chip! Whether sharing or entertaining, Thins are cut just right to create the perfect light crispy texture that melts in your mouth. Gluten Free.",
+  "gtin13": "9310988009294",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1200,
+    "mime": "image/jpeg",
+    "url": "https://cdn0.woolworths.media/content/wowproductimages/large/274326.jpg",
+    "width": 1200
+  },
+  "name": "Thins Chips Light & Tangy 175G",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 4.3,
+    "lowPrice": 4.3,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-23T22:37:17.131Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 4.3,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/274326/thins-chips-light-tangy"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/274326/thins-chips-light-tangy"
+  ],
+  "sku": "274326",
+  "updatedAt": "2022-11-23T22:37:17.131Z"
+}

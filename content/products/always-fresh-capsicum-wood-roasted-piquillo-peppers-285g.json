@@ -1,0 +1,66 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "Approx.75kJ",
+      "carbohydrateContent": "Approx.2.95g",
+      "dietary_fibre": "1.21g",
+      "fatContent": "Approx.1g",
+      "name": "nutrition",
+      "proteinContent": "Approx.0.6g",
+      "saturatedFatContent": "Approx.1g",
+      "servingSize": "100 g",
+      "sodiumContent": "Approx.128mg",
+      "sugarContent": "Approx.2.7g"
+    }
+  ],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Always Fresh"
+  },
+  "createdAt": "2022-11-23T12:00:05.674Z",
+  "description": "Petite wood roasted peppers preserved with garlic. Crafted in Trujillo, Peru.",
+  "gtin13": "9300602359270",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1200,
+    "mime": "image/jpeg",
+    "url": "https://cdn0.woolworths.media/content/wowproductimages/large/261309.jpg",
+    "width": 1200
+  },
+  "name": "Always Fresh Capsicum Wood Roasted Piquillo Peppers 285G",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3.6,
+    "lowPrice": 3.6,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-23T12:00:05.673Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 3.6,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/261309/always-fresh-capsicum-wood-roasted-piquillo-peppers"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/261309/always-fresh-capsicum-wood-roasted-piquillo-peppers"
+  ],
+  "sku": "261309",
+  "updatedAt": "2022-11-23T12:00:05.673Z"
+}

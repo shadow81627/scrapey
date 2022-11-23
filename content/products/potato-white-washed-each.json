@@ -1,0 +1,51 @@
+{
+  "@type": "Product",
+  "additionalProperty": [],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization"
+  },
+  "createdAt": "2022-11-23T21:57:39.391Z",
+  "description": "White Washed PotatoesA potato is a kind of root vegetable that ranges in size and shape, including round, oval and elongated. Potato skin colour can be red, pink, white, cream, yellow and purple. Potatoes are versatile vegetables that can be enjoyed as a side with many meals. The whole potato can be eaten – skin included – and should always be washed and cooked. Barbecue, bake, boil, or blitz them into a soup. Mashed potatoes are a classic family favourite, or slice potatoes into chips.White washed potatoes have white or cream smooth skin with cream coloured flesh. ",
+  "gtin13": "0264731000009",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1200,
+    "mime": "image/jpeg",
+    "url": "https://cdn0.woolworths.media/content/wowproductimages/large/208895.jpg",
+    "width": 1200
+  },
+  "name": "Potato White Washed Each",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 0.81,
+    "lowPrice": 0.81,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-23T21:57:39.386Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 0.81,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/208895/potato-white-washed"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/208895/potato-white-washed"
+  ],
+  "sku": "208895",
+  "updatedAt": "2022-11-23T21:57:39.386Z"
+}

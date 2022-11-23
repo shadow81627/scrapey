@@ -1,0 +1,72 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "Approx. 248kJ",
+      "carbohydrateContent": "Approx. 0.5g",
+      "dietary_fibre": "-",
+      "fatContent": "Approx. 5.2g",
+      "name": "nutrition",
+      "proteinContent": "Approx. 2.7g",
+      "saturatedFatContent": "Approx. 3.2g",
+      "servingSize": "100 g",
+      "sodiumContent": "Approx. 89mg",
+      "sugarContent": "Approx. 0.5g"
+    }
+  ],
+  "aggregateRating": {
+    "@context": "http://schema.org",
+    "@type": "AggregateRating",
+    "ratingCount": 588,
+    "ratingValue": 3.91836734693878
+  },
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Woolworths"
+  },
+  "createdAt": "2022-11-23T12:06:18.336Z",
+  "description": "Mild and Creamy - Perfect for a homemade Roasted Vegetable & Goats Cheese Quiche",
+  "gtin13": "9339687041374",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1200,
+    "mime": "image/jpeg",
+    "url": "https://cdn0.woolworths.media/content/wowproductimages/large/682265.jpg",
+    "width": 1200
+  },
+  "name": "Woolworths Goats Cheese 100G",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 0,
+    "lowPrice": 0,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/OutOfStock",
+        "availabilityStarts": "2022-11-23T12:06:18.334Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": "",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/682265/woolworths-goats-cheese"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/682265/woolworths-goats-cheese"
+  ],
+  "sku": "682265",
+  "updatedAt": "2022-11-23T12:06:18.334Z"
+}

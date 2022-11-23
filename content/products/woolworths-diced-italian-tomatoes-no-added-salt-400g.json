@@ -1,0 +1,72 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "Approx.194kJ",
+      "carbohydrateContent": "Approx.6.9g",
+      "dietary_fibre": "Approx.3.8g",
+      "fatContent": "<1g",
+      "name": "nutrition",
+      "proteinContent": "Approx.1.6g",
+      "saturatedFatContent": "<0.1g",
+      "servingSize": "100 g",
+      "sodiumContent": "Approx.20mg",
+      "sugarContent": "Approx.5.1g"
+    }
+  ],
+  "aggregateRating": {
+    "@context": "http://schema.org",
+    "@type": "AggregateRating",
+    "ratingCount": 444,
+    "ratingValue": 4.6036036036036
+  },
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Woolworths"
+  },
+  "createdAt": "2022-11-23T21:58:33.806Z",
+  "description": "1 serve of vegetables = 1/2 a cup (1)\n(1) One serve of vegetables is approximately 75g. Australian Dietary Guidelines recommend 5 serves from a variety of vegetables per day.",
+  "gtin13": "9300633453350",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1200,
+    "mime": "image/jpeg",
+    "url": "https://cdn0.woolworths.media/content/wowproductimages/large/770320.jpg",
+    "width": 1200
+  },
+  "name": "Woolworths Diced Italian Tomatoes No Added Salt 400G",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 0.8,
+    "lowPrice": 0.8,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-23T21:58:33.803Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 0.8,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/770320/woolworths-diced-italian-tomatoes-no-added-salt"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/770320/woolworths-diced-italian-tomatoes-no-added-salt"
+  ],
+  "sku": "770320",
+  "updatedAt": "2022-11-23T21:58:33.804Z"
+}

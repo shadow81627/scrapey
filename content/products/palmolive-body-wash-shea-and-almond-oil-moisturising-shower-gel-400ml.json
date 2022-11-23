@@ -1,0 +1,58 @@
+{
+  "@type": "Product",
+  "additionalProperty": [],
+  "aggregateRating": {
+    "@context": "http://schema.org",
+    "@type": "AggregateRating",
+    "ratingCount": 2,
+    "ratingValue": 5
+  },
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Palmolive"
+  },
+  "createdAt": "2022-11-23T22:21:04.609Z",
+  "description": "Palmolive Body Butter Shea & Almond Oil Moisturising Body Wash for long-lasting moisturisation.  Stimulate your senses with Palmolive Body Butter Shea & Almond Oil Moisturising Shower Gel.Indulge your skin with extracts of Shea & Almond Oil for long-lasting moisturisation. This nourishing formula, with moisture locking ingredients, instantly transforms into a rich, creamy lather, leaving your skin feeling satiny smooth and superbly clean.Please Recycle.  Moisturising body wash that provides long-lasting moisturisation  Gentle and nourishing formula.  Instantly transforms into a rich, creamy lather.  Leaves skin feeling satiny smooth and superbly clean.  Shower gel suitable for daily use.",
+  "gtin13": "8850006930434",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1200,
+    "mime": "image/jpeg",
+    "url": "https://cdn0.woolworths.media/content/wowproductimages/large/046166.jpg",
+    "width": 1200
+  },
+  "name": "Palmolive Body Wash Shea & Almond Oil Moisturising Shower Gel 400mL",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 0,
+    "lowPrice": 0,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/OutOfStock",
+        "availabilityStarts": "2022-11-23T22:21:04.608Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": "",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/46166/palmolive-body-wash-shea-almond-oil-moisturising-shower-gel"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/46166/palmolive-body-wash-shea-almond-oil-moisturising-shower-gel"
+  ],
+  "sku": "46166",
+  "updatedAt": "2022-11-23T22:21:04.608Z"
+}

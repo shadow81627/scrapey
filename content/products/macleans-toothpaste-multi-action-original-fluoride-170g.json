@@ -1,0 +1,58 @@
+{
+  "@type": "Product",
+  "additionalProperty": [],
+  "aggregateRating": {
+    "@context": "http://schema.org",
+    "@type": "AggregateRating",
+    "ratingCount": 19,
+    "ratingValue": 4.63157894736842
+  },
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Macleans"
+  },
+  "createdAt": "2022-11-23T22:11:56.879Z",
+  "description": " With 8 key benefits, this is a toothpaste boosted with minerals for strengthening enamel and purifying breath. So the family* gets all-round protection. With Sugar Acid Protection provided by fluoride - creating a shield that protects the tooth surface against sugar acid attack.* For children 6 years of age and under Macleans recommends specially formuated lower Fluoride toothpastes Macleans Milk teeth and Macleans Little Teeth.",
+  "gtin13": "9300673825513",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1200,
+    "mime": "image/jpeg",
+    "url": "https://cdn0.woolworths.media/content/wowproductimages/large/801235.jpg",
+    "width": 1200
+  },
+  "name": "Macleans Toothpaste Multi Action Original Fluoride 170G",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3,
+    "lowPrice": 3,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-23T22:11:56.868Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 3,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/801235/macleans-toothpaste-multi-action-original-fluoride?"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/801235/macleans-toothpaste-multi-action-original-fluoride?"
+  ],
+  "sku": "801235",
+  "updatedAt": "2022-11-23T22:11:56.868Z"
+}

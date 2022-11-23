@@ -1,0 +1,66 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "-",
+      "carbohydrateContent": "-",
+      "dietary_fibre": "-",
+      "fatContent": "-",
+      "name": "nutrition",
+      "proteinContent": "-",
+      "saturatedFatContent": "-",
+      "servingSize": "100 g",
+      "sodiumContent": "-",
+      "sugarContent": "-"
+    }
+  ],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "L'Or"
+  },
+  "createdAt": "2022-11-23T22:36:41.155Z",
+  "description": "L'OR Espresso Supremo Intensity 10 is a roasty, sweet and rich ground coffee in capsules that is compatible with Nespresso* original coffee machines.Dark, berry-like sharpness is met with a roasted aftertaste that reveals richness and depth. Its full body engages all the senses, making an impression in every moment.Blended by L’OR Coffee ArtistsRoasty, sweet and rich ground coffee in single-dose capsulesIdeal preparation is espresso (40mL)Compatible with L’OR Barista and Nespresso* original coffee machines100% Rainforest Alliance certified coffee beans100% recyclable capsules via partnership with Terracycle",
+  "gtin13": "8711000362594",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1200,
+    "mime": "image/jpeg",
+    "url": "https://cdn0.woolworths.media/content/wowproductimages/large/603806.jpg",
+    "width": 1200
+  },
+  "name": "L'or Espresso Supremo Intensity 10 Coffee Capsules 10 Pack",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 5,
+    "lowPrice": 5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-23T22:36:41.154Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 5,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/603806/l-or-espresso-supremo-coffee-capsule"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/603806/l-or-espresso-supremo-coffee-capsule"
+  ],
+  "sku": "603806",
+  "updatedAt": "2022-11-23T22:36:41.154Z"
+}

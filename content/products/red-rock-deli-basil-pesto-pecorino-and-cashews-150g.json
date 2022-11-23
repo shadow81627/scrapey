@@ -1,0 +1,66 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "Approx.364kJ",
+      "carbohydrateContent": "Approx.2.1g",
+      "dietary_fibre": "0.3g",
+      "fatContent": "Approx.8.4g",
+      "name": "nutrition",
+      "proteinContent": "Approx.1.8g",
+      "saturatedFatContent": "Approx.1.3g",
+      "servingSize": "100 g",
+      "sodiumContent": "Approx.68mg",
+      "sugarContent": "<1g"
+    }
+  ],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Red Rock Deli"
+  },
+  "createdAt": "2022-11-23T11:59:49.381Z",
+  "description": "The aromatic and fragrant richness of basil is perfectly balanced with cashew and pecorino in this deli style dip.\nGluten Free, no artificial colours, no artificial flavours",
+  "gtin13": "93541183",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1200,
+    "mime": "image/jpeg",
+    "url": "https://cdn0.woolworths.media/content/wowproductimages/large/755203.jpg",
+    "width": 1200
+  },
+  "name": "Red Rock Deli Basil Pesto, Pecorino & Cashews 150G",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 4,
+    "lowPrice": 4,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-23T11:59:49.380Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 4,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/755203/red-rock-deli-basil-pesto-pecorino-cashews"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/755203/red-rock-deli-basil-pesto-pecorino-cashews"
+  ],
+  "sku": "755203",
+  "updatedAt": "2022-11-23T11:59:49.380Z"
+}

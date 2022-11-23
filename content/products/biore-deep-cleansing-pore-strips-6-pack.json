@@ -1,0 +1,58 @@
+{
+  "@type": "Product",
+  "additionalProperty": [],
+  "aggregateRating": {
+    "@context": "http://schema.org",
+    "@type": "AggregateRating",
+    "ratingCount": 6,
+    "ratingValue": 4
+  },
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Biore"
+  },
+  "createdAt": "2022-11-23T22:01:47.618Z",
+  "description": "Remove blackheads and shrink the size of pores with Bioré Blackhead Reducing Deep Cleansing Pore Strip. These deep cleansing nose strips target blackheads and unclog pores for healthy looking skin. Convenient and easy to use, these Pore Strips can be used 1x per week for the deepest clean. Unlike other wannabe ‘pore strips’, ONLY Bioré Deep Cleansing Pore Strips use C-bond technology to bind to blackheads and impurities, NOT to skin. These strips are super magnetic to safely and effectively remove dirt, oil, and even stubborn blackheads. Bioré Deep Cleansing Pore Strips leave skin feeling cleaner with visibly smaller pores after continuous use. A dermatologist-tested way to remove blackheads and purify pores. 1. INSTANTLY UNCLOG YOUR PORES - Bioré® Pore Strips instantly clean and unclog pores to purify your skin for the deepest clean in just 10 minutes. 2. REDUCE BLACKHEADS - See instant results when you use Bioré® Pore Strips. With continual use, you can help reduce the appearance of blackheads and see a visible reduction in the size of your pores. 3. CONTROL OILY SKIN - Invigorate your skincare routine with Bioré® Pore Strips. These easy-to-use strips will help remove dirt and oil from your pores, leaving your skin feeling fresh and clean. 4. BINDS TO BLACKHEADS, NOT SKIN - Using our c-bond technology, Bioré® Pore Strips are designed to be used once a week to bind to and remove blackheads not skin. 5. LIKE A BLACKHEAD MAGNET - Our uniquely developed pore strips act like a magnet to safely and effectively remove dirt, reduce oily skin and help eliminate blackheads.",
+  "gtin13": "9321715021014",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1200,
+    "mime": "image/jpeg",
+    "url": "https://cdn0.woolworths.media/content/wowproductimages/large/001478.jpg",
+    "width": 1200
+  },
+  "name": "Biore Deep Cleansing Pore Strips 6 Pack",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 7.2,
+    "lowPrice": 7.2,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-23T22:01:47.617Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 7.2,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/1478/biore-deep-cleansing-pore-strips"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/1478/biore-deep-cleansing-pore-strips"
+  ],
+  "sku": "1478",
+  "updatedAt": "2022-11-23T22:01:47.617Z"
+}

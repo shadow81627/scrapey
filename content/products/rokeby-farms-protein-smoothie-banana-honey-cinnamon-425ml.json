@@ -1,0 +1,66 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "4500.00kJ",
+      "carbohydrateContent": "79.50g",
+      "dietary_fibre": "3.4g",
+      "fatContent": "27.20g",
+      "name": "nutrition",
+      "proteinContent": "128.00g",
+      "saturatedFatContent": "20.00g",
+      "servingSize": "100 g",
+      "sodiumContent": "472.00mg",
+      "sugarContent": "70.60g"
+    }
+  ],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Rokeby Farms"
+  },
+  "createdAt": "2022-11-23T22:38:11.899Z",
+  "description": "A classic banana smoothie with a warming drop of honey and sprinkle of cinnamon.Whole Protein Smoothies made with fresh cold-filtered milk and naturally contains 30 grams of farm-fresh protein.A “whole protein” provides all nine essential amino acids which your body needs but can’t produce on its own, so it must be supplied daily from food.Protein is essential for the building and recovery of muscle tissue and organs. Research has also shown that eating a protein-rich breakfast can help stimulate and sustain a feeling of fullness and set the tone for your day.• High protein • High calcium• Fresh milk• Low fat• Low lactose• No powders or soy",
+  "gtin13": "9336243005009",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1200,
+    "mime": "image/jpeg",
+    "url": "https://cdn0.woolworths.media/content/wowproductimages/large/788553.jpg",
+    "width": 1200
+  },
+  "name": "Rokeby Farms Protein Smoothie Banana Honey Cinnamon 425mL",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 4.65,
+    "lowPrice": 4.65,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-23T22:38:11.897Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 4.65,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/788553/rokeby-farms-rokeby-farms-breakfast-smoothie-banana"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/788553/rokeby-farms-rokeby-farms-breakfast-smoothie-banana"
+  ],
+  "sku": "788553",
+  "updatedAt": "2022-11-23T22:38:11.898Z"
+}

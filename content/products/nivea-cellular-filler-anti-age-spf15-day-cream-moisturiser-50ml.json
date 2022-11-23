@@ -1,0 +1,58 @@
+{
+  "@type": "Product",
+  "additionalProperty": [],
+  "aggregateRating": {
+    "@context": "http://schema.org",
+    "@type": "AggregateRating",
+    "ratingCount": 4,
+    "ratingValue": 4.25
+  },
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Nivea"
+  },
+  "createdAt": "2022-11-23T22:19:39.292Z",
+  "description": "NIVEA Cellular Hyaluron Filler Day Cream SPF 15 features a skin-compatible combination of the cell-activating ingredients Hyaluronic Acid and Collagen Booster. The SPF15 UVA/UVB protection system helps to protect skin from UV-induced ageing, cell damage and age spots.NIVEA Cellular Filler Anti-Age Day Cream SPF 15 contains a combination of the cell-activating* ingredients Hyaluron and Bioxilift. These powerful ingredients activate the skin cells to produce their own Hyaluronic Acid and Collagen. As a result, your skin is plumper with a lifted feeling. In addition, wrinkles are filled, the skin volume is increased and contours are refined. SPF 15 and UVA/UVB protection help to protect the skin against sun-induced wrinkle formation and premature skin ageing. The skin compatibility of this day care cream has been dermatologically approved. *tested on skin cells.Quality Ingredients: formula made with Hyaluron and BioxiliftEffective Results: visibly reduces lines and wrinkles for tangibly firmer skinSPF 15: UVA/UVB protection help to protect the skin against sun-induced wrinkle formation and premature skin ageingLasting Nourishment: activates the skin cells to produce their own Hyaluronic Acid and CollagenUsage: Perfect for everyday use, even on sensitive skin types to encourage deeply nourished and smooth skinDirections: apply a generous amount to clean skin, massaging thoroughly around the face, neck, ears, and décolleté",
+  "gtin13": "4005900519139",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1200,
+    "mime": "image/jpeg",
+    "url": "https://cdn0.woolworths.media/content/wowproductimages/large/042534.jpg",
+    "width": 1200
+  },
+  "name": "Nivea Cellular Filler Anti-age Spf15 Day Cream Moisturiser 50ml",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 33,
+    "lowPrice": 33,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-23T22:19:39.284Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 33,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/42534/nivea-cellular-anti-age-day-cream-face-moisturiser-spf15"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/42534/nivea-cellular-anti-age-day-cream-face-moisturiser-spf15"
+  ],
+  "sku": "42534",
+  "updatedAt": "2022-11-23T22:19:39.284Z"
+}

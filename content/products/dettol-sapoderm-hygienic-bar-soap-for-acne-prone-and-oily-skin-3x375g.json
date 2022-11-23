@@ -1,0 +1,58 @@
+{
+  "@type": "Product",
+  "additionalProperty": [],
+  "aggregateRating": {
+    "@context": "http://schema.org",
+    "@type": "AggregateRating",
+    "ratingCount": 18,
+    "ratingValue": 4.77777777777778
+  },
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Dettol"
+  },
+  "createdAt": "2022-11-23T22:23:29.094Z",
+  "description": "Dettol Sapoderm Hygienic Soap cleanser for acne prone and oily skin.Dettol Sapoderm Hygienic Soap.Cleanser for acne prone and oily skin.Sapoderm helps control acne and oily skin problems by effectively cleansing the skin. Sapoderm thoroughly cleanses the skin and removes excessive oil film.All-Over Odour Protection.Daily use in the shower or bath gives you all-over odour protection. Its creamy lather helps leave your skin feeling clean and fresh.",
+  "gtin13": "9300631015734",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1200,
+    "mime": "image/jpeg",
+    "url": "https://cdn0.woolworths.media/content/wowproductimages/large/030522.jpg",
+    "width": 1200
+  },
+  "name": "Dettol Sapoderm Hygienic Bar Soap For Acne Prone And Oily Skin 3x375g",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 5,
+    "lowPrice": 5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-23T22:23:29.092Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 5,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/30522/dettol-sapoderm-hygienic-soap-for-acne-oily-skin"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/30522/dettol-sapoderm-hygienic-soap-for-acne-oily-skin"
+  ],
+  "sku": "30522",
+  "updatedAt": "2022-11-23T22:23:29.092Z"
+}

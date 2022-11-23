@@ -1,0 +1,66 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "173kJ",
+      "carbohydrateContent": "<0.1g",
+      "dietary_fibre": "-",
+      "fatContent": "4.6g",
+      "name": "nutrition",
+      "proteinContent": "<0.1g",
+      "saturatedFatContent": "0.6g",
+      "servingSize": "100 g",
+      "sodiumContent": "<1mg",
+      "sugarContent": "<0.1g"
+    }
+  ],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Essentials"
+  },
+  "createdAt": "2022-11-23T12:03:52.861Z",
+  "description": "Essentials Olive Oil Spray.",
+  "gtin13": "9300633906290",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1200,
+    "mime": "image/jpeg",
+    "url": "https://cdn0.woolworths.media/content/wowproductimages/large/221580.jpg",
+    "width": 1200
+  },
+  "name": "Essentials Olive Oil Spray 400G",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 6.5,
+    "lowPrice": 6.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-23T12:03:52.860Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 6.5,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/221580/essentials-olive-oil-spray"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/221580/essentials-olive-oil-spray"
+  ],
+  "sku": "221580",
+  "updatedAt": "2022-11-23T12:03:52.860Z"
+}

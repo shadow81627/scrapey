@@ -1,54 +1,67 @@
 {
   "@type": "Recipe",
+  "author": {
+    "@type": "Person",
+    "name": "Fresh Ideas"
+  },
   "cookTime": "PT25M",
-  "createdAt": "2022-11-22T11:53:34.854Z",
-  "datePublished": "2021-03-10",
+  "createdAt": "2022-11-23T11:52:04.146Z",
+  "datePublished": "2022-10-20",
   "description": "Learn how to make an easy creamy mushroom sauce to serve with steak or toss through pasta.",
   "image": {
     "@type": "ImageObject",
     "height": 1300,
-    "mime": "image/png",
-    "url": "https://foodhub.scene7.com/is/image/woolworthsltdprod/2010-creamy-mushroom-sauce?wid=1300&hei=1300&fmt=png-alpha",
+    "mime": "image/jpeg",
+    "url": "https://foodhub.scene7.com/is/image/woolworthsltdprod/2010-creamy-mushroom-sauce:Square-1300x1300",
     "width": 1300
   },
-  "keywords": "Creamy Mushroom Sauce",
+  "keywords": "Sauce,Pescatarian,Low salt,Seafood free,Gluten free,Tree nut free,Egg free,Spring,Sesame free,Mushroom,Wheat free,Soy free,Vegetarian,Peanut free",
   "name": "Creamy Mushroom Sauce Recipe | Woolworths",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "362 calories",
+    "carbohydrateContent": "5.1 g",
+    "fatContent": "35.2 g",
+    "proteinContent": "4.8 g",
+    "saturatedFatContent": "22.8 g",
+    "sodiumContent": "98 millig"
+  },
   "prepTime": "PT5M",
-  "recipeCategory": "condiments",
-  "recipeCuisine": "north-american",
+  "recipeCategory": "Condiments",
+  "recipeCuisine": "North American",
   "recipeId": "10639",
   "recipeIngredient": [
-    "40 g butter",
-    "1 small brown onion",
-    "2 clove garlic",
-    "400 g Swiss brown mushrooms",
-    "2 tsp thyme leaves",
+    "40g butter",
+    "1 small brown onion, finely chopped",
+    "2 clove garlic, crushed",
+    "400g Swiss brown mushrooms, sliced",
+    "2 tsp thyme leaves (plus extra to serve)",
     "1 tbs white wine vinegar",
-    "300 ml pure cream"
+    "300ml pure cream"
   ],
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Season and serve sprinkled with extra thyme."
+      "HowToTip": {},
+      "text": "Melt butter into a frying pan over medium heat. Add onion and cook, stirring occasionally, for 4 minutes or until softened. Add garlic and cook, stirring, for 1 minute or until fragrant."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Season and serve sprinkled with extra thyme."
+      "HowToTip": {},
+      "text": "Add mushroom and cook for 5 minutes, stirring occasionally or until tender. Add thyme and cook, stirring occasionally, for 2 minutes. Add vinegar and cook, stirring, for 1 minute. Add cream and cook, stirring occasionally, for 5 minutes or until cream has reduced by half."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
+      "HowToTip": {},
       "text": "Season and serve sprinkled with extra thyme."
     }
   ],
   "recipeNameId": "creamy-mushroom-sauce",
   "recipeYield": "4",
   "sameAs": [
-    "https://woolworths.com.au/shop/find-recipes/creamy-mushroom-sauce"
+    "https://woolworths.com.au/shop/recipedetail/10639/creamy-mushroom-sauce"
   ],
   "totalTime": "PT30M",
-  "updatedAt": "2022-11-22T11:53:34.853Z",
+  "updatedAt": "2022-11-23T11:52:04.145Z",
   "url": "https://www.woolworths.com.au/shop/recipes/creamy-mushroom-sauce"
 }

@@ -1,0 +1,52 @@
+{
+  "@type": "Product",
+  "additionalProperty": [],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Zak"
+  },
+  "createdAt": "2022-11-23T22:34:05.512Z",
+  "description": "Zak Justice League Melamine Plate is a commitment to child safety and BPA free.",
+  "gtin13": "707226821418",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1200,
+    "mime": "image/jpeg",
+    "url": "https://cdn0.woolworths.media/content/wowproductimages/large/947692.jpg",
+    "width": 1200
+  },
+  "name": "Zak Melamine Plate Justice League EACH",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 0,
+    "lowPrice": 0,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/OutOfStock",
+        "availabilityStarts": "2022-11-23T22:34:05.511Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": "",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/947692/zak-melamine-plate-justice-league"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/947692/zak-melamine-plate-justice-league"
+  ],
+  "sku": "947692",
+  "updatedAt": "2022-11-23T22:34:05.511Z"
+}

@@ -1,0 +1,52 @@
+{
+  "@type": "Product",
+  "additionalProperty": [],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Cottons"
+  },
+  "createdAt": "2022-11-23T22:02:42.551Z",
+  "description": "Most tampons contain synthetic materials. Cottons don't. Cottons are only made of certified organic 100% cotton and are chemical free. They give you natural protection you can count on, are biodegradable and hypo-allergenic.",
+  "gtin13": "9318153000022",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1200,
+    "mime": "image/jpeg",
+    "url": "https://cdn0.woolworths.media/content/wowproductimages/large/003671.jpg",
+    "width": 1200
+  },
+  "name": "Cottons Organic Tampons Regular 16 Pack",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2.75,
+    "lowPrice": 2.75,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-23T22:02:42.550Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 2.75,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/3671/cottons-tampons-regular"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/3671/cottons-tampons-regular"
+  ],
+  "sku": "3671",
+  "updatedAt": "2022-11-23T22:02:42.550Z"
+}

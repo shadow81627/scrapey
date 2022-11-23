@@ -1,0 +1,52 @@
+{
+  "@type": "Product",
+  "additionalProperty": [],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Nyal"
+  },
+  "createdAt": "2022-11-23T22:00:56.272Z",
+  "description": "Nyal Chesty Cough Medicine helps clear the chest.Nyal Chesty Cough Medicine contains an expectorant to loosen phlegm and helps clear chesty coughs associated with cold and flu and sore throats.Helps clear the chestNon-DrowsyBonus Medicine Cup",
+  "gtin13": "9330130000375",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1200,
+    "mime": "image/jpeg",
+    "url": "https://cdn0.woolworths.media/content/wowproductimages/large/000389.jpg",
+    "width": 1200
+  },
+  "name": "Nyal Chesty Non Drowsy Cough Medicine 200mL",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 8.5,
+    "lowPrice": 8.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-23T22:00:56.271Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 8.5,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/389/nyal-tablets-chesty-non-drowsy"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/389/nyal-tablets-chesty-non-drowsy"
+  ],
+  "sku": "389",
+  "updatedAt": "2022-11-23T22:00:56.271Z"
+}

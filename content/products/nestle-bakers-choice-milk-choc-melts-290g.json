@@ -1,0 +1,66 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "320.0kJ",
+      "carbohydrateContent": "9.7g",
+      "dietary_fibre": "0.35g",
+      "fatContent": "3.8g",
+      "name": "nutrition",
+      "proteinContent": "0.8g",
+      "saturatedFatContent": "3.4g",
+      "servingSize": "100 g",
+      "sodiumContent": "18.0mg",
+      "sugarContent": "9.6g"
+    }
+  ],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Nestle"
+  },
+  "createdAt": "2022-11-23T22:32:21.314Z",
+  "description": "Milk Choc Melts are scrumptious round buttons which are easy to melt and magically set at room temperature. So you can create delicious coating shards, swirls, choc dipped strawberries or topping slices, biscuits or cakes. Perfect for dipping, coating, moulding and decorations. No tempering needed, simply melt & set! Made from 100% certified sustainable cocoa, supplied through the Nestle Cocoa Plan. Nestle BAKERS' CHOICE - Made for Baking",
+  "gtin13": "9300605107502",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1200,
+    "mime": "image/jpeg",
+    "url": "https://cdn0.woolworths.media/content/wowproductimages/large/490001.jpg",
+    "width": 1200
+  },
+  "name": "Nestle Bakers' Choice Milk Choc Melts 290G",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3.5,
+    "lowPrice": 3.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-23T22:32:21.305Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 3.5,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/490001/nestle-bakers-choice-milk-choc-melts"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/490001/nestle-bakers-choice-milk-choc-melts"
+  ],
+  "sku": "490001",
+  "updatedAt": "2022-11-23T22:32:21.305Z"
+}

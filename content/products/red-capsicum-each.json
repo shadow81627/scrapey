@@ -1,0 +1,52 @@
+{
+  "@type": "Product",
+  "additionalProperty": [],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Red"
+  },
+  "createdAt": "2022-11-23T12:04:09.464Z",
+  "description": "Capsicums are seed pods. A shiny red vegetable with crisp, moist flesh. Hollow with a seeded core. Capsicums are sweet and juicy with a mild spicy flavour. Red capsicums, being riper, are sweeter than green capsicums. Shape also varies with each variety, from the more commonly found blocky shape to a pointy capsicum. Miniature varieties are sometimes available.What to look forCapsicums should be well shaped and have skins which are firm and shiny. Avoid those with soft spots or a shrivelled appearance.AvailabilityAll year.StoreRefrigerate in the vegetable crisper. At cooler times of the year capsicums can be kept in the fruit bowl.How to prepareRemove the seeds and inner membranes. To stuff a capsicum, cut the stem off and remove the seeds from the top, otherwise it's easier to cut the capsicum in half first. To remove capsicum skins, roast, grill or barbecue until the skin blisters and blackens. Slip the burnt skins off. To make this easier place capsicums in a plastic bag or covered dish for a few minutes and then peel skin off.Ways to eatCapsicums can be eaten raw or cooked. Use raw in salads, cut into strips and eat with dips, or use as an edible garnish. Dice capsicums for use on pizzas; cut into chunks for kebabs; use in pasta sauces; or add to stir fries. Stuff with rice or a bread crumb mixture and bake. Add roasted capsicums, either hot or cold, to salads and sandwiches.",
+  "gtin13": "0264088000004",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1200,
+    "mime": "image/jpeg",
+    "url": "https://cdn0.woolworths.media/content/wowproductimages/large/135306.jpg",
+    "width": 1200
+  },
+  "name": "Red Capsicum Each",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3.73,
+    "lowPrice": 3.73,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/OutOfStock",
+        "availabilityStarts": "2022-11-23T12:04:09.463Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 3.73,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/135306/red-capsicum"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/135306/red-capsicum"
+  ],
+  "sku": "135306",
+  "updatedAt": "2022-11-23T12:04:09.464Z"
+}

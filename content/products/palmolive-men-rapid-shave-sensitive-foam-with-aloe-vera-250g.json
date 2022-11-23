@@ -1,0 +1,58 @@
+{
+  "@type": "Product",
+  "additionalProperty": [],
+  "aggregateRating": {
+    "@context": "http://schema.org",
+    "@type": "AggregateRating",
+    "ratingCount": 11,
+    "ratingValue": 3.90909090909091
+  },
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Palmolive"
+  },
+  "createdAt": "2022-11-23T22:21:41.850Z",
+  "description": "Palmolive Men Rapid Shave Foam Sensitive is enriched with Aloe Vera Extracts for soothing protection against irritation and dryness.Palmolive Men Rapid Shave Foam for Sensitive Skin uses an advanced system of lubricants that have been enhanced with aloe vera gel, which is well known for protecting skin against irritation and dryness, and gives a smooth razor glide.Its super rich lather has been specially formulated to give those with sensitive or dry skin a comfortable, smooth and close shave.Size: 250gSENSITIVE SHAVE FOAM: Palmolive Men Rapid Shave Foam Sensitive provides soothing protection for sensitive skinALL SKIN TYPES: Ideal for all skin types, including sensitive skin.ALOE VERA EXTRACTS: Enriched with aloe vera extracts to protect against dryness and irritation.COMFORT: Experience a clean, close and more comfortable shave.SOOTHING FORMULA: Enjoy the soothing formula when shaving.",
+  "gtin13": "9300632017584",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1200,
+    "mime": "image/jpeg",
+    "url": "https://cdn0.woolworths.media/content/wowproductimages/large/028067.jpg",
+    "width": 1200
+  },
+  "name": "Palmolive Men Rapid Shave Sensitive Foam With Aloe Vera 250G",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3.5,
+    "lowPrice": 3.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-23T22:21:41.848Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 3.5,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/28067/palmolive-men-rapid-shave-sensitive-foam-with-aloe-vera"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/28067/palmolive-men-rapid-shave-sensitive-foam-with-aloe-vera"
+  ],
+  "sku": "28067",
+  "updatedAt": "2022-11-23T22:21:41.848Z"
+}

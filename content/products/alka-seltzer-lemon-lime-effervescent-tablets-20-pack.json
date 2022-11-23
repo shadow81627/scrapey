@@ -1,0 +1,52 @@
+{
+  "@type": "Product",
+  "additionalProperty": [],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Alka-Seltzer"
+  },
+  "createdAt": "2022-11-23T22:21:50.063Z",
+  "description": "Alka-Seltzer Lemon-Lime Effervescent Tablets provide fast and temporary relief of headaches, body aches and pains.For fast, effective temporary relief of pain associated with headache, migraine headache, toothache, backache, arthritis, rheumatics, period pain, sore throat and the symptoms of cold and flu. - Fast relief - Pleasant tasting Lemon-Lime flavour - Soluble effervescent tablet",
+  "gtin13": "9310266413416",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1200,
+    "mime": "image/jpeg",
+    "url": "https://cdn0.woolworths.media/content/wowproductimages/large/027350.jpg",
+    "width": 1200
+  },
+  "name": "Alka-seltzer Lemon-lime Effervescent Tablets 20 Pack",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 10,
+    "lowPrice": 10,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-23T22:21:50.062Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 10,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/27350/alka-seltzer-lemon-lime-effervescent-tablets"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/27350/alka-seltzer-lemon-lime-effervescent-tablets"
+  ],
+  "sku": "27350",
+  "updatedAt": "2022-11-23T22:21:50.062Z"
+}

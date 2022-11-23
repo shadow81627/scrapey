@@ -1,0 +1,72 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "Approx.857kJ",
+      "carbohydrateContent": "Approx.1.8g",
+      "dietary_fibre": "Approx.7.2g",
+      "fatContent": "Approx.10.7g",
+      "name": "nutrition",
+      "proteinContent": "Approx.22.1g",
+      "saturatedFatContent": "Approx.1.8g",
+      "servingSize": "100 g",
+      "sodiumContent": "Approx.10mg",
+      "sugarContent": "<1g"
+    }
+  ],
+  "aggregateRating": {
+    "@context": "http://schema.org",
+    "@type": "AggregateRating",
+    "ratingCount": 413,
+    "ratingValue": 4.20338983050847
+  },
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Macro"
+  },
+  "createdAt": "2022-11-23T21:56:36.928Z",
+  "description": "Perfect firm tofu to add to salads or any dishWinner Best plant-based/vegetarian snack, 2021 Healthy Food Guide Awards",
+  "gtin13": "9339687095230",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1200,
+    "mime": "image/jpeg",
+    "url": "https://cdn0.woolworths.media/content/wowproductimages/large/023038.jpg",
+    "width": 1200
+  },
+  "name": "Macro Firm Tofu 450G",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3,
+    "lowPrice": 3,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-23T21:56:36.920Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 3,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/23038/macro-firm-tofu"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/23038/macro-firm-tofu"
+  ],
+  "sku": "23038",
+  "updatedAt": "2022-11-23T21:56:36.920Z"
+}

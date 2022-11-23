@@ -1,0 +1,52 @@
+{
+  "@type": "Product",
+  "additionalProperty": [],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Monkey Bay"
+  },
+  "createdAt": "2022-11-23T12:05:10.933Z",
+  "description": "Monkey Bay wines were named after a beautiful bay tucked away on the Marlborough coast of New Zealand’s South Island - a little piece of paradise responsible for the pure fruit of this Sauv Blanc. Fresh, lively and overflowing with grapefruit, lemon and passionfruit, and infused with delicate herbaceous characters, think summer and think chicken  when shopping for this stunner. We think poached chicken with penne and pesto . Yum.\"Varietal: Sauvignon BlancLiquor Style: Medium Bodied WhiteRegion Of Origin: MarlboroughCountry Of Origin: New ZealandVintage: 2015*Alcohol %: 13% (2018)Standard Drinks: 7.7*Vintage may vary from store to store",
+  "gtin13": "9414498400098",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1200,
+    "mime": "image/jpeg",
+    "url": "https://cdn0.woolworths.media/content/wowproductimages/large/907435.jpg",
+    "width": 1200
+  },
+  "name": "Monkey Bay Sauvignon Blanc 750mL",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 0,
+    "lowPrice": 0,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/OutOfStock",
+        "availabilityStarts": "2022-11-23T12:05:10.931Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": "",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/907435/monkey-bay-sauvignon-blanc"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/907435/monkey-bay-sauvignon-blanc"
+  ],
+  "sku": "907435",
+  "updatedAt": "2022-11-23T12:05:10.932Z"
+}

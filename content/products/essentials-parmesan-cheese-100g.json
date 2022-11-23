@@ -1,0 +1,72 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "116.00kJ",
+      "carbohydrateContent": "0.10g",
+      "dietary_fibre": "-",
+      "fatContent": "2.30g",
+      "name": "nutrition",
+      "proteinContent": "1.80g",
+      "saturatedFatContent": "1.50g",
+      "servingSize": "100 g",
+      "sodiumContent": "130.00mg",
+      "sugarContent": "<1g"
+    }
+  ],
+  "aggregateRating": {
+    "@context": "http://schema.org",
+    "@type": "AggregateRating",
+    "ratingCount": 718,
+    "ratingValue": 3.88718662952646
+  },
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Essentials"
+  },
+  "createdAt": "2022-11-23T12:05:26.794Z",
+  "description": "Source of Calcium.No Artificial Colours, Flavours or Preservatives.",
+  "gtin13": "9300633994891",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1200,
+    "mime": "image/jpeg",
+    "url": "https://cdn0.woolworths.media/content/wowproductimages/large/325134.jpg",
+    "width": 1200
+  },
+  "name": "Essentials Parmesan Cheese 100G",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 1.6,
+    "lowPrice": 1.6,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-23T12:05:26.792Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 1.6,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/325134/essentials-parmesan-cheese"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/325134/essentials-parmesan-cheese"
+  ],
+  "sku": "325134",
+  "updatedAt": "2022-11-23T12:05:26.793Z"
+}

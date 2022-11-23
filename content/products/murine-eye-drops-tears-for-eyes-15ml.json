@@ -1,0 +1,52 @@
+{
+  "@type": "Product",
+  "additionalProperty": [],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Murine"
+  },
+  "createdAt": "2022-11-23T22:01:52.530Z",
+  "description": "MURINE Tears are specially formulated artificial for dry, gritty, tired eyes.MURINE® Tears is a solution for dry, gritty and tired eyes. MURINE® Tears are specifically formulated to contain many of the major ingredients found in natural tears. Use to refresh dryness and burning resulting from:- lack of tears- air conditioning- tiredness- smog- dust- computer stare- swimming",
+  "gtin13": "9317039002273",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1200,
+    "mime": "image/jpeg",
+    "url": "https://cdn0.woolworths.media/content/wowproductimages/large/001536.jpg",
+    "width": 1200
+  },
+  "name": "Murine Eye Drops Tears For Eyes 15mL",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 9.2,
+    "lowPrice": 9.2,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-23T22:01:52.529Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 9.2,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/1536/murine-eye-drops-tears-for-eyes"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/1536/murine-eye-drops-tears-for-eyes"
+  ],
+  "sku": "1536",
+  "updatedAt": "2022-11-23T22:01:52.529Z"
+}

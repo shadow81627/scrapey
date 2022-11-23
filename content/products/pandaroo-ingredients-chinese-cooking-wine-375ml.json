@@ -1,0 +1,66 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "Approx.0kJ",
+      "carbohydrateContent": "Approx.0.45g",
+      "dietary_fibre": "-",
+      "fatContent": "Approx.0g",
+      "name": "nutrition",
+      "proteinContent": "Approx.0g",
+      "saturatedFatContent": "Approx.0g",
+      "servingSize": "100 g",
+      "sodiumContent": "Approx.133mg",
+      "sugarContent": "Approx.0g"
+    }
+  ],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Pandaroo"
+  },
+  "createdAt": "2022-11-23T21:56:13.114Z",
+  "description": "Add a dash of Pandaroo Chinese cooking wine to enhance the flavour of your favourite stir-fry and marinade dishes.",
+  "gtin13": "9319224800527",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1200,
+    "mime": "image/jpeg",
+    "url": "https://cdn0.woolworths.media/content/wowproductimages/large/702357.jpg",
+    "width": 1200
+  },
+  "name": "Pandaroo Ingredients Chinese Cooking Wine 375mL",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2.9,
+    "lowPrice": 2.9,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-23T21:56:13.113Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 2.9,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/702357/pandaroo-ingredients-chinese-cooking-wine"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/702357/pandaroo-ingredients-chinese-cooking-wine"
+  ],
+  "sku": "702357",
+  "updatedAt": "2022-11-23T21:56:13.113Z"
+}

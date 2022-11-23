@@ -1,0 +1,58 @@
+{
+  "@type": "Product",
+  "additionalProperty": [],
+  "aggregateRating": {
+    "@context": "http://schema.org",
+    "@type": "AggregateRating",
+    "ratingCount": 10,
+    "ratingValue": 4.7
+  },
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "OC Naturals"
+  },
+  "createdAt": "2022-11-23T22:13:15.669Z",
+  "description": "OC Naturals Coco Repair Conditioner with KeraDyn Organic Coconut Oil restores & strengthen your hair. With plant-based ingredients and free from paraben and SLES.Sustainable Australian Hair CareOur COCO REPAIR Conditioner is formulated with natural plant based ingredients and botanical actives to care for your hair, naturally. The conditioning properties of KeraDyn protect and restore the hair, while Wheat Peptides and Certified Organic Coconut Oils nourish and soften every strand. No Parabens.No SLES & ALS.No Propylene Glycol.No Triclosan.No EDTA.No Harsh Detergents.No Petrochemical Cleansers.No Mineral Oils.",
+  "gtin13": "9310692429241",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1200,
+    "mime": "image/jpeg",
+    "url": "https://cdn0.woolworths.media/content/wowproductimages/large/683771.jpg",
+    "width": 1200
+  },
+  "name": "Oc Naturals Conditioner Coco Repair 400mL",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3.7,
+    "lowPrice": 3.7,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-23T22:13:15.666Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 3.7,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/683771/oc-naturals-conditioner-coco-repair?"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/683771/oc-naturals-conditioner-coco-repair?"
+  ],
+  "sku": "683771",
+  "updatedAt": "2022-11-23T22:13:15.667Z"
+}

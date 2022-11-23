@@ -1,0 +1,58 @@
+{
+  "@type": "Product",
+  "additionalProperty": [],
+  "aggregateRating": {
+    "@context": "http://schema.org",
+    "@type": "AggregateRating",
+    "ratingCount": 9,
+    "ratingValue": 4.66666666666667
+  },
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Nivea"
+  },
+  "createdAt": "2022-11-23T22:03:17.627Z",
+  "description": "NIVEA Moisturising Fluid with SPF 15 broad spectrum UVA and UVB sunfilters provides daily protection from the sun's damaging rays and premature skin ageing.  NIVEA Moisturising Fluid with SPF 15 broad spectrum UVA and UVB sunfilters provides daily protection from the sun's damaging rays and premature skin ageing.",
+  "gtin13": "9316928000499",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1200,
+    "mime": "image/jpeg",
+    "url": "https://cdn0.woolworths.media/content/wowproductimages/large/005128.jpg",
+    "width": 1200
+  },
+  "name": "Nivea Moisturising Day Face Cream Fluid Spf15 50mL",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 0,
+    "lowPrice": 0,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/OutOfStock",
+        "availabilityStarts": "2022-11-23T22:03:17.622Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": "",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/5128/nivea-moisturising-day-face-cream-fluid-spf15"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/5128/nivea-moisturising-day-face-cream-fluid-spf15"
+  ],
+  "sku": "5128",
+  "updatedAt": "2022-11-23T22:03:17.622Z"
+}

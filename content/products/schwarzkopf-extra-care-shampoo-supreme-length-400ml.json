@@ -1,0 +1,58 @@
+{
+  "@type": "Product",
+  "additionalProperty": [],
+  "aggregateRating": {
+    "@context": "http://schema.org",
+    "@type": "AggregateRating",
+    "ratingCount": 5,
+    "ratingValue": 5
+  },
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Schwarzkopf"
+  },
+  "createdAt": "2022-11-23T22:12:35.252Z",
+  "description": "Schwarzkopf Extra Care Supreme Length Shampoo is suitable for long hair prone to damage & oily roots.Do you have long hair prone to damage & oily roots?Suffering from oily roots? Stressed about damaged hair lengths? Achieving your long hair goals requires a special care regime. Extra Care Supreme Length offers:- Gentle cleansing at roots.- Damage protection.- Instant fluidity from roots to ends.Extra Care formulas with Keratin Serum help repair existing damage and fortify the cell structure for future damage prevention.Supreme Length.To specifically serve the needs of long hair, the Supreme Length range with Micro Repair Lipids and Peony Essence repairs damaged hair and reduces split-ends.Don't cut- choose repair.Gentle cleansing, instant hair fluidity from roots to ends.Keratin serum + micro repair lipids.",
+  "gtin13": "9310714221952",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1200,
+    "mime": "image/jpeg",
+    "url": "https://cdn0.woolworths.media/content/wowproductimages/large/683975.jpg",
+    "width": 1200
+  },
+  "name": "Schwarzkopf Extra Care Shampoo Supreme Length 400mL",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 0,
+    "lowPrice": 0,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/OutOfStock",
+        "availabilityStarts": "2022-11-23T22:12:35.250Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": "",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/683975/schwarzkopf-extra-care-shampoo-supreme-length?"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/683975/schwarzkopf-extra-care-shampoo-supreme-length?"
+  ],
+  "sku": "683975",
+  "updatedAt": "2022-11-23T22:12:35.250Z"
+}

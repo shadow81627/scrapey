@@ -1,0 +1,71 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "143kJ",
+      "carbohydrateContent": "0.8g",
+      "dietary_fibre": "0.18g",
+      "fatContent": "3.4g",
+      "name": "nutrition",
+      "proteinContent": "0.2g",
+      "saturatedFatContent": "3.0g",
+      "servingSize": "100 g",
+      "sodiumContent": "9mg",
+      "sugarContent": "0.5g"
+    }
+  ],
+  "aggregateRating": {
+    "@context": "http://schema.org",
+    "@type": "AggregateRating",
+    "ratingCount": 349,
+    "ratingValue": 4.3352435530086
+  },
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Essentials"
+  },
+  "createdAt": "2022-11-23T21:57:09.021Z",
+  "gtin13": "9300633292393",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1200,
+    "mime": "image/jpeg",
+    "url": "https://cdn0.woolworths.media/content/wowproductimages/large/694751.jpg",
+    "width": 1200
+  },
+  "name": "Essentials Coconut Milk 400mL",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 0.95,
+    "lowPrice": 0.95,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-23T21:57:09.019Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 0.95,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/694751/essentials-coconut-milk"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/694751/essentials-coconut-milk"
+  ],
+  "sku": "694751",
+  "updatedAt": "2022-11-23T21:57:09.019Z"
+}

@@ -1,0 +1,72 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "Approx.221kJ",
+      "carbohydrateContent": "Approx.8.7g",
+      "dietary_fibre": "Approx.1.5g",
+      "fatContent": "Approx.0.9g",
+      "name": "nutrition",
+      "proteinContent": "Approx.1.6g",
+      "saturatedFatContent": "Approx.0.2g",
+      "servingSize": "100 g",
+      "sodiumContent": "Approx.10mg",
+      "sugarContent": "Approx.2.9g"
+    }
+  ],
+  "aggregateRating": {
+    "@context": "http://schema.org",
+    "@type": "AggregateRating",
+    "ratingCount": 398,
+    "ratingValue": 4.44974874371859
+  },
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Woolworths"
+  },
+  "createdAt": "2022-11-23T21:55:28.598Z",
+  "description": "1 serve of vegetables = 1/2 a cup (1)\n(1) One serve of vegetables is equal to approximately 75g. Australian Dietary Guidelines recommend 5 serves of vegetables per day.",
+  "gtin13": "9300633904241",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1200,
+    "mime": "image/jpeg",
+    "url": "https://cdn0.woolworths.media/content/wowproductimages/large/218926.jpg",
+    "width": 1200
+  },
+  "name": "Woolworths Corn Sweet Kernels 420G",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 1,
+    "lowPrice": 1,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-23T21:55:28.589Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 1,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/218926/woolworths-corn-sweet-kernels"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/218926/woolworths-corn-sweet-kernels"
+  ],
+  "sku": "218926",
+  "updatedAt": "2022-11-23T21:55:28.589Z"
+}

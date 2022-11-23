@@ -1,0 +1,66 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "371kJ",
+      "carbohydrateContent": "1.6g",
+      "dietary_fibre": "4.14g",
+      "fatContent": "9.2g",
+      "name": "nutrition",
+      "proteinContent": "0.3g",
+      "saturatedFatContent": "1.0g",
+      "servingSize": "100 g",
+      "sodiumContent": "246mg",
+      "sugarContent": "0.2g"
+    }
+  ],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Woolworths"
+  },
+  "createdAt": "2022-11-23T12:04:07.768Z",
+  "description": "Woolworths Sicilian Olives Lemon & Thyme 180gGreen Scillian Olives marinated with lemon and thyme for a Zesty and Crisp flavour",
+  "gtin13": "9300633554712",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1200,
+    "mime": "image/jpeg",
+    "url": "https://cdn0.woolworths.media/content/wowproductimages/large/505675.jpg",
+    "width": 1200
+  },
+  "name": "Woolworths Sicilian Olives Lemon & Thyme 180G",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 0,
+    "lowPrice": 0,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/OutOfStock",
+        "availabilityStarts": "2022-11-23T12:04:07.767Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": "",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/505675/woolworths-sicilian-olives-lemon-thyme"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/505675/woolworths-sicilian-olives-lemon-thyme"
+  ],
+  "sku": "505675",
+  "updatedAt": "2022-11-23T12:04:07.767Z"
+}

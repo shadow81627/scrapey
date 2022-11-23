@@ -1,0 +1,52 @@
+{
+  "@type": "Product",
+  "additionalProperty": [],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Inspire"
+  },
+  "createdAt": "2022-11-23T22:33:31.215Z",
+  "description": "Please note: Please advise in your personal shopper notes your preferred colour when reviewing your order at checkout. Please note the colour delivered is subject to availability",
+  "gtin13": "9330921141638",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1200,
+    "mime": "image/jpeg",
+    "url": "https://cdn0.woolworths.media/content/wowproductimages/large/088350.jpg",
+    "width": 1200
+  },
+  "name": "Inspire Hug Mug Assorted Each",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 5,
+    "lowPrice": 5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-23T22:33:31.212Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 5,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/88350/inspire-hug-mug-assorted"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/88350/inspire-hug-mug-assorted"
+  ],
+  "sku": "88350",
+  "updatedAt": "2022-11-23T22:33:31.212Z"
+}

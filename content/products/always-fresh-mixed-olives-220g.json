@@ -1,0 +1,66 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "Approx.220kJ",
+      "carbohydrateContent": "Approx.1.4g",
+      "dietary_fibre": "0.46g",
+      "fatContent": "Approx.5g",
+      "name": "nutrition",
+      "proteinContent": "Approx.0.4g",
+      "saturatedFatContent": "Approx.0.6g",
+      "servingSize": "100 g",
+      "sodiumContent": "Approx.326mg",
+      "sugarContent": "Approx.0.3g"
+    }
+  ],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Always Fresh"
+  },
+  "createdAt": "2022-11-23T21:58:05.539Z",
+  "description": "Kalamata and stuffed green olives are perfectly paired with garlic and herbs for the finest mix of flavours.  Packed in Tragano, Greece.",
+  "gtin13": "9300602368364",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1200,
+    "mime": "image/jpeg",
+    "url": "https://cdn0.woolworths.media/content/wowproductimages/large/464655.jpg",
+    "width": 1200
+  },
+  "name": "Always Fresh Mixed Olives 220G",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 5,
+    "lowPrice": 5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-23T21:58:05.537Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 5,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/464655/always-fresh-mixed-olives"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/464655/always-fresh-mixed-olives"
+  ],
+  "sku": "464655",
+  "updatedAt": "2022-11-23T21:58:05.537Z"
+}

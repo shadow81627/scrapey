@@ -1,0 +1,58 @@
+{
+  "@type": "Product",
+  "additionalProperty": [],
+  "aggregateRating": {
+    "@context": "http://schema.org",
+    "@type": "AggregateRating",
+    "ratingCount": 6,
+    "ratingValue": 4.16666666666667
+  },
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Schick"
+  },
+  "createdAt": "2022-11-23T22:13:56.119Z",
+  "description": "Schick Xtreme 3 with Hawaiian Tropic scented handles!Featuring 3 high-quality blades that flex and pivot around the curves of your body. A comfort strip formulated with a touch of aloe and jojoba making it a luxuriously smooth shave in a conveniently disposable razor.",
+  "gtin13": "4891228305048",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1200,
+    "mime": "image/jpeg",
+    "url": "https://cdn0.woolworths.media/content/wowproductimages/large/039428.jpg",
+    "width": 1200
+  },
+  "name": "Schick Womens Xtreme 3 Hawaiian Tropic 8 Pack",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 0,
+    "lowPrice": 0,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/OutOfStock",
+        "availabilityStarts": "2022-11-23T22:13:56.117Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": "",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/39428/schick-womens-xtreme-3-hawaiian-tropic?"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/39428/schick-womens-xtreme-3-hawaiian-tropic?"
+  ],
+  "sku": "39428",
+  "updatedAt": "2022-11-23T22:13:56.118Z"
+}

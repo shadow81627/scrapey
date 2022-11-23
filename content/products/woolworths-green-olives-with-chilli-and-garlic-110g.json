@@ -1,0 +1,71 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "Approx. 185kJ",
+      "carbohydrateContent": "Approx. 2.2g",
+      "dietary_fibre": "Approx. 1g",
+      "fatContent": "Approx. 3.6g",
+      "name": "nutrition",
+      "proteinContent": "Approx. 0.3g",
+      "saturatedFatContent": "Approx. 0.6g",
+      "servingSize": "100 g",
+      "sodiumContent": "Approx. 501mg",
+      "sugarContent": "Approx. 0.1g"
+    }
+  ],
+  "aggregateRating": {
+    "@context": "http://schema.org",
+    "@type": "AggregateRating",
+    "ratingCount": 603,
+    "ratingValue": 4.33001658374793
+  },
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Woolworths"
+  },
+  "createdAt": "2022-11-23T12:02:18.361Z",
+  "gtin13": "9339687097678",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1200,
+    "mime": "image/jpeg",
+    "url": "https://cdn0.woolworths.media/content/wowproductimages/large/040136.jpg",
+    "width": 1200
+  },
+  "name": "Woolworths Green Olives With Chilli & Garlic 110G",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 4,
+    "lowPrice": 4,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-23T12:02:18.359Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 4,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/40136/woolworths-green-olives-with-chilli-garlic"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/40136/woolworths-green-olives-with-chilli-garlic"
+  ],
+  "sku": "40136",
+  "updatedAt": "2022-11-23T12:02:18.359Z"
+}

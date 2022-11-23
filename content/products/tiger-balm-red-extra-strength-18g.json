@@ -1,0 +1,52 @@
+{
+  "@type": "Product",
+  "additionalProperty": [],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Tiger Balm"
+  },
+  "createdAt": "2022-11-23T22:03:03.325Z",
+  "description": "Discover soothing relief with TIGER BALM. TIGER BALM is a natural blend of the finest quality essential oils that provides soothing temporary relief from muscular aches and pains, arthritis and backaches. Works where it hurts.",
+  "gtin13": "8888650404087",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1200,
+    "mime": "image/jpeg",
+    "url": "https://cdn0.woolworths.media/content/wowproductimages/large/004781.jpg",
+    "width": 1200
+  },
+  "name": "Tiger Balm Red Extra Strength 18G",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 8.3,
+    "lowPrice": 8.3,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-23T22:03:03.324Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 8.3,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/4781/tiger-balm-red-extra-strength"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/4781/tiger-balm-red-extra-strength"
+  ],
+  "sku": "4781",
+  "updatedAt": "2022-11-23T22:03:03.324Z"
+}

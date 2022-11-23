@@ -1,0 +1,52 @@
+{
+  "@type": "Product",
+  "additionalProperty": [],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Zak"
+  },
+  "createdAt": "2022-11-23T22:35:22.879Z",
+  "description": "Zak Frozen Fever Petal Shaped Bowl In SRT is a commitment to child safety and BPA free.",
+  "gtin13": "707226821364",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1200,
+    "mime": "image/jpeg",
+    "url": "https://cdn0.woolworths.media/content/wowproductimages/large/947408.jpg",
+    "width": 1200
+  },
+  "name": "Zak Melamine Bowl Frozen Fever Each",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 0,
+    "lowPrice": 0,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/OutOfStock",
+        "availabilityStarts": "2022-11-23T22:35:22.875Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": "",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/947408/zak-melamine-bowl-frozen-fever"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/947408/zak-melamine-bowl-frozen-fever"
+  ],
+  "sku": "947408",
+  "updatedAt": "2022-11-23T22:35:22.875Z"
+}

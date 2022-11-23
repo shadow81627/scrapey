@@ -1,0 +1,52 @@
+{
+  "@type": "Product",
+  "additionalProperty": [],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "MINT"
+  },
+  "createdAt": "2022-11-23T22:34:42.683Z",
+  "description": "Serve your meals in style with this Mint small bowl, the perfect addition to any table setting. Made from Stoneware with a beautiful reactive grey glaze. Microwave and dishwasher safe. Diameter 11.5cm.",
+  "gtin13": "9339687174751",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1200,
+    "mime": "image/jpeg",
+    "url": "https://cdn0.woolworths.media/content/wowproductimages/large/099034.jpg",
+    "width": 1200
+  },
+  "name": "Mint Glazed Small Bowl Grey Each",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3,
+    "lowPrice": 3,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-23T22:34:42.682Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 3,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/99034/mint-glazed-small-bowl-grey"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/99034/mint-glazed-small-bowl-grey"
+  ],
+  "sku": "99034",
+  "updatedAt": "2022-11-23T22:34:42.682Z"
+}

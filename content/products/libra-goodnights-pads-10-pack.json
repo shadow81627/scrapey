@@ -1,0 +1,52 @@
+{
+  "@type": "Product",
+  "additionalProperty": [],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Libra"
+  },
+  "createdAt": "2022-11-23T22:23:51.017Z",
+  "description": "We won't sleep till you do. So we've been working day and night to make sure you get some serious slumber. Our Extra Goodnights pads are cushiony soft and shaped for comfort, and they have our unique contoured wings to make sure your pad always stays put while you sleep. On top of that, their extra length gives you extra coverage. So all you have to worry about is counting sheep.Up to 12hrs protectionExtra thickExtra softBodyFit® shape for maximum comfort",
+  "gtin13": "9325344001690",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1200,
+    "mime": "image/jpeg",
+    "url": "https://cdn0.woolworths.media/content/wowproductimages/large/030721.jpg",
+    "width": 1200
+  },
+  "name": "Libra Goodnights Pads 10 Pack",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 5,
+    "lowPrice": 5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-23T22:23:51.016Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 5,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/30721/libra-goodnights-pads"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/30721/libra-goodnights-pads"
+  ],
+  "sku": "30721",
+  "updatedAt": "2022-11-23T22:23:51.016Z"
+}

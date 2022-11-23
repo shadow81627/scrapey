@@ -1,0 +1,58 @@
+{
+  "@type": "Product",
+  "additionalProperty": [],
+  "aggregateRating": {
+    "@context": "http://schema.org",
+    "@type": "AggregateRating",
+    "ratingCount": 9,
+    "ratingValue": 4.22222222222222
+  },
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Oral-B"
+  },
+  "createdAt": "2022-11-23T22:19:39.448Z",
+  "description": "Oral-B EssentialFloss Waxed Dental Floss removes plaque where your brush can't reach.Oral-B EssentialFlossBrushing alone can't get to all the hard-to-reach places where plaque builds up. But Oral-B EssentialFloss can. With its light wax coating and its shred-resistant texture, it slides easily between your teeth. It helps clean the tough-to-get plaque away. Used morning or evening when you brush, Oral-B EssentialFloss helps your gums and your teeth stay healthy.Helps keep gums and teeth stay healthy when used morning or evening when brushing.Shred-resistantLight wax coatingSlides easily between teeth",
+  "gtin13": "9300647000342",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1200,
+    "mime": "image/jpeg",
+    "url": "https://cdn0.woolworths.media/content/wowproductimages/large/042966.jpg",
+    "width": 1200
+  },
+  "name": "Oral-b Essential Waxed Dental Floss Mint 50M",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3.2,
+    "lowPrice": 3.2,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-23T22:19:39.443Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 3.2,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/42966/oral-b-essential-waxed-dental-floss-mint"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/42966/oral-b-essential-waxed-dental-floss-mint"
+  ],
+  "sku": "42966",
+  "updatedAt": "2022-11-23T22:19:39.443Z"
+}

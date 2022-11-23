@@ -1,0 +1,52 @@
+{
+  "@type": "Product",
+  "additionalProperty": [],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "MINT"
+  },
+  "createdAt": "2022-11-23T22:35:33.952Z",
+  "description": "Prepare and serve your food in style with this Mint bamboo chopping board. Perfect for chopping veggies, slicing meat, or serving appetisers to your guests. With a handle on the side for ease of moving and serving, creating delicious meals for your family or guests has never been easier.\n- Made with stylish bamboo.\n- Size: 30cm x 20cm",
+  "gtin13": "9339687064724",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1200,
+    "mime": "image/jpeg",
+    "url": "https://cdn0.woolworths.media/content/wowproductimages/large/807246.jpg",
+    "width": 1200
+  },
+  "name": "Mint Bamboo Chopboard 30x20cm Each",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 10,
+    "lowPrice": 10,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-23T22:35:33.951Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 10,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/807246/mint-bamboo-chopboard-30x20cm"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/807246/mint-bamboo-chopboard-30x20cm"
+  ],
+  "sku": "807246",
+  "updatedAt": "2022-11-23T22:35:33.951Z"
+}

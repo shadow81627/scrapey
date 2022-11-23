@@ -1,0 +1,58 @@
+{
+  "@type": "Product",
+  "additionalProperty": [],
+  "aggregateRating": {
+    "@context": "http://schema.org",
+    "@type": "AggregateRating",
+    "ratingCount": 12,
+    "ratingValue": 4.08333333333333
+  },
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Salvital"
+  },
+  "createdAt": "2022-11-23T22:23:44.901Z",
+  "description": "The Revitaliser.Salvital makes a great tasting, thirst quenching, saline drink - its effervescent light lemon taste will refresh and delight.Salvital refreshes in the morning: Taken first thing in the morning, Salvital refreshes you and leaves a clean tangy taste in your mouth. Salvital during the day: For any time during the day when you need a refreshing, truly thirst quenching drink. Great for after play sport.",
+  "gtin13": "9300623015681",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1200,
+    "mime": "image/jpeg",
+    "url": "https://cdn0.woolworths.media/content/wowproductimages/large/030847.jpg",
+    "width": 1200
+  },
+  "name": "Salvital Salts Saline 375G",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 7.5,
+    "lowPrice": 7.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-23T22:23:44.899Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 7.5,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/30847/salvital-salts-saline"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/30847/salvital-salts-saline"
+  ],
+  "sku": "30847",
+  "updatedAt": "2022-11-23T22:23:44.899Z"
+}

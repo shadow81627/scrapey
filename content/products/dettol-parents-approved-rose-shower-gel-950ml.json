@@ -1,0 +1,52 @@
+{
+  "@type": "Product",
+  "additionalProperty": [],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Dettol"
+  },
+  "createdAt": "2022-11-23T22:14:32.482Z",
+  "description": "Dettol Free From Shower Gel helps protect against odour causing germs. Free from harsh chemical resides, parabens, dyes and synthetic fragrancesDettol Free From Shower Gel-          Free from harsh chemical residues (No harsh residues as shown by dermatological testing).-          100% Natural Fragrance-          Kind on skin every dayFree from harsh chemical residues*, dyes, parabens and synthetic fragrancesHelps protect odour-causing germs100% natural rose fragranceKind on skin everydayDermatologically tested",
+  "gtin13": "9300631845263",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1200,
+    "mime": "image/jpeg",
+    "url": "https://cdn0.woolworths.media/content/wowproductimages/large/039918.jpg",
+    "width": 1200
+  },
+  "name": "Dettol Parents Approved Rose Shower Gel 950mL",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 0,
+    "lowPrice": 0,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/OutOfStock",
+        "availabilityStarts": "2022-11-23T22:14:32.480Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": "",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/39918/dettol-parents-approved-rose-shower-gel?"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/39918/dettol-parents-approved-rose-shower-gel?"
+  ],
+  "sku": "39918",
+  "updatedAt": "2022-11-23T22:14:32.480Z"
+}

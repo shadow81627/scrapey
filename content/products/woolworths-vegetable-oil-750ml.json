@@ -1,0 +1,72 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "Approx. 508kJ",
+      "carbohydrateContent": "<0.1g",
+      "dietary_fibre": "-",
+      "fatContent": "Approx. 13.7g",
+      "name": "nutrition",
+      "proteinContent": "<0.1g",
+      "saturatedFatContent": "Approx. 1g",
+      "servingSize": "100 g",
+      "sodiumContent": "<5mg",
+      "sugarContent": "<0.1g"
+    }
+  ],
+  "aggregateRating": {
+    "@context": "http://schema.org",
+    "@type": "AggregateRating",
+    "ratingCount": 335,
+    "ratingValue": 4.56716417910448
+  },
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Woolworths"
+  },
+  "createdAt": "2022-11-23T21:55:53.697Z",
+  "description": "- No artificial preservatives- No artificial colours or flavours- Natural source of monounsaturated fatIts lightness in flavour makes it one of the most versatile oils to use in all styles of cooking.",
+  "gtin13": "9300633391645",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1200,
+    "mime": "image/jpeg",
+    "url": "https://cdn0.woolworths.media/content/wowproductimages/large/750738.jpg",
+    "width": 1200
+  },
+  "name": "Woolworths Vegetable Oil 750mL",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3.95,
+    "lowPrice": 3.95,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-23T21:55:53.692Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 3.95,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/750738/woolworths-vegetable-oil"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/750738/woolworths-vegetable-oil"
+  ],
+  "sku": "750738",
+  "updatedAt": "2022-11-23T21:55:53.692Z"
+}

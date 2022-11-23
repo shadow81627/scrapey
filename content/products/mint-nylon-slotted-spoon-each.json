@@ -1,0 +1,52 @@
+{
+  "@type": "Product",
+  "additionalProperty": [],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "MINT"
+  },
+  "createdAt": "2022-11-23T22:33:26.938Z",
+  "description": "Strain your food properly and easily with this Mint nylon slotted spoon. Great for straining or spooning vegetables and pasta from hot water. The soft grip handle and nylon function head make it easy to use. It's also dishwasher safe and safe to use on non-stick cookware.",
+  "gtin13": "9339687064441",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1200,
+    "mime": "image/jpeg",
+    "url": "https://cdn0.woolworths.media/content/wowproductimages/large/807198.jpg",
+    "width": 1200
+  },
+  "name": "Mint Nylon Slotted Spoon Each",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 4,
+    "lowPrice": 4,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-23T22:33:26.936Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 4,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/807198/mint-nylon-slotted-spoon"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/807198/mint-nylon-slotted-spoon"
+  ],
+  "sku": "807198",
+  "updatedAt": "2022-11-23T22:33:26.936Z"
+}

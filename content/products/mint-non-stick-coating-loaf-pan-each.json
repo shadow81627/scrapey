@@ -1,0 +1,52 @@
+{
+  "@type": "Product",
+  "additionalProperty": [],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "MINT"
+  },
+  "createdAt": "2022-11-23T22:26:26.000Z",
+  "description": "Show off your baking skills with this Mint loaf pan, perfect for cakes and goodies to impress your friends and family. Made from heavy duty gauge carbon steel with a non-stick coating, the wide lip makes it easy to handle.- Overall Size: 26.5cm x 13.5cm x 6.5cm (height)- Textured base- Dishwasher safePlease note: Please advise in your personal shopper notes your preferred colour when reviewing your order at checkout. Please note the colour delivered is subject to availability.",
+  "gtin13": "9339687065486",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1200,
+    "mime": "image/jpeg",
+    "url": "https://cdn0.woolworths.media/content/wowproductimages/large/807317.jpg",
+    "width": 1200
+  },
+  "name": "Mint Non-stick Coating Loaf Pan Each",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 6,
+    "lowPrice": 6,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-23T22:26:25.999Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 6,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/807317/mint-non-stick-coating-loaf-pan"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/807317/mint-non-stick-coating-loaf-pan"
+  ],
+  "sku": "807317",
+  "updatedAt": "2022-11-23T22:26:25.999Z"
+}

@@ -1,0 +1,52 @@
+{
+  "@type": "Product",
+  "additionalProperty": [],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Decor"
+  },
+  "createdAt": "2022-11-23T22:28:00.342Z",
+  "description": "Perfect for all-year-round indoor and outdoor alfresco dinning. The Decor Bamboo range is made with renewable Bamboo fibre which is sourced from sustainably managed sources certified by FSC, and comprises more than 50% of the product with the remainder being made up of resin binders, corn starch and colorants.BPA freeFood SafeDishwasher safe",
+  "gtin13": "9300621018691",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1200,
+    "mime": "image/jpeg",
+    "url": "https://cdn0.woolworths.media/content/wowproductimages/large/611713.jpg",
+    "width": 1200
+  },
+  "name": "Decor Bamboo Dinner Plate Teal Each",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 0,
+    "lowPrice": 0,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/OutOfStock",
+        "availabilityStarts": "2022-11-23T22:28:00.341Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": "",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/611713/decor-bamboo-dinner-plate-teal"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/611713/decor-bamboo-dinner-plate-teal"
+  ],
+  "sku": "611713",
+  "updatedAt": "2022-11-23T22:28:00.341Z"
+}

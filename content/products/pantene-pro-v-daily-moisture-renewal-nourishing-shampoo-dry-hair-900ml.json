@@ -1,0 +1,58 @@
+{
+  "@type": "Product",
+  "additionalProperty": [],
+  "aggregateRating": {
+    "@context": "http://schema.org",
+    "@type": "AggregateRating",
+    "ratingCount": 13,
+    "ratingValue": 4.69230769230769
+  },
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Pantene"
+  },
+  "createdAt": "2022-11-23T22:13:10.762Z",
+  "description": "Pantene Pro-V Daily Moisture Renewal Shampoo: Moisturising Shampoo for Dry Hair 900mlPantene Pro-V Daily Moisture Renewal Shampoohas 0% silicones*, 0% grease^ to help give you lightweight smooth hair. It helps to provide deep hydration from root to tip. For dry hair; Infused with  Pro-V Formula, it gently cleanses to strengthen hair from the inside-out.Recommended for : Dry, parched strandsGives healthy looking shine & smoothness to hair0% silicones*, 0% grease**, just lightweight smooth hairVitamin level tested by Swiss Vitamin Institute*Selected variants**Grease due to silicone",
+  "gtin13": "4902430637299",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1200,
+    "mime": "image/jpeg",
+    "url": "https://cdn0.woolworths.media/content/wowproductimages/large/842806.jpg",
+    "width": 1200
+  },
+  "name": "Pantene Pro-v Daily Moisture Renewal Nourishing Shampoo Dry Hair 900ml",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 19,
+    "lowPrice": 19,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-23T22:13:10.760Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 19,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/842806/pantene-pro-v-daily-moisture-renewal-shampoo?"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/842806/pantene-pro-v-daily-moisture-renewal-shampoo?"
+  ],
+  "sku": "842806",
+  "updatedAt": "2022-11-23T22:13:10.760Z"
+}

@@ -1,0 +1,58 @@
+{
+  "@type": "Product",
+  "additionalProperty": [],
+  "aggregateRating": {
+    "@context": "http://schema.org",
+    "@type": "AggregateRating",
+    "ratingCount": 8,
+    "ratingValue": 4.75
+  },
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Schwarzkopf"
+  },
+  "createdAt": "2022-11-23T22:14:12.073Z",
+  "description": "Schwarzkopf Taft Styling Mousse Extra Strong Hold offers long-lasting hold for demanding hairstyles. Taft Demanding Styles - Extra Strong Hold:- For extra strong, long-lasting hold that provides lift and support.- Contains anti-static properties helping to control frizz. - 24h hold without stickiness and easy to brush out. - Does not weigh hair down and protects it against drying out. Perfect Hold - 24h Long:Schwarzkopf Taft provides perfect, long-lasting hold and styling protection for your hair regardless of the weather or activity.",
+  "gtin13": "9310714323021",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1200,
+    "mime": "image/jpeg",
+    "url": "https://cdn0.woolworths.media/content/wowproductimages/large/038119.jpg",
+    "width": 1200
+  },
+  "name": "Schwarzkopf Taft Mousse Maximum Hold 200G",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 0,
+    "lowPrice": 0,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/OutOfStock",
+        "availabilityStarts": "2022-11-23T22:14:12.070Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": "",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/38119/schwarzkopf-taft-mousse-maximum-hold?"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/38119/schwarzkopf-taft-mousse-maximum-hold?"
+  ],
+  "sku": "38119",
+  "updatedAt": "2022-11-23T22:14:12.070Z"
+}

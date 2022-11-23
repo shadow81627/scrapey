@@ -1,0 +1,52 @@
+{
+  "@type": "Product",
+  "additionalProperty": [],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "MINT"
+  },
+  "createdAt": "2022-11-23T22:33:56.873Z",
+  "description": "Make sure your meal is perfectly drained with this Mint colander. Great for draining pasta, vegetables and other foods. With a foot base for stability and looped handles for easy transfer, you'll serve the freshest food every time.\n- Made from mirror-finish stainless steel.",
+  "gtin13": "9339687064762",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1200,
+    "mime": "image/jpeg",
+    "url": "https://cdn0.woolworths.media/content/wowproductimages/large/807250.jpg",
+    "width": 1200
+  },
+  "name": "Mint Stainless Steel Colander Each",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 10,
+    "lowPrice": 10,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-23T22:33:56.872Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 10,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/807250/mint-stainless-steel-colander"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/807250/mint-stainless-steel-colander"
+  ],
+  "sku": "807250",
+  "updatedAt": "2022-11-23T22:33:56.872Z"
+}

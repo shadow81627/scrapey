@@ -1,0 +1,52 @@
+{
+  "@type": "Product",
+  "additionalProperty": [],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Dencorub"
+  },
+  "createdAt": "2022-11-23T22:14:21.588Z",
+  "description": "Dencorub Extra Strength Heat Gel’s concentrated hot formula provides fast, temporary pain relief from sprains, strains, painful joints, muscular aches and pains.For those who want to rub a little extra heat into their muscles, try Dencorub* Extra Strength Heat Gel.Dencorub Extra Strength Heat Gel contains 26% methyl salicylate, which makes it a concentrated hot formula that gives hours of relief from pain resulting from sprains, strains, painful joints, muscular aches and pains, as well as Arthritis, Rheumatism, Lumbago and Fibrositis. The clear gel formulation allows for faster penetration and relief.",
+  "gtin13": "9310320016102",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1200,
+    "mime": "image/jpeg",
+    "url": "https://cdn0.woolworths.media/content/wowproductimages/large/039817.jpg",
+    "width": 1200
+  },
+  "name": "Dencorub Gels Extra Strength Heat 100G",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 6,
+    "lowPrice": 6,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-23T22:14:21.587Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 6,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/39817/dencorub-gels-extra-strength-heat?"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/39817/dencorub-gels-extra-strength-heat?"
+  ],
+  "sku": "39817",
+  "updatedAt": "2022-11-23T22:14:21.587Z"
+}

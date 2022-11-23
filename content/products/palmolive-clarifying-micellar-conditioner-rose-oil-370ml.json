@@ -1,0 +1,58 @@
+{
+  "@type": "Product",
+  "additionalProperty": [],
+  "aggregateRating": {
+    "@context": "http://schema.org",
+    "@type": "AggregateRating",
+    "ratingCount": 2,
+    "ratingValue": 4.5
+  },
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Palmolive"
+  },
+  "createdAt": "2022-11-23T22:19:54.693Z",
+  "description": "Palmolive Clarifying Micellar Hair Conditioner is pH balanced for daily use and infused with Natural Rose Oil. Contains 0% silicones.Made with gentle yet effective cleansing micellar water, Palmolive Micellar Shampoo & Conditioner act like a magnet to capture and lift away impurities without stripping hair. Infused with natural Rose Oil, this aromatic and lightweight conditioner works to gently moisturise hair, without leaving build-up. pH balanced for daily use and contains 0% silicones.Hair is left feeling beautifully hydrated, soft and healthy.Palmolive Clarifying Micellar Hair Conditioner is lightweight and contains 0% siliconesMicellar ingredient lifts away impurities without stripping hair's natural moisture.Gently moisturises hair and doesn't leave build-up.Hair is left feeling beautifully hydrated, soft and healthy.pH balanced and infused with Natural Rose Oil.",
+  "gtin13": "8850006931967",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1200,
+    "mime": "image/jpeg",
+    "url": "https://cdn0.woolworths.media/content/wowproductimages/large/043748.jpg",
+    "width": 1200
+  },
+  "name": "Palmolive Clarifying Micellar Conditioner Rose Oil 370mL",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 0,
+    "lowPrice": 0,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/OutOfStock",
+        "availabilityStarts": "2022-11-23T22:19:54.692Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": "",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/43748/palmolive-clarifying-micellar-conditioner-rose-oil"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/43748/palmolive-clarifying-micellar-conditioner-rose-oil"
+  ],
+  "sku": "43748",
+  "updatedAt": "2022-11-23T22:19:54.692Z"
+}

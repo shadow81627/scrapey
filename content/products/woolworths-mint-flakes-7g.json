@@ -1,18 +1,32 @@
 {
   "@type": "Product",
-  "additionalProperty": [],
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "-",
+      "carbohydrateContent": "-",
+      "dietary_fibre": "-",
+      "fatContent": "-",
+      "name": "nutrition",
+      "proteinContent": "-",
+      "saturatedFatContent": "-",
+      "servingSize": "100 g",
+      "sodiumContent": "-",
+      "sugarContent": "-"
+    }
+  ],
   "aggregateRating": {
     "@context": "http://schema.org",
     "@type": "AggregateRating",
-    "ratingCount": 43,
-    "ratingValue": 4.4
+    "ratingCount": 465,
+    "ratingValue": 4.20215053763441
   },
   "brand": {
     "@context": "http://schema.org",
     "@type": "Organization",
-    "name": "woolworths"
+    "name": "Woolworths"
   },
-  "createdAt": "2020-11-22T06:40:32.724Z",
+  "createdAt": "2022-11-23T12:04:55.931Z",
   "description": "Woolworths Select Mint Flakes.",
   "gtin13": "9300633928360",
   "image": {
@@ -22,7 +36,7 @@
     "url": "https://cdn0.woolworths.media/content/wowproductimages/large/251082.jpg",
     "width": 1200
   },
-  "name": "Woolworths Mint Flakes 7g",
+  "name": "Woolworths Mint Flakes 7G",
   "offers": {
     "@type": "AggregateOffer",
     "highPrice": 1.55,
@@ -33,7 +47,7 @@
         "@context": "http://schema.org",
         "@type": "Offer",
         "availability": "http://schema.org/InStock",
-        "availabilityStarts": "2020-11-22T06:40:32.719Z",
+        "availabilityStarts": "2022-11-23T12:04:55.930Z",
         "itemCondition": "http://schema.org/NewCondition",
         "offeredBy": "Woolworths",
         "potentialAction": {
@@ -46,13 +60,13 @@
           "@type": "Organization",
           "name": "Woolworths"
         },
-        "url": "https://woolworths.com.au/shop/productdetails/251082/woolworths-mint-flakes"
+        "url": "https://woolworths.com.au/shop/productdetails/251082/woolworths-mint-flakesreviewPageNumber=5"
       }
     ]
   },
   "sameAs": [
-    "https://woolworths.com.au/shop/productdetails/251082/woolworths-mint-flakes"
+    "https://woolworths.com.au/shop/productdetails/251082/woolworths-mint-flakesreviewPageNumber=5"
   ],
   "sku": "251082",
-  "updatedAt": "2020-11-22T06:40:32.719Z"
+  "updatedAt": "2022-11-23T12:04:55.930Z"
 }

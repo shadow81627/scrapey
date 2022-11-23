@@ -1,0 +1,58 @@
+{
+  "@type": "Product",
+  "additionalProperty": [],
+  "aggregateRating": {
+    "@context": "http://schema.org",
+    "@type": "AggregateRating",
+    "ratingCount": 514,
+    "ratingValue": 4.55447470817121
+  },
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Help@Hand"
+  },
+  "createdAt": "2022-11-23T22:00:35.770Z",
+  "description": "Made from 100% pure cotton our Makeup pads are soft and gentle on skin, perfect for your every day cosmetic needs. Strong, absorbent and guaranteed not to leave any messy fibres behind.",
+  "gtin13": "9339687020133",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1200,
+    "mime": "image/jpeg",
+    "url": "https://cdn0.woolworths.media/content/wowproductimages/large/791122.jpg",
+    "width": 1200
+  },
+  "name": "Help@hand Make Up Pads 80 Pack",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 1.5,
+    "lowPrice": 1.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-23T22:00:35.767Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 1.5,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/791122/help-hand-make-up-pads"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/791122/help-hand-make-up-pads"
+  ],
+  "sku": "791122",
+  "updatedAt": "2022-11-23T22:00:35.767Z"
+}

@@ -1,0 +1,71 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "Approx.153kJ",
+      "carbohydrateContent": "<1g",
+      "dietary_fibre": "-",
+      "fatContent": "Approx.4.1g",
+      "name": "nutrition",
+      "proteinContent": "<1g",
+      "saturatedFatContent": "Approx.2.7g",
+      "servingSize": "100 g",
+      "sodiumContent": "Approx.28mg",
+      "sugarContent": "<1g"
+    }
+  ],
+  "aggregateRating": {
+    "@context": "http://schema.org",
+    "@type": "AggregateRating",
+    "ratingCount": 696,
+    "ratingValue": 4.63936781609195
+  },
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Essentials"
+  },
+  "createdAt": "2022-11-23T12:05:14.188Z",
+  "gtin13": "9300633486495",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1200,
+    "mime": "image/jpeg",
+    "url": "https://cdn0.woolworths.media/content/wowproductimages/large/048649.jpg",
+    "width": 1200
+  },
+  "name": "Essentials Salted Butter 250G",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3.7,
+    "lowPrice": 3.7,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-23T12:05:14.181Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 3.7,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/48649/essentials-salted-butter"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/48649/essentials-salted-butter"
+  ],
+  "sku": "48649",
+  "updatedAt": "2022-11-23T12:05:14.181Z"
+}
