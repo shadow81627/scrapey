@@ -97,10 +97,10 @@ export default async function crawl(
       );
       await connection.manager.save(dbCanonical);
     } catch (e) {
-      console.log(e.message);
+      console.error(e.message);
     }
   } catch (error) {
-    console.log('Error', error);
+    console.error('Error', error);
     const dbUrl =
       (await connection.manager.findOne(Url, {
         where: [{ id: Url.generateId(Url.urlToParts(url)) }],
