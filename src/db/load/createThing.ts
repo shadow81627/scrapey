@@ -1,9 +1,9 @@
 import 'reflect-metadata';
-import { getConnection } from 'typeorm';
 import slugify from 'slugify';
 import _ from 'lodash';
 import { Thing } from '../entity/Thing';
 import ThingParmas from './ThingParams';
+import getOrCreateConnection from '../../utils/getOrCreateConnection';
 
 export default async function createThing({
   name,
@@ -13,7 +13,7 @@ export default async function createThing({
   dated,
   additionalProperty,
 }: ThingParmas): Promise<Thing> {
-  const connection = getConnection();
+  const connection = await getOrCreateConnection();
   const slug = `${slugify(name, {
     lower: true,
     strict: true,
@@ -21,7 +21,7 @@ export default async function createThing({
   const thing =
     (await connection.manager.findOne(Thing, {
       where: [{ slug }],
-      relations: ['images', 'urls'],
+      relations: { images: true, urls: true },
     })) ?? connection.manager.create(Thing, { dated });
   connection.manager.merge(Thing, thing, {
     type,
