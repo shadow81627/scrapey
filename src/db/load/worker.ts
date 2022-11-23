@@ -181,7 +181,7 @@ async function loadDB(filename: string) {
         if (content.nutrition) {
           const nutrition =
             (await connection.manager.findOne(NutritionInformation, {
-              where: [{ thing }],
+              where: [{ thing: { slug: thing.slug } }],
             })) ??
             connection.manager.create(NutritionInformation, {
               thing,
@@ -196,7 +196,7 @@ async function loadDB(filename: string) {
         }
         const recipe =
           (await connection.manager.findOne(Recipe, {
-            where: [{ thing }],
+            where: [{ thing: { slug: thing.slug } }],
           })) ??
           connection.manager.create(Recipe, {
             thing,
