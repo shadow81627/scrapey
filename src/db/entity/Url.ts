@@ -21,6 +21,10 @@ interface UrlParts {
   search?: string;
 }
 
+const disallowedParams = [
+  'adobe_mc',
+]
+
 @Entity()
 export class Url {
   @Column({
@@ -86,7 +90,9 @@ export class Url {
   }
 
   public static getUrl({ hostname, pathname, search }: UrlParts): string {
-    return `https://${hostname}${pathname ?? ''}${search ?? ''}`;
+    const filteredSearch = new URLSearchParams(search ?? '')
+    disallowedParams.forEach(param => filteredSearch.delete(param))
+    return `https://${hostname}${pathname ?? ''}${filteredSearch}`;
   }
 
   public static urlToParts(url: string): UrlParts {
@@ -94,7 +100,7 @@ export class Url {
       normalizeUrl(url, {
         forceHttps: true,
         stripHash: true,
-        removeQueryParameters: ['reviewPageNumber'],
+        removeQueryParameters: ['reviewPageNumber', 'adobe_mc'],
       }),
     );
     return { hostname, pathname, search };
