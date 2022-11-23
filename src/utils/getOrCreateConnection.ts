@@ -1,8 +1,6 @@
-import { getConnection, createConnection, Connection } from 'typeorm';
-export default async function getOrCreateConnection(): Promise<Connection> {
-  try {
-    return getConnection();
-  } catch {
-    return await createConnection();
-  }
+import { DataSource } from 'typeorm';
+import AppDataSource from '../db/data-source'
+export default function getOrCreateConnection(): DataSource {
+  AppDataSource.isInitialized
+  return AppDataSource;
 }
