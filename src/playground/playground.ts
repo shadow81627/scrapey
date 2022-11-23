@@ -1,10 +1,27 @@
 import { Subject } from 'rxjs';
 import { Pool, spawn, Worker } from 'threads';
 import { QueuedTask } from 'threads/dist/master/pool-types';
-import { In, IsNull, Raw } from 'typeorm';
+import { In, IsNull, Like, Raw } from 'typeorm';
 import AppDataSource from '../db/data-source';
 import { Url } from '../db/entity/Url';
 import os from 'os';
+
+async function filterSearch() {
+  const disallowedParams = [
+    'adobe_mc',
+  ]
+  const connection = AppDataSource;
+  const [links, total] = await connection.manager.findAndCount(Url, {
+    where: [{ search: Like('%adobe_mc%') }],
+  });
+  console.log('total', total);
+  for (const link of links) {
+    const filteredSearch = new URLSearchParams(link.search ?? '')
+    disallowedParams.forEach(param => filteredSearch.delete(param))
+    link.search = filteredSearch.toString();
+  }
+  // await connection.manager.save(links)
+}
 
 async function deleteDuplicateUrls() {
   const disallowedHosts = [
@@ -12,6 +29,8 @@ async function deleteDuplicateUrls() {
     'facebook.com',
     'pinterest.com',
     'woolworthsrewards.com.au',
+    'mobile.woolworths.com.au',
+    'woolworthsatwork.com.au',
   ];
   const connection = AppDataSource;
   const links = await connection.manager.find(Url, {
@@ -102,8 +121,9 @@ async function taskQueueTest() {
 
 (async () => {
   await AppDataSource.initialize();
-  await taskQueueTest();
+  // await taskQueueTest();
   // await testRxjs();
-  // await deleteDuplicateUrls();
+  await deleteDuplicateUrls();
+  await filterSearch();
   await AppDataSource.destroy();
 })();
