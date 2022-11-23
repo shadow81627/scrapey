@@ -1,13 +1,13 @@
 import cheerio from 'cheerio';
 import getHtml from '../utils/getHtml';
-import { createConnection, getConnection, In, IsNull, Raw } from 'typeorm';
 import { Url } from '../db/entity/Url';
 import _ from 'lodash';
 import { processHtml } from '../scrape/processHtml';
 import { processLinkData } from '../scrape/processLinkData';
 import { CrawlIssue } from '../db/entity/CrawlIssue';
 import isValidUrl from '../utils/isValidUrl';
-import getNextCrawlUrl from '../utils/getNextCrawlUrl';
+import getOrCreateConnection from '../utils/getOrCreateConnection';
+import { expose } from 'threads/worker';
 
 const disallowedHosts = [
   'twitter.com',
@@ -15,13 +15,9 @@ const disallowedHosts = [
   'pinterest.com',
   'woolworthsrewards.com.au',
 ];
-let iteration = 0;
-
-export default async function crawl(url: string) {
-  iteration++;
-  console.log(iteration, url);
+export default async function crawl(url: string): Promise<boolean> {
   const hostname = new URL(url).hostname;
-  const connection = getConnection();
+  const connection = await getOrCreateConnection();
   try {
     // fetch browser rendered html
     const html = await getHtml({ url });
@@ -46,7 +42,7 @@ export default async function crawl(url: string) {
     const dbCanonical =
       (await connection.manager.findOne(Url, {
         where: [{ id: Url.generateId(Url.urlToParts(canonical)) }],
-        relations: ['urls'],
+        relations: { urls: true },
       })) ??
       (await connection.manager.save(new Url(Url.urlToParts(canonical))));
     await connection.manager.save(
@@ -110,10 +106,7 @@ export default async function crawl(url: string) {
     await connection.manager.save(dbUrl);
     await connection.manager.save(issue);
   }
-
-  const link = await getNextCrawlUrl();
-
-  if (link) {
-    await crawl(link);
-  }
+  return true;
 }
+
+expose(crawl);
