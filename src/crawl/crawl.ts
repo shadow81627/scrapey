@@ -9,6 +9,7 @@ import isValidUrl from '../utils/isValidUrl';
 import getOrCreateConnection from '../utils/getOrCreateConnection';
 import { expose } from 'threads/worker';
 import AppDataSource from '../db/data-source';
+import parseHrtimeToSeconds from '../utils/parseHrtimeToSeconds';
 
 const disallowedHosts = [
   'twitter.com',
@@ -16,7 +17,10 @@ const disallowedHosts = [
   'pinterest.com',
   'woolworthsrewards.com.au',
 ];
-export default async function crawl(url: string): Promise<void> {
+export default async function crawl(
+  url: string,
+): Promise<{ duration: number }> {
+  const startTime = process.hrtime();
   const hostname = new URL(url).hostname;
   if (!AppDataSource.isInitialized) {
     AppDataSource.initialize();
@@ -105,9 +109,12 @@ export default async function crawl(url: string): Promise<void> {
     issue.name = error.name;
     issue.description = error.message;
     issue.url = dbUrl;
+    dbUrl.duration = Number(parseHrtimeToSeconds(process.hrtime(startTime)));
     await connection.manager.save(dbUrl);
     await connection.manager.save(issue);
   }
+  const duration = Number(parseHrtimeToSeconds(process.hrtime(startTime)));
+  return { duration };
 }
 
 expose(crawl);
