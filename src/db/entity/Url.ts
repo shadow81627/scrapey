@@ -54,7 +54,7 @@ export class Url {
 
   @ManyToOne(() => Url, { nullable: true, onDelete: 'SET NULL' })
   @JoinColumn()
-  canonical?: Relation<Url>;
+  canonical?: Relation<Url> | null;
 
   // all the urls on this page
   @ManyToMany(() => Url, { nullable: true, cascade: true })
