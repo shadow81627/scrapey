@@ -1,51 +1,61 @@
 {
   "@type": "Recipe",
+  "author": {
+    "@type": "Person",
+    "name": "Produced for Woolworths"
+  },
   "cookTime": "PT325M",
   "createdAt": "2022-11-22T09:55:22.260Z",
   "datePublished": "2022-10-17",
   "description": "This slow cooker osso bucco is fall apart tender and flavour packed, a perfect Italian feast.",
-  "image": "https://foodhub.scene7.com/is/image/woolworthsltdprod/slow-cooker-osso-bucco?wid=4416&hei=4416&fmt=png-alpha",
-  "keywords": "Slow Cooker Osso Bucco",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1300,
+    "mime": "image/jpeg",
+    "url": "https://foodhub.scene7.com/is/image/woolworthsltdprod/slow-cooker-osso-bucco:Square-1300x1300",
+    "width": 1300
+  },
+  "keywords": "Osso bucco,Tomato,Veal,Slow cooker",
   "name": "Slow Cooker Osso Bucco Recipe | Woolworths",
   "prepTime": "PT15M",
-  "recipeCategory": "mains",
-  "recipeCuisine": "european",
+  "recipeCategory": "Lunch,Dinner",
+  "recipeCuisine": "Italian",
   "recipeId": "RGWW339420",
   "recipeIngredient": [
-    "6 veal shin",
+    "6 veal shin, bone and marrow in",
     "2 tbs plain flour",
-    "50 g butter",
+    "50g butter",
     "3 tbs olive oil",
-    "1 onion",
-    "1 carrot",
-    "2 celery sticks",
+    "1 onion, peeled and sliced",
+    "1 carrot, peeled and diced",
+    "2 celery sticks, diced",
     "0.8 cup red wine",
-    "0.5 cup beef stock",
-    "800 g chopped tomatoes"
+    "0.5 cup beef stock, made with 1 stock cube",
+    "800g chopped tomatoes"
   ],
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Tip the mix into the slow cooker and cook on low for 56 hours until the veal is tender."
+      "HowToTip": {},
+      "text": "Dust each veal shin with flour. Heat the butter and oil in a large, deep pan until sizzling. Working in batches, seal the veal shins for 3 minutes on each side. Set aside on a plate."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Tip the mix into the slow cooker and cook on low for 56 hours until the veal is tender."
+      "HowToTip": {},
+      "text": "Tip in the onions, carrots and celery and cook for 6-8 minutes until softened. Pour in the wine and cook for 2 minutes until reduced. Add the veal back to the pan, pour over the stock and chopped tomatoes, cover and bring to the boil."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Tip the mix into the slow cooker and cook on low for 56 hours until the veal is tender."
+      "HowToTip": {},
+      "text": "Tip the mix into the slow cooker and cook on low for 5-6 hours until the veal is tender."
     }
   ],
   "recipeNameId": "slow-cooker-osso-bucco",
   "recipeYield": "4",
   "sameAs": [
-    "https://woolworths.com.au/shop/find-recipes/osso-bucco-beef"
+    "https://woolworths.com.au/shop/recipes/slow-cooker-osso-bucco"
   ],
   "totalTime": "PT340M",
-  "updatedAt": "2022-11-22T09:55:22.260Z",
+  "updatedAt": "2022-11-24T11:07:23.365Z",
   "url": "https://www.woolworths.com.au/shop/recipes/slow-cooker-osso-bucco"
 }

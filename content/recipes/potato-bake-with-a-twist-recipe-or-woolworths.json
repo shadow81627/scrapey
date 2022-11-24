@@ -1,15 +1,25 @@
 {
   "@type": "Recipe",
+  "author": {
+    "@type": "Person",
+    "name": "Customer - kirra"
+  },
   "cookTime": "PT30M",
   "createdAt": "2022-11-22T23:47:24.108Z",
-  "datePublished": "2021-11-03",
+  "datePublished": "2022-09-26",
   "description": "Every Aussie has their own take on a potato bake. My favourite is a mix of potato and sweet potato, with cream cheese, onion, bacon and yummy cheese.",
-  "image": "https://foodhub.scene7.com/is/image/woolworthsltdprod/bdw6jgttea5fsyt0rgyk?wid=2965&hei=2583&fmt=png-alpha",
-  "keywords": "Potato Bake With A Twist",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1300,
+    "mime": "image/jpeg",
+    "url": "https://foodhub.scene7.com/is/image/woolworthsltdprod/bdw6jgttea5fsyt0rgyk:Square-1300x1300",
+    "width": 1300
+  },
+  "keywords": "Potato bake,Potato",
   "name": "Potato Bake With A Twist Recipe | Woolworths",
   "prepTime": "PT30M",
-  "recipeCategory": "side-dishes",
-  "recipeCuisine": "australian",
+  "recipeCategory": "Side dishes,Lunch,Dinner",
+  "recipeCuisine": "Australian",
   "recipeId": "a0K2y0000012aryEAA",
   "recipeIngredient": [
     "6 medium potatoes",
@@ -19,9 +29,9 @@
     "1 pack french onion soup",
     "1 cup tasty cheese",
     "1 medium brown onion",
-    "125 g cream cheese",
-    "400 g bacon",
-    "100 g butter",
+    "125g cream cheese",
+    "400g bacon",
+    "100g butter",
     "1 tbs pepper",
     "pinch salt",
     "1 tbs olive oil"
@@ -29,56 +39,56 @@
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Preheat oven to 180 C fan forced. Grease your baking dish with butter or cooking spray, approx 30cm long."
+      "HowToTip": {},
+      "text": "Dice your brown onion.Cut the bacon rashes into inch long chunks. In a fry pan add oil and onion and cook on medium low heat until softened. Add the bacon and continue cooking until onion has caramelised and bacon has some colour."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Preheat oven to 180 C fan forced. Grease your baking dish with butter or cooking spray, approx 30cm long."
+      "HowToTip": {},
+      "text": "Wash and peel the potato and sweet potatoes. Cut in half. In a large pot par boil them for 10 mins or until they are slightly soft. Drain and let them sit to slightly cool. Once cooled slice the potatoes approx 8mm width."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Preheat oven to 180 C fan forced. Grease your baking dish with butter or cooking spray, approx 30cm long."
+      "HowToTip": {},
+      "text": "Start layering!In your baking dish add 1x layer of potatoes.Next sprinkle some of the bacon and onion mix. Using a teaspoon add dollops of the cream cheese.Then pour over some of the cream/milk mix."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Preheat oven to 180 C fan forced. Grease your baking dish with butter or cooking spray, approx 30cm long."
+      "HowToTip": {},
+      "text": "In a bowl or jug mix the cream, milk and onion soup together. Set aside."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Preheat oven to 180 C fan forced. Grease your baking dish with butter or cooking spray, approx 30cm long."
+      "HowToTip": {},
+      "text": "Add the next layer, this time the sweet potatoes. Again with the bacon & onion, cream cheese and milk mix. Continue layering with all ingredients until all used."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Preheat oven to 180 C fan forced. Grease your baking dish with butter or cooking spray, approx 30cm long."
+      "HowToTip": {},
+      "text": "Melt the butter in a mug and pour over the potatoes."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Preheat oven to 180 C fan forced. Grease your baking dish with butter or cooking spray, approx 30cm long."
+      "HowToTip": {},
+      "text": "Top with salt and pepper and cheese."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Preheat oven to 180 C fan forced. Grease your baking dish with butter or cooking spray, approx 30cm long."
+      "HowToTip": {},
+      "text": "Bake in the oven for 25- 35 mins until cheese has browned on top."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Preheat oven to 180 C fan forced. Grease your baking dish with butter or cooking spray, approx 30cm long."
+      "HowToTip": {},
+      "text": "Preheat oven to 180 C fan forced.Grease your baking dish with butter or cooking spray, approx 30cm long."
     }
   ],
   "recipeNameId": "potato-bake-with-a-twist",
   "recipeYield": "6",
   "sameAs": [
-    "https://woolworths.com.au/shop/find-recipes/potato-bake-with-cream-cheese"
+    "https://woolworths.com.au/shop/recipes/potato-bake-with-a-twist"
   ],
   "totalTime": "PT60M",
-  "updatedAt": "2022-11-22T23:47:24.107Z",
+  "updatedAt": "2022-11-24T11:39:01.554Z",
   "url": "https://www.woolworths.com.au/shop/recipes/potato-bake-with-a-twist"
 }

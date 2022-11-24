@@ -1,65 +1,75 @@
 {
   "@type": "Recipe",
+  "author": {
+    "@type": "Person",
+    "name": "Produced for Woolworths"
+  },
   "cookTime": "PT15M",
   "createdAt": "2022-11-22T14:19:58.116Z",
-  "datePublished": "2022-05-30",
-  "description": "This vegetable noodle stir-fry recipe features spiralised veggies tossed in a sweet yet spicy sauce topped with a fried egg, making for an easy yet satisfying vegetarian meal. ",
-  "image": "https://foodhub.scene7.com/is/image/woolworthsltdprod/338499?wid=3325&hei=3325&fmt=png-alpha",
-  "keywords": "Vegetable Noodle Stir Fry with Fried Egg",
+  "datePublished": "2022-10-13",
+  "description": "This vegetable noodle stir-fry recipe features spiralised veggies tossed in a sweet yet spicy sauce topped with a fried egg, making for an easy yet satisfying vegetarian meal.  ",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1300,
+    "mime": "image/jpeg",
+    "url": "https://foodhub.scene7.com/is/image/woolworthsltdprod/338499:Square-1300x1300",
+    "width": 1300
+  },
+  "keywords": "Noodle stir-fry,Zucchini,Broccoli,Egg,Mushroom",
   "name": "Vegetable Noodle Stir Fry with Fried Egg Recipe | Woolworths",
   "prepTime": "PT10M",
-  "recipeCategory": "mains",
-  "recipeCuisine": "asian",
+  "recipeCategory": "Lunch,Dinner",
+  "recipeCuisine": "Asian",
   "recipeId": "RGWW338499",
   "recipeIngredient": [
-    "250 g wholewheat noodles",
+    "250g wholewheat noodles",
     "1 large carrot",
     "1 large zucchini",
     "2 tsp canola oil",
-    "200 g chestnut mushrooms",
-    "200 g tenderstem broccoli",
-    "4 cloves garlic",
-    "2 medium red chilli",
-    "5 cm ginger",
-    "2 large spring onions",
-    "3 tbs soy sauce",
-    "2 medium limes",
+    "200g chestnut mushrooms, sliced",
+    "200g tenderstem broccoli, sliced",
+    "4 cloves garlic, peeled and minced",
+    "2 medium red chilli, sliced",
+    "5cm ginger, peeled and grated",
+    "2 large spring onions, sliced, green tips reserved",
+    "3 tbs soy sauce (reduced salt)",
+    "2 medium limes, juiced",
     "4 large eggs",
     "3 tsp sriracha sauce"
   ],
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Divide the noodle mix between 4 bowls, top each with a fried egg, spring onion and a drizzle of sriracha sauce."
+      "HowToTip": {},
+      "text": "Cook the noodles according to pack instructions and set aside. Using a spiraliser fitted with blade C, make noodles out of the carrot and zucchini. If you haven't got a spiraliser, you can slice into pappardelle style noodles lengthways with a vegetable peeler."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Divide the noodle mix between 4 bowls, top each with a fried egg, spring onion and a drizzle of sriracha sauce."
+      "HowToTip": {},
+      "text": "Place a wok on medium high heat and add half the oil. Cook the mushrooms and broccoli for 3-4 minutes, then add the garlic, chilli, ginger, spring onions, zucchini and carrot noodles and cook for 2 minutes."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Divide the noodle mix between 4 bowls, top each with a fried egg, spring onion and a drizzle of sriracha sauce."
+      "HowToTip": {},
+      "text": "Pour over the soy sauce and lime juice and add the noodles back into the wok. Cook for 2 minutes to warm through, stirring to coat everything in the sauce."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Divide the noodle mix between 4 bowls, top each with a fried egg, spring onion and a drizzle of sriracha sauce."
+      "HowToTip": {},
+      "text": "In a non stick frying pan, heat the remaining oil and fry the eggs to your liking, 2-3 minutes for runny yolks."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
+      "HowToTip": {},
       "text": "Divide the noodle mix between 4 bowls, top each with a fried egg, spring onion and a drizzle of sriracha sauce."
     }
   ],
   "recipeNameId": "vegetable-noodle-stir-fry-with-fried-egg",
   "recipeYield": "4",
   "sameAs": [
-    "https://woolworths.com.au/shop/find-recipes/fried-egg-noodles"
+    "https://woolworths.com.au/shop/recipes/vegetable-noodle-stir-fry-with-fried-egg"
   ],
   "totalTime": "PT25M",
-  "updatedAt": "2022-11-22T14:19:58.115Z",
+  "updatedAt": "2022-11-24T11:27:12.426Z",
   "url": "https://www.woolworths.com.au/shop/recipes/vegetable-noodle-stir-fry-with-fried-egg"
 }
