@@ -16,11 +16,13 @@ const allowedHosts = [
   'connoisseurusveg.com',
 ];
 
-(async () => {
-  let iteration = 0;
-  await AppDataSource.initialize();
+async function fetchCrawlUrls({
+  perPage = 10,
+  page = 1,
+}): Promise<[Url[], number]> {
+  const skip = perPage * page - perPage;
   const connection = AppDataSource;
-  const [urls, total] = await connection.manager.findAndCount(Url, {
+  return await connection.manager.findAndCount(Url, {
     where: [
       {
         crawledAt: IsNull(),
@@ -38,49 +40,64 @@ const allowedHosts = [
         createdAt: 'ASC',
       },
     },
-    take: 100,
-    skip: 0,
+    take: perPage,
+    skip,
   });
+}
+type MySubject = {
+  task: QueuedTask<ArbitraryThreadType, { duration: number }>;
+  url: Url;
+};
+
+(async () => {
+  await AppDataSource.initialize();
+  const connection = AppDataSource;
   const pool = Pool(() => spawn<Crawler>(new Worker('./crawl.ts')), {
     size: cpuCount / 2,
   });
-  type MySubject = {
-    task: QueuedTask<ArbitraryThreadType, { duration: number }>;
-    url: Url;
-  };
-  const tasks: MySubject[] = [];
-  // const $tasks = new Subject<MySubject>();
-  console.log('total', total, 'urls');
+  const $tasks = new Subject<MySubject>();
+  $tasks.subscribe({
+    next: taskDone,
+  });
+  let iteration = 0;
   async function taskDone({ task, url }: MySubject) {
+    const connection = AppDataSource;
     const { duration } = await task;
     iteration++;
-    const iterationOf = `${String(iteration).padStart(
-      String(total).length,
-      '0',
-    )}/${String(total)}`;
-    console.log(iterationOf, url.url, duration);
+    console.log(iteration, url.url, duration);
     url.duration = duration;
     url.crawledAt = new Date();
     await connection.manager.save(url);
+    if (iteration > (perPage * page) - (perPage / 2)) {
+      await paginatedCrawl();
+    }
   }
-  // $tasks.subscribe({
-  //   next: taskDone,
-  //   complete: async () => {
-  //     console.log('complete');
-  //     await connection.destroy();
-  //   }
-  // });
-  for (const url of urls) {
-    const task = pool.queue((crawl) => crawl(url.url));
-    // $tasks.next({ task, startTime, url });
-    tasks.push({ task, url });
+  const perPage = cpuCount * 2;
+  let page = 1;
+  async function paginatedCrawl() {
+    const [urls, total] = await fetchCrawlUrls({ page, perPage });
+    console.log(
+      'page',
+      page,
+      'queuing',
+      urls.length,
+      'tasks of',
+      total,
+      'total urls to crawl',
+    );
+    page++;
+    if (!urls || !urls.length) {
+      console.log('no urls terminating queue and database connection');
+      await pool.completed();
+      await connection.destroy();
+      await pool.terminate();
+    }
+    for (const url of urls) {
+      const task = pool.queue((crawl) => crawl(url.url));
+      $tasks.next({ task, url });
+    }
+    await pool.completed();
+    await paginatedCrawl();
   }
-  const completedTasks = await Promise.all(tasks);
-  for (const completedTask of completedTasks) {
-    await taskDone(completedTask);
-  }
-  await pool.completed();
-  await pool.terminate();
-  // $tasks.complete();
-  await connection.destroy();
+  await paginatedCrawl();
 })();
