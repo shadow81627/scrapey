@@ -15,9 +15,13 @@ export default async function incorrectUIrlIds(): Promise<void> {
     iteration++;
     const canonicalId = Url.generateId(Url.urlToParts(link.url));
     if (canonicalId !== link.id) {
+      console.log(iteration, link.url);
       const foundCanonical = links.find((link) => link.id === canonicalId);
       if (foundCanonical) {
-        if (!link.canonical) {
+        if (
+          !link.canonical ||
+          (link.canonical?.id && link.canonical?.id === link.id)
+        ) {
           link.canonical = foundCanonical;
           await connection.manager.save(link);
         }
@@ -27,7 +31,6 @@ export default async function incorrectUIrlIds(): Promise<void> {
         await connection.manager.save(newCanonical);
         link.canonical = newCanonical;
         await connection.manager.save(link);
-        // linksToDelete.push(link);
       }
       if (
         link.canonical &&
@@ -39,7 +42,7 @@ export default async function incorrectUIrlIds(): Promise<void> {
       newIds.push(canonicalId);
     }
   }
-  console.log('incorrect url id', newIds.length);
+  console.log('total incorrect url ids', newIds.length);
   console.log('soft delete', linksToDelete.length, 'incorrect id links');
   await connection.manager.softRemove(linksToDelete);
 }
