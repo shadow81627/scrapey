@@ -9,8 +9,21 @@ export default async function colesNationalReplaceUrls(): Promise<void> {
     .createQueryBuilder('url')
     .where({ pathname: Like('/a/%/%') })
     .andWhere({
+      pathname: Not(Like('/a/a-national/%')),
+    })
+    .andWhere({
+      pathname: Not(Like('/a/everything/%')),
+    })
+    .andWhere({
+      pathname: Not(Like('/a/bought-before/%')),
+    })
+    .andWhere({
+      pathname: Not(Like('/a/specials/%')),
+    })
+    .andWhere({
       pathname: Not(Like('/a/national/%')),
-    }).getMany();
+    })
+    .getMany();
 
   console.log('coles national replace total', links.length);
   const regex = /^\/a\/(.+?)\//;
@@ -25,8 +38,5 @@ export default async function colesNationalReplaceUrls(): Promise<void> {
       // await connection.manager.save(link);
       console.log(iteration, link.url);
     }
-
-    
   }
-  // await connection.manager.softRemove(links);
 }

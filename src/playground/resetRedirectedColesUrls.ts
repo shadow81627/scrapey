@@ -15,6 +15,6 @@ export default async function resetRedirectedColesUrls(): Promise<void> {
     link.canonical = null;
     link.crawledAt = null;
     link.duration = null;
-    await connection.manager.save(link);
+    // await connection.manager.save(link);
   }
 }

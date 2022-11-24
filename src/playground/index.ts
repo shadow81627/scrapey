@@ -9,10 +9,10 @@ import resetRedirectedColesUrls from './resetRedirectedColesUrls';
   await AppDataSource.initialize();
 
   await deleteDisallowedDomains();
-  // await colesNationalReplaceUrls();
+  await colesNationalReplaceUrls();
   await deleteDuplicateUrls();
   await incorrectUIrlIds();
-  // await resetRedirectedColesUrls();
+  await resetRedirectedColesUrls();
 
   await AppDataSource.destroy();
 })();
