@@ -1,0 +1,60 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Apple (42%), Wheat Flour (Thiamine), Sugar, Margarine (Vegetable Oil, Water, Salt, Milk Solids, Emulsifiers (471, 472c), Antioxidants (307, 304), Natural Flavour, Natural Colour (Carotene), Thickener (1412), Dextrose, Whey Powder (Milk), Salt, Cinnamon, Lemon Juice Concentrate, Raising Agent (Sodium Bicarbonate), Citric Acid, Processing Aid (Wheat)."
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "10.0"
+    },
+    {
+      "name": "Size",
+      "value": "800g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.94 per 100G"
+    }
+  ],
+  "brand": "Sara Lee",
+  "createdAt": "2022-11-24T08:59:11.754Z",
+  "description": "A delicious deep pie crust, filled with delicately spiced seasonal apples, topped with a sweet golden crumble.We believe dessert is one of life's great pleasures.",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/6/0/4/6041871.jpg",
+    "width": 300
+  },
+  "name": "Frozen Incredibly Fruity Apple Crumble Deep Dish Pie",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 7.5,
+    "lowPrice": 7.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T08:59:11.753Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "7.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/sara-lee-deep-dish-pie-apple-crumble"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/sara-lee-deep-dish-pie-apple-crumble"
+  ],
+  "sku": "6041871",
+  "updatedAt": "2022-11-24T08:59:11.753Z"
+}

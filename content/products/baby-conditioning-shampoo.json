@@ -1,0 +1,56 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Water, Polysorbate 20, Sodium Laureth Sulfate, Sodium Lauroamphoacetate, PEG-150 Distearate, Citric Acid, Glycerin, PEG-12 Dimethicone, Lauryl Betaine, Sodium Benzoate, Fragrance, Polyquaternium-10, Bis-PEG-18 Methyl Ether Dimethyl Silane, Sodium Chloride, Honey, Propylene Glycol, 1,2-Hexanediol, Caprylyl Glycol, Triticum Vulgare (Wheat) Bran Extract, CI 15510, CI 14700. [F#MZ086-68258]."
+    },
+    {
+      "name": "Size",
+      "value": "500mL"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$2.50 per 100mL"
+    }
+  ],
+  "brand": "Johnson's",
+  "createdAt": "2022-11-24T09:02:03.690Z",
+  "description": "Johnson's Baby Conditioning Shampoo",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/8/5/9/8593176.jpg",
+    "width": 300
+  },
+  "name": "Baby Conditioning Shampoo",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 12.5,
+    "lowPrice": 12.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T09:02:03.689Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "12.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/johnson-johnson-baby-shampoo-plus-conditioner-8593176p"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/johnson-johnson-baby-shampoo-plus-conditioner-8593176p"
+  ],
+  "sku": "8593176",
+  "updatedAt": "2022-11-24T09:02:03.689Z"
+}

@@ -1,0 +1,64 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Cranberries (63%), Soluble Corn Fibre, Sugar, Humectant (Glycerin), Sweetener (955)"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "4.0"
+    },
+    {
+      "name": "Size",
+      "value": "150g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$26.67 per 1Kg"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Made in United States of America with local and imported ingredients"
+    }
+  ],
+  "brand": "Ocean Spray",
+  "createdAt": "2022-11-24T09:05:15.774Z",
+  "description": "With 50% less sugar and 10 grams of fibre, enjoy the vibrant taste of dried cranberries in your favourite snacks and recipes everyday. Add to your favourite green or grain salads, top your daily yoghurt or muesli, swap for sultanas in baked goods, blend into trail and snack mixes.",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/1/8/7/1872105.jpg",
+    "width": 300
+  },
+  "name": "Reduced Sugar Craisins",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 4,
+    "lowPrice": 4,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T09:05:15.772Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "4.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/ocean-spray-reduced-sugar-craisins"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/ocean-spray-reduced-sugar-craisins"
+  ],
+  "sku": "1872105",
+  "updatedAt": "2022-11-24T09:05:15.773Z"
+}

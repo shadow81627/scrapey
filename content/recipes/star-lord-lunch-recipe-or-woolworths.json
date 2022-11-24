@@ -1,53 +1,68 @@
 {
   "@type": "Recipe",
+  "author": {
+    "@type": "Person",
+    "name": "Fresh Ideas"
+  },
   "cookTime": "PT20M",
   "createdAt": "2022-11-22T15:35:42.553Z",
-  "datePublished": "2021-03-10",
+  "datePublished": "2022-09-26",
   "description": "Try our easy to follow Star Lord Lunch recipe. Absolutely delicious with the best ingredients from Woolworths.",
   "image": {
     "@type": "ImageObject",
     "height": 1300,
-    "mime": "image/png",
-    "url": "https://foodhub.scene7.com/is/image/woolworthsltdprod/1704-starlord-lunch?wid=1300&hei=1300&fmt=png-alpha",
+    "mime": "image/jpeg",
+    "url": "https://foodhub.scene7.com/is/image/woolworthsltdprod/1704-starlord-lunch:Square-1300x1300",
     "width": 1300
   },
-  "keywords": "Star Lord Lunch",
+  "keywords": "Mains,Pescatarian,Low salt,Tree nut free,Egg free,Low sugar,Sesame free,Grape,Fish,Microwave,High protein,High fibre,Rice,Sweet potato,Low fat",
   "name": "Star Lord Lunch Recipe | Woolworths",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "1160 calories",
+    "carbohydrateContent": "159 g",
+    "fatContent": "23.5 g",
+    "fiberContent": "22.3 g",
+    "proteinContent": "65.8 g",
+    "sodiumContent": "660 millig",
+    "sugarContent": "35.8 g",
+    "transFatContent": "0.3 g"
+  },
   "prepTime": "PT25M",
-  "recipeCategory": "mains",
-  "recipeCuisine": "australian",
+  "recipeCategory": "Mains",
+  "recipeCuisine": "Australian",
   "recipeId": "5549",
   "recipeIngredient": [
-    "0.33 Lebanese cucumber",
-    "300 g sweet potato",
-    "20 g reducedfat feta",
+    "0.33 Lebanese cucumber, cut into batons",
+    "300g sweet potato, peeled, chopped",
+    "20g reduced-fat feta, crumbled",
     "2 tbs sunflower seeds",
     "1 wholemeal wrap",
-    "120 g plain yoghurt",
+    "120g plain yoghurt (save 20g for snack 2)",
     "1 tsp pepitas",
     "1 tsp sultanas",
-    "0.66 cup brown rice",
+    "0.66 cup brown rice, cooked",
     "0.5 cup red grapes",
-    "95 g can tuna in springwater"
+    "95g can tuna in springwater, drained and flaked"
   ],
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Snack 1: To make sweet potato, brown rice & feta space balls, Preheat oven to 180oC. Line a baking tray with baking paper. Place sweet potato and 1 tbs water in a microwavesafe dish. Cover and microwave on high for 3-4 minutes or until tender. Cool. Place sweet potato in a bowl and mash until smooth. Add rice, sunflower seeds and feta and stir to combine. Roll tablespoons of mixture into 12 balls and place on prepared tray. Spray lightly with oil and bake, turning halfway through cooking time, for 15 minutes or until golden. Cool completely. Place in an airtight container in fridge until ready to pack in lunch box. Serves 4 (makes 12) 3. Snack 2: To make fruit & seed yoghurt, top yoghurt with pepitas and sultanas. note: sweet potato, brown rice & feta space balls recipe serves 4"
+      "HowToTip": {},
+      "text": "Lunch: To make tuna & cucumber wrap, combine tuna with yoghurt. Spread mixture over wraps. Top with cucumber and roll. Cut into rounds. Pack into lunch box with grapes."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Snack 1: To make sweet potato, brown rice & feta space balls, Preheat oven to 180oC. Line a baking tray with baking paper. Place sweet potato and 1 tbs water in a microwavesafe dish. Cover and microwave on high for 3-4 minutes or until tender. Cool. Place sweet potato in a bowl and mash until smooth. Add rice, sunflower seeds and feta and stir to combine. Roll tablespoons of mixture into 12 balls and place on prepared tray. Spray lightly with oil and bake, turning halfway through cooking time, for 15 minutes or until golden. Cool completely. Place in an airtight container in fridge until ready to pack in lunch box. Serves 4 (makes 12) 3. Snack 2: To make fruit & seed yoghurt, top yoghurt with pepitas and sultanas. note: sweet potato, brown rice & feta space balls recipe serves 4"
+      "HowToTip": {},
+      "text": "Snack 1: To make sweet potato, brown rice & feta space balls, Preheat oven to 180oC. Line a baking tray with baking paper. Place sweet potato and 1 tbs water in a microwave-safe dish. Cover and microwave on high for 3-4 minutes or until tender. Cool. Place sweet potato in a bowl and mash until smooth. Add rice, sunflower seeds and feta and stir to combine. Roll tablespoons of mixture into 12 balls and place on prepared tray. Spray lightly with oil and bake, turning halfway through cooking time, for 15 minutes or until golden. Cool completely. Place in an airtight container in fridge until ready to pack in lunch box. Serves 4 (makes 12) 3. Snack 2: To make fruit & seed yoghurt, top yoghurt with pepitas and sultanas. note: sweet potato, brown rice & feta space balls recipe serves 4"
     }
   ],
   "recipeNameId": "star-lord-lunch",
   "recipeYield": "1",
   "sameAs": [
-    "https://woolworths.com.au/shop/find-recipes/packed-lunch-ideas"
+    "https://woolworths.com.au/shop/recipes/star-lord-lunch"
   ],
   "totalTime": "PT45M",
-  "updatedAt": "2022-11-22T15:35:42.553Z",
+  "updatedAt": "2022-11-24T11:01:35.880Z",
   "url": "https://www.woolworths.com.au/shop/recipes/star-lord-lunch"
 }

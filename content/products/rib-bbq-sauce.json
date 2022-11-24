@@ -1,0 +1,60 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Tomato pulp (49.5%), water, sugar, honey (6.2%), vinegar, dehydrated vegetables (onion 1.4%), salt, modified maize starch (1422), spices, colours (caramel 150d, annatto), flavour, spice extracts."
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "27.0"
+    },
+    {
+      "name": "Size",
+      "value": "275mL"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.55 per 100mL"
+    }
+  ],
+  "brand": "Three Threes",
+  "createdAt": "2022-11-24T09:05:54.909Z",
+  "description": "Three Threes Premium Australian sauces are made using a unique blend of ingredients and the finest Australian Grown Tomatoes. We use a family recipe that provides a unique home grown flavour.",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/7/2/8/7288122.jpg",
+    "width": 300
+  },
+  "name": "Rib BBQ Sauce",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 1.5,
+    "lowPrice": 1.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T09:05:54.909Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "1.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/three-threes-bbq-rib-sauce"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/three-threes-bbq-rib-sauce"
+  ],
+  "sku": "7288122",
+  "updatedAt": "2022-11-24T09:05:54.909Z"
+}

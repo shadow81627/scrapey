@@ -1,0 +1,56 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Lamb Heart (100%)."
+    },
+    {
+      "name": "Size",
+      "value": "approx. 530g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$9.00 per 1Kg"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2022-11-24T09:06:42.189Z",
+  "description": "Coles Lamb HeartsAll our Coles Brand fresh is 100% Australian grown, and proudly sourced from Aussie farms",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/9/4/7/9476316.jpg",
+    "width": 300
+  },
+  "name": "Lamb Hearts",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 4.77,
+    "lowPrice": 4.77,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T09:06:42.188Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "4.77",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-lamb-hearts"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/coles-lamb-hearts"
+  ],
+  "sku": "9476316",
+  "updatedAt": "2022-11-24T09:06:42.188Z"
+}

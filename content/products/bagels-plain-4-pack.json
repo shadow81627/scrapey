@@ -1,0 +1,64 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "INGREDIENTS: Wheat Flour [Wheat Flour, Thiamin, Folic Acid], Water, Sugar, Canola Oil, Cultured Wheat Flour, Wheat Gluten, Yeast, Vinegar, Iodised Salt, Malted Wheat, Emulsifier (471)."
+    },
+    {
+      "name": "Allergen",
+      "value": "May Contain SESAME, May Contain SOY, May Contain EGG, Contains Gluten, Contains Wheat"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "4.0"
+    },
+    {
+      "name": "Size",
+      "value": "360g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.69 per 100G"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2022-11-24T09:01:49.946Z",
+  "description": "Traditional bagels made from a 50 year old family recipe, using locally sourced Australian ingredients and no artificial preservatives",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/3/6/3362960.jpg",
+    "width": 300
+  },
+  "name": "Bagels Plain 4 pack",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2.5,
+    "lowPrice": 2.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T09:01:49.943Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "2.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-bagel-plain-4-pack"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/coles-bagel-plain-4-pack"
+  ],
+  "sku": "3362960",
+  "updatedAt": "2022-11-24T09:01:49.943Z"
+}

@@ -1,0 +1,64 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Contains",
+      "value": "Ground coffee in capsules"
+    },
+    {
+      "name": "Allergen",
+      "value": "Contains Caffeine"
+    },
+    {
+      "name": "Size",
+      "value": "10 pack"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.70 per 1Ea"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Made in France with coffee from multiple origins"
+    }
+  ],
+  "brand": "L'OR",
+  "createdAt": "2022-11-24T09:00:46.609Z",
+  "description": "L'OR Espresso Lungo Estremo Intensity 10 Coffee Capsules 52g",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/1/9/3193217.jpg",
+    "width": 300
+  },
+  "name": "Espresso Lungo Estremo Intensity 10 Coffee Capsules 52g",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 7,
+    "lowPrice": 7,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T09:00:46.608Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "7.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/lor-espresso-capsules-lungo-estremo"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/lor-espresso-capsules-lungo-estremo"
+  ],
+  "sku": "3193217",
+  "updatedAt": "2022-11-24T09:00:46.608Z"
+}

@@ -1,56 +1,71 @@
 {
   "@type": "Recipe",
+  "author": {
+    "@type": "Person",
+    "name": "Fresh Ideas"
+  },
   "cookTime": "PT15M",
   "createdAt": "2022-11-22T11:11:21.886Z",
-  "datePublished": "2021-03-10",
+  "datePublished": "2022-11-03",
   "description": "Dive into this easy dinner recipe featuring the tropical flavour combo of chicken, pineapple and slaw.",
   "image": {
     "@type": "ImageObject",
     "height": 1300,
-    "mime": "image/png",
-    "url": "https://foodhub.scene7.com/is/image/woolworthsltdprod/2010-easy-chicken-pineapple-and-golden-citrus-slaw?wid=1300&hei=1300&fmt=png-alpha",
+    "mime": "image/jpeg",
+    "url": "https://foodhub.scene7.com/is/image/woolworthsltdprod/2010-easy-chicken-pineapple-and-golden-citrus-slaw:Square-1300x1300",
     "width": 1300
   },
-  "keywords": "Easy Chicken, Pineapple & Golden Citrus Slaw",
+  "keywords": "Coleslaw,Low saturated fat,Pineapple,Spring,Low sugar,Nov 2020,High protein,High fibre,Quick & easy lunch,Chicken,Dinner Made Easy,Low fat",
   "name": "Easy Chicken, Pineapple & Golden Citrus Slaw Recipe | Woolworths",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "632 calories",
+    "carbohydrateContent": "83.0 g",
+    "fatContent": "9.4 g",
+    "fiberContent": "10.1 g",
+    "proteinContent": "45.0 g",
+    "saturatedFatContent": "2.9 g",
+    "sodiumContent": "715 millig",
+    "sugarContent": "26.5 g"
+  },
   "prepTime": "PT5M",
-  "recipeCategory": "mains",
-  "recipeCuisine": "north-american",
+  "recipeCategory": "Mains",
+  "recipeCuisine": "North American",
   "recipeId": "10652",
   "recipeIngredient": [
-    "2 RSPCAapproved chicken breast fillets",
+    "2 RSPCA-approved chicken breast fillets",
     "1 pineapple half",
-    "350 g golden citrus slaw kit",
-    "520 g pane di casa"
+    "350g golden citrus slaw kit",
+    "520g pane di casa"
   ],
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Top salad with chicken, drizzle over reserved dressing and scatter over reserved dried fruit. Serve with toasted bread."
+      "HowToTip": {},
+      "text": "Drizzle chicken with 1 tbs extra virgin olive oil. Season. Heat a barbecue grill or chargrill pan over medium- high heat. Cook chicken, for 5 minutes on each side or until cooked through. Slice."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Top salad with chicken, drizzle over reserved dressing and scatter over reserved dried fruit. Serve with toasted bread."
+      "HowToTip": {},
+      "text": "Peel and core pineapple. Quarter lengthways. Drizzle with 1 tbs extra virgin olive oil. Increase heat to high. Cook for 2 minutes on each side or until charred. Transfer to a chopping board."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Top salad with chicken, drizzle over reserved dressing and scatter over reserved dried fruit. Serve with toasted bread."
+      "HowToTip": {},
+      "text": "Chop pineapple. Place salad kit in a bowl, reserving dressing and dried fruit sachet. Add pineapple to salad. Toss to combine."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
+      "HowToTip": {},
       "text": "Top salad with chicken, drizzle over reserved dressing and scatter over reserved dried fruit. Serve with toasted bread."
     }
   ],
   "recipeNameId": "easy-chicken-pineapple-and-golden-citrus-slaw",
   "recipeYield": "4",
   "sameAs": [
-    "https://woolworths.com.au/shop/find-recipes/chicken-pineapple"
+    "https://woolworths.com.au/shop/recipes/easy-chicken-pineapple-and-golden-citrus-slaw"
   ],
   "totalTime": "PT20M",
-  "updatedAt": "2022-11-22T11:11:21.886Z",
+  "updatedAt": "2022-11-24T10:44:15.000Z",
   "url": "https://www.woolworths.com.au/shop/recipes/easy-chicken-pineapple-and-golden-citrus-slaw"
 }

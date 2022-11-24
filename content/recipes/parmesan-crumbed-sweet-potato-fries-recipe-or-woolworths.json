@@ -1,21 +1,31 @@
 {
   "@type": "Recipe",
+  "author": {
+    "@type": "Person",
+    "name": "Customer - alexie"
+  },
   "cookTime": "PT20M",
   "createdAt": "2022-11-22T10:04:09.686Z",
-  "datePublished": "2021-06-10",
+  "datePublished": "2022-08-03",
   "description": "A quick and easy family favourite.",
-  "image": "https://foodhub.scene7.com/is/image/woolworthsltdprod/lc91y9h4cpi0k1m4bhm2?wid=4032&hei=3024&fmt=png-alpha",
-  "keywords": "Parmesan Crumbed Sweet Potato Fries",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1300,
+    "mime": "image/jpeg",
+    "url": "https://foodhub.scene7.com/is/image/woolworthsltdprod/lc91y9h4cpi0k1m4bhm2:Square-1300x1300",
+    "width": 1300
+  },
+  "keywords": "Finger food,Sweet potato",
   "name": "Parmesan Crumbed Sweet Potato Fries Recipe | Woolworths",
   "prepTime": "PT15M",
-  "recipeCategory": "snacks",
-  "recipeCuisine": "australian",
+  "recipeCategory": "Snacks",
+  "recipeCuisine": "Australian",
   "recipeId": "a0K2y0000016cbWEAQ",
   "recipeIngredient": [
     "2 medium sweet potatoes",
     "1 egg",
-    "100 g panko crumbs",
-    "60 g parmesan cheese",
+    "100g panko crumbs",
+    "60g parmesan cheese",
     "Pinch salt",
     "Pinch black pepper",
     "Pinch chilli flakes"
@@ -23,31 +33,31 @@
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Dip in Parmesan and panko crumb mix and pat to help stick."
+      "HowToTip": {},
+      "text": "Preheat oven to 180 degrees. Peel and slice sweet potatoes into finger sized pieces and arrange on baking tray. Season with salt, pepper and chilli flakes."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Dip in Parmesan and panko crumb mix and pat to help stick."
+      "HowToTip": {},
+      "text": "Mix panko crumbs and parmesan cheese in a bowl."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Dip in Parmesan and panko crumb mix and pat to help stick."
+      "HowToTip": {},
+      "text": "Beat eggs and coat sweet potatoes pieces."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
+      "HowToTip": {},
       "text": "Dip in Parmesan and panko crumb mix and pat to help stick."
     }
   ],
   "recipeNameId": "parmesan-crumbed-sweet-potato-fries",
   "recipeYield": "4",
   "sameAs": [
-    "https://woolworths.com.au/shop/find-recipes/crumbed-potatoes"
+    "https://woolworths.com.au/shop/recipes/parmesan-crumbed-sweet-potato-fries"
   ],
   "totalTime": "PT35M",
-  "updatedAt": "2022-11-22T10:04:09.686Z",
+  "updatedAt": "2022-11-24T09:21:56.636Z",
   "url": "https://www.woolworths.com.au/shop/recipes/parmesan-crumbed-sweet-potato-fries"
 }

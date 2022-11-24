@@ -1,0 +1,56 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "136g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$3.49 per 100G"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Made in China"
+    }
+  ],
+  "brand": "Nice & Natural",
+  "createdAt": "2022-11-24T09:03:18.143Z",
+  "description": "Nice & Natural Raspberry & Blueberry Fruit Strings",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/1/0/1/1018329.jpg",
+    "width": 300
+  },
+  "name": "Raspberry & Blueberry Fruit Strings",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 4.75,
+    "lowPrice": 4.75,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T09:03:18.140Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "4.75",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/nice-natural-fruit-snacks-raspberry-blueberry-strings"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/nice-natural-fruit-snacks-raspberry-blueberry-strings"
+  ],
+  "sku": "1018329",
+  "updatedAt": "2022-11-24T09:03:18.140Z"
+}

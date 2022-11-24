@@ -1,0 +1,64 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Allergen",
+      "value": "Contains Soybean, Contains Wheat, Contains Milk"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "6.0"
+    },
+    {
+      "name": "Size",
+      "value": "490mL"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.98 per 100mL"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Product of Australia"
+    }
+  ],
+  "brand": "Drumstick",
+  "createdAt": "2022-11-24T08:58:51.712Z",
+  "description": "Smooth vanilla ice cream topped with rich boysenberry sauce with dark choc flakes, all in a crispy wafer cone with a delicious choccy tip. The perfect size for snacking!",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/5/4/3542713.jpg",
+    "width": 300
+  },
+  "name": "Ice Cream Mini Boysenberry 6Pack",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 9.5,
+    "lowPrice": 9.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T08:58:51.710Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "9.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/peters-drumstick-mini-boysenberry-6pk"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/peters-drumstick-mini-boysenberry-6pk"
+  ],
+  "sku": "3542713",
+  "updatedAt": "2022-11-24T08:58:51.710Z"
+}

@@ -1,0 +1,56 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Red Mild Pepper, Salt, Acidity Regulator (E330)"
+    },
+    {
+      "name": "Size",
+      "value": "700g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.26 per 100G"
+    }
+  ],
+  "brand": "Oncu",
+  "createdAt": "2022-11-24T08:58:17.778Z",
+  "description": "A tasty home style mild pepper paste. Use it to add flavour to your favourite recipes. Halal. Product of Turkey.",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/9/1/1/9115420.jpg",
+    "width": 300
+  },
+  "name": "Tatli Biber Pepper Paste Mild",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 8.8,
+    "lowPrice": 8.8,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T08:58:17.770Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "8.80",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/oncu-mild-pepper-paste"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/oncu-mild-pepper-paste"
+  ],
+  "sku": "9115420",
+  "updatedAt": "2022-11-24T08:58:17.770Z"
+}

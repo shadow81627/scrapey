@@ -1,63 +1,73 @@
 {
   "@type": "Recipe",
+  "author": {
+    "@type": "Person",
+    "name": "Customer - mumma_ness"
+  },
   "cookTime": "PT25M",
   "createdAt": "2022-11-24T01:38:35.951Z",
-  "datePublished": "2021-06-10",
+  "datePublished": "2022-08-03",
   "description": "Home made wedges to make the mouth water!",
-  "image": "https://foodhub.scene7.com/is/image/woolworthsltdprod/wouaxy2dr3z7ndjbymvm?wid=4032&hei=2268&fmt=png-alpha",
-  "keywords": "Easy Potato Wedges",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1300,
+    "mime": "image/jpeg",
+    "url": "https://foodhub.scene7.com/is/image/woolworthsltdprod/wouaxy2dr3z7ndjbymvm:Square-1300x1300",
+    "width": 1300
+  },
+  "keywords": "Vegetable dishes",
   "name": "Easy Potato Wedges Recipe | Woolworths",
   "prepTime": "PT5M",
-  "recipeCategory": "snacks",
-  "recipeCuisine": "australian",
+  "recipeCategory": "Snacks",
+  "recipeCuisine": "Australian",
   "recipeId": "a0K0I00000SiYNaUAN",
   "recipeIngredient": [
-    "4 potatoes",
+    "4-6 potatoes",
     "1 tbs sweet paprika",
     "1 tsp onion powder",
-    "0.25 tsp salt",
+    "0.25-0.5 tsp salt (to taste)",
     "2 tbs plain flour",
     "2 tbs olive oil",
-    "1 tbs butter"
+    "1 tbs butter (Nuttelex for dairy free)"
   ],
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Serve with your favourite sauce. Sweet chilli and sour cream or good old tomato!"
+      "HowToTip": {},
+      "text": "Cut your potatoes into wedge shapes. Normally one potato will get you 4-6 wedges."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Serve with your favourite sauce. Sweet chilli and sour cream or good old tomato!"
+      "HowToTip": {},
+      "text": "Place in a pot of water and par boil potatoes for 5-7 minutes."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Serve with your favourite sauce. Sweet chilli and sour cream or good old tomato!"
+      "HowToTip": {},
+      "text": "Drain potatoes in a colander and lightly chuff up potatoes."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Serve with your favourite sauce. Sweet chilli and sour cream or good old tomato!"
+      "HowToTip": {},
+      "text": "While potatoes are still hot mix in your butter, oil, flour, onion powder, paprika and salt."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Serve with your favourite sauce. Sweet chilli and sour cream or good old tomato!"
+      "HowToTip": {},
+      "text": "Air fry at 200° for 15 minutes tossing half way through. These can also be done in the oven just allow a longer cook time. 25-30 minutes or until golden brown."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
+      "HowToTip": {},
       "text": "Serve with your favourite sauce. Sweet chilli and sour cream or good old tomato!"
     }
   ],
   "recipeNameId": "potato-wedges",
   "recipeYield": "4",
   "sameAs": [
-    "https://woolworths.com.au/shop/find-recipes/easy-potato-recipes"
+    "https://woolworths.com.au/shop/recipes/potato-wedges"
   ],
   "totalTime": "PT30M",
-  "updatedAt": "2022-11-24T01:38:35.898Z",
+  "updatedAt": "2022-11-24T09:22:02.620Z",
   "url": "https://www.woolworths.com.au/shop/recipes/potato-wedges"
 }

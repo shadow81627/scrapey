@@ -1,20 +1,30 @@
 {
   "@type": "Recipe",
+  "author": {
+    "@type": "Person",
+    "name": "Customer - casyb"
+  },
   "cookTime": "PT30M",
   "createdAt": "2022-11-22T14:13:26.670Z",
-  "datePublished": "2021-06-01",
+  "datePublished": "2022-09-26",
   "description": "An easy chicken and cream pasta. Keep it mild or add some spice.",
-  "image": "https://foodhub.scene7.com/is/image/woolworthsltdprod/mbxk70j8s9wzxvdpspbx?wid=2580&hei=2023&fmt=png-alpha",
-  "keywords": "Creamy Chicken Pasta",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1300,
+    "mime": "image/jpeg",
+    "url": "https://foodhub.scene7.com/is/image/woolworthsltdprod/mbxk70j8s9wzxvdpspbx:Square-1300x1300",
+    "width": 1300
+  },
+  "keywords": "Pasta,Sesame free,Spinach,Mushroom",
   "name": "Creamy Chicken Pasta Recipe | Woolworths",
   "prepTime": "PT5M",
-  "recipeCategory": "mains",
-  "recipeCuisine": "european",
+  "recipeCategory": "Dinner",
+  "recipeCuisine": "Italian",
   "recipeId": "a0K0I00000SjHSEUA3",
   "recipeIngredient": [
-    "500 g chicken breast",
-    "250 g bacon",
-    "1 brown onion",
+    "500g chicken breast, diced",
+    "250g bacon, diced",
+    "1 brown onion, diced",
     "1 punnet sliced mushrooms",
     "1 bag baby spinach",
     "2 tubs cooking cream",
@@ -27,46 +37,50 @@
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Drain your pasta, serve into a bowl, add the creamy chicken on top and enjoy."
+      "HowToTip": {},
+      "text": "Add half a teaspoon of olive oil to a large frypan. Fry the diced onion for 3-4 minutes. Add the garlic and diced bacon and fry until caramelised."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Drain your pasta, serve into a bowl, add the creamy chicken on top and enjoy."
+      "HowToTip": {},
+      "image": "https://foodhub.scene7.com/is/image/woolworthsltdprod/cdmvgqntz51ho8qrh2av?wid=3520&hei=2799&fmt=png-alpha",
+      "text": "Add the sliced mushrooms to the bacon and onion mixture and fry until the mushrooms are just cooked. Remove and put in a bowl covered in alfoil."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Drain your pasta, serve into a bowl, add the creamy chicken on top and enjoy."
+      "HowToTip": {},
+      "text": "Add half a teaspoon of oil to your frypan. Cook the diced chicken until it is just cooked through."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Drain your pasta, serve into a bowl, add the creamy chicken on top and enjoy."
+      "HowToTip": {},
+      "image": "https://foodhub.scene7.com/is/image/woolworthsltdprod/yr9mt3r4affxzxrwek0t?wid=3393&hei=2533&fmt=png-alpha",
+      "text": "Add the 2 tubs of cream to the chicken and stir until it is hot. Add the parmesan cheese and stir until melted. Meanwhile add your pasta to a saucepan of boiling water with a dash of salt."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Drain your pasta, serve into a bowl, add the creamy chicken on top and enjoy."
+      "HowToTip": {},
+      "text": "Add black pepper to suit your taste. Add the bacon, onion and mushrooms back into the chicken and cream mixture and cook until heated through."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Drain your pasta, serve into a bowl, add the creamy chicken on top and enjoy."
+      "HowToTip": {},
+      "image": "https://foodhub.scene7.com/is/image/woolworthsltdprod/p4pfd2uddnfmq2vz5gzs?wid=3024&hei=4032&fmt=png-alpha",
+      "text": "Add the spinach for the last 1-2 minutes before serving."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
+      "HowToTip": {},
+      "image": "https://foodhub.scene7.com/is/image/woolworthsltdprod/k2pzwn3t7imqzpeltmut?wid=2580&hei=2023&fmt=png-alpha",
       "text": "Drain your pasta, serve into a bowl, add the creamy chicken on top and enjoy."
     }
   ],
   "recipeNameId": "creamy-chicken-pasta",
   "recipeYield": "4",
   "sameAs": [
-    "https://woolworths.com.au/shop/find-recipes/easy-creamy-chicken-pasta"
+    "https://woolworths.com.au/shop/recipes/creamy-chicken-pasta"
   ],
   "totalTime": "PT35M",
-  "updatedAt": "2022-11-22T14:13:26.669Z",
+  "updatedAt": "2022-11-24T09:39:04.124Z",
   "url": "https://www.woolworths.com.au/shop/recipes/creamy-chicken-pasta"
 }

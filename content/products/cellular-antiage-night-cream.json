@@ -1,0 +1,60 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Aqua, Glycerin, Butylene Glycol Dicaprylate/Dicaprate, Caprylic/Capric Triglyceride, Butyrospermum Parkii Butter, Cetearyl Alcohol, Glyceryl Stearate, C12-15 Alkyl Benzoate, Dimethicone, Sodium Hyaluronate, Panthenol, Tocopheryl Acetate, Pimpinella Anisum Fruit Extract, Pantolactone, Ethylhexylglycerin, Chondrus Crispus Extract, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Citric Acid, Sodium Chloride, Sodium Sulfate, Sodium Stearoyl Glutamate, Caprylyl Glycol, Trisodium EDTA, Sodium Hydroxide, Phenoxyethanol, Methylparaben, Parfum, CI 15985"
+    },
+    {
+      "name": "Warning",
+      "value": "Avoid direct eye contact."
+    },
+    {
+      "name": "Size",
+      "value": "50mL"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$33.00 per 100mL"
+    }
+  ],
+  "brand": "Nivea",
+  "createdAt": "2022-11-24T09:04:48.194Z",
+  "description": "Nivea Cellular Antiage Night Cream",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/2/0/2207280.jpg",
+    "width": 300
+  },
+  "name": "Cellular Antiage Night Cream",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 16.5,
+    "lowPrice": 16.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T09:04:48.193Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "16.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/nivea-cellular-antiage-night-cream"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/nivea-cellular-antiage-night-cream"
+  ],
+  "sku": "2207280",
+  "updatedAt": "2022-11-24T09:04:48.193Z"
+}

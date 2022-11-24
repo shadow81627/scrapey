@@ -1,0 +1,60 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": " Cumin., INGREDIENTS: Cumin."
+    },
+    {
+      "name": "Size",
+      "value": "42g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.49 per 10G"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Packed in India"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2022-11-24T09:04:21.555Z",
+  "description": "Coles Cumin seeds adds flavour to your favourite dishes. Before roasting, sprinkle over cauliflower with olive oil.",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/8/9/8/8982837.jpg",
+    "width": 300
+  },
+  "name": "Cumin Seeds Ground",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2.05,
+    "lowPrice": 2.05,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T09:04:21.554Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "2.05",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-brand-cumin-seeds-ground"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/coles-brand-cumin-seeds-ground"
+  ],
+  "sku": "8982837",
+  "updatedAt": "2022-11-24T09:04:21.555Z"
+}

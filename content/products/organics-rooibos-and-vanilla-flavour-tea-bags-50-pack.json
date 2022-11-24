@@ -1,0 +1,64 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Organic Rooibos 95%, Natural Vanilla Flavour 5%"
+    },
+    {
+      "name": "Contains",
+      "value": "Organic Rooibos, Natural Vanilla Flavour"
+    },
+    {
+      "name": "Size",
+      "value": "92g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$5.67 per 100G"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Packed in Australia using Specially Selected Imported Organic Rooibos"
+    }
+  ],
+  "brand": "Nerada",
+  "createdAt": "2022-11-24T09:05:03.725Z",
+  "description": "Nerada Organics Rooibos & Vanilla Flavour Tea Bags 50 pack",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/6/3/7/6378616.jpg",
+    "width": 300
+  },
+  "name": "Organics Rooibos & Vanilla Flavour Tea Bags 50 pack",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 5.1,
+    "lowPrice": 5.1,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T09:05:03.724Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "5.10",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/nerada-organic-tea-bags-rooibos-vanilla"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/nerada-organic-tea-bags-rooibos-vanilla"
+  ],
+  "sku": "6378616",
+  "updatedAt": "2022-11-24T09:05:03.724Z"
+}

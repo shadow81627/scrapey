@@ -1,0 +1,64 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "INGREDIENTS: Cream Cheese (95%) [Milk, Cream, Salt, Vegetable Gums (410, 412), Cultures], Onion, Sugar, Garlic, Chives (1.0%), Spring Onion (0.5%), Vinegar Powder, Preservative (Sorbic Acid)."
+    },
+    {
+      "name": "Allergen",
+      "value": "Contains SULPHITES, May Be Present PEANUTS, May Be Present TREE NUTS, Contains MILK"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "7.6"
+    },
+    {
+      "name": "Size",
+      "value": "190g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$18.42 per 1Kg"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2022-11-24T08:57:04.411Z",
+  "description": "Coles Dairy 190g spring onion and chive cream cheese. A savoury cream cheese with spring onion, roasted garlic and chives perfect for any cheese board.",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/7/7/8/7781283.jpg",
+    "width": 300
+  },
+  "name": "Cheese Spring Onion & Chive",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3.5,
+    "lowPrice": 3.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T08:57:04.409Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "3.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-cheese-cream-spring-onion-chive"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/coles-cheese-cream-spring-onion-chive"
+  ],
+  "sku": "7781283",
+  "updatedAt": "2022-11-24T08:57:04.409Z"
+}

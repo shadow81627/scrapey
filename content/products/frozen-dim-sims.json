@@ -1,0 +1,68 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Cabbage, Wheat Flour, Mutton or Beef (23%), Water, Wheat Starch, Salt, Onion, Sugar, Flavour Enhancer (621), Spices."
+    },
+    {
+      "name": "Allergen",
+      "value": "Contains Wheat"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "30.0"
+    },
+    {
+      "name": "Warning",
+      "value": "Contains allergens. See allergen list for details."
+    },
+    {
+      "name": "Size",
+      "value": "1.5kg"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.70 per 100G"
+    }
+  ],
+  "brand": "Marathon",
+  "createdAt": "2022-11-24T08:56:39.780Z",
+  "description": "Marathon Frozen Dim Sims",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/1/8/2/182790.jpg",
+    "width": 300
+  },
+  "name": "Frozen Dim Sims",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 10.5,
+    "lowPrice": 10.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T08:56:39.778Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "10.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/marathon-dim-sims-frozen-30-pack"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/marathon-dim-sims-frozen-30-pack"
+  ],
+  "sku": "182790",
+  "updatedAt": "2022-11-24T08:56:39.778Z"
+}

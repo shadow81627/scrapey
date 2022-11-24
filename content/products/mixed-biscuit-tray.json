@@ -1,0 +1,64 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "INGREDIENTS: Wheat Flour, Sugar, Vegetable Margarine (Palm Oil, Water, Salt, Emulsifiers (471, 472c), Antioxidant (304), Natural Flavouring, Natural Colour (160a)), Dark Compound Chocolate Chips (7.5%) (Sugar, Palm Oil, Cocoa Powder^, Milk Solids, Emulsifiers (492, 322 (Soy)), Natural Flavouring), Oats, Glucose (Preservative (220)), Coconut (Preservative (223)), Golden Syrup, Cocoa Powder^ (1.5%), Milk Solids, Raising Agents (450, 500), Natural Flavouring, Salt, Canola Oil (Antioxidant (307))."
+    },
+    {
+      "name": "Allergen",
+      "value": "May Be Present EGG, May Be Present Macadamia Nuts, Contains SULPHITES, May Be Present Pecan, Contains Gluten, Contains SOY, Contains Wheat, May Be Present Pistachios, May be Present: wheat, almond, Brazil nut, cashew, hazelnut, macadamia, other tree nuts, milk, soy, Contains MILK, May Be Present Hazelnuts"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "24.0"
+    },
+    {
+      "name": "Size",
+      "value": "24 pack"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.21 per 1Ea"
+    }
+  ],
+  "brand": "Coles Bakery",
+  "createdAt": "2022-11-24T09:01:37.017Z",
+  "description": "This cookie tray has 3 delicious flavours - Choc Chip, Anzac and Triple Choc. A convenient crowd pleaser and great for entertaining.",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/7/3/3735750.jpg",
+    "width": 300
+  },
+  "name": "Mixed Biscuit Tray",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 5,
+    "lowPrice": 5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T09:01:37.015Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "5.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-bakery-mixed-cokie-tray"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/coles-bakery-mixed-cokie-tray"
+  ],
+  "sku": "3735750",
+  "updatedAt": "2022-11-24T09:01:37.015Z"
+}

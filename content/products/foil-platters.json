@@ -1,0 +1,56 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "5 pack"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.80 per 1Ea"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Made in China"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2022-11-24T09:00:50.558Z",
+  "description": "Foil platters are ideal for BBQs and picnics to serve meats, vegetables and fruit. Pack of 5.",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/1/5/4/1547228.jpg",
+    "width": 300
+  },
+  "name": "Foil Platters",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 4,
+    "lowPrice": 4,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T09:00:50.557Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "4.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/cook-dine-foil-platter-small"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/cook-dine-foil-platter-small"
+  ],
+  "sku": "1547228",
+  "updatedAt": "2022-11-24T09:00:50.557Z"
+}

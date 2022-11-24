@@ -1,0 +1,60 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "INGREDIENTS: No Added Hormone Australian (91%) (Beef Brisket), Water, Acidity Regulator (325, 330), Dextrose, Salt, Sugar, Yeast Extract, Vegetable Gum (412), Celery Extract."
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "4.0"
+    },
+    {
+      "name": "Size",
+      "value": "approx. 1.4kg"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$17.00 per 1Kg"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2022-11-24T09:05:45.167Z",
+  "description": "Coles Beef Brisket Slow Cook. Sourced from over 1,000 Aussie beef farmers. This range is 100% Australian grown with no added hormones.",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/4/9/3492660.jpg",
+    "width": 300
+  },
+  "name": "No Added Hormone Beef Brisket Slow Cook",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 23.8,
+    "lowPrice": 23.8,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T09:05:45.164Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "23.80",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-beef-brisket"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/coles-beef-brisket"
+  ],
+  "sku": "3492660",
+  "updatedAt": "2022-11-24T09:05:45.164Z"
+}

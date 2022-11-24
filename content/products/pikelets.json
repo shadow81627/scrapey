@@ -1,0 +1,60 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Contains",
+      "value": "As this product varies by state, please review the product packaging when you receive this product for allergen information to determine whether this product is suitable for you before consuming, particularly if you suffer from a food allergy or intolerance."
+    },
+    {
+      "name": "Dietary",
+      "value": "No Artificial Flavours or Colours"
+    },
+    {
+      "name": "Size",
+      "value": "8 pack"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.53 per 1Ea"
+    }
+  ],
+  "brand": "Golden",
+  "createdAt": "2022-11-24T09:01:41.171Z",
+  "description": "Golden Pikelets",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/4/0/54000.jpg",
+    "width": 300
+  },
+  "name": "Pikelets",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 4.2,
+    "lowPrice": 4.2,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T09:01:41.169Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "4.20",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/golden-pikelets"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/golden-pikelets"
+  ],
+  "sku": "54000",
+  "updatedAt": "2022-11-24T09:01:41.169Z"
+}

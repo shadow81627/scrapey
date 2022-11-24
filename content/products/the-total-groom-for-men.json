@@ -1,0 +1,52 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "1 pack"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$34.50 per 1Ea"
+    }
+  ],
+  "brand": "Vs",
+  "createdAt": "2022-11-24T09:02:09.467Z",
+  "description": "The Total Groom is the tool for you to take control of your grooming routine. The one stop shop for all-over, fuss free trimming of your face and body. The Total Groom is the tool for you to take control of your grooming routine.",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/5/9/3596960.jpg",
+    "width": 300
+  },
+  "name": "The Total Groom For Men",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 34.5,
+    "lowPrice": 34.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T09:02:09.464Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "34.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/vs-for-men-the-total-groom"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/vs-for-men-the-total-groom"
+  ],
+  "sku": "3596960",
+  "updatedAt": "2022-11-24T09:02:09.465Z"
+}
