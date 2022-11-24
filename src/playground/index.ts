@@ -4,15 +4,17 @@ import deleteDuplicateUrls from './deleteDuplicateUrls';
 import colesNationalReplaceUrls from './colesNationalReplaceUrls';
 import incorrectUIrlIds from './incorrectUrlId';
 import resetRedirectedColesUrls from './resetRedirectedColesUrls';
+import countUrlSearch from './countUrlSearch';
 
 (async () => {
   await AppDataSource.initialize();
 
-  await deleteDisallowedDomains();
-  await colesNationalReplaceUrls();
-  await deleteDuplicateUrls();
-  await incorrectUIrlIds();
-  await resetRedirectedColesUrls();
+  // await deleteDisallowedDomains();
+  // await colesNationalReplaceUrls();
+  // await deleteDuplicateUrls();
+  // await incorrectUIrlIds();
+  // await resetRedirectedColesUrls();
+  await countUrlSearch();
 
   await AppDataSource.destroy();
 })();
