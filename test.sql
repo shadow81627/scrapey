@@ -15,7 +15,13 @@ GROUP BY hostname,
          pathname
 ORDER BY urls DESC;
 
+/* Get crawl urls */
+SELECT *
+FROM url
+WHERE crawledAt IS NULL
+ORDER BY createdAt;
 
+/* Count recipes */
 SELECT hostname,
        COUNT(*) AS `recipes`
 FROM thing
