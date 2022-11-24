@@ -50,15 +50,16 @@ export default async function crawl(
       (await connection.manager.findOne(Url, {
         where: [{ id: Url.generateId(Url.urlToParts(canonical)) }],
         relations: { urls: true },
-      })) ??
-      new Url(Url.urlToParts(canonical));
+      })) ?? new Url(Url.urlToParts(canonical));
     const dbUrl = new Url({
       ...urlParts,
       crawledAt: new Date(),
       canonical: dbCanonical,
     });
     dbCanonical.crawledAt = new Date();
-    dbCanonical.duration = Number(parseHrtimeToSeconds(process.hrtime(startTime)));
+    dbCanonical.duration = Number(
+      parseHrtimeToSeconds(process.hrtime(startTime)),
+    );
     await connection.manager.save(dbCanonical);
     dbUrl.crawledAt = new Date();
     dbUrl.duration = Number(parseHrtimeToSeconds(process.hrtime(startTime)));
@@ -68,28 +69,23 @@ export default async function crawl(
     // TODO set all non canonical urls to crawled as well
 
     // get a unique list of valid urls on the same origin
-    const links: string[] = _.uniqBy(
-      $('a[href]')
-        .map((_, e) => {
-          try {
-            const href = $(e).attr('href');
-            if (
-              href &&
-              (href.startsWith('http') ||
-                href.startsWith('/') ||
-                href.startsWith('://'))
-            ) {
-              return Url.getUrl(new URL(href, `https://${hostname}`));
-            }
-          } catch (_) {
-            // invalid url
+    const links: string[] = $('a[href]')
+      .map((_, e) => {
+        try {
+          const href = $(e).attr('href');
+          if (
+            href &&
+            (href.startsWith('http') ||
+              href.startsWith('/') ||
+              href.startsWith('://'))
+          ) {
+            return Url.getUrl(new URL(href, `https://${hostname}`));
           }
-        })
-        .get(),
-      function (link) {
-        return Url.generateId(Url.urlToParts(link));
-      },
-    )
+        } catch (_) {
+          // invalid url
+        }
+      })
+      .get()
       .filter(Boolean)
       .filter((link) => !disallowedHosts.includes(new URL(link).hostname))
       .filter(
@@ -98,7 +94,13 @@ export default async function crawl(
       );
 
     try {
-      dbCanonical.urls = links.map((link) => new Url(Url.urlToParts(link)));
+      const newLinks = links.map((link) => new Url(Url.urlToParts(link)));
+      dbCanonical.urls = _.uniqBy(
+        (dbCanonical.urls ?? []).concat(newLinks),
+        function (link) {
+          return link.id;
+        },
+      );
       await connection.manager.save(dbCanonical);
     } catch (e) {
       console.error('Urls Error', url, e.message);
