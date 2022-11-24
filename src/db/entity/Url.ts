@@ -99,7 +99,7 @@ export class Url {
     return normalizeUrl(url, {
       forceHttps: true,
       stripHash: true,
-      removeQueryParameters: ['reviewPageNumber', 'adobe_mc'],
+      removeQueryParameters: ['reviewPageNumber', 'adobe_mc', 'adId'],
     })
   }
 

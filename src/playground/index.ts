@@ -9,11 +9,11 @@ import countUrlSearch from './countUrlSearch';
 (async () => {
   await AppDataSource.initialize();
 
-  // await deleteDisallowedDomains();
-  // await colesNationalReplaceUrls();
-  // await deleteDuplicateUrls();
-  // await incorrectUIrlIds();
-  // await resetRedirectedColesUrls();
+  await deleteDisallowedDomains();
+  await colesNationalReplaceUrls();
+  await incorrectUIrlIds();
+  await deleteDuplicateUrls();
+  await resetRedirectedColesUrls();
   await countUrlSearch();
 
   await AppDataSource.destroy();
