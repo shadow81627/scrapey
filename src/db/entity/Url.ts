@@ -67,7 +67,7 @@ export class Url {
   issues?: Relation<CrawlIssue>;
 
   // computed full url property
-  @Column({ select: false, readonly: true, insert: false, nullable: true, })
+  @Column({ select: false, readonly: true, insert: false, nullable: true })
   url!: string;
 
   @AfterLoad()
@@ -87,7 +87,7 @@ export class Url {
   }
 
   public static getUrl({ hostname, pathname, search }: UrlParts): string {
-    const url = `https://${hostname}${pathname ?? ''}${search ?? ''}`
+    const url = `https://${hostname}${pathname ?? ''}${search ?? ''}`;
     if (isValidUrl(url)) {
       return normalizeUrl(url);
     } else {
@@ -99,14 +99,23 @@ export class Url {
     return normalizeUrl(url, {
       forceHttps: true,
       stripHash: true,
-      removeQueryParameters: ['reviewPageNumber', 'adobe_mc', 'adId'],
-    })
+      removeQueryParameters: [
+        'reviewPageNumber',
+        'adobe_mc',
+        'adId',
+        'utm_medium',
+        'utm_source',
+        'utm_campaign',
+        'pid',
+        'icmpid',
+        'citrusAdId',
+        'bvstate',
+      ],
+    });
   }
 
   public static urlToParts(url: string): UrlParts {
-    const { hostname, pathname, search } = new URL(
-      Url.normaliseUrl(url)
-    );
+    const { hostname, pathname, search } = new URL(Url.normaliseUrl(url));
     return { hostname, pathname, search };
   }
 

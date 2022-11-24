@@ -26,14 +26,19 @@ SELECT hostname,
        COUNT(*) AS `urls`
 FROM url
 WHERE crawledAt IS NULL
-AND deletedAt IS NULL
+  AND deletedAt IS NULL
 GROUP BY hostname
 ORDER BY urls DESC;
 
 /* Duplicate URLs */
-SELECT hostname, pathname, search, COUNT(*) AS `count`
+SELECT hostname,
+       pathname,
+       search,
+       COUNT(*) AS `count`
 FROM url
-GROUP BY hostname, pathname, search
+GROUP BY hostname,
+         pathname,
+         search
 HAVING count > 1
 ORDER BY `count` DESC;
 
@@ -46,3 +51,8 @@ LEFT JOIN url ON url.id = thing_urls.urlId
 WHERE type = 'Recipe'
 GROUP BY hostname
 ORDER BY recipes DESC;
+
+
+select *
+from url
+where search LIKE '%adId%';
