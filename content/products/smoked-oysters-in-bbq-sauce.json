@@ -1,0 +1,68 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Naturally smoked *oysters* (75%), water, *soy sauce* (*soybean*, *wheat*, water, salt), corn syrup, sugar, salt. *Contains molluscs, soy and wheat.*"
+    },
+    {
+      "name": "Allergen",
+      "value": "Contains Soybean, Contains Wheat"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "2.0"
+    },
+    {
+      "name": "Size",
+      "value": "85g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$38.82 per 1Kg"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Product of China"
+    }
+  ],
+  "brand": "John West",
+  "createdAt": "2022-11-24T23:14:02.997Z",
+  "description": "Carefully selected to meet the premium standards of John West, Oysters are perfect for entertaining friends or as an enjoyable snack.",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/6/0/2/6022425.jpg",
+    "width": 300
+  },
+  "name": "Smoked Oysters In BBQ Sauce",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3.3,
+    "lowPrice": 3.3,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T23:14:02.972Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "3.30",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/john-west-oysters-smoked-in-bbq-sauce"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/john-west-oysters-smoked-in-bbq-sauce"
+  ],
+  "sku": "6022425",
+  "updatedAt": "2022-11-24T23:14:02.974Z"
+}

@@ -1,0 +1,64 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "INGREDIENTS LIST: Vegetable Sauce (59%), Vegan Bechamel Sauce (27%), Lasagne Sheets (14%), Crumb Topping.Vegetable Sauce contains: Water, Tomato (24%) [Tomato, Acidity Regulator (330), Mineral Salt (509)], Mediterranean Style Vegetables (13%) [Eggplant, Zucchini, Red Capsicum], Spinach, Onion, Carrot, Tomato Paste, Red Wine, Crushed Garlic, Brown Sugar, Canola Oil, Corn Starch, Basil, Salt, Smoked Paprika, Preservative (234), Oregano.Vegan Bechamel Sauce contains: Soy Milk (81%) [Water, Soybean, Barley Malt, Barley Flour, Sugar, Sunflower Oil, Mineral Salt (341), Natural Flavouring, Sea Salt, Seaweed, Vitamin A, Vitamin B12, Vitamin B2], Water, Wheat Flour, Olive Oil, Wheat Starch, Corn Starch, Salt, Preservative (234), Nutmeg.Lasagne Sheets contain: Durum Wheat Semolina Crumb Topping ;contains: Breadcrumbs (Wheat), Parsley"
+    },
+    {
+      "name": "Allergen",
+      "value": "May Contain SESAME, Contains SOY, Contains Wheat, Contains CEREALS CONTAINING GLUTEN, Contains Barley"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "1.0"
+    },
+    {
+      "name": "Size",
+      "value": "400g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.75 per 100G"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2022-11-24T23:10:31.256Z",
+  "description": "Vegetable and tomato ragu layered with fresh pasta and bechamel sauce",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/4/6/3467980.jpg",
+    "width": 300
+  },
+  "name": "Natures Kitchen Vegetable Lasagne",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 7,
+    "lowPrice": 7,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T23:10:31.247Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "7.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-natures-kitchen-vegetable-lasagne"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/coles-natures-kitchen-vegetable-lasagne"
+  ],
+  "sku": "3467980",
+  "updatedAt": "2022-11-24T23:10:31.247Z"
+}

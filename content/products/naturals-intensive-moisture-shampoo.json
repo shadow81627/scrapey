@@ -1,0 +1,60 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Water, Ammonium Lauryl Sulfate, Ammonium Laureth Sulfate, Dimethiconol, Cocamide MEA, Glycol Distearate, Glycerin, Fragrance, Cocamidopropyl Betaine, Sodium Chloride, Sorbitol, Guar Hydroxypropyltrimonium Chloride, Sodium Phosphate, Citric Acid, Tetrasodium EDTA, Sodium Benzoate, Sodium Salicylate, Stearyl Dimethicone PG-Diethylmonium Chloride, PEG-55 Stearate, Laureth-4, Laureth-23, Polyquaternium-6, Nonfat Dry Milk, Cocos Nucifera (Coconut) Oil."
+    },
+    {
+      "name": "Colour",
+      "value": "Pink"
+    },
+    {
+      "name": "Size",
+      "value": "350ml"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.71 per 100mL"
+    }
+  ],
+  "brand": "Palmolive",
+  "createdAt": "2022-11-24T23:11:58.776Z",
+  "description": "Palmolive Naturals Intensive Moisture Shampoo",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/8/8/5889777.jpg",
+    "width": 300
+  },
+  "name": "Naturals Intensive Moisture Shampoo",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 6,
+    "lowPrice": 6,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T23:11:58.763Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "6.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/palmolive-naturals-intensive-moisture-shampoo"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/palmolive-naturals-intensive-moisture-shampoo"
+  ],
+  "sku": "5889777",
+  "updatedAt": "2022-11-24T23:11:58.764Z"
+}
