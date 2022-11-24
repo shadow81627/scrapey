@@ -1,51 +1,61 @@
 {
   "@type": "Recipe",
+  "author": {
+    "@type": "Person",
+    "name": "Produced for Woolworths"
+  },
   "cookTime": "PT30M",
-  "createdAt": "2022-11-22T04:32:05.171Z",
-  "datePublished": "2022-07-25",
+  "createdAt": "2022-11-24T00:54:47.865Z",
+  "datePublished": "2022-08-03",
   "description": "This Italian style plant based stew is hearty and filling with vegan sausages and butterbeans.",
-  "image": "https://foodhub.scene7.com/is/image/woolworthsltdprod/italian-sausage-stew?wid=4372&hei=4372&fmt=png-alpha",
-  "keywords": "Italian Sausage Stew",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1300,
+    "mime": "image/jpeg",
+    "url": "https://foodhub.scene7.com/is/image/woolworthsltdprod/italian-sausage-stew:Square-1300x1300",
+    "width": 1300
+  },
+  "keywords": "Stew,Zucchini,Tomato",
   "name": "Italian Sausage Stew Recipe | Woolworths",
   "prepTime": "PT10M",
-  "recipeCategory": "mains",
-  "recipeCuisine": "european",
+  "recipeCategory": "Lunch,Dinner",
+  "recipeCuisine": "Italian",
   "recipeId": "RGWW339083",
   "recipeIngredient": [
-    "2 tbs olive oil",
-    "400 g vegan sausages",
-    "1 large onion",
-    "2 large red capsicum",
-    "2 cloves garlic",
-    "1 large zucchini",
-    "1 tsp oregano",
-    "400 g chopped tomatoes",
-    "400 g butterbeans",
-    "30 g green olives"
+    "2 tbs olive oil, halved",
+    "400g vegan sausages, chopped into chunks",
+    "1 large onion, peeled and finely sliced",
+    "2 large red capsicum, cored and chopped",
+    "2 cloves garlic, peeled and minced",
+    "1 large zucchini, sliced",
+    "1 tsp oregano, dried",
+    "400g chopped tomatoes",
+    "400g butterbeans, drained",
+    "30g green olives, pitted and chopped"
   ],
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Pour over the chopped tomatoes and butter beans and stir in the olives. Simmer for 15 minutes until the vegetables and sausages are tender."
+      "HowToTip": {},
+      "text": "Heat the oil in a large pan on medium heat. Cook the onions for 5 minutes, add the sliced capsicums and zucchini and cook for 5 minutes."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Pour over the chopped tomatoes and butter beans and stir in the olives. Simmer for 15 minutes until the vegetables and sausages are tender."
+      "HowToTip": {},
+      "text": "Add the chopped sausages and cook for 3-4 minutes, stir in the garlic and oregano and cook for 1 minute."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
+      "HowToTip": {},
       "text": "Pour over the chopped tomatoes and butter beans and stir in the olives. Simmer for 15 minutes until the vegetables and sausages are tender."
     }
   ],
   "recipeNameId": "italian-sausage-stew",
   "recipeYield": "4",
   "sameAs": [
-    "https://woolworths.com.au/shop/find-recipes/vegetable-stew"
+    "https://woolworths.com.au/shop/recipes/italian-sausage-stew"
   ],
   "totalTime": "PT40M",
-  "updatedAt": "2022-11-22T04:32:05.170Z",
+  "updatedAt": "2022-11-24T00:54:47.863Z",
   "url": "https://www.woolworths.com.au/shop/recipes/italian-sausage-stew"
 }

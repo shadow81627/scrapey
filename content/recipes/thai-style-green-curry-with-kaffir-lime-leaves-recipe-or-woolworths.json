@@ -1,28 +1,38 @@
 {
   "@type": "Recipe",
+  "author": {
+    "@type": "Person",
+    "name": "Produced for Woolworths"
+  },
   "cookTime": "PT30M",
-  "createdAt": "2022-11-22T11:54:24.394Z",
-  "datePublished": "2022-01-28",
+  "createdAt": "2022-11-24T01:08:20.962Z",
+  "datePublished": "2022-09-26",
   "description": "This aromatic and spicy Thai green curry is a tasty and exciting dinner option.",
-  "image": "https://foodhub.scene7.com/is/image/woolworthsltdprod/337629?wid=2691&hei=2691&fmt=png-alpha",
-  "keywords": "Thai Style Green Curry with Kaffir Lime Leaves",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1300,
+    "mime": "image/jpeg",
+    "url": "https://foodhub.scene7.com/is/image/woolworthsltdprod/337629:Square-1300x1300",
+    "width": 1300
+  },
+  "keywords": "Green curry",
   "name": "Thai Style Green Curry with Kaffir Lime Leaves Recipe | Woolworths",
   "prepTime": "PT10M",
-  "recipeCategory": "mains",
-  "recipeCuisine": "asian",
+  "recipeCategory": "Lunch,Dinner",
+  "recipeCuisine": "Thai",
   "recipeId": "RGWW337629",
   "recipeIngredient": [
-    "2 medium green chillies",
-    "1 small red chilli",
-    "50 g broccolini",
-    "50 g bean sprouts",
-    "2 medium shallots",
-    "2 stalks lemongrass",
-    "3 tbs ginger",
+    "2 medium green chillies, de-seeded and chopped",
+    "1 small red chilli, de-seeded and chopped",
+    "50g broccolini",
+    "50g bean sprouts",
+    "2 medium shallots, sliced",
+    "2 stalks lemongrass, outer layer removed. body sliced.",
+    "3 tbs ginger, chopped",
     "1 tsp kaffir lime leaves",
-    "4 cloves garlic",
-    "25 g coriander",
-    "25 g basil",
+    "4 cloves garlic, peeled and chopped",
+    "25g coriander, chopped",
+    "25g basil, chopped",
     "1 tsp fish sauce",
     "0.5 tsp sugar",
     "1 tbs lime juice",
@@ -32,21 +42,21 @@
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Now add the coconut milk and using a hand blender, blitz until smooth.Allow this all to simmer now until the sauce reduces to at least 1 third the size. Remove from the heat and store."
+      "HowToTip": {},
+      "text": "In a pot on a medium heat, fry the veg and herbs in the sesame oil for 2 minutes. Now add the rest of the ingredients apart from the coconut milk and fry for another 2 minutes while mixing."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Now add the coconut milk and using a hand blender, blitz until smooth.Allow this all to simmer now until the sauce reduces to at least 1 third the size. Remove from the heat and store."
+      "HowToTip": {},
+      "text": "Now add the coconut milk and using a hand blender, blitz until smooth. Allow this all to simmer now until the sauce reduces to at least 1 third the size. Remove from the heat and store."
     }
   ],
   "recipeNameId": "thai-style-green-curry-with-kaffir-lime-leaves",
   "recipeYield": "4",
   "sameAs": [
-    "https://woolworths.com.au/shop/find-recipes/recipes-with-kaffir-lime-leaves"
+    "https://woolworths.com.au/shop/recipes/thai-style-green-curry-with-kaffir-lime-leaves"
   ],
   "totalTime": "PT40M",
-  "updatedAt": "2022-11-22T11:54:24.394Z",
+  "updatedAt": "2022-11-24T01:08:20.932Z",
   "url": "https://www.woolworths.com.au/shop/recipes/thai-style-green-curry-with-kaffir-lime-leaves"
 }
