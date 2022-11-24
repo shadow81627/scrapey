@@ -1,78 +1,94 @@
 {
   "@type": "Recipe",
+  "author": {
+    "@type": "Person",
+    "name": "Customer - charlotte8"
+  },
   "cookTime": "PT25M",
   "createdAt": "2022-11-24T17:04:58.243Z",
-  "datePublished": "2021-08-16",
+  "datePublished": "2022-08-03",
   "description": "A delicious little Mince Tart to have on the festive table this Christmas.",
-  "image": "https://foodhub.scene7.com/is/image/woolworthsltdprod/icc3t2wjhm486fudti8m?wid=4000&hei=3000&fmt=png-alpha",
-  "keywords": "Iced Fruit Minced Tarts",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1300,
+    "mime": "image/jpeg",
+    "url": "https://foodhub.scene7.com/is/image/woolworthsltdprod/icc3t2wjhm486fudti8m:Square-1300x1300",
+    "width": 1300
+  },
+  "keywords": "Tart,Fruit mince pie & tart",
   "name": "Iced Fruit Minced Tarts Recipe | Woolworths",
   "prepTime": "PT15M",
-  "recipeCategory": "desserts",
-  "recipeCuisine": "australian",
+  "recipeCategory": "Desserts",
+  "recipeCuisine": "Australian",
   "recipeId": "a0K2y0000011ufDEAQ",
   "recipeIngredient": [
-    "1 cup fruit mince",
-    "0.25 cup glace cherries",
+    "1 cup fruit mince (i use robertson's (available from ww)",
+    "0.25 cup glace cherries, chopped",
     "1 pack frozen unbaked sweet tart cases",
-    "12 glace cherries",
-    "80 g icing sugar mixture",
-    "0.5 medium lemon",
+    "12 glace cherries (for decoration)",
+    "80g icing sugar mixture, sifted",
+    "0.5 medium lemon, zested, juiced",
     "1 tsp very soft butter"
   ],
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Serve and enjoy over the Christmas festive season."
+      "HowToTip": {},
+      "text": "Preheat Oven to 160°C Fan. Line a baking tray with baking paper (ease of washing up if there are any spillages)"
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Serve and enjoy over the Christmas festive season."
+      "HowToTip": {},
+      "text": "Into a medium bowl, add Fruit Mince and chopped Cherries, mix to combine well."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Serve and enjoy over the Christmas festive season."
+      "HowToTip": {},
+      "image": "https://foodhub.scene7.com/is/image/woolworthsltdprod/giblvppcbugfbel0c12e?$foodhub-method-images$&fmt=png-alpha",
+      "text": "Remove tart cases from freezer and place on baking tray."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Serve and enjoy over the Christmas festive season."
+      "HowToTip": {},
+      "image": "https://foodhub.scene7.com/is/image/woolworthsltdprod/hophdvihnw9iymcnjavu?$foodhub-method-images$&fmt=png-alpha",
+      "text": "With a teaspoon, spoon the mixture evenly into each Tart Case."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Serve and enjoy over the Christmas festive season."
+      "HowToTip": {},
+      "image": "https://foodhub.scene7.com/is/image/woolworthsltdprod/h2hwmavijvstokspxwcn?$foodhub-method-images$&fmt=png-alpha",
+      "text": "Bake in a preheated oven for about 25 minutes or until the pastry is lightly golden (as each oven is different)."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Serve and enjoy over the Christmas festive season."
+      "HowToTip": {},
+      "image": "https://foodhub.scene7.com/is/image/woolworthsltdprod/jkedkfs7qfbz9evexosq?$foodhub-method-images$&fmt=png-alpha",
+      "text": "Remove to a wire rack, then when cool enough to handle, remove the foil base to allow pastry to cool completely."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Serve and enjoy over the Christmas festive season."
+      "HowToTip": {},
+      "text": "Icing directions - into a small bowl, add icing sugar mixture, zest, butter and enough lemon juice to bring it to the desired consistency for spreading."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Serve and enjoy over the Christmas festive season."
+      "HowToTip": {},
+      "image": "https://foodhub.scene7.com/is/image/woolworthsltdprod/gurporgbizgyhuxya1vv?$foodhub-method-images$&fmt=png-alpha",
+      "text": "Teaspoon mixture evenly onto each tartlet, smooth the top and decorate with cherries."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
+      "HowToTip": {},
+      "image": "https://foodhub.scene7.com/is/image/woolworthsltdprod/fepcz6wds2sjjlnqkeii?$foodhub-method-images$&fmt=png-alpha",
       "text": "Serve and enjoy over the Christmas festive season."
     }
   ],
   "recipeNameId": "iced-fruit-minced-tarts",
   "recipeYield": "12",
   "sameAs": [
-    "https://woolworths.com.au/shop/find-recipes/mince-tarts"
+    "https://woolworths.com.au/shop/recipes/iced-fruit-minced-tarts"
   ],
   "totalTime": "PT40M",
-  "updatedAt": "2022-11-24T17:04:58.237Z",
+  "updatedAt": "2022-11-24T23:17:44.233Z",
   "url": "https://www.woolworths.com.au/shop/recipes/iced-fruit-minced-tarts"
 }
