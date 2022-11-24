@@ -10,7 +10,7 @@ import AppDataSource from '../db/data-source';
 import { Crawler } from './crawl';
 
 const allowedHosts = [
-  // 'shop.coles.com.au',
+  'shop.coles.com.au',
   'woolworths.com.au',
   'budgetbytes.com',
   'connoisseurusveg.com',
@@ -68,7 +68,7 @@ type MySubject = {
     url.duration = duration;
     url.crawledAt = new Date();
     await connection.manager.save(url);
-    if (iteration > (perPage * page) - (perPage / 2)) {
+    if (iteration === ((perPage * page) - perPage) - (perPage / 2)) {
       await paginatedCrawl();
     }
   }
@@ -77,17 +77,17 @@ type MySubject = {
   async function paginatedCrawl() {
     const [urls, total] = await fetchCrawlUrls({ page, perPage });
     console.log(
-      'page',
+      'Page',
       page,
       'queuing',
       urls.length,
       'tasks of',
       total,
-      'total urls to crawl',
+      'total urls to crawl.',
     );
     page++;
     if (!urls || !urls.length) {
-      console.log('no urls terminating queue and database connection');
+      console.log('No urls found, terminating queue and database connection.');
       await pool.completed();
       await connection.destroy();
       await pool.terminate();
