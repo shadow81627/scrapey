@@ -39,10 +39,10 @@ export class Url {
   @Column({ nullable: true, type: 'text' })
   search?: string;
   @Column({ nullable: true, type: 'timestamp' })
-  crawledAt?: Date;
+  crawledAt?: Date | null;
 
   @Column({ nullable: true, type: 'bigint' })
-  duration?: number;
+  duration?: number | null;
 
   @Column(() => Dated, {
     prefix: false,
