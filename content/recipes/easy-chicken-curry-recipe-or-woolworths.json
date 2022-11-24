@@ -1,47 +1,63 @@
 {
   "@type": "Recipe",
+  "author": {
+    "@type": "Person",
+    "name": "Fresh Ideas"
+  },
   "cookTime": "PT35M",
   "createdAt": "2022-11-22T06:40:00.157Z",
-  "datePublished": "2021-03-10",
+  "datePublished": "2022-09-26",
   "description": "This chicken curry is simple and full of flavour, making it the perfect midweek meal.",
   "image": {
     "@type": "ImageObject",
     "height": 1300,
-    "mime": "image/png",
-    "url": "https://foodhub.scene7.com/is/image/woolworthsltdprod/1907-easy-chicken-curry-curry-v2?wid=1300&hei=1300&fmt=png-alpha",
+    "mime": "image/jpeg",
+    "url": "https://foodhub.scene7.com/is/image/woolworthsltdprod/1907-easy-chicken-curry-curry-v2:Square-1300x1300",
     "width": 1300
   },
-  "keywords": "Easy Chicken Curry",
+  "keywords": "Yellow curry,Fakeaway,High fibre,High protein,Gluten free,Winter,Low sugar,Dinner Made Easy,Chicken,Budget",
   "name": "Easy Chicken Curry Recipe | Woolworths",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "465 calories",
+    "carbohydrateContent": "10.1 g",
+    "fatContent": "32.2 g",
+    "fiberContent": "5.4 g",
+    "proteinContent": "31.8 g",
+    "saturatedFatContent": "18.4 g",
+    "sodiumContent": "1200 millig",
+    "sugarContent": "5.5 g",
+    "transFatContent": "0.1 g"
+  },
   "prepTime": "PT5M",
-  "recipeCategory": "mains",
-  "recipeCuisine": "asian",
+  "recipeCategory": "Mains",
+  "recipeCuisine": "Asian",
   "recipeId": "9544",
   "recipeIngredient": [
-    "2 brown onions",
-    "270 ml Ayam coconut milk",
+    "2 brown onions (finely sliced)",
+    "270ml Ayam coconut milk",
     "1 tbs olive oil",
-    "185 g Ayam Thai yellow curry paste",
-    "4 skinless chicken thigh fillets"
+    "185g Ayam Thai yellow curry paste",
+    "4 skinless chicken thigh fillets (cut into 4 pieces each)"
   ],
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Add coconut milk and 1 cup of water and bring to the boil. Reduce heat to low and cover and simmer for 25 minutes. Divide among serving bowls and serve."
+      "HowToTip": {},
+      "text": "Heat oil in a large, deep casserole saucepan over medium-high heat. Add onion and curry paste and cook for 2 minutes. Add chicken and cook, stirring, for 6 minutes or until browned."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
+      "HowToTip": {},
       "text": "Add coconut milk and 1 cup of water and bring to the boil. Reduce heat to low and cover and simmer for 25 minutes. Divide among serving bowls and serve."
     }
   ],
   "recipeNameId": "easy-chicken-curry",
   "recipeYield": "4",
   "sameAs": [
-    "https://woolworths.com.au/shop/find-recipes/easy-chicken-curry"
+    "https://woolworths.com.au/shop/recipes/easy-chicken-curry"
   ],
   "totalTime": "PT40M",
-  "updatedAt": "2022-11-22T06:40:00.155Z",
+  "updatedAt": "2022-11-24T15:28:23.004Z",
   "url": "https://www.woolworths.com.au/shop/recipes/easy-chicken-curry"
 }

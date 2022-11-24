@@ -1,0 +1,72 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "396kJ",
+      "carbohydrateContent": "14.7g",
+      "dietary_fibre": "-",
+      "fatContent": "3.5g",
+      "name": "nutrition",
+      "proteinContent": "0.9g",
+      "saturatedFatContent": "2.4g",
+      "servingSize": "100 g",
+      "sodiumContent": "18mg",
+      "sugarContent": "14.0g"
+    }
+  ],
+  "aggregateRating": {
+    "@context": "http://schema.org",
+    "@type": "AggregateRating",
+    "ratingCount": 34,
+    "ratingValue": 4.76470588235294
+  },
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Bulla"
+  },
+  "createdAt": "2022-11-24T12:32:23.178Z",
+  "description": "Fruit juice on the outside with a creamy vanilla flavoured ice cream centre.",
+  "gtin13": "9310161001411",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1200,
+    "mime": "image/jpeg",
+    "url": "https://cdn0.woolworths.media/content/wowproductimages/large/178943.jpg",
+    "width": 1200
+  },
+  "name": "Bulla Splits Ice Cream Wildberry Orange Tropical 10 Pack",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 4,
+    "lowPrice": 4,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T12:32:23.166Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 4,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/178943/bulla-splits-ice-cream-wildberry-orange-tropical"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/178943/bulla-splits-ice-cream-wildberry-orange-tropical"
+  ],
+  "sku": "178943",
+  "updatedAt": "2022-11-24T12:32:23.166Z"
+}

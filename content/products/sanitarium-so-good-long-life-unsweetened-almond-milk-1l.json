@@ -1,0 +1,66 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "172.00kJ",
+      "carbohydrateContent": "0.80g",
+      "dietary_fibre": "0.80g",
+      "fatContent": "3.50g",
+      "name": "nutrition",
+      "proteinContent": "1.50g",
+      "saturatedFatContent": "0.20g",
+      "servingSize": "100 g",
+      "sodiumContent": "90.00mg",
+      "sugarContent": "0.20g"
+    }
+  ],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Sanitarium"
+  },
+  "createdAt": "2022-11-24T12:40:26.623Z",
+  "description": "Sanitarium So Good Unsweetened Almond Milk is high in calcium and contains vitamins B12, B2 + E. No added sugar. Contains absolutely no artificial colours or flavours, lactose, gluten, cholesterol and dairy.Tree to TableSo Good Proudly supportingAustralian GrownWe're proud to use Australian almonds, supporting farming communities across Victoria and New South Wales.Our almonds are lightly roasted and churned into a butter - not soaked or sieved - making a creamy, delicious and nutrition nut milk. So Good Almond Milk's unique, mildly nutty taste is perfect with cereal, in a smoothie, or to add flavour to your favourite desserts and baking.",
+  "gtin13": "9300652803495",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1200,
+    "mime": "image/jpeg",
+    "url": "https://cdn0.woolworths.media/content/wowproductimages/large/744490.jpg",
+    "width": 1200
+  },
+  "name": "Sanitarium So Good Long Life Unsweetened Almond Milk 1L",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2.2,
+    "lowPrice": 2.2,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T12:40:26.622Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 2.2,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/744490/sanitarium-so-good-long-life-unsweetened-almond-milk"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/744490/sanitarium-so-good-long-life-unsweetened-almond-milk"
+  ],
+  "sku": "744490",
+  "updatedAt": "2022-11-24T12:40:26.622Z"
+}

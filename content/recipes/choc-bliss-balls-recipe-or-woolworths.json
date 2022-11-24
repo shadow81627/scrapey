@@ -1,14 +1,25 @@
 {
   "@type": "Recipe",
+  "author": {
+    "@type": "Person",
+    "name": "Customer - proudbunchee"
+  },
+  "cookTime": "PT0M",
   "createdAt": "2022-11-22T10:36:06.112Z",
-  "datePublished": "2021-11-03",
+  "datePublished": "2022-08-03",
   "description": "Healthy little snack and quick too!",
-  "image": "https://foodhub.scene7.com/is/image/woolworthsltdprod/r4wj31tc1dw347qdufh0?wid=2448&hei=2129&fmt=png-alpha",
-  "keywords": "Choc Bliss Balls",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1300,
+    "mime": "image/jpeg",
+    "url": "https://foodhub.scene7.com/is/image/woolworthsltdprod/r4wj31tc1dw347qdufh0:Square-1300x1300",
+    "width": 1300
+  },
+  "keywords": "Bliss & protein ball,Quick & easy dessert",
   "name": "Choc Bliss Balls Recipe | Woolworths",
   "prepTime": "PT10M",
-  "recipeCategory": "desserts",
-  "recipeCuisine": "australian",
+  "recipeCategory": "Desserts",
+  "recipeCuisine": "Australian",
   "recipeId": "a0K2y0000012dHPEAY",
   "recipeIngredient": [
     "15 medjool dates",
@@ -20,26 +31,26 @@
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Make into little balls and roll in coconut"
+      "HowToTip": {},
+      "text": "Deseed dates and pop everything in processor"
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Make into little balls and roll in coconut"
+      "HowToTip": {},
+      "text": "Blend until everything is chopped and mixed together."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
+      "HowToTip": {},
       "text": "Make into little balls and roll in coconut"
     }
   ],
   "recipeNameId": "choc-bliss-balls",
   "recipeYield": "10",
   "sameAs": [
-    "https://woolworths.com.au/shop/find-recipes/easy-bliss-balls"
+    "https://woolworths.com.au/shop/recipes/choc-bliss-balls"
   ],
   "totalTime": "PT10M",
-  "updatedAt": "2022-11-22T10:36:06.112Z",
+  "updatedAt": "2022-11-24T12:30:22.423Z",
   "url": "https://www.woolworths.com.au/shop/recipes/choc-bliss-balls"
 }

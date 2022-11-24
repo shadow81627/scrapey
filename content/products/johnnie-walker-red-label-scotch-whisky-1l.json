@@ -1,0 +1,52 @@
+{
+  "@type": "Product",
+  "additionalProperty": [],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Johnnie Walker"
+  },
+  "createdAt": "2022-11-24T14:45:38.310Z",
+  "description": "World famous Johnnie Walker Red Label is an icon in the world of Scotch. This 1 litre bottle is the perfect addition to your bar. Serve it up neat, over ice or with your favourite mixer and enjoy that famous, smokey flavour that is so distinctly Johnnie Walker.Spirit Type: WhiskyVarietal: Blended WhiskyAlcohol %: 40Standard Drinks: 32Country Of Origin: Scotland",
+  "gtin13": "5000267099026",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1200,
+    "mime": "image/jpeg",
+    "url": "https://cdn0.woolworths.media/content/wowproductimages/large/900934.jpg",
+    "width": 1200
+  },
+  "name": "Johnnie Walker Red Label Scotch Whisky 1L",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 59,
+    "lowPrice": 59,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T14:45:38.307Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 59,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/900934/johnnie-walker-red-label-scotch-whisky"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/900934/johnnie-walker-red-label-scotch-whisky"
+  ],
+  "sku": "900934",
+  "updatedAt": "2022-11-24T14:45:38.307Z"
+}

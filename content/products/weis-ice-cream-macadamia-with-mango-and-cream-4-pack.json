@@ -1,0 +1,72 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "694.0kJ",
+      "carbohydrateContent": "18.6g",
+      "dietary_fibre": "-",
+      "fatContent": "9.2g",
+      "name": "nutrition",
+      "proteinContent": "1.9g",
+      "saturatedFatContent": "4.8g",
+      "servingSize": "100 g",
+      "sodiumContent": "25.0mg",
+      "sugarContent": "17.1g"
+    }
+  ],
+  "aggregateRating": {
+    "@context": "http://schema.org",
+    "@type": "AggregateRating",
+    "ratingCount": 49,
+    "ratingValue": 4.79591836734694
+  },
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Weis"
+  },
+  "createdAt": "2022-11-24T12:31:02.871Z",
+  "description": "It started with the nuts! At Weis we are pretty nutty about the quality of our ingredients and how they taste when we blend them together. That's why when we created the recipe for our Macadamia Mango Ice Cream Bar, the first thing we had to do was find the best tasting mango and roasted macadamias available. They were right on our doorstep on the Sunshine Coast Hinterland! The macadamias are cracked and then carefully cut into the right size chunks to complement our famous Weis ice cream and Australian Kensington Pride mangoes. We hope you are as nuts about the taste and texture as we are. Ice cream made from real fruit. Fruit and cream are soulmates. Put them together with delicious natural ingredients, and you’ve got heaven in a Weis Bar. Our signature two-toned Classic Weis Bars, a moreish combination of real fruit and our traditional cream strip, are an irresistible indulgence – all wrapped up in a no stick, no-drip package. Available in a variety of flavours at your local snack bar, convenience store or service station. Or if you want to enjoy more of our divinely delicious Weis Bars, we’ve put them in Multipacks so you never have to run out. Look out for our colourful packs in the freezer at your supermarket. At Weis, our knowledge and expertise in sourcing and working with all different kinds of fruits, premium grade nuts and natural ingredients enables us to create unique combinations and taste experiences.",
+  "gtin13": "9310541000812",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1200,
+    "mime": "image/jpeg",
+    "url": "https://cdn0.woolworths.media/content/wowproductimages/large/224380.jpg",
+    "width": 1200
+  },
+  "name": "Weis Ice Cream Macadamia With Mango & Cream 4 Pack",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 8.5,
+    "lowPrice": 8.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T12:31:02.869Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 8.5,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/224380/weis-ice-cream-macadamia-with-mango-cream"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/224380/weis-ice-cream-macadamia-with-mango-cream"
+  ],
+  "sku": "224380",
+  "updatedAt": "2022-11-24T12:31:02.869Z"
+}

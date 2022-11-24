@@ -1,0 +1,71 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "Approx.734kJ",
+      "carbohydrateContent": "Approx.23g",
+      "dietary_fibre": "-",
+      "fatContent": "Approx.8.4g",
+      "name": "nutrition",
+      "proteinContent": "Approx.2g",
+      "saturatedFatContent": "Approx.7.2g",
+      "servingSize": "100 g",
+      "sodiumContent": "Approx.38mg",
+      "sugarContent": "Approx.16.1g"
+    }
+  ],
+  "aggregateRating": {
+    "@context": "http://schema.org",
+    "@type": "AggregateRating",
+    "ratingCount": 468,
+    "ratingValue": 4.51068376068376
+  },
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Woolworths"
+  },
+  "createdAt": "2022-11-24T12:32:31.113Z",
+  "gtin13": "9339687206223",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1200,
+    "mime": "image/jpeg",
+    "url": "https://cdn0.woolworths.media/content/wowproductimages/large/112273.jpg",
+    "width": 1200
+  },
+  "name": "Woolworths Choc Coated Vanilla Ice Cream Sticks 10 Pack",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3.5,
+    "lowPrice": 3.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T12:32:31.111Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 3.5,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/112273/woolworths-choc-coated-vanilla-ice-cream-sticks"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/112273/woolworths-choc-coated-vanilla-ice-cream-sticks"
+  ],
+  "sku": "112273",
+  "updatedAt": "2022-11-24T12:32:31.111Z"
+}

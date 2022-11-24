@@ -1,51 +1,61 @@
 {
   "@type": "Recipe",
+  "author": {
+    "@type": "Person",
+    "name": "Produced for Woolworths"
+  },
   "cookTime": "PT55M",
   "createdAt": "2022-11-24T01:26:36.309Z",
-  "datePublished": "2022-06-28",
+  "datePublished": "2022-09-26",
   "description": "This simple and satisfying pie is quick to whip up for a midweek meal everyone will love.",
-  "image": "https://foodhub.scene7.com/is/image/woolworthsltdprod/beef-mince-and-mushroom-pie?wid=4034&hei=4034&fmt=png-alpha",
-  "keywords": "Beef Mince & Mushroom Pie",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1300,
+    "mime": "image/jpeg",
+    "url": "https://foodhub.scene7.com/is/image/woolworthsltdprod/beef-mince-and-mushroom-pie:Square-1300x1300",
+    "width": 1300
+  },
+  "keywords": "Beef pie,Mushroom",
   "name": "Beef Mince & Mushroom Pie Recipe | Woolworths",
   "prepTime": "PT20M",
-  "recipeCategory": "mains",
-  "recipeCuisine": "british",
+  "recipeCategory": "Lunch,Dinner",
+  "recipeCuisine": "British",
   "recipeId": "RGWW339077",
   "recipeIngredient": [
     "2 tbs olive oil",
-    "500 g beef mince",
-    "200 g chestnut mushrooms",
-    "1 large leek",
+    "500g beef mince",
+    "200g chestnut mushrooms, diced",
+    "1 large leek, peeled and chopped",
     "1 tbs tomato puree",
     "4 tsp plain flour",
     "1 cup beef stock",
     "0.2 tsp Worcestershire sauce",
-    "400 g puff pastry",
-    "2 tbs butter"
+    "400g puff pastry, ready rolled",
+    "2 tbs butter, melted, for brushing"
   ],
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Pre-heat the oven to 180°C. Pour the beef mince mix into a large ovenproof dish and top with puff pastry, trimming the edges as necessary. Brush the pastry with butter, cut a steam hole in the middle and bake for 25 minutes, until golden."
+      "HowToTip": {},
+      "text": "Heat the oil in a large pan on medium high heat and cook the leek and mushrooms for 5 minutes, add the beef mince for 2-3 minutes."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Pre-heat the oven to 180°C. Pour the beef mince mix into a large ovenproof dish and top with puff pastry, trimming the edges as necessary. Brush the pastry with butter, cut a steam hole in the middle and bake for 25 minutes, until golden."
+      "HowToTip": {},
+      "text": "Stir in the tomato puree and flour and cook for 1 minute. Pour over the stock and a dash of Worcestershire sauce to taste and simmer for 20 minutes, until the beef is tender and sauce has reduced."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
+      "HowToTip": {},
       "text": "Pre-heat the oven to 180°C. Pour the beef mince mix into a large ovenproof dish and top with puff pastry, trimming the edges as necessary. Brush the pastry with butter, cut a steam hole in the middle and bake for 25 minutes, until golden."
     }
   ],
   "recipeNameId": "beef-mince-and-mushroom-pie",
   "recipeYield": "4",
   "sameAs": [
-    "https://woolworths.com.au/shop/find-recipes/beef-mince-pie-recipes"
+    "https://woolworths.com.au/shop/recipes/beef-mince-and-mushroom-pie"
   ],
   "totalTime": "PT75M",
-  "updatedAt": "2022-11-24T01:26:36.307Z",
+  "updatedAt": "2022-11-24T14:54:00.996Z",
   "url": "https://www.woolworths.com.au/shop/recipes/beef-mince-and-mushroom-pie"
 }

@@ -1,61 +1,71 @@
 {
   "@type": "Recipe",
+  "author": {
+    "@type": "Person",
+    "name": "Licensed by Woolworths - ©️ Dorling Kindersley Ltd"
+  },
   "cookTime": "PT20M",
   "createdAt": "2022-11-23T00:15:36.517Z",
-  "datePublished": "2021-12-10",
+  "datePublished": "2022-09-26",
   "description": "Home-made curry paste adds a delicious fragrance and warmth to the curry.",
-  "image": "https://foodhub.scene7.com/is/image/woolworthsltdprod/fiscoo152thared_033?wid=5428&hei=7230&fmt=png-alpha",
-  "keywords": "Thai Red Curry With Snapper",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1300,
+    "mime": "image/jpeg",
+    "url": "https://foodhub.scene7.com/is/image/woolworthsltdprod/fiscoo152thared_033:Square-1300x1300",
+    "width": 1300
+  },
+  "keywords": "Red curry",
   "name": "Thai Red Curry With Snapper Recipe | Woolworths",
   "prepTime": "PT10M",
-  "recipeCategory": "mains",
-  "recipeCuisine": "asian",
+  "recipeCategory": "Lunch,Dinner",
+  "recipeCuisine": "Thai",
   "recipeId": "RGR11610",
   "recipeIngredient": [
     "2 tbs sunflower oil",
     "2 tsp shrimp paste",
-    "1 large onion",
-    "2 cloves garlic",
+    "1 large onion, finely chopped",
+    "2 cloves garlic, crushed",
     "1 tbs palm sugar",
-    "4 tomatoes",
-    "400 g coconut milk",
+    "4 tomatoes, deseeded and diced",
+    "400g coconut milk",
     "1.2 cup Thai fish",
-    "0.5 tbs fish sauce",
+    "0.5 tbs fish sauce (to taste)",
     "1 small lime",
-    "700 g snapper fillets",
-    "4 red chillies",
-    "1 red capsicum",
+    "700g snapper fillets, each, scaled, pinboned, and halved",
+    "4 red chillies, deseeded and chopped",
+    "1 red capsicum, grilled, skin removed",
     "1 tbs ground coriander",
-    "2 stalks lemongrass",
-    "2 tbs galangal",
+    "2 stalks lemongrass, roughly chopped",
+    "2 tbs galangal, grated",
     "1 tbs Thai fish sauce",
     "1 tsp shrimp paste",
     "1 tsp palm sugar",
-    "3 tbs coriander leaves"
+    "3 tbs coriander leaves, roughly chopped"
   ],
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Add the snapper, return to a boil, then reduce the heat and simmer for 56 minutes or until the fish is just cooked; it will be white and beginning to flake. Sprinkle over the coriander and serve with steamed rice."
+      "HowToTip": {},
+      "text": "Place all the ingredients for the curry paste in a food processor and whizz to a paste."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Add the snapper, return to a boil, then reduce the heat and simmer for 56 minutes or until the fish is just cooked; it will be white and beginning to flake. Sprinkle over the coriander and serve with steamed rice."
+      "HowToTip": {},
+      "text": "Heat the oil in a wok, add the shrimp paste, and stir over a low heat for 1-2 minutes. Add the onion and cook for a further 2 minutes, then the garlic, palm sugar, tomatoes, and curry paste. Stir for 2 minutes, then add the coconut milk and stock. Bring to a boil and simmer for 4-5 minutes; season with fish sauce and lime juice."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Add the snapper, return to a boil, then reduce the heat and simmer for 56 minutes or until the fish is just cooked; it will be white and beginning to flake. Sprinkle over the coriander and serve with steamed rice."
+      "HowToTip": {},
+      "text": "Add the snapper, return to a boil, then reduce the heat and simmer for 5-6 minutes or until the fish is just cooked; it will be white and beginning to flake. Sprinkle over the coriander and serve with steamed rice."
     }
   ],
   "recipeNameId": "thai-red-curry-with-snapper",
   "recipeYield": "4",
   "sameAs": [
-    "https://woolworths.com.au/shop/find-recipes/fish-red-curry"
+    "https://woolworths.com.au/shop/recipes/thai-red-curry-with-snapper"
   ],
   "totalTime": "PT30M",
-  "updatedAt": "2022-11-23T00:15:36.516Z",
+  "updatedAt": "2022-11-24T14:40:10.209Z",
   "url": "https://www.woolworths.com.au/shop/recipes/thai-red-curry-with-snapper"
 }

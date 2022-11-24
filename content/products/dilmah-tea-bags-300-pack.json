@@ -1,0 +1,66 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "-",
+      "carbohydrateContent": "-",
+      "dietary_fibre": "-",
+      "fatContent": "-",
+      "name": "nutrition",
+      "proteinContent": "-",
+      "saturatedFatContent": "-",
+      "servingSize": "100 g",
+      "sodiumContent": "-",
+      "sugarContent": "-"
+    }
+  ],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Dilmah"
+  },
+  "createdAt": "2022-11-24T12:36:07.381Z",
+  "description": "Dilmah is the world's first truly ethical tea. Traders, big and small, dominate the tea industry now Under their control, tea became an ordinary commodity, denying growers of quality tea a fair return depriving consumers of the quality they enjoyed some years ago. Dilmah is the only global brand owned by tea growers. Dilmah is ethically produced & supplied direct to supermarkets around the world. By supplying direct profits are retained in Sri Lanka and are shared with workers, the wider community & reinvested in making tea a sustainable industry. Adding value at origin is the fairest trade of all. ",
+  "gtin13": "9312631136531",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1200,
+    "mime": "image/jpeg",
+    "url": "https://cdn0.woolworths.media/content/wowproductimages/large/254408.jpg",
+    "width": 1200
+  },
+  "name": "Dilmah Tea Bags 300 Pack",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 11.6,
+    "lowPrice": 11.6,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T12:36:07.380Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 11.6,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/254408/dilmah-tea-bags"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/254408/dilmah-tea-bags"
+  ],
+  "sku": "254408",
+  "updatedAt": "2022-11-24T12:36:07.380Z"
+}

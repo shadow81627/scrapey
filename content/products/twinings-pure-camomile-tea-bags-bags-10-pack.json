@@ -1,0 +1,66 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "20kJ",
+      "carbohydrateContent": "<1g",
+      "dietary_fibre": "-",
+      "fatContent": "<1g",
+      "name": "nutrition",
+      "proteinContent": "-",
+      "saturatedFatContent": "<1g",
+      "servingSize": "100 g",
+      "sodiumContent": "10mg",
+      "sugarContent": "<1g"
+    }
+  ],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Twinings"
+  },
+  "createdAt": "2022-11-24T12:35:21.502Z",
+  "description": "Twinings Herbal Infusions Bags Pure Camomile is naturally caffeine free. Soothing & gentle.A moment's peace and quiet...We think that a cup of our soothing, Pure Camomile is just what you need to bring about a little calm into your hectic day. So take a break to sip this gentle blend, enjoy the aroma and slow the pace of your day.For more delightful herbal infusions, try our soothing and minty Camomile & Spearmint.",
+  "gtin13": "70177169961",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1200,
+    "mime": "image/jpeg",
+    "url": "https://cdn0.woolworths.media/content/wowproductimages/large/931157.jpg",
+    "width": 1200
+  },
+  "name": "Twinings Pure Camomile Tea Bags Bags 10 Pack",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3,
+    "lowPrice": 3,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T12:35:21.501Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 3,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/931157/twinings-pure-camomile-tea-bags-bags"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/931157/twinings-pure-camomile-tea-bags-bags"
+  ],
+  "sku": "931157",
+  "updatedAt": "2022-11-24T12:35:21.501Z"
+}

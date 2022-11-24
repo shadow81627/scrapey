@@ -1,62 +1,77 @@
 {
   "@type": "Recipe",
+  "author": {
+    "@type": "Person",
+    "name": "Fresh Ideas"
+  },
   "cookTime": "PT40M",
   "createdAt": "2022-11-22T05:29:29.337Z",
-  "datePublished": "2021-03-10",
+  "datePublished": "2022-09-26",
   "description": "Try our easy to follow Roast Cauliflower, Chickpea & Paneer Curry recipe. Absolutely delicious with the best ingredients from Woolworths.",
   "image": {
     "@type": "ImageObject",
     "height": 1300,
-    "mime": "image/png",
-    "url": "https://foodhub.scene7.com/is/image/woolworthsltdprod/1804-roast-cauliflower-chickpea-and-paneer-curry?wid=1300&hei=1300&fmt=png-alpha",
+    "mime": "image/jpeg",
+    "url": "https://foodhub.scene7.com/is/image/woolworthsltdprod/1804-roast-cauliflower-chickpea-and-paneer-curry:Square-1300x1300",
     "width": 1300
   },
-  "keywords": "Roast Cauliflower, Chickpea & Paneer Curry",
+  "keywords": "Indian curry,Low saturated fat,High fibre,High protein,Roast,Low sugar,Low fat,Sesame free,Spinach,Cauliflower",
   "name": "Roast Cauliflower, Chickpea & Paneer Curry Recipe | Woolworths",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "582 calories",
+    "carbohydrateContent": "57.5 g",
+    "fatContent": "20.5 g",
+    "fiberContent": "18.5 g",
+    "proteinContent": "20.9 g",
+    "saturatedFatContent": "10.0 g",
+    "sodiumContent": "828 millig",
+    "sugarContent": "18.9 g"
+  },
   "prepTime": "PT15M",
-  "recipeCategory": "mains",
-  "recipeCuisine": "asian",
+  "recipeCategory": "Mains",
+  "recipeCuisine": "Indian",
   "recipeId": "7446",
   "recipeIngredient": [
     "0.25 cup mild tikka masala curry paste",
-    "1 large head cauliflower",
-    "700 g kent pumpkin",
-    "5 ml virgin olive oil spray",
-    "400 g can chickpeas",
-    "0.5 lemon",
-    "60 g baby spinach leaves",
-    "200 g ricotta",
-    "400 g coconut milk",
-    "250 g garlic naan bread"
+    "1 large head cauliflower, cut into large florets",
+    "700g kent pumpkin, deseeded",
+    "5ml virgin olive oil spray",
+    "400g can chickpeas, drained, rinsed",
+    "0.5 lemon, juiced",
+    "60g baby spinach leaves",
+    "200g ricotta, sliced",
+    "400g coconut milk (see tip)",
+    "250g garlic naan bread, warmed, halved"
   ],
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Pour over lemon juice and serve with naan bread for dipping."
+      "HowToTip": {},
+      "text": "Preheat oven to 200°C. Cut pumpkin into 2cm thick wedges. Place into a roasting pan with cauliflower. Spray with oil. Mix curry paste with coconut milk in a small bowl. Drizzle half the curry sauce over vegetables in pan. Roast for 15 minutes or until beginning to brown."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Pour over lemon juice and serve with naan bread for dipping."
+      "HowToTip": {},
+      "text": "Combine chickpeas with remaining sauce and add to roasting pan with vegetables. Cover with foil. Roast for 20 minutes or until vegetables are tender."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Pour over lemon juice and serve with naan bread for dipping."
+      "HowToTip": {},
+      "text": "Remove foil. Tuck spinach among vegetables and tear paneer slices over. Roast, uncovered, for a further 2-3 minutes or until the paneer softens."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
+      "HowToTip": {},
       "text": "Pour over lemon juice and serve with naan bread for dipping."
     }
   ],
   "recipeNameId": "roast-cauliflower-chickpea-and-paneer-curry",
   "recipeYield": "4",
   "sameAs": [
-    "https://woolworths.com.au/shop/find-recipes/cauliflower-curry"
+    "https://woolworths.com.au/shop/recipes/roast-cauliflower-chickpea-and-paneer-curry"
   ],
   "totalTime": "PT55M",
-  "updatedAt": "2022-11-22T05:29:29.336Z",
+  "updatedAt": "2022-11-24T15:29:24.942Z",
   "url": "https://www.woolworths.com.au/shop/recipes/roast-cauliflower-chickpea-and-paneer-curry"
 }

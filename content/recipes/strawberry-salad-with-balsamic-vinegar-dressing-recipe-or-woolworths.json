@@ -1,58 +1,73 @@
 {
   "@type": "Recipe",
+  "author": {
+    "@type": "Person",
+    "name": "Fresh Ideas"
+  },
   "createdAt": "2022-11-22T07:53:11.225Z",
-  "datePublished": "2021-07-16",
+  "datePublished": "2022-09-26",
   "description": "Try this vibrant salad for a fresh side dish. Sweet strawberries go perfectly with creamy feta, fresh mint and a balsamic vinegar dressing.",
   "image": {
     "@type": "ImageObject",
     "height": 1300,
-    "mime": "image/png",
-    "url": "https://foodhub.scene7.com/is/image/woolworthsltdprod/2106-strawberry-salad-with-balsamic-vinegar-dressing?wid=1300&hei=1300&fmt=png-alpha",
+    "mime": "image/jpeg",
+    "url": "https://foodhub.scene7.com/is/image/woolworthsltdprod/2106-strawberry-salad-with-balsamic-vinegar-dressing:Square-1300x1300",
     "width": 1300
   },
-  "keywords": "Strawberry Salad with Balsamic Vinegar Dressing",
+  "keywords": "Salad,Pescatarian,Seafood free,Green salad,Egg free,Low sugar,Summer,Strawberry,Wheat free,Vegetarian,Spinach",
   "name": "Strawberry Salad with Balsamic Vinegar Dressing Recipe | Woolworths",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "260 calories",
+    "carbohydrateContent": "5.6 g",
+    "fatContent": "23.2 g",
+    "fiberContent": "3.7 g",
+    "proteinContent": "6.2 g",
+    "sodiumContent": "238 millig",
+    "sugarContent": "4.8 g",
+    "transFatContent": "0.3 g"
+  },
   "prepTime": "PT15M",
-  "recipeCategory": "salads",
-  "recipeCuisine": "australian",
+  "recipeCategory": "Salads",
+  "recipeCuisine": "Australian",
   "recipeId": "11808",
   "recipeIngredient": [
     "2 tbs extra virgin olive oil",
     "1 tbs balsamic vinegar",
-    "60 g baby spinach leaves",
-    "1 lebanese cucumber",
-    "250 g punnet strawberries",
-    "0.5 bunch mint",
-    "0.5 cup walnuts",
-    "75 g Danish feta cheese"
+    "60g baby spinach leaves",
+    "1 lebanese cucumber, halved lengthways, thinly sliced",
+    "250g punnet strawberries, hulled, thinly sliced",
+    "0.5 bunch mint, leaves picked",
+    "0.5 cup walnuts, toasted, coarsely chopped",
+    "75g Danish feta cheese, crumbled"
   ],
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Drizzle with balsamic dressing and season with pepper. Serve."
+      "HowToTip": {},
+      "text": "Combine oil and vinegar in a small bowl. Season with pepper."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Drizzle with balsamic dressing and season with pepper. Serve."
+      "HowToTip": {},
+      "text": "Arrange spinach, cucumber, strawberries and mint on a serving platter."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Drizzle with balsamic dressing and season with pepper. Serve."
+      "HowToTip": {},
+      "text": "Scatter with walnuts and cheese."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
+      "HowToTip": {},
       "text": "Drizzle with balsamic dressing and season with pepper. Serve."
     }
   ],
   "recipeNameId": "strawberry-salad-with-balsamic-vinegar-dressing",
   "recipeYield": "4",
   "sameAs": [
-    "https://woolworths.com.au/shop/find-recipes/balsamic-vinegar-dressing"
+    "https://woolworths.com.au/shop/recipes/strawberry-salad-with-balsamic-vinegar-dressing"
   ],
-  "updatedAt": "2022-11-22T07:53:11.224Z",
+  "updatedAt": "2022-11-24T16:02:16.330Z",
   "url": "https://www.woolworths.com.au/shop/recipes/strawberry-salad-with-balsamic-vinegar-dressing"
 }

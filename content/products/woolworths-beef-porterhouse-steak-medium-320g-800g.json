@@ -1,0 +1,58 @@
+{
+  "@type": "Product",
+  "additionalProperty": [],
+  "aggregateRating": {
+    "@context": "http://schema.org",
+    "@type": "AggregateRating",
+    "ratingCount": 285,
+    "ratingValue": 4.58245614035088
+  },
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Woolworths"
+  },
+  "createdAt": "2022-11-24T15:40:21.715Z",
+  "description": "Cut from where the tenderloin and top loin meets, this porterhouse steak is unmistakably tender and juicy.Cooking hint & tips:PREP: Remove steak from fridge and rest it to room temperature before cooking.SEASON & SEAR: Lightly oil and season well with salt & pepper. Sear in a hot pan to seal in the juices. Tip: If cooking over a BBQ grill, do not oil your steak to avoid burning.REST: Rest before serving for a more tender and juicy experience.Level of Doneness:Pan Fry/BBQ:Rare - 2.5 min on each side and rest for 2 minutesMedium - 3.5 min each side and rest for 4 minutes (recommended)Well done- 4.5 minutes on each side, rest for 5 minutes",
+  "gtin13": "9339687142125",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1200,
+    "mime": "image/jpeg",
+    "url": "https://cdn0.woolworths.media/content/wowproductimages/large/675650.jpg",
+    "width": 1200
+  },
+  "name": "Woolworths Beef Porterhouse Steak Medium 320G - 800G",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 28,
+    "lowPrice": 28,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T15:40:21.712Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 28,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/675650/woolworths-beef-porterhouse-steak-medium"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/675650/woolworths-beef-porterhouse-steak-medium"
+  ],
+  "sku": "675650",
+  "updatedAt": "2022-11-24T15:40:21.712Z"
+}

@@ -1,0 +1,66 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "436kJ",
+      "carbohydrateContent": "6.1g",
+      "dietary_fibre": "1.6g",
+      "fatContent": "6.8g",
+      "name": "nutrition",
+      "proteinContent": "4.0g",
+      "saturatedFatContent": "0.6g",
+      "servingSize": "100 g",
+      "sodiumContent": "293mg",
+      "sugarContent": "0.6g"
+    }
+  ],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Greens & Goodness"
+  },
+  "createdAt": "2022-11-24T13:22:26.835Z",
+  "description": "Greens & Goodness Golden Tempura Nuggets are a delicious plant based food. Made with pea protein and shaped into a nugget with a crispy tempura coating for taste, flavour and texture. Low in saturated fat. Contains no artificial colours, flavours or no added preservatives.Greens & Goodness Made with Pea ProteinMade with premium pea-based protein, Greens & Goodness brings the finest ingredients together, creating meals and snacks that are simple, healthy and delicious.",
+  "gtin13": "9359102000045",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1200,
+    "mime": "image/jpeg",
+    "url": "https://cdn0.woolworths.media/content/wowproductimages/large/218733.jpg",
+    "width": 1200
+  },
+  "name": "Greens & Goodness Greens & Goodness Golden Tempura Nuggets 290g",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 8,
+    "lowPrice": 8,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T13:22:26.834Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 8,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/218733/greens-goodness-greens-goodness-golden-tempura-nuggets"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/218733/greens-goodness-greens-goodness-golden-tempura-nuggets"
+  ],
+  "sku": "218733",
+  "updatedAt": "2022-11-24T13:22:26.834Z"
+}

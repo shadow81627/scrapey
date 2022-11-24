@@ -1,8 +1,12 @@
 {
   "@type": "Recipe",
+  "author": {
+    "@type": "Person",
+    "name": "Produced for Woolworths"
+  },
   "cookTime": "PT25M",
   "createdAt": "2022-11-24T01:07:10.022Z",
-  "datePublished": "2022-05-19",
+  "datePublished": "2022-09-26",
   "description": "This colourful vegetarian hash makes an easy brunch or breakfast dish and you can add any vegetables you like.",
   "image": {
     "@type": "ImageObject",
@@ -11,19 +15,19 @@
     "url": "https://foodhub.woolworths.com.au/content/dam/woolworths-foodhub/recipe/import/images/licensed-by-woolworths/338484.jpg",
     "width": 3285
   },
-  "keywords": "Sweet Potato & Kale Hash",
+  "keywords": "Egg dishes,Broccoli,Kale,Sweet potato,Egg",
   "name": "Sweet Potato & Kale Hash Recipe | Woolworths",
   "prepTime": "PT10M",
-  "recipeCategory": "breakfast",
-  "recipeCuisine": "north-american",
+  "recipeCategory": "Breakfast",
+  "recipeCuisine": "American",
   "recipeId": "RGWW338484",
   "recipeIngredient": [
-    "2 large sweet potato",
+    "2 large sweet potato, chopped into small cubes",
     "2 tbs olive oil",
-    "1 large red onions",
-    "250 g kale",
-    "100 g tenderstem broccoli",
-    "1 large red chilli",
+    "1 large red onions, finely sliced",
+    "250g kale, destalked, chopped",
+    "100g tenderstem broccoli, chopped",
+    "1 large red chilli, finely sliced",
     "4 large eggs",
     "1 pinch cracked black pepper",
     "4 tsp sriracha sauce"
@@ -31,31 +35,31 @@
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Divide the hash mix between 4 plates, top each with a fried egg, cracked black pepper and a drizzle of sriracha sauce and serve."
+      "HowToTip": {},
+      "text": "In a large sauce pan filled with water, boil the sweet potato cubes for 5-6 minutes until tender and drain well."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Divide the hash mix between 4 plates, top each with a fried egg, cracked black pepper and a drizzle of sriracha sauce and serve."
+      "HowToTip": {},
+      "text": "Heat the oil in a large pan on a medium high heat and add the red onion, cook for 3 minutes, then add the sweet potato, kale and broccoli and cook for 4-5 minutes until softened. Add the chilli and cook for 1 minute."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Divide the hash mix between 4 plates, top each with a fried egg, cracked black pepper and a drizzle of sriracha sauce and serve."
+      "HowToTip": {},
+      "text": "Fry the eggs in a non-stick pan to your liking."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
+      "HowToTip": {},
       "text": "Divide the hash mix between 4 plates, top each with a fried egg, cracked black pepper and a drizzle of sriracha sauce and serve."
     }
   ],
   "recipeNameId": "sweet-potato-and-kale-hash",
   "recipeYield": "4",
   "sameAs": [
-    "https://woolworths.com.au/shop/find-recipes/egg-and-potato-recipe"
+    "https://woolworths.com.au/shop/recipes/sweet-potato-and-kale-hash"
   ],
   "totalTime": "PT35M",
-  "updatedAt": "2022-11-24T01:07:10.019Z",
+  "updatedAt": "2022-11-24T13:09:12.357Z",
   "url": "https://www.woolworths.com.au/shop/recipes/sweet-potato-and-kale-hash"
 }

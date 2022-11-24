@@ -1,55 +1,68 @@
 {
   "@type": "Recipe",
+  "author": {
+    "@type": "Person",
+    "name": "Customer - nola189"
+  },
   "cookTime": "PT10M",
   "createdAt": "2022-11-24T10:50:10.808Z",
-  "datePublished": "2021-05-11",
+  "datePublished": "2022-08-03",
   "description": "A white Christmas fudge that everyone will love.",
-  "image": "https://foodhub.scene7.com/is/image/woolworthsltdprod/z1li5bleeaqagdiofffl?wid=4528&hei=3945&fmt=png-alpha",
-  "keywords": "White Chocolate Malteser Fudge",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1300,
+    "mime": "image/jpeg",
+    "url": "https://foodhub.scene7.com/is/image/woolworthsltdprod/z1li5bleeaqagdiofffl:Square-1300x1300",
+    "width": 1300
+  },
+  "keywords": "Fudge,Christmas,White Christmas,Chocolate,Quick & easy dessert",
   "name": "White Chocolate Malteser Fudge Recipe | Woolworths",
   "prepTime": "PT5M",
-  "recipeCategory": "desserts",
-  "recipeCuisine": "australian",
+  "recipeCategory": "Desserts",
+  "recipeCuisine": "Australian",
   "recipeId": "a0K0I00000SHeYBUA1",
   "recipeIngredient": [
-    "195 g sweetened condensed Milk",
-    "240 g white chocolate",
-    "150 g maltesers",
-    "75 g red and green M&Ms"
+    "195g sweetened condensed Milk",
+    "240g white chocolate",
+    "150g maltesers",
+    "75g red and green M&Ms"
   ],
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Place in the fridge for a few hours to set and then cut up into small pieces. If you are impatient like me and can't wait, pop it in the freezer! Enjoy!"
+      "HowToTip": {},
+      "image": "https://foodhub.scene7.com/is/image/woolworthsltdprod/p9ggpjkfdgxvwlhgiadc?wid=5632&hei=4224&fmt=png-alpha",
+      "text": "Line a small baking tray with some baking paper. Pour the Maltesers and M&Ms all over the bottom of the tray."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Place in the fridge for a few hours to set and then cut up into small pieces. If you are impatient like me and can't wait, pop it in the freezer! Enjoy!"
+      "HowToTip": {},
+      "text": "Break up the white chocolate. In a small saucepan add the sweetened condensed milk and white chocolate."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Place in the fridge for a few hours to set and then cut up into small pieces. If you are impatient like me and can't wait, pop it in the freezer! Enjoy!"
+      "HowToTip": {},
+      "image": "https://foodhub.scene7.com/is/image/woolworthsltdprod/gxyirz56fpfnmplqqiso?wid=4279&hei=3299&fmt=png-alpha",
+      "text": "Using a low heat, stir the mixture continuously until the white chocolate has melted."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Place in the fridge for a few hours to set and then cut up into small pieces. If you are impatient like me and can't wait, pop it in the freezer! Enjoy!"
+      "HowToTip": {},
+      "image": "https://foodhub.scene7.com/is/image/woolworthsltdprod/mjkyg6ltijrv7osyf6at?wid=2171&hei=1673&fmt=png-alpha",
+      "text": "Pour the melted mixture over the Maltesers and M&Ms, ensuring they are all completely covered. You can add more M&Ms on top to give a more Christmas feel."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
+      "HowToTip": {},
       "text": "Place in the fridge for a few hours to set and then cut up into small pieces. If you are impatient like me and can't wait, pop it in the freezer! Enjoy!"
     }
   ],
   "recipeNameId": "white-chocolate-malteaser-fudge",
   "recipeYield": "12",
   "sameAs": [
-    "https://woolworths.com.au/shop/find-recipes/choc-fudge"
+    "https://woolworths.com.au/shop/recipes/white-chocolate-malteaser-fudge"
   ],
   "totalTime": "PT15M",
-  "updatedAt": "2022-11-24T10:50:10.807Z",
+  "updatedAt": "2022-11-24T18:04:35.728Z",
   "url": "https://www.woolworths.com.au/shop/recipes/white-chocolate-malteaser-fudge"
 }

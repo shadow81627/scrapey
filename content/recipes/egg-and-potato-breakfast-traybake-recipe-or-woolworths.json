@@ -1,21 +1,31 @@
 {
   "@type": "Recipe",
+  "author": {
+    "@type": "Person",
+    "name": "Produced for Woolworths"
+  },
   "cookTime": "PT30M",
   "createdAt": "2022-11-22T04:08:18.778Z",
-  "datePublished": "2022-07-14",
+  "datePublished": "2022-08-03",
   "description": "This delicious breakfast traybake with eggs, potatoes and tomatoes saves on the washing up and lets the oven do all the work.",
-  "image": "https://foodhub.scene7.com/is/image/woolworthsltdprod/egg-and-potato-breakfast-traybake?wid=3907&hei=3907&fmt=png-alpha",
-  "keywords": "Egg & Potato Breakfast Traybake",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1300,
+    "mime": "image/jpeg",
+    "url": "https://foodhub.scene7.com/is/image/woolworthsltdprod/egg-and-potato-breakfast-traybake:Square-1300x1300",
+    "width": 1300
+  },
+  "keywords": "Potato bake,Egg,Traybake,Tomato,Potato",
   "name": "Egg & Potato Breakfast Traybake Recipe | Woolworths",
   "prepTime": "PT5M",
-  "recipeCategory": "breakfast",
-  "recipeCuisine": "australian",
+  "recipeCategory": "Breakfast",
+  "recipeCuisine": "Australian",
   "recipeId": "RGWW339225",
   "recipeIngredient": [
     "2 tbs olive oil",
-    "400 g potatoes",
-    "1 tsp rosemary",
-    "4 medium tomatoes",
+    "400g potatoes, diced",
+    "1 tsp rosemary, dried",
+    "4 medium tomatoes, halved",
     "4 medium eggs",
     "1 pinch cracked black pepper",
     "1 pinch salt"
@@ -23,26 +33,26 @@
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Bake for 68 minutes until the yolks are cooked to your liking and the whites are just set."
+      "HowToTip": {},
+      "text": "Pre-heat the oven to 170°C. Toss the diced potatoes in a large baking tray with oil, rosemary and salt and pepper. Spread out in an even layer and roast for 15-18 minutes, tossing halfway through."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Bake for 68 minutes until the yolks are cooked to your liking and the whites are just set."
+      "HowToTip": {},
+      "text": "Make 4 gaps in the tray and crack in the eggs. Fit the tomato halves in amongst the potatoes and eggs."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Bake for 68 minutes until the yolks are cooked to your liking and the whites are just set."
+      "HowToTip": {},
+      "text": "Bake for 6-8 minutes until the yolks are cooked to your liking and the whites are just set."
     }
   ],
   "recipeNameId": "egg-and-potato-breakfast-traybake",
   "recipeYield": "4",
   "sameAs": [
-    "https://woolworths.com.au/shop/find-recipes/potato-breakfast"
+    "https://woolworths.com.au/shop/recipes/egg-and-potato-breakfast-traybake"
   ],
   "totalTime": "PT35M",
-  "updatedAt": "2022-11-22T04:08:18.778Z",
+  "updatedAt": "2022-11-24T13:08:36.433Z",
   "url": "https://www.woolworths.com.au/shop/recipes/egg-and-potato-breakfast-traybake"
 }

@@ -1,58 +1,68 @@
 {
   "@type": "Recipe",
+  "author": {
+    "@type": "Person",
+    "name": "Produced for Woolworths"
+  },
   "cookTime": "PT180M",
   "createdAt": "2022-11-24T12:14:51.298Z",
-  "datePublished": "2022-07-04",
+  "datePublished": "2022-08-03",
   "description": "Beef shin becomes meltingly tender when slow cooked in this rich and impressive stew with earthy porcini.",
-  "image": "https://foodhub.scene7.com/is/image/woolworthsltdprod/rich-beef-shin-and-wild-mushroom-stew?wid=4233&hei=4233&fmt=png-alpha",
-  "keywords": "Rich Beef Shin & Wild Mushroom Stew",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1300,
+    "mime": "image/jpeg",
+    "url": "https://foodhub.scene7.com/is/image/woolworthsltdprod/rich-beef-shin-and-wild-mushroom-stew:Square-1300x1300",
+    "width": 1300
+  },
+  "keywords": "Beef stew,Tomato,Beef,Mushroom",
   "name": "Rich Beef Shin & Wild Mushroom Stew Recipe | Woolworths",
   "prepTime": "PT10M",
-  "recipeCategory": "mains",
-  "recipeCuisine": "british",
+  "recipeCategory": "Lunch,Dinner",
+  "recipeCuisine": "British",
   "recipeId": "RGWW339328",
   "recipeIngredient": [
     "2 tbs olive oil",
-    "1.6 kg beef shin",
-    "50 g plain flour",
-    "50 g dried porcini",
-    "3 medium onions",
-    "250 g chestnut mushrooms",
-    "6 cloves garlic",
-    "0.5 bunch thyme",
+    "1.6kg beef shin, 6 bone in pieces, chilled",
+    "50g plain flour",
+    "50g dried porcini",
+    "3 medium onions, peeled and sliced",
+    "250g chestnut mushrooms, sliced",
+    "6 cloves garlic, peeled",
+    "0.5 bunch thyme, about 5 sprigs",
     "2 tbs tomato puree",
     "0.5 cup red wine",
-    "2 cups beef stock",
+    "2 cups beef stock, hot",
     "2 tbs balsamic vinegar"
   ],
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Bring to the boil, reduce the heat and simmer for 2.5 hours with the lid on. Remove the thyme and bones, scraping any marrow out and back into the sauce."
+      "HowToTip": {},
+      "text": "Dust the beef shin pieces with flour. Heat half of the oil in a large, deep casserole and cook the beef in batches for 2 minute on each side to brown. Remove with a slotted spoon and set aside."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Bring to the boil, reduce the heat and simmer for 2.5 hours with the lid on. Remove the thyme and bones, scraping any marrow out and back into the sauce."
+      "HowToTip": {},
+      "text": "Place the dried porcini in a bowl with 500ml of boiling water and rehydrate for 15 minutes. Add the remaining oil and onions to the casserole and cook for 4-5 minutes, tip in the mushrooms, garlic cloves and thyme sprigs cook for 5 minutes."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Bring to the boil, reduce the heat and simmer for 2.5 hours with the lid on. Remove the thyme and bones, scraping any marrow out and back into the sauce."
+      "HowToTip": {},
+      "text": "Add the beef shin to the pan, stir in the tomato puree and pour over the red wine and balsamic vinegar, dried mushrooms plus their liquid and the stock."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
+      "HowToTip": {},
       "text": "Bring to the boil, reduce the heat and simmer for 2.5 hours with the lid on. Remove the thyme and bones, scraping any marrow out and back into the sauce."
     }
   ],
   "recipeNameId": "rich-beef-shin-and-wild-mushroom-stew",
   "recipeYield": "4",
   "sameAs": [
-    "https://woolworths.com.au/shop/find-recipes/beef-slow-cooking-recipes"
+    "https://woolworths.com.au/shop/recipes/rich-beef-shin-and-wild-mushroom-stew"
   ],
   "totalTime": "PT190M",
-  "updatedAt": "2022-11-24T12:14:51.297Z",
+  "updatedAt": "2022-11-24T13:57:14.675Z",
   "url": "https://www.woolworths.com.au/shop/recipes/rich-beef-shin-and-wild-mushroom-stew"
 }

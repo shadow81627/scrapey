@@ -1,0 +1,71 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "-",
+      "carbohydrateContent": "-",
+      "dietary_fibre": "-",
+      "fatContent": "-",
+      "name": "nutrition",
+      "proteinContent": "-",
+      "saturatedFatContent": "-",
+      "servingSize": "100 g",
+      "sodiumContent": "-",
+      "sugarContent": "-"
+    }
+  ],
+  "aggregateRating": {
+    "@context": "http://schema.org",
+    "@type": "AggregateRating",
+    "ratingCount": 1,
+    "ratingValue": 5
+  },
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization"
+  },
+  "createdAt": "2022-11-24T14:46:56.631Z",
+  "description": "Approximately 200g - 260g per portionIf you would prefer a certain cut or fillet size, add a note at checkout for our in-store fishmonger.",
+  "gtin13": "0277294000003",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1200,
+    "mime": "image/jpeg",
+    "url": "https://cdn0.woolworths.media/content/wowproductimages/large/126497.jpg",
+    "width": 1200
+  },
+  "name": "Salmon Tasmanian Atlantic Fillets Skinned & Boned Per Kg",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 36,
+    "lowPrice": 36,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T14:46:56.630Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 36,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/126497/salmon-tasmanian-atlantic-fillets-skinned-boned"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/126497/salmon-tasmanian-atlantic-fillets-skinned-boned"
+  ],
+  "sku": "126497",
+  "updatedAt": "2022-11-24T14:46:56.630Z"
+}

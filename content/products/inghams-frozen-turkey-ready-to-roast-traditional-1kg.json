@@ -1,0 +1,72 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "699kJ",
+      "carbohydrateContent": "5.1g",
+      "dietary_fibre": "-",
+      "fatContent": "5.7g",
+      "name": "nutrition",
+      "proteinContent": "23.0g",
+      "saturatedFatContent": "1.8g",
+      "servingSize": "100 g",
+      "sodiumContent": "965mg",
+      "sugarContent": "1.2g"
+    }
+  ],
+  "aggregateRating": {
+    "@context": "http://schema.org",
+    "@type": "AggregateRating",
+    "ratingCount": 149,
+    "ratingValue": 4.68456375838926
+  },
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Ingham's"
+  },
+  "createdAt": "2022-11-24T15:40:08.894Z",
+  "description": "Inghams Turkey Breast is no added hormones, gluten-free and made with 100% Aussie turkey.  Australian turkey breast meat, marinated for a succulent roast every time. Ingham's is dedicated to providing the best quality turkey that is at the heart of your table. Ingham's is passionate about the quality and health of their turkeys, providing great tasting food and sharing meals with family and friends. Generations of families have grown up enjoying Ingham's, united at the heart of the table by great meals. Tables are where we connect, talk and share our lives with the people that matter most to us. Ingham's, Love 'em.",
+  "gtin13": "9310037149247",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1200,
+    "mime": "image/jpeg",
+    "url": "https://cdn0.woolworths.media/content/wowproductimages/large/041929.jpg",
+    "width": 1200
+  },
+  "name": "Ingham's Frozen Turkey Ready To Roast Traditional 1Kg",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 16,
+    "lowPrice": 16,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T15:40:08.892Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 16,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/41929/ingham-s-frozen-turkey-ready-to-roast-traditional"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/41929/ingham-s-frozen-turkey-ready-to-roast-traditional"
+  ],
+  "sku": "41929",
+  "updatedAt": "2022-11-24T15:40:08.892Z"
+}

@@ -1,52 +1,67 @@
 {
   "@type": "Recipe",
+  "author": {
+    "@type": "Person",
+    "name": "Fresh Ideas"
+  },
   "cookTime": "PT25M",
   "createdAt": "2022-11-24T11:35:11.780Z",
-  "datePublished": "2021-03-10",
-  "description": "Warming and hearty, this vegetable soup has subtle umami flavours. Add a protein if you prefer, such as shredded chicken or a boiled egg. ",
+  "datePublished": "2022-09-26",
+  "description": "Warming and hearty, this vegetable soup has subtle umami flavours. Add a protein if you prefer, such as shredded chicken or a boiled egg. \n",
   "image": {
     "@type": "ImageObject",
     "height": 1300,
-    "mime": "image/png",
-    "url": "https://foodhub.scene7.com/is/image/woolworthsltdprod/2005-vegetable-soup?wid=1300&hei=1300&fmt=png-alpha",
+    "mime": "image/jpeg",
+    "url": "https://foodhub.scene7.com/is/image/woolworthsltdprod/2005-vegetable-soup:Square-1300x1300",
     "width": 1300
   },
-  "keywords": "Vegetable Soup",
+  "keywords": "Vegetable soup,Pescatarian,Low saturated fat,Tree nut free,Egg free,Jun 2020,Winter,Low sugar,Sesame free,Mushroom,May 2020,Halal,Low kilojoule,Soy free,Vegetarian,Vegan,Low fat,Spinach,Dairy free,Peanut free",
   "name": "Vegetable Soup Recipe | Woolworths",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "189 calories",
+    "carbohydrateContent": "22.3 g",
+    "fatContent": "9.4 g",
+    "fiberContent": "2.9 g",
+    "proteinContent": "2.8 g",
+    "saturatedFatContent": "1.9 g",
+    "sodiumContent": "2240 millig",
+    "sugarContent": "19.2 g"
+  },
   "prepTime": "PT5M",
-  "recipeCategory": "entrees",
-  "recipeCuisine": "european",
+  "recipeCategory": "Entrees",
+  "recipeCuisine": "Italian",
   "recipeId": "10218",
   "recipeIngredient": [
-    "1 carrot, halved lengthways",
-    "2 celery stalks",
-    "1 brown onion",
-    "200 g button mushrooms",
-    "2 L salt-reduced vegetable stock",
+    "1 carrot, halved lengthways, thinly sliced",
+    "2 celery stalks, thinly sliced",
+    "1 brown onion, diced",
+    "200g button mushrooms, sliced",
+    "2L salt-reduced vegetable stock",
     "2 tbs worcestershire sauce",
     "0.25 cup HP sauce",
-    "60 g baby spinach leaves",
+    "60g baby spinach leaves",
     "2 tbs olive oil",
-    "2 cloves garlic"
+    "2 cloves garlic, minced"
   ],
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Add mushroom and spinach and cook for 2 minutes or until softened. Ladle soup into bowls. Serve."
+      "HowToTip": {},
+      "text": "Heat oil in a large saucepan over medium heat. Add onion, carrot, celery and garlic and cook, stirring, for 5 minutes. Add stock and sauces and bring to the boil. Reduce heat to low and simmer for 15 minutes or until vegetables have softened."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
+      "HowToTip": {},
       "text": "Add mushroom and spinach and cook for 2 minutes or until softened. Ladle soup into bowls. Serve."
     }
   ],
   "recipeNameId": "vegetable-soup",
   "recipeYield": "4",
   "sameAs": [
-    "https://woolworths.com.au/shop/find-recipes/hearty-vegetable-soup"
+    "https://woolworths.com.au/shop/recipes/vegetable-soup"
   ],
   "totalTime": "PT30M",
-  "updatedAt": "2022-11-24T11:35:11.779Z",
+  "updatedAt": "2022-11-24T16:09:37.587Z",
   "url": "https://www.woolworths.com.au/shop/recipes/vegetable-soup"
 }

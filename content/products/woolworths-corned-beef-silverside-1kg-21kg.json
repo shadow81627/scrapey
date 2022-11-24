@@ -1,0 +1,71 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "Approx.549kJ",
+      "carbohydrateContent": "Approx.2g",
+      "dietary_fibre": "-",
+      "fatContent": "Approx.6.7g",
+      "name": "nutrition",
+      "proteinContent": "Approx.15.7g",
+      "saturatedFatContent": "Approx.3.6g",
+      "servingSize": "100 g",
+      "sodiumContent": "Approx.1080mg",
+      "sugarContent": "<1g"
+    }
+  ],
+  "aggregateRating": {
+    "@context": "http://schema.org",
+    "@type": "AggregateRating",
+    "ratingCount": 410,
+    "ratingValue": 4.63414634146341
+  },
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Woolworths"
+  },
+  "createdAt": "2022-11-24T15:40:17.210Z",
+  "gtin13": "9339687141944",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1200,
+    "mime": "image/jpeg",
+    "url": "https://cdn0.woolworths.media/content/wowproductimages/large/148345.jpg",
+    "width": 1200
+  },
+  "name": "Woolworths Corned Beef Silverside 1Kg - 2.1Kg",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 24,
+    "lowPrice": 24,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T15:40:17.208Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 24,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/148345/woolworths-corned-beef-silverside"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/148345/woolworths-corned-beef-silverside"
+  ],
+  "sku": "148345",
+  "updatedAt": "2022-11-24T15:40:17.208Z"
+}

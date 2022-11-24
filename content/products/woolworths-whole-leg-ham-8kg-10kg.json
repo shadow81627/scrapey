@@ -1,0 +1,72 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "659.00kJ",
+      "carbohydrateContent": "0.90g",
+      "dietary_fibre": "-",
+      "fatContent": "9.20g",
+      "name": "nutrition",
+      "proteinContent": "18.20g",
+      "saturatedFatContent": "3.40g",
+      "servingSize": "100 g",
+      "sodiumContent": "978.00mg",
+      "sugarContent": "0.90g"
+    }
+  ],
+  "aggregateRating": {
+    "@context": "http://schema.org",
+    "@type": "AggregateRating",
+    "ratingCount": 179,
+    "ratingValue": 4.86033519553073
+  },
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Woolworths"
+  },
+  "createdAt": "2022-11-24T15:41:22.068Z",
+  "description": "Made from Australian pork this ham is naturally wood smoked for a richer flavour.  \n\nAverage weight of this product varies between 7.0KG - 10.0KG.Please note the price shown is calculated based on the maximum weight. \nThis is a variable weight product and is priced by $/kg. Once we?ve picked your item in store, we?ll refund you for the difference between the weight paid and the weight received. \nMake sure you utilise our pickers notes in the check out to add weight recommendations for our store pickers. We will try our best to provide you with the requested weight. \n\nCarving your bone-in leg ham \n1. Place ham skin side up. Run a small sharp knife under the rind and peel the rind back. \n2. Run the tip of the knife around the bone, then begin to slice on a slight angle down to the bone. \n3. Run the knife along the bone to remove slices. \n4. Continue slicing down to the bone, working your way around the ham. \n5. To keep your ham fresh, fold rind back over exposed surface. \n\nStoring your Ham: \nSoak a clean ham bag, pillowcase or tea towel in 4 cups of water and 2 tablespoons of vinegar. \nWring out excess water and place ham in the ham bag, pillowcase or wrap in the tea towel. Store in coolest part of the fridge. \nRe-soak bag in solution when ham bag dries out.  \n\nStore at 1-5°C for up to a week. ",
+  "gtin13": "0275507000000",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1200,
+    "mime": "image/jpeg",
+    "url": "https://cdn0.woolworths.media/content/wowproductimages/large/116209.jpg",
+    "width": 1200
+  },
+  "name": "Woolworths Whole Leg Ham 8KG - 10KG",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 80,
+    "lowPrice": 80,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/OutOfStock",
+        "availabilityStarts": "2022-11-24T15:41:22.067Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 80,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/116209/woolworths-whole-leg-ham"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/116209/woolworths-whole-leg-ham"
+  ],
+  "sku": "116209",
+  "updatedAt": "2022-11-24T15:41:22.067Z"
+}

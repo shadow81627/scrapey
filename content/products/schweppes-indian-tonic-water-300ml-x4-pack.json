@@ -1,0 +1,66 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "465kJ",
+      "carbohydrateContent": "25.8g",
+      "dietary_fibre": "-",
+      "fatContent": "0g",
+      "name": "nutrition",
+      "proteinContent": "0g",
+      "saturatedFatContent": "0g",
+      "servingSize": "100 g",
+      "sodiumContent": "27mg",
+      "sugarContent": "25.8g"
+    }
+  ],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Schweppes"
+  },
+  "createdAt": "2022-11-24T14:46:44.029Z",
+  "description": "Schweppes Classic Mixers Indian Tonic Water is a timeless sparkling drink that’s second to none. Citrusy and zesty with a transparent colour, this is the perfect drink to add to your summer cocktails.Crafted with juicy lemons, oranges and quinine, Schweppes Classic Mixers Indian Tonic Water 4 x 300mL delivers a hit of freshness whether enjoyed straight or used as a mixer. It's a classic in a gin and tonic with your preferred gin, or mixed with lemon or lime juice. Schweppes Classic Mixers Indian Tonic Water is distinctively delicious.A timeless drink and mixerCarefully made from natural oils of lemons and orangesBlended with quinine for a bitter finishEnjoy on its own or mixed with gin or vodkaA perfect balance of tartness and sweetness",
+  "gtin13": "9315596000589",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1200,
+    "mime": "image/jpeg",
+    "url": "https://cdn0.woolworths.media/content/wowproductimages/large/253808.jpg",
+    "width": 1200
+  },
+  "name": "Schweppes Indian Tonic Water 300ml x4 Pack",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 5,
+    "lowPrice": 5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T14:46:44.028Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 5,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/253808/schweppes-indian-tonic-water"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/253808/schweppes-indian-tonic-water"
+  ],
+  "sku": "253808",
+  "updatedAt": "2022-11-24T14:46:44.028Z"
+}

@@ -1,0 +1,72 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "Approx.1010kJ",
+      "carbohydrateContent": "Approx.8.3g",
+      "dietary_fibre": "-",
+      "fatContent": "Approx.17.3g",
+      "name": "nutrition",
+      "proteinContent": "Approx.11.8g",
+      "saturatedFatContent": "Approx.6.2g",
+      "servingSize": "100 g",
+      "sodiumContent": "Approx.400mg",
+      "sugarContent": "Approx.1.7g"
+    }
+  ],
+  "aggregateRating": {
+    "@context": "http://schema.org",
+    "@type": "AggregateRating",
+    "ratingCount": 1,
+    "ratingValue": 5
+  },
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Hong Kong Dim Sim Kitchen"
+  },
+  "createdAt": "2022-11-24T13:25:31.213Z",
+  "description": "Delicious, Authentic, Easy to prepare Asian Finger Foods.",
+  "gtin13": "9318122386331",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1200,
+    "mime": "image/jpeg",
+    "url": "https://cdn0.woolworths.media/content/wowproductimages/large/162538.jpg",
+    "width": 1200
+  },
+  "name": "Hong Kong Dim Sim Kitchen Pork Prawn & Mushroom Siu Mai 300g",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 7.5,
+    "lowPrice": 7.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T13:25:31.212Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 7.5,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/162538/hong-kong-dim-sim-kitchen-pork-prawn-mushroom-siu-mai"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/162538/hong-kong-dim-sim-kitchen-pork-prawn-mushroom-siu-mai"
+  ],
+  "sku": "162538",
+  "updatedAt": "2022-11-24T13:25:31.212Z"
+}

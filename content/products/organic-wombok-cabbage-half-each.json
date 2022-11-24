@@ -1,0 +1,50 @@
+{
+  "@type": "Product",
+  "additionalProperty": [],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization"
+  },
+  "createdAt": "2022-11-24T15:01:43.728Z",
+  "gtin13": "9339687205875",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1200,
+    "mime": "image/jpeg",
+    "url": "https://cdn0.woolworths.media/content/wowproductimages/large/110568.jpg",
+    "width": 1200
+  },
+  "name": "Organic Wombok Cabbage Half Each",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 6.9,
+    "lowPrice": 6.9,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/OutOfStock",
+        "availabilityStarts": "2022-11-24T15:01:43.727Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 6.9,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/110568/organic-wombok-cabbage-half"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/110568/organic-wombok-cabbage-half"
+  ],
+  "sku": "110568",
+  "updatedAt": "2022-11-24T15:01:43.727Z"
+}

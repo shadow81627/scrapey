@@ -1,60 +1,75 @@
 {
   "@type": "Recipe",
+  "author": {
+    "@type": "Person",
+    "name": "Fresh Ideas"
+  },
   "cookTime": "PT15M",
   "createdAt": "2022-11-24T00:19:41.283Z",
-  "datePublished": "2021-03-10",
+  "datePublished": "2022-09-26",
   "description": "Try our easy to follow Chorizo, Prawn & Pea Pasta recipe. Absolutely delicious with the best ingredients from Woolworths.",
   "image": {
     "@type": "ImageObject",
     "height": 1300,
-    "mime": "image/png",
-    "url": "https://foodhub.scene7.com/is/image/woolworthsltdprod/1809-chorizo-prawn-and-pea-pasta?wid=1300&hei=1300&fmt=png-alpha",
+    "mime": "image/jpeg",
+    "url": "https://foodhub.scene7.com/is/image/woolworthsltdprod/1809-chorizo-prawn-and-pea-pasta:Square-1300x1300",
     "width": 1300
   },
-  "keywords": "Chorizo, Prawn & Pea Pasta",
+  "keywords": "Pasta,Quick & easy dinner,Low saturated fat,High fibre,High protein,Prawn,Low sugar",
   "name": "Chorizo, Prawn & Pea Pasta Recipe | Woolworths",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "622 calories",
+    "carbohydrateContent": "75.8 g",
+    "fatContent": "12.7 g",
+    "fiberContent": "6.9 g",
+    "proteinContent": "47.0 g",
+    "saturatedFatContent": "4.0 g",
+    "sodiumContent": "728 millig",
+    "sugarContent": "4.5 g"
+  },
   "prepTime": "PT15M",
-  "recipeCategory": "mains",
-  "recipeCuisine": "european",
+  "recipeCategory": "Mains",
+  "recipeCuisine": "Italian",
   "recipeId": "7936",
   "recipeIngredient": [
-    "3 cloves garlic",
-    "500 g fresh green prawns",
-    "125 g smoked chorizo",
+    "3 cloves garlic, finely chopped",
+    "500g fresh green prawns, peeled, deveined",
+    "125g smoked chorizo, finely chopped",
     "1 cup frozen peas",
-    "0.25 cup continental parsley",
-    "1 tsp chilli flakes",
-    "400 g spaghetti",
+    "0.25 cup continental parsley, finely chopped",
+    "1 tsp chilli flakes (optional)",
+    "400g spaghetti",
     "2 tsp olive oil"
   ],
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Add spaghetti, peas and reserved cooking water to pan with prawns and toss well. Season. Top with chorizo and parsley and serve."
+      "HowToTip": {},
+      "text": "Heat a large non-stick frying pan over medium heat. Add chorizo and cook for 4-5 minutes or until golden and crisp. Remove with a slotted spoon, leaving rendered fat in pan."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Add spaghetti, peas and reserved cooking water to pan with prawns and toss well. Season. Top with chorizo and parsley and serve."
+      "HowToTip": {},
+      "text": "Over medium heat, add oil to the same pan. Add garlic and chilli, if using, and stir for 1 minute or until soft and just beginning to colour. Add prawns, increase heat to high and cook for 4-5 minutes, stirring often, or until just cooked."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Add spaghetti, peas and reserved cooking water to pan with prawns and toss well. Season. Top with chorizo and parsley and serve."
+      "HowToTip": {},
+      "text": "Meanwhile, cook spaghetti in a large saucepan of boiling salted water according to packet instructions or until al dente. Add peas for last minute of cooking. Drain, reserving 1/2 cup cooking water."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
+      "HowToTip": {},
       "text": "Add spaghetti, peas and reserved cooking water to pan with prawns and toss well. Season. Top with chorizo and parsley and serve."
     }
   ],
   "recipeNameId": "chorizo-prawn-and-pea-pasta",
   "recipeYield": "4",
   "sameAs": [
-    "https://woolworths.com.au/shop/find-recipes/prawn-and-chorizo-pasta"
+    "https://woolworths.com.au/shop/recipes/chorizo-prawn-and-pea-pasta"
   ],
   "totalTime": "PT30M",
-  "updatedAt": "2022-11-24T00:19:41.278Z",
+  "updatedAt": "2022-11-24T16:36:33.454Z",
   "url": "https://www.woolworths.com.au/shop/recipes/chorizo-prawn-and-pea-pasta"
 }

@@ -1,0 +1,72 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "Approx.1104kJ",
+      "carbohydrateContent": "Approx.45.2g",
+      "dietary_fibre": "-",
+      "fatContent": "Approx.4.7g",
+      "name": "nutrition",
+      "proteinContent": "Approx.9.5g",
+      "saturatedFatContent": "Approx.1.3g",
+      "servingSize": "100 g",
+      "sodiumContent": "Approx.550mg",
+      "sugarContent": "Approx.15.6g"
+    }
+  ],
+  "aggregateRating": {
+    "@context": "http://schema.org",
+    "@type": "AggregateRating",
+    "ratingCount": 1,
+    "ratingValue": 4
+  },
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Hong Kong Dim Sim Kitchen"
+  },
+  "createdAt": "2022-11-24T13:26:02.340Z",
+  "description": "Delicious, Authentic, Easy to prepare Asian Finger Foods.",
+  "gtin13": "9318122383880",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1200,
+    "mime": "image/jpeg",
+    "url": "https://cdn0.woolworths.media/content/wowproductimages/large/164513.jpg",
+    "width": 1200
+  },
+  "name": "Hong Kong Dim Sim Kitchen Bbq Pork Buns 300g",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 7.5,
+    "lowPrice": 7.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T13:26:02.339Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 7.5,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/164513/hong-kong-dim-sim-kitchen-bbq-pork-buns"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/164513/hong-kong-dim-sim-kitchen-bbq-pork-buns"
+  ],
+  "sku": "164513",
+  "updatedAt": "2022-11-24T13:26:02.339Z"
+}

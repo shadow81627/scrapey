@@ -1,65 +1,77 @@
 {
   "@type": "Recipe",
+  "author": {
+    "@type": "Person",
+    "name": "Fresh Ideas"
+  },
   "cookTime": "PT10M",
   "createdAt": "2022-11-24T11:32:40.424Z",
-  "datePublished": "2021-03-10",
+  "datePublished": "2022-10-31",
   "description": "Try this delicious meat-free burger recipe that makes the most of pantry staples such as chickpeas and oats.",
   "image": {
     "@type": "ImageObject",
     "height": 1300,
-    "mime": "image/png",
-    "url": "https://foodhub.scene7.com/is/image/woolworthsltdprod/2010-vegie-burgers?wid=1300&hei=1300&fmt=png-alpha",
+    "mime": "image/jpeg",
+    "url": "https://foodhub.scene7.com/is/image/woolworthsltdprod/2010-vegie-burgers:Square-1300x1300",
     "width": 1300
   },
-  "keywords": "Easy Veggie Patties",
+  "keywords": "Burger,High protein,Kale,Spring,Quick & easy lunch,Tomato,Video",
   "name": "Easy Veggie Patties Recipe | Woolworths",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "740 calories",
+    "carbohydrateContent": "71.0 g",
+    "fatContent": "32.5 g",
+    "proteinContent": "27.8 g",
+    "sodiumContent": "1020 millig"
+  },
   "prepTime": "PT15M",
-  "recipeCategory": "mains",
-  "recipeCuisine": "north-american",
+  "recipeCategory": "Mains",
+  "recipeCuisine": "North American",
   "recipeId": "10683",
   "recipeIngredient": [
-    "800 g chickpeas",
+    "800g chickpeas, rinsed, drained",
     "0.33 cup quick oats",
     "0.25 cup pickled jalapeno",
     "1 free range egg",
     "0.5 tsp sea salt flakes",
-    "3 spring onions",
-    "2 cloves garlic",
-    "2 kale stalks",
+    "3 spring onions, roughly chopped",
+    "2 cloves garlic, roughly chopped",
+    "2 kale stalks, roughly chopped",
     "0.25 cup extra virgin olive oil",
-    "4 burger buns",
-    "0.25 iceberg lettuce",
-    "2 tomatoes",
+    "4 burger buns, toasted",
+    "0.25 iceberg lettuce, leaves separated",
+    "2 tomatoes, sliced",
     "0.33 cup mayonnaise"
   ],
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Sandwich patties in burger buns with lettuce, tomato and mayonnaise. Serve."
+      "HowToTip": {},
+      "text": "Place chickpeas, oats, jalapeno, egg, onion, garlic, kale and salt flakes in a food processor and pulse, occasionally scraping down bowl, until smooth enough to shape."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Sandwich patties in burger buns with lettuce, tomato and mayonnaise. Serve."
+      "HowToTip": {},
+      "text": "Shape mixture into 4 patties. Refrigerate for 30 minutes."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Sandwich patties in burger buns with lettuce, tomato and mayonnaise. Serve."
+      "HowToTip": {},
+      "text": "Heat half the oil in a frying pan or barbecue flat plate on medium heat. Add 2 patties and cook for 2 minutes on each side or until crisp and golden. Drain on a plate lined paper towel. Repeat with remaining oil and patties."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
+      "HowToTip": {},
       "text": "Sandwich patties in burger buns with lettuce, tomato and mayonnaise. Serve."
     }
   ],
   "recipeNameId": "easy-vegie-patties",
   "recipeYield": "4",
   "sameAs": [
-    "https://woolworths.com.au/shop/find-recipes/vegie-patty"
+    "https://woolworths.com.au/shop/recipes/easy-vegie-patties"
   ],
   "totalTime": "PT25M",
-  "updatedAt": "2022-11-24T11:32:40.423Z",
+  "updatedAt": "2022-11-24T17:29:17.478Z",
   "url": "https://www.woolworths.com.au/shop/recipes/easy-vegie-patties"
 }

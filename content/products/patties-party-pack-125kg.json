@@ -1,0 +1,72 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "Party Pies480kJ; Sausage Rolls 400kJ",
+      "carbohydrateContent": "Party Pies11.2g; Sausage Rolls 9.4g",
+      "dietary_fibre": "Parties Pies: 3.4g, Sausage Rolls: 2.1g",
+      "fatContent": "Party Pies6.4g; Sausage Rolls 5.4g",
+      "name": "nutrition",
+      "proteinContent": "Party Pies3.7g; Sausage Rolls 3.3g",
+      "saturatedFatContent": "Party Pies3.2g; Sausage Rolls 2.8g",
+      "servingSize": "100 g",
+      "sodiumContent": "Party Pies230mg; Sausage Rolls 270mg",
+      "sugarContent": "Party Pies0.4g; Sausage Rolls 0.4g"
+    }
+  ],
+  "aggregateRating": {
+    "@context": "http://schema.org",
+    "@type": "AggregateRating",
+    "ratingCount": 96,
+    "ratingValue": 4.67708333333333
+  },
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Patties"
+  },
+  "createdAt": "2022-11-24T13:25:38.440Z",
+  "description": "Patties Party Pack is a combination of our classic favourites; party pies & sausage rolls filled with 100% Australian beef wrapped in golden-brown flaky pastry.- 100% Australian beef.- 100% Australian Wheat flour.- No added preservatives or artificial colours.",
+  "gtin13": "9311008061117",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1200,
+    "mime": "image/jpeg",
+    "url": "https://cdn0.woolworths.media/content/wowproductimages/large/055613.jpg",
+    "width": 1200
+  },
+  "name": "Patties Party Pack 1.25Kg",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 16.9,
+    "lowPrice": 16.9,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/OutOfStock",
+        "availabilityStarts": "2022-11-24T13:25:38.438Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 16.9,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/55613/patties-party-pack"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/55613/patties-party-pack"
+  ],
+  "sku": "55613",
+  "updatedAt": "2022-11-24T13:25:38.438Z"
+}

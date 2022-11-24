@@ -1,0 +1,72 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "-",
+      "carbohydrateContent": "-",
+      "dietary_fibre": "-",
+      "fatContent": "-",
+      "name": "nutrition",
+      "proteinContent": "-",
+      "saturatedFatContent": "-",
+      "servingSize": "100 g",
+      "sodiumContent": "-",
+      "sugarContent": "-"
+    }
+  ],
+  "aggregateRating": {
+    "@context": "http://schema.org",
+    "@type": "AggregateRating",
+    "ratingCount": 549,
+    "ratingValue": 4.79052823315118
+  },
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Woolworths"
+  },
+  "createdAt": "2022-11-24T14:59:53.963Z",
+  "description": " Bright red Sweet Solanato tomatoes are the size and shape of a grape and have been specially developed to combine acidity with a sweet flavour resulting in a robust tomato burst and a sweet aftertaste.What to look forChoose smooth, firm and plump tomatoes with an even colour and no blemishes. For best flavour make sure the fruits are fully red.AvailabilityAll year.StoreTomatoes should be stored at room temperature out of direct sunlight. It will keep the full flavour of the tomatoes. Refrigerate only if they are over ripe.Ways to eatTomatoes are very versatile, they can be eaten raw as snacks, in salads and sandwiches. They can be used in soups, pizzas, omelettes, braises and stews. Tomatoes preserve well and are easily frozen and bottled, made into homemade sauces, chutneys, and dried or sundried. Tomatoes are complemented by many herbs, especially basil.Cooking MethodsBoil, braise, barbecue/char grill, microwave, slow roast, stir fry.",
+  "gtin13": "9300633317621",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1200,
+    "mime": "image/jpeg",
+    "url": "https://cdn0.woolworths.media/content/wowproductimages/large/727144.jpg",
+    "width": 1200
+  },
+  "name": "Woolworths Solanato Tomato 200G",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3.9,
+    "lowPrice": 3.9,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T14:59:53.961Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 3.9,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/727144/woolworths-solanato-tomato"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/727144/woolworths-solanato-tomato"
+  ],
+  "sku": "727144",
+  "updatedAt": "2022-11-24T14:59:53.961Z"
+}

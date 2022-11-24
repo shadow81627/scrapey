@@ -1,56 +1,66 @@
 {
   "@type": "Recipe",
+  "author": {
+    "@type": "Person",
+    "name": "Licensed by Woolworths - ©️ Octopus Publishing Ltd"
+  },
   "cookTime": "PT45M",
   "createdAt": "2022-11-22T10:27:15.872Z",
-  "datePublished": "2022-02-10",
+  "datePublished": "2022-09-14",
   "description": "Try our easy to follow Roasted Summer Vegetables recipe. Absolutely delicious with the best ingredients from Woolworths.",
-  "image": "https://foodhub.scene7.com/is/image/woolworthsltdprod/41-roast-veg?wid=4080&hei=5436&fmt=png-alpha",
-  "keywords": "Roasted Summer Vegetables",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1300,
+    "mime": "image/jpeg",
+    "url": "https://foodhub.scene7.com/is/image/woolworthsltdprod/41-roast-veg:Square-1300x1300",
+    "width": 1300
+  },
+  "keywords": "Roast vegetable,Pescatarian,Seafood free,Wheat free,Gluten free,Vegetarian,Egg free,Vegan,Sesame free,Dairy free",
   "name": "Roasted Summer Vegetables Recipe | Woolworths",
   "prepTime": "PT15M",
-  "recipeCategory": "mains",
-  "recipeCuisine": "australian",
+  "recipeCategory": "Lunch",
+  "recipeCuisine": "Australian",
   "recipeId": "RGR32752",
   "recipeIngredient": [
-    "1 red pepper",
-    "1 yellow pepper",
-    "1 eggplant",
-    "2 zucchini",
-    "1 red onion",
+    "1 red pepper, cored, deseeded and thickly sliced",
+    "1 yellow pepper, cored, deseeded and thickly sliced",
+    "1 eggplant, cut into chunks",
+    "2 zucchini, cut into chunks",
+    "1 red onion, cut into wedges",
     "6 cloves garlic",
-    "150 g Mix A Mato mini Tomatoes",
+    "150g Mix A Mato mini Tomatoes",
     "2 tbs olive oil",
-    "4 thyme sprigs",
-    "150 g hazelnuts",
-    "125 g rocket leaves",
+    "4-5 thyme sprigs",
+    "150g hazelnuts",
+    "125g rocket leaves",
     "2 tbs balsamic vinegar",
     "1 pinch salt",
     "1 tsp pepper",
-    "1 handful of mustard cress"
+    "1 handful of mustard cress, to garnish"
   ],
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Toss the rocket leaves gently with the mixed, roasted vegetables and heap on to large plates. Scatter over the crushed hazelnuts and drizzle with the vinegar. Scatter over the mustard cress, if using, and serve immediately,"
+      "HowToTip": {},
+      "text": "Toss all the vegetables, except the tomatoes, in a large bowl with the oil. Season with a little salt and pepper and add the thyme. Tip into a large roasting tin and place in a preheated oven, 190°C, Gas Mark 5, for 40-45 minutes or until the vegetables are tender. Add the tomatoes and return to the oven for a further 5 minutes or until the tomatoes are just softened and beginning to burst."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Toss the rocket leaves gently with the mixed, roasted vegetables and heap on to large plates. Scatter over the crushed hazelnuts and drizzle with the vinegar. Scatter over the mustard cress, if using, and serve immediately,"
+      "HowToTip": {},
+      "text": "Meanwhile, tip the hazelnuts into a small roasting tin and place in the oven for about 10-12 minutes or until golden and the skin is peeling away. Leave to cool, then remove the excess skin and crush lightly."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
+      "HowToTip": {},
       "text": "Toss the rocket leaves gently with the mixed, roasted vegetables and heap on to large plates. Scatter over the crushed hazelnuts and drizzle with the vinegar. Scatter over the mustard cress, if using, and serve immediately,"
     }
   ],
   "recipeNameId": "roasted-summer-vegetables",
   "recipeYield": "4",
   "sameAs": [
-    "https://woolworths.com.au/shop/find-recipes/mixed-roast-vegetables"
+    "https://woolworths.com.au/shop/recipes/roasted-summer-vegetables"
   ],
   "totalTime": "PT60M",
-  "updatedAt": "2022-11-22T10:27:15.871Z",
+  "updatedAt": "2022-11-24T17:59:53.168Z",
   "url": "https://www.woolworths.com.au/shop/recipes/roasted-summer-vegetables"
 }

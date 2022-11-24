@@ -1,0 +1,66 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "-",
+      "carbohydrateContent": "-",
+      "dietary_fibre": "-",
+      "fatContent": "-",
+      "name": "nutrition",
+      "proteinContent": "-",
+      "saturatedFatContent": "-",
+      "servingSize": "100 g",
+      "sodiumContent": "-",
+      "sugarContent": "-"
+    }
+  ],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Mr Chen's"
+  },
+  "createdAt": "2022-11-24T13:22:31.638Z",
+  "description": "Why wait - when you have a craving for gyoza? Our microwaveable Vegetable Gyoza are so easy, and ready in a flash. No mess, no fuss, and silky, steamed gyoza that taste as delicious as ever.Simply 2 minutes from freezer to belly - to get you snacking in no time.",
+  "gtin13": "9349673004467",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1200,
+    "mime": "image/jpeg",
+    "url": "https://cdn0.woolworths.media/content/wowproductimages/large/210729.jpg",
+    "width": 1200
+  },
+  "name": "Mr Chen's Microwave Easy Snack Pack Vegetable Gyoza 150g",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 5,
+    "lowPrice": 5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T13:22:31.636Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 5,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/210729/mr-chen-s-microwave-easy-snack-pack-vegetable-gyoza"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/210729/mr-chen-s-microwave-easy-snack-pack-vegetable-gyoza"
+  ],
+  "sku": "210729",
+  "updatedAt": "2022-11-24T13:22:31.637Z"
+}

@@ -1,0 +1,58 @@
+{
+  "@type": "Product",
+  "additionalProperty": [],
+  "aggregateRating": {
+    "@context": "http://schema.org",
+    "@type": "AggregateRating",
+    "ratingCount": 243,
+    "ratingValue": 4.66666666666667
+  },
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Woolworths"
+  },
+  "createdAt": "2022-11-24T15:40:37.151Z",
+  "description": " Made from Australian pork this bone-in ham is naturally wood smoked for a fuller, richer flavour.  Average weight of this product varies between 1.78KG - 3.0KG.Please note the price shown is calculated based on the maximum weight. This is a variable weight product and is priced by $/kg. Once we've picked your item in store, we'll refund you for the difference between the weight paid and the weight received. Make sure you utilise our pickers notes in the check out to add weight recommendations for our store pickers. We will try our best to provide you with the requested weight.   Carving your Bone-in Leg Ham. 1. Place ham skin side up. Run a small sharp knife under the rind and peel the rind back.2. Run the tip of the knife around the bone then begin to slice on a slight angle down to the bone. 3. Run the knife along the bone to remove slices. 4. Continue slicing down to the bone, working your way around the ham. 5. To keep your ham fresh, fold rind back over exposed surface.Storing your Ham: Soak a clean ham bag, pillowcase or tea towel in 4 cups of water and 2 tablespoons of vinegar. Wring out excess water and place ham in the ham bag, pillowcase or wrap in the tea towel. Store in coolest part of the fridge. Re-soak bag in solution when ham bag dries out. Store at 1-5°C for up to a week.",
+  "gtin13": "0234838000004",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1200,
+    "mime": "image/jpeg",
+    "url": "https://cdn0.woolworths.media/content/wowproductimages/large/922923.jpg",
+    "width": 1200
+  },
+  "name": "Woolworths Quarter Leg Ham 1.7Kg - 3Kg",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 36,
+    "lowPrice": 36,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T15:40:37.149Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 36,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/922923/woolworths-quarter-leg-ham"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/922923/woolworths-quarter-leg-ham"
+  ],
+  "sku": "922923",
+  "updatedAt": "2022-11-24T15:40:37.149Z"
+}

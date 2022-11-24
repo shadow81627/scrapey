@@ -1,0 +1,52 @@
+{
+  "@type": "Product",
+  "additionalProperty": [],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Nescafe"
+  },
+  "createdAt": "2022-11-24T12:33:21.719Z",
+  "description": "Nescafe Gold Original Soluble Instant Coffee 400gThe team at NESCAFE Gold believes in taking time for the perfect coffee. Discover our NESCAFE Gold Original Instant Coffee which is our signature smooth, premium instant coffee with a well-rounded taste & rich aroma, made from high quality coffee beans. The Arabica and Robusta coffee beans have been carefully selected and roasted to bring out that richly layered flavour and signature smoothness. Indulge yourself with the rest of NESCAFE Gold Instant Coffee varieties. If you like your coffee stronger and darker, NESCAFE Gold Intense or NESCAFE Gold Short Black may be the one for you. But if you like a lighter roast, try NESCAFE Gold Smooth and NESCAFE Gold Green Blend.5-Intensity Score: This coffee is the great all rounder, a medium roast for a coffee that’s perfect drunk with milk and also black.Made from 100% Sustainable Coffee Beans.Also available in a 200g and 100g jar.",
+  "gtin13": "9300605149830",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1200,
+    "mime": "image/jpeg",
+    "url": "https://cdn0.woolworths.media/content/wowproductimages/large/242184.jpg",
+    "width": 1200
+  },
+  "name": "Nescafe Gold Original 400g",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 18,
+    "lowPrice": 18,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T12:33:21.718Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 18,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/242184/nescafe-gold-original"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/242184/nescafe-gold-original"
+  ],
+  "sku": "242184",
+  "updatedAt": "2022-11-24T12:33:21.718Z"
+}

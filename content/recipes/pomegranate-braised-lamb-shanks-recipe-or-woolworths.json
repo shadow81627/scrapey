@@ -1,60 +1,70 @@
 {
   "@type": "Recipe",
+  "author": {
+    "@type": "Person",
+    "name": "Produced for Woolworths"
+  },
   "cookTime": "PT300M",
   "createdAt": "2022-11-24T12:09:58.149Z",
-  "datePublished": "2022-08-10",
+  "datePublished": "2022-09-26",
   "description": "Sweet pomegranate cuts through the richness of lamb shanks in this middle eastern inspired dish.",
-  "image": "https://foodhub.scene7.com/is/image/woolworthsltdprod/pomegranate-braised-lamb-shanks?wid=4070&hei=4070&fmt=png-alpha",
-  "keywords": "Pomegranate Braised Lamb Shanks",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1300,
+    "mime": "image/jpeg",
+    "url": "https://foodhub.scene7.com/is/image/woolworthsltdprod/pomegranate-braised-lamb-shanks:Square-1300x1300",
+    "width": 1300
+  },
+  "keywords": "Lamb shank,Lamb",
   "name": "Pomegranate Braised Lamb Shanks Recipe | Woolworths",
   "prepTime": "PT10M",
-  "recipeCategory": "mains",
-  "recipeCuisine": "middle-eastern",
+  "recipeCategory": "Lunch,Dinner",
+  "recipeCuisine": "Middle Eastern",
   "recipeId": "RGWW338927",
   "recipeIngredient": [
     "3 tbs olive oil",
     "4 lamb shanks",
-    "1 large onion",
+    "1 large onion, peeled and sliced",
     "1.8 cups pomegranate juice",
-    "4 cloves garlic",
-    "0.5 bunch rosemary",
+    "4 cloves garlic, peeled and minced",
+    "0.5 bunch rosemary, 5 sprigs",
     "1 tsp pomegranate molasses",
     "3 tbs balsamic vinegar",
-    "50 g pomegranate seeds"
+    "50g pomegranate seeds (to serve)"
   ],
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Serve the lamb shanks in the sauce with pomegranate seeds scattered on top."
+      "HowToTip": {},
+      "text": "Pre-heat the oven to 120°C."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Serve the lamb shanks in the sauce with pomegranate seeds scattered on top."
+      "HowToTip": {},
+      "text": "Heat the oil in a large, oven-safe casserole dish and seal each shank on all sides, cooking for 4-5 minutes until browned. Place the shanks on a plate and add the onion to the pan. Cook for 5 minutes, add the garlic and rosemary and cook for 1 minute."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Serve the lamb shanks in the sauce with pomegranate seeds scattered on top."
+      "HowToTip": {},
+      "text": "Pour over the pomegranate juice and balsamic vinegar and bring to the boil. Place the lamb shanks back in the casserole dish and cover with a layer of foil and the casserole lid. Bake for 3.5 hours, remove the lid and cook uncovered for 30 minutes more."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Serve the lamb shanks in the sauce with pomegranate seeds scattered on top."
+      "HowToTip": {},
+      "text": "Remove the shanks from the sauce and cover with foil. Remove the rosemary from the sauce and place the casserole dish back on the hob. Leave to stand for 5 minutes and skim off some of the excess fat. Turn up the heat, add the pomegranate molasses and cook the liquid down until reduced and glossy, about 10 minutes."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
+      "HowToTip": {},
       "text": "Serve the lamb shanks in the sauce with pomegranate seeds scattered on top."
     }
   ],
   "recipeNameId": "pomegranate-braised-lamb-shanks",
   "recipeYield": "4",
   "sameAs": [
-    "https://woolworths.com.au/shop/find-recipes/baked-lamb-shanks-recipe"
+    "https://woolworths.com.au/shop/recipes/pomegranate-braised-lamb-shanks"
   ],
   "totalTime": "PT310M",
-  "updatedAt": "2022-11-24T12:09:58.148Z",
+  "updatedAt": "2022-11-24T13:51:14.190Z",
   "url": "https://www.woolworths.com.au/shop/recipes/pomegranate-braised-lamb-shanks"
 }

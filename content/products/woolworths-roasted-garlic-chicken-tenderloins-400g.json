@@ -1,0 +1,72 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "Approx.495kJ",
+      "carbohydrateContent": "Approx.9.3g",
+      "dietary_fibre": "-",
+      "fatContent": "Approx.4.2g",
+      "name": "nutrition",
+      "proteinContent": "Approx.10.8g",
+      "saturatedFatContent": "Approx.0.5g",
+      "servingSize": "100 g",
+      "sodiumContent": "Approx.241mg",
+      "sugarContent": "Approx.0.3g"
+    }
+  ],
+  "aggregateRating": {
+    "@context": "http://schema.org",
+    "@type": "AggregateRating",
+    "ratingCount": 882,
+    "ratingValue": 4.53174603174603
+  },
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Woolworths"
+  },
+  "createdAt": "2022-11-24T14:48:17.132Z",
+  "description": "Juicy australian chicken tenderloins coated in a roasted garlic & bread crumb with classic herbs.  Our Story We use chicken from Australian RSPCA Approved farms that are regularly assessed against the RSPCA's detailed standards, for better animal welfare.",
+  "gtin13": "9339687265558",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1200,
+    "mime": "image/jpeg",
+    "url": "https://cdn0.woolworths.media/content/wowproductimages/large/164677.jpg",
+    "width": 1200
+  },
+  "name": "Woolworths Roasted Garlic Chicken Tenderloins 400g",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 9,
+    "lowPrice": 9,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T14:48:17.131Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 9,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/164677/woolworths-roasted-garlic-chicken-tenderloins"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/164677/woolworths-roasted-garlic-chicken-tenderloins"
+  ],
+  "sku": "164677",
+  "updatedAt": "2022-11-24T14:48:17.131Z"
+}

@@ -1,0 +1,66 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "11.6kJ",
+      "carbohydrateContent": "0.2g",
+      "dietary_fibre": "0.0g",
+      "fatContent": "0.0g",
+      "name": "nutrition",
+      "proteinContent": "0.2g",
+      "saturatedFatContent": "0.0g",
+      "servingSize": "100 g",
+      "sodiumContent": "3.6mg",
+      "sugarContent": "0.0g"
+    }
+  ],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Fanta"
+  },
+  "createdAt": "2022-11-24T14:46:33.886Z",
+  "description": "Fanta Orange No Sugar Soft Drink Multipack Bottles 12 x 300mLBright, bubbly and popular, Fanta is the orange soft drink with a tingly, fruity and bold taste. With no artificial colours, Fanta softd rink is perfect for enjoying with friends, on the go or having with meals. Fanta Orange is available in cans, mini cans, single serve and sharing size bottles as well as multipacks.3.5 Health Star Rating12 x 300mL BottlesContains PhenylalanineBold fruity tasteOrange flavour",
+  "gtin13": "9300675092142",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1200,
+    "mime": "image/jpeg",
+    "url": "https://cdn0.woolworths.media/content/wowproductimages/large/221011.jpg",
+    "width": 1200
+  },
+  "name": "Fanta No Sugar Bottles 300ml x12 Pack",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 9.55,
+    "lowPrice": 9.55,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T14:46:33.885Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 9.55,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/221011/fanta-no-sugar-bottles"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/221011/fanta-no-sugar-bottles"
+  ],
+  "sku": "221011",
+  "updatedAt": "2022-11-24T14:46:33.885Z"
+}

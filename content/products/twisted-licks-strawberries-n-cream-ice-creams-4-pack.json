@@ -1,0 +1,65 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "592.00kJ",
+      "carbohydrateContent": "1.40g",
+      "dietary_fibre": "-",
+      "fatContent": "11.60g",
+      "name": "nutrition",
+      "proteinContent": "4.80g",
+      "saturatedFatContent": "8.30g",
+      "servingSize": "100 g",
+      "sodiumContent": "62.00mg",
+      "sugarContent": "1.30g"
+    }
+  ],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Twisted"
+  },
+  "createdAt": "2022-11-24T12:31:19.891Z",
+  "gtin13": "9349107001017",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1200,
+    "mime": "image/jpeg",
+    "url": "https://cdn0.woolworths.media/content/wowproductimages/large/243894.jpg",
+    "width": 1200
+  },
+  "name": "Twisted Licks Strawberries N Cream Ice Creams 4 Pack",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 7,
+    "lowPrice": 7,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T12:31:19.889Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 7,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/243894/twisted-licks-strawberries-n-cream-ice-creams"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/243894/twisted-licks-strawberries-n-cream-ice-creams"
+  ],
+  "sku": "243894",
+  "updatedAt": "2022-11-24T12:31:19.889Z"
+}

@@ -1,0 +1,72 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "650kJ",
+      "carbohydrateContent": "28.7g",
+      "dietary_fibre": "1.4g",
+      "fatContent": "2.6g",
+      "name": "nutrition",
+      "proteinContent": "3.3g",
+      "saturatedFatContent": "0.4g",
+      "servingSize": "100 g",
+      "sodiumContent": "305mg",
+      "sugarContent": "0.9g"
+    }
+  ],
+  "aggregateRating": {
+    "@context": "http://schema.org",
+    "@type": "AggregateRating",
+    "ratingCount": 20,
+    "ratingValue": 4.35
+  },
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Trang's"
+  },
+  "createdAt": "2022-11-24T13:23:44.667Z",
+  "description": "Trang's Oriental House Spring Roll Pastry.",
+  "gtin13": "9311361000143",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1200,
+    "mime": "image/jpeg",
+    "url": "https://cdn0.woolworths.media/content/wowproductimages/large/040920.jpg",
+    "width": 1200
+  },
+  "name": "Trang's Pastry Spring Roll Sheets 300G",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2.9,
+    "lowPrice": 2.9,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T13:23:44.665Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 2.9,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/40920/trang-s-pastry-spring-roll-sheets"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/40920/trang-s-pastry-spring-roll-sheets"
+  ],
+  "sku": "40920",
+  "updatedAt": "2022-11-24T13:23:44.666Z"
+}

@@ -1,0 +1,72 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "400g",
+      "carbohydrateContent": "9.3g",
+      "dietary_fibre": "-",
+      "fatContent": "5.4g",
+      "name": "nutrition",
+      "proteinContent": "3.3g",
+      "saturatedFatContent": "2.7g",
+      "servingSize": "100 g",
+      "sodiumContent": "270mg",
+      "sugarContent": "0.4g"
+    }
+  ],
+  "aggregateRating": {
+    "@context": "http://schema.org",
+    "@type": "AggregateRating",
+    "ratingCount": 39,
+    "ratingValue": 4.02564102564103
+  },
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Patties"
+  },
+  "createdAt": "2022-11-24T13:23:06.554Z",
+  "description": "Patties Sausage Rolls Original Beef made with 100% Australian beef.The Original Party FoodPatties has been helping Australians celebrate for over 50 years.",
+  "gtin13": "9311008056946",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1200,
+    "mime": "image/jpeg",
+    "url": "https://cdn0.woolworths.media/content/wowproductimages/large/030748.jpg",
+    "width": 1200
+  },
+  "name": "Patties Sausage Roll Party 450G",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 6.5,
+    "lowPrice": 6.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T13:23:06.552Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 6.5,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/30748/patties-sausage-roll-party"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/30748/patties-sausage-roll-party"
+  ],
+  "sku": "30748",
+  "updatedAt": "2022-11-24T13:23:06.552Z"
+}

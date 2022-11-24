@@ -1,62 +1,66 @@
 {
   "@type": "Recipe",
+  "author": {
+    "@type": "Person",
+    "name": "Fresh Ideas"
+  },
   "cookTime": "PT20M",
   "createdAt": "2022-11-24T09:49:00.078Z",
-  "datePublished": "2021-03-10",
+  "datePublished": "2022-06-30",
   "description": "Try our easy to follow Blueberry Swirls recipe. Absolutely delicious with the best ingredients from Woolworths.",
   "image": {
     "@type": "ImageObject",
     "height": 1300,
-    "mime": "image/png",
-    "url": "https://foodhub.scene7.com/is/image/woolworthsltdprod/1210_blueberryswirls?wid=1300&hei=1300&fmt=png-alpha",
+    "mime": "image/jpeg",
+    "url": "https://foodhub.scene7.com/is/image/woolworthsltdprod/1210_blueberryswirls:Square-1300x1300",
     "width": 1300
   },
-  "keywords": "Blueberry Swirls",
+  "keywords": "Cupcake,Orange,Blueberry,Quick & easy dessert",
   "name": "Blueberry Swirls Recipe | Woolworths",
   "prepTime": "PT10M",
-  "recipeCategory": "desserts",
-  "recipeCuisine": "north-american",
+  "recipeCategory": "Desserts",
+  "recipeCuisine": "North American",
   "recipeId": "1686",
   "recipeIngredient": [
     "1 punnet blueberries",
-    "1 orange",
+    "1 orange, rind grated",
     "1 pkt mint leaves",
-    "400 g frosting",
-    "380 g cupcake mix"
+    "400g frosting",
+    "380g cupcake mix"
   ],
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Use blueberries and mint to decorate cupcake (refer to image)."
+      "HowToTip": {},
+      "text": "Make a batch of vanilla cupcakes. Halve recipe on page 14 or use a packet mix."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Use blueberries and mint to decorate cupcake (refer to image)."
+      "HowToTip": {},
+      "text": "You could add some grated orange or lemon rind to the cake batter."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Use blueberries and mint to decorate cupcake (refer to image)."
+      "HowToTip": {},
+      "text": "Prepare your vanilla frosting by refering to packaging."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Use blueberries and mint to decorate cupcake (refer to image)."
+      "HowToTip": {},
+      "text": "Place frosting into a piping bag and pipe onto cupcake."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
+      "HowToTip": {},
       "text": "Use blueberries and mint to decorate cupcake (refer to image)."
     }
   ],
   "recipeNameId": "blueberry-swirls",
   "recipeYield": "12",
   "sameAs": [
-    "https://woolworths.com.au/shop/find-recipes/best-blueberry-cupcakes"
+    "https://woolworths.com.au/shop/recipes/blueberry-swirls"
   ],
   "totalTime": "PT30M",
-  "updatedAt": "2022-11-24T09:49:00.077Z",
+  "updatedAt": "2022-11-24T17:11:00.255Z",
   "url": "https://www.woolworths.com.au/shop/recipes/blueberry-swirls"
 }

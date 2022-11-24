@@ -1,58 +1,68 @@
 {
   "@type": "Recipe",
+  "author": {
+    "@type": "Person",
+    "name": "Produced for Woolworths"
+  },
   "cookTime": "PT30M",
   "createdAt": "2022-11-24T11:42:57.555Z",
-  "datePublished": "2022-07-14",
+  "datePublished": "2022-08-03",
   "description": "These nutritious Greek-inspired vegan meatballs are super filling and perfect served with pita breads and hummus.",
-  "image": "https://foodhub.scene7.com/is/image/woolworthsltdprod/greek-style-quinoa-and-bean-meatballs?wid=4120&hei=4120&fmt=png-alpha",
-  "keywords": "Greek-Style Quinoa & Bean Meatballs",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1300,
+    "mime": "image/jpeg",
+    "url": "https://foodhub.scene7.com/is/image/woolworthsltdprod/greek-style-quinoa-and-bean-meatballs:Square-1300x1300",
+    "width": 1300
+  },
+  "keywords": "Vegie balls",
   "name": "Greek-Style Quinoa & Bean Meatballs Recipe | Woolworths",
   "prepTime": "PT35M",
-  "recipeCategory": "mains",
-  "recipeCuisine": "european",
+  "recipeCategory": "Lunch,Dinner",
+  "recipeCuisine": "Greek",
   "recipeId": "RGWW339125",
   "recipeIngredient": [
     "3 tbs olive oil",
-    "200 g quinoa",
-    "400 g black beans",
-    "4 cloves garlic",
-    "1 medium red onion",
-    "1 tsp oregano",
+    "200g quinoa, cooked and cooled",
+    "400g black beans",
+    "4 cloves garlic, peeled and minced",
+    "1 medium red onion, peeled and diced",
+    "1 tsp oregano, dried",
     "2 tbs tahini",
-    "0.5 medium lemon",
-    "2 tsp soy sauce",
-    "90 g plain flour",
-    "80 g hummus",
-    "420 g pita bread"
+    "0.5 medium lemon, zest",
+    "2 tsp soy sauce, reduced salt",
+    "90g plain flour, divided",
+    "80g hummus (to serve)",
+    "420g pita bread (to serve)"
   ],
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Heat the rest of the oil in the pan and cook the meatballs for 4-5 minutes, tossing to brown all over. Place the meatballs on a baking sheet and bake for 18-20 minutes."
+      "HowToTip": {},
+      "text": "Pre-heat the oven to 170°C. Spread the black beans on a baking tray and bake for 10 minutes, until slightly dried and cracked. Leave the oven on."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Heat the rest of the oil in the pan and cook the meatballs for 4-5 minutes, tossing to brown all over. Place the meatballs on a baking sheet and bake for 18-20 minutes."
+      "HowToTip": {},
+      "text": "Heat half of the oil in a large pan on medium high heat and cook the onion for 3-4 minutes. Add the garlic and oregano and cook for 1 minute. Tip into a food processor along with the cooked quinoa, black beans, 60g of flour, tahini, soy sauce and lemon zest and pulse until smooth."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Heat the rest of the oil in the pan and cook the meatballs for 4-5 minutes, tossing to brown all over. Place the meatballs on a baking sheet and bake for 18-20 minutes."
+      "HowToTip": {},
+      "text": "Using your hands, roll the mix into 20 meatballs. Place on a plate and chill for 20 minutes in the fridge. Spread the rest of the flour on a plate and toss each meatball in it to lightly coat."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
+      "HowToTip": {},
       "text": "Heat the rest of the oil in the pan and cook the meatballs for 4-5 minutes, tossing to brown all over. Place the meatballs on a baking sheet and bake for 18-20 minutes."
     }
   ],
   "recipeNameId": "greek-style-quinoa-and-bean-meatballs",
   "recipeYield": "4",
   "sameAs": [
-    "https://woolworths.com.au/shop/find-recipes/greek-meatballs"
+    "https://woolworths.com.au/shop/recipes/greek-style-quinoa-and-bean-meatballs"
   ],
   "totalTime": "PT65M",
-  "updatedAt": "2022-11-24T11:42:57.553Z",
+  "updatedAt": "2022-11-24T17:38:22.736Z",
   "url": "https://www.woolworths.com.au/shop/recipes/greek-style-quinoa-and-bean-meatballs"
 }

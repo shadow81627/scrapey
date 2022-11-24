@@ -1,0 +1,66 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "396.3",
+      "carbohydrateContent": "0.4",
+      "dietary_fibre": "0.03g",
+      "fatContent": "7.9",
+      "name": "nutrition",
+      "proteinContent": "5.7",
+      "saturatedFatContent": "5.7",
+      "servingSize": "100 g",
+      "sodiumContent": "233.8545455",
+      "sugarContent": "<0.1"
+    }
+  ],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Chrystal Fresh"
+  },
+  "createdAt": "2022-11-24T15:03:19.744Z",
+  "description": "Chrystal Fresh knows cheese and entertaining. We combine the perfect selection of cheeses with different shapes to add interest when designing your platter. Enjoy with your local craft beer.",
+  "gtin13": "9310560016337",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1200,
+    "mime": "image/jpeg",
+    "url": "https://cdn0.woolworths.media/content/wowproductimages/large/331692.jpg",
+    "width": 1200
+  },
+  "name": "Chrystal Fresh Cheese Board Selection Selection 275G",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 9,
+    "lowPrice": 9,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T15:03:19.743Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 9,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/331692/chrystal-fresh-cheese-board-selection-selection"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/331692/chrystal-fresh-cheese-board-selection-selection"
+  ],
+  "sku": "331692",
+  "updatedAt": "2022-11-24T15:03:19.743Z"
+}

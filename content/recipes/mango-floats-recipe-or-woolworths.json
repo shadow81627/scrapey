@@ -1,57 +1,61 @@
 {
   "@type": "Recipe",
+  "author": {
+    "@type": "Person",
+    "name": "Fresh Ideas"
+  },
   "cookTime": "PT10M",
   "createdAt": "2022-11-23T23:30:13.869Z",
-  "datePublished": "2021-03-10",
+  "datePublished": "2022-10-24",
   "description": "Try our easy to follow Mango Floats recipe. Absolutely delicious with the best ingredients from Woolworths.",
   "image": {
     "@type": "ImageObject",
     "height": 1300,
-    "mime": "image/png",
-    "url": "https://foodhub.scene7.com/is/image/woolworthsltdprod/1610-mangofloats?wid=1300&hei=1300&fmt=png-alpha",
+    "mime": "image/jpeg",
+    "url": "https://foodhub.scene7.com/is/image/woolworthsltdprod/1610-mangofloats:Square-1300x1300",
     "width": 1300
   },
-  "keywords": "Mango Floats",
+  "keywords": "Cocktail,Mango,Summer",
   "name": "Mango Floats Recipe | Woolworths",
   "prepTime": "PT10M",
-  "recipeCategory": "drinks",
-  "recipeCuisine": "australian",
+  "recipeCategory": "Drinks",
+  "recipeCuisine": "Australian",
   "recipeId": "4807",
   "recipeIngredient": [
     "1.5 cup white sugar",
     "2 large mangoes",
-    "1 lime",
-    "600 ml coconut water",
-    "750 ml prosecco"
+    "1 lime, juiced and rind finely grated",
+    "600ml coconut water",
+    "750ml prosecco, chilled (see tip)"
   ],
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "To serve, scoop mango sorbet into glasses. Top with chilled prosecco."
+      "HowToTip": {},
+      "text": "Combine sugar and coconut water."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "To serve, scoop mango sorbet into glasses. Top with chilled prosecco."
+      "HowToTip": {},
+      "text": "Put coconut water mixture in a small saucepan. Stir over medium-high heat until sugar dissolves and mixture comes to the boil. Reduce heat to low. Simmer for 10 minutes or until mixture thickens. Set aside to cool for 15 minutes, then refrigerate for 30 minutes."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "To serve, scoop mango sorbet into glasses. Top with chilled prosecco."
+      "HowToTip": {},
+      "text": "Meanwhile, cut cheeks from mangoes. Scoop flesh into a blender. Trim remaining flesh from around the stones and add to blender. Add lime rind and juice and 1 cup coconut syrup. Blend until smooth. Add remaining syrup and blend until combined. Pour mixture into a 22 x 12cm loaf pan. Cover with plastic wrap and freeze overnight."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
+      "HowToTip": {},
       "text": "To serve, scoop mango sorbet into glasses. Top with chilled prosecco."
     }
   ],
   "recipeNameId": "mango-floats",
   "recipeYield": "4",
   "sameAs": [
-    "https://woolworths.com.au/shop/find-recipes/mango-float"
+    "https://woolworths.com.au/shop/recipes/mango-floats"
   ],
   "totalTime": "PT20M",
-  "updatedAt": "2022-11-23T23:30:13.866Z",
+  "updatedAt": "2022-11-24T17:32:57.368Z",
   "url": "https://www.woolworths.com.au/shop/recipes/mango-floats"
 }

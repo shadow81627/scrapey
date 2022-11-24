@@ -1,50 +1,64 @@
 {
   "@type": "Recipe",
+  "author": {
+    "@type": "Person",
+    "name": "Fresh Ideas"
+  },
   "cookTime": "PT15M",
   "createdAt": "2022-11-22T12:04:16.060Z",
-  "datePublished": "2021-03-10",
+  "datePublished": "2022-09-26",
   "description": "Try our easy to follow Baked Fish & Chips recipe. Absolutely delicious with the best ingredients from Woolworths.",
   "image": {
     "@type": "ImageObject",
     "height": 1300,
-    "mime": "image/png",
-    "url": "https://foodhub.scene7.com/is/image/woolworthsltdprod/1209_bakedfishchips?wid=1300&hei=1300&fmt=png-alpha",
+    "mime": "image/jpeg",
+    "url": "https://foodhub.scene7.com/is/image/woolworthsltdprod/1209_bakedfishchips:Square-1300x1300",
     "width": 1300
   },
-  "keywords": "Baked Fish & Chips",
+  "keywords": "Fish & chips,Fish,Quick & easy dinner,High protein,Easter",
   "name": "Baked Fish & Chips Recipe | Woolworths",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "852 calories",
+    "carbohydrateContent": "58.5 g",
+    "fatContent": "44.5 g",
+    "proteinContent": "52.0 g",
+    "saturatedFatContent": "11.6 g",
+    "sodiumContent": "910 millig",
+    "transFatContent": "0.7 g"
+  },
   "prepTime": "PT5M",
-  "recipeCategory": "mains",
-  "recipeCuisine": "british",
+  "recipeCategory": "Mains",
+  "recipeCuisine": "British",
   "recipeId": "848",
   "recipeIngredient": [
-    "750 g white boneless fish fillets",
-    "120 g leafy salad mix",
-    "750 g frozen potato chips",
-    "1 lemon",
-    "0.5 cup parmesan",
-    "0.5 cup garlic aioli",
+    "750g white boneless fish fillets, cut into 4cm strips",
+    "120g leafy salad mix",
+    "750g frozen potato chips",
+    "1 lemon, cut into wedges (to serve)",
+    "0.5 cup parmesan, finely grated",
+    "0.5 cup garlic aioli (to serve)",
     "2 eggs",
-    "3 cup potato chips"
+    "3 cup potato chips, finely crushed"
   ],
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Meanwhile, whisk eggs in a shallow bowl. Combine crushed chips and parmesan in a separate bowl. Dip the fish pieces into egg then coat with chip mixture, pressing on them firmly. Lay on a lined tray and bake for 10 minutes or until golden and cooked through. Serve fish strips with cooked chips, salad, lemon wedges and aioli."
+      "HowToTip": {},
+      "text": "Preheat oven to 220°C. Line 2 large baking trays with paper. Cook chips on one tray following packet instructions."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
+      "HowToTip": {},
       "text": "Meanwhile, whisk eggs in a shallow bowl. Combine crushed chips and parmesan in a separate bowl. Dip the fish pieces into egg then coat with chip mixture, pressing on them firmly. Lay on a lined tray and bake for 10 minutes or until golden and cooked through. Serve fish strips with cooked chips, salad, lemon wedges and aioli."
     }
   ],
   "recipeNameId": "baked-fish-and-chips",
   "recipeYield": "4",
   "sameAs": [
-    "https://woolworths.com.au/shop/find-recipes/oven-cooked-chips"
+    "https://woolworths.com.au/shop/recipes/baked-fish-and-chips"
   ],
   "totalTime": "PT20M",
-  "updatedAt": "2022-11-22T12:04:16.060Z",
+  "updatedAt": "2022-11-24T15:22:16.581Z",
   "url": "https://www.woolworths.com.au/shop/recipes/baked-fish-and-chips"
 }

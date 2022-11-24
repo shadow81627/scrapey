@@ -1,50 +1,60 @@
 {
   "@type": "Recipe",
+  "author": {
+    "@type": "Person",
+    "name": "Licensed by Woolworths - ©️ Octopus Publishing Ltd"
+  },
   "cookTime": "PT7M",
   "createdAt": "2022-11-24T11:36:50.096Z",
-  "datePublished": "2022-01-14",
+  "datePublished": "2022-09-14",
   "description": "Try our easy to follow Asparagus & Snow Pea Stir-fry recipe. Absolutely delicious with the best ingredients from Woolworths.",
-  "image": "https://foodhub.scene7.com/is/image/woolworthsltdprod/167-asparagus-mangetout?wid=4080&hei=5440&fmt=png-alpha",
-  "keywords": "Asparagus & Snow Pea Stir-fry",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1300,
+    "mime": "image/jpeg",
+    "url": "https://foodhub.scene7.com/is/image/woolworthsltdprod/167-asparagus-mangetout:Square-1300x1300",
+    "width": 1300
+  },
+  "keywords": "Vegetable stir-fry,Asparagus",
   "name": "Asparagus & Snow Pea Stir-fry Recipe | Woolworths",
   "prepTime": "PT10M",
-  "recipeCategory": "side-dishes",
-  "recipeCuisine": "australian",
+  "recipeCategory": "Side dishes",
+  "recipeCuisine": "Australian",
   "recipeId": "RGR28481",
   "recipeIngredient": [
     "2 tbs vegetable oil",
-    "100 g fresh root ginger",
-    "2 cloves large garlic",
-    "4 spring onions",
-    "250 g thin asparagus spears",
-    "150 g snow peas",
-    "150 g bean sprouts",
-    "3.5 tbs light soy sauce",
-    "500 g rice"
+    "100g fresh root ginger, peeled and thinly shredded",
+    "2 cloves large garlic, thinly sliced",
+    "4 spring onions, diagonally sliced",
+    "250g thin asparagus spears, cut into 3 cm lengths",
+    "150g snow peas, cut in half diagonally",
+    "150g bean sprouts",
+    "3.5 tbs light soy sauce (save 1/2 tbs to serve)",
+    "500g rice, steamed (to serve)"
   ],
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Serve immediately with steamed rice and extra soy sauce, if liked."
+      "HowToTip": {},
+      "text": "Heat a large wok until it is smoking then add the oil. Stir-fry the ginger and garlic for 30 seconds, add the spring onions and cook for a further 30 seconds. Add the asparagus and cook, stirring frequently, for another 3-4 minutes."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Serve immediately with steamed rice and extra soy sauce, if liked."
+      "HowToTip": {},
+      "text": "Add the snow peas and cook for 2-3 minutes until the vegetables are still crunchy but beginning to soften. Finally, add the bean sprouts and toss in the hot oil for 1-2 minutes before pouring in the soy sauce and removing from the heat."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
+      "HowToTip": {},
       "text": "Serve immediately with steamed rice and extra soy sauce, if liked."
     }
   ],
   "recipeNameId": "asparagus-and-snow-pea-stir-fry",
   "recipeYield": "4",
   "sameAs": [
-    "https://woolworths.com.au/shop/find-recipes/stir-fry-snow-peas"
+    "https://woolworths.com.au/shop/recipes/asparagus-and-snow-pea-stir-fry"
   ],
   "totalTime": "PT17M",
-  "updatedAt": "2022-11-24T11:36:50.095Z",
+  "updatedAt": "2022-11-24T15:19:51.671Z",
   "url": "https://www.woolworths.com.au/shop/recipes/asparagus-and-snow-pea-stir-fry"
 }

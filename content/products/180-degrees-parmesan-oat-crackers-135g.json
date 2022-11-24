@@ -1,0 +1,66 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "775kJ",
+      "carbohydrateContent": "19.1g",
+      "dietary_fibre": "-",
+      "fatContent": "8.7g",
+      "name": "nutrition",
+      "proteinContent": "6.1g",
+      "saturatedFatContent": "2.6g",
+      "servingSize": "100 g",
+      "sodiumContent": "362mg",
+      "sugarContent": "0.4g"
+    }
+  ],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "180 Degrees"
+  },
+  "createdAt": "2022-11-24T15:02:24.538Z",
+  "description": "A deliciously crunchy cracker that's lovingly batch baked with whole grain oats and parmesan cheese and almonds.",
+  "gtin13": "9421013220611",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1200,
+    "mime": "image/jpeg",
+    "url": "https://cdn0.woolworths.media/content/wowproductimages/large/061410.jpg",
+    "width": 1200
+  },
+  "name": "180 Degrees Parmesan Oat Crackers 135G",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 5.5,
+    "lowPrice": 5.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T15:02:24.536Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 5.5,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/61410/180-degrees-parmesan-oat-crackers"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/61410/180-degrees-parmesan-oat-crackers"
+  ],
+  "sku": "61410",
+  "updatedAt": "2022-11-24T15:02:24.536Z"
+}

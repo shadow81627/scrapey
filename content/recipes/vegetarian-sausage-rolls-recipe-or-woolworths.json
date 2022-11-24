@@ -1,32 +1,45 @@
 {
   "@type": "Recipe",
+  "author": {
+    "@type": "Person",
+    "name": "Fresh Ideas"
+  },
   "cookTime": "PT25M",
   "createdAt": "2022-11-22T06:05:34.902Z",
-  "datePublished": "2021-03-10",
+  "datePublished": "2022-09-26",
   "description": "Try our easy to follow Vegetarian Sausage Rolls recipe. Absolutely delicious with the best ingredients from Woolworths.",
   "image": {
     "@type": "ImageObject",
     "height": 1300,
-    "mime": "image/png",
-    "url": "https://foodhub.scene7.com/is/image/woolworthsltdprod/1609-vegetariansausagerolls-2?wid=1300&hei=1300&fmt=png-alpha",
+    "mime": "image/jpeg",
+    "url": "https://foodhub.scene7.com/is/image/woolworthsltdprod/1609-vegetariansausagerolls-2:Square-1300x1300",
     "width": 1300
   },
-  "keywords": "Vegetarian Sausage Rolls",
+  "keywords": "Sausage rolls,Sausage,High protein",
   "name": "Vegetarian Sausage Rolls Recipe | Woolworths",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "650 calories",
+    "carbohydrateContent": "68.8 g",
+    "fatContent": "27.4 g",
+    "proteinContent": "26.8 g",
+    "sodiumContent": "1630 millig",
+    "transFatContent": "1.9 g"
+  },
   "prepTime": "PT10M",
-  "recipeCategory": "entrees",
-  "recipeCuisine": "european",
+  "recipeCategory": "Entrees",
+  "recipeCuisine": "French",
   "recipeId": "4794",
   "recipeIngredient": [
     "2 tbs poppy seeds",
-    "1 brown onion",
-    "0.33 cup parsley",
-    "2 sheet frozen readyrolled 25% reduced fat puff pastry",
+    "1 brown onion, diced",
+    "0.33 cup parsley, chopped",
+    "2 sheet frozen ready-rolled 25% reduced fat puff pastry, partially thawed*",
     "1 tbs worcestershire sauce",
     "1 cup rolled oats",
     "1 pinch freshly ground black pepper",
     "3 eggs",
-    "1 egg",
+    "1 egg, whisked",
     "1 cup panko breadcrumbs",
     "2 tsp sea salt flakes",
     "0.75 cup walnuts",
@@ -35,26 +48,26 @@
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Brush sausage rolls with the egg wash and sprinkle with poppy seeds. Bake for 25 minutes or until sausage rolls are golden and cooked through. Serve."
+      "HowToTip": {},
+      "text": "Preheat oven to 200°C. Line a large baking tray with baking paper. Process cottage cheese, walnuts, onion, eggs and sauce in a food processor until finely chopped. Transfer to a large bowl. Add oats, breadcrumbs, parsley, salt and pepper. Stir until well combined."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Brush sausage rolls with the egg wash and sprinkle with poppy seeds. Bake for 25 minutes or until sausage rolls are golden and cooked through. Serve."
+      "HowToTip": {},
+      "text": "Place a sheet of pastry onto a flat surface. Cut in half. Spoon 1/4 of the cheese mixture along 1 long edge of pastry. Roll pastry, enclosing filling. Cut into 5 small sausage rolls. Using the flat edge of a knife, form 3 ridges along each sausage roll. Transfer to prepared tray. Repeat with remaining filling and pastry."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
+      "HowToTip": {},
       "text": "Brush sausage rolls with the egg wash and sprinkle with poppy seeds. Bake for 25 minutes or until sausage rolls are golden and cooked through. Serve."
     }
   ],
   "recipeNameId": "vegetarian-sausage-rolls",
   "recipeYield": "5",
   "sameAs": [
-    "https://woolworths.com.au/shop/find-recipes/sausage-roll-pastry"
+    "https://woolworths.com.au/shop/recipes/vegetarian-sausage-rolls"
   ],
   "totalTime": "PT35M",
-  "updatedAt": "2022-11-22T06:05:34.901Z",
+  "updatedAt": "2022-11-24T16:51:42.110Z",
   "url": "https://www.woolworths.com.au/shop/recipes/vegetarian-sausage-rolls"
 }

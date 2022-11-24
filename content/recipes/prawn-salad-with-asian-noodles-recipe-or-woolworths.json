@@ -1,52 +1,65 @@
 {
   "@type": "Recipe",
+  "author": {
+    "@type": "Person",
+    "name": "Fresh Ideas"
+  },
   "cookTime": "PT5M",
   "createdAt": "2022-11-24T09:11:33.891Z",
-  "datePublished": "2022-08-09",
+  "datePublished": "2022-10-04",
   "description": "Refreshing, tangy and full of flavour, this light Asian vermicelli noodle salad with prawns will be a hit at your next gathering. ",
   "image": {
     "@type": "ImageObject",
     "height": 1300,
-    "mime": "image/png",
-    "url": "https://foodhub.scene7.com/is/image/woolworthsltdprod/2209-prawn-salad-with-asian-noodles?wid=1300&hei=1300&fmt=png-alpha",
+    "mime": "image/jpeg",
+    "url": "https://foodhub.scene7.com/is/image/woolworthsltdprod/2209-prawn-salad-with-asian-noodles:Square-1300x1300",
     "width": 1300
   },
-  "keywords": "Prawn Salad With Asian Noodles",
+  "keywords": "Prawn salad,High protein,Prawn,Low sugar,Low fat,Sep 2022",
   "name": "Prawn Salad With Asian Noodles Recipe | Woolworths",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "330 calories",
+    "carbohydrateContent": "48.2 g",
+    "fatContent": "1.7 g",
+    "proteinContent": "28.5 g",
+    "sodiumContent": "885 millig",
+    "sugarContent": "6.1 g"
+  },
   "prepTime": "PT20M",
-  "recipeCategory": "mains",
-  "recipeCuisine": "asian",
+  "recipeCategory": "Dinner",
+  "recipeCuisine": "Asian",
   "recipeId": "FIM-2209-27",
   "recipeIngredient": [
-    "200 g vermicelli noodles",
-    "4 radishes",
-    "1 Lebanese cucumber",
-    "1 small red onion",
-    "30 g snow pea sprouts",
-    "1 bunch coriander",
-    "2 limes",
+    "200g vermicelli noodles",
+    "4 radishes, thinly sliced",
+    "1 Lebanese cucumber, deseeded, finely shredded",
+    "1 small red onion, sliced",
+    "30g snow pea sprouts, trimmed",
+    "1 bunch coriander, leaves picked",
+    "2 limes, juiced",
     "1 tbs fish sauce",
-    "2 tsp caster sugar",
-    "500 g cooked tiger prawns"
+    "2 tsp caster sugar, peeled",
+    "500g cooked tiger prawns"
   ],
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Whisk lime juice, fish sauce and sugar in a jug. Add lime dressing to salad, top with prawns and remaining coriander leaves and serve."
+      "HowToTip": {},
+      "text": "Cook noodles in a saucepan of boiling water, according to packet instructions or until tender. Drain. Place in a bowl. Add radish, cucumber, onion and sprouts. Chop half the coriander and add to the noodle mixture. Toss to combine."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
+      "HowToTip": {},
       "text": "Whisk lime juice, fish sauce and sugar in a jug. Add lime dressing to salad, top with prawns and remaining coriander leaves and serve."
     }
   ],
   "recipeNameId": "prawn-salad-with-asian-noodles",
   "recipeYield": "4",
   "sameAs": [
-    "https://woolworths.com.au/shop/find-recipes/asian-prawn-recipes"
+    "https://woolworths.com.au/shop/recipes/prawn-salad-with-asian-noodles"
   ],
   "totalTime": "PT25M",
-  "updatedAt": "2022-11-24T09:11:33.890Z",
+  "updatedAt": "2022-11-24T15:25:21.780Z",
   "url": "https://www.woolworths.com.au/shop/recipes/prawn-salad-with-asian-noodles"
 }

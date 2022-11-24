@@ -1,43 +1,48 @@
 {
   "@type": "Recipe",
+  "author": {
+    "@type": "Person",
+    "name": "Fresh Ideas"
+  },
+  "cookTime": "PT0M",
   "createdAt": "2022-11-24T01:22:55.227Z",
-  "datePublished": "2021-03-10",
+  "datePublished": "2022-10-20",
   "description": "Try our easy to follow Classic Pimm's recipe. Absolutely delicious with the best ingredients from Woolworths.",
   "image": {
     "@type": "ImageObject",
     "height": 1300,
-    "mime": "image/png",
-    "url": "https://foodhub.scene7.com/is/image/woolworthsltdprod/1712-classic-pimms?wid=1300&hei=1300&fmt=png-alpha",
+    "mime": "image/jpeg",
+    "url": "https://foodhub.scene7.com/is/image/woolworthsltdprod/1712-classic-pimms:Square-1300x1300",
     "width": 1300
   },
-  "keywords": "Classic Pimm's",
+  "keywords": "Cocktail,Strawberry,Christmas,Summer",
   "name": "Classic Pimm's Recipe | Woolworths",
   "prepTime": "PT5M",
-  "recipeCategory": "drinks",
-  "recipeCuisine": "british",
+  "recipeCategory": "Drinks",
+  "recipeCuisine": "British",
   "recipeId": "6497",
   "recipeIngredient": [
-    "180 ml pimm's",
+    "180ml pimm’s",
     "0.5 cucumber",
     "0.5 bunch mint leaves",
     "5 strawberries",
     "1 orange",
-    "1.25 L lemonade",
-    "1.25 L dry ginger ale"
+    "1.25L lemonade",
+    "1.25L dry ginger ale"
   ],
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Fill a jug with ice. Add 1 sliced orange, 1/2 sliced cucumber, 5 sliced strawberries and 1/2 bunch mint leaves. Add 180ml Pimm's and top with equal parts dry ginger ale and lemonade. Finish by stirring and serving."
+      "HowToTip": {},
+      "text": "Fill a jug with ice. Add 1 sliced orange, 1/2 sliced cucumber, 5 sliced strawberries and 1/2 bunch mint leaves. Add 180ml Pimm’s and top with equal parts dry ginger ale and lemonade. Finish by stirring and serving."
     }
   ],
   "recipeNameId": "classic-pimms",
   "recipeYield": "4",
   "sameAs": [
-    "https://woolworths.com.au/shop/find-recipes/pimms-and-lemonade"
+    "https://woolworths.com.au/shop/recipes/classic-pimms"
   ],
   "totalTime": "PT5M",
-  "updatedAt": "2022-11-24T01:22:55.221Z",
+  "updatedAt": "2022-11-24T17:32:04.048Z",
   "url": "https://www.woolworths.com.au/shop/recipes/classic-pimms"
 }

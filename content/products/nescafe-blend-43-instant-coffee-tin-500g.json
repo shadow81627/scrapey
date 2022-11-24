@@ -1,0 +1,72 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "-",
+      "carbohydrateContent": "-",
+      "dietary_fibre": "-",
+      "fatContent": "-",
+      "name": "nutrition",
+      "proteinContent": "-",
+      "saturatedFatContent": "-",
+      "servingSize": "100 g",
+      "sodiumContent": "-",
+      "sugarContent": "-"
+    }
+  ],
+  "aggregateRating": {
+    "@context": "http://schema.org",
+    "@type": "AggregateRating",
+    "ratingCount": 2,
+    "ratingValue": 5
+  },
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Nescafe"
+  },
+  "createdAt": "2022-11-24T12:33:12.801Z",
+  "description": " NESCAF BLEND 43 Instant Coffee is Australia's favourite coffee* and is the best way to give you a kick start or keep you energised throughout a busy day. To enhance the boldness and smoothness of NESCAF BLEND 43 coffee, we have reinvented the way it is made – roasting the Arabica coffee beans a little lighter and the Robusta coffee beans a little darker to create the perfect cup enhancing the beans’ unique flavour & aroma. If you like it stronger, NESCAF BLEND 43 Espresso (10-intensity score) may be the one for you. But if you like it more on the smooth side, try NESCAF BLEND 43 Smooth & Creamy (6-intensity score).*Based on soluble coffee sales in National Grocery Chains. 12 month period ending 01/11/2020 (by volume).",
+  "gtin13": "9300605003552",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1200,
+    "mime": "image/jpeg",
+    "url": "https://cdn0.woolworths.media/content/wowproductimages/large/035694.jpg",
+    "width": 1200
+  },
+  "name": "Nescafe Blend 43 Instant Coffee Tin 500G",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 16,
+    "lowPrice": 16,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T12:33:12.799Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 16,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/35694/nescafe-blend-43-instant-coffee-tin"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/35694/nescafe-blend-43-instant-coffee-tin"
+  ],
+  "sku": "35694",
+  "updatedAt": "2022-11-24T12:33:12.799Z"
+}

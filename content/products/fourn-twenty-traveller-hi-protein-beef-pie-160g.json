@@ -1,0 +1,66 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "1420.0kJ",
+      "carbohydrateContent": "36.1g",
+      "dietary_fibre": "-",
+      "fatContent": "12.0g",
+      "name": "nutrition",
+      "proteinContent": "20.1g",
+      "saturatedFatContent": "6.1g",
+      "servingSize": "100 g",
+      "sodiumContent": "550.0mg",
+      "sugarContent": "1.3g"
+    }
+  ],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Four'N Twenty"
+  },
+  "createdAt": "2022-11-24T13:24:31.734Z",
+  "description": "Four 'N Twenty Traveller Hi-Protein (contains at least 25% more protein than Four 'N Twenty Traveller Classic Meat Pie) Beef - The classic taste of 100% Australian Beef in delicious gravy wrapped in golden pastry.",
+  "gtin13": "9356335002464",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1200,
+    "mime": "image/jpeg",
+    "url": "https://cdn0.woolworths.media/content/wowproductimages/large/220982.jpg",
+    "width": 1200
+  },
+  "name": "Four'n Twenty Traveller Hi Protein Beef Pie 160g",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 4,
+    "lowPrice": 4,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T13:24:31.733Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 4,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/220982/four-n-twenty-traveller-hi-protein-beef-pie"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/220982/four-n-twenty-traveller-hi-protein-beef-pie"
+  ],
+  "sku": "220982",
+  "updatedAt": "2022-11-24T13:24:31.733Z"
+}

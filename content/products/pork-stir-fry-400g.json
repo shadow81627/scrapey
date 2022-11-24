@@ -1,0 +1,71 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "Approx.471kJ",
+      "carbohydrateContent": "Approx.0.4g",
+      "dietary_fibre": "-",
+      "fatContent": "Approx.2.3g",
+      "name": "nutrition",
+      "proteinContent": "Approx.21.7g",
+      "saturatedFatContent": "Approx.1g",
+      "servingSize": "100 g",
+      "sodiumContent": "Approx.55mg",
+      "sugarContent": "Approx.0.4g"
+    }
+  ],
+  "aggregateRating": {
+    "@context": "http://schema.org",
+    "@type": "AggregateRating",
+    "ratingCount": 812,
+    "ratingValue": 4.5628078817734
+  },
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization"
+  },
+  "createdAt": "2022-11-24T14:48:58.161Z",
+  "description": "Heart Smart Story: \"No more than 5% total fat and less than 4% saturated fat, Heart Smart meat is a good source of protein and can be enjoyed as part of a healthy balanced diet.\"Heat wok or fry pan to high heat, add oil and continue to heat until just smokingAdd pork and cook, stirring occasionally, for 3-4 minutes until browned and cooked through. Be careful not to overcrowd the pan, this may need to be done in batches. Remove from pan. Add stir fry vegetables such as capsicum, carrot and onion to the pan and stir fry for a few minutesReturn pork to the pan with vegetables and add hoisin sauce for a quick mid week dinner",
+  "gtin13": "9339687207626",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1200,
+    "mime": "image/jpeg",
+    "url": "https://cdn0.woolworths.media/content/wowproductimages/large/114363.jpg",
+    "width": 1200
+  },
+  "name": "Pork Stir Fry 400G",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 8,
+    "lowPrice": 8,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T14:48:58.159Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 8,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/114363/pork-stir-fry"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/114363/pork-stir-fry"
+  ],
+  "sku": "114363",
+  "updatedAt": "2022-11-24T14:48:58.159Z"
+}

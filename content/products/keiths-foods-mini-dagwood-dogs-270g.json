@@ -1,0 +1,72 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "365.0kJ",
+      "carbohydrateContent": "9.7g",
+      "dietary_fibre": "0.95g",
+      "fatContent": "3.2g",
+      "name": "nutrition",
+      "proteinContent": "4.4g",
+      "saturatedFatContent": "0.7g",
+      "servingSize": "100 g",
+      "sodiumContent": "396.0mg",
+      "sugarContent": "1.8g"
+    }
+  ],
+  "aggregateRating": {
+    "@context": "http://schema.org",
+    "@type": "AggregateRating",
+    "ratingCount": 49,
+    "ratingValue": 4.40816326530612
+  },
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Keith's Foods"
+  },
+  "createdAt": "2022-11-24T13:26:32.763Z",
+  "description": "A delicious and convenient battered Frankfurt on a stick. For those with smaller appetites, its size makes it ideal as a snack or light meal. Great for entertaining or parties!",
+  "gtin13": "9333296010004",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1200,
+    "mime": "image/jpeg",
+    "url": "https://cdn0.woolworths.media/content/wowproductimages/large/939206.jpg",
+    "width": 1200
+  },
+  "name": "Keith's Foods Mini Dagwood Dogs 270G",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 6.2,
+    "lowPrice": 6.2,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T13:26:32.761Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 6.2,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/939206/keith-s-foods-mini-dagwood-dogs"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/939206/keith-s-foods-mini-dagwood-dogs"
+  ],
+  "sku": "939206",
+  "updatedAt": "2022-11-24T13:26:32.761Z"
+}

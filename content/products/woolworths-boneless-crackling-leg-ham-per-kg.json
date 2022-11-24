@@ -1,0 +1,66 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "Approx.393kJ",
+      "carbohydrateContent": "<1g",
+      "dietary_fibre": "-",
+      "fatContent": "Approx.5.8g",
+      "name": "nutrition",
+      "proteinContent": "Approx.10.3g",
+      "saturatedFatContent": "Approx.2g",
+      "servingSize": "100 g",
+      "sodiumContent": "Approx.450mg",
+      "sugarContent": "<1g"
+    }
+  ],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Woolworths"
+  },
+  "createdAt": "2022-11-24T15:39:45.996Z",
+  "description": "This award-winning crackling leg ham is conveniently pre-scored, ready to roast for crisp, crunchy crackling. \nOven heating instructions:\n1. Remove the ham from the plastic bag.\n2. Pat the skin dry, then rub the surface of the ham with a pinch of salt and a drizzle of olive oil.\n3. Place onto an aluminium foil lined tray in the centre of the oven. Bake at 220°C (fan-forced oven) for between 45-60 mins, depending on the oven, or until the crackle is crispy and golden on the outside. \n4. Remove the ham from the oven, rest for 5 min. \n5. Slice and serve.",
+  "gtin13": "2624530000002",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1200,
+    "mime": "image/jpeg",
+    "url": "https://cdn0.woolworths.media/content/wowproductimages/large/104630.jpg",
+    "width": 1200
+  },
+  "name": "Woolworths Boneless Crackling Leg Ham Per Kg",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 37.8,
+    "lowPrice": 37.8,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T15:39:45.994Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 37.8,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/104630/woolworths-boneless-crackling-leg-ham"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/104630/woolworths-boneless-crackling-leg-ham"
+  ],
+  "sku": "104630",
+  "updatedAt": "2022-11-24T15:39:45.994Z"
+}

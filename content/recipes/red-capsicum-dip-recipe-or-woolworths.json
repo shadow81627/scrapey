@@ -1,46 +1,56 @@
 {
   "@type": "Recipe",
+  "author": {
+    "@type": "Person",
+    "name": "Produced for Woolworths"
+  },
   "cookTime": "PT20M",
   "createdAt": "2022-11-24T12:05:54.899Z",
-  "datePublished": "2022-02-25",
+  "datePublished": "2022-08-03",
   "description": "A great dipping sauce that has the flavour of red capsicum but with a smooth consistency.",
-  "image": "https://foodhub.scene7.com/is/image/woolworthsltdprod/337713?wid=2160&hei=2160&fmt=png-alpha",
-  "keywords": "Red Capsicum Dip",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1300,
+    "mime": "image/jpeg",
+    "url": "https://foodhub.scene7.com/is/image/woolworthsltdprod/337713:Square-1300x1300",
+    "width": 1300
+  },
+  "keywords": "Veggie dip,Seafood free,Wheat free,Egg free,Sesame free",
   "name": "Red Capsicum Dip Recipe | Woolworths",
   "prepTime": "PT5M",
-  "recipeCategory": "side-dishes",
-  "recipeCuisine": "australian",
+  "recipeCategory": "Side dishes",
+  "recipeCuisine": "Australian",
   "recipeId": "RGWW337713",
   "recipeIngredient": [
-    "4 medium red capsicum",
+    "4 medium red capsicum, quartered and de-seeded",
     "1 tbs canola oil",
     "1 pinch salt",
     "1 pinch pepper",
-    "180 g creme fraiche"
+    "180g creme fraiche"
   ],
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Add the rest of the ingredients and blend for 30 seconds before serving."
+      "HowToTip": {},
+      "text": "Pre-heat the oven to 180°C. Bake the peppers on a baking tray, skin side up, for 20 minutes."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Add the rest of the ingredients and blend for 30 seconds before serving."
+      "HowToTip": {},
+      "text": "Remove from the oven and allow to cool. Remove the skin from the peppers and add the flesh to a blender."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
+      "HowToTip": {},
       "text": "Add the rest of the ingredients and blend for 30 seconds before serving."
     }
   ],
   "recipeNameId": "red-capsicum-dip",
   "recipeYield": "4",
   "sameAs": [
-    "https://woolworths.com.au/shop/find-recipes/dipping-sauce"
+    "https://woolworths.com.au/shop/recipes/red-capsicum-dip"
   ],
   "totalTime": "PT25M",
-  "updatedAt": "2022-11-24T12:05:54.899Z",
+  "updatedAt": "2022-11-24T17:22:28.936Z",
   "url": "https://www.woolworths.com.au/shop/recipes/red-capsicum-dip"
 }

@@ -1,68 +1,78 @@
 {
   "@type": "Recipe",
+  "author": {
+    "@type": "Person",
+    "name": "Licensed by Woolworths - ©️ Dorling Kindersley Ltd"
+  },
   "cookTime": "PT15M",
   "createdAt": "2022-11-24T09:24:13.681Z",
-  "datePublished": "2021-10-01",
+  "datePublished": "2022-08-03",
   "description": "These cinnamon- and sugar-sprinkled Spanish snacks take minutes to make and will be devoured just as quickly.",
-  "image": "https://foodhub.scene7.com/is/image/woolworthsltdprod/amecoo224cinchu_026?wid=5412&hei=7216&fmt=png-alpha",
-  "keywords": "Cinnamon Churros With Chocolate & Chilli Sauce",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1300,
+    "mime": "image/jpeg",
+    "url": "https://foodhub.scene7.com/is/image/woolworthsltdprod/amecoo224cinchu_026:Square-1300x1300",
+    "width": 1300
+  },
+  "keywords": "Churros",
   "name": "Cinnamon Churros With Chocolate & Chilli Sauce Recipe | Woolworths",
   "prepTime": "PT10M",
-  "recipeCategory": "desserts",
-  "recipeCuisine": "european",
+  "recipeCategory": "Desserts",
+  "recipeCuisine": "Spanish",
   "recipeId": "RGR3751",
   "recipeIngredient": [
-    "25 g butter",
-    "200 g plain flour",
-    "50 g caster sugar",
+    "25g butter, unsalted",
+    "200g plain flour",
+    "50g caster sugar",
     "1 tsp baking powder",
     "1 liter sunflower oil",
     "1 tsp ground cinnamon",
-    "50 g good-quality dark chocolate",
+    "50g good-quality dark chocolate, broken into pieces",
     "0.6 cup double cream",
     "1 tbs caster sugar",
     "1 tbs unsalted butter",
     "1 pinch salt",
-    "0.25 tsp chilli powder"
+    "0.25 tsp chilli powder (to taste)"
   ],
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Take the sauce off the heat and add a pinch of salt. Add the chili powder or cayenne pepper to taste, a pinch at a time, and taste as you add it. The sauce will not immediately appear hot or spicy; the right amount of spice will be reached when it leaves a slow heat in your mouth, but does not overwhelm you. Transfer to a bowl and serve immediately with freshly made churros."
+      "HowToTip": {},
+      "text": "Measure 200ml of boiling water into a jug. Add the butter and stir until it melts. Sift together the flour, half the sugar, and the baking powder into a bowl. Make a well in the centre and slowly pour in the hot butter liquid, beating continuously, until you have a thick paste; you may not need all the liquid. Leave the mixture to cool and rest for 5 minutes."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Take the sauce off the heat and add a pinch of salt. Add the chili powder or cayenne pepper to taste, a pinch at a time, and taste as you add it. The sauce will not immediately appear hot or spicy; the right amount of spice will be reached when it leaves a slow heat in your mouth, but does not overwhelm you. Transfer to a bowl and serve immediately with freshly made churros."
+      "HowToTip": {},
+      "text": "Pour the oil into a large, heavy-based saucepan or deep-fat fryer to a depth of at least 10cm and heat it to 190°C. Test the oil. Keep the correct-sized saucepan lid nearby and never leave the hot oil unattended. Regulate the temperature, making sure it remains even, or the churros will burn."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Take the sauce off the heat and add a pinch of salt. Add the chili powder or cayenne pepper to taste, a pinch at a time, and taste as you add it. The sauce will not immediately appear hot or spicy; the right amount of spice will be reached when it leaves a slow heat in your mouth, but does not overwhelm you. Transfer to a bowl and serve immediately with freshly made churros."
+      "HowToTip": {},
+      "text": "Place the cooled mixture into a piping bag fitted with a 2 cm star-shaped nozzle. Pipe 7cm lengths of the dough directly into the hot oil using a pair of scissors to snip off the ends. Do not crowd the pan, or the temperature of the oil will go down. Cook the churros for 1–2 minutes on each side, turning them when they are golden brown. When done, remove the churros from the oil with a slotted spoon and drain on kitchen paper. Turn off the heat."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Take the sauce off the heat and add a pinch of salt. Add the chili powder or cayenne pepper to taste, a pinch at a time, and taste as you add it. The sauce will not immediately appear hot or spicy; the right amount of spice will be reached when it leaves a slow heat in your mouth, but does not overwhelm you. Transfer to a bowl and serve immediately with freshly made churros."
+      "HowToTip": {},
+      "text": "Mix the remaining sugar and the cinnamon together on a plate and toss the churros in the mixture while still hot. Leave to cool for 5–10 minutes before serving while still warm."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Take the sauce off the heat and add a pinch of salt. Add the chili powder or cayenne pepper to taste, a pinch at a time, and taste as you add it. The sauce will not immediately appear hot or spicy; the right amount of spice will be reached when it leaves a slow heat in your mouth, but does not overwhelm you. Transfer to a bowl and serve immediately with freshly made churros."
+      "HowToTip": {},
+      "text": "For the chocolate chilli sauce, put the chocolate, cream, sugar, and butter in a medium, heatproof bowl over a saucepan of barely simmering water. Heat the mixture, stirring constantly, for 3–4 minutes until the chocolate melts and the sauce amalgamates and thickens."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
+      "HowToTip": {},
       "text": "Take the sauce off the heat and add a pinch of salt. Add the chili powder or cayenne pepper to taste, a pinch at a time, and taste as you add it. The sauce will not immediately appear hot or spicy; the right amount of spice will be reached when it leaves a slow heat in your mouth, but does not overwhelm you. Transfer to a bowl and serve immediately with freshly made churros."
     }
   ],
   "recipeNameId": "cinnamon-churros-with-chocolate-chilli-sauce",
   "recipeYield": "20",
   "sameAs": [
-    "https://woolworths.com.au/shop/find-recipes/churros-with-chocolate-sauce"
+    "https://woolworths.com.au/shop/recipes/cinnamon-churros-with-chocolate-chilli-sauce"
   ],
   "totalTime": "PT25M",
-  "updatedAt": "2022-11-24T09:24:13.680Z",
+  "updatedAt": "2022-11-24T16:57:52.976Z",
   "url": "https://www.woolworths.com.au/shop/recipes/cinnamon-churros-with-chocolate-chilli-sauce"
 }

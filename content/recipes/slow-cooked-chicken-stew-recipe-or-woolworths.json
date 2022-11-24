@@ -1,49 +1,64 @@
 {
   "@type": "Recipe",
+  "author": {
+    "@type": "Person",
+    "name": "Fresh Ideas"
+  },
   "cookTime": "PT40M",
   "createdAt": "2022-11-24T01:36:48.572Z",
-  "datePublished": "2021-03-10",
+  "datePublished": "2022-09-26",
   "description": "Try our easy to follow Slow-Cooked Chicken Stew recipe. Absolutely delicious with the best ingredients from Woolworths.",
   "image": {
     "@type": "ImageObject",
     "height": 1300,
-    "mime": "image/png",
-    "url": "https://foodhub.scene7.com/is/image/woolworthsltdprod/1909-slow-cooked-chicken-stew?wid=1300&hei=1300&fmt=png-alpha",
+    "mime": "image/jpeg",
+    "url": "https://foodhub.scene7.com/is/image/woolworthsltdprod/1909-slow-cooked-chicken-stew:Square-1300x1300",
     "width": 1300
   },
-  "keywords": "Slow-Cooked Chicken Stew",
+  "keywords": "Stew,Low saturated fat,Seafood free,Healthier Easier,Winter,Low sugar,High protein,One-pot,Comfort food,Chicken",
   "name": "Slow-Cooked Chicken Stew Recipe | Woolworths",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "362 calories",
+    "carbohydrateContent": "33.3 g",
+    "fatContent": "15.0 g",
+    "proteinContent": "26.2 g",
+    "saturatedFatContent": "5.8 g",
+    "sodiumContent": "775 millig",
+    "sugarContent": "5.6 g",
+    "transFatContent": "0.3 g"
+  },
   "prepTime": "PT5M",
-  "recipeCategory": "mains",
-  "recipeCuisine": "british",
+  "recipeCategory": "Mains,Dinner",
+  "recipeCuisine": "British",
   "recipeId": "9715",
   "recipeIngredient": [
-    "400 g Simply Simmer Veggie Mix",
+    "400g Simply Simmer Veggie Mix",
     "1 tbs paprika",
-    "1 L salt-reduced chicken stock",
-    "6 wholemeal flatbreads",
+    "1L salt-reduced chicken stock",
+    "6 wholemeal flatbreads, quartered",
     "1 tbs olive oil",
-    "600 g skinless chicken thigh fillets, halved",
-    "500 g Winter Veg Mix"
+    "600g skinless chicken thigh fillets, halved, fat trimmed",
+    "500g Winter Veg Mix"
   ],
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Add stock, cover saucepan and simmer on low heat for 20 minutes. Add the Woolworths Winter Veg Mix and cook for a further 10 minutes and season with pepper to taste. Divide stew among serving bowls and serve with flatbread."
+      "HowToTip": {},
+      "text": "Heat oil in a large saucepan over medium heat. Add chicken and paprika. Cook for 5 minutes, stirring occasionally, until chicken is browned. Add Simply Simmer Veggie Mix and cook for a further 5 minutes."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
+      "HowToTip": {},
       "text": "Add stock, cover saucepan and simmer on low heat for 20 minutes. Add the Woolworths Winter Veg Mix and cook for a further 10 minutes and season with pepper to taste. Divide stew among serving bowls and serve with flatbread."
     }
   ],
   "recipeNameId": "slow-cooked-chicken-stew",
   "recipeYield": "6",
   "sameAs": [
-    "https://woolworths.com.au/shop/find-recipes/chicken-stew"
+    "https://woolworths.com.au/shop/recipes/slow-cooked-chicken-stew"
   ],
   "totalTime": "PT45M",
-  "updatedAt": "2022-11-24T01:36:48.571Z",
+  "updatedAt": "2022-11-24T14:09:40.949Z",
   "url": "https://www.woolworths.com.au/shop/recipes/slow-cooked-chicken-stew"
 }

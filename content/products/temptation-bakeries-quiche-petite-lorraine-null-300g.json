@@ -1,0 +1,72 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "Approx.218kJ",
+      "carbohydrateContent": "Approx.5.4g",
+      "dietary_fibre": "0.26g",
+      "fatContent": "Approx.2.7g",
+      "name": "nutrition",
+      "proteinContent": "Approx.1.4g",
+      "saturatedFatContent": "Approx.1.4g",
+      "servingSize": "100 g",
+      "sodiumContent": "Approx.87mg",
+      "sugarContent": "Approx.0.6g"
+    }
+  ],
+  "aggregateRating": {
+    "@context": "http://schema.org",
+    "@type": "AggregateRating",
+    "ratingCount": 20,
+    "ratingValue": 4.55
+  },
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Temptation Bakeries"
+  },
+  "createdAt": "2022-11-24T13:23:39.936Z",
+  "description": "A classic quiche lorraine combination of creamy cheese and bacon encased in light crisp pastry. Perfect bite size serves make these petites ideal as a delicious canapé, appetiser or snack.",
+  "gtin13": "9318677000003",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1200,
+    "mime": "image/jpeg",
+    "url": "https://cdn0.woolworths.media/content/wowproductimages/large/209215.jpg",
+    "width": 1200
+  },
+  "name": "Temptation Bakeries Quiche Petite Lorraine Null 300G",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 5,
+    "lowPrice": 5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T13:23:39.934Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 5,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/209215/temptation-bakeries-quiche-petite-lorraine-null"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/209215/temptation-bakeries-quiche-petite-lorraine-null"
+  ],
+  "sku": "209215",
+  "updatedAt": "2022-11-24T13:23:39.934Z"
+}

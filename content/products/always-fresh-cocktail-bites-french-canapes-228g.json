@@ -1,0 +1,66 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "154.00kJ",
+      "carbohydrateContent": "3.40g",
+      "dietary_fibre": "-",
+      "fatContent": "2.30g",
+      "name": "nutrition",
+      "proteinContent": "0.70g",
+      "saturatedFatContent": "1.20g",
+      "servingSize": "100 g",
+      "sodiumContent": "47.00mg",
+      "sugarContent": "0.60g"
+    }
+  ],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Always Fresh"
+  },
+  "createdAt": "2022-11-24T13:23:10.064Z",
+  "description": "Our Always Fresh Cocktail Bites are perfect for at-home entertaining and snacking. A mixed pack of four different puff pastries including Zucchini & Parmesan, Goat Cheese, Honey & Rosemary, Tomato & Mozzarella & Tomato & Basil Lattice. Enjoy the tastes of France at home and in minutes.  Made in France. Vegetarian. No artificial flavours or colours.  ",
+  "gtin13": "9300602371852",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1200,
+    "mime": "image/jpeg",
+    "url": "https://cdn0.woolworths.media/content/wowproductimages/large/221142.jpg",
+    "width": 1200
+  },
+  "name": "Always Fresh Cocktail Bites French Canapes 228g",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 6,
+    "lowPrice": 6,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T13:23:10.063Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 6,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/221142/always-fresh-cocktail-bites-french-canapes"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/221142/always-fresh-cocktail-bites-french-canapes"
+  ],
+  "sku": "221142",
+  "updatedAt": "2022-11-24T13:23:10.063Z"
+}

@@ -1,0 +1,52 @@
+{
+  "@type": "Product",
+  "additionalProperty": [],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Johnnie Walker"
+  },
+  "createdAt": "2022-11-24T14:45:43.615Z",
+  "description": "Johnnie Walker Black Label is a true icon, recognised as the benchmark for all other deluxe blends. Created using only whiskies aged for a minimum of 12 years from the four corners of Scotland, Johnnie Walker Black Label has an unmistakably smooth, deep character. An impressive whisky to share on any occasion, whether you're entertaining at home or on a night out with friends.",
+  "gtin13": "5000267189604",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1200,
+    "mime": "image/jpeg",
+    "url": "https://cdn0.woolworths.media/content/wowproductimages/large/776048.jpg",
+    "width": 1200
+  },
+  "name": "Johnnie Walker Scotch Whisky Black 1L",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 73,
+    "lowPrice": 73,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T14:45:43.614Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 73,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/776048/johnnie-walker-scotch-whisky-black"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/776048/johnnie-walker-scotch-whisky-black"
+  ],
+  "sku": "776048",
+  "updatedAt": "2022-11-24T14:45:43.614Z"
+}

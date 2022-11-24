@@ -1,0 +1,66 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "Approx.377.5kJ",
+      "carbohydrateContent": "<1g",
+      "dietary_fibre": "0.2g",
+      "fatContent": "Approx.7.175g",
+      "name": "nutrition",
+      "proteinContent": "Approx.5.525g",
+      "saturatedFatContent": "Approx.4.675g",
+      "servingSize": "100 g",
+      "sodiumContent": "Approx.177.5mg",
+      "sugarContent": "Approx.1g"
+    }
+  ],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Mersey Valley"
+  },
+  "createdAt": "2022-11-24T15:03:12.314Z",
+  "description": "Introduction: Mersey Valley Pickled Onion is a milder cheddar with the addition of Tasmanian pickled onion for a bold flavour to the cheese. \nProduct Description: This variety is made with brown pickled onions which are pickled 25 minutes down the road from the Mersey Valley cheese factory! Iconic Mersey Valley is best known for its unique crumbly texture and bold vintage cheddar flavour. Perfect for a snack that really hits the spot!\nCheese Type: Hard\nMilk: Cow\nOrigin: Tasmania\nServing Suggestion: Pair Mersey Valley Pickled Onion with cold meats and crackers for a tasty afternoon snack. \nWine Pairing: Best served with a light craft beer or a red wine.",
+  "gtin13": "9310134901359",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1200,
+    "mime": "image/jpeg",
+    "url": "https://cdn0.woolworths.media/content/wowproductimages/large/250852.jpg",
+    "width": 1200
+  },
+  "name": "Mersey Valley Pickled Onion Cheddar Cheese 235G",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 6.9,
+    "lowPrice": 6.9,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T15:03:12.313Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 6.9,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/250852/mersey-valley-pickled-onion-cheddar-cheese"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/250852/mersey-valley-pickled-onion-cheddar-cheese"
+  ],
+  "sku": "250852",
+  "updatedAt": "2022-11-24T15:03:12.313Z"
+}

@@ -1,0 +1,72 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "304kilojoule",
+      "carbohydrateContent": "14.6gram",
+      "dietary_fibre": "-",
+      "fatContent": "1.2gram",
+      "name": "nutrition",
+      "proteinContent": "0.7gram",
+      "saturatedFatContent": "0.8gram",
+      "servingSize": "100 g",
+      "sodiumContent": "20milligram",
+      "sugarContent": "11.5gram"
+    }
+  ],
+  "aggregateRating": {
+    "@context": "http://schema.org",
+    "@type": "AggregateRating",
+    "ratingCount": 1,
+    "ratingValue": 5
+  },
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Streets"
+  },
+  "createdAt": "2022-11-24T12:31:23.210Z",
+  "description": "SPLICE FRUIT ICE PINE LIME MP8 544 MLSay goodbye serious and hello happiness Streets Splice Pine Lime is a delicious fruit ice confection Available in a multipack so get your 8 pack today Using real fruit juice this refreshing treat is perfect to cool down over Summer or anytime of the year Splice is renowned for its pineapple  lime flavoured coating with a soft vanilla centre not to mention that its 97 fat free An Aussie classic that is ideal to share with friends and family or to treat yourself Get your hands on a delicious and refreshing Streets Splice PineLime today Between World War 1 and World War 2 Edwin Ted Street thanks to his wife and brother laid the foundations in Corrimal NSW for what would ultimately become Australias biggest and bestknown ice cream manufacturer Streets ice cream was originally made in the back shed by Ted Street He would then sell these to neighbours along with sweets cakes and lemonade Popularity grew and he soon used a cart then a one horsepower motorbike to sell Streets ice cream It continued to grow and today Streets ice cream is sold throughout Australia and New Zealand with wellknown brands such as Magnum Paddle Pop Cornetto Gaytime Calippo and Blue Ribbon Choose Happier TogetherSplice a refreshing fruit ice confection so get the fruity feelingSplice delivers on a delicious Pine Lime flavourSplice contains no artificial colours flavours or preservativesMade with real fruit juice great for the whole family97 fat free makes a great refreshing treatAvailable in a multipack with 8 delicious sticks",
+  "gtin13": "9300830061662",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1200,
+    "mime": "image/jpeg",
+    "url": "https://cdn0.woolworths.media/content/wowproductimages/large/124184.jpg",
+    "width": 1200
+  },
+  "name": "Streets Splice Pine Lime 8 Pack",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 6.5,
+    "lowPrice": 6.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T12:31:23.207Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 6.5,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/124184/streets-splice-pine-lime"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/124184/streets-splice-pine-lime"
+  ],
+  "sku": "124184",
+  "updatedAt": "2022-11-24T12:31:23.207Z"
+}

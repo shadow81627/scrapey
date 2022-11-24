@@ -1,51 +1,66 @@
 {
   "@type": "Recipe",
+  "author": {
+    "@type": "Person",
+    "name": "Fresh Ideas"
+  },
   "cookTime": "PT35M",
   "createdAt": "2022-11-24T11:36:16.921Z",
-  "datePublished": "2021-03-10",
+  "datePublished": "2022-09-26",
   "description": "Try our easy to follow Pumpkin & Chickpea Curry recipe. Absolutely delicious with the best ingredients from Woolworths.",
   "image": {
     "@type": "ImageObject",
     "height": 1300,
-    "mime": "image/png",
-    "url": "https://foodhub.scene7.com/is/image/woolworthsltdprod/1205_pumpkinchickpeacurry?wid=1300&hei=1300&fmt=png-alpha",
+    "mime": "image/jpeg",
+    "url": "https://foodhub.scene7.com/is/image/woolworthsltdprod/1205_pumpkinchickpeacurry:Square-1300x1300",
     "width": 1300
   },
-  "keywords": "Pumpkin & Chickpea Curry",
+  "keywords": "Korma,Pescatarian,Low saturated fat,Seafood free,Low salt,Gluten free,Egg free,Pumpkin,Low sugar,Halal,High protein,High fibre,Soy free,Wheat free,Vegetarian,Rice,Vegan,Dairy free",
   "name": "Pumpkin & Chickpea Curry Recipe | Woolworths",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "880 calories",
+    "carbohydrateContent": "112 g",
+    "fatContent": "28.2 g",
+    "fiberContent": "16.2 g",
+    "proteinContent": "23.4 g",
+    "saturatedFatContent": "7.7 g",
+    "sodiumContent": "460 millig",
+    "sugarContent": "21.6 g"
+  },
   "prepTime": "PT10M",
-  "recipeCategory": "mains",
-  "recipeCuisine": "asian",
+  "recipeCategory": "Mains",
+  "recipeCuisine": "Indian",
   "recipeId": "816",
   "recipeIngredient": [
-    "2 cup long grain white rice",
+    "2 cup long grain white rice, steamed (to serve)",
     "0.25 cup korma curry paste",
     "1 bunch coriander",
-    "1 brown onion",
-    "1.2 kg pumpkin",
-    "0.5 cup salted cashew nuts",
-    "400 g can chickpeas",
-    "400 ml coconut milk",
+    "1 brown onion, finely chopped",
+    "1.2kg pumpkin, deseeded, peeled, cut into 4cm pieces",
+    "0.5 cup salted cashew nuts, roughly chopped (to garnish)",
+    "400g can chickpeas, drained, rinsed",
+    "400ml coconut milk",
     "1 tbs vegetable oil"
   ],
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Roughly chop half the remaining coriander, reserving sprigs to serve and stir through curry. Sprinkle over cashews and coriander sprigs. Serve curry with steamed rice."
+      "HowToTip": {},
+      "text": "Heat oil in a large non-stick frying pan over medium heat. Add onion and cook for 3 minutes or until soft. Finely chop coriander roots and add to onion. Cook for 1 minute. Stir curry paste into onion mixture and cook for 1 minute or until aromatic. Add pumpkin, coconut milk and water. Bring to the boil. Reduce heat and simmer for 20 minutes. Add chickpeas and cook for 10 minutes."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
+      "HowToTip": {},
       "text": "Roughly chop half the remaining coriander, reserving sprigs to serve and stir through curry. Sprinkle over cashews and coriander sprigs. Serve curry with steamed rice."
     }
   ],
   "recipeNameId": "pumpkin-and-chickpea-curry",
   "recipeYield": "4",
   "sameAs": [
-    "https://woolworths.com.au/shop/find-recipes/pumpkin-coconut-curry"
+    "https://woolworths.com.au/shop/recipes/pumpkin-and-chickpea-curry"
   ],
   "totalTime": "PT45M",
-  "updatedAt": "2022-11-24T11:36:16.920Z",
+  "updatedAt": "2022-11-24T15:29:10.625Z",
   "url": "https://www.woolworths.com.au/shop/recipes/pumpkin-and-chickpea-curry"
 }

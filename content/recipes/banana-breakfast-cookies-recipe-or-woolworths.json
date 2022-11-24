@@ -1,27 +1,31 @@
 {
   "@type": "Recipe",
+  "author": {
+    "@type": "Person",
+    "name": "Fresh Ideas"
+  },
   "cookTime": "PT25M",
   "createdAt": "2022-11-24T01:33:12.812Z",
-  "datePublished": "2021-03-10",
+  "datePublished": "2022-09-26",
   "description": "Try our easy to follow Banana Breakfast Cookies recipe. Absolutely delicious with the best ingredients from Woolworths.",
   "image": {
     "@type": "ImageObject",
     "height": 1300,
-    "mime": "image/png",
-    "url": "https://foodhub.scene7.com/is/image/woolworthsltdprod/1905-banana-breakfast-cookies?wid=1300&hei=1300&fmt=png-alpha",
+    "mime": "image/jpeg",
+    "url": "https://foodhub.scene7.com/is/image/woolworthsltdprod/1905-banana-breakfast-cookies:Square-1300x1300",
     "width": 1300
   },
-  "keywords": "Banana Breakfast Cookies",
+  "keywords": "Cookie,Seafood free,Soy free,Wheat free,Tree nut free,Egg free,Sesame free",
   "name": "Banana Breakfast Cookies Recipe | Woolworths",
   "prepTime": "PT10M",
-  "recipeCategory": "breakfast",
-  "recipeCuisine": "european",
+  "recipeCategory": "Breakfast",
+  "recipeCuisine": "European",
   "recipeId": "9176",
   "recipeIngredient": [
     "2 ripe bananas",
     "0.5 tsp ground cinnamon",
     "0.25 cup maple syrup",
-    "2 tbs Macro hemp seeds",
+    "2 tbs Macro hemp seeds, plus extra for sprinkling",
     "2 cup rolled oats",
     "2 tbs pepitas",
     "0.25 cup raisins",
@@ -30,21 +34,21 @@
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Stir banana mixture into dry ingredients and mix until well combined. Using 2 tbs of mixture for each biscuit, spoon onto trays and press into a round shape. Repeat with remaining mixture, leaving a 5cm space between each. Scatter with extra hemp seeds. Bake for 20-25 minutes or until edges are slightly browned. Cool on trays then store in an airtight container for up to 5 days."
+      "HowToTip": {},
+      "text": "Preheat oven to 180°C. Line 2 baking trays with baking paper. Combine oats, cinnamon, raisins, pepitas and hemp seeds in a bowl. Peel bananas and mash with a fork in a separate bowl. Stir in peanut butter and maple syrup with the banana and mix until well combined."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
+      "HowToTip": {},
       "text": "Stir banana mixture into dry ingredients and mix until well combined. Using 2 tbs of mixture for each biscuit, spoon onto trays and press into a round shape. Repeat with remaining mixture, leaving a 5cm space between each. Scatter with extra hemp seeds. Bake for 20-25 minutes or until edges are slightly browned. Cool on trays then store in an airtight container for up to 5 days."
     }
   ],
   "recipeNameId": "banana-breakfast-cookies",
   "recipeYield": "18",
   "sameAs": [
-    "https://woolworths.com.au/shop/find-recipes/breakfast-cookies"
+    "https://woolworths.com.au/shop/recipes/banana-breakfast-cookies"
   ],
   "totalTime": "PT35M",
-  "updatedAt": "2022-11-24T01:33:12.811Z",
+  "updatedAt": "2022-11-24T13:10:49.850Z",
   "url": "https://www.woolworths.com.au/shop/recipes/banana-breakfast-cookies"
 }

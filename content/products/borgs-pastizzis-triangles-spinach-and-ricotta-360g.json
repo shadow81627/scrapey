@@ -1,0 +1,72 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "369.00kJ",
+      "carbohydrateContent": "12.50g",
+      "dietary_fibre": "0.75g",
+      "fatContent": "3.20g",
+      "name": "nutrition",
+      "proteinContent": "2.20g",
+      "saturatedFatContent": "1.50g",
+      "servingSize": "100 g",
+      "sodiumContent": "97.00mg",
+      "sugarContent": "0.30g"
+    }
+  ],
+  "aggregateRating": {
+    "@context": "http://schema.org",
+    "@type": "AggregateRating",
+    "ratingCount": 60,
+    "ratingValue": 4.35
+  },
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Borg's"
+  },
+  "createdAt": "2022-11-24T13:23:58.031Z",
+  "description": "Borg's Spinach & Ricotta Cheese Triangles 12 Pieces 360g.  Fresh Spinach & Ricotta cheese wrapped in our Borg's light and flaky pastry.From the traditions of the Mediterranean comes Borg's Appetisers.  Prepared using authentic recipes from Mrs. Borg's kitchen, these finest ingredients are selected and wrapped in our famous flaky pastry, serving you a wholesome and nutritious meal.  Serve Borg's Appetisers as a quick hot party snack or an ideal meal served with a crisp green salad.Simply cook from FrozenMade with 100% real cheese",
+  "gtin13": "9311648008008",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1200,
+    "mime": "image/jpeg",
+    "url": "https://cdn0.woolworths.media/content/wowproductimages/large/177218.jpg",
+    "width": 1200
+  },
+  "name": "Borg's Pastizzis Triangles Spinach & Ricotta 360G",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3.5,
+    "lowPrice": 3.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T13:23:58.027Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 3.5,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/177218/borg-s-pastizzis-triangles-spinach-ricotta"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/177218/borg-s-pastizzis-triangles-spinach-ricotta"
+  ],
+  "sku": "177218",
+  "updatedAt": "2022-11-24T13:23:58.027Z"
+}

@@ -1,0 +1,72 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "Approx. 285kJ",
+      "carbohydrateContent": "Approx. 6.9g",
+      "dietary_fibre": "Approx. 0.4g",
+      "fatContent": "Approx. 3.1g",
+      "name": "nutrition",
+      "proteinContent": "Approx. 3g",
+      "saturatedFatContent": "Approx. 1.2g",
+      "servingSize": "100 g",
+      "sodiumContent": "Approx. 120mg",
+      "sugarContent": "Approx. 0.5g"
+    }
+  ],
+  "aggregateRating": {
+    "@context": "http://schema.org",
+    "@type": "AggregateRating",
+    "ratingCount": 14,
+    "ratingValue": 3.92857142857143
+  },
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Woolworths"
+  },
+  "createdAt": "2022-11-24T13:25:40.243Z",
+  "description": "MSG not invited (1)\n(1) May contain naturally occurring glutamates.\n\nYour classic mac & cheese just got an upgrade! Filled with cheddar, mozzarella and parmesan, they're a perfect starter!",
+  "gtin13": "9300633560386",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1200,
+    "mime": "image/jpeg",
+    "url": "https://cdn0.woolworths.media/content/wowproductimages/large/489135.jpg",
+    "width": 1200
+  },
+  "name": "Woolworths Macaroni Cheese Balls 8 Pack",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 5.3,
+    "lowPrice": 5.3,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T13:25:40.242Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 5.3,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/489135/woolworths-macaroni-cheese-balls"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/489135/woolworths-macaroni-cheese-balls"
+  ],
+  "sku": "489135",
+  "updatedAt": "2022-11-24T13:25:40.242Z"
+}

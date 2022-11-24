@@ -1,0 +1,72 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "491kJ",
+      "carbohydrateContent": "11.7g",
+      "dietary_fibre": "1.26g",
+      "fatContent": "6.3g",
+      "name": "nutrition",
+      "proteinContent": "3.2g",
+      "saturatedFatContent": "3.3g",
+      "servingSize": "100 g",
+      "sodiumContent": "274mg",
+      "sugarContent": "0.2g"
+    }
+  ],
+  "aggregateRating": {
+    "@context": "http://schema.org",
+    "@type": "AggregateRating",
+    "ratingCount": 37,
+    "ratingValue": 4.2972972972973
+  },
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Four'N Twenty"
+  },
+  "createdAt": "2022-11-24T13:23:30.350Z",
+  "description": "Four 'N Twenty Party Sausage Rolls the classic taste of 100% Australian meat with special seasonings wrapped in golden pastry.",
+  "gtin13": "9310114262548",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1200,
+    "mime": "image/jpeg",
+    "url": "https://cdn0.woolworths.media/content/wowproductimages/large/088267.jpg",
+    "width": 1200
+  },
+  "name": "Four'n Twenty Sausage Roll Party 500G",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 7,
+    "lowPrice": 7,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T13:23:30.348Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 7,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/88267/four-n-twenty-sausage-roll-party"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/88267/four-n-twenty-sausage-roll-party"
+  ],
+  "sku": "88267",
+  "updatedAt": "2022-11-24T13:23:30.348Z"
+}

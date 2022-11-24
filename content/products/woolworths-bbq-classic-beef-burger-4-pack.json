@@ -1,0 +1,71 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "Approx.1010kJ",
+      "carbohydrateContent": "Approx.3.4g",
+      "dietary_fibre": "0.75g",
+      "fatContent": "Approx.17.3g",
+      "name": "nutrition",
+      "proteinContent": "Approx.18.6g",
+      "saturatedFatContent": "Approx.8.8g",
+      "servingSize": "100 g",
+      "sodiumContent": "Approx.420mg",
+      "sugarContent": "<1g"
+    }
+  ],
+  "aggregateRating": {
+    "@context": "http://schema.org",
+    "@type": "AggregateRating",
+    "ratingCount": 626,
+    "ratingValue": 4.16773162939297
+  },
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Woolworths"
+  },
+  "createdAt": "2022-11-24T14:49:15.044Z",
+  "gtin13": "9300633435561",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1200,
+    "mime": "image/jpeg",
+    "url": "https://cdn0.woolworths.media/content/wowproductimages/large/764321.jpg",
+    "width": 1200
+  },
+  "name": "Woolworths Bbq Classic Beef Burger 4 Pack",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 8.5,
+    "lowPrice": 8.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T14:49:15.042Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 8.5,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/764321/woolworths-bbq-classic-beef-burger"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/764321/woolworths-bbq-classic-beef-burger"
+  ],
+  "sku": "764321",
+  "updatedAt": "2022-11-24T14:49:15.042Z"
+}

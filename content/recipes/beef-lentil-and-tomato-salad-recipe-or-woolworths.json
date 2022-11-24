@@ -1,59 +1,74 @@
 {
   "@type": "Recipe",
+  "author": {
+    "@type": "Person",
+    "name": "Fresh Ideas"
+  },
   "cookTime": "PT20M",
   "createdAt": "2022-11-22T15:36:55.152Z",
-  "datePublished": "2021-03-10",
+  "datePublished": "2022-09-26",
   "description": "Try our easy to follow Beef, Lentil & Tomato Salad recipe. Absolutely delicious with the best ingredients from Woolworths.",
   "image": {
     "@type": "ImageObject",
     "height": 1300,
-    "mime": "image/png",
-    "url": "https://foodhub.scene7.com/is/image/woolworthsltdprod/1708-beef-lentil-and-tomato-salad?wid=1300&hei=1300&fmt=png-alpha",
+    "mime": "image/jpeg",
+    "url": "https://foodhub.scene7.com/is/image/woolworthsltdprod/1708-beef-lentil-and-tomato-salad:Square-1300x1300",
     "width": 1300
   },
-  "keywords": "Beef, Lentil & Tomato Salad",
+  "keywords": "Lentil salad,Seafood free,Gluten free,Tree nut free,Egg free,Low sugar,Sesame free,Beef,High protein,High fibre,Soy free,Wheat free,Tomato,Peanut free",
   "name": "Beef, Lentil & Tomato Salad Recipe | Woolworths",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "665 calories",
+    "carbohydrateContent": "14.2 g",
+    "fatContent": "47.2 g",
+    "fiberContent": "6.7 g",
+    "proteinContent": "43.2 g",
+    "saturatedFatContent": "16.7 g",
+    "sodiumContent": "512 millig",
+    "sugarContent": "7.0 g"
+  },
   "prepTime": "PT10M",
-  "recipeCategory": "salads",
-  "recipeCuisine": "australian",
+  "recipeCategory": "Salads",
+  "recipeCuisine": "Australian",
   "recipeId": "6223",
   "recipeIngredient": [
-    "2 cloves garlic",
-    "1 red onion",
+    "2 cloves garlic, crushed",
+    "1 red onion, sliced",
     "1 tbs baby capers",
     "2 tbs balsamic vinegar",
     "1 tsp dijon mustard",
-    "60 g baby rocket",
-    "100 g feta",
-    "600 g sirloin steaks",
+    "60g baby rocket",
+    "100g feta, diced",
+    "600g sirloin steaks",
     "0.33 cup olive oil",
-    "250 g solanato tomatoes",
+    "250g solanato tomatoes, halved",
     "1 tsp honey",
-    "1 cup Frenchstyle lentils"
+    "1 cup French-style lentils, rinsed"
   ],
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Whisk remaining oil, vinegar, garlic, mustard and honey together in a jug. Set aside. Combine lentils, tomato, onion and half of the dressing in a serving bowl. Thinly slice steak and add to salad with rocket. Add feta and capers and serve with remaining dressing."
+      "HowToTip": {},
+      "text": "Place lentils into a saucepan with 3 cups cold water. Bring lentils to the boil over high heat, reduce heat and simmer for 15-20 minutes until just tender. Drain."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Whisk remaining oil, vinegar, garlic, mustard and honey together in a jug. Set aside. Combine lentils, tomato, onion and half of the dressing in a serving bowl. Thinly slice steak and add to salad with rocket. Add feta and capers and serve with remaining dressing."
+      "HowToTip": {},
+      "text": "Meanwhile, heat 1 tbs of the oil in a frying pan over medium heat. Season steaks on both sides with salt and pepper. Add to pan and cook for 3 minutes each side for medium rare or until cooked to your liking. Transfer to a plate and rest for 5 minutes."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
+      "HowToTip": {},
       "text": "Whisk remaining oil, vinegar, garlic, mustard and honey together in a jug. Set aside. Combine lentils, tomato, onion and half of the dressing in a serving bowl. Thinly slice steak and add to salad with rocket. Add feta and capers and serve with remaining dressing."
     }
   ],
   "recipeNameId": "beef-lentil-and-tomato-salad",
   "recipeYield": "4",
   "sameAs": [
-    "https://woolworths.com.au/shop/find-recipes/tomato-lentils"
+    "https://woolworths.com.au/shop/recipes/beef-lentil-and-tomato-salad"
   ],
   "totalTime": "PT30M",
-  "updatedAt": "2022-11-22T15:36:55.151Z",
+  "updatedAt": "2022-11-24T14:39:00.418Z",
   "url": "https://www.woolworths.com.au/shop/recipes/beef-lentil-and-tomato-salad"
 }

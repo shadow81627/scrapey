@@ -1,0 +1,66 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "508",
+      "carbohydrateContent": "19.3",
+      "dietary_fibre": "<1",
+      "fatContent": "3.3",
+      "name": "nutrition",
+      "proteinContent": "3.5",
+      "saturatedFatContent": "0.5",
+      "servingSize": "100 g",
+      "sodiumContent": "113",
+      "sugarContent": "8.8"
+    }
+  ],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Pureharvest"
+  },
+  "createdAt": "2022-11-24T12:40:23.591Z",
+  "description": "The original Australian Oat milk - made with 15% whole organic oats.PureHarvest Organic Oat milk was the first oat milk introduced to the Australian market back in 1995. For over 25 years we have been producing a creamy, nutritious oat milk using whole organic oats with no unnecessary additives. That means no oat flour, no gums, no emulsifiers & no preservatives; just simple, organic ingredients, produced right here in Australia.OrganicVeganNo added cane sugarNo Artificial Colours or FlavoursGMO Free",
+  "gtin13": "9312231222023",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1200,
+    "mime": "image/jpeg",
+    "url": "https://cdn0.woolworths.media/content/wowproductimages/large/086298.jpg",
+    "width": 1200
+  },
+  "name": "Pureharvest Organic Oat Milk 1L",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2.8,
+    "lowPrice": 2.8,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T12:40:23.590Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 2.8,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/86298/pureharvest-organic-oat-milk"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/86298/pureharvest-organic-oat-milk"
+  ],
+  "sku": "86298",
+  "updatedAt": "2022-11-24T12:40:23.590Z"
+}

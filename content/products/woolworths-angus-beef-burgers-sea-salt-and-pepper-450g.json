@@ -1,0 +1,71 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "Approx.887kJ",
+      "carbohydrateContent": "Approx.2.4g",
+      "dietary_fibre": "-",
+      "fatContent": "Approx.14.6g",
+      "name": "nutrition",
+      "proteinContent": "Approx.18g",
+      "saturatedFatContent": "Approx.7.4g",
+      "servingSize": "100 g",
+      "sodiumContent": "Approx.388mg",
+      "sugarContent": "Approx.1.1g"
+    }
+  ],
+  "aggregateRating": {
+    "@context": "http://schema.org",
+    "@type": "AggregateRating",
+    "ratingCount": 4713,
+    "ratingValue": 4.27498408656906
+  },
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Woolworths"
+  },
+  "createdAt": "2022-11-24T14:49:05.067Z",
+  "gtin13": "9339687108138",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1200,
+    "mime": "image/jpeg",
+    "url": "https://cdn0.woolworths.media/content/wowproductimages/large/060058.jpg",
+    "width": 1200
+  },
+  "name": "Woolworths Angus Beef Burgers Sea Salt & Pepper 450G",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 9,
+    "lowPrice": 9,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T14:49:05.065Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 9,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/60058/woolworths-angus-beef-burgers-sea-salt-pepper"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/60058/woolworths-angus-beef-burgers-sea-salt-pepper"
+  ],
+  "sku": "60058",
+  "updatedAt": "2022-11-24T14:49:05.065Z"
+}
