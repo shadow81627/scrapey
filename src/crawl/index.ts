@@ -37,7 +37,7 @@ async function fetchCrawlUrls({
     ],
     order: {
       dated: {
-        createdAt: 'ASC',
+        updatedAt: 'ASC',
       },
     },
     take: perPage,
