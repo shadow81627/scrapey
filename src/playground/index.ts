@@ -5,6 +5,7 @@ import colesNationalReplaceUrls from './colesNationalReplaceUrls';
 import incorrectUIrlIds from './incorrectUrlId';
 import resetRedirectedColesUrls from './resetRedirectedColesUrls';
 import countUrlSearch from './countUrlSearch';
+import gitTimeStamps from './gitTimeStamps';
 
 (async () => {
   await AppDataSource.initialize();
@@ -15,6 +16,7 @@ import countUrlSearch from './countUrlSearch';
   await deleteDuplicateUrls();
   await resetRedirectedColesUrls();
   await countUrlSearch();
+  await gitTimeStamps();
 
   await AppDataSource.destroy();
 })();
