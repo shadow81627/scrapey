@@ -2,51 +2,59 @@
   "@type": "Product",
   "additionalProperty": [
     {
+      "name": "Contains",
+      "value": "Organic cotton"
+    },
+    {
+      "name": "Warning",
+      "value": "IMPORTANT: Tampon use has been associated with Toxic Shock Syndrome (TSS). TSS is a rare but serious disease that may cause death."
+    },
+    {
       "name": "Size",
       "value": "16 pack"
     },
     {
       "name": "Unit Price",
-      "value": "$0.11 per 1Ea"
+      "value": "$0.38 per 1Ea"
     }
   ],
-  "brand": "Libra",
+  "brand": "TOM Organic",
   "createdAt": "2020-11-15T10:13:42.586Z",
-  "description": "Libra Super Tampons",
+  "description": "TOM Organic Super Tampons",
   "image": {
     "@type": "ImageObject",
     "height": 300,
     "mime": "image/jpeg",
-    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/4/5/9/459555.jpg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/1/1/7/1176738.jpg",
     "width": 300
   },
   "name": "Super Tampons",
   "offers": {
     "@type": "AggregateOffer",
-    "highPrice": 1.8,
-    "lowPrice": 1.8,
+    "highPrice": 6,
+    "lowPrice": 6,
     "offerCount": 1,
     "offers": [
       {
         "@context": "http://schema.org",
         "@type": "Offer",
         "availability": "https://schema.org/InStock",
-        "availabilityStarts": "2020-11-15T10:13:42.586Z",
+        "availabilityStarts": "2022-11-24T22:44:21.892Z",
         "itemCondition": "https://schema.org/NewCondition",
         "offeredBy": "Coles",
-        "price": "1.80",
+        "price": "6.00",
         "priceCurrency": "AUD",
         "seller": {
           "@type": "Organization",
           "name": "Coles"
         },
-        "url": "https://shop.coles.com.au/a/national/product/libra-tampons-super"
+        "url": "https://shop.coles.com.au/a/national/product/tom-organic-tampons-super-cotton"
       }
     ]
   },
   "sameAs": [
-    "https://shop.coles.com.au/a/national/product/libra-tampons-super"
+    "https://shop.coles.com.au/a/national/product/tom-organic-tampons-super-cotton"
   ],
-  "sku": "459555",
-  "updatedAt": "2020-11-15T10:13:42.586Z"
+  "sku": "1176738",
+  "updatedAt": "2022-11-24T22:44:21.892Z"
 }

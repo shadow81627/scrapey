@@ -1,0 +1,52 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "100mL"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$10.00 per 100mL"
+    }
+  ],
+  "brand": "King C Gillette",
+  "createdAt": "2022-11-24T22:43:02.514Z",
+  "description": "King C Gillette Beard Balm",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/8/9/3896240.jpg",
+    "width": 300
+  },
+  "name": "Beard Balm",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 10,
+    "lowPrice": 10,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T22:43:02.513Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "10.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/king-c-gillette-beard-balm"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/king-c-gillette-beard-balm"
+  ],
+  "sku": "3896240",
+  "updatedAt": "2022-11-24T22:43:02.513Z"
+}
