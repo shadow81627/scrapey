@@ -5,7 +5,7 @@
   "main": "index.js",
   "license": "UNLICENSED",
   "scripts": {
-    "playground": "ts-node src/playground/playground.ts",
+    "playground": "ts-node src/playground/index.ts",
     "load:db": "ts-node src/db/load/index.ts",
     "scrape": "ts-node src/index.ts",
     "scrape:new": "ts-node src/index.ts --only-new",
