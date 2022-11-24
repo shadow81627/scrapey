@@ -1,0 +1,60 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Wheat Flour, Sugar, Vegetable Fats (Palm Oil), Eggs, Chocolate Chips (11,5%) (Sugar, Cocoa Mass, Fat-reduced Cocoa Powder, Cocoa Butter, Emulsifier: Sunflower Lecithin), Natural Yeast (Water, Wheat Flour, Yeast), Glucose-Fructose Syrup, Emulsifier: Mono and Diglycerides of Edible Fatty Acids, Salt, Skimmed Milk Powder, Flavours, Preservative: Sorbic Acid"
+    },
+    {
+      "name": "Size",
+      "value": "900g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.33 per 100G"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Made in Italy"
+    }
+  ],
+  "brand": "Baroni",
+  "createdAt": "2022-11-24T05:30:57.950Z",
+  "description": "Baroni Chocolate Chip Panettone",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/0/0/2004818.jpg",
+    "width": 300
+  },
+  "name": "Chocolate Chip Panettone",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 12,
+    "lowPrice": 12,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T05:30:57.949Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "12.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/ital-baroni-chocolate-chip-panettone"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/ital-baroni-chocolate-chip-panettone"
+  ],
+  "sku": "2004818",
+  "updatedAt": "2022-11-24T05:30:57.949Z"
+}

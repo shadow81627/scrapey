@@ -1,0 +1,64 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "INGREDIENTS: Goats Cheese (57%) [Goats Milk, Salt, Enzyme (Rennet), Cultures], Canola Oil, Olive Oil (4.0%), Pink Peppercorns, Garlic, Black Peppercorns, Thyme."
+    },
+    {
+      "name": "Allergen",
+      "value": "Contains MILK"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "4.0"
+    },
+    {
+      "name": "Size",
+      "value": "300g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$35.67 per 1Kg"
+    }
+  ],
+  "brand": "Coles Finest",
+  "createdAt": "2022-11-24T06:24:53.885Z",
+  "description": "Smooth goats cheese marinated in an olive oil infusion flavoured with garlic, thyme and pink peppercorns.",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/4/5/3453330.jpg",
+    "width": 300
+  },
+  "name": "Tasmanian Goats Cheese",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 10.7,
+    "lowPrice": 10.7,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T06:24:53.884Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "10.70",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-finest-marinated-goats-fetta"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/coles-finest-marinated-goats-fetta"
+  ],
+  "sku": "3453330",
+  "updatedAt": "2022-11-24T06:24:53.884Z"
+}

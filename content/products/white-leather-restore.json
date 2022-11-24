@@ -1,0 +1,60 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Non hazardous ingredients"
+    },
+    {
+      "name": "Warning",
+      "value": "Store in a cool, dry place. Use only as directed. May cause moderate eye and skin irritation. May cause irritation to mouth, throat and stomach. May cause abdominal discomfort. Keep out of reach of children and pets. P337: If eye irritation persists: seek medical attention. P301+P330+P331: IF SWALLOWED: Rinse mouth. Do NOT induce vomiting. P370+P378: Not combustible. Use extinguishing media suited to burning materials. General Information:You should call The Poisons Information Centre if you feel that you may have been poisoned, burned or irritated by this product."
+    },
+    {
+      "name": "Size",
+      "value": "75mL"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$8.00 per 100mL"
+    }
+  ],
+  "brand": "Kiwi",
+  "createdAt": "2022-11-24T06:23:46.399Z",
+  "description": "Kiwi White Leather Restore",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/1/9/5/1952350.jpg",
+    "width": 300
+  },
+  "name": "White Leather Restore",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 6,
+    "lowPrice": 6,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T06:23:46.398Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "6.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/kiwi-white-leather-restore"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/kiwi-white-leather-restore"
+  ],
+  "sku": "1952350",
+  "updatedAt": "2022-11-24T06:23:46.398Z"
+}

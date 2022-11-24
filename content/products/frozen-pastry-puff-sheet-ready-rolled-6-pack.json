@@ -1,0 +1,64 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "INGREDIENTS: Wheat Flour, Water, Vegetable Margarine [Palm Oil*, Water, Salt, Emulsifiers (471, 322 - from Soy), Acidity Regulator (330), Antioxidant (307b), Natural Colour (Carotenes)], Salt, Food Acid (330). *Contributes to the production of sustainable palm oil"
+    },
+    {
+      "name": "Allergen",
+      "value": "Contains SOY, Contains Wheat, Contains CEREALS CONTAINING GLUTEN"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "24.0"
+    },
+    {
+      "name": "Size",
+      "value": "1kg"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.23 per 100G"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2022-11-24T05:38:57.713Z",
+  "description": "Coles Frozen Puff Pastry, 1kg. Great base for sweet and savoury recipes. Light and golden ready to bake.",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/4/5/0/450550.jpg",
+    "width": 300
+  },
+  "name": "Frozen Pastry Puff Sheet Ready Rolled 6 Pack",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2.3,
+    "lowPrice": 2.3,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T05:38:57.712Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "2.30",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-pastry-puff-ready-rolled-6-sheets-frozen"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/coles-pastry-puff-ready-rolled-6-sheets-frozen"
+  ],
+  "sku": "450550",
+  "updatedAt": "2022-11-24T05:38:57.712Z"
+}

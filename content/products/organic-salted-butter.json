@@ -1,0 +1,64 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "INGREDIENTS LIST:Cream, Sea Salt, Water."
+    },
+    {
+      "name": "Allergen",
+      "value": "Contains MILK"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "50.0"
+    },
+    {
+      "name": "Size",
+      "value": "250g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.84 per 100G"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2022-11-24T06:09:20.838Z",
+  "description": "Salted Butter Made with Certified Organic Fresh Milk",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/5/1/3519416.jpg",
+    "width": 300
+  },
+  "name": "Organic Salted Butter",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 4.6,
+    "lowPrice": 4.6,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T06:09:20.838Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "4.60",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-organic-salted-butter"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/coles-organic-salted-butter"
+  ],
+  "sku": "3519416",
+  "updatedAt": "2022-11-24T06:09:20.838Z"
+}

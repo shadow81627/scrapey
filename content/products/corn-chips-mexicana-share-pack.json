@@ -1,0 +1,68 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Corn, Canola Oil, Salt, Lactose (Milk), Yeast Extract, Flavour Enhancers (621, 951), Mineral Salt (Potassium Chloride), Onion Powder, Spices (Cumin, Chilli, Paprika), Food Acids (Sodium Diacetate, Citric Acid), Tomato Powder, Garlic Powder, Natural Flavour, Natural Colour (Paprika Extract), Sunflower Oil, Antioxidants (Tocopherols, Ascorbic Acid, Rosemary Extract)."
+    },
+    {
+      "name": "Contains",
+      "value": "Gluten, Milk or Milk Products, Soybeans or Soybean Products. Phenylketonurics: contains Phenylalamine,"
+    },
+    {
+      "name": "Allergen",
+      "value": "Contains Gluten, Contains Phenylalanine, Contains Soy, Contains Milk"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "6.3"
+    },
+    {
+      "name": "Size",
+      "value": "170g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.26 per 100G"
+    }
+  ],
+  "brand": "Doritos",
+  "createdAt": "2022-11-24T06:20:01.124Z",
+  "description": "Doritos Corn Chips Mexicana Share Pack",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/7/2/3721993.jpg",
+    "width": 300
+  },
+  "name": "Corn Chips Mexicana Share Pack",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2.15,
+    "lowPrice": 2.15,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T06:20:01.122Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "2.15",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/doritos-corn-chips-mexicana"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/doritos-corn-chips-mexicana"
+  ],
+  "sku": "3721993",
+  "updatedAt": "2022-11-24T06:20:01.123Z"
+}

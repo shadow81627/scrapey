@@ -1,0 +1,64 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "INGREDIENTS: Wheat Flour, Water, Sesame Seeds (3.5%), Yeast, Iodised Salt, Wheat Gluten Vegetable Oil, Yellow Pea Flour, Vitamins (Thiamine, Folic Acid)."
+    },
+    {
+      "name": "Allergen",
+      "value": "May Contain Pine, Contains SESAME, May Contain SOY, May Contain Walnut, May Contain EGG, May Contain Cashew, May Contain PEANUTS, May Contain Lupin, May Contain Hazelnuts, May Contain MILK, May Contain Macadamia Nuts, Contains Gluten, May Contain Brazil Nuts, Contains Wheat, May Contain TREE NUTS, May Contain Pecan, May Contain Pistachios, May Contain SULPHITES, May Contain CEREALS CONTAINING GLUTEN, May Contain Almonds"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "6.0"
+    },
+    {
+      "name": "Size",
+      "value": "6 pack"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.48 per 1Ea"
+    }
+  ],
+  "brand": "Coles Bakery",
+  "createdAt": "2022-11-24T06:26:47.273Z",
+  "description": "Breakfast, lunch, dinner or a snack in between - a good home-made roll can fill the gap",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/3/0/3301692.jpg",
+    "width": 300
+  },
+  "name": "White Crusty Jumbo Rolls",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2.85,
+    "lowPrice": 2.85,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T06:26:47.272Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "2.85",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-bakery-rolls-crusty-jumbo"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/coles-bakery-rolls-crusty-jumbo"
+  ],
+  "sku": "3301692",
+  "updatedAt": "2022-11-24T06:26:47.272Z"
+}

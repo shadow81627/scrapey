@@ -1,0 +1,60 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "INGREDIENTS: ;Reconstituted Fruit Juices (99.6%) [Apple (93.6%), Blackcurrant ;(6%)], ;Food Acid (Citric Acid), Natural Flavour, ;Vitamin C, ;Natural Colour (163)."
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "8.0"
+    },
+    {
+      "name": "Size",
+      "value": "2L"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.08 per 1L"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2022-11-24T05:51:44.677Z",
+  "description": "No Added Sugar Good Source of Vitamin C 2D",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/5/3/2531529.jpg",
+    "width": 300
+  },
+  "name": "Apple & Blackcurrant Juice",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2.15,
+    "lowPrice": 2.15,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T05:51:44.676Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "2.15",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-apple-blackcurrant-juice"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/coles-apple-blackcurrant-juice"
+  ],
+  "sku": "2531529",
+  "updatedAt": "2022-11-24T05:51:44.676Z"
+}

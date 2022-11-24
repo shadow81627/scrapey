@@ -15,12 +15,12 @@
     },
     {
       "name": "Unit Price",
-      "value": "$0.92 per 100G"
+      "value": "$1.33 per 100G"
     }
   ],
   "brand": "McCain",
-  "createdAt": "2020-11-15T05:31:00.482Z",
-  "description": "A traditional pizza crust slice topped with mozzarella cheese and bacon.",
+  "createdAt": "2022-11-24T05:43:23.762Z",
+  "description": "Proudly Aussie Made, our traditional medium crust is topped with ham pieces and mozzarella cheese.",
   "image": {
     "@type": "ImageObject",
     "height": 300,
@@ -31,18 +31,18 @@
   "name": "Frozen Cheese & Bacon Pizza Slices 6 pack",
   "offers": {
     "@type": "AggregateOffer",
-    "highPrice": 5.5,
-    "lowPrice": 5.5,
+    "highPrice": 8,
+    "lowPrice": 8,
     "offerCount": 1,
     "offers": [
       {
         "@context": "http://schema.org",
         "@type": "Offer",
         "availability": "https://schema.org/InStock",
-        "availabilityStarts": "2020-11-15T05:31:00.481Z",
+        "availabilityStarts": "2022-11-24T05:43:23.761Z",
         "itemCondition": "https://schema.org/NewCondition",
         "offeredBy": "Coles",
-        "price": "5.50",
+        "price": "8.00",
         "priceCurrency": "AUD",
         "seller": {
           "@type": "Organization",
@@ -53,8 +53,8 @@
     ]
   },
   "sameAs": [
-    "https://shop.coles.com.au/a/sunnybank-hills/product/mccain-pizza-slices-cheese-bacon-6-pack-frozen"
+    "https://shop.coles.com.au/a/national/product/mccain-pizza-slices-cheese-bacon-6-pack-frozen"
   ],
   "sku": "8544829",
-  "updatedAt": "2020-11-15T05:31:00.481Z"
+  "updatedAt": "2022-11-24T05:43:23.761Z"
 }

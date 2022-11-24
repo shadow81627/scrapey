@@ -1,0 +1,60 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Concentrated tomato (93%), garlic (2.5%), onion (2.5%), salt, herbs, antioxidant (ascorbic acid), preservatives (202, 234), black pepper, natural flavour."
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "8.0"
+    },
+    {
+      "name": "Size",
+      "value": "400g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.08 per 100G"
+    }
+  ],
+  "brand": "Leggo's",
+  "createdAt": "2022-11-24T05:49:11.894Z",
+  "description": "Leggo's Squeezy Tomato Paste Pizza",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/6/9/5699443.jpg",
+    "width": 300
+  },
+  "name": "Squeezy Tomato Paste Pizza",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 4.3,
+    "lowPrice": 4.3,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T05:49:11.894Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "4.30",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/leggos-pizza-sauce-squeezy"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/leggos-pizza-sauce-squeezy"
+  ],
+  "sku": "5699443",
+  "updatedAt": "2022-11-24T05:49:11.894Z"
+}

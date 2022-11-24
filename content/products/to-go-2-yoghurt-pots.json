@@ -1,0 +1,52 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "1 pack"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$4.90 per 1Ea"
+    }
+  ],
+  "brand": "Sistema",
+  "createdAt": "2022-11-24T05:59:34.622Z",
+  "description": "Prints, colors, and styles may vary. Item will be picked at random.Multiple items are shown. Each sold separately.",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/0/1/2010526.jpg",
+    "width": 300
+  },
+  "name": "To Go 2 Yoghurt Pots",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 4.9,
+    "lowPrice": 4.9,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T05:59:34.621Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "4.90",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/sistema-yoghurt-pots-to-go-2-pack"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/sistema-yoghurt-pots-to-go-2-pack"
+  ],
+  "sku": "2010526",
+  "updatedAt": "2022-11-24T05:59:34.621Z"
+}

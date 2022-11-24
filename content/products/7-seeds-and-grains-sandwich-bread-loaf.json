@@ -1,0 +1,56 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Allergen",
+      "value": "Contains SESAME, May Contain SOY, May Contain EGG, Contains Rye, May Contain PEANUTS, May Contain Lupin, May Contain MILK, Contains Wheat, May Contain TREE NUTS, May Contain OTHER TREE NUTS, Contains Barley, May Contain SULPHITES, May Contain CEREALS CONTAINING GLUTEN"
+    },
+    {
+      "name": "Size",
+      "value": "800g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.44 per 100G"
+    }
+  ],
+  "brand": "Coles Bakery",
+  "createdAt": "2022-11-24T06:27:48.783Z",
+  "description": "Coles Bakery High Fibre Low Gi is perfect for breakfast, lunch, dinner or a snack in between - simply add your favourite filling.",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/8/8/5/8858940.jpg",
+    "width": 300
+  },
+  "name": "7 Seeds & Grains Sandwich Bread Loaf",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3.5,
+    "lowPrice": 3.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T06:27:48.781Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "3.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-bakery-bread-7-seeds-grains-sandwich-baked-in-store"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/coles-bakery-bread-7-seeds-grains-sandwich-baked-in-store"
+  ],
+  "sku": "8858940",
+  "updatedAt": "2022-11-24T06:27:48.781Z"
+}

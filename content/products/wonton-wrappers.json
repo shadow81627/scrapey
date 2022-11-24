@@ -1,0 +1,60 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Wheat Flour, Water, tapioca starch, salt, preservative (202), color (110, 102), flour treatment (300)."
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "4.0"
+    },
+    {
+      "name": "Size",
+      "value": "250g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.38 per 100G"
+    }
+  ],
+  "brand": "Supreme",
+  "createdAt": "2022-11-24T06:08:38.850Z",
+  "description": "Made with fresh & quality ingredients. Enjoy convenient and ready to cook Supreme Wonton Wrapper Pastry.",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/4/6/1/4614376.jpg",
+    "width": 300
+  },
+  "name": "Wonton Wrappers",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3.45,
+    "lowPrice": 3.45,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T06:08:38.849Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "3.45",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/supreme-pastry-wrapper-won-ton"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/supreme-pastry-wrapper-won-ton"
+  ],
+  "sku": "4614376",
+  "updatedAt": "2022-11-24T06:08:38.849Z"
+}

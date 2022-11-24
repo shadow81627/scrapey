@@ -1,0 +1,60 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "INGREDIENTS: Tomato Puree (78%), Sugar, Salt, Food Acid (260), Natural Flavour."
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "100.0"
+    },
+    {
+      "name": "Size",
+      "value": "2L"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.24 per 100mL"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2022-11-24T05:40:27.701Z",
+  "description": "Coles Tomato Sauce 2 litre made with Australian Tomatoes a great accompaniment for your BBQ treats and great with a snag in bread",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/8/8/4/8849054.jpg",
+    "width": 300
+  },
+  "name": "Sauce Tomato",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 4.7,
+    "lowPrice": 4.7,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T05:40:27.698Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "4.70",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-brand-sauce-tomato"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/coles-brand-sauce-tomato"
+  ],
+  "sku": "8849054",
+  "updatedAt": "2022-11-24T05:40:27.699Z"
+}

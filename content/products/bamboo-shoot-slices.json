@@ -1,0 +1,64 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Bamboo Shoots (62%), water, acidity regulator (330)."
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "3.0"
+    },
+    {
+      "name": "Size",
+      "value": "225g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$4.89 per 1Kg"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Product of China from Imported ingredients"
+    }
+  ],
+  "brand": "Valcom",
+  "createdAt": "2022-11-24T05:56:37.571Z",
+  "description": "Valcom Bamboo Shoot Slices are crunchy vegetables that have a neutral taste. It is a popular ingredient in Asian cuisine that is widely used in soups and stir-fries. To bring out the natural flavour and texture of the bamboo shoot, drain off the brine and rinse before use.",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/2/5/5253874.jpg",
+    "width": 300
+  },
+  "name": "Bamboo Shoot Slices",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 1.1,
+    "lowPrice": 1.1,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T05:56:37.569Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "1.10",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/valcom-bamboo-shoots-sliced"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/valcom-bamboo-shoots-sliced"
+  ],
+  "sku": "5253874",
+  "updatedAt": "2022-11-24T05:56:37.569Z"
+}

@@ -1,0 +1,68 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": " Peanuts, Sugar, Hydrogenated Soy Oil, Emulsifier (471 (*Palm)), Salt."
+    },
+    {
+      "name": "Allergen",
+      "value": "Contains PEANUTS"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "18.0"
+    },
+    {
+      "name": "Size",
+      "value": "375g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.48 per 100G"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Made in India"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2022-11-24T06:03:36.388Z",
+  "description": "Coles Spread Peanut Butter 375 Gram a great spread for your sandwich or as a base for your cooking needs",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/9/4/394019.jpg",
+    "width": 300
+  },
+  "name": "Peanut Butter Smooth Spread",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 1.8,
+    "lowPrice": 1.8,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T06:03:36.385Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "1.80",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-smart-buy-peanut-butter-smooth"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/coles-smart-buy-peanut-butter-smooth"
+  ],
+  "sku": "394019",
+  "updatedAt": "2022-11-24T06:03:36.385Z"
+}

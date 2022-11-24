@@ -1,0 +1,52 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "400g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.63 per 100G"
+    }
+  ],
+  "brand": "Fry's",
+  "createdAt": "2022-11-24T06:10:23.915Z",
+  "description": "Fry's Frozen Meat Free Sausage Rolls 4 Pieces",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/2/1/3217950.jpg",
+    "width": 300
+  },
+  "name": "Frozen Meat Free Sausage Rolls 4 Pieces",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 6.5,
+    "lowPrice": 6.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T06:10:23.914Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "6.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/frys-meat-free-sausage-rolls"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/frys-meat-free-sausage-rolls"
+  ],
+  "sku": "3217950",
+  "updatedAt": "2022-11-24T06:10:23.914Z"
+}

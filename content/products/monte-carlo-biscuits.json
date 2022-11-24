@@ -1,0 +1,72 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Wheat Flour, Sugar, Vegetable Oil, Jam (5%) (Sugar, Apples, Glucose, Raspberry Juice, Colour (Carmine), Gelling Agent (Pectin), Food Acids (E330, E331), Flavour), Desiccated Coconut, Salt, Golden Syrup, Honey, Baking Powder, Eggs, Emulsifier (Soy Lecithin), Flavour, Antioxidant (E307b From Soy)."
+    },
+    {
+      "name": "Contains",
+      "value": "Egg, Gluten containing Cereals and Soy."
+    },
+    {
+      "name": "Allergen",
+      "value": "Contains Cereals Containing Gluten, May Be Present Sesame, May Be Present Peanuts, Contains Egg, Contains Wheat, May Be Present Tree Nuts, May Be Present Milk, Contains Soy"
+    },
+    {
+      "name": "Warning",
+      "value": "Do not purchase if pack is open or torn."
+    },
+    {
+      "name": "Size",
+      "value": "250g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.98 per 100G"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Made in Australia"
+    }
+  ],
+  "brand": "Arnott's",
+  "createdAt": "2022-11-24T05:43:02.075Z",
+  "description": "Arnott's Monte Carlo Biscuits",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/2/9/329072.jpg",
+    "width": 300
+  },
+  "name": "Monte Carlo Biscuits",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2.45,
+    "lowPrice": 2.45,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T05:43:02.074Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "2.45",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/arnotts-biscuits-monte-carlo"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/arnotts-biscuits-monte-carlo"
+  ],
+  "sku": "329072",
+  "updatedAt": "2022-11-24T05:43:02.074Z"
+}

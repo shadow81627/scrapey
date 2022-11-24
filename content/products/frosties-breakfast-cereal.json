@@ -3,15 +3,15 @@
   "additionalProperty": [
     {
       "name": "Ingredients",
-      "value": "Corn (59%), sugar, salt, barley malt extract, vitamins (vitamin E, niacin, vitamin B6, riboflavin, folate), minerals (iron, zinc oxide)."
+      "value": "Corn (56%), sugar, salt, barley malt extract, vitamins (vitamin E, niacin, vitamin B6, riboflavin, folate), minerals (iron, zinc oxide)."
     },
     {
       "name": "Contains",
-      "value": "Contains cereals containing gluten. May contain traces of peanuts and/or tree nuts."
+      "value": "Contains gluten. May contain wheat, peanuts, tree nuts."
     },
     {
       "name": "Allergen",
-      "value": "Contains Cereals Containing Gluten, May Be Present Peanuts, May Be Present Tree Nuts"
+      "value": "May Be Present Wheat, May Be Present Peanuts, Contains Gluten, May Be Present Tree Nuts"
     },
     {
       "name": "Dietary",
@@ -23,7 +23,7 @@
     },
     {
       "name": "Warning",
-      "value": "Nutrition info, recipes & promotions online product is sold by weight, not volume. Some settling of contents may have occurred during shipment and handling."
+      "value": "Nutrition info, recipes & promotions online www.kellogg.com.au This product is sold by weight, not volume. Some settling of contents may have occurred during shipment and handling."
     },
     {
       "name": "Size",
@@ -31,11 +31,11 @@
     },
     {
       "name": "Unit Price",
-      "value": "$1.41 per 100G"
+      "value": "$0.93 per 100G"
     }
   ],
   "brand": "Kellogg's",
-  "createdAt": "2020-11-15T08:48:39.613Z",
+  "createdAt": "2022-11-24T06:01:21.628Z",
   "description": "Kellogg's Frosties Breakfast Cereal",
   "image": {
     "@type": "ImageObject",
@@ -47,18 +47,18 @@
   "name": "Frosties Breakfast Cereal",
   "offers": {
     "@type": "AggregateOffer",
-    "highPrice": 4.95,
-    "lowPrice": 4.95,
+    "highPrice": 3.25,
+    "lowPrice": 3.25,
     "offerCount": 1,
     "offers": [
       {
         "@context": "http://schema.org",
         "@type": "Offer",
         "availability": "https://schema.org/InStock",
-        "availabilityStarts": "2020-11-15T08:48:39.613Z",
+        "availabilityStarts": "2022-11-24T06:01:21.628Z",
         "itemCondition": "https://schema.org/NewCondition",
         "offeredBy": "Coles",
-        "price": "4.95",
+        "price": "3.25",
         "priceCurrency": "AUD",
         "seller": {
           "@type": "Organization",
@@ -69,8 +69,8 @@
     ]
   },
   "sameAs": [
-    "https://shop.coles.com.au/a/sunnybank-hills/product/kelloggs-cereal-frosties"
+    "https://shop.coles.com.au/a/national/product/kelloggs-cereal-frosties"
   ],
   "sku": "1033628",
-  "updatedAt": "2020-11-15T08:48:39.613Z"
+  "updatedAt": "2022-11-24T06:01:21.628Z"
 }

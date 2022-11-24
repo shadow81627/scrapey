@@ -1,0 +1,64 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "INGREDIENTS: Chocolate Sponge [Margarine (Palm Oil, Rapeseed Oil, Water), Sugar, Egg, Humectant (422), Rice Flour, Chocolate Pieces (4.5%) (Sugar, Cocoa Mass (45%), Cocoa Butter, Dextrose, Emulsifier (322 (Soy)), Natural Vanilla Flavouring), Potato Starch, Tapioca Starch, Cocoa Powder (3.0%), Maize Flour, Raising Agents (341, Sodium Carbonates), Natural Flavouring, Corn Starch, Acidity Regulator (330), Thickener (415), Preservative (Potassium Sorbate)], Chocolate Sauce (33.5%) [Glucose Syrup, Dark Chocolate (23.5%) (Cocoa Mass (43.5%), Sugar, Cocoa Butter, Emulsifier (322 (Soy)), Natural Vanilla Flavouring), Sugar, Water, Humectant (422), Modified Maize Starch, Preservative (Potassium Sorbate)]."
+    },
+    {
+      "name": "Allergen",
+      "value": "May Contain Walnut, May Contain Hazelnuts, May Contain Macadamia Nuts, May Contain Brazil Nuts, May Contain Pecan, May Contain Almonds"
+    },
+    {
+      "name": "Size",
+      "value": "110g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$2.73 per 100G"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Made in United Kingdom"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2022-11-24T05:31:42.904Z",
+  "description": "A rich and indulgent self saucing sponge pudding. This pudding is gluten free, making it perfect for all your Christmas guests.",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/5/2/3527367.jpg",
+    "width": 300
+  },
+  "name": "I'M Free From Chocolate Pudding",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3,
+    "lowPrice": 3,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T05:31:42.903Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "3.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-gluten-free-choc-sponge-pudding"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/coles-gluten-free-choc-sponge-pudding"
+  ],
+  "sku": "3527367",
+  "updatedAt": "2022-11-24T05:31:42.903Z"
+}

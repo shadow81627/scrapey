@@ -1,0 +1,56 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "200g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$28.00 per 1Kg"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Made in Greece"
+    }
+  ],
+  "brand": "Bio",
+  "createdAt": "2022-11-24T06:10:02.856Z",
+  "description": "At MyLife (creators of BioCheese) we believe food should taste great and be good for you. Natural, tasty and nutritious food should be a simple everyday choice.",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/2/1/2212575.jpg",
+    "width": 300
+  },
+  "name": "Original Cheese Block",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 5.6,
+    "lowPrice": 5.6,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T06:10:02.855Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "5.60",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/my-life-original-biocheese"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/my-life-original-biocheese"
+  ],
+  "sku": "2212575",
+  "updatedAt": "2022-11-24T06:10:02.855Z"
+}

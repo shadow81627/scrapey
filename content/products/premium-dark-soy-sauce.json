@@ -1,0 +1,68 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Soy Sauce (40%) (Water, Salt, Soybeans, Wheat Flour), Colour (150a), Sugar, Colour (150c), Salt."
+    },
+    {
+      "name": "Allergen",
+      "value": "Contains Soybean, Contains Wheat"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "16.0"
+    },
+    {
+      "name": "Size",
+      "value": "250mL"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.44 per 100mL"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Product of China"
+    }
+  ],
+  "brand": "Lee Kum Kee",
+  "createdAt": "2022-11-24T06:07:56.111Z",
+  "description": "Lee Kum Kee Premium Dark Soy Sauce is made from selected soybeans ad brewed according to the traditional method. Its rich soy flavour and full-bodied colour will delicately enhance the taste and appearance of various dish.",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/7/3/3737020.jpg",
+    "width": 300
+  },
+  "name": "Premium Dark Soy Sauce",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3.6,
+    "lowPrice": 3.6,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T06:07:56.111Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "3.60",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/le-kum-ke-premium-dark-soy-sauce"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/le-kum-ke-premium-dark-soy-sauce"
+  ],
+  "sku": "3737020",
+  "updatedAt": "2022-11-24T06:07:56.111Z"
+}

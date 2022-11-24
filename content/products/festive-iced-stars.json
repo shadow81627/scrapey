@@ -1,0 +1,68 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "INGREDIENTS: Sugar, Candied Fruit Peel (Lemon Peel, Glucose-fructose Syrup, Orange Peel, Sugar, Citric Acid (330)), Fructose, Almond Meal (13%), Hazelnut (12.5%), Icing (7%) (Sugar, Water, Wheat Starch, Egg White Powder, Pork Gelatine), Wheat Flour, Marzipan (Almond Meal, Sugar, Inverted Sugar Syrup), Cinnamon (1.0%), Raising Agent (Ammonium Carbonates), Acidity Regulator (330)."
+    },
+    {
+      "name": "Allergen",
+      "value": "May Contain Pine, Contains EGG, May Contain SOY, May Contain Walnut, May Contain Cashew, May Contain PEANUTS, May Contain Lupin, May Contain MILK, May Contain Macadamia Nuts, Contains Gluten, Contains Almonds, May Contain Brazil Nuts, Contains Wheat, May Contain Pecan, May Contain Pistachios, Contains Hazelnuts"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "7.5"
+    },
+    {
+      "name": "Size",
+      "value": "175g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$2.57 per 100G"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Made in Germany"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2022-11-24T05:26:09.840Z",
+  "description": "A traditional treat for the festive season. Soft almond and hazelnut biscuits with hints of citrus and cinnamon, topped with sugar icing",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/5/2/3526580.jpg",
+    "width": 300
+  },
+  "name": "Festive Iced Stars",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 4.5,
+    "lowPrice": 4.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T05:26:09.836Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "4.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-festive-gingerbread-stars"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/coles-festive-gingerbread-stars"
+  ],
+  "sku": "3526580",
+  "updatedAt": "2022-11-24T05:26:09.836Z"
+}

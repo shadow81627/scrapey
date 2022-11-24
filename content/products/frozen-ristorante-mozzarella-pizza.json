@@ -1,0 +1,60 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Wheat Flour, Tomato Puree (21%), Mozzarella Cheese (21%) [Milk, Salt, Starter Culture, Microbial Rennet, Firming Agent (Calcium Chloride)], Cherry Tomatoes (8.3%), Rapeseed Oil, Edam Cheese (5.4%) [Milk, Salt, Starter Culture, microbial Rennet, Firming Agent (Calcium Chloride)], Water, Yeast, Basil (0.7%), Salt, Sugar, Parsley, Spinach, Thickener (1412), Garlic, Lemon Juice, Pepper, Hydrolysed Vegetable Protein (Maize and Rapeseed), Emulsifiers [Mono- and Diglycerides of Fatty Acids (Sourced from Vegetable Oil)], Flavouring, Maltodextrin, Cayenne Pepper, Caramelised Sugar"
+    },
+    {
+      "name": "Size",
+      "value": "335g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$2.54 per 100G"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Made in Germany"
+    }
+  ],
+  "brand": "Dr. Oetker",
+  "createdAt": "2022-11-24T05:43:44.988Z",
+  "description": "Experience the taste of an Italian Pizzeria with our thin and crispy, Italian-style pizza; deliciously topped with creamy mozzarella, aromatic basil, juicy cherry tomatoes and a fruity tomato sauce on a perfect thin & crispy crust.",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/7/3/0/7308081.jpg",
+    "width": 300
+  },
+  "name": "Frozen Ristorante Mozzarella Pizza",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 8.5,
+    "lowPrice": 8.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T05:43:44.987Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "8.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/dr-oetker-pizza-ristorante-mozzarella-frozen"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/dr-oetker-pizza-ristorante-mozzarella-frozen"
+  ],
+  "sku": "7308081",
+  "updatedAt": "2022-11-24T05:43:44.987Z"
+}

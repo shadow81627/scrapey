@@ -1,0 +1,64 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "INGREDIENTS: Wheat Flour, Water, Modified Wheat Starch(1413), Thickener (412), Wheat Gluten, Yeast, Canola Oil, Durum Wheat Flour, Salt, Soy Flour, Antioxidant (300), Enzyme (Wheat), Vitamins [Thiamin, Folic Acid]."
+    },
+    {
+      "name": "Allergen",
+      "value": "May Contain SESAME, May Contain Pine, May Contain Walnut, May Contain EGG, May Contain Cashew, May Contain PEANUTS, May Contain Lupin, May Contain Hazelnuts, May Contain MILK, May Contain Macadamia Nuts, May Be Present SULPHITES, Contains Gluten, Contains SOY, May Contain Brazil Nuts, Contains Wheat, May Contain Pecan, Contains CEREALS CONTAINING GLUTEN, May Contain Pistachios, May Be Present MILK, May Be Present SOY, May Contain SULPHITES, May Be Present TREE NUTS, May Contain Almonds"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "8.0"
+    },
+    {
+      "name": "Size",
+      "value": "680g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.51 per 100G"
+    }
+  ],
+  "brand": "Coles Bakery",
+  "createdAt": "2022-11-24T06:25:14.918Z",
+  "description": "Coles Bakery High Fibre Low Gi is perfect for breakfast, lunch, dinner or a snack in between - simply add your favourite filling.",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/3/9/2390697.jpg",
+    "width": 300
+  },
+  "name": "High Fibre Low Gi White Sandwich Loaf",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3.5,
+    "lowPrice": 3.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T06:25:14.918Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "3.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-bakery-hi-fibre-white-sandwich-loaf"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/coles-bakery-hi-fibre-white-sandwich-loaf"
+  ],
+  "sku": "2390697",
+  "updatedAt": "2022-11-24T06:25:14.918Z"
+}

@@ -1,0 +1,68 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Potatoes, Vegetable Oil, Food Acids (Sodium Diacetate, Acetic Acid), Salt, Mineral Salt (Potassium Chloride), Flavour Enhancer (621), Natural Flavour."
+    },
+    {
+      "name": "Allergen",
+      "value": "Free From Cereals, May Contain Milk, May Contain Soybean"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "7.0"
+    },
+    {
+      "name": "Size",
+      "value": "175g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$2.00 per 100G"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Made in Australia by Snack Brands Australia"
+    }
+  ],
+  "brand": "Thins",
+  "createdAt": "2022-11-24T06:11:51.317Z",
+  "description": "Thins Salt & Vinegar Potato Chips",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/6/8/3/6833949.jpg",
+    "width": 300
+  },
+  "name": "Salt & Vinegar Potato Chips",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3.5,
+    "lowPrice": 3.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T06:11:51.316Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "3.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/thins-potato-chips-salt-vinegar"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/thins-potato-chips-salt-vinegar"
+  ],
+  "sku": "6833949",
+  "updatedAt": "2022-11-24T06:11:51.316Z"
+}

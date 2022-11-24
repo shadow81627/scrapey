@@ -1,0 +1,68 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Potatoes (64%), Canola Oil, Sunflower Oil, Salt, Antioxidants (Tocopherols, Ascorbic Acid, Rosemary Extract, Citric Acid)."
+    },
+    {
+      "name": "Dietary",
+      "value": "No Artificial Flavours or Colours"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "6.5"
+    },
+    {
+      "name": "Size",
+      "value": "175g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.43 per 100G"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Made In Australia"
+    }
+  ],
+  "brand": "Smith's",
+  "createdAt": "2022-11-24T06:18:53.302Z",
+  "description": "Smith's Original Thinly Cut Potato Chips",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/7/0/5706221.jpg",
+    "width": 300
+  },
+  "name": "Original Thinly Cut Potato Chips",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2.5,
+    "lowPrice": 2.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T06:18:53.301Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "2.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/smiths-potato-chips-thin-sliced-original"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/smiths-potato-chips-thin-sliced-original"
+  ],
+  "sku": "5706221",
+  "updatedAt": "2022-11-24T06:18:53.301Z"
+}

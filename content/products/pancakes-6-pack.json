@@ -1,0 +1,60 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Contains",
+      "value": "As this product varies by state, please review the product packaging when you receive this product for allergen information to determine whether this product is suitable for you before consuming, particularly if you suffer from a food allergy or intolerance."
+    },
+    {
+      "name": "Dietary",
+      "value": "No Artificial Flavours or Colours"
+    },
+    {
+      "name": "Size",
+      "value": "360g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.11 per 100G"
+    }
+  ],
+  "brand": "Golden",
+  "createdAt": "2022-11-24T06:06:31.123Z",
+  "description": "Golden Pancakes 6 Pack",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/6/0/5/6051649.jpg",
+    "width": 300
+  },
+  "name": "Pancakes 6 Pack",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 4,
+    "lowPrice": 4,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T06:06:31.122Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "4.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/golden-pancakes-6-pack"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/golden-pancakes-6-pack"
+  ],
+  "sku": "6051649",
+  "updatedAt": "2022-11-24T06:06:31.122Z"
+}

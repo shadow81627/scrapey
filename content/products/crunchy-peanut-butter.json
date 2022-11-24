@@ -1,0 +1,72 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Roasted Peanuts (85%), Vegetable Oil (Contains Antioxidant (320)), Sugar, Salt."
+    },
+    {
+      "name": "Contains",
+      "value": "Peanuts"
+    },
+    {
+      "name": "Allergen",
+      "value": "Contains Peanuts"
+    },
+    {
+      "name": "Dietary",
+      "value": "No Preservatives"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "21.4"
+    },
+    {
+      "name": "Size",
+      "value": "470g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.36 per 100G"
+    }
+  ],
+  "brand": "Bega",
+  "createdAt": "2022-11-24T06:04:20.932Z",
+  "description": "Bega Crunchy Peanut Butter",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/3/9/5390911.jpg",
+    "width": 300
+  },
+  "name": "Crunchy Peanut Butter",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 6.4,
+    "lowPrice": 6.4,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T06:04:20.931Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "6.40",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/kraft-peanut-butter-crunchy-5390911p"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/kraft-peanut-butter-crunchy-5390911p"
+  ],
+  "sku": "5390911",
+  "updatedAt": "2022-11-24T06:04:20.931Z"
+}

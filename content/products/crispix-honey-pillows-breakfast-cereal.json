@@ -1,0 +1,76 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Maize flour (74%), sugar, honey (3.5%), salt, molasses, raising agent (sodium bicarbonate), barley flour, vitamins (niacin, thiamin, riboflavin, folate)."
+    },
+    {
+      "name": "Contains",
+      "value": "Contains gluten. May contain wheat, tree nuts."
+    },
+    {
+      "name": "Allergen",
+      "value": "May Be Present Wheat, Contains Gluten, May Be Present Tree Nuts"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "15.0"
+    },
+    {
+      "name": "Warning",
+      "value": "This product is sold by weight, not volume. Some settling of contents may have occurred during shipment and handling."
+    },
+    {
+      "name": "Size",
+      "value": "460g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.85 per 100G"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Made in South Korea"
+    }
+  ],
+  "brand": "Kellogg's",
+  "createdAt": "2022-11-24T05:36:04.110Z",
+  "description": "Kellogg's Crispix Honey Pillows Breakfast Cereal",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/0/1/2011289.jpg",
+    "width": 300
+  },
+  "name": "Crispix Honey Pillows Breakfast Cereal",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 8.5,
+    "lowPrice": 8.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T05:36:04.109Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "8.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/kelloggs-crispix"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/kelloggs-crispix"
+  ],
+  "sku": "2011289",
+  "updatedAt": "2022-11-24T05:36:04.109Z"
+}

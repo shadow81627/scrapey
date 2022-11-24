@@ -1,0 +1,68 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Anchovy (Fish) (Encrasicholina spp.) 77%, Salt 20%, Sugar 3%"
+    },
+    {
+      "name": "Allergen",
+      "value": "May Contain Crustacea, Contains Fish"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "20.0"
+    },
+    {
+      "name": "Size",
+      "value": "300mL"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.67 per 100mL"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Product of Thailand from Imported ingredients"
+    }
+  ],
+  "brand": "Squid",
+  "createdAt": "2022-11-24T05:37:54.434Z",
+  "description": "Squid Brand Fish Sauce is an authentic Thai fish sauce that is made with anchovies and salt. It has a fragrant aroma and a reddish brown appearance. With its robust flavour, it is ideal for stir-fries, marinades and dipping.",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/4/2/5420998.jpg",
+    "width": 300
+  },
+  "name": "Fish Sauce",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2,
+    "lowPrice": 2,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T05:37:54.433Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "2.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/squid-sauce-fish"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/squid-sauce-fish"
+  ],
+  "sku": "5420998",
+  "updatedAt": "2022-11-24T05:37:54.433Z"
+}

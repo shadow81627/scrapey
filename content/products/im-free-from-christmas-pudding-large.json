@@ -1,0 +1,64 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "INGREDIENTS: Vine Fruits (38%) (Sultanas, Raisins), Sugar, Cider (12%) (Preservative (Sulphur Dioxide)), Non Hydrogenated Vegetable Oil (Palm Oil, Rice Flour, Sunflower Oil), Rum (5%), Gluten Free Flour (Rice Flour, Potato Starch, Maize Flour), Breadcrumb (Rice Flour, Gram Flour, Maize Starch, Salt, Dextrose), Humectant (422), Candied Mixed Peel (Orange Peel, Glucose-fructose Syrup, Lemon Peel, Sugar, Acidity Regulator (330), Preservative (Sulphur Dioxide)), Treacle, Orange Juice from Concentrate, Molasses, Mixed Spice, Salt, Orange Oil. Contains 0.7mL of alcohol per 100g of pudding."
+    },
+    {
+      "name": "Allergen",
+      "value": "May Contain Walnut, May Contain Hazelnuts, May Contain Macadamia Nuts, May Contain Brazil Nuts, May Contain Pecan, May Contain Almonds"
+    },
+    {
+      "name": "Size",
+      "value": "400g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.75 per 100G"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Made in United Kingdom"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2022-11-24T05:45:32.332Z",
+  "description": "Packed with juicy vine fruits and a hint of cider and rum. This traditional christmas pudding is vegan friendly and gluten free, making it perfect for all your Christmas guests.",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/1/4/8/1482279.jpg",
+    "width": 300
+  },
+  "name": "I'M Free From Christmas Pudding Large",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 7,
+    "lowPrice": 7,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T05:45:32.331Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "7.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-gluten-free-christmas-pudding"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/coles-gluten-free-christmas-pudding"
+  ],
+  "sku": "1482279",
+  "updatedAt": "2022-11-24T05:45:32.331Z"
+}

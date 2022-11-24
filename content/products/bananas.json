@@ -1,0 +1,52 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "approx. 180g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$3.90 per 1Kg"
+    }
+  ],
+  "brand": "Fresh",
+  "createdAt": "2022-11-24T06:02:05.142Z",
+  "description": "Aussie Bananas earn their spot at the top of the shopping list by not only being the perfectly packaged on-the-go snack, they just happen to be full of nutrients too!",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/4/0/9/409499.jpg",
+    "width": 300
+  },
+  "name": "Bananas",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 0.7,
+    "lowPrice": 0.7,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T06:02:05.142Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "0.70",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-fresh-bananas---loose"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/coles-fresh-bananas---loose"
+  ],
+  "sku": "409499",
+  "updatedAt": "2022-11-24T06:02:05.142Z"
+}

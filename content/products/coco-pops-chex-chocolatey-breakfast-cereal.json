@@ -1,0 +1,72 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Cereals (62%)(maize flour, wheat flour, rice flour, barley flour, oat flour), sugar, cocoa (4.5%), salt, raising agent (sodium bicarbonate), wheat bran, vitamins (niacin, thiamin, riboflavin, folate)"
+    },
+    {
+      "name": "Contains",
+      "value": "Contains gluten, wheat. May contain tree nuts."
+    },
+    {
+      "name": "Allergen",
+      "value": "Contains Gluten, Contains Wheat, May Be Present Tree Nuts"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "16.0"
+    },
+    {
+      "name": "Size",
+      "value": "500g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.80 per 100G"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Made in South Korea"
+    }
+  ],
+  "brand": "Kellogg's",
+  "createdAt": "2022-11-24T06:03:14.037Z",
+  "description": "Kellogg's Coco Pops Chex Chocolatey Breakfast Cereal",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/8/4/9/8494301.jpg",
+    "width": 300
+  },
+  "name": "Coco Pops Chex Chocolatey Breakfast Cereal",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 9,
+    "lowPrice": 9,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T06:03:14.035Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "9.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/kelloggs-cereal-coco-pops-chex"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/kelloggs-cereal-coco-pops-chex"
+  ],
+  "sku": "8494301",
+  "updatedAt": "2022-11-24T06:03:14.036Z"
+}

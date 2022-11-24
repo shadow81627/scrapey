@@ -1,0 +1,64 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "INGREDIENTS: Wheat Flour [Wheat Flour, Thiamin, Folic Acid], Water, Yeast [Water, Yeast], Iodised Salt, Lecithin(Soy)."
+    },
+    {
+      "name": "Allergen",
+      "value": "May Be Present EGG, May Be Present CEREALS CONTAINING GLUTEN, May Be Present PEANUTS, May Be Present SULPHITES, Contains SOY, Contains Wheat, May Be Present MILK, May Be Present TREE NUTS, May Be Present SESAME, May Be Present Lupin"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "4.0"
+    },
+    {
+      "name": "Size",
+      "value": "4 pack"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.81 per 1Ea"
+    }
+  ],
+  "brand": "Coles Bakery",
+  "createdAt": "2022-11-24T06:28:19.796Z",
+  "description": "Breakfast, lunch, dinner or a snack in between - a good home-made roll can fill the gap",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/7/8/8/7885766.jpg",
+    "width": 300
+  },
+  "name": "Rustic Rolls",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3.25,
+    "lowPrice": 3.25,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T06:28:19.795Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "3.25",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-bakery-rolls-rustic-baked-in-store"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/coles-bakery-rolls-rustic-baked-in-store"
+  ],
+  "sku": "7885766",
+  "updatedAt": "2022-11-24T06:28:19.795Z"
+}

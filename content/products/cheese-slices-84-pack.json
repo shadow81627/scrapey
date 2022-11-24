@@ -1,0 +1,64 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "INGREDIENTS: Cheddar (76%) (Milk, Salt, Cultures, Vegetarian Rennet), Water, Milk Solids, Butter (Cream (Milk), Water, Salt), Emulsifiers (331, 332, 322 (Soy)), Salt, Preservative (200), Colour (Carotene)."
+    },
+    {
+      "name": "Allergen",
+      "value": "Contains SOY, Contains MILK"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "84.0"
+    },
+    {
+      "name": "Size",
+      "value": "1kg"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$12.50 per 1Kg"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2022-11-24T06:20:24.504Z",
+  "description": "Processed Cheese Slices ideal for sandwiches and toasties",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/1/9/7/1978140.jpg",
+    "width": 300
+  },
+  "name": "Cheese Slices 84 pack",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 12.5,
+    "lowPrice": 12.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T06:20:24.504Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "12.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-cheese-block"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/coles-cheese-block"
+  ],
+  "sku": "1978140",
+  "updatedAt": "2022-11-24T06:20:24.504Z"
+}

@@ -1,0 +1,64 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Pineapple (70%), Reconstituted Pear Juice, Pineapple Juice or Reconstituted Pineapple Juice."
+    },
+    {
+      "name": "Dietary",
+      "value": "No Preservatives"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "4.0"
+    },
+    {
+      "name": "Size",
+      "value": "440g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$10.00 per 1Kg"
+    }
+  ],
+  "brand": "Golden Circle",
+  "createdAt": "2022-11-24T05:49:33.526Z",
+  "description": "Golden Circle Pineapple Pieces in Natural Juice Canned",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/1/1/7/117788.jpg",
+    "width": 300
+  },
+  "name": "Pineapple Pieces in Natural Juice Canned",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 4.4,
+    "lowPrice": 4.4,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T05:49:33.525Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "4.40",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/golden-circle-pineapple-pieces-in-natural-juice-117788p"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/golden-circle-pineapple-pieces-in-natural-juice-117788p"
+  ],
+  "sku": "117788",
+  "updatedAt": "2022-11-24T05:49:33.525Z"
+}

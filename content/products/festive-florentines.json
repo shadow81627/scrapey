@@ -1,0 +1,68 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "INGREDIENTS: Almonds (23%), Milk Chocolate (18%) (Sugar, Cocoa Butter, Milk Powder (12%), Whey Powder (Milk), Cocoa Mass (10%), Butterfat (Milk), Emulsifier (322)), Sugar, Glucose Syrup (Wheat), Dark Chocolate (10%) (Sugar, Cocoa Mass (45%), Cocoa Butter, Butterfat (Milk), Emulsifier (322)), Palm Fat, Hazelnut (6%), White Chocolate (2%) (Sugar, Cocoa Butter (25%), Milk Powder (14%), Emulsifier (322)), Butterfat (Milk), Emulsifier (322 (Soy)), Milk Powder, Hazelnut Brittle (0.5%) (Sugar, Hazelnut), Honey, Natural Flavouring."
+    },
+    {
+      "name": "Allergen",
+      "value": "May Contain SESAME, May Contain Walnut, May Contain EGG, May Contain PEANUTS, May Contain Lupin, May Contain Macadamia Nuts, Contains Gluten, Contains Almonds, Contains SOY, Contains Wheat, May Contain Pistachios, Contains MILK, Contains Hazelnuts"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "4.0"
+    },
+    {
+      "name": "Size",
+      "value": "150g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$3.00 per 100G"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Made in Germany"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2022-11-24T05:26:56.153Z",
+  "description": "A traditional treat for the festive season. A mixed pack of sweet almond and hazelnut brittles, dipped in chocolate.",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/5/2/3526590.jpg",
+    "width": 300
+  },
+  "name": "Festive Florentines",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 4.5,
+    "lowPrice": 4.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T05:26:56.146Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "4.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-festive-nut-clusters"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/coles-festive-nut-clusters"
+  ],
+  "sku": "3526590",
+  "updatedAt": "2022-11-24T05:26:56.146Z"
+}

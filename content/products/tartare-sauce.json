@@ -1,0 +1,64 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "INGREDIENTS: Canola Oil [Antioxidant (304)], Vinegar, Water, Sugar, Vegetables (8%) (Gherkin, Onion, Capers), Mustard, Egg, Thickeners (1442, 415), Salt, Spice Extract, Food Acid (Citric Acid), Preservative (Potassium Sorbate), Dill, Herb Extracts."
+    },
+    {
+      "name": "Allergen",
+      "value": "Contains EGG"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "23.0"
+    },
+    {
+      "name": "Size",
+      "value": "230g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.09 per 100G"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2022-11-24T05:55:01.177Z",
+  "description": "Coles Tartare sauce extra creamy recipe that goes well with prawns, crispy vegetables or on a platter with pita bread",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/7/8/2781821.jpg",
+    "width": 300
+  },
+  "name": "Tartare Sauce",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2.5,
+    "lowPrice": 2.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T05:55:01.175Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "2.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-tartare-sauce"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/coles-tartare-sauce"
+  ],
+  "sku": "2781821",
+  "updatedAt": "2022-11-24T05:55:01.175Z"
+}
