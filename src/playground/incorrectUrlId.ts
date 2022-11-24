@@ -21,14 +21,25 @@ export default async function incorrectUIrlIds(): Promise<void> {
           link.canonical = foundCanonical;
           await connection.manager.save(link);
         }
+      } else {
+        const newCanonical = new Url(Url.urlToParts(link.url));
+        connection.manager.merge(Url, newCanonical, { ...link, id: undefined });
+        await connection.manager.save(newCanonical);
+        link.canonical = newCanonical;
+        await connection.manager.save(link);
+        // linksToDelete.push(link);
       }
-      if (link.canonical && link.canonical.id && link.canonical.id !== link.id) {
+      if (
+        link.canonical &&
+        link.canonical.id &&
+        link.canonical.id !== link.id
+      ) {
         linksToDelete.push(link);
       }
       newIds.push(canonicalId);
     }
   }
   console.log('incorrect url id', newIds.length);
-  console.log('soft delete', linksToDelete.length, 'incorrect id links')
+  console.log('soft delete', linksToDelete.length, 'incorrect id links');
   await connection.manager.softRemove(linksToDelete);
 }
