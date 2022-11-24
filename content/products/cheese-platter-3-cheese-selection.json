@@ -1,0 +1,59 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Creamy Brie: Milk, Cream, Salt, Cultures, Non-Animal Rennet, Mineral Salt (509). Cream Cheese: Cream Cheese [Milk, Cream, Salt, Vegetable Gums (410, 412), Cultures](Min.80%), Dried Apricot [Apricot, Rice Flour, Preservative (220)], Roasted Almonds (Min.3%), Preservatives (200). Edam: Milk, Cream, Salt, Non-Animal Rennet, Mineral Salt (509), Cultures."
+    },
+    {
+      "name": "Allergen",
+      "value": "Contains Tree Nuts, Contains Sulphites, May Contain Peanuts, May Contain OTHER TREE NUTS, Contains Milk"
+    },
+    {
+      "name": "Warning",
+      "value": "Contains Milk, Sulphites, and Tree Nuts. May contain Peanuts and Other Tree Nuts."
+    },
+    {
+      "name": "Size",
+      "value": "320g"
+    }
+  ],
+  "brand": "South Cape",
+  "createdAt": "2022-11-24T07:02:43.519Z",
+  "description": "South Cape Cheese Platter 3 Cheese Selection",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/9/1/7/9172264.jpg",
+    "width": 300
+  },
+  "name": "Cheese Platter 3 Cheese Selection",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": null,
+    "lowPrice": null,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/OutOfStock",
+        "availabilityStarts": "2022-11-24T07:02:43.518Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/south-cape-cheese-platter-white-wine-matched"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/south-cape-cheese-platter-white-wine-matched"
+  ],
+  "sku": "9172264",
+  "updatedAt": "2022-11-24T07:02:43.519Z"
+}

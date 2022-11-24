@@ -1,0 +1,60 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "INGREDIENT: 100% Australian Kale."
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "3.0"
+    },
+    {
+      "name": "Size",
+      "value": "140g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$21.43 per 1Kg"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2022-11-24T06:54:07.693Z",
+  "description": "ColesPROUDLY GROWN AUSTRALIANChopped KaleEarthy & Crunchy - Buttery & Soft: Position 1PERFECT FOR: Crunchy salad basesLogo: GROWING TOGETHER AUSTRALIAN FARMERS",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/6/7/2674606.jpg",
+    "width": 300
+  },
+  "name": "Chopped Kale",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3,
+    "lowPrice": 3,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T06:54:07.686Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "3.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-chopped-kale"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/coles-chopped-kale"
+  ],
+  "sku": "2674606",
+  "updatedAt": "2022-11-24T06:54:07.686Z"
+}

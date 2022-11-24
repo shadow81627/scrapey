@@ -1,0 +1,56 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Warning",
+      "value": "To avoid risk of suffocation keep bags out of reach of children."
+    },
+    {
+      "name": "Size",
+      "value": "100 pack"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.05 per 1Ea"
+    }
+  ],
+  "brand": "Hercules",
+  "createdAt": "2022-11-24T06:58:09.809Z",
+  "description": "Hercules Click Zip Sandwich Bags are a great and versatile way to keep lunches, salad, and food both fresh and appetizing. Ideal for food on the go or in the fridge. Feel the unique zipper click shut as it seals tight.Freezer SafeMicrowave SafeBPA FreeClicks Shut, Keeps Fresh100 Bags 18cm x 16.5cm.",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/8/5/2858766.jpg",
+    "width": 300
+  },
+  "name": "Click Zip Sandwich Bags",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 5,
+    "lowPrice": 5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T06:58:09.807Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "5.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/hercules-clickzip-sandwich-bags"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/hercules-clickzip-sandwich-bags"
+  ],
+  "sku": "2858766",
+  "updatedAt": "2022-11-24T06:58:09.807Z"
+}

@@ -1,0 +1,52 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "8 pack"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.55 per 1Ea"
+    }
+  ],
+  "brand": "U by Kotex",
+  "createdAt": "2022-11-24T07:06:09.499Z",
+  "description": "U by Kotex Extra Overnight Pads Long With Wings",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/2/2/3223330.jpg",
+    "width": 300
+  },
+  "name": "Extra Overnight Pads Long With Wings",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 4.4,
+    "lowPrice": 4.4,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T07:06:09.498Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "4.40",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/u-by-kotex-maxi-long-overnight-pads-wings"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/u-by-kotex-maxi-long-overnight-pads-wings"
+  ],
+  "sku": "3223330",
+  "updatedAt": "2022-11-24T07:06:09.498Z"
+}

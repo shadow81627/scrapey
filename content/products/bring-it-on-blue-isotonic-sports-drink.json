@@ -2,12 +2,24 @@
   "@type": "Product",
   "additionalProperty": [
     {
+      "name": "Ingredients",
+      "value": "Purified Water, Sucrose, Maltodextrin, Acidity Regulators (330, 331), Flavours, Tri-Potassium Citrate, Magnesium Sulphate, Sodium Chloride, Preservative (202), Calcium Lactate, Colour (133)."
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "4.0"
+    },
+    {
+      "name": "Warning",
+      "value": "Average osmolality is 315milliOsmol/L. Drink 250mL every 15 minutes for hardcore sessions exceeding an hour. Your own needs could vary."
+    },
+    {
       "name": "Size",
       "value": "1L"
     },
     {
       "name": "Unit Price",
-      "value": "$2.15 per 1L"
+      "value": "$3.40 per 1L"
     },
     {
       "name": "Country Of Origin",
@@ -15,8 +27,8 @@
     }
   ],
   "brand": "Maximus",
-  "createdAt": "2020-11-15T07:20:41.449Z",
-  "description": "Maximus Bring It On Blue Isotonic Sports Drink",
+  "createdAt": "2022-11-24T06:56:39.802Z",
+  "description": "Maximus is for the hardest worker in the room. For the unpretentious men of action. We give you what you need so you can keep on keeping on!",
   "image": {
     "@type": "ImageObject",
     "height": 300,
@@ -27,18 +39,18 @@
   "name": "Bring It On Blue Isotonic Sports Drink",
   "offers": {
     "@type": "AggregateOffer",
-    "highPrice": 2.15,
-    "lowPrice": 2.15,
+    "highPrice": 3.4,
+    "lowPrice": 3.4,
     "offerCount": 1,
     "offers": [
       {
         "@context": "http://schema.org",
         "@type": "Offer",
         "availability": "https://schema.org/InStock",
-        "availabilityStarts": "2020-11-15T07:20:41.437Z",
+        "availabilityStarts": "2022-11-24T06:56:39.801Z",
         "itemCondition": "https://schema.org/NewCondition",
         "offeredBy": "Coles",
-        "price": "2.15",
+        "price": "3.40",
         "priceCurrency": "AUD",
         "seller": {
           "@type": "Organization",
@@ -49,8 +61,8 @@
     ]
   },
   "sameAs": [
-    "https://shop.coles.com.au/a/national/product/maximus-sports-drink--bring-it-on-blue?adId=display_-emDKUPsfa_1C46RN6MUF4Cm1lk5ODgwNjk0UA%3D%3D"
+    "https://shop.coles.com.au/a/national/product/maximus-sports-drink--bring-it-on-blue"
   ],
   "sku": "9880694",
-  "updatedAt": "2020-11-15T07:20:41.438Z"
+  "updatedAt": "2022-11-24T06:56:39.801Z"
 }

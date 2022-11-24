@@ -1,0 +1,52 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "15 pack"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.17 per 1Ea"
+    }
+  ],
+  "brand": "Hercules",
+  "createdAt": "2022-11-24T06:58:27.306Z",
+  "description": "Medium twin zip storage bags. Double seal, stronger and fresher. Hercules storage bags are freezer safe, microwave safe and BPA free.",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/3/6/3364794.jpg",
+    "width": 300
+  },
+  "name": "Twinzip Resealable Medium Storage Bags",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2.6,
+    "lowPrice": 2.6,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T06:58:27.306Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "2.60",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/hercules-twinzip-storage-bag-medium"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/hercules-twinzip-storage-bag-medium"
+  ],
+  "sku": "3364794",
+  "updatedAt": "2022-11-24T06:58:27.306Z"
+}

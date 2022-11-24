@@ -1,0 +1,72 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Wheat Glucose Syrup, Sugar, Milk Solids, Vegetable Oil, Cocoa Butter, Cocoa Mass, Emulsifiers (471, Sunflower Lecithin, 442, 476), Salt, Flavours, Raising Agents (500, 509)."
+    },
+    {
+      "name": "Contains",
+      "value": "Wheat glucose syrup and milk. Milk Chocolate Contains Cocoa Solids 24%, Milk Solids Minimum 14%."
+    },
+    {
+      "name": "Allergen",
+      "value": "Contains Wheat Glucose Syrup, Contains Milk"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "4.4"
+    },
+    {
+      "name": "Size",
+      "value": "110g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$3.64 per 100G"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Made in Poland"
+    }
+  ],
+  "brand": "Cadbury",
+  "createdAt": "2022-11-24T07:02:27.601Z",
+  "description": "Cadbury Curly Wurly Squirlies - Bite size, squirly pieces of chewy caramel coated in milk chocolate.",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/9/1/2912840.jpg",
+    "width": 300
+  },
+  "name": "Curly Wurly Squirlies",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 4,
+    "lowPrice": 4,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T07:02:27.597Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "4.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/cadbury-bitesize-bitsa-wispa"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/cadbury-bitesize-bitsa-wispa"
+  ],
+  "sku": "2912840",
+  "updatedAt": "2022-11-24T07:02:27.597Z"
+}

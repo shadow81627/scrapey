@@ -1,0 +1,52 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "110g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$3.00 per 100G"
+    }
+  ],
+  "brand": "Oral B",
+  "createdAt": "2022-11-24T07:04:50.421Z",
+  "description": "Oral B Pro Health Advanced All Round Protection Toothpaste",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/6/9/3696182.jpg",
+    "width": 300
+  },
+  "name": "Pro Health Advanced All Round Protection Toothpaste",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3.3,
+    "lowPrice": 3.3,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T07:04:50.420Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "3.30",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/oral-b-pro-health-adv-all-round-protection"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/oral-b-pro-health-adv-all-round-protection"
+  ],
+  "sku": "3696182",
+  "updatedAt": "2022-11-24T07:04:50.420Z"
+}

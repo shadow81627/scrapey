@@ -1,0 +1,64 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "banana (61%), apple, raspberry (10%), antioxidant (ascorbic acid), acidity regulator (citric acid), vanilla extract."
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "1.0"
+    },
+    {
+      "name": "Size",
+      "value": "120g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.79 per 100G"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Made in New Zealand"
+    }
+  ],
+  "brand": "Only Organic",
+  "createdAt": "2022-11-24T07:00:48.444Z",
+  "description": "Only Organic Banana Raspberry & Vanilla Baby Food Pouch 8+ Months",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/7/7/6/7761129.jpg",
+    "width": 300
+  },
+  "name": "Banana Raspberry & Vanilla Baby Food Pouch 8+ Months",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2.15,
+    "lowPrice": 2.15,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T07:00:48.443Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "2.15",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/only-organics-9-months-baby-food-banana-raspberry-vanilla"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/only-organics-9-months-baby-food-banana-raspberry-vanilla"
+  ],
+  "sku": "7761129",
+  "updatedAt": "2022-11-24T07:00:48.443Z"
+}

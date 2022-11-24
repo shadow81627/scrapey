@@ -1,0 +1,64 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Allergen",
+      "value": "May Be Present Peanuts, May Be Present Tree Nuts"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "4.0"
+    },
+    {
+      "name": "Size",
+      "value": "80g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$6.25 per 100G"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Teddya s manufactured in"
+    }
+  ],
+  "brand": "Lindt",
+  "createdAt": "2022-11-24T07:03:07.352Z",
+  "description": "Lindt Mini Teddy Bear Pouch Bag Chocolates",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/1/0/3/1039205.jpg",
+    "width": 300
+  },
+  "name": "Mini Teddy Bear Pouch Bag Chocolates",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 5,
+    "lowPrice": 5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T07:03:07.351Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "5.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/lindt-mini-teddy-bear-pouc-chocolates"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/lindt-mini-teddy-bear-pouc-chocolates"
+  ],
+  "sku": "1039205",
+  "updatedAt": "2022-11-24T07:03:07.351Z"
+}

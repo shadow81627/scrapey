@@ -1,0 +1,64 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Water, Carrot (13%), Sweet Potato, Sweetcorn (8%), Ground Chickpeas (3%), Barley, Brown Rice, Yeast Extract."
+    },
+    {
+      "name": "Dietary",
+      "value": "No Added Sugars, No Preservatives, No Artificial Flavours or Colours, No Added Salt"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "1.0"
+    },
+    {
+      "name": "Size",
+      "value": "120g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.67 per 100G"
+    }
+  ],
+  "brand": "Rafferty's Garden",
+  "createdAt": "2022-11-24T07:01:24.668Z",
+  "description": "Our Chickpea, Corn & Carrot pouch is made with the goodness of tasty legumes, and packed full of the goodness of veggies too. As a plant powered meal, it's a delicious vegetarian option that still provides a source of protein to help their growth and development.",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/6/2/3620191.jpg",
+    "width": 300
+  },
+  "name": "Chickpea Corn & Carrot 8+ Months",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2,
+    "lowPrice": 2,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T07:01:24.666Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "2.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/raffertys-garden-chickpea-corn-carrot-8mths"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/raffertys-garden-chickpea-corn-carrot-8mths"
+  ],
+  "sku": "3620191",
+  "updatedAt": "2022-11-24T07:01:24.667Z"
+}

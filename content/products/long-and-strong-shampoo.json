@@ -1,0 +1,60 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Citrate, Sodium Xylenesulfonate, Sodium Chloride, Sodium Lauryl Sulfate, Stearyl Alcohol, Fragrance, Dimethiconol, Cetyl Alcohol, Glycerin, Dimethicone, Citric Acid, Sodium Benzoate, TEA-Dodecylbenzenesulfonate, Guar Hydroxypropyltrimonium Chloride, Tetrasodium EDTA, Trideceth-10, Polyquaternium-6, Trihydroxystearin, Panthenol, Panthenyl Ethyl Ether, Histidine, Benzyl Alcohol, Propylene Glycol, Methylchloroisothiazolinone, Methylisothiazolinone"
+    },
+    {
+      "name": "Warning",
+      "value": "If in eyes, wash out immediately with water."
+    },
+    {
+      "name": "Size",
+      "value": "900mL"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$2.11 per 100mL"
+    }
+  ],
+  "brand": "Pantene",
+  "createdAt": "2022-11-24T07:06:40.750Z",
+  "description": "Pantene Long & Strong Shampoo",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/9/4/2940120.jpg",
+    "width": 300
+  },
+  "name": "Long & Strong Shampoo",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 19,
+    "lowPrice": 19,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T07:06:40.749Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "19.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/pantene-long-strong-shampoo-2940120p"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/pantene-long-strong-shampoo-2940120p"
+  ],
+  "sku": "2940120",
+  "updatedAt": "2022-11-24T07:06:40.749Z"
+}

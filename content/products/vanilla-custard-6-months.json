@@ -1,0 +1,64 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Whole Milk (57%), Water, Sugar, Whole Milk Powder (4%), Modified Starch (1422), Natural Vanilla Flavour, Corn Starch, Xanthan Gum. Sweetened."
+    },
+    {
+      "name": "Dietary",
+      "value": "No Preservatives, No Artificial Flavours or Colours, No Added Salt"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "1.0"
+    },
+    {
+      "name": "Size",
+      "value": "120g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.67 per 100G"
+    }
+  ],
+  "brand": "Rafferty's Garden",
+  "createdAt": "2022-11-24T07:00:17.746Z",
+  "description": "Our traditional Vanilla Custard recipe is made with the goodness of fresh milk, and is a delicious and nutritious sweet treat your baby will love to eat.",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/8/9/7/8971943.jpg",
+    "width": 300
+  },
+  "name": "Vanilla Custard 6+ Months",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2,
+    "lowPrice": 2,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T07:00:17.745Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "2.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/raffertys-garden-6-months-baby-food-vanilla-custard"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/raffertys-garden-6-months-baby-food-vanilla-custard"
+  ],
+  "sku": "8971943",
+  "updatedAt": "2022-11-24T07:00:17.745Z"
+}

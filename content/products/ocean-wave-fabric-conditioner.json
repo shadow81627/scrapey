@@ -1,0 +1,56 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Warning",
+      "value": "Keep out of reach of children. Eye Contact: If product contacts the eyes, rinse thoroughly with water and seek medical advice. If swallowed: Seek medical advice. Medical advice: 13 11 26 (Australia) or 0800 764 766 (New Zealand)."
+    },
+    {
+      "name": "Size",
+      "value": "850mL"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$11.76 per 1L"
+    }
+  ],
+  "brand": "Cuddly",
+  "createdAt": "2022-11-24T06:55:20.398Z",
+  "description": "Cuddly Ocean Wave Fabric Conditioner",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/7/3/3738806.jpg",
+    "width": 300
+  },
+  "name": "Ocean Wave Fabric Conditioner",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 10,
+    "lowPrice": 10,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T06:55:20.385Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "10.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/cuddly-fabric-conditioner-ocean-wave"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/cuddly-fabric-conditioner-ocean-wave"
+  ],
+  "sku": "3738806",
+  "updatedAt": "2022-11-24T06:55:20.386Z"
+}

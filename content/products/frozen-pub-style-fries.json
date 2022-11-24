@@ -1,0 +1,60 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Potato (87%), batter (wheat flour, wheat starch, sea salt, maize flour, paprika, onion powder, garlic powder, black pepper, dextrose (from maize)), canola oil."
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "7.5"
+    },
+    {
+      "name": "Size",
+      "value": "750g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.73 per 100G"
+    }
+  ],
+  "brand": "McCain",
+  "createdAt": "2022-11-24T07:02:53.173Z",
+  "description": "Create the pub meal at home with McCain Pub Style chips. Serve them alongside a juicy steak, delicious parma or crispy battered fish to create your favourite pub meal.",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/7/6/5766020.jpg",
+    "width": 300
+  },
+  "name": "Frozen Pub Style Fries",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 5.5,
+    "lowPrice": 5.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T07:02:53.170Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "5.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/mccain-potato-fries-crunchy-frozen"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/mccain-potato-fries-crunchy-frozen"
+  ],
+  "sku": "5766020",
+  "updatedAt": "2022-11-24T07:02:53.170Z"
+}

@@ -1,0 +1,52 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "800mL"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.23 per 100mL"
+    }
+  ],
+  "brand": "Sistema",
+  "createdAt": "2022-11-24T06:59:30.861Z",
+  "description": "Sistema Hydrate Active Bottle",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/8/1/2817146.jpg",
+    "width": 300
+  },
+  "name": "Hydrate Active Bottle",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 9.8,
+    "lowPrice": 9.8,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T06:59:30.859Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "9.80",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/sistema-active-bottle-800ml"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/sistema-active-bottle-800ml"
+  ],
+  "sku": "2817146",
+  "updatedAt": "2022-11-24T06:59:30.859Z"
+}

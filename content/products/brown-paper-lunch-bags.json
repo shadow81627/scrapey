@@ -1,0 +1,56 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "100 pack"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.04 per 1Ea"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Made in Vietnam"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2022-11-24T06:58:14.705Z",
+  "description": "Coles Brown Paper Lunch Bags 100pk. Great to pack your school or work lunch in.",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/4/4/8/4485105.jpg",
+    "width": 300
+  },
+  "name": "Brown Paper Lunch Bags",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 4,
+    "lowPrice": 4,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T06:58:14.704Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "4.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-smart-buy-brown-paper-bags-lunch"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/coles-smart-buy-brown-paper-bags-lunch"
+  ],
+  "sku": "4485105",
+  "updatedAt": "2022-11-24T06:58:14.704Z"
+}

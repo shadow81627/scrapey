@@ -1,0 +1,64 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Dosage form: Tablet, film coated Quantity: 200 tablets Active ingredient per tablet: Glucosamine hydrochloride 1500 mg (1.5 g) Derived from seafood. Contains soya, and crustacean products."
+    },
+    {
+      "name": "Contains",
+      "value": "Contains soya, and crustacean products. 200 tablets"
+    },
+    {
+      "name": "Warning",
+      "value": "Derived from seafood. Contains crustacean products and soya bean products and sulfites. Store below 25C. Protect from moisture. Do not use if tamper evident seal is broken or missing."
+    },
+    {
+      "name": "Size",
+      "value": "200 pack"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$20.00 per 100Ea"
+    }
+  ],
+  "brand": "Nature's Way",
+  "createdAt": "2022-11-24T07:05:47.670Z",
+  "description": "Nature's Way Glucosamine 1500mg Tablets",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/6/5/4/6542083.jpg",
+    "width": 300
+  },
+  "name": "Glucosamine 1500mg Tablets",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 40,
+    "lowPrice": 40,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T07:05:47.668Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "40.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/natures-way-tabs-glucosamine-1500mg"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/natures-way-tabs-glucosamine-1500mg"
+  ],
+  "sku": "6542083",
+  "updatedAt": "2022-11-24T07:05:47.669Z"
+}

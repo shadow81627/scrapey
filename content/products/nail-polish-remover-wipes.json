@@ -1,0 +1,56 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": " Propylene Carbonate, Aqua, Polysorbate 20, Parfum, Propylene Glycol, Phenoxyethanol, Sodium Benzoate, Potassium Sorbate, Tocopheryl Acetate, Panthenol, Denatonium Benzoate."
+    },
+    {
+      "name": "Size",
+      "value": "25 pack"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.08 per 1Ea"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2022-11-24T07:07:03.710Z",
+  "description": "Remove your nail polish with Coles Acetone Free Nail Polish Remove Wipes. Contains Provitamin B5 and E25.",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/5/3/3535525.jpg",
+    "width": 300
+  },
+  "name": "Nail Polish Remover Wipes",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2,
+    "lowPrice": 2,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T07:07:03.709Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "2.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-nail-polish-remover-wipes"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/coles-nail-polish-remover-wipes"
+  ],
+  "sku": "3535525",
+  "updatedAt": "2022-11-24T07:07:03.710Z"
+}

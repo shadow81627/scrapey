@@ -1,0 +1,68 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "INGREDIENTS: Sugar, Whole Milk Powder, Cocoa Butter^, Cocoa Mass^, Emulsifier (Soy Lecithin), Natural Vanilla Flavour, Natural Colours (Carmine, Curcumin, Paprika Extract)."
+    },
+    {
+      "name": "Allergen",
+      "value": "Contains SOY, May Contain TREE NUTS, Contains MILK"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "1.0"
+    },
+    {
+      "name": "Size",
+      "value": "55g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$3.64 per 100G"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Made in Belgium"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2022-11-24T07:03:07.687Z",
+  "description": "Coles Belgian Milk Chocolate Characters",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/5/1/3518264.jpg",
+    "width": 300
+  },
+  "name": "Belgian Milk Chocolate Characters",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2,
+    "lowPrice": 2,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T07:03:07.686Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "2.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/santa-chocolate"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/santa-chocolate"
+  ],
+  "sku": "3518264",
+  "updatedAt": "2022-11-24T07:03:07.686Z"
+}

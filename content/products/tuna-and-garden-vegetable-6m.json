@@ -1,0 +1,64 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Vegetables (31%) (Carrot, Tomato, Onion), Cooking Water, Reconstituted Tomato Puree, Rice (6%), Tuna (5%), Olive Oil, Canola Oil, Parsley (0.1%), Lemon Juice."
+    },
+    {
+      "name": "Dietary",
+      "value": "No Added Sugars, No Preservatives, No Artificial Flavours or Colours, No Added Salt"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "1.0"
+    },
+    {
+      "name": "Size",
+      "value": "120g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.67 per 100G"
+    }
+  ],
+  "brand": "Rafferty's Garden",
+  "createdAt": "2022-11-24T07:01:29.803Z",
+  "description": "Our Tuna & Garden Vegetables pouch is a tasty meal option when you're ready to introduce your little one to fish. With nutritious tuna and veggies, this puree is a source of protein and is perfect when trying to expand your baby's palate to different tastes and textures.",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/7/6/3766448.jpg",
+    "width": 300
+  },
+  "name": "Tuna & Garden Vegetable 6M+",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2,
+    "lowPrice": 2,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T07:01:29.802Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "2.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/rafferty-s-garden-tuna-garden-vegetable"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/rafferty-s-garden-tuna-garden-vegetable"
+  ],
+  "sku": "3766448",
+  "updatedAt": "2022-11-24T07:01:29.802Z"
+}

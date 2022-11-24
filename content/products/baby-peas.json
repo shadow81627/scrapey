@@ -1,0 +1,64 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "INGREDIENTS: Peas (62%), Water, Salt, Sugar."
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "3.0"
+    },
+    {
+      "name": "Size",
+      "value": "420g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$3.57 per 1Kg"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Product of France"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2022-11-24T06:55:22.225Z",
+  "description": "Sweet and Tender",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/4/3/5433162.jpg",
+    "width": 300
+  },
+  "name": "Baby Peas",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 1.5,
+    "lowPrice": 1.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T06:55:22.223Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "1.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-peas-baby"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/coles-peas-baby"
+  ],
+  "sku": "5433162",
+  "updatedAt": "2022-11-24T06:55:22.223Z"
+}

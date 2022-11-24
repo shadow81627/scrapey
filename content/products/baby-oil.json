@@ -1,0 +1,64 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": " Mineral Oil, Fragrance."
+    },
+    {
+      "name": "Warning",
+      "value": "Household Warnings: KEEP OUT OF REACH OF CHILDREN"
+    },
+    {
+      "name": "Size",
+      "value": "500mL"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.60 per 100mL"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Packed in Australia from imported and local ingredients"
+    }
+  ],
+  "brand": "CUB",
+  "createdAt": "2022-11-24T07:03:34.807Z",
+  "description": "We're here to help you protect and care for your little cub as they play, learn and grow. Ideal for a gentle massage and to keep your cubs skin soft and moisturised.",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/5/0/3506833.jpg",
+    "width": 300
+  },
+  "name": "Baby Oil",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3,
+    "lowPrice": 3,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T07:03:34.807Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "3.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/cub-baby-oil-crc"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/cub-baby-oil-crc"
+  ],
+  "sku": "3506833",
+  "updatedAt": "2022-11-24T07:03:34.807Z"
+}

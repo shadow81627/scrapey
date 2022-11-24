@@ -1,0 +1,52 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "25 pack"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.09 per 1Ea"
+    }
+  ],
+  "brand": "Hercules",
+  "createdAt": "2022-11-24T06:58:40.884Z",
+  "description": "Large sandwich twin zip storage bags. Double seal, stronger and fresher. Hercules storage bags are freezer safe, microwave safe and BPA free.",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/1/8/5185843.jpg",
+    "width": 300
+  },
+  "name": "Twinzip Sandwich Bags Large 22cm x 22cm",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2.25,
+    "lowPrice": 2.25,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T06:58:40.883Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "2.25",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/hercules-twin-zip-sandwich-bags-large"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/hercules-twin-zip-sandwich-bags-large"
+  ],
+  "sku": "5185843",
+  "updatedAt": "2022-11-24T06:58:40.883Z"
+}

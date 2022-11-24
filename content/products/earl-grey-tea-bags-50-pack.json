@@ -1,0 +1,64 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "INGREDIENTS: Black Tea*, Bergamot Flavour."
+    },
+    {
+      "name": "Ethical",
+      "value": "Fair Trade"
+    },
+    {
+      "name": "Size",
+      "value": "92.5g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$2.38 per 100G"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Blended and Packed in Australia from Imported Ingredients"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2022-11-24T07:02:51.125Z",
+  "description": "Coles Earl Grey Tea Bags 50 pack a refreshing flavoured tea to be enjoyed with breakfast or on your tea break",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/7/4/4/7443190.jpg",
+    "width": 300
+  },
+  "name": "Earl Grey Tea Bags 50 Pack",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2.2,
+    "lowPrice": 2.2,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T07:02:51.124Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "2.20",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-brand-tea-bags-earl-grey-fairtrade-organic"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/coles-brand-tea-bags-earl-grey-fairtrade-organic"
+  ],
+  "sku": "7443190",
+  "updatedAt": "2022-11-24T07:02:51.124Z"
+}

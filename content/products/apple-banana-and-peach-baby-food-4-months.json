@@ -1,0 +1,64 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Apple (60%), Banana (30%), Peach (10%), <0.5% Fruit Acid (Citric Acid)."
+    },
+    {
+      "name": "Dietary",
+      "value": "No Added Sugars, No Preservatives, No Artificial Flavours or Colours, No Added Salt"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "1.0"
+    },
+    {
+      "name": "Size",
+      "value": "120g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.67 per 100G"
+    }
+  ],
+  "brand": "Rafferty's Garden",
+  "createdAt": "2022-11-24T06:59:09.400Z",
+  "description": "Rafferty's Garden Apple Banana & Peach Baby Food 4+ Months",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/8/9/7/8971885.jpg",
+    "width": 300
+  },
+  "name": "Apple Banana & Peach Baby Food 4+ Months",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2,
+    "lowPrice": 2,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T06:59:09.398Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "2.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/raffertys-garden-4-months-baby-food-apple-banana-peach"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/raffertys-garden-4-months-baby-food-apple-banana-peach"
+  ],
+  "sku": "8971885",
+  "updatedAt": "2022-11-24T06:59:09.398Z"
+}

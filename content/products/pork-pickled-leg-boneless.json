@@ -1,0 +1,56 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "INGREDIENTS: Sow Stall Free Australian Pork (75%), Pickling Brine [Water, Salt, Sugar, Mineral Salts (451, Sodium Carbonates), Dextrose, Antioxidant (316), Preservative (250), Yeast Extract, Natural Flavouring]."
+    },
+    {
+      "name": "Size",
+      "value": "approx. 800g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$13.00 per 1Kg"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2022-11-24T07:01:59.736Z",
+  "description": "Coles Pork Pickled Leg Boneless",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/3/0/3302607.jpg",
+    "width": 300
+  },
+  "name": "Pork Pickled Leg Boneless",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 10.4,
+    "lowPrice": 10.4,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T07:01:59.734Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "10.40",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-pork-pickled-leg-boneless"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/coles-pork-pickled-leg-boneless"
+  ],
+  "sku": "3302607",
+  "updatedAt": "2022-11-24T07:01:59.734Z"
+}

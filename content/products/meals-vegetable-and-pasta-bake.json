@@ -1,0 +1,64 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Vegetable Sauce (Tomatoes, Vegetables (Onion, Carrot (2.5%), Red Capsicum (1%)), Water, Tomato Paste, Cheese, Sundried Tomatoes, Apple Juice Concentrate, Cornflour, Spices, Herbs), Cooked Pasta (28%) (Wheat Semolina, Water), Cheese (3.5%) (Parmesan, Cheddar, Mozzarella).Contains 33% Tomatoes."
+    },
+    {
+      "name": "Allergen",
+      "value": "Contains Cereals, May Contain Peanuts, Contains Wheat, May Contain Tree Nuts, Contains Milk"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "1.0"
+    },
+    {
+      "name": "Size",
+      "value": "200g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.75 per 100G"
+    }
+  ],
+  "brand": "Annabel Karmel",
+  "createdAt": "2022-11-24T06:59:36.566Z",
+  "description": "Prepared, cooked and frozen at the peak of freshness, Annabels newly refreshed recipes lock-in that all-important natural goodness and count towards their 5-a-day. Ready in under 5 ½ minutes, its now even easier to serve-up a tasty and balanced meals in a flash, straight from your freezer.",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/3/1/2313357.jpg",
+    "width": 300
+  },
+  "name": "Meals Vegetable And Pasta Bake",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3.5,
+    "lowPrice": 3.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T06:59:36.546Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "3.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/annabel-karmel-frozen-vegie-pasta-bake"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/annabel-karmel-frozen-vegie-pasta-bake"
+  ],
+  "sku": "2313357",
+  "updatedAt": "2022-11-24T06:59:36.546Z"
+}

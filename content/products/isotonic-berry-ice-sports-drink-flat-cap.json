@@ -1,0 +1,60 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Water, Sucrose, Minerals (Potassium Citrate, Magnesium Sulphate, Calcium Chloride, Sodium Citrate, Sodium Chloride, Potassium Phosphate), Food Acid (330), Flavour, Colour (129), Sweetener (955)."
+    },
+    {
+      "name": "Size",
+      "value": "1.5L"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$2.60 per 1L"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Made in Australia from imported and local ingredients"
+    }
+  ],
+  "brand": "Powerade",
+  "createdAt": "2022-11-24T06:56:50.454Z",
+  "description": "Powerade Isotonic Berry Ice Sports Drink Flat Cap",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/0/3/3038928.jpg",
+    "width": 300
+  },
+  "name": "Isotonic Berry Ice Sports Drink Flat Cap",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3.9,
+    "lowPrice": 3.9,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T06:56:50.452Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "3.90",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/powerade-sports-15l-value-drink-berry-ice"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/powerade-sports-15l-value-drink-berry-ice"
+  ],
+  "sku": "3038928",
+  "updatedAt": "2022-11-24T06:56:50.453Z"
+}
