@@ -45,7 +45,7 @@ export default class ContentService {
       JSON.stringify(deepSort({ ...oldData, updatedAt: undefined })) ===
       JSON.stringify(deepSort({ ...data, updatedAt: undefined }));
     if (same) {
-      data.updatedAt = oldData.updatedAt;
+      return;
     }
     return await writeFile(
       dataPath,
