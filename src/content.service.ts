@@ -38,6 +38,9 @@ export default class ContentService {
           }),
         )
       : {};
+    if (oldData.createdAt) {
+      data.createdAt = oldData.createdAt;
+    }
     const same =
       JSON.stringify(deepSort({ ...oldData, updatedAt: undefined })) ===
       JSON.stringify(deepSort({ ...data, updatedAt: undefined }));
