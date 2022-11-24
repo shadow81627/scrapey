@@ -42,11 +42,16 @@ export default async function colesNationalReplaceUrls(): Promise<void> {
           await connection.manager.save(link);
         }
       }
-      if (link.canonical && link.canonical.id && link.canonical.id !== link.id) {
+      if (
+        (link.canonical &&
+          link.canonical.id &&
+          link.canonical.id !== link.id) ||
+        link.id !== canonicalId
+      ) {
         linksToDelete.push(link);
       }
     }
   }
-  console.log('soft delete', linksToDelete.length, 'duplicate links')
+  console.log('soft delete', linksToDelete.length, 'duplicate links');
   await connection.manager.softRemove(linksToDelete);
 }
