@@ -1,0 +1,52 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "1 pack"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$6.50 per 1Ea"
+    }
+  ],
+  "brand": "Sally Hansen",
+  "createdAt": "2022-11-24T07:16:15.458Z",
+  "description": "Say goodbye to jagged edges and hangnails with one quick clip.Wider blade.Contoured handle for controlled grip.No-mess clippings catcher.Stainless steel.Sharp, curved blade.",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/8/9/1/8917802.jpg",
+    "width": 300
+  },
+  "name": "Clip 'N Catch Nail Clippers",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 6.5,
+    "lowPrice": 6.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T07:16:15.457Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "6.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/sally-hansen-nail-clippers-clipn-catch"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/sally-hansen-nail-clippers-clipn-catch"
+  ],
+  "sku": "8917802",
+  "updatedAt": "2022-11-24T07:16:15.457Z"
+}

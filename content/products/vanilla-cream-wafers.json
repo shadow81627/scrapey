@@ -1,0 +1,68 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "  Cream (65%) [Sugar, Vegetable Fat (Hydrogenated Coconut Oil), Wheat Cornflour, Non Fat Milk Solids, Emulsifier (Soy Lecithin), Natural Vanilla Flavour, Salt], Wafer [Wheat Flour, Wheat Cornflour, Emulsifier (Soy Lecithin), Vegetable Fat (Hydrogenated Coconut Oil), Salt, Raising Agent (500)].  "
+    },
+    {
+      "name": "Allergen",
+      "value": "Contains SOY, Contains Wheat, Contains CEREALS CONTAINING GLUTEN, Contains MILK"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "10.0"
+    },
+    {
+      "name": "Size",
+      "value": "125g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.44 per 100G"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Made in New Zealand from imported and Australian ingredients"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2022-11-24T07:25:56.181Z",
+  "description": "Vanilla Flavoured Cream Wafers, 125g. A delicious afternoon tea snack perfect for the whole family.",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/1/3/8/1389783.jpg",
+    "width": 300
+  },
+  "name": "Vanilla Cream Wafers",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 0.55,
+    "lowPrice": 0.55,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T07:25:56.180Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "0.55",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-cream-wafers-vanilla"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/coles-cream-wafers-vanilla"
+  ],
+  "sku": "1389783",
+  "updatedAt": "2022-11-24T07:25:56.180Z"
+}

@@ -1,0 +1,64 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Milk (41%), Water, Cream (18%), Bacon (10%) (Pork, Water, Salt, Sugar, Cure (Mineral Salts (451, 450), Antioxidant (316), Preservative (250)), Wood Smoke), Parmesan Cheese (2.5%), Onion, Modified Corn Starch (1422), Flavour, Salt, Preservative (contains Acidity Regulator (Sodium Diacetate), Egg Lysozyme, Nisin), Garlic, Parsley (0.2%), Food Acid (Glucono Delta-Lactone), Black Pepper"
+    },
+    {
+      "name": "Allergen",
+      "value": "Contains Egg, Contains Wheat, Contains Milk"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "4.0"
+    },
+    {
+      "name": "Size",
+      "value": "425g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.06 per 100G"
+    }
+  ],
+  "brand": "Latina",
+  "createdAt": "2022-11-24T08:19:50.201Z",
+  "description": "A creamy classic, with fresh Australian milk and cream our Latina Fresh carbonara makes any pasta dish perfect.",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/4/0/5404109.jpg",
+    "width": 300
+  },
+  "name": "Fresh Creamy Carbonara Pasta Sauce",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 4.5,
+    "lowPrice": 4.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T08:19:50.200Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "4.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/latina-fresh-pasta-sauce-creamy-carbonara-5404109p"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/latina-fresh-pasta-sauce-creamy-carbonara-5404109p"
+  ],
+  "sku": "5404109",
+  "updatedAt": "2022-11-24T08:19:50.200Z"
+}

@@ -1,0 +1,52 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "3 pack"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$5.42 per 100Ea"
+    }
+  ],
+  "brand": "Huggies",
+  "createdAt": "2022-11-24T08:07:38.573Z",
+  "description": "Huggies Thick Baby Wipes Coconut Oil 3x80",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/9/1/2917005.jpg",
+    "width": 300
+  },
+  "name": "Thick Baby Wipes Coconut Oil 3x80",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 13,
+    "lowPrice": 13,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T08:07:38.571Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "13.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/huggies-baby-wipes-coconut-2917005p"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/huggies-baby-wipes-coconut-2917005p"
+  ],
+  "sku": "2917005",
+  "updatedAt": "2022-11-24T08:07:38.571Z"
+}

@@ -1,0 +1,64 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "French Style Lentils"
+    },
+    {
+      "name": "Allergen",
+      "value": "May Contain Barley, May Contain Gluten, May Contain Wheat, May Contain Lupin, May Contain Oats, May Contain Soybean, May Contain Rye"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "7.5"
+    },
+    {
+      "name": "Size",
+      "value": "375g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.99 per 100G"
+    }
+  ],
+  "brand": "McKenzie's",
+  "createdAt": "2022-11-24T08:09:56.613Z",
+  "description": "McKenzie's French Style Black Lentils",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/6/2/8/6288116.jpg",
+    "width": 300
+  },
+  "name": "French Style Black Lentils",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3.7,
+    "lowPrice": 3.7,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T08:09:56.612Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "3.70",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/mckenzies-lentils-french-style-green"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/mckenzies-lentils-french-style-green"
+  ],
+  "sku": "6288116",
+  "updatedAt": "2022-11-24T08:09:56.612Z"
+}

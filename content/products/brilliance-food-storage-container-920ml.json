@@ -1,0 +1,48 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Unit Price",
+      "value": "$11.50 per 1Ea"
+    }
+  ],
+  "brand": "Sistema",
+  "createdAt": "2022-11-24T07:30:23.404Z",
+  "description": "Sistema Brilliance Food Storage Container 920mL",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/1/9/3190241.jpg",
+    "width": 300
+  },
+  "name": "Brilliance Food Storage Container 920mL",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 11.5,
+    "lowPrice": 11.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T07:30:23.403Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "11.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/sistema-brilliance-premium-food-storage-3190241p"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/sistema-brilliance-premium-food-storage-3190241p"
+  ],
+  "sku": "3190241",
+  "updatedAt": "2022-11-24T07:30:23.403Z"
+}

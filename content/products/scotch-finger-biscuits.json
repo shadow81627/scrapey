@@ -1,0 +1,76 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Wheat Flour, Sugar, Butter (Cream (from Milk), Salt), Vegetable Oil, Condensed Milk, Salt, Eggs, Baking Powder, Emulsifier (Soy Lecithin), Antioxidant (E307b from Soy)."
+    },
+    {
+      "name": "Contains",
+      "value": "Egg, Gluten containing Cereals (Wheat), Milk and Soy."
+    },
+    {
+      "name": "Allergen",
+      "value": "Contains Cereals Containing Gluten, May Be Present Sesame, May Be Present Peanuts, Contains Egg, Contains Wheat, May Be Present Tree Nuts, Contains Soy, Contains Milk"
+    },
+    {
+      "name": "Dietary",
+      "value": "No Preservatives"
+    },
+    {
+      "name": "Warning",
+      "value": "Do not purchase if pack is open or torn."
+    },
+    {
+      "name": "Size",
+      "value": "250g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.92 per 100G"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Made in Australia"
+    }
+  ],
+  "brand": "Arnott's",
+  "createdAt": "2022-11-24T07:40:34.025Z",
+  "description": "Arnott's Scotch Finger Biscuits",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/2/9/329174.jpg",
+    "width": 300
+  },
+  "name": "Scotch Finger Biscuits",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2.3,
+    "lowPrice": 2.3,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T07:40:34.022Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "2.30",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/arnotts-biscuits-scotch-finger"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/arnotts-biscuits-scotch-finger"
+  ],
+  "sku": "329174",
+  "updatedAt": "2022-11-24T07:40:34.022Z"
+}

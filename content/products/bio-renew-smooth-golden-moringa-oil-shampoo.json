@@ -1,0 +1,56 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Water, Sodium Laureth Sulfate, Sodium Citrate, Cocamidopropyl Betaine, Stearyl Alcohol, Sodium Lauryl Sulfate, Sodium Chloride, Citric Acid, Sodium Xylenesulfonate, Fragrance, Cetyl Alcohol, Sodium Benzoate, Guar Hydroxypropyltrimonium Chloride, Polyquaternium-6, Tetrasodium EDTA, Trihydroxystearin, Histidine, Butylene Glycol, Aloe Barbadensis Leaf Juice, Moringa Oleifera Seed Oil, Alcohol Denat., Methylchloroisothiazolinone, Methylisothiazolinone, Ecklonia Radiata Extract"
+    },
+    {
+      "name": "Size",
+      "value": "400mL"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.50 per 100mL"
+    }
+  ],
+  "brand": "Herbal Essences",
+  "createdAt": "2022-11-24T07:36:41.837Z",
+  "description": "Herbal Essences Bio Renew Smooth Golden Moringa Oil Shampoo",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/0/0/3004868.jpg",
+    "width": 300
+  },
+  "name": "Bio Renew Smooth Golden Moringa Oil Shampoo",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 6,
+    "lowPrice": 6,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T07:36:41.836Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "6.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/herbal-essences-smooth-golden-moringa-oil-shampoo"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/herbal-essences-smooth-golden-moringa-oil-shampoo"
+  ],
+  "sku": "3004868",
+  "updatedAt": "2022-11-24T07:36:41.836Z"
+}

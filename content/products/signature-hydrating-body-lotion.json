@@ -1,0 +1,56 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Water (Aqua), Aloe Barbadensis Leaf Juice, Sesamum Indicum (Sesame) Seed Oil, Cetearyl Alcohol, Cetyl Alcohol, Glycerin, Ceteareth-20, Rosa Canina Fruit Oil (Rosehip), Theobroma Cacao (Cocoa) Seed Butter, Butyrospermum Parkii (Shea) Butter, Simmondsia Chinensis (Jojoba) Seed Oil, Persea Gratissima (Avocado) Oil, Triticum Vulgare (Wheat) Germ Oil, Tocopherol (Vitamin E), Equisetum Arvense Extract (Horsetail), Arctium Lappa Root Extract (Burdock), Urtica Dioica (Nettle) Leaf Extract, Citrus Tangerina (Tangerine) Peel Oil, Citrus Nobilis (Mandarin Orange) Peel Oil, Citrus Aurantifolia (Lime) Oil, Lavandula Angustifolia (Lavender) Oil, Vanillin, Vanilla Planifolia Fruit Extract, Citrus Paradisi (Grapefruit) Seed Extract, Phenoxyethanol, Benzyl Alcohol, Limonene*, Linalool*.* Natural component of essential oils."
+    },
+    {
+      "name": "Size",
+      "value": "500mL"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.60 per 100mL"
+    }
+  ],
+  "brand": "Sukin",
+  "createdAt": "2022-11-24T08:09:01.734Z",
+  "description": "Sukin Signature Hydrating Body Lotion",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/9/9/2994630.jpg",
+    "width": 300
+  },
+  "name": "Signature Hydrating Body Lotion",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 8,
+    "lowPrice": 8,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T08:09:01.733Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "8.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/sukin-hydrating-body-lotion"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/sukin-hydrating-body-lotion"
+  ],
+  "sku": "2994630",
+  "updatedAt": "2022-11-24T08:09:01.733Z"
+}

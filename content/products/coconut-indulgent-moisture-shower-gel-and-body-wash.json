@@ -1,0 +1,60 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Aqua, Sodium Laureth Sulfate, Cocamidopropyl Betaine, PEG-7 Glyceryl Cocoate, Parfum, Simmondsia Chinensis Seed Oil, Glycerin, Sodium Chloride, PEG-3 Distearate, Citric Acid, PEG-40 Hydrogenated Castor Oil, PEG-200 Hydrogenated Glyceryl Palmate, Sodium Benzoate, Benzyl Alcohol, Limonene"
+    },
+    {
+      "name": "Warning",
+      "value": "_NULL"
+    },
+    {
+      "name": "Size",
+      "value": "1L"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.45 per 100mL"
+    }
+  ],
+  "brand": "Nivea",
+  "createdAt": "2022-11-24T07:40:27.789Z",
+  "description": "Nivea Coconut Indulgent Moisture Shower Gel and Body Wash",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/2/2/3227206.jpg",
+    "width": 300
+  },
+  "name": "Coconut Indulgent Moisture Shower Gel and Body Wash",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 14.5,
+    "lowPrice": 14.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T07:40:27.788Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "14.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/nivea-shower-indulgent-moisture-coconut"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/nivea-shower-indulgent-moisture-coconut"
+  ],
+  "sku": "3227206",
+  "updatedAt": "2022-11-24T07:40:27.788Z"
+}

@@ -1,0 +1,56 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "155g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$2.03 per 100G"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Made in Australia"
+    }
+  ],
+  "brand": "Leda",
+  "createdAt": "2022-11-24T07:37:37.894Z",
+  "description": "Leda Nutrition Gingernut Gluten Free Cookies",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/6/4/3/6430104.jpg",
+    "width": 300
+  },
+  "name": "Nutrition Gingernut Gluten Free Cookies",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3.15,
+    "lowPrice": 3.15,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T07:37:37.893Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "3.15",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/leda-nutrition-cookies-gingernut-gluten-free"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/leda-nutrition-cookies-gingernut-gluten-free"
+  ],
+  "sku": "6430104",
+  "updatedAt": "2022-11-24T07:37:37.893Z"
+}

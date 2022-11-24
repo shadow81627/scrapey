@@ -1,0 +1,56 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "PEG-180M, PEG-100, Silica, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, Tris(Di-T-Butyl)Phosphite, BHT, Glycol"
+    },
+    {
+      "name": "Warning",
+      "value": "Keep out of reach of children. Do not move the shaver horizontally. Do not touch the tip of the blade with your hands to prevent injury / cuts"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$15.00 per 1Ea"
+    }
+  ],
+  "brand": "Gillette",
+  "createdAt": "2022-11-24T07:36:02.747Z",
+  "description": "Gillette Mach3 3D Turbo Razor",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/7/9/3793633.jpg",
+    "width": 300
+  },
+  "name": "Mach3 3D Turbo Razor",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 15,
+    "lowPrice": 15,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T07:36:02.746Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "15.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/gillette-mach3-3d-turbo-turbo-razor"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/gillette-mach3-3d-turbo-turbo-razor"
+  ],
+  "sku": "3793633",
+  "updatedAt": "2022-11-24T07:36:02.746Z"
+}

@@ -1,0 +1,48 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Unit Price",
+      "value": "$3.20 per 1Ea"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2022-11-24T07:13:21.227Z",
+  "description": "Often used in soups, slow-roasted meats or hot drinks. STORAGE: To prolong the life of fresh herbs, wrap them loosely in a damp paper towel and store the bundle in a container in the fridge",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/4/5/7/4575650.jpg",
+    "width": 300
+  },
+  "name": "Lemongrass",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3.2,
+    "lowPrice": 3.2,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T07:13:21.225Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "3.20",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/herbs-lemongrass-sleeved"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/herbs-lemongrass-sleeved"
+  ],
+  "sku": "4575650",
+  "updatedAt": "2022-11-24T07:13:21.225Z"
+}

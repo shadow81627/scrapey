@@ -1,0 +1,72 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Organic Pasteurised Cow's Milk, Salt, Microbial (Non-Animal) Rennet."
+    },
+    {
+      "name": "Contains",
+      "value": "Milk."
+    },
+    {
+      "name": "Allergen",
+      "value": "May Be Present Peanuts, May Be Present Tree Nuts, Contains Milk"
+    },
+    {
+      "name": "Dietary",
+      "value": "No Preservatives"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "6.0"
+    },
+    {
+      "name": "Size",
+      "value": "180g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$35.00 per 1Kg"
+    }
+  ],
+  "brand": "Lemnos",
+  "createdAt": "2022-11-24T07:14:05.146Z",
+  "description": "Lemnos Dy Organic Cheese Haloumi, 180g. Made with cows milk from certified organic farms. Grill, fry or bake.",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/4/9/9/4998880.jpg",
+    "width": 300
+  },
+  "name": "Dairy Organic Haloumi Cheese",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 6.3,
+    "lowPrice": 6.3,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T07:14:05.144Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "6.30",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/lemnos-cheese-haloumi-organic"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/lemnos-cheese-haloumi-organic"
+  ],
+  "sku": "4998880",
+  "updatedAt": "2022-11-24T07:14:05.145Z"
+}

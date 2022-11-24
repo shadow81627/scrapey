@@ -1,0 +1,64 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "INGREDIENTS: ;Tomatoes (78%) [Reconstituted Puree, Diced Tomato, Acidity Regulator (Citric Acid)], Vegetables (17%) (Onion, Carrot, Roasted Capsicum, Pumpkin, Roasted Eggplant, Celery), Canola Oil, Salt, Corn Flour, Garlic, Pepper, Herbs (Basil, Oregano, Parsley)."
+    },
+    {
+      "name": "Allergen",
+      "value": "May Be Present TREE NUTS"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "4.0"
+    },
+    {
+      "name": "Size",
+      "value": "500g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.60 per 100G"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2022-11-24T07:13:44.675Z",
+  "description": "Helps support children in hospitals in Australia",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/5/0/3508690.jpg",
+    "width": 300
+  },
+  "name": "Mum's Sause Garden Veg",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3,
+    "lowPrice": 3,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T07:13:44.674Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "3.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-mums-sause-garden-veg"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/coles-mums-sause-garden-veg"
+  ],
+  "sku": "3508690",
+  "updatedAt": "2022-11-24T07:13:44.674Z"
+}

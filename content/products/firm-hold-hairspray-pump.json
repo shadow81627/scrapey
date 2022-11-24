@@ -1,0 +1,60 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Alcohol Denat., Butane, Isobutane, Propane, Octylacrylamide/Acrylates/Butylaminoethyl Methacrylate Copolymer, Vinyl Caprolactam/Vp/Dimethylaminoethyl Methacrylate Copolymer, Polyvinylcaprolactam, Peg-12 Dimethicone, Peg-12 Monoallyl Ether, Aminomethyl Propanol, Peg-12, Benzophenone-4."
+    },
+    {
+      "name": "Contains",
+      "value": "200ml"
+    },
+    {
+      "name": "Size",
+      "value": "200mL"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$2.00 per 100mL"
+    }
+  ],
+  "brand": "VO5",
+  "createdAt": "2022-11-24T07:17:54.902Z",
+  "description": "VO5 Firm Hold Hairspray Pump",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/9/2/7/9277375.jpg",
+    "width": 300
+  },
+  "name": "Firm Hold Hairspray Pump",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 4,
+    "lowPrice": 4,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T07:17:54.901Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "4.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/advanced-v05-hairspray-pump-firm-hold"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/advanced-v05-hairspray-pump-firm-hold"
+  ],
+  "sku": "9277375",
+  "updatedAt": "2022-11-24T07:17:54.901Z"
+}

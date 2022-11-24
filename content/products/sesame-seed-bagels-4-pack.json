@@ -1,0 +1,72 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Wheat Flour, Water, Bagel Base [Sugar, Enriched Wheat Flour, Malted Barley Flour, Emulsifier (Mono- and Diglycerides), Wheat Gluten, Firming Agent (Calcium Sulfate), Antioxidant (Ascorbic Acid), Salt, Enzymes], Sesame Seed (4%), Cornmeal, Wheat Gluten, Vinegar, Iodised Salt, Yeast, Dough Conditioner [Wheat Flour, Firming Agent (Calcium Sulfate), Salt, Enzymes (contains Wheat)], Acidity Regulator (Calcium Acetate)."
+    },
+    {
+      "name": "Allergen",
+      "value": "Contains Gluten, Contains Wheat, Contains Barley"
+    },
+    {
+      "name": "Dietary",
+      "value": "No Artificial Flavours or Colours"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "4.0"
+    },
+    {
+      "name": "Size",
+      "value": "360g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.53 per 100G"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Made in New Zealand"
+    }
+  ],
+  "brand": "Abe's Bagels",
+  "createdAt": "2022-11-24T07:20:04.933Z",
+  "description": "Cheeky sesame seeds, deployed on a pristine bagel for just the right amount of knock-out nuttiness.Always toast! Top with avo, eggs, bacon...or whatever tickles your fancy!- No artificial colours or flavours- Vegan friendly",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/9/0/2901989.jpg",
+    "width": 300
+  },
+  "name": "Sesame Seed Bagels 4 Pack",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 5.5,
+    "lowPrice": 5.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T07:20:04.932Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "5.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/abes-bagels-sesame-seed"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/abes-bagels-sesame-seed"
+  ],
+  "sku": "2901989",
+  "updatedAt": "2022-11-24T07:20:04.932Z"
+}

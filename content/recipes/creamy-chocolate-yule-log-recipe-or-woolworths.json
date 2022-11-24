@@ -1,72 +1,82 @@
 {
   "@type": "Recipe",
+  "author": {
+    "@type": "Person",
+    "name": "Produced for Woolworths"
+  },
   "cookTime": "PT10M",
-  "createdAt": "2022-11-22T12:37:11.510Z",
-  "datePublished": "2022-04-11",
+  "createdAt": "2022-11-24T08:41:13.234Z",
+  "datePublished": "2022-08-03",
   "description": "A traditional festive Yule log with cream and chocolate.",
-  "image": "https://foodhub.scene7.com/is/image/woolworthsltdprod/338050?wid=3012&hei=3012&fmt=png-alpha",
-  "keywords": "Creamy Chocolate Yule Log",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1300,
+    "mime": "image/jpeg",
+    "url": "https://foodhub.scene7.com/is/image/woolworthsltdprod/338050:Square-1300x1300",
+    "width": 1300
+  },
+  "keywords": "Roulade,Chocolate",
   "name": "Creamy Chocolate Yule Log Recipe | Woolworths",
   "prepTime": "PT20M",
-  "recipeCategory": "desserts",
-  "recipeCuisine": "european",
+  "recipeCategory": "Desserts",
+  "recipeCuisine": "European",
   "recipeId": "RGWW338050",
   "recipeIngredient": [
-    "4 medium eggs",
+    "4 medium eggs, separated",
     "1 pinch salt",
-    "100 g caster sugar",
+    "100g caster sugar",
     "1 tsp baking powder",
-    "125 g flour",
-    "50 g pecans",
-    "120 g butter",
-    "200 g icing sugar",
+    "125g flour",
+    "50g pecans, crushed",
+    "120g butter",
+    "200g icing sugar, keep 40g for garnish",
     "1 tsp cinnamon",
-    "0.8 cup whipped cream",
-    "4 tbs cocoa powder"
+    "0.8 cup whipped cream, whipped",
+    "4 tbs cocoa powder, half for sponge and half for icing"
   ],
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Now layer the nutty cream over the sponge and roll over. Once rolled, cover with the icing mix, pipe or spreadh the butter cream and garnish with the pecans."
+      "HowToTip": {},
+      "text": "Pre-heat the oven to 200°C/180°C fan-forced. In a mixing bowl, beat the egg whites with the salt until peaks form."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Now layer the nutty cream over the sponge and roll over. Once rolled, cover with the icing mix, pipe or spreadh the butter cream and garnish with the pecans."
+      "HowToTip": {},
+      "text": "Introduce the caster sugar and half the cocoa slowly until peaks form again."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Now layer the nutty cream over the sponge and roll over. Once rolled, cover with the icing mix, pipe or spreadh the butter cream and garnish with the pecans."
+      "HowToTip": {},
+      "text": "Beat the egg yolks and mix then into the bowl. Incremently add the flour and baking powder and mix until combined fully."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Now layer the nutty cream over the sponge and roll over. Once rolled, cover with the icing mix, pipe or spreadh the butter cream and garnish with the pecans."
+      "HowToTip": {},
+      "text": "Prepare a deep baking tray with some babking paper and bake the dough for 10 minutes and then remove from the oven to cool."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Now layer the nutty cream over the sponge and roll over. Once rolled, cover with the icing mix, pipe or spreadh the butter cream and garnish with the pecans."
+      "HowToTip": {},
+      "text": "While this is cooking, prepare the icing by mixing the butter, icing and cinnamon together well."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Now layer the nutty cream over the sponge and roll over. Once rolled, cover with the icing mix, pipe or spreadh the butter cream and garnish with the pecans."
+      "HowToTip": {},
+      "text": "In a seperate bowl, whip the cream and combine with the crushed pecans."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
+      "HowToTip": {},
       "text": "Now layer the nutty cream over the sponge and roll over. Once rolled, cover with the icing mix, pipe or spreadh the butter cream and garnish with the pecans."
     }
   ],
   "recipeNameId": "creamy-chocolate-yule-log",
   "recipeYield": "8",
   "sameAs": [
-    "https://woolworths.com.au/shop/find-recipes/chocolate-yule-log"
+    "https://woolworths.com.au/shop/recipes/creamy-chocolate-yule-log"
   ],
   "totalTime": "PT30M",
-  "updatedAt": "2022-11-22T12:37:11.509Z",
+  "updatedAt": "2022-11-24T08:41:13.233Z",
   "url": "https://www.woolworths.com.au/shop/recipes/creamy-chocolate-yule-log"
 }

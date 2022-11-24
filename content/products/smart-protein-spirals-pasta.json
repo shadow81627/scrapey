@@ -1,0 +1,68 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Australian durum wheat semolina, wheat gluten, oat fibre"
+    },
+    {
+      "name": "Allergen",
+      "value": "Contains Gluten, May Be Present Egg, May Be Present Milk"
+    },
+    {
+      "name": "Dietary",
+      "value": "No Artificial Flavours or Colours"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "3.75"
+    },
+    {
+      "name": "Size",
+      "value": "375g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.67 per 100G"
+    }
+  ],
+  "brand": "Vetta",
+  "createdAt": "2022-11-24T08:15:05.936Z",
+  "description": "Vetta Smart Protein Spirals Pasta",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/1/6/9/1692985.jpg",
+    "width": 300
+  },
+  "name": "Smart Protein Spirals Pasta",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2.5,
+    "lowPrice": 2.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T08:15:05.935Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "2.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/vetta-smart-pasta-high-protein-low-carb-pasta-spirals"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/vetta-smart-pasta-high-protein-low-carb-pasta-spirals"
+  ],
+  "sku": "1692985",
+  "updatedAt": "2022-11-24T08:15:05.935Z"
+}

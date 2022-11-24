@@ -1,0 +1,52 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "250mL"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$2.00 per 100mL"
+    }
+  ],
+  "brand": "Original Source",
+  "createdAt": "2022-11-24T08:16:01.568Z",
+  "description": "We've waited 82 British sunrises for these raspberries to ripen before we squeezed them with vanilla into this recyclable bottle. This moisturising shower gel will leave your skin soft and smelling sweet. - Vegan - 100% recyclable bottle - Tested on us - Paraben Free",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/1/3/0/1303289.jpg",
+    "width": 300
+  },
+  "name": "Vanilla & Raspberry Shower Gel",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 5,
+    "lowPrice": 5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T08:16:01.566Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "5.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/original-source-shower-gel-milk-raspberry"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/original-source-shower-gel-milk-raspberry"
+  ],
+  "sku": "1303289",
+  "updatedAt": "2022-11-24T08:16:01.566Z"
+}

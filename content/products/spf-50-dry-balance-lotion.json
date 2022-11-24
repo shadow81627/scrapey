@@ -1,0 +1,52 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "175mL"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$10.29 per 100mL"
+    }
+  ],
+  "brand": "Banana Boat",
+  "createdAt": "2022-11-24T07:10:11.180Z",
+  "description": "Its formula combines broad spectrum UVA/UVB protection with a soft matte finish, leaving skin feeling fresh & dry.",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/9/9/2996883.jpg",
+    "width": 300
+  },
+  "name": "SPF 50+ Dry Balance Lotion",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 18,
+    "lowPrice": 18,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T07:10:11.177Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "18.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/banana-boat-dry-balance-spf-50-lotion"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/banana-boat-dry-balance-spf-50-lotion"
+  ],
+  "sku": "2996883",
+  "updatedAt": "2022-11-24T07:10:11.177Z"
+}

@@ -1,0 +1,64 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "INGREDIENTS: Almonds (100%)."
+    },
+    {
+      "name": "Allergen",
+      "value": "May Contain Gluten, May Contain Wheat, May Contain Pine, May Contain Walnut, May Contain Cashew, May Contain PEANUTS, May Contain Hazelnuts, May Contain Macadamia Nuts, Contains Almonds, May Contain Brazil Nuts, May Contain Pecan, May Contain Pistachios"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "13.0"
+    },
+    {
+      "name": "Size",
+      "value": "800g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$12.50 per 1Kg"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2022-11-24T07:23:56.447Z",
+  "description": "Almonds are a naturally good source of Vitamin E, an antioxidant that protects our cells from damage by free radicals",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/1/2/2123475.jpg",
+    "width": 300
+  },
+  "name": "Dry Roasted Almonds",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 10,
+    "lowPrice": 10,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T07:23:56.446Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "10.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-fresh-dry-roasted-almonds-prepacked"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/coles-fresh-dry-roasted-almonds-prepacked"
+  ],
+  "sku": "2123475",
+  "updatedAt": "2022-11-24T07:23:56.446Z"
+}

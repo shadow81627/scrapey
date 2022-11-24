@@ -1,0 +1,52 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "4.2g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$53.57 per 100G"
+    }
+  ],
+  "brand": "Chapstick",
+  "createdAt": "2022-11-24T07:44:38.844Z",
+  "description": "Chapstick Conditioner Lip Balm with SPF 15 for protection against sun damage and moisturising action to keep lips looking and feeling great every day! It provides sun protection that also soothes and moisturises to prevent dry, chapped lips.",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/7/3/3/7332199.jpg",
+    "width": 300
+  },
+  "name": "Conditioner Lip Balm",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2.25,
+    "lowPrice": 2.25,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T07:44:38.843Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "2.25",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/chapstick-lip-balm-conditioner"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/chapstick-lip-balm-conditioner"
+  ],
+  "sku": "7332199",
+  "updatedAt": "2022-11-24T07:44:38.843Z"
+}

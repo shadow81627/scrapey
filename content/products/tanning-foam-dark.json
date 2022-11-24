@@ -1,0 +1,56 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "AQUA (WATER), DIHYDROXYACETONE, PROPYLENE GLYCOL, TRIDECETH 9, ALOE BARBADENSIS LEAF JUICE, POLYSORBATE 20, PEG 5 ETHYLHEXANOATE, GLYCERIN, ETHOXYDIGLYCOL, BUTYLENE GLYCOL, PHENOXYETHANOL, PARFUM (FRAGRANCE), PEG 12 DIMETHICONE, CI 14700 (FD&C RED NO. 4), CI 19140 (FD&C YELLOW NO. 5), TOCOPHERYL ACETATE, DISODIUM EDTA, BENZYL ALCOHOL, PANTHENOL, CI 42090 (FD&C BLUE NO. 1)."
+    },
+    {
+      "name": "Size",
+      "value": "200mL"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$10.00 per 100mL"
+    }
+  ],
+  "brand": "Bondi Sands",
+  "createdAt": "2022-11-24T07:09:51.191Z",
+  "description": "Bondi Sands Tanning Foam Dark",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/4/6/2464727.jpg",
+    "width": 300
+  },
+  "name": "Tanning Foam Dark",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 20,
+    "lowPrice": 20,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T07:09:51.190Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "20.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/bondi-sands-tanning-foam-dark"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/bondi-sands-tanning-foam-dark"
+  ],
+  "sku": "2464727",
+  "updatedAt": "2022-11-24T07:09:51.190Z"
+}

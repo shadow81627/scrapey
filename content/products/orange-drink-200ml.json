@@ -1,0 +1,59 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Water, Reconstituted Orange juice (20%), Sugar, Acidity Regulator (Citric Acid), Natural flavours."
+    },
+    {
+      "name": "Dietary",
+      "value": "No Preservatives"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "1.0"
+    },
+    {
+      "name": "Size",
+      "value": "6 pack"
+    }
+  ],
+  "brand": "Prima",
+  "createdAt": "2022-11-24T07:47:22.100Z",
+  "description": "Prima Orange Drink 200mL",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/6/6/3/6631853.jpg",
+    "width": 300
+  },
+  "name": "Orange Drink 200mL",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": null,
+    "lowPrice": null,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/OutOfStock",
+        "availabilityStarts": "2022-11-24T07:47:22.098Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/prima-drink-orange-6-pack"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/prima-drink-orange-6-pack"
+  ],
+  "sku": "6631853",
+  "updatedAt": "2022-11-24T07:47:22.098Z"
+}

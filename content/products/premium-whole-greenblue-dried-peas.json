@@ -1,0 +1,64 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Australian Green (Blue) Dried Peas."
+    },
+    {
+      "name": "Allergen",
+      "value": "May Contain Gluten, May Contain Nuts"
+    },
+    {
+      "name": "Warning",
+      "value": "May contain traces of Nuts. May contain Stones, Husks, and Products with Gluten."
+    },
+    {
+      "name": "Size",
+      "value": "1kg"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$3.75 per 1Kg"
+    }
+  ],
+  "brand": "Gaganis",
+  "createdAt": "2022-11-24T08:20:34.564Z",
+  "description": "Gaganis Premium Whole Green/Blue Dried Peas",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/9/0/2/9027899.jpg",
+    "width": 300
+  },
+  "name": "Premium Whole Green/Blue Dried Peas",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3.75,
+    "lowPrice": 3.75,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T08:20:34.561Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "3.75",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/gaganis-peas-whole-green-blue"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/gaganis-peas-whole-green-blue"
+  ],
+  "sku": "9027899",
+  "updatedAt": "2022-11-24T08:20:34.561Z"
+}

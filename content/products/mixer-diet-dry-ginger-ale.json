@@ -1,0 +1,68 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "INGREDIENTS: ;Carbonated Water, ;Food Acid (330), Natural Flavour, Colour (150d), Sweeteners (951, 950), Preservative (223)."
+    },
+    {
+      "name": "Allergen",
+      "value": "Contains SULPHITES, Contains Phenylalanine"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "5.0"
+    },
+    {
+      "name": "Size",
+      "value": "1.25L"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.80 per 1L"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Made in Australia"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2022-11-24T08:07:26.160Z",
+  "description": "Low Joule Ginger Ale Flavoured Drink",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/1/8/5180486.jpg",
+    "width": 300
+  },
+  "name": "Mixer Diet Dry Ginger Ale",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 1,
+    "lowPrice": 1,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T08:07:26.153Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "1.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-mixer-dry-ginger-ale-diet"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/coles-mixer-dry-ginger-ale-diet"
+  ],
+  "sku": "5180486",
+  "updatedAt": "2022-11-24T08:07:26.153Z"
+}

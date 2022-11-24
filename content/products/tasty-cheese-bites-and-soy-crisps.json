@@ -1,0 +1,64 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "INGREDIENTS: Cheddar Cheese (56%) [Milk, Salt, Starter Culture, Vegetarian Rennet, Anti Caking Agent (460), Preservative (200)], Soy Crisps (44%) [Wheat Starch, Sunflower Oil, Soybeans, Sugar, Sea Salt, Onion Powder, Barley Malt Extract, Soy Sauce Powder, Garlic Powder, Chive Flakes]."
+    },
+    {
+      "name": "Allergen",
+      "value": "May Contain SESAME, May Contain EGG, May Contain PEANUTS, Contains SOY, Contains Wheat, May Contain TREE NUTS, Contains CEREALS CONTAINING GLUTEN, Contains Barley, Contains MILK"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "1.0"
+    },
+    {
+      "name": "Size",
+      "value": "45g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$5.11 per 100G"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2022-11-24T07:21:25.834Z",
+  "description": "Coles Dairy Tasty cheese bites and crunchy soy crisps, 45g. The perfect snack for on the go, providing a good source of calcium and a source of protein.",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/5/6/3561988.jpg",
+    "width": 300
+  },
+  "name": "TASTY CHEESE BITES & SOY CRISPS",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2.3,
+    "lowPrice": 2.3,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T07:21:25.833Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "2.30",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-tasty-cheese-bites-soy-crisps"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/coles-tasty-cheese-bites-soy-crisps"
+  ],
+  "sku": "3561988",
+  "updatedAt": "2022-11-24T07:21:25.833Z"
+}

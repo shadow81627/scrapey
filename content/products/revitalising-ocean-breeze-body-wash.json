@@ -1,0 +1,60 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Aqua, Sodium Laureth Sulfate, Sodium Chloride, Cocamidopropyl Betaine, Glycerin, Fragrance, Sodium Benzoate, Potassium Sorbate, Tetrasodium EDTA, Maris Sal, Citric Acid, Butylene Glycol, Fucus Vesiculosus (Seaweed) Extract, CI 42090, CI 19140."
+    },
+    {
+      "name": "Size",
+      "value": "1L"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.40 per 100mL"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Made in Australia from local and imported ingredients"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2022-11-24T07:35:59.328Z",
+  "description": "Coles Revitalise Ocean Breeze Body Wash has been carefully created with a refreshing and invigorating scent. Infused with sea minerals and seaweed extract, it will leave your skin feeling cleansed and hydrated. Dermatologically tested.",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/2/9/2292869.jpg",
+    "width": 300
+  },
+  "name": "Revitalising Ocean Breeze Body Wash",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 4,
+    "lowPrice": 4,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T07:35:59.327Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "4.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-revitalising-oxygen-burst-body-wash"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/coles-revitalising-oxygen-burst-body-wash"
+  ],
+  "sku": "2292869",
+  "updatedAt": "2022-11-24T07:35:59.327Z"
+}

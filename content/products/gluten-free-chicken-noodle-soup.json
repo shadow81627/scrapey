@@ -1,0 +1,72 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Soup Base [Water, Shredded Chicken (6%), Shiitake mushrooms (#5), Corn (3%), Coconut Sugar, Spring Onion, Salt, Rice Bran Oil, Garlic. Soy Sauce (From Soybean), Pepper], Rice Noodle (22%), [Rice, Tapioca Starch]."
+    },
+    {
+      "name": "Allergen",
+      "value": "May Be Present Sesame, May Be Present Peanuts, May Be Present Soy, May Be Present Fish, May Be Present Crustacea, May Be Present Egg, May Be Present Tree Nuts"
+    },
+    {
+      "name": "Dietary",
+      "value": "No Artificial Flavours or Colours"
+    },
+    {
+      "name": "Warning",
+      "value": "Made in a facility that processes Crustacean, Egg, Fish, Peanut, Sesame, Soy & Tree Nuts"
+    },
+    {
+      "name": "Size",
+      "value": "155g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$2.58 per 100G"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Made in Thailand"
+    }
+  ],
+  "brand": "Hart & Soul",
+  "createdAt": "2022-11-24T07:41:27.938Z",
+  "description": "Hart & Soul Chicken Noodle Soup Shredded chicken in a hearty broth with shiitake mushrooms & rice noodles.",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/3/9/3399471.jpg",
+    "width": 300
+  },
+  "name": "Gluten Free Chicken Noodle Soup",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 4,
+    "lowPrice": 4,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T07:41:27.935Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "4.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/hart-soul-chicken-noodle-soup"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/hart-soul-chicken-noodle-soup"
+  ],
+  "sku": "3399471",
+  "updatedAt": "2022-11-24T07:41:27.936Z"
+}

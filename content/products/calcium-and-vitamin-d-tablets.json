@@ -1,0 +1,64 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "EACH FILM COATED TABLET CONTAINS: Calcium (from calcium citrate tetrahydrate) 333.33 mg; Vitamin D3 (colecalciferol) 8.33 micrograms"
+    },
+    {
+      "name": "Contains",
+      "value": "Contains sulfites"
+    },
+    {
+      "name": "Warning",
+      "value": "If symptoms persist, talk to your health professional. Vitamin and mineral supplements should not replace a balanced diet. Contains sulfites. Always read the label and follow the directions for use. No Added lactose, yeast, egg, soy or artificial flavours."
+    },
+    {
+      "name": "Size",
+      "value": "150 pack"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.11 per 1Ea"
+    }
+  ],
+  "brand": "Swisse",
+  "createdAt": "2022-11-24T08:17:36.105Z",
+  "description": "Swisse Calcium & Vitamin D Tablets",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/4/6/3468858.jpg",
+    "width": 300
+  },
+  "name": "Calcium & Vitamin D Tablets",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 17,
+    "lowPrice": 17,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T08:17:36.103Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "17.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/swisse-ultiboost-calcium-vitamin-d"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/swisse-ultiboost-calcium-vitamin-d"
+  ],
+  "sku": "3468858",
+  "updatedAt": "2022-11-24T08:17:36.103Z"
+}

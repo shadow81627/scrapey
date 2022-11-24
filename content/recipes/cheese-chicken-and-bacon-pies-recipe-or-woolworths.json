@@ -1,65 +1,75 @@
 {
   "@type": "Recipe",
+  "author": {
+    "@type": "Person",
+    "name": "Customer - luvbunny_99"
+  },
   "cookTime": "PT30M",
-  "createdAt": "2022-11-22T14:56:52.819Z",
-  "datePublished": "2021-06-03",
+  "createdAt": "2022-11-24T08:23:52.631Z",
+  "datePublished": "2022-09-26",
   "description": "An easy (and very tasty) pie - perfect for a cold winter's night!",
-  "image": "https://foodhub.scene7.com/is/image/woolworthsltdprod/mwi8xsycnstxdmh5nuqv?wid=3024&hei=4032&fmt=png-alpha",
-  "keywords": "Cheese Chicken & Bacon Pies",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1300,
+    "mime": "image/jpeg",
+    "url": "https://foodhub.scene7.com/is/image/woolworthsltdprod/mwi8xsycnstxdmh5nuqv:Square-1300x1300",
+    "width": 1300
+  },
+  "keywords": "Meat pie & tart,Seafood free,Tree nut free,Mince,Chicken,Sesame free,Peanut free",
   "name": "Cheese Chicken & Bacon Pies Recipe | Woolworths",
   "prepTime": "PT30M",
-  "recipeCategory": "snacks",
-  "recipeCuisine": "australian",
+  "recipeCategory": "Snacks",
+  "recipeCuisine": "Australian",
   "recipeId": "a0K0I00000SsfZeUAJ",
   "recipeIngredient": [
-    "330 g chicken mince",
-    "3 rashers bacon",
-    "1 tbs butter",
+    "330g chicken mince",
+    "3 rashers bacon, diced",
+    "1 tbs butter (or margarine)",
     "1 cup milk",
     "1 tsp chicken stock powder",
-    "1 brown onion",
-    "2 sheets frozen puff pastry",
-    "1 large egg",
-    "40 g grated tasty cheese"
+    "1 brown onion, diced",
+    "2 sheets frozen puff pastry (thawed)",
+    "1 large egg, beaten",
+    "40g grated tasty cheese"
   ],
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Place pies on baking paper lined baking tray and brush pastry with beaten egg using pastry brush. Sprinkle with sesame seeds if desired. Place in oven and cook for 2530 minutes or until golden brown."
+      "HowToTip": {},
+      "text": "Preheat oven to 180 deg Celsius."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Place pies on baking paper lined baking tray and brush pastry with beaten egg using pastry brush. Sprinkle with sesame seeds if desired. Place in oven and cook for 2530 minutes or until golden brown."
+      "HowToTip": {},
+      "text": "Dry fry chicken mince, diced onion and diced bacon then set aside."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Place pies on baking paper lined baking tray and brush pastry with beaten egg using pastry brush. Sprinkle with sesame seeds if desired. Place in oven and cook for 2530 minutes or until golden brown."
+      "HowToTip": {},
+      "text": "Melt butter in a saucepan then add flour and chicken stock powder stirring well."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Place pies on baking paper lined baking tray and brush pastry with beaten egg using pastry brush. Sprinkle with sesame seeds if desired. Place in oven and cook for 2530 minutes or until golden brown."
+      "HowToTip": {},
+      "text": "Reduce heat to low and gradually add milk stirring constantly as sauce thickens. Simmer for 3 minutes. Remove from heat and stir in cheese and mince mixture. Allow to cool."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Place pies on baking paper lined baking tray and brush pastry with beaten egg using pastry brush. Sprinkle with sesame seeds if desired. Place in oven and cook for 2530 minutes or until golden brown."
+      "HowToTip": {},
+      "text": "Spoon mounds of pie filling mix on a sheet of puff pastry (I made 4 large pies but you could do 6 smaller ones). Lay second piece of puff pastry over the top and cut to separate pies before crimping edges with fork to seal."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Place pies on baking paper lined baking tray and brush pastry with beaten egg using pastry brush. Sprinkle with sesame seeds if desired. Place in oven and cook for 2530 minutes or until golden brown."
+      "HowToTip": {},
+      "text": "Place pies on baking paper lined baking tray and brush pastry with beaten egg using pastry brush. Sprinkle with sesame seeds if desired. Place in oven and cook for 25-30 minutes or until golden brown."
     }
   ],
   "recipeNameId": "cheese-chicken-and-bacon-pies",
   "recipeYield": "4",
   "sameAs": [
-    "https://woolworths.com.au/shop/find-recipes/cheese-and-bacon-pie"
+    "https://woolworths.com.au/shop/recipes/cheese-chicken-and-bacon-pies"
   ],
   "totalTime": "PT60M",
-  "updatedAt": "2022-11-22T14:56:52.814Z",
+  "updatedAt": "2022-11-24T08:23:52.630Z",
   "url": "https://www.woolworths.com.au/shop/recipes/cheese-chicken-and-bacon-pies"
 }

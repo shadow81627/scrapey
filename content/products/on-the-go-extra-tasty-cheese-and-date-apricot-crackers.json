@@ -1,0 +1,68 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Extra Tasty Cheddar Cheese 69% [Milk, Salt, Cultures, Enzyme (Non-Animal Rennet)], Date & Apricot Crackers 31% {Wheat Flour, Flaxseeds, Diced Dates [Dates, Rice Flour], Raw Sugar, Dried Apricots [Apricot, Rice Flour, Preservative (220)], Honey, Greek Yoghurt [Milk, Cream, Cultures], Raising Agent (500), Salt}."
+    },
+    {
+      "name": "Contains",
+      "value": "Milk, Gluten, Wheat, Sulphites."
+    },
+    {
+      "name": "Allergen",
+      "value": "Contains Sulphites, May Be Present Sesame, May Be Present Peanuts, May Be Present Soy, Contains Gluten, Contains Wheat, May Be Present Egg, May Be Present Tree Nuts, Contains Milk"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "1.0"
+    },
+    {
+      "name": "Size",
+      "value": "38g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$7.89 per 100G"
+    }
+  ],
+  "brand": "Mainland",
+  "createdAt": "2022-11-24T07:21:17.101Z",
+  "description": "Extra tasty cheddar cheese slices with date & apricot artisan crackers.",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/5/7/3576090.jpg",
+    "width": 300
+  },
+  "name": "On The Go Extra Tasty Cheese & Date Apricot Crackers",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3,
+    "lowPrice": 3,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T07:21:17.100Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "3.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/mainland-otg-extra-tasty-cheese-apricot-crackers"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/mainland-otg-extra-tasty-cheese-apricot-crackers"
+  ],
+  "sku": "3576090",
+  "updatedAt": "2022-11-24T07:21:17.100Z"
+}

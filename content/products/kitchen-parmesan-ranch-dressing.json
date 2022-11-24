@@ -1,0 +1,64 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "INGREDIENTS: Water, Canola Oil, Light Sour Cream (8%) [Pasteurised Light Cream (Milk), Culture], Sugar, Vinegar, Parmesan cheese (5%) [Milk, Salt, Culture, Enzyme (Animal Rennet), Whey, Anticaking Agent (Tapioca)], Free Range Whole Egg (4%), Salt, Buttermilk Powder (1.5%), Garlic Powder, Onion Powder, Dill (0.5%), Lemon Juice from Concentrate, Stabiliser (415)."
+    },
+    {
+      "name": "Allergen",
+      "value": "Contains EGG, Contains MILK"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "10.0"
+    },
+    {
+      "name": "Size",
+      "value": "250mL"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.60 per 100mL"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2022-11-24T08:12:27.766Z",
+  "description": "Creamy dressing with parmesan and dill",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/8/5/3856857.jpg",
+    "width": 300
+  },
+  "name": "Kitchen Parmesan Ranch Dressing",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 4,
+    "lowPrice": 4,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T08:12:27.765Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "4.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-parmesan-ranch-dressing"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/coles-parmesan-ranch-dressing"
+  ],
+  "sku": "3856857",
+  "updatedAt": "2022-11-24T08:12:27.765Z"
+}

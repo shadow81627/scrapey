@@ -1,0 +1,48 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Unit Price",
+      "value": "$14.25 per 1Ea"
+    }
+  ],
+  "brand": "Sistema",
+  "createdAt": "2022-11-24T07:12:06.936Z",
+  "description": "Sistema Klip It Plus Rectangle Container 7.5L",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/7/9/3794534.jpg",
+    "width": 300
+  },
+  "name": "Klip It Plus Rectangle Container 7.5L",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 14.25,
+    "lowPrice": 14.25,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T07:12:06.936Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "14.25",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/sistema-klip-it-plus-container-3794534p"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/sistema-klip-it-plus-container-3794534p"
+  ],
+  "sku": "3794534",
+  "updatedAt": "2022-11-24T07:12:06.936Z"
+}

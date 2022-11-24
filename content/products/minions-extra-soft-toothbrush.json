@@ -1,0 +1,60 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Contains",
+      "value": "2 Toothbrushes"
+    },
+    {
+      "name": "Warning",
+      "value": "Do not bite or chew. For tooth brushing only, do not use as a toy. Dentists and hygienists recommend replacing your toothbrush every 3 months. Not suitable for children under 3. Adult supervision required for children under 8."
+    },
+    {
+      "name": "Size",
+      "value": "2 pack"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$3.50 per 1Ea"
+    }
+  ],
+  "brand": "Colgate",
+  "createdAt": "2022-11-24T07:32:40.487Z",
+  "description": "Colgate Minions Extra Soft Toothbrush",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/4/1/3412900.jpg",
+    "width": 300
+  },
+  "name": "Minions Extra Soft Toothbrush",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 7,
+    "lowPrice": 7,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T07:32:40.485Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "7.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/colgate-minions-extra-soft-toothbrush"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/colgate-minions-extra-soft-toothbrush"
+  ],
+  "sku": "3412900",
+  "updatedAt": "2022-11-24T07:32:40.485Z"
+}

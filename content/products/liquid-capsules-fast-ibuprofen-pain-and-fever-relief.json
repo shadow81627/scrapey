@@ -1,0 +1,64 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Ibuprofen 200 mg"
+    },
+    {
+      "name": "Contains",
+      "value": "Contains sulfites, soya bean products, and potassium (17.7 mg per capsule) 20 liquid capsules"
+    },
+    {
+      "name": "Allergen",
+      "value": "Contains Sulphites"
+    },
+    {
+      "name": "Size",
+      "value": "20 pack"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.28 per 1Ea"
+    }
+  ],
+  "brand": "Advil",
+  "createdAt": "2022-11-24T07:34:34.735Z",
+  "description": "Advil Liquid Capsules Fast Ibuprofen Pain & Fever Relief",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/9/6/7/9677715.jpg",
+    "width": 300
+  },
+  "name": "Liquid Capsules Fast Ibuprofen Pain & Fever Relief",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 5.5,
+    "lowPrice": 5.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T07:34:34.734Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "5.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/advil-ibuprofen-liquid-capsules"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/advil-ibuprofen-liquid-capsules"
+  ],
+  "sku": "9677715",
+  "updatedAt": "2022-11-24T07:34:34.734Z"
+}

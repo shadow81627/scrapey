@@ -1,0 +1,56 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Water, Stearyl Alcohol, Bis-Aminopropyl Dimethicone, Behentrimonium Chloride, Cetyl Alcohol, Fragrance, Isopropyl Alcohol, Phenoxyethanol, Benzyl Alcohol, Sodium Benzoate, Disodium EDTA, Citric Acid, Polysorbate 20, Histidine, Propylene Glycol, Aloe Barbadensis Leaf Juice, Butylene Glycol, Bambusa Vulgaris Shoot Extract, Alcohol Denatured, Vitis Vinifera (Grape) Seed Extract, Ecklonia Radiata Extract"
+    },
+    {
+      "name": "Size",
+      "value": "350mL"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$2.86 per 100mL"
+    }
+  ],
+  "brand": "Herbal Essences",
+  "createdAt": "2022-11-24T07:37:08.830Z",
+  "description": "Herbal Essences Aloe & Bamboo Conditioner",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/8/3/3837240.jpg",
+    "width": 300
+  },
+  "name": "Aloe & Bamboo Conditioner",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 10,
+    "lowPrice": 10,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T07:37:08.830Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "10.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/herbal-essences-cond-aloe-bambo-"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/herbal-essences-cond-aloe-bambo-"
+  ],
+  "sku": "3837240",
+  "updatedAt": "2022-11-24T07:37:08.830Z"
+}

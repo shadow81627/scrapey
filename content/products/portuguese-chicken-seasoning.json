@@ -1,0 +1,68 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Sugar, Paprika 28%, Salt, Chilli 9%, Oregano, Lemon Flavour 0.5%."
+    },
+    {
+      "name": "Contains",
+      "value": "May contain Sesame Seeds."
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "10.0"
+    },
+    {
+      "name": "Size",
+      "value": "50g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.80 per 10G"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Packed in Australia"
+    }
+  ],
+  "brand": "MasterFoods",
+  "createdAt": "2022-11-24T07:45:30.431Z",
+  "description": "MasterFoods Portuguese Chicken Seasoning",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/9/7/5/9756119.jpg",
+    "width": 300
+  },
+  "name": "Portuguese Chicken Seasoning",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 4,
+    "lowPrice": 4,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T07:45:30.430Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "4.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/masterfoods-portuguese-chicken-seasoning"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/masterfoods-portuguese-chicken-seasoning"
+  ],
+  "sku": "9756119",
+  "updatedAt": "2022-11-24T07:45:30.430Z"
+}

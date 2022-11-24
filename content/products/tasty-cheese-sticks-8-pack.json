@@ -1,0 +1,72 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Milk, Salt, Cultures, Enzyme (Non-Animal Rennet). Vegetarian Suitable."
+    },
+    {
+      "name": "Contains",
+      "value": "Milk."
+    },
+    {
+      "name": "Allergen",
+      "value": "Contains Milk"
+    },
+    {
+      "name": "Dietary",
+      "value": "Source of Calcium"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "8.0"
+    },
+    {
+      "name": "Size",
+      "value": "160g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$40.63 per 1Kg"
+    }
+  ],
+  "brand": "Bega",
+  "createdAt": "2022-11-24T07:26:12.936Z",
+  "description": "100% Natural.What makes Bega... Bega?Over 100 years of dairying heritage resulting in the unique Bega taste you know and loved.Bega Farmers' Tasty Cheese cut into sticks for a quick and delicious snack.",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/7/8/8/7881754.jpg",
+    "width": 300
+  },
+  "name": "Tasty Cheese Sticks 8 pack",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 6.5,
+    "lowPrice": 6.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T07:26:12.931Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "6.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/bega-cheese-snack-tasty-sticks-8-pack"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/bega-cheese-snack-tasty-sticks-8-pack"
+  ],
+  "sku": "7881754",
+  "updatedAt": "2022-11-24T07:26:12.931Z"
+}

@@ -1,0 +1,68 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "INGREDIENTS: Wheat Flour, Chocolate Chips (21.5%) (Sugar, Cocoa Paste (48%), Cocoa Butter, Emulsifier (322 (Soy)), Natural Vanilla Flavouring), Sugar, Butterfat (11.5%) (Milk), Egg Yolk, Sourdough (Wheat Flour, Water), Emulsifier (471), Inverted Sugar Syrup, Egg, Milk, Salt, Natural Flavouring."
+    },
+    {
+      "name": "Allergen",
+      "value": "Contains EGG, Contains SOY, May Contain TREE NUTS, Contains CEREALS CONTAINING GLUTEN, Contains MILK"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "8.0"
+    },
+    {
+      "name": "Size",
+      "value": "750g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$2.67 per 100G"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Made in Italy"
+    }
+  ],
+  "brand": "Adalgisa",
+  "createdAt": "2022-11-24T07:19:08.201Z",
+  "description": "Our Chocolate Panettone is baked using a traditional family recipe passed down through the generations. The sweet and buttery panettone is hung upside down and cooled slowly over 8 hours. Indulge in the soft, delicate texture and decadent chocolate chips.",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/5/6/3562175.jpg",
+    "width": 300
+  },
+  "name": "Chocolate Panettone",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 20,
+    "lowPrice": 20,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T07:19:08.199Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "20.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-choco-chip-panettone"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/coles-choco-chip-panettone"
+  ],
+  "sku": "3562175",
+  "updatedAt": "2022-11-24T07:19:08.199Z"
+}

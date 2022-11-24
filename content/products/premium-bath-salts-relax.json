@@ -1,0 +1,60 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Magnesium Sulphate, Citrus Aurantium Bergamia Fruit Oil, Lavandula Angustifolia Oil, Cananga Odorata Flower Oil, Parfum., Magnesium Sulfate, Citrus Aurantium Bergamia Fruit Oil, Lavandula Angustifolia Oil, Cananga Odorata Flower Oil, Parfum."
+    },
+    {
+      "name": "Size",
+      "value": "800g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.25 per 100G"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Made in Australia"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2022-11-24T07:42:00.977Z",
+  "description": "A natural way to destress mind & body for a good nights sleep. Submerge and relax with the soothing aroma of bergamot, lavender and ylang ylang. MINERAL BATH SOAK BLENDED WITH ESSENTIAL OILS PROMOTES RELAXATION HELPS MAINTAIN GENERAL WELLBEING",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/8/6/3864276.jpg",
+    "width": 300
+  },
+  "name": "Premium Bath Salts Relax",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 10,
+    "lowPrice": 10,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T07:42:00.976Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "10.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-premium-bath-salts-relax"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/coles-premium-bath-salts-relax"
+  ],
+  "sku": "3864276",
+  "updatedAt": "2022-11-24T07:42:00.976Z"
+}

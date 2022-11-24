@@ -1,0 +1,72 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Tomato diced (63%), Tomato juice, Tomato Paste (10%)."
+    },
+    {
+      "name": "Contains",
+      "value": "Tomatoes, Tomato Paste"
+    },
+    {
+      "name": "Dietary",
+      "value": "No Added Sugars, No Added Salt"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "2.0"
+    },
+    {
+      "name": "Warning",
+      "value": "Product may contain traces of Tomato Skin"
+    },
+    {
+      "name": "Size",
+      "value": "410g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$5.37 per 1Kg"
+    }
+  ],
+  "brand": "Ardmona",
+  "createdAt": "2022-11-24T08:13:40.856Z",
+  "description": "Ardmona Rich & Thick Diced Tomatoes with Paste Classic uses 100% Australian grown tomatoes.- No artificial colours or flavours- No added salt or sugar",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/4/5/1/4515749.jpg",
+    "width": 300
+  },
+  "name": "Classic Rich & Thick Tomatoes",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2.2,
+    "lowPrice": 2.2,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T08:13:40.853Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "2.20",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/ardmona-tomato-duo-chopped-finely"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/ardmona-tomato-duo-chopped-finely"
+  ],
+  "sku": "4515749",
+  "updatedAt": "2022-11-24T08:13:40.854Z"
+}

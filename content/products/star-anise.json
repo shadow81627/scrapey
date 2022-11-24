@@ -1,0 +1,64 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Star Anise"
+    },
+    {
+      "name": "Allergen",
+      "value": "May Be Present Sesame Seeds, May Be Present Nuts, May Be Present Gluten"
+    },
+    {
+      "name": "Size",
+      "value": "12g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.92 per 10G"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Packed in Australia from Imported Product"
+    }
+  ],
+  "brand": "Hoyts",
+  "createdAt": "2022-11-24T07:17:12.670Z",
+  "description": "This is a spice that closely resembles anise in flavour. It is widely used in Chinese and Indian cuisine where it is a major component of garam masala",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/9/0/8/9087960.jpg",
+    "width": 300
+  },
+  "name": "Star Anise",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2.3,
+    "lowPrice": 2.3,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T07:17:12.669Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "2.30",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/hoyts-star-anise"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/hoyts-star-anise"
+  ],
+  "sku": "9087960",
+  "updatedAt": "2022-11-24T07:17:12.669Z"
+}

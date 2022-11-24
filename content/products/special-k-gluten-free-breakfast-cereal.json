@@ -1,0 +1,76 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Whole grain brown rice (84%), sugar, salt, vitamins (vitamin E, niacin, vitamin B6, thiamin, riboflavin, folate), emulsifier (471), minerals (iron, zinc oxide)."
+    },
+    {
+      "name": "Contains",
+      "value": "May contain tree nuts."
+    },
+    {
+      "name": "Allergen",
+      "value": "May Be Present Tree Nuts"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "8.0"
+    },
+    {
+      "name": "Warning",
+      "value": "This product is sold by weight, not volume. Some settling of contents may have occured during shipment and handling."
+    },
+    {
+      "name": "Size",
+      "value": "330g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.70 per 100G"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Made in Republic of Korea"
+    }
+  ],
+  "brand": "Kellogg's",
+  "createdAt": "2022-11-24T07:29:47.715Z",
+  "description": "Kellogg's Special K Gluten Free Breakfast Cereal",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/6/9/2692878.jpg",
+    "width": 300
+  },
+  "name": "Special K Gluten Free Breakfast Cereal",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 5.6,
+    "lowPrice": 5.6,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T07:29:47.714Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "5.60",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/kelloggs-special-k-gluten-free"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/kelloggs-special-k-gluten-free"
+  ],
+  "sku": "2692878",
+  "updatedAt": "2022-11-24T07:29:47.714Z"
+}

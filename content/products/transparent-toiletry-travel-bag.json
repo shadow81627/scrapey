@@ -1,0 +1,52 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "1 pack"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$10.00 per 1Ea"
+    }
+  ],
+  "brand": "Conair",
+  "createdAt": "2022-11-24T07:23:56.980Z",
+  "description": "This clear vinyl travel case holds toiletries, cosmetics and other personal care items in a durable zippered pouch where they are easily seen. The separate mesh compartment keeps smaller items safe but in view.Conair Code C78SKAU",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/5/9/3596756.jpg",
+    "width": 300
+  },
+  "name": "Transparent Toiletry Travel Bag",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 10,
+    "lowPrice": 10,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T07:23:56.972Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "10.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/travel-bag-clear"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/travel-bag-clear"
+  ],
+  "sku": "3596756",
+  "updatedAt": "2022-11-24T07:23:56.972Z"
+}

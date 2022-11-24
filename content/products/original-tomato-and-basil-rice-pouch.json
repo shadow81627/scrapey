@@ -1,0 +1,68 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Steamed Long Grain Rice 87%, Tomatoes (from Paste, Dice) 7%, Vegetable Oil, Flavour, Sun-Dried Tomato (contains Sulphites), Basil 0.5%, Garlic, Sugar, Yeast Extract, Salt, Colour (Paprika Oleoresin), Pepper, Rosemary, Processing Aid (contains Soy), Oregano, Chilli."
+    },
+    {
+      "name": "Allergen",
+      "value": "Contains Soy"
+    },
+    {
+      "name": "Dietary",
+      "value": "No Preservatives"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "2.0"
+    },
+    {
+      "name": "Size",
+      "value": "250g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.40 per 100G"
+    }
+  ],
+  "brand": "Ben's",
+  "createdAt": "2022-11-24T07:23:15.771Z",
+  "description": "Ben's Original Tomato & Basil Rice Pouch",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/8/6/5860221.jpg",
+    "width": 300
+  },
+  "name": "Original Tomato & Basil Rice Pouch",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3.5,
+    "lowPrice": 3.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T07:23:15.769Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "3.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/uncle-bens-express-rice-tomato-basil"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/uncle-bens-express-rice-tomato-basil"
+  ],
+  "sku": "5860221",
+  "updatedAt": "2022-11-24T07:23:15.769Z"
+}

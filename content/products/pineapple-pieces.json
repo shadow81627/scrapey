@@ -1,0 +1,68 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "INGREDIENTS: Pineapple (51%), Sugar, Acidity Regulator (Citric Acid), Preservative (223)."
+    },
+    {
+      "name": "Allergen",
+      "value": "Contains SULPHITES, May Be Present CEREALS CONTAINING GLUTEN, May Be Present PEANUTS, May Be Present MILK, May Be Present SOY, May Be Present TREE NUTS, May Be Present SESAME"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "6.0"
+    },
+    {
+      "name": "Size",
+      "value": "200g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.25 per 100G"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Product of Thailand"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2022-11-24T07:15:59.381Z",
+  "description": "Coles Pineapple Pieces 200 gram great on their own or top a pizza with some",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/0/3/3039567.jpg",
+    "width": 300
+  },
+  "name": "Pineapple Pieces",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2.5,
+    "lowPrice": 2.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T07:15:59.380Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "2.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-pineapple-pieces-3039567p"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/coles-pineapple-pieces-3039567p"
+  ],
+  "sku": "3039567",
+  "updatedAt": "2022-11-24T07:15:59.380Z"
+}

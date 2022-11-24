@@ -1,0 +1,68 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Milk Chocolate 68% (Sugar, Cocoa Mass, Milk Solids, Cocoa Butter, Vegetable Fat, Emulsifier (Soy Lecithin), Salt, Flavour), Sugar, Starch (Sources Include Wheat), Glucose Syrup (Sources Include Wheat), Vegetable Gum (414), Colours (171, 129, 133, 110, 102), Thickener (Dextrin), Glazing Agent (903)."
+    },
+    {
+      "name": "Contains",
+      "value": "Milk Chocolate Contains A Minimum Of 28% Cocoa Solids And 22% Milk Solids."
+    },
+    {
+      "name": "Allergen",
+      "value": "May Be Present Peanuts, Contains Wheat, May Be Present Tree Nuts, Contains Soy, Contains Milk, May Be Present Barley"
+    },
+    {
+      "name": "Size",
+      "value": "180g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$2.11 per 100G"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Made in Australia"
+    }
+  ],
+  "brand": "M&Ms",
+  "createdAt": "2022-11-24T07:41:34.871Z",
+  "description": "M&Ms Milk Chocolate Snack & Share Bag",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/2/5/5258936.jpg",
+    "width": 300
+  },
+  "name": "Milk Chocolate Snack & Share Bag",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3.8,
+    "lowPrice": 3.8,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T07:41:34.870Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "3.80",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/m-ms--milk-chocolate"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/m-ms--milk-chocolate"
+  ],
+  "sku": "5258936",
+  "updatedAt": "2022-11-24T07:41:34.870Z"
+}

@@ -1,0 +1,60 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "INGREDIENTS: Reconstituted Fruit Juices (99.8%) [Apple (64.8%), Orange (28%), Pineapple (4%), Apricot (2%), Passionfruit (0.5%), Mango (0.5%)],Natural Flavours, Vitamin C, Food Acid (Citric Acid)"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "1.0"
+    },
+    {
+      "name": "Size",
+      "value": "6 pack"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$2.33 per 1L"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2022-11-24T08:22:00.142Z",
+  "description": "Coles Tropical juice 250 ml No Added Sugar Good Source of Vitamin C. great for the lucnh box or as a refreshing drink at the park",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/5/3/2535643.jpg",
+    "width": 300
+  },
+  "name": "Tropical Juice 250mL",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3.5,
+    "lowPrice": 3.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T08:22:00.141Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "3.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-tropical-juice"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/coles-tropical-juice"
+  ],
+  "sku": "2535643",
+  "updatedAt": "2022-11-24T08:22:00.141Z"
+}

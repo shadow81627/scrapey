@@ -1,0 +1,64 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Milk, Lactic Culture, Salt (1.2%), Minimum Fat content 80%"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "25.0"
+    },
+    {
+      "name": "Size",
+      "value": "250g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$2.32 per 100G"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Made in Denmark"
+    }
+  ],
+  "brand": "Lurpak",
+  "createdAt": "2022-11-24T08:21:32.551Z",
+  "description": "Made with fresh cream, lactic culture and a sprinkling of salt  Lurpak Slightly Salted Butter has a legendary subtlety and freshness. It is perfect to mix, fry, drizzle and bake into all kinds of creations.",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/3/9/5394129.jpg",
+    "width": 300
+  },
+  "name": "Slightly Salted Butter",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 5.8,
+    "lowPrice": 5.8,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T08:21:32.549Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "5.80",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/lurpak-butter-slightly-salted-pat"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/lurpak-butter-slightly-salted-pat"
+  ],
+  "sku": "5394129",
+  "updatedAt": "2022-11-24T08:21:32.549Z"
+}

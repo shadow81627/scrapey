@@ -1,0 +1,52 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "1 pack"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$17.00 per 1Ea"
+    }
+  ],
+  "brand": "Huggies",
+  "createdAt": "2022-11-24T08:06:46.844Z",
+  "description": "Huggies Thick Baby Wipes Fragrance Free",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/4/5/3454933.jpg",
+    "width": 300
+  },
+  "name": "Thick Baby Wipes Fragrance Free",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 17,
+    "lowPrice": 17,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T08:06:46.842Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "17.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/huggies-baby-wipes-refills-fragrance-free-3454933p"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/huggies-baby-wipes-refills-fragrance-free-3454933p"
+  ],
+  "sku": "3454933",
+  "updatedAt": "2022-11-24T08:06:46.842Z"
+}

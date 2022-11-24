@@ -1,0 +1,52 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "6 pack"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.85 per 1Ea"
+    }
+  ],
+  "brand": "Golden Circle ",
+  "createdAt": "2022-11-24T08:21:36.323Z",
+  "description": "Golden Circle  Pineapple Juice Multipack poppers 6x250mL",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/8/4/384387.jpg",
+    "width": 300
+  },
+  "name": "Pineapple Juice Multipack poppers 6x250mL",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 5.1,
+    "lowPrice": 5.1,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T08:21:36.322Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "5.10",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/golden-circle-pineapple-juice"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/golden-circle-pineapple-juice"
+  ],
+  "sku": "384387",
+  "updatedAt": "2022-11-24T08:21:36.322Z"
+}

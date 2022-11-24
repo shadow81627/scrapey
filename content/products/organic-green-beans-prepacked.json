@@ -1,0 +1,52 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "250g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$19.60 per 1Kg"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2022-11-24T07:16:40.281Z",
+  "description": "Offering great taste, quality and value, you can also be assured that all of our Coles Brand Organic products are Certified Organic",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/9/8/6/9861850.jpg",
+    "width": 300
+  },
+  "name": "Organic Green Beans Prepacked",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 4.9,
+    "lowPrice": 4.9,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T07:16:40.280Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "4.90",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/organic-beans---green-prepacked"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/organic-beans---green-prepacked"
+  ],
+  "sku": "9861850",
+  "updatedAt": "2022-11-24T07:16:40.281Z"
+}

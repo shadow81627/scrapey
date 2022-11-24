@@ -1,0 +1,72 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Sugar, Wheat Flour, Oats, Coconut, Butter (Cream (from Milk), Salt), Vegetable Oil, Golden Syrup, Baking Powder, Salt, Emulsifier (Soy Lecithin), Antioxidant (E307b from Soy)."
+    },
+    {
+      "name": "Contains",
+      "value": "Gluten containing Cereals, Milk and Soy."
+    },
+    {
+      "name": "Allergen",
+      "value": "Contains Oats, Contains Cereals Containing Gluten, May Be Present Sesame, May Be Present Peanuts, Contains Wheat, May Be Present Egg, May Be Present Tree Nuts, Contains Soy, Contains Milk"
+    },
+    {
+      "name": "Warning",
+      "value": "Do not purchase if pack is open or torn."
+    },
+    {
+      "name": "Size",
+      "value": "250g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.92 per 100G"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Made in Australia"
+    }
+  ],
+  "brand": "Arnott's",
+  "createdAt": "2022-11-24T07:40:45.118Z",
+  "description": "Arnott's Butternut Snap Biscuits",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/2/8/328885.jpg",
+    "width": 300
+  },
+  "name": "Butternut Snap Biscuits",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2.3,
+    "lowPrice": 2.3,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T07:40:45.117Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "2.30",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/arnotts-biscuits-butternut-snap"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/arnotts-biscuits-butternut-snap"
+  ],
+  "sku": "328885",
+  "updatedAt": "2022-11-24T07:40:45.117Z"
+}

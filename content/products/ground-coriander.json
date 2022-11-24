@@ -1,0 +1,64 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Coriander"
+    },
+    {
+      "name": "Allergen",
+      "value": "May Be Present Sesame Seeds, May Be Present Nuts, May Be Present Gluten"
+    },
+    {
+      "name": "Size",
+      "value": "25g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.78 per 10G"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Packed in Australia from Imported Product"
+    }
+  ],
+  "brand": "Hoyts",
+  "createdAt": "2022-11-24T08:21:06.632Z",
+  "description": "Is a popular baking spice. Great for Christmas cakes and cookies, fruit pies, biscuits, honey cakes, baked apples, cheese spreads. Sprinkle on green salads, poultry stuffings, meat hamburgers, sausages, fish dishes and sauces, potatoes.",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/8/7/287008.jpg",
+    "width": 300
+  },
+  "name": "Ground Coriander",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 1.95,
+    "lowPrice": 1.95,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T08:21:06.631Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "1.95",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/hoyts-coriander-ground"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/hoyts-coriander-ground"
+  ],
+  "sku": "287008",
+  "updatedAt": "2022-11-24T08:21:06.631Z"
+}

@@ -1,0 +1,64 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Wine Vinegar, Concentrated Grape Must, Cooked Grape Must, 6% Acidity"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "33.3"
+    },
+    {
+      "name": "Size",
+      "value": "500mL"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.80 per 100mL"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Product of Italy"
+    }
+  ],
+  "brand": "Mazzetti",
+  "createdAt": "2022-11-24T07:35:55.130Z",
+  "description": "This 1 Leaf Quality Balsamic Vinegar of Modena PGI is perfectly balanced delivering a smooth, lightly zesty and fruity flavor perfect for dressing salads, garnishing steamed or grilled vegetables, or finishing a mozzarella and tomato salad. Its also particularly ideal for vinaigrette or marinades.",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/2/3/5236730.jpg",
+    "width": 300
+  },
+  "name": "Balsamic Vinegar 1 Leaf",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 4,
+    "lowPrice": 4,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T07:35:55.129Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "4.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/mazzetti-vinegar-balsamic-1-leaf"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/mazzetti-vinegar-balsamic-1-leaf"
+  ],
+  "sku": "5236730",
+  "updatedAt": "2022-11-24T07:35:55.129Z"
+}

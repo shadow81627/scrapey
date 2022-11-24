@@ -1,0 +1,64 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Water, Mustard Seed 19%, Salt, Food Acids (Acetic, Citric), Emulsifier (Lecithin (Soy)), Vegetable Oil, Turmeric, Flavour, Colour (Beta-Carotene)."
+    },
+    {
+      "name": "Contains",
+      "value": "Soy."
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "35.0"
+    },
+    {
+      "name": "Size",
+      "value": "175g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$2.29 per 100G"
+    }
+  ],
+  "brand": "MasterFoods",
+  "createdAt": "2022-11-24T07:42:24.634Z",
+  "description": "A traditional, robustly flavoured medium heat mustard by MasterFoods. Perfect with roast beef or cold meats. A tasty addition to vinaigrettes, mayonnaise and dipping sauces for added flavour Refrigerate after opening.- No Artificial Preservatives",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/4/3/5434937.jpg",
+    "width": 300
+  },
+  "name": "Australian Mustard",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 4,
+    "lowPrice": 4,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T07:42:24.633Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "4.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/masterfoods-mustard-australian"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/masterfoods-mustard-australian"
+  ],
+  "sku": "5434937",
+  "updatedAt": "2022-11-24T07:42:24.633Z"
+}

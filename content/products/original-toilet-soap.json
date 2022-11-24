@@ -1,0 +1,52 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "6 pack"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.88 per 100G"
+    }
+  ],
+  "brand": "Imperial Leather",
+  "createdAt": "2022-11-24T07:34:15.472Z",
+  "description": "Imperial Leather Original Toilet Soap",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/8/9/5891564.jpg",
+    "width": 300
+  },
+  "name": "Original Toilet Soap",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 5.3,
+    "lowPrice": 5.3,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T07:34:15.472Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "5.30",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/imperial-leather-soap-toilet-original"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/imperial-leather-soap-toilet-original"
+  ],
+  "sku": "5891564",
+  "updatedAt": "2022-11-24T07:34:15.472Z"
+}

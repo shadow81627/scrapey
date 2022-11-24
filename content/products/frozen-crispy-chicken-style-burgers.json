@@ -1,0 +1,68 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Water, Vegetable Protein (23%) (Soy, Wheat), Vegetable Oil, Breadcrumbs (Wheat Flour, Salt, Flavour, Hydrolysed Vegetable Protein, Dehydrated Vegetables, Sugar, Yeast, Yeast Extract, Herbs & Spices, Canola Oil, Maltodextrin), Oats (Gluten), Flavours, Batter (Wheat, Soy), Starches (Tapioca, Potato), Citrus Fibre, Yeast Extract, Sugar, Salt, Citric Acid, Minerals (Zinc, Iron), Vitamin B12."
+    },
+    {
+      "name": "Contains",
+      "value": "Soy and Cereals containing Gluten (Wheat)."
+    },
+    {
+      "name": "Allergen",
+      "value": "Contains Cereals Containing Gluten, May Be Present Sesame, May Be Present Peanuts, Contains Wheat, Contains Soy"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "4.0"
+    },
+    {
+      "name": "Size",
+      "value": "300g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.95 per 100G"
+    }
+  ],
+  "brand": "Vegie Delights",
+  "createdAt": "2022-11-24T08:09:29.362Z",
+  "description": "Vegie Delights Frozen Crispy Chicken Style Burgers",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/2/1/3218271.jpg",
+    "width": 300
+  },
+  "name": "Frozen Crispy Chicken Style Burgers",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 5.85,
+    "lowPrice": 5.85,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T08:09:29.361Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "5.85",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/vegie-delights-crispy-chickn-burger"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/vegie-delights-crispy-chickn-burger"
+  ],
+  "sku": "3218271",
+  "updatedAt": "2022-11-24T08:09:29.361Z"
+}

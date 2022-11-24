@@ -1,70 +1,80 @@
 {
   "@type": "Recipe",
+  "author": {
+    "@type": "Person",
+    "name": "Produced for Woolworths"
+  },
   "cookTime": "PT20M",
-  "createdAt": "2022-11-22T14:28:47.047Z",
+  "createdAt": "2022-11-24T08:27:41.505Z",
   "datePublished": "2022-11-09",
   "description": "This traditional Asian congee recipe brings out the natural flavours of the delicious seafood.",
-  "image": "https://foodhub.scene7.com/is/image/woolworthsltdprod/savoury-seafood-congee?wid=3908&hei=3908&fmt=png-alpha",
-  "keywords": "Savoury Seafood Congee",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1300,
+    "mime": "image/jpeg",
+    "url": "https://foodhub.scene7.com/is/image/woolworthsltdprod/savoury-seafood-congee:Square-1300x1300",
+    "width": 1300
+  },
+  "keywords": "Rice dishes,Prawn,Rice,Mushroom",
   "name": "Savoury Seafood Congee Recipe | Woolworths",
   "prepTime": "PT15M",
-  "recipeCategory": "mains",
-  "recipeCuisine": "asian",
+  "recipeCategory": "Lunch,Dinner",
+  "recipeCuisine": "Chinese",
   "recipeId": "RGWW338290",
   "recipeIngredient": [
-    "300 g rice",
+    "300g rice, rinsed",
     "1 tbs sesame oil",
-    "80 g mushrooms",
-    "1 leeks",
-    "80 g peas",
-    "12 medium prawns",
+    "80g mushrooms, sliced",
+    "1 leeks, sliced",
+    "80g peas",
+    "12 medium prawns, de-shelled and sinew removed",
     "12 calamari rings",
     "24 mussels",
     "1 pinch salt",
     "1 pinch cracked black pepper",
     "1.2 cups vegetable stock",
-    "2 tbs ginger",
+    "2 tbs ginger, chopped",
     "1 tbs ras el hanout",
     "0.2 cup cooking white wine"
   ],
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Once reduced by about half remove from the heat and serve."
+      "HowToTip": {},
+      "text": "Cook the rice as per packet instructions and then set to one side."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Once reduced by about half remove from the heat and serve."
+      "HowToTip": {},
+      "text": "Heat up a saucepan to a medium heat and then add the sesame oil."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Once reduced by about half remove from the heat and serve."
+      "HowToTip": {},
+      "text": "Add the mushrooms, leeks and peas to the pot and cook for 3 minutes."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Once reduced by about half remove from the heat and serve."
+      "HowToTip": {},
+      "text": "Add the seafood and cook for a further 5 minutes, turning regularly."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Once reduced by about half remove from the heat and serve."
+      "HowToTip": {},
+      "text": "Add the rest of the ingredients, including the cooked rice, to the pot, bring to a simmer and cook for a further 5 minutes."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
+      "HowToTip": {},
       "text": "Once reduced by about half remove from the heat and serve."
     }
   ],
   "recipeNameId": "savoury-seafood-congee",
   "recipeYield": "4",
   "sameAs": [
-    "https://woolworths.com.au/shop/find-recipes/congee-recipe"
+    "https://woolworths.com.au/shop/recipes/savoury-seafood-congee"
   ],
   "totalTime": "PT35M",
-  "updatedAt": "2022-11-22T14:28:47.046Z",
+  "updatedAt": "2022-11-24T08:27:41.504Z",
   "url": "https://www.woolworths.com.au/shop/recipes/savoury-seafood-congee"
 }

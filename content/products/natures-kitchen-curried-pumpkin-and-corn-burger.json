@@ -1,0 +1,64 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "INGREDIENTS: Pumpkin (39%), Carrot, Sweetcorn (15%), Wheat Flour, Ground Chickpea, Curry Powder (1%), Herbs and Spices, Wheat Fibre."
+    },
+    {
+      "name": "Allergen",
+      "value": "Contains Wheat, Contains CEREALS CONTAINING GLUTEN, May Be Present SOY"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "2.0"
+    },
+    {
+      "name": "Size",
+      "value": "250g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.50 per 100G"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2022-11-24T07:08:21.668Z",
+  "description": "Curried Pumpkin & Corn Burger",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/7/5/2752153.jpg",
+    "width": 300
+  },
+  "name": "Nature's Kitchen Curried Pumpkin & Corn Burger",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3.75,
+    "lowPrice": 3.75,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T07:08:21.662Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "3.75",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-curried-pumpkin-corn-frozen-burgers"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/coles-curried-pumpkin-corn-frozen-burgers"
+  ],
+  "sku": "2752153",
+  "updatedAt": "2022-11-24T07:08:21.662Z"
+}

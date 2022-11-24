@@ -1,0 +1,68 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Milk, Milk Solids, Acidity Regulator (260), Salt, Preservative (202)."
+    },
+    {
+      "name": "Contains",
+      "value": "Milk."
+    },
+    {
+      "name": "Allergen",
+      "value": "Contains Milk"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "4.0"
+    },
+    {
+      "name": "Size",
+      "value": "250g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$19.20 per 1Kg"
+    }
+  ],
+  "brand": "Perfect Italiano",
+  "createdAt": "2022-11-24T07:14:40.227Z",
+  "description": "Perfect Italiano Original Ricotta Soft Cheese Tub",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/1/8/1/181594.jpg",
+    "width": 300
+  },
+  "name": "Original Ricotta Soft Cheese Tub",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 4.8,
+    "lowPrice": 4.8,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T07:14:40.225Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "4.80",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/perfect-italiano-cheese-ricotta-smooth-181594p"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/perfect-italiano-cheese-ricotta-smooth-181594p"
+  ],
+  "sku": "181594",
+  "updatedAt": "2022-11-24T07:14:40.225Z"
+}

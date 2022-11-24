@@ -1,0 +1,48 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "4 pack"
+    }
+  ],
+  "brand": "Bonds",
+  "createdAt": "2022-11-24T08:17:43.954Z",
+  "description": "Bonds Mens Logo Light No Show SYTK4G Size 6-10",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/9/8/2981977.jpg",
+    "width": 300
+  },
+  "name": "Mens Logo Light No Show SYTK4G Size 6-10",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 15,
+    "lowPrice": 15,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T08:17:43.953Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "15.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/bonds-bonds-logo-light-no-show-sytk4g-size-6-10"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/bonds-bonds-logo-light-no-show-sytk4g-size-6-10"
+  ],
+  "sku": "2981977",
+  "updatedAt": "2022-11-24T08:17:43.953Z"
+}

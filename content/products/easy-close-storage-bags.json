@@ -1,0 +1,52 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "25 pack"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.15 per 1Ea"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2022-11-24T07:10:51.294Z",
+  "description": "Coles Resealable Slider Bags with convenient write-on panel lock in freshness. Suitable for refrigeration, freezing and microwave uses. Bags are also suitable to keep items organised. Material is BPA free.",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/5/9/3591956.jpg",
+    "width": 300
+  },
+  "name": "Easy Close Storage Bags",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3.8,
+    "lowPrice": 3.8,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T07:10:51.293Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "3.80",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-easy-close-storage-bags-25-pack"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/coles-easy-close-storage-bags-25-pack"
+  ],
+  "sku": "3591956",
+  "updatedAt": "2022-11-24T07:10:51.293Z"
+}

@@ -1,0 +1,56 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "165g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$3.48 per 100G"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Made in New Zealand"
+    }
+  ],
+  "brand": "Nice & Natural",
+  "createdAt": "2022-11-24T07:18:09.938Z",
+  "description": "Nice & Natural Real Dark Chocolate & Cacao Protein Nut Bars 5 Pack",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/7/9/2795586.jpg",
+    "width": 300
+  },
+  "name": "Real Dark Chocolate & Cacao Protein Nut Bars 5 Pack",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 5.75,
+    "lowPrice": 5.75,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T07:18:09.936Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "5.75",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/nice-natural--protein-nut-bars-with-superseed-dark-chocolate-cacao"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/nice-natural--protein-nut-bars-with-superseed-dark-chocolate-cacao"
+  ],
+  "sku": "2795586",
+  "updatedAt": "2022-11-24T07:18:09.937Z"
+}

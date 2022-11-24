@@ -1,0 +1,64 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "INGREDIENTS: Sweet Potato (35%), Black Beans (26%), Carrot, Wheat Flour, Southern Spice Blend (5%) [Fructose, Dehydrated Vegetables (Bell Pepper, Tomato, Garlic, Onion), Sugar, Spices (Mustard Powder, Black Pepper, Paprika, Chilli), Salt, Hydrolysed Maize Protein, Acidity Regulator (262), Smoke Flavouring (1.1%)], Chickpea Kibble."
+    },
+    {
+      "name": "Allergen",
+      "value": "Contains Wheat, Contains CEREALS CONTAINING GLUTEN, May Be Present SOY"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "2.0"
+    },
+    {
+      "name": "Size",
+      "value": "250g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.50 per 100G"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2022-11-24T07:08:49.639Z",
+  "description": "Coles Natures Kitchen Sweet Potato & Blackbean Burger",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/7/5/2752164.jpg",
+    "width": 300
+  },
+  "name": "Natures Kitchen Sweet Potato & Blackbean Burger",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3.75,
+    "lowPrice": 3.75,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T07:08:49.632Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "3.75",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-sweet-potato-blackbean-burgers"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/coles-sweet-potato-blackbean-burgers"
+  ],
+  "sku": "2752164",
+  "updatedAt": "2022-11-24T07:08:49.632Z"
+}

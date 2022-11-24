@@ -1,0 +1,72 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Chocolate (25%) (Cocoa Mass, Sugar, Cocoa Butter, Emulsifier (Sunflower Lecithin)), Sugar, Egg, Rapeseed Oil, Ground Almond, Rice Flour, Chocolate Chips (5%) (Cocoa Mass, Sugar, Cocoa Butter, Emulsifier (Sunflower Lecithin)), Tapioca Starch, Glucose Syrup, Acidity Regulator (E300), Water, Preservative (E202), Raising Agents (E341i, E500ii), Acid (Acetic Acid).Chocolate contains minimum 53% cocoa solids."
+    },
+    {
+      "name": "Allergen",
+      "value": "Contains Egg, Contains Almonds, May Contain Peanuts"
+    },
+    {
+      "name": "Dietary",
+      "value": "No Artificial Flavours or Colours"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "4.0"
+    },
+    {
+      "name": "Size",
+      "value": "150g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$3.00 per 100G"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Made in United Kingdom"
+    }
+  ],
+  "brand": "We Love Cake",
+  "createdAt": "2022-11-24T07:29:25.732Z",
+  "description": "Gluten, wheat and milk free chocolate brownie with chocolate chips. A delicious treat not to be missed.",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/5/0/3509933.jpg",
+    "width": 300
+  },
+  "name": "Chocolate Brownies 4 Pack",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 4.5,
+    "lowPrice": 4.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T07:29:25.730Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "4.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/wlc-chocolate-brownie-4pk"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/wlc-chocolate-brownie-4pk"
+  ],
+  "sku": "3509933",
+  "updatedAt": "2022-11-24T07:29:25.730Z"
+}

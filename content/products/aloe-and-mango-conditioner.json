@@ -1,0 +1,56 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Water, Stearyl Alcohol, Cetyl Alcohol, Stearamidopropyl Dimethylamine, Bis-Aminopropyl Dimethicone, Fragrance, Benzyl Alcohol, Dicetyldimonium Chloride, Glutamic Acid, Sodium Benzoate, Propylene Glycol, Citric Acid, Disodium EDTA, Histidine, Aloe Barbadensis Leaf Juice, Butylene Glycol, Mangifera Indica (Mango) Fruit Extract, Persea Gratissima (Avocado) Fruit Extract, Rubus Fruticosus (Blackberry) Fruit Extract, Alcohol Denatured, Ecklonia Radiata Extract"
+    },
+    {
+      "name": "Size",
+      "value": "350mL"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$2.86 per 100mL"
+    }
+  ],
+  "brand": "Herbal Essences",
+  "createdAt": "2022-11-24T07:37:15.973Z",
+  "description": "Herbal Essences Aloe & Mango Conditioner",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/8/3/3837262.jpg",
+    "width": 300
+  },
+  "name": "Aloe & Mango Conditioner",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 10,
+    "lowPrice": 10,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T07:37:15.972Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "10.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/herbal-essences-cond-aloe-mango-"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/herbal-essences-cond-aloe-mango-"
+  ],
+  "sku": "3837262",
+  "updatedAt": "2022-11-24T07:37:15.972Z"
+}

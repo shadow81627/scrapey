@@ -1,0 +1,56 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Grape Juice, Preservative (224) (Sulphites)"
+    },
+    {
+      "name": "Size",
+      "value": "375mL"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.77 per 100mL"
+    }
+  ],
+  "brand": "Anchor",
+  "createdAt": "2022-11-24T07:12:56.632Z",
+  "description": "Anchor Verjuice Vinegar",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/2/1/5216700.jpg",
+    "width": 300
+  },
+  "name": "Verjuice Vinegar",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 6.65,
+    "lowPrice": 6.65,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T07:12:56.629Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "6.65",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/anchor-verjuice-vinegar"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/anchor-verjuice-vinegar"
+  ],
+  "sku": "5216700",
+  "updatedAt": "2022-11-24T07:12:56.629Z"
+}

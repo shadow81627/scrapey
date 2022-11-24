@@ -1,0 +1,60 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "INGREDIENTS: Water, Reconstituted Cranberry Juice (25%), Sugar, Vitamin C, Natural Sweetener (960), Food Acid (Tartaric Acid)."
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "6.0"
+    },
+    {
+      "name": "Size",
+      "value": "1.5L"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.90 per 1L"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2022-11-24T07:18:26.383Z",
+  "description": "Coles Cranberry Fruit Drink ice cold from the fridge can be enjoyed as a refeshment on its own or as a flavour enhancer for other bevergaes",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/0/4/3048728.jpg",
+    "width": 300
+  },
+  "name": "Cranberry Drink",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2.85,
+    "lowPrice": 2.85,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T07:18:26.382Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "2.85",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-cranberry-drink"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/coles-cranberry-drink"
+  ],
+  "sku": "3048728",
+  "updatedAt": "2022-11-24T07:18:26.382Z"
+}

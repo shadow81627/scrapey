@@ -1,0 +1,60 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Custard (52%) Water, Sugar, Milk Solids, Vegetable Margarine, Thickener (1414), Vegetable Gum (401), Acidity Regulator (339), Natural Vanilla Flavour, Natural Colours (Curcumin, Carmine), Wheat Flour (Thiamine), Water, Butter, Sugar, Milk Solids, Almonds, Yeast, Salt, Glucose Syrup, Vegetable Gum (414), Gelatine."
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "6.0"
+    },
+    {
+      "name": "Size",
+      "value": "400g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.88 per 100G"
+    }
+  ],
+  "brand": "Sara Lee",
+  "createdAt": "2022-11-24T07:26:37.095Z",
+  "description": "A Sara Lee favourite that's perfect for any occasion... Traditional flaky pastry surrounds a creamy custard filling that's made to be enjoyed.",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/6/7/5672243.jpg",
+    "width": 300
+  },
+  "name": "Frozen Custard Danish",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 7.5,
+    "lowPrice": 7.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T07:26:37.094Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "7.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/sara-lee-frozen-custard-danish"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/sara-lee-frozen-custard-danish"
+  ],
+  "sku": "5672243",
+  "updatedAt": "2022-11-24T07:26:37.094Z"
+}

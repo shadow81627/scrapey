@@ -1,0 +1,60 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Alcohol Denat., Water (Aqua), Aloe Barbadensis Leaf Juice, Glycerin, Camellia Sinensis Leaf Extract (Green Tea), Fragrance (Parfum)*, Potassium Sorbate, Limonene**, Linalool**, Geraniol**, *Natural Fragrance, **Component of Natural Fragrance"
+    },
+    {
+      "name": "Warning",
+      "value": "CAUTION FLAMMABLE LIQUID. Keep away from heat and flame. For external use on hands only. Keep out of reach of children. Avoid contact with eyes. If product gets into eyes rinse thoroughly with warm water. Do not apply to irritated or damaged skin. Discontinue use if skin irritation occurs. If swallowed seek medical advice."
+    },
+    {
+      "name": "Size",
+      "value": "50mL"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$10.00 per 100mL"
+    }
+  ],
+  "brand": "Sukin",
+  "createdAt": "2022-11-24T07:19:36.910Z",
+  "description": "Sukin's quick-drying Antibacterial Hand Sanitiser spray fights bacteria leaving hands clean and refreshed without water. With antioxidant rich Green Tea and Aloe Vera to nourish the skin.",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/8/2/3828024.jpg",
+    "width": 300
+  },
+  "name": "Antibacterial Hand Sanitiser",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 5,
+    "lowPrice": 5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T07:19:36.909Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "5.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/sukin-hand-sanitiser-antibacterial"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/sukin-hand-sanitiser-antibacterial"
+  ],
+  "sku": "3828024",
+  "updatedAt": "2022-11-24T07:19:36.909Z"
+}

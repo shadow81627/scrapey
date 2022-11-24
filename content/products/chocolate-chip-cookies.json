@@ -1,0 +1,64 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "INGREDIENTS: Wheat Flour, Sugar, Vegetable Margarine [Palm Oil, Water, Salt, Emulsifiers (471, 472c), Antioxidant (304), Natural Butter Flavour (Natural Flavouring), Natural Colour (Carotene)], Dark Compound Chocolate (9%) [Sugar, Palm Oil, Cocoa Powder, Milk Solids, Emulsifiers (492, Soy Lecithin), Natural Flavouring], Cocoa Powder (6%), Glucose [Preservative (Sulphur Dioxide (Sulphites))], Raising Agents [450, Raising Agent (500)], Milk Solids, Canola Oil [Antioxidant (307)], Salt, Natural Vanilla Flavouring (Natural Flavouring)."
+    },
+    {
+      "name": "Allergen",
+      "value": "May Contain SESAME, May Contain Pine, May Contain Walnut, May Contain EGG, May Contain Cashew, May Contain PEANUTS, May Contain Lupin, May Contain Hazelnuts, May Contain Macadamia Nuts, Contains Gluten, Contains SOY, May Contain Brazil Nuts, Contains Wheat, May Contain Pecan, May Contain Pistachios, May Contain SULPHITES, May Contain Almonds, Contains MILK"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "12.0"
+    },
+    {
+      "name": "Size",
+      "value": "12 pack"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.29 per 1Ea"
+    }
+  ],
+  "brand": "Coles Bakery",
+  "createdAt": "2022-11-24T07:25:40.631Z",
+  "description": "Classic cookies, perfectly sized and just like home-made, you could even pretend you made them yourself!",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/8/9/2/8921210.jpg",
+    "width": 300
+  },
+  "name": "Chocolate Chip Cookies",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3.5,
+    "lowPrice": 3.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T07:25:40.623Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "3.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-bakery-cookies-chocolate-chip-baked-in-store"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/coles-bakery-cookies-chocolate-chip-baked-in-store"
+  ],
+  "sku": "8921210",
+  "updatedAt": "2022-11-24T07:25:40.623Z"
+}

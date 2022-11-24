@@ -1,0 +1,64 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "INGREDIENTS: Durum Wheat Semolina, Water, Free Range Egg (8%)."
+    },
+    {
+      "name": "Allergen",
+      "value": "Contains EGG, Contains Wheat, Contains CEREALS CONTAINING GLUTEN, May Be Present MILK"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "4.0"
+    },
+    {
+      "name": "Size",
+      "value": "375g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.93 per 100G"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2022-11-24T08:10:26.036Z",
+  "description": "Made with fresh & quality ingredients. Enjoy convenient and ready to cook Rana Pumpkin & Caramelised Onion Ravioli.",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/7/7/1/7712156.jpg",
+    "width": 300
+  },
+  "name": "Lasagne Sheets Pasta",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3.5,
+    "lowPrice": 3.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T08:10:26.035Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "3.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-pasta-lasagne-sheets-fresh"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/coles-pasta-lasagne-sheets-fresh"
+  ],
+  "sku": "7712156",
+  "updatedAt": "2022-11-24T08:10:26.035Z"
+}

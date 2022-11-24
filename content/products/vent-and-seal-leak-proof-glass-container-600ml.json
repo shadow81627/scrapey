@@ -1,0 +1,48 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Unit Price",
+      "value": "$5.00 per 1Ea"
+    }
+  ],
+  "brand": "Decor",
+  "createdAt": "2022-11-24T07:11:36.131Z",
+  "description": "Decor Vent and Seal Leak Proof Class Container is your go to container for storing lunch and leftovers. Microwave safe (without lid).",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/7/9/2791880.jpg",
+    "width": 300
+  },
+  "name": "Vent & Seal Leak Proof Glass Container 600mL",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 5,
+    "lowPrice": 5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T07:11:36.129Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "5.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/decor-match-ups-r-seal-glass-storer-600ml"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/decor-match-ups-r-seal-glass-storer-600ml"
+  ],
+  "sku": "2791880",
+  "updatedAt": "2022-11-24T07:11:36.129Z"
+}

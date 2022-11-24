@@ -1,0 +1,48 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Unit Price",
+      "value": "$11.00 per 1Ea"
+    }
+  ],
+  "brand": "Decor",
+  "createdAt": "2022-11-24T07:11:51.232Z",
+  "description": "The 4L Tellfresh Cupcake Storer can hold up to 12 cupcakes for storing or transporting.Product Features: Marked with graduated measurements. Dishwasher safe. Microwave safe. Freezer safe. BPA Free Australian Made.",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/7/9/2791847.jpg",
+    "width": 300
+  },
+  "name": "Tellfresh Cupcake Storer 4L",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 11,
+    "lowPrice": 11,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T07:11:51.231Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "11.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/decor-tellfresh-cupcake-storer-4l"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/decor-tellfresh-cupcake-storer-4l"
+  ],
+  "sku": "2791847",
+  "updatedAt": "2022-11-24T07:11:51.231Z"
+}

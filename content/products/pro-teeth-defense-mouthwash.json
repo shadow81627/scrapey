@@ -1,0 +1,52 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "500 ML"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Made in Bulgaria"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2022-11-24T08:19:18.061Z",
+  "description": "Coles Teeth Defence Mouthwash has been specially formulated to help: - Fight cavities and strengthen enamel - Prevent plaque and tartar formation - Freshen breath and fight bacteria",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/7/1/3712777.jpg",
+    "width": 300
+  },
+  "name": "Pro Teeth Defense Mouthwash",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 4,
+    "lowPrice": 4,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T08:19:18.060Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "4.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-pro-teth-defense-mouthwash"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/coles-pro-teth-defense-mouthwash"
+  ],
+  "sku": "3712777",
+  "updatedAt": "2022-11-24T08:19:18.060Z"
+}

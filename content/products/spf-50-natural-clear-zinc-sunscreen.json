@@ -1,0 +1,60 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Active ingredient Zinc Oxide 220mg/g"
+    },
+    {
+      "name": "Size",
+      "value": "100g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$20.00 per 100G"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Made in Australia"
+    }
+  ],
+  "brand": "Ethical Zinc",
+  "createdAt": "2022-11-24T08:08:58.235Z",
+  "description": "Formulated with certified natural zinc oxide for very high protection against broad spectrum UVA & UVB. Made in Australia using 100% solar power. Certified cruelty free. Reef safe. Suitable for sensitive skin with no chemical UV filters.",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/8/2/3820984.jpg",
+    "width": 300
+  },
+  "name": "SPF 50+ Natural Clear Zinc Sunscreen",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 20,
+    "lowPrice": 20,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T08:08:58.234Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "20.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/ethical-zinc-clear-zinc-sunscren"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/ethical-zinc-clear-zinc-sunscren"
+  ],
+  "sku": "3820984",
+  "updatedAt": "2022-11-24T08:08:58.234Z"
+}

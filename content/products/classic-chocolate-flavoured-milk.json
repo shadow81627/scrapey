@@ -1,0 +1,68 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Whole Milk (91%), Sugar, Cocoa (1%), Maltodextrin, Flavours, Stabiliser (407), Salt, Colours (155,133)."
+    },
+    {
+      "name": "Contains",
+      "value": "Milk"
+    },
+    {
+      "name": "Allergen",
+      "value": "Contains Milk"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "8.0"
+    },
+    {
+      "name": "Size",
+      "value": "2L"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$2.50 per 1L"
+    }
+  ],
+  "brand": "Oak",
+  "createdAt": "2022-11-24T07:46:02.520Z",
+  "description": "An Australian favourite for more than 40 years with its wide range of rich, creamy and authentic flavours - OAK is always the answer.",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/1/3/0/13090.jpg",
+    "width": 300
+  },
+  "name": "Classic Chocolate Flavoured Milk",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 5,
+    "lowPrice": 5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T07:46:02.518Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "5.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/oak-classic-milk-flavoured-chocolate-13090p"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/oak-classic-milk-flavoured-chocolate-13090p"
+  ],
+  "sku": "13090",
+  "updatedAt": "2022-11-24T07:46:02.518Z"
+}

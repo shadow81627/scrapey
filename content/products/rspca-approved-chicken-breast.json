@@ -1,0 +1,64 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "RSPCA APPROVED CHICKEN BREAST, WATER, STARCH (TAPIOCA, POTATO), SALT, ACIDITY REGULATORS (326, 262), VEGETABLE GUM (407a), MINERAL SALTS (451, 508, 450), YEAST EXTRACT, MALTODEXTRIN (MAIZE, POTATO), SUGAR, SPICES AND HERBS, DEHYDRATED VEGETABLE, FLAVOURS, SPICE (160c) AND HERB EXTRACT, VEGETABLE OILS (CANOLA, RICE BRAN), COLOURS (SORGHUM HUSK EXTRACT, 160b)."
+    },
+    {
+      "name": "Dietary",
+      "value": "No Artificial Flavours or Colours"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "3.0"
+    },
+    {
+      "name": "Size",
+      "value": "180g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$30.56 per 1Kg"
+    }
+  ],
+  "brand": "Don",
+  "createdAt": "2022-11-24T08:13:12.333Z",
+  "description": "Don RSPCA Approved Chicken Breast",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/5/8/3583200.jpg",
+    "width": 300
+  },
+  "name": "RSPCA Approved Chicken Breast",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 5.5,
+    "lowPrice": 5.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T08:13:12.333Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "5.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/don-sliced-rspca-chicken-breast"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/don-sliced-rspca-chicken-breast"
+  ],
+  "sku": "3583200",
+  "updatedAt": "2022-11-24T08:13:12.333Z"
+}

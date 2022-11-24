@@ -1,0 +1,68 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Water, Mustard Seeds (30%), Vinegar, Salt, Acidity Regulator (330), Preservatives (224)."
+    },
+    {
+      "name": "Allergen",
+      "value": "Contains Sulphites"
+    },
+    {
+      "name": "Warning",
+      "value": "Contains allergens. See allergens for details."
+    },
+    {
+      "name": "Size",
+      "value": "215g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$2.33 per 100G"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Made in France"
+    }
+  ],
+  "brand": "Maille",
+  "createdAt": "2022-11-24T07:24:02.723Z",
+  "description": "Maille Traditional Dijon Mustard",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/2/0/5201123.jpg",
+    "width": 300
+  },
+  "name": "Traditional Dijon Mustard",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 5,
+    "lowPrice": 5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T07:24:02.722Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "5.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/maille-mustard-dijon"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/maille-mustard-dijon"
+  ],
+  "sku": "5201123",
+  "updatedAt": "2022-11-24T07:24:02.722Z"
+}

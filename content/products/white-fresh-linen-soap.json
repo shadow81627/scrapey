@@ -1,0 +1,56 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Sodium Tallowate and Sodium Cocoate or Sodium Palmate and Sodium Palm Kernelate, Water, Glycerin, Fragrance, Sodium Chloride, Titanium Dioxide, Etidronic Acid, Tetrasodium EDTA."
+    },
+    {
+      "name": "Size",
+      "value": "5 pack"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.93 per 100G"
+    }
+  ],
+  "brand": "Country Life",
+  "createdAt": "2022-11-24T07:33:15.813Z",
+  "description": "Contains natural oils and moisturiser to gently cleanse and nourish your skin, with a clean and simple fragrance reminiscent of the Australian lifestyle.",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/1/7/5175715.jpg",
+    "width": 300
+  },
+  "name": "White Fresh Linen Soap",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 4.2,
+    "lowPrice": 4.2,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T07:33:15.812Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "4.20",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/country-life-soap-fresh-linen"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/country-life-soap-fresh-linen"
+  ],
+  "sku": "5175715",
+  "updatedAt": "2022-11-24T07:33:15.812Z"
+}

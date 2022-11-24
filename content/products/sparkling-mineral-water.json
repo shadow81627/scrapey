@@ -1,0 +1,60 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Carbonated Spring Water. Bottled At Source."
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "1.0"
+    },
+    {
+      "name": "Size",
+      "value": "1L"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$2.95 per 1L"
+    }
+  ],
+  "brand": "Yaru",
+  "createdAt": "2022-11-24T08:06:36.006Z",
+  "description": "Yaru is more than water. Through sales of Yaru we are able to establish projects that help to close the health gap between Indigenous and non-Indigenous Australians. Yaru is bottled at the source, from water that flows deep below an ancient volcano in NSW.",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/1/8/2/1828409.jpg",
+    "width": 300
+  },
+  "name": "Sparkling Mineral Water",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2.95,
+    "lowPrice": 2.95,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T08:06:36.001Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "2.95",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/yaru-sparkling-spring-water"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/yaru-sparkling-spring-water"
+  ],
+  "sku": "1828409",
+  "updatedAt": "2022-11-24T08:06:36.001Z"
+}

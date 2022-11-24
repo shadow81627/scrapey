@@ -1,0 +1,60 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Aluminium Chlorohydrate 18% W/W"
+    },
+    {
+      "name": "Contains",
+      "value": "150ml"
+    },
+    {
+      "name": "Size",
+      "value": "150mL"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$5.20 per 100mL"
+    }
+  ],
+  "brand": "Rexona",
+  "createdAt": "2022-11-24T08:19:44.428Z",
+  "description": "Rexona Women Antiperspirant Pump Sport Deodorant",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/6/8/2/68252.jpg",
+    "width": 300
+  },
+  "name": "Women Antiperspirant Pump Sport Deodorant",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 7.8,
+    "lowPrice": 7.8,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T08:19:44.427Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "7.80",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/rexona-sport-anti-perspirant-deodorant-pump"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/rexona-sport-anti-perspirant-deodorant-pump"
+  ],
+  "sku": "68252",
+  "updatedAt": "2022-11-24T08:19:44.427Z"
+}

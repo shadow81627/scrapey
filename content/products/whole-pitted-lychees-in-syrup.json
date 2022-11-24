@@ -1,0 +1,64 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "INGREDIENTS: Whole Pitted Lychees ;(45%), Water, Sugar, Acidity Regulator (Citric Acid)."
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "3.0"
+    },
+    {
+      "name": "Size",
+      "value": "560g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$4.91 per 1Kg"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Product of China"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2022-11-24T07:18:21.401Z",
+  "description": "Sweet and juicy quality harvested fruit",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/4/2/1/4217671.jpg",
+    "width": 300
+  },
+  "name": "Whole Pitted Lychees In Syrup",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2.75,
+    "lowPrice": 2.75,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T07:18:21.398Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "2.75",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-lychees-pitted-in-syrup"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/coles-lychees-pitted-in-syrup"
+  ],
+  "sku": "4217671",
+  "updatedAt": "2022-11-24T07:18:21.399Z"
+}

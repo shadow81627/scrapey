@@ -1,0 +1,48 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Unit Price",
+      "value": "$4.20 per 1ea"
+    }
+  ],
+  "brand": "Sistema",
+  "createdAt": "2022-11-24T07:11:01.808Z",
+  "description": "A perfect size container for keeping your sandwich fresh until you are ready to eat. With many schools operating a no rubbish policy, these lunch boxes help cut down on using plastic bags, cling film and foil.Designed and Made in New Zealand.Phthalate & BPA Free",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/8/5/4/8549775.jpg",
+    "width": 300
+  },
+  "name": "To Go Sandwich Box",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 4.2,
+    "lowPrice": 4.2,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T07:11:01.806Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "4.20",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/sistema-to-go-sandwich-box"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/sistema-to-go-sandwich-box"
+  ],
+  "sku": "8549775",
+  "updatedAt": "2022-11-24T07:11:01.806Z"
+}

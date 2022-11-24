@@ -1,0 +1,64 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Contains",
+      "value": "Cherry Tomato, Tomato Juice."
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "4.0"
+    },
+    {
+      "name": "Size",
+      "value": "400g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$6.00 per 1Kg"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Made in Italy"
+    }
+  ],
+  "brand": "Mutti",
+  "createdAt": "2022-11-24T07:24:25.925Z",
+  "description": "Our range of speciality tomato products includes Peeled, Cherry Tomatoes and Baby Roma tomatoes  perfect for adding texture and a burst of tomato flavour to a dish, or for the sweeter flavour that Cherry and Baby Roma tomatoes bring.",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/6/1/2612948.jpg",
+    "width": 300
+  },
+  "name": "Cherry Tomatoes",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2.4,
+    "lowPrice": 2.4,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T07:24:25.924Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "2.40",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/mutti-cherry-tomatoes"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/mutti-cherry-tomatoes"
+  ],
+  "sku": "2612948",
+  "updatedAt": "2022-11-24T07:24:25.924Z"
+}

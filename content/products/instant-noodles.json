@@ -1,0 +1,72 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Noodles: Wheat Flour, Vegetable Oil [Antioxidant (319)], Modified Starch (1422), Salt, Mineral Salt (501, 500, 452), Vegetable Gum (412)."
+    },
+    {
+      "name": "Allergen",
+      "value": "Contains Wheat"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "10.0"
+    },
+    {
+      "name": "Warning",
+      "value": "Contains allergen."
+    },
+    {
+      "name": "Size",
+      "value": "700g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.63 per 100G"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Produced in Thailand"
+    }
+  ],
+  "brand": "Fantastic",
+  "createdAt": "2022-11-24T07:19:52.288Z",
+  "description": "These traditional Instant Noodles are made from an age-old recipe using only the finest natural ingredients. At Fantastic, our knowledge of noddles will help you to create new and exciting dishes in your own kitchen.",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/6/9/8/6989187.jpg",
+    "width": 300
+  },
+  "name": "Instant Noodles",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 4.4,
+    "lowPrice": 4.4,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T07:19:52.285Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "4.40",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/fantastic-noodles-instant"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/fantastic-noodles-instant"
+  ],
+  "sku": "6989187",
+  "updatedAt": "2022-11-24T07:19:52.286Z"
+}

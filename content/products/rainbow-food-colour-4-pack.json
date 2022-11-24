@@ -1,0 +1,52 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "28mL"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.18 per 10mL"
+    }
+  ],
+  "brand": "Queen",
+  "createdAt": "2022-11-24T07:12:15.585Z",
+  "description": "Queen Rainbow Food Colour multipack contains droppers of blue, green, red and yellow food colours. The droppers and colour matching lids assist with dosage and easy identification. This multipack is ideal for mixing and creating a rainbow of fun colours.",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/5/2/5529523.jpg",
+    "width": 300
+  },
+  "name": "Rainbow Food Colour 4 pack",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3.3,
+    "lowPrice": 3.3,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T07:12:15.581Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "3.30",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/queen-food-colouring-4-pack-assorted-colours"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/queen-food-colouring-4-pack-assorted-colours"
+  ],
+  "sku": "5529523",
+  "updatedAt": "2022-11-24T07:12:15.581Z"
+}

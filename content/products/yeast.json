@@ -1,0 +1,52 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "70g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$7.57 per 100G"
+    }
+  ],
+  "brand": "Lighthouse",
+  "createdAt": "2022-11-24T07:23:47.509Z",
+  "description": "Lighthouse Yeast",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/7/6/3767768.jpg",
+    "width": 300
+  },
+  "name": "Yeast",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 5.3,
+    "lowPrice": 5.3,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T07:23:47.507Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "5.30",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/lighthouse-yeast-bread-improver"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/lighthouse-yeast-bread-improver"
+  ],
+  "sku": "3767768",
+  "updatedAt": "2022-11-24T07:23:47.507Z"
+}

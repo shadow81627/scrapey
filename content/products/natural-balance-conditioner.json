@@ -1,0 +1,56 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Water (Aqua), Aloe Barbadensis Leaf Juice, Cetyl Alcohol, Cetrimonium Chloride, Sesamum Indicum (Sesame) Seed Oil, Glycerin,Adansonia Digitata Seed Oil (Baobab), Equisetum Arvense Extract (Horsetail), Arctium Lappa Root Extract (Burdock), Urtica Dioica (Nettle) Leaf Extract, Citrus Tangerina (Tangerine) Peel Oil, Citrus Nobilis (Mandarin Orange) Peel Oil, Lavandula Angustifolia (Lavender) Oil, Vanillin, Tocopherol (Vitamin E), Isopropyl Alcohol, Citric Acid, Phenoxyethanol, Benzyl Alcohol, Limonene*, Linalool*.*Natural component of essential oils"
+    },
+    {
+      "name": "Size",
+      "value": "500mL"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$3.80 per 100mL"
+    }
+  ],
+  "brand": "Sukin",
+  "createdAt": "2022-11-24T08:08:48.005Z",
+  "description": "Sukin Natural Balance Conditioner",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/9/9/2994130.jpg",
+    "width": 300
+  },
+  "name": "Natural Balance Conditioner",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 19,
+    "lowPrice": 19,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T08:08:48.003Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "19.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/sukin-natural-balance-conditioner"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/sukin-natural-balance-conditioner"
+  ],
+  "sku": "2994130",
+  "updatedAt": "2022-11-24T08:08:48.003Z"
+}

@@ -1,0 +1,60 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Allergen",
+      "value": "Contains Tree Nuts, May Contain Wheat, May Contain Milk, May Contain Peanuts"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "10.0"
+    },
+    {
+      "name": "Size",
+      "value": "1L"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.20 per 100mL"
+    }
+  ],
+  "brand": "Connoisseur",
+  "createdAt": "2022-11-24T08:10:14.299Z",
+  "description": "A decadent hazelnut frozen dessert swirled with rich chocolate sauce made from responsibly sourced Ghanaian cocoa, combined with crushed roasted hazelnuts. A plant based indulgence harnessing the magic of Africa.",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/8/8/3880352.jpg",
+    "width": 300
+  },
+  "name": "Plant Based Hazelnut Chocolate",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 12,
+    "lowPrice": 12,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T08:10:14.297Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "12.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/connoisseur-plant-based-hazelnut-chocolate"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/connoisseur-plant-based-hazelnut-chocolate"
+  ],
+  "sku": "3880352",
+  "updatedAt": "2022-11-24T08:10:14.297Z"
+}

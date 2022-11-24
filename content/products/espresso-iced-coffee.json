@@ -1,0 +1,76 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Fresh Milk, Sugar, Coffee Powder (0.38%) (Robusta, Arabica), Colour (150c), Flavours."
+    },
+    {
+      "name": "Contains",
+      "value": "Milk"
+    },
+    {
+      "name": "Allergen",
+      "value": "Contains Milk"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "3.0"
+    },
+    {
+      "name": "Warning",
+      "value": "750mL of this product has 1.5 times the caffeine that's in a 250mL cup of instant coffee, which has 80mg caffeine."
+    },
+    {
+      "name": "Size",
+      "value": "750mL"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$5.07 per 1L"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Refer to product packaging"
+    }
+  ],
+  "brand": "Dare",
+  "createdAt": "2022-11-24T07:47:11.854Z",
+  "description": "Dare Espresso Robusta & Arabica Coffee is a pasteurised iced coffee flavoured milk.Made with 100% Rainforest Alliance Certified Coffee Beans.Working with the Rainforest Alliance to support coffee farmers and their communities.",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/0/3/3034010.jpg",
+    "width": 300
+  },
+  "name": "Espresso Iced Coffee",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3.8,
+    "lowPrice": 3.8,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T07:47:11.852Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "3.80",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/dare-espresso-flavoured-milk-3034010p"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/dare-espresso-flavoured-milk-3034010p"
+  ],
+  "sku": "3034010",
+  "updatedAt": "2022-11-24T07:47:11.853Z"
+}

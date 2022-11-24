@@ -1,0 +1,56 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Ammonium Lauryl Sulfate, Sodium Cocoyl Isethionate, Fragrance, Sodium Chloride, Lauryl Glucoside, Citric Acid, Glycerin, Polyquaternium-39, Sodium Benzoate, Styrene/Acrylates Copolymer, Sodium Citrate, Tetrasodium EDTA, Hydroxypropyl Methylcellulose, Polyquaternium-7, PEG-45M, Chamomilla Recutita (Matricaria) Flower Extract, Red 33, Blue 1. (216-36638)."
+    },
+    {
+      "name": "Size",
+      "value": "1L"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.30 per 100mL"
+    }
+  ],
+  "brand": "Johnson's",
+  "createdAt": "2022-11-24T07:35:24.803Z",
+  "description": "Johnson's Body Care Dreamy Skin Lavender & Moonflower Scented Body Wash",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/9/2/1/9216847.jpg",
+    "width": 300
+  },
+  "name": "Body Care Dreamy Skin Lavender & Moonflower Scented Body Wash",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 13,
+    "lowPrice": 13,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T07:35:24.802Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "13.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/johnsons-cream-body-wash-dreamy-skin"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/johnsons-cream-body-wash-dreamy-skin"
+  ],
+  "sku": "9216847",
+  "updatedAt": "2022-11-24T07:35:24.802Z"
+}

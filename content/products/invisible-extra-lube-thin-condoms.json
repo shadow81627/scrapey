@@ -1,0 +1,60 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Contains",
+      "value": "10 Condoms"
+    },
+    {
+      "name": "Warning",
+      "value": "Keep out of reach of children."
+    },
+    {
+      "name": "Size",
+      "value": "10 pack"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.90 per 1Ea"
+    }
+  ],
+  "brand": "Durex",
+  "createdAt": "2022-11-24T08:19:21.727Z",
+  "description": "Durex Invisible Extra Lube Thin Condoms",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/7/3/3734124.jpg",
+    "width": 300
+  },
+  "name": "Invisible Extra Lube Thin Condoms",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 9,
+    "lowPrice": 9,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T08:19:21.726Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "9.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/durex-fetherlite-ultra-extra-lube-10-pack"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/durex-fetherlite-ultra-extra-lube-10-pack"
+  ],
+  "sku": "3734124",
+  "updatedAt": "2022-11-24T08:19:21.726Z"
+}

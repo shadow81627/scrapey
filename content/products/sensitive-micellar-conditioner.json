@@ -1,0 +1,56 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Water (Aqua), AloeBarbadensis Leaf Juice, Cetyl Alcohol, Dipalmitoylethyl Dimonium Chloride, Persea Gratissima (Avocado)Oil, Cocos Nucifera (Coconut)Oil, ArganiaSpinosa Kernel Oil (Argan), Chamomilla Recutita (Matricaria) Flower Extract (Chamomile),Tocopherol (Vitamin E), Glycerin, Glycine Soja (Soybean)Oil, Vanillin, Cetearyl Alcohol, Tetrasodium Glutamate Diacetate, Citric Acid, Phenoxyethanol, Benzyl Alcohol."
+    },
+    {
+      "name": "Size",
+      "value": "1L"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$23.00 per 1L"
+    }
+  ],
+  "brand": "Sukin",
+  "createdAt": "2022-11-24T08:09:07.659Z",
+  "description": "Sukin Sensitive Micellar Conditioner",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/7/2/3722260.jpg",
+    "width": 300
+  },
+  "name": "Sensitive Micellar Conditioner",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 23,
+    "lowPrice": 23,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T08:09:07.658Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "23.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/sukin-sensitive-micellar-conditioner"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/sukin-sensitive-micellar-conditioner"
+  ],
+  "sku": "3722260",
+  "updatedAt": "2022-11-24T08:09:07.658Z"
+}

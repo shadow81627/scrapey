@@ -1,0 +1,56 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Contains",
+      "value": "85 3-ply tissues."
+    },
+    {
+      "name": "Size",
+      "value": "85 pack"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.03 per 1Ea"
+    }
+  ],
+  "brand": "Kleenex",
+  "createdAt": "2022-11-24T07:48:15.694Z",
+  "description": "Kleenex Allergy Comfort 3 Ply Facial Tissues",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/9/0/3904122.jpg",
+    "width": 300
+  },
+  "name": "Allergy Comfort 3 Ply Facial Tissues",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2.2,
+    "lowPrice": 2.2,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T07:48:15.693Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "2.20",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/klenex-3ply-facial-tissues-allergy-comfort"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/klenex-3ply-facial-tissues-allergy-comfort"
+  ],
+  "sku": "3904122",
+  "updatedAt": "2022-11-24T07:48:15.693Z"
+}

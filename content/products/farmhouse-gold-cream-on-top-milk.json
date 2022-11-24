@@ -1,0 +1,68 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Full cream milk, cream (from milk)"
+    },
+    {
+      "name": "Contains",
+      "value": "Milk"
+    },
+    {
+      "name": "Allergen",
+      "value": "Contains Milk"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "6.0"
+    },
+    {
+      "name": "Size",
+      "value": "1.5L"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$2.53 per 1L"
+    }
+  ],
+  "brand": "Pauls",
+  "createdAt": "2022-11-24T07:13:11.261Z",
+  "description": "Farmhouse Gold is traditional wholesome milk with a layer of cream on top. It's Perfect for those who love the rich, creamy taste of real milk. Made with fresh, premium milk from Australian farms, Farmhouse Gold has a delicious, velvety taste you will savour. Milk, the way it was meant to be be.",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/9/1/2917967.jpg",
+    "width": 300
+  },
+  "name": "Farmhouse Gold Cream On Top Milk",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3.8,
+    "lowPrice": 3.8,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T07:13:11.259Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "3.80",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/pauls-farmhouse-gold-unhomogenised-milk"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/pauls-farmhouse-gold-unhomogenised-milk"
+  ],
+  "sku": "2917967",
+  "updatedAt": "2022-11-24T07:13:11.259Z"
+}

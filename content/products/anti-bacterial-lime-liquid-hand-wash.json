@@ -1,0 +1,60 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Lactic Acid, Sodium Chloride, Cocamide MEA, Fragrance, Sodium Benzoate, Sodium Salicylate, Sodium Hydroxide, Glycerin, Tetrasodium EDTA, Benzophenone-4, Poloxamer 124, Lime (Citrus Aurantifolia) Juice, Lime (Citrus Aurantifolia) Oil, CI 47005, CI 42090."
+    },
+    {
+      "name": "Warning",
+      "value": "Does not contain Ethyl Alcohol."
+    },
+    {
+      "name": "Size",
+      "value": "250mL"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.20 per 100mL"
+    }
+  ],
+  "brand": "Palmolive",
+  "createdAt": "2022-11-24T07:33:15.650Z",
+  "description": "Palmolive Anti-Bacterial Lime Liquid Hand Wash",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/6/9/1/6914723.jpg",
+    "width": 300
+  },
+  "name": "Anti-Bacterial Lime Liquid Hand Wash",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3,
+    "lowPrice": 3,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T07:33:15.649Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "3.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/palmolive-hand-wash-liquid-softwash-pump-antibacterial-lime"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/palmolive-hand-wash-liquid-softwash-pump-antibacterial-lime"
+  ],
+  "sku": "6914723",
+  "updatedAt": "2022-11-24T07:33:15.650Z"
+}

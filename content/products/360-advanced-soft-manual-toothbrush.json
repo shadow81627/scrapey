@@ -1,0 +1,56 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Warning",
+      "value": "Dentist & Hygienists recommend replacing your toothbrush every 3 months."
+    },
+    {
+      "name": "Size",
+      "value": "1 pack"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$3.00 per 1Ea"
+    }
+  ],
+  "brand": "Colgate",
+  "createdAt": "2022-11-24T08:19:04.467Z",
+  "description": "Colgate 360 Advanced Soft Manual Toothbrush",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/8/7/2871200.jpg",
+    "width": 300
+  },
+  "name": "360 Advanced Soft Manual Toothbrush",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3,
+    "lowPrice": 3,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T08:19:04.466Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "3.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/colgate--360-advanced-soft-manual-toothbrush"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/colgate--360-advanced-soft-manual-toothbrush"
+  ],
+  "sku": "2871200",
+  "updatedAt": "2022-11-24T08:19:04.466Z"
+}
