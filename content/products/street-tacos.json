@@ -1,0 +1,60 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Wheat Flour (64%) (Thiamine, Folic Acid), Water, Vegetable Oil, Mineral Salts (450, 500), Iodised Salt, Sugar, Vegetable Gums (412, 466), Emulsifier (471), Acidity Regulator (297), Preservatives (282, 200)."
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "10.0"
+    },
+    {
+      "name": "Size",
+      "value": "375g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.17 per 100G"
+    }
+  ],
+  "brand": "Mission",
+  "createdAt": "2022-11-24T06:48:10.167Z",
+  "description": "Mission Street Tacos are the perfect mini tortillas if you're wanting to replicate authentic Mexican at home! They are smaller, thicker and softer and the perfect size for meals and entertaining.Suitable for Vegetarians and Vegans",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/8/0/3801301.jpg",
+    "width": 300
+  },
+  "name": "Street Tacos",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 4.4,
+    "lowPrice": 4.4,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T06:48:10.166Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "4.40",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/mission-stret-tacos"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/mission-stret-tacos"
+  ],
+  "sku": "3801301",
+  "updatedAt": "2022-11-24T06:48:10.166Z"
+}

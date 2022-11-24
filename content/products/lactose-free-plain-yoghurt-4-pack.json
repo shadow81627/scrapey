@@ -1,0 +1,68 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Fresh Whole Milk, Sugar, Milk Solids, Gelatine, Live Lactic Acid Culture (Streptococcus thermophilus, Lactobacillus acidophilus, Bifodobacterium lactis)."
+    },
+    {
+      "name": "Contains",
+      "value": "Milk"
+    },
+    {
+      "name": "Allergen",
+      "value": "Contains Milk"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "4.0"
+    },
+    {
+      "name": "Size",
+      "value": "140g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.07 per 100G"
+    }
+  ],
+  "brand": "Liddells",
+  "createdAt": "2022-11-24T06:50:46.246Z",
+  "description": "Liddells Lactose Free Plain Yoghurt 4 pack",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/1/2/0/1200107.jpg",
+    "width": 300
+  },
+  "name": "Lactose Free Plain Yoghurt 4 pack",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 6,
+    "lowPrice": 6,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T06:50:46.244Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "6.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/liddells-yoghurt-plain-lactose-free"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/liddells-yoghurt-plain-lactose-free"
+  ],
+  "sku": "1200107",
+  "updatedAt": "2022-11-24T06:50:46.244Z"
+}

@@ -1,0 +1,68 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Strawberries, Boysenberries and Blackcurrants (50% mixed berries), Sugar, Lemon Juice Concentrate, Gelling Agent (Fruit Pectin)"
+    },
+    {
+      "name": "Dietary",
+      "value": "No Preservatives, No Artificial Flavours or Colours"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "45.0"
+    },
+    {
+      "name": "Size",
+      "value": "455g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.16 per 100G"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Made in New Zealand"
+    }
+  ],
+  "brand": "Barker's",
+  "createdAt": "2022-11-24T06:44:50.675Z",
+  "description": "Barker's Three Berry Jam",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/7/6/8/7682838.jpg",
+    "width": 300
+  },
+  "name": "Three Berry Jam",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 5.3,
+    "lowPrice": 5.3,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T06:44:50.672Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "5.30",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/anathoth-jam-three-berry"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/anathoth-jam-three-berry"
+  ],
+  "sku": "7682838",
+  "updatedAt": "2022-11-24T06:44:50.673Z"
+}

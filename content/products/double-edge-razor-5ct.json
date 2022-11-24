@@ -1,0 +1,48 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Unit Price",
+      "value": "$15.00 per 1Ea"
+    }
+  ],
+  "brand": "King C Gillette",
+  "createdAt": "2022-11-24T06:50:18.708Z",
+  "description": "King C Gillette Double Edge Razor + 5Ct",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/8/9/3896160.jpg",
+    "width": 300
+  },
+  "name": "Double Edge Razor + 5Ct",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 15,
+    "lowPrice": 15,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T06:50:18.707Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "15.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/king-c-gillette-double-edge-razor-5ct"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/king-c-gillette-double-edge-razor-5ct"
+  ],
+  "sku": "3896160",
+  "updatedAt": "2022-11-24T06:50:18.707Z"
+}

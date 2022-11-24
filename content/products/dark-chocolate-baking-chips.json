@@ -1,0 +1,72 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Sugar, Cocoa Mass, Cocoa Butter, Emulsifiers (Soy Lecithin, 476), Milk Solids."
+    },
+    {
+      "name": "Contains",
+      "value": "Dark Chocolate Contains Cocoa Solids 45%. Milk and soy."
+    },
+    {
+      "name": "Allergen",
+      "value": "May Be Present Peanuts, May Be Present Tree Nuts, Contains Soy, Contains Milk"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "8.0"
+    },
+    {
+      "name": "Size",
+      "value": "200g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$2.25 per 100G"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Made in Australia from Local and Imported Ingredients"
+    }
+  ],
+  "brand": "Cadbury",
+  "createdAt": "2022-11-24T06:44:42.980Z",
+  "description": "Cadbury believes that sustainably sourced cocoa does good - for farmers, their communities, and our planet. Cocoa Life helps farmers get the most from their cocoa trees through environmentally friendly farming.",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/3/1/2313608.jpg",
+    "width": 300
+  },
+  "name": "Dark Chocolate Baking Chips",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 4.5,
+    "lowPrice": 4.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T06:44:42.978Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "4.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/cadbury-real-chocolate-dark-chocolate-baking-chips"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/cadbury-real-chocolate-dark-chocolate-baking-chips"
+  ],
+  "sku": "2313608",
+  "updatedAt": "2022-11-24T06:44:42.978Z"
+}

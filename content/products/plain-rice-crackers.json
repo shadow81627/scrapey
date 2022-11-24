@@ -1,0 +1,64 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "INGREDIENTS: Australian Rice Flour (92%), Bamboo Fibre, Sunflower Oil, Salt, Maltodextrin, Sugar, Flavour Enhancer (627, 631)."
+    },
+    {
+      "name": "Allergen",
+      "value": "May Contain SESAME"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "4.0"
+    },
+    {
+      "name": "Size",
+      "value": "100g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.90 per 100G"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2022-11-24T06:43:56.560Z",
+  "description": "AIR BAKED ORIGINAL RICE CRACKERS",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/4/6/5460198.jpg",
+    "width": 300
+  },
+  "name": "Plain Rice Crackers",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 0.9,
+    "lowPrice": 0.9,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T06:43:56.553Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "0.90",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-crackers-rice-plain"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/coles-crackers-rice-plain"
+  ],
+  "sku": "5460198",
+  "updatedAt": "2022-11-24T06:43:56.554Z"
+}

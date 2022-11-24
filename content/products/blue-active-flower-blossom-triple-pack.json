@@ -1,0 +1,52 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Refer to www.henkel.com.au for full information"
+    },
+    {
+      "name": "Size",
+      "value": "150 GRAM"
+    }
+  ],
+  "brand": "Bref",
+  "createdAt": "2022-11-24T06:46:59.776Z",
+  "description": "Bref Blue Active Flower Blossom Triple Pack",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/7/4/3744740.jpg",
+    "width": 300
+  },
+  "name": "Blue Active Flower Blossom Triple Pack",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 9,
+    "lowPrice": 9,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T06:46:59.775Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "9.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/bref-blue-active-toilet-flower-blossom-triple-pk"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/bref-blue-active-toilet-flower-blossom-triple-pk"
+  ],
+  "sku": "3744740",
+  "updatedAt": "2022-11-24T06:46:59.775Z"
+}

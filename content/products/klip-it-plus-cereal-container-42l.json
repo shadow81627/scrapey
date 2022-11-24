@@ -1,0 +1,48 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Unit Price",
+      "value": "$15.75 per 1Ea"
+    }
+  ],
+  "brand": "Sistema",
+  "createdAt": "2022-11-24T06:47:05.837Z",
+  "description": "Sistema Klip It Plus Cereal Container 4.2L",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/7/9/3794556.jpg",
+    "width": 300
+  },
+  "name": "Klip It Plus Cereal Container 4.2L",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 15.75,
+    "lowPrice": 15.75,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T06:47:05.836Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "15.75",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/sistema-klip-it-plus-cereal-container"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/sistema-klip-it-plus-cereal-container"
+  ],
+  "sku": "3794556",
+  "updatedAt": "2022-11-24T06:47:05.836Z"
+}

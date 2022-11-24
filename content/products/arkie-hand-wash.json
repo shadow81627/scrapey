@@ -1,0 +1,52 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "500mL"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.99 per 100mL"
+    }
+  ],
+  "brand": "Sukin",
+  "createdAt": "2022-11-24T06:46:53.861Z",
+  "description": "Sukin Arkie Hand Wash",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/7/1/3714375.jpg",
+    "width": 300
+  },
+  "name": "Arkie Hand Wash",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 9.95,
+    "lowPrice": 9.95,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T06:46:53.858Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "9.95",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/sukin-arkie-hand-wash"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/sukin-arkie-hand-wash"
+  ],
+  "sku": "3714375",
+  "updatedAt": "2022-11-24T06:46:53.858Z"
+}

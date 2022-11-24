@@ -1,0 +1,68 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Strawberries (50%), Sugar, Lemon Juice Concentrate, Gelling Agent (Fruit Pectin)."
+    },
+    {
+      "name": "Dietary",
+      "value": "No Preservatives, No Artificial Flavours or Colours"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "45.0"
+    },
+    {
+      "name": "Size",
+      "value": "455g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.16 per 100G"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Made in New Zealand"
+    }
+  ],
+  "brand": "Barker's",
+  "createdAt": "2022-11-24T06:44:37.579Z",
+  "description": "Barker's Strawberry Jam",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/7/5/4/7549361.jpg",
+    "width": 300
+  },
+  "name": "Strawberry Jam",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 5.3,
+    "lowPrice": 5.3,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T06:44:37.578Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "5.30",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/anathoth-strawberry-jam"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/anathoth-strawberry-jam"
+  ],
+  "sku": "7549361",
+  "updatedAt": "2022-11-24T06:44:37.578Z"
+}

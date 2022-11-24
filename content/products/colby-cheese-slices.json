@@ -1,0 +1,64 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Ingredients-Pasteurised Milk, Salt, Started Cultures, Enzyme (Non Animal Rennet)"
+    },
+    {
+      "name": "Allergen",
+      "value": "Contains Milk"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "12.0"
+    },
+    {
+      "name": "Size",
+      "value": "250g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$33.20 per 1Kg"
+    }
+  ],
+  "brand": "Liddells",
+  "createdAt": "2022-11-24T06:50:39.172Z",
+  "description": "All Liddells products are all made from real dairy, lactose free and where needed we add the lactase enzyme to break down the lactose into two simple sugars: glucose and galactose. These sugars can be easily absorbed in the small intestine, keeping your tummy feeling happy. That's all it is!",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/2/4/3241626.jpg",
+    "width": 300
+  },
+  "name": "Colby Cheese Slices",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 8.3,
+    "lowPrice": 8.3,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T06:50:39.171Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "8.30",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/liddells-cheese-slices-colby"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/liddells-cheese-slices-colby"
+  ],
+  "sku": "3241626",
+  "updatedAt": "2022-11-24T06:50:39.171Z"
+}

@@ -1,0 +1,52 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "3 pack"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$4.75 per 1Ea"
+    }
+  ],
+  "brand": "Sistema",
+  "createdAt": "2022-11-24T06:47:04.392Z",
+  "description": "Sistema Plus Rectangle Containers 1 Litre",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/7/9/3794181.jpg",
+    "width": 300
+  },
+  "name": "Plus Rectangle Containers 1 Litre",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 14.25,
+    "lowPrice": 14.25,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T06:47:04.391Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "14.25",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/sistema-klip-it-plus-containers-1-litre"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/sistema-klip-it-plus-containers-1-litre"
+  ],
+  "sku": "3794181",
+  "updatedAt": "2022-11-24T06:47:04.391Z"
+}

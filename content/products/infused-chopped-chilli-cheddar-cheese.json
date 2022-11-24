@@ -1,0 +1,59 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Cheese (Pasteurised Milk, Salt, Starter Cultures, Non-Animal Rennet), Chilli (1%)."
+    },
+    {
+      "name": "Allergen",
+      "value": "Contains Milk"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "5.0"
+    },
+    {
+      "name": "Size",
+      "value": "130g"
+    }
+  ],
+  "brand": "Cracker Barrel",
+  "createdAt": "2022-11-24T06:46:27.882Z",
+  "description": "Our Infused range of adventurous flavours adds a punch to make the perfect cheese platter.",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/2/7/3276868.jpg",
+    "width": 300
+  },
+  "name": "Infused Chopped Chilli Cheddar Cheese",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": null,
+    "lowPrice": null,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/OutOfStock",
+        "availabilityStarts": "2022-11-24T06:46:27.881Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/cracker-barrel-cheese-chilli"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/cracker-barrel-cheese-chilli"
+  ],
+  "sku": "3276868",
+  "updatedAt": "2022-11-24T06:46:27.881Z"
+}

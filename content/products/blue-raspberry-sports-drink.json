@@ -1,0 +1,60 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "INGREDIENTS: Water, Sugar, Food Acids (330, 514), Mineral Salts (Potassium Citrate, Magnesium Lactate, Sodium Chloride, Tricalcium Phosphate), Natural Flavours, Preservative (202), Natural Colour (Anthocyanins)."
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "1.0"
+    },
+    {
+      "name": "Size",
+      "value": "750mL"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$2.47 per 1L"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2022-11-24T06:49:58.895Z",
+  "description": "Formulated to assist in replacing electrolytes and fluids lost when you sweat. Drinking 250mL every 15 minutes supports hydration and energy levels during sustained strenuous exercise. Average Osmolality is 261 milliosmole/L.",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/5/3/3531900.jpg",
+    "width": 300
+  },
+  "name": "Blue Raspberry Sports Drink",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 1.85,
+    "lowPrice": 1.85,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T06:49:58.893Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "1.85",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-sports-drink-blue-raspberry"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/coles-sports-drink-blue-raspberry"
+  ],
+  "sku": "3531900",
+  "updatedAt": "2022-11-24T06:49:58.893Z"
+}

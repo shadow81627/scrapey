@@ -1,0 +1,64 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Whole Grain Cereals (52%) [ Wheat (40%), Oats (12%)], Fruit Paste [Concentrated Apple Puree, Berry Puree (2.5%) (Strawberry, Raspberry, Blueberry), Concentrated Blackcurrant Juice, Sugar, Glucose Syrup, Humectant (Glycerol), Acidity Regulator (Malic Acid), Gelling Agent (Sodium Alginate), Firming Agent (Calcium Lactate), Natural Flavour], Wheat Flour, Sugar, Mineral Salt (Calcium Carbonate), Salt. Vitamins and Minerals Minerals (Iron), Vitamins (C, Niacin, B1, Riboflavin) Contains Gluten, Wheat. May Contain Barley, Rye, Milk, Soy, Tree Nuts."
+    },
+    {
+      "name": "Allergen",
+      "value": "May Contain Barley, Contains Oats, May Contain Milk, Contains Cereals, Contains Wheat, May Contain Tree Nuts, May Contain Soybean, May Contain Rye"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "16.0"
+    },
+    {
+      "name": "Size",
+      "value": "500g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.30 per 100G"
+    }
+  ],
+  "brand": "Uncle Tobys",
+  "createdAt": "2022-11-24T06:44:02.504Z",
+  "description": "UNCLE TOBYS FRUITY BITES are delicious puffs of wholegrain wheat and UNCLE TOBYS Oats filled with a fruity Wildberry centre helping to re-energise and fuel active bodies and minds.",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/3/6/5362610.jpg",
+    "width": 300
+  },
+  "name": "Fruity Bites Wildberry Flavour Cereal",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 6.5,
+    "lowPrice": 6.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T06:44:02.502Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "6.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/uncle-toby-cereal-fruity-bite-wldbry"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/uncle-toby-cereal-fruity-bite-wldbry"
+  ],
+  "sku": "5362610",
+  "updatedAt": "2022-11-24T06:44:02.502Z"
+}

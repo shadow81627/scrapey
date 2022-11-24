@@ -1,0 +1,64 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "INGREDIENTS: Maltodextrin, Maize Starch, Salt, Sugar, Beverage Whitener [Stabilisers (340, 451, 452), Glucose Syrup (from Wheat), Vegetable Fat (Coconut, Palm*), Emulsifiers (471, 481, 322 from Soy), Milk Protein, Anticaking Agent (551), Natural Flavour], Vegetable Gum (412), Hydrolyzed Maize Protein, Chicken Natural Flavour, Colour (Caramelised Sugar), Sunflower Oil, Onion Powder, Mineral Salt (450), Yeast Extract, Tomato Powder, Garlic Powder, Herb Powder, Pepper, Rosemary, Thyme, Parsley.*Contributes to the production of certified sustainable palm oil."
+    },
+    {
+      "name": "Allergen",
+      "value": "Contains SOY, Contains Wheat, Contains CEREALS CONTAINING GLUTEN, Contains MILK"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "16.0"
+    },
+    {
+      "name": "Size",
+      "value": "120g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.75 per 100G"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2022-11-24T06:50:24.175Z",
+  "description": "Coles Gravy Mix Chicken 120 Gram a pantry staple that be made up as required to add flavour to your dishes",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/7/7/5/7755160.jpg",
+    "width": 300
+  },
+  "name": "Chicken Gravy Mix",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2.1,
+    "lowPrice": 2.1,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T06:50:24.168Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "2.10",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-gravy-mix-chicken"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/coles-gravy-mix-chicken"
+  ],
+  "sku": "7755160",
+  "updatedAt": "2022-11-24T06:50:24.168Z"
+}
