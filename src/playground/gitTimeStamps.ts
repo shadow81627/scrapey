@@ -1,13 +1,22 @@
 import { getStamps } from 'git-date-extractor';
-import { readFile } from 'fs/promises'; 
+import { readFile, writeFile } from 'fs/promises'; 
+import deepSort from '../utils/deepSort';
 export default async function gitTimeStamps(): Promise<void> {
-  const timestamps = await getStamps({ onlyIn: 'content', outputToFile: true });
-  // const timestamps = JSON.parse(
-  //   (await readFile('timestamps.json')).toString(),
-  // );
+  const timestamps: Record<string, {created: number, updated: number }> = JSON.parse(
+    (await readFile('timestamps.json')).toString(),
+  );
 
-  // for (const timestamp of timestamps) {
-  //   content.createdAt = timestamps[contentFilePath].created;
-  // }
-  
+  let iteration = 0;
+  for (const [path, timestamp] of Object.entries(timestamps)) {
+    iteration++
+    
+    const content = JSON.parse((await readFile(path)).toString());
+    console.log(iteration, path)
+    content.createdAt = new Date(timestamp.created).toISOString();
+    await writeFile(
+      path,
+      JSON.stringify(deepSort(content), undefined, 2) + '\n',
+    )
+  }
+  // await getStamps({ onlyIn: 'content', outputToFile: true });
 }
