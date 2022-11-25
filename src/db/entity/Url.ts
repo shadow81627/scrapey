@@ -17,6 +17,7 @@ import isValidUrl from '../../utils/isValidUrl';
 import { Dated } from '../util/Dated';
 import { CrawlIssue } from './CrawlIssue';
 import { Image } from './Image';
+import { Thing } from './Thing';
 
 interface UrlParts {
   hostname: string;
@@ -68,6 +69,13 @@ export class Url {
   @OneToOne(() => Image)
   @JoinColumn()
   image?: Relation<Image>;
+
+  @ManyToMany(() => Thing, { nullable: true })
+  @JoinTable({
+    name: "thing_urls",
+  })
+  things?: Promise<Relation<Thing[]>>;
+
   @OneToMany(() => CrawlIssue, (issue: CrawlIssue) => issue.url)
   issues?: Relation<CrawlIssue>;
 
