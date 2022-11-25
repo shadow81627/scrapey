@@ -1,62 +1,72 @@
 {
   "@type": "Recipe",
+  "author": {
+    "@type": "Person",
+    "name": "Produced for Woolworths"
+  },
   "cookTime": "PT30M",
   "createdAt": "2022-11-22T10:40:29.565Z",
-  "datePublished": "2022-04-27",
+  "datePublished": "2022-08-03",
   "description": "This mushroom burger is spicy, cheesy and full of bite.",
-  "image": "https://foodhub.scene7.com/is/image/woolworthsltdprod/338102?wid=4151&hei=2767&fmt=png-alpha",
-  "keywords": "Spicy Mushroom Burger",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1300,
+    "mime": "image/jpeg",
+    "url": "https://foodhub.scene7.com/is/image/woolworthsltdprod/338102:Square-1300x1300",
+    "width": 1300
+  },
+  "keywords": "Beef burger,Mushroom",
   "name": "Spicy Mushroom Burger Recipe | Woolworths",
   "prepTime": "PT20M",
-  "recipeCategory": "mains",
-  "recipeCuisine": "north-american",
+  "recipeCategory": "Lunch,Dinner",
+  "recipeCuisine": "American",
   "recipeId": "RGWW338102",
   "recipeIngredient": [
-    "4 large portobello mushroom",
-    "20 g butter",
-    "1 small white onion",
+    "4 large portobello mushroom, washed and drained",
+    "20g butter, lightly softened",
+    "1 small white onion, peeled and finely diced",
     "1 pinch salt",
     "1 pinch cracked black pepper",
-    "2 cloves garlic",
+    "2 cloves garlic, peeled and finely diced",
     "4 slices chilli cheese",
-    "4 medium brioche buns",
+    "4 medium brioche buns, sliced in half",
     "4 tbs chipotle mayonnaise",
-    "4 leaves iceberg lettuce",
-    "1 medium roma tomato"
+    "4 leaves iceberg lettuce, washed, drained and torn",
+    "1 medium roma tomato, sliced"
   ],
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Place the lettuce, tomato and cheese on the buns and then add the roasted mushrooms before serving."
+      "HowToTip": {},
+      "text": "Pre-heat the oven to 180°C/160°C fan-forced. Combine the butter with the finely diced onions, garlic, salt and pepper."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Place the lettuce, tomato and cheese on the buns and then add the roasted mushrooms before serving."
+      "HowToTip": {},
+      "text": "Place the butter inside the portabello mushrooms evenly and bake in the oven in a baking dish for 20 minutes."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Place the lettuce, tomato and cheese on the buns and then add the roasted mushrooms before serving."
+      "HowToTip": {},
+      "text": "Remove from the oven and flip the mushrooms over and baste the other side of the mushroom with the juices."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Place the lettuce, tomato and cheese on the buns and then add the roasted mushrooms before serving."
+      "HowToTip": {},
+      "text": "Bake for a further 10 minutes while you toast your brioche buns for 3 minutes."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
+      "HowToTip": {},
       "text": "Place the lettuce, tomato and cheese on the buns and then add the roasted mushrooms before serving."
     }
   ],
   "recipeNameId": "spicy-mushroom-burger",
   "recipeYield": "4",
   "sameAs": [
-    "https://woolworths.com.au/shop/find-recipes/mushroom-burger"
+    "https://woolworths.com.au/shop/recipes/spicy-mushroom-burger"
   ],
   "totalTime": "PT50M",
-  "updatedAt": "2022-11-22T10:40:29.565Z",
+  "updatedAt": "2022-11-25T00:57:42.432Z",
   "url": "https://www.woolworths.com.au/shop/recipes/spicy-mushroom-burger"
 }

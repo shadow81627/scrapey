@@ -1,69 +1,75 @@
 {
   "@type": "Recipe",
+  "author": {
+    "@type": "Person",
+    "name": "Customer - stella8"
+  },
   "cookTime": "PT40M",
   "createdAt": "2022-11-24T12:55:19.016Z",
-  "datePublished": "2021-07-06",
+  "datePublished": "2022-08-03",
   "description": "Tasty!",
-  "image": "https://foodhub.scene7.com/is/image/woolworthsltdprod/z9hz7bygb2bhivgpfph1?wid=2254&hei=1960&fmt=png-alpha",
-  "keywords": "Fried Chicken Noodles",
+  "image": [
+    "https://foodhub.scene7.com/is/image/woolworthsltdprod/z9hz7bygb2bhivgpfph1:Square-1300x1300"
+  ],
+  "keywords": "Fried chicken,Seafood free,Soy free,Tree nut free,Dairy free,Peanut free",
   "name": "Fried Chicken Noodles Recipe | Woolworths",
   "prepTime": "PT20M",
-  "recipeCategory": "mains",
-  "recipeCuisine": "asian",
+  "recipeCategory": "Mains",
+  "recipeCuisine": "Asian",
   "recipeId": "a0K2y0000011FTuEAM",
   "recipeIngredient": [
-    "1 L chicken stock",
-    "4 piece chicken maryland",
-    "500 g egg noodles",
+    "1L chicken stock",
+    "4 piece chicken maryland (whole leg: thigh & drumstick)",
+    "500g egg noodles",
     "3 leaves lettuce",
     "2 stalk shallots",
     "2 tsp salt",
     "2 tsp five spice powder",
-    "oil"
+    "oil (for deep-frying)"
   ],
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "To serve, place chicken on top."
+      "HowToTip": {},
+      "text": "Place chicken, salt and five spice powder in a saucepan, cover with water and bring to boil. Then simmer until chicken is cooked but firm."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "To serve, place chicken on top."
+      "HowToTip": {},
+      "text": "Remove the chicken from stock, drain and dry."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "To serve, place chicken on top."
+      "HowToTip": {},
+      "text": "Heat oil in wok, deep-fry chicken until crisp and golden."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "To serve, place chicken on top."
+      "HowToTip": {},
+      "text": "Boil chicken stock in a saucepan."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "To serve, place chicken on top."
+      "HowToTip": {},
+      "text": "Cook noodles as per package instructions. Cut shallots and lettuce."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "To serve, place chicken on top."
+      "HowToTip": {},
+      "text": "Place noodles into each bowl, lettuce, shallots and stock to cover the noodles."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
+      "HowToTip": {},
       "text": "To serve, place chicken on top."
     }
   ],
   "recipeNameId": "fried-chicken-noodles",
   "recipeYield": "4",
   "sameAs": [
-    "https://woolworths.com.au/shop/find-recipes/how-to-cook-chicken-maryland"
+    "https://woolworths.com.au/shop/recipes/fried-chicken-noodles"
   ],
   "totalTime": "PT60M",
-  "updatedAt": "2022-11-24T12:55:19.015Z",
+  "updatedAt": "2022-11-25T01:00:00.212Z",
   "url": "https://www.woolworths.com.au/shop/recipes/fried-chicken-noodles"
 }

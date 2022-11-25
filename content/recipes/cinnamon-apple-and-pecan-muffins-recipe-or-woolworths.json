@@ -1,58 +1,68 @@
 {
   "@type": "Recipe",
+  "author": {
+    "@type": "Person",
+    "name": "Produced for Woolworths"
+  },
   "cookTime": "PT25M",
   "createdAt": "2022-11-24T15:15:30.768Z",
   "datePublished": "2022-09-28",
   "description": "These simple apple muffins are naturally sweetened and deliciously spiced.",
-  "image": "https://foodhub.scene7.com/is/image/woolworthsltdprod/cinnamon-apple-and-pecan-muffins?wid=3665&hei=3665&fmt=png-alpha",
-  "keywords": "Cinnamon, Apple & Pecan Muffins",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1300,
+    "mime": "image/jpeg",
+    "url": "https://foodhub.scene7.com/is/image/woolworthsltdprod/cinnamon-apple-and-pecan-muffins:Square-1300x1300",
+    "width": 1300
+  },
+  "keywords": "Savoury Muffins,Savoury muffin,Apple,Egg",
   "name": "Cinnamon, Apple & Pecan Muffins Recipe | Woolworths",
   "prepTime": "PT15M",
-  "recipeCategory": "snacks",
-  "recipeCuisine": "british",
+  "recipeCategory": "Snacks",
+  "recipeCuisine": "English",
   "recipeId": "RGWW338613",
   "recipeIngredient": [
-    "250 g wholemeal flour",
+    "250g wholemeal flour",
     "1 tsp baking powder",
     "1 tsp bicarbonate soda",
     "2 tsp cinnamon",
     "0.5 tsp mixed spice",
-    "75 g pecans",
+    "75g pecans, chopped",
     "3 eggs",
     "7 tbs maple syrup",
     "5 tbs canola oil",
-    "70 g applesauce",
+    "70g applesauce (unsweetened)",
     "2 tsp vanilla extract",
-    "250 g apples"
+    "250g apples, peeled and grated"
   ],
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Cool for 5 minutes in the muffin pan and transfer to a wire rack to cool completely."
+      "HowToTip": {},
+      "text": "Pre-heat the oven to 210°C/190°C fan-forced and line a muffin pan with 12 paper cases."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Cool for 5 minutes in the muffin pan and transfer to a wire rack to cool completely."
+      "HowToTip": {},
+      "text": "Whisk the flour, baking powder, baking soda, cinnamon, mixed spice and pecans together in a large bowl. Mix the wet ingredients together in a bowl, pour into the dry ingredients and gently mix to combine."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Cool for 5 minutes in the muffin pan and transfer to a wire rack to cool completely."
+      "HowToTip": {},
+      "text": "Fold in the grated apple. Spoon the batter into the muffin cases, filling each to the top and bake for 5 minutes, reduce the heat to 170°C/150°C fan-forced and bake for 18 minutes until a skewer comes out clean."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
+      "HowToTip": {},
       "text": "Cool for 5 minutes in the muffin pan and transfer to a wire rack to cool completely."
     }
   ],
   "recipeNameId": "cinnamon-apple-and-pecan-muffins",
   "recipeYield": "15",
   "sameAs": [
-    "https://woolworths.com.au/shop/find-recipes/apple-cinnamon-muffins"
+    "https://woolworths.com.au/shop/recipes/cinnamon-apple-and-pecan-muffins"
   ],
   "totalTime": "PT40M",
-  "updatedAt": "2022-11-24T15:15:30.767Z",
+  "updatedAt": "2022-11-24T23:34:41.219Z",
   "url": "https://www.woolworths.com.au/shop/recipes/cinnamon-apple-and-pecan-muffins"
 }

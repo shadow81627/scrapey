@@ -1,6 +1,26 @@
 {
   "@type": "Product",
-  "additionalProperty": [],
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "-",
+      "carbohydrateContent": "-",
+      "dietary_fibre": "-",
+      "fatContent": "-",
+      "name": "nutrition",
+      "proteinContent": "-",
+      "saturatedFatContent": "-",
+      "servingSize": "100 g",
+      "sodiumContent": "-",
+      "sugarContent": "-"
+    }
+  ],
+  "aggregateRating": {
+    "@context": "http://schema.org",
+    "@type": "AggregateRating",
+    "ratingCount": 298,
+    "ratingValue": 4.74832214765101
+  },
   "brand": {
     "@context": "http://schema.org",
     "@type": "Organization"
@@ -15,25 +35,25 @@
     "url": "https://cdn0.woolworths.media/content/wowproductimages/large/147603.jpg",
     "width": 1200
   },
-  "name": "Spring Onion Eschallot bunch",
+  "name": "Spring Onion Eschallot Bunch",
   "offers": {
     "@type": "AggregateOffer",
-    "highPrice": 2.5,
-    "lowPrice": 2.5,
+    "highPrice": 2.8,
+    "lowPrice": 2.8,
     "offerCount": 1,
     "offers": [
       {
         "@context": "http://schema.org",
         "@type": "Offer",
         "availability": "http://schema.org/InStock",
-        "availabilityStarts": "2020-11-22T06:10:02.135Z",
+        "availabilityStarts": "2022-11-24T23:45:33.225Z",
         "itemCondition": "http://schema.org/NewCondition",
         "offeredBy": "Woolworths",
         "potentialAction": {
           "@context": "http://schema.org",
           "@type": "BuyAction"
         },
-        "price": 2.5,
+        "price": 2.8,
         "priceCurrency": "AUD",
         "seller": {
           "@type": "Organization",
@@ -47,5 +67,5 @@
     "https://woolworths.com.au/shop/productdetails/147603/spring-onion-eschallotnull"
   ],
   "sku": "147603",
-  "updatedAt": "2020-11-22T06:10:02.135Z"
+  "updatedAt": "2022-11-24T23:45:33.225Z"
 }

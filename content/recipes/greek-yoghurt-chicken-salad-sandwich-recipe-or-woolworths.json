@@ -1,22 +1,33 @@
 {
   "@type": "Recipe",
+  "author": {
+    "@type": "Person",
+    "name": "Produced for Woolworths"
+  },
+  "cookTime": "PT0M",
   "createdAt": "2022-11-23T00:31:06.673Z",
-  "datePublished": "2022-08-08",
+  "datePublished": "2022-09-26",
   "description": "This lighter creamy chicken salad is an easy and delicious sandwich filler, perfect for using up leftover roast chicken.",
-  "image": "https://foodhub.scene7.com/is/image/woolworthsltdprod/greek-yoghurt-chicken-salad-sandwich?wid=3322&hei=3322&fmt=png-alpha",
-  "keywords": "Greek Yoghurt Chicken Salad Sandwich",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1300,
+    "mime": "image/jpeg",
+    "url": "https://foodhub.scene7.com/is/image/woolworthsltdprod/greek-yoghurt-chicken-salad-sandwich:Square-1300x1300",
+    "width": 1300
+  },
+  "keywords": "Chicken sandwich,Grape,Seafood free,Apple,Lemon,Chicken",
   "name": "Greek Yoghurt Chicken Salad Sandwich Recipe | Woolworths",
   "prepTime": "PT5M",
-  "recipeCategory": "mains",
-  "recipeCuisine": "european",
+  "recipeCategory": "Lunch,Dinner",
+  "recipeCuisine": "European",
   "recipeId": "RGWW338654",
   "recipeIngredient": [
-    "400 g roast chicken",
-    "1 medium red onion",
-    "1 large apple",
-    "75 g red grapes",
+    "400g roast chicken, shredded",
+    "1 medium red onion, peeled and diced",
+    "1 large apple, seedless, halved",
+    "75g red grapes, reduced fat",
     "3 tbs flaked almonds",
-    "150 g Greek yoghurt",
+    "150g Greek yoghurt",
     "0.5 tsp garlic powder",
     "1 tbs lemon juice",
     "8 slices wholemeal bread"
@@ -24,21 +35,21 @@
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Top 4 slices of bread with the chicken salad mix, press another slice on top, slice and serve."
+      "HowToTip": {},
+      "text": "Place the shredded chicken, onion, apple, grapes, flaked almonds, yoghurt, garlic powder and lemon juice in a bowl and mix well."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
+      "HowToTip": {},
       "text": "Top 4 slices of bread with the chicken salad mix, press another slice on top, slice and serve."
     }
   ],
   "recipeNameId": "greek-yoghurt-chicken-salad-sandwich",
   "recipeYield": "4",
   "sameAs": [
-    "https://woolworths.com.au/shop/find-recipes/creamy-chicken-salad"
+    "https://woolworths.com.au/shop/recipes/greek-yoghurt-chicken-salad-sandwich"
   ],
   "totalTime": "PT5M",
-  "updatedAt": "2022-11-24T15:14:17.414Z",
+  "updatedAt": "2022-11-25T00:39:53.802Z",
   "url": "https://www.woolworths.com.au/shop/recipes/greek-yoghurt-chicken-salad-sandwich"
 }

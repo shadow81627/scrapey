@@ -2,63 +2,51 @@
   "@type": "Product",
   "additionalProperty": [
     {
-      "name": "Ingredients",
-      "value": "Pasteurised homogenised Milk"
-    },
-    {
-      "name": "Allergen",
-      "value": "Contains Milk"
-    },
-    {
-      "name": "Servings Per Pack",
-      "value": "8.0"
-    },
-    {
       "name": "Size",
-      "value": "2L"
+      "value": "1L"
     },
     {
       "name": "Unit Price",
-      "value": "$2.00 per 1L"
+      "value": "$2.70 per 1L"
     }
   ],
-  "brand": "Norco",
+  "brand": "Dairy Farmers",
   "createdAt": "2022-11-24T08:12:53.643Z",
-  "description": "Norco Full Cream Milk",
+  "description": "Dairy Farmers Full Cream Milk",
   "image": {
     "@type": "ImageObject",
     "height": 300,
     "mime": "image/jpeg",
-    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/8/9/3892839.jpg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/8/4/7/8476128.jpg",
     "width": 300
   },
   "name": "Full Cream Milk",
   "offers": {
     "@type": "AggregateOffer",
-    "highPrice": 4,
-    "lowPrice": 4,
+    "highPrice": 2.7,
+    "lowPrice": 2.7,
     "offerCount": 1,
     "offers": [
       {
         "@context": "http://schema.org",
         "@type": "Offer",
         "availability": "https://schema.org/InStock",
-        "availabilityStarts": "2022-11-24T08:12:53.641Z",
+        "availabilityStarts": "2022-11-24T23:33:56.721Z",
         "itemCondition": "https://schema.org/NewCondition",
         "offeredBy": "Coles",
-        "price": "4.00",
+        "price": "2.70",
         "priceCurrency": "AUD",
         "seller": {
           "@type": "Organization",
           "name": "Coles"
         },
-        "url": "https://shop.coles.com.au/a/national/product/norco-full-cream-milk"
+        "url": "https://shop.coles.com.au/a/national/product/dairy-farmers-milk-full-cream"
       }
     ]
   },
   "sameAs": [
-    "https://shop.coles.com.au/a/national/product/norco-full-cream-milk"
+    "https://shop.coles.com.au/a/national/product/dairy-farmers-milk-full-cream"
   ],
-  "sku": "3892839",
-  "updatedAt": "2022-11-24T08:12:53.641Z"
+  "sku": "8476128",
+  "updatedAt": "2022-11-24T23:33:56.721Z"
 }

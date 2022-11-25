@@ -1,66 +1,76 @@
 {
   "@type": "Recipe",
+  "author": {
+    "@type": "Person",
+    "name": "Produced for Woolworths"
+  },
   "cookTime": "PT20M",
   "createdAt": "2022-11-22T21:31:40.248Z",
-  "datePublished": "2022-07-08",
+  "datePublished": "2022-11-03",
   "description": "An aromatic curry that is lightly spiced with sweet pineapple.",
-  "image": "https://foodhub.scene7.com/is/image/woolworthsltdprod/duck-pineapple-and-vegetable-curry?wid=3327&hei=3327&fmt=png-alpha",
-  "keywords": "Duck, Pineapple & Vegetable Curry",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1300,
+    "mime": "image/jpeg",
+    "url": "https://foodhub.scene7.com/is/image/woolworthsltdprod/duck-pineapple-and-vegetable-curry:Square-1300x1300",
+    "width": 1300
+  },
+  "keywords": "Indian curry,Seafood free,Gluten free,Tree nut free,Egg free,Pineapple,Soy free,Wheat free,Tomato,Dairy free,Peanut free",
   "name": "Duck, Pineapple & Vegetable Curry Recipe | Woolworths",
   "prepTime": "PT10M",
-  "recipeCategory": "mains",
-  "recipeCuisine": "asian",
+  "recipeCategory": "Lunch,Dinner",
+  "recipeCuisine": "Indian",
   "recipeId": "RGWW338321",
   "recipeIngredient": [
-    "3 medium duck breasts",
-    "1 medium red onion",
-    "4 cloves garlic",
-    "1 medium red capsicum",
-    "200 g pineapple",
-    "100 g curry paste",
+    "3 medium duck breasts, no skin or bone, excess fat removed.",
+    "1 medium red onion, peeled and diced",
+    "4 cloves garlic, peeled and mashed",
+    "1 medium red capsicum, de-seeded and chopped",
+    "200g pineapple, peeled and chopped",
+    "100g curry paste",
     "1.6 cup coconut milk",
-    "80 g green beans",
+    "80g green beans",
     "2 tbs sesame oil",
-    "12 baby tomatoes"
+    "12 baby tomatoes, halved"
   ],
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Remove from the heat and serve with a suggested side of naan breads and rice."
+      "HowToTip": {},
+      "text": "Dice the duck breasts into bite size portions."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Remove from the heat and serve with a suggested side of naan breads and rice."
+      "HowToTip": {},
+      "text": "Heat up a large saucepan to a medium heat, add the sesame oil and then add the onions and garlic."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Remove from the heat and serve with a suggested side of naan breads and rice."
+      "HowToTip": {},
+      "text": "Fry for 2 minutes and then add the duck and fry while tossing for a further 2 minutes."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Remove from the heat and serve with a suggested side of naan breads and rice."
+      "HowToTip": {},
+      "text": "Add the pepper and the tomatoes and fry for 2 more minutes."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Remove from the heat and serve with a suggested side of naan breads and rice."
+      "HowToTip": {},
+      "text": "Add the rest of the ingredients, bring to the boil and then allow to simmer for 15 minutes stirring occasionally."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
+      "HowToTip": {},
       "text": "Remove from the heat and serve with a suggested side of naan breads and rice."
     }
   ],
   "recipeNameId": "duck-pineapple-and-vegetable-curry",
   "recipeYield": "4",
   "sameAs": [
-    "https://woolworths.com.au/shop/find-recipes/pineapple-curry"
+    "https://woolworths.com.au/shop/recipes/duck-pineapple-and-vegetable-curry"
   ],
   "totalTime": "PT30M",
-  "updatedAt": "2022-11-22T21:31:40.247Z",
+  "updatedAt": "2022-11-25T00:13:46.094Z",
   "url": "https://www.woolworths.com.au/shop/recipes/duck-pineapple-and-vegetable-curry"
 }

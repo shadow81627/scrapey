@@ -1,15 +1,25 @@
 {
   "@type": "Recipe",
+  "author": {
+    "@type": "Person",
+    "name": "Customer - baybee"
+  },
   "cookTime": "PT17M",
   "createdAt": "2022-11-24T12:47:18.812Z",
-  "datePublished": "2021-05-11",
+  "datePublished": "2022-09-09",
   "description": "Try these fudgy triple chocolate chip cookies. They pair perfectly with a glass of milk. ",
-  "image": "https://foodhub.scene7.com/is/image/woolworthsltdprod/mzaotyiogdxg07xka4uh?wid=3000&hei=2609&fmt=png-alpha",
-  "keywords": "Triple Choc Chip Cookies",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1300,
+    "mime": "image/jpeg",
+    "url": "https://foodhub.scene7.com/is/image/woolworthsltdprod/mzaotyiogdxg07xka4uh:Square-1300x1300",
+    "width": 1300
+  },
+  "keywords": "Cookie,Microwave,Chocolate",
   "name": "Triple Choc Chip Cookies Recipe | Woolworths",
   "prepTime": "PT25M",
-  "recipeCategory": "desserts",
-  "recipeCuisine": "australian",
+  "recipeCategory": "Desserts",
+  "recipeCuisine": "Australian",
   "recipeId": "a0K2y0000016g4IEAQ",
   "recipeIngredient": [
     "1 cup plain flour",
@@ -27,56 +37,64 @@
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Allowing the extra space during baking, you end up with the traditional round cooking shape. Can also use just one choc button if desired, or many a time."
+      "HowToTip": {},
+      "image": "https://foodhub.scene7.com/is/image/woolworthsltdprod/t6rsjqoka7ewgoj3d8ej?wid=3000&hei=4000&fmt=png-alpha",
+      "text": "Gather ingredients, remove butter from fridge earlier to warm to room temp. Preheat gas oven to 180 c (about 160c for fan forced). Line 2 cookie trays with baking paper. Spray oil on trays, helps to hold baking paper in place."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Allowing the extra space during baking, you end up with the traditional round cooking shape. Can also use just one choc button if desired, or many a time."
+      "HowToTip": {},
+      "image": "https://foodhub.scene7.com/is/image/woolworthsltdprod/uxcp6kgwrpzqbybkefrs?wid=3000&hei=2308&fmt=png-alpha",
+      "text": "Sift flour, baking soda, salt and cocoa into a small bowl and set aside. (Can skip the sifting, if you're short on time) Make sure all ingredients are well combined."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Allowing the extra space during baking, you end up with the traditional round cooking shape. Can also use just one choc button if desired, or many a time."
+      "HowToTip": {},
+      "image": "https://foodhub.scene7.com/is/image/woolworthsltdprod/kgikmvv8glid0r9lwizk?wid=3000&hei=4000&fmt=png-alpha",
+      "text": "In a larger bowl mix butter and the two sugars until creamy, sugar should be well mixed in. Melt 2/3 cup dark choc buttons in microwave, do in bursts of 30 seconds so the chocolate doesn't get overcooked."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Allowing the extra space during baking, you end up with the traditional round cooking shape. Can also use just one choc button if desired, or many a time."
+      "HowToTip": {},
+      "image": "https://foodhub.scene7.com/is/image/woolworthsltdprod/ysxynpnq6jj5fhwzx6lc?wid=3000&hei=4000&fmt=png-alpha",
+      "text": "Add melted chocolate to butter and sugar mix, and combine. Add egg and vanilla and again, combine all ingredients."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Allowing the extra space during baking, you end up with the traditional round cooking shape. Can also use just one choc button if desired, or many a time."
+      "HowToTip": {},
+      "image": "https://foodhub.scene7.com/is/image/woolworthsltdprod/u4chrsacfaqvtunxc9wy?wid=3000&hei=2308&fmt=png-alpha",
+      "text": "Add flour mix, mix all in with a spoon. Keep working until all flour is combined, should be a soft dough consistency. Should not be runny or sticky."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Allowing the extra space during baking, you end up with the traditional round cooking shape. Can also use just one choc button if desired, or many a time."
+      "HowToTip": {},
+      "text": "Lastly add in remaining choc buttons, stir and mix well till evenly distributed through mix. Make sure you taste the buttons, have to make sure they are full of chocolatey goodness."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Allowing the extra space during baking, you end up with the traditional round cooking shape. Can also use just one choc button if desired, or many a time."
+      "HowToTip": {},
+      "image": "https://foodhub.scene7.com/is/image/woolworthsltdprod/fhews8typdqc39tid4xh?wid=3000&hei=4000&fmt=png-alpha",
+      "text": "Roll cookies by hand so that they are a golfball size. Place 3 dough balls on each tray, allowing room for them to spread (around 6cm between cookies). Bake in batches for around 16 - 18 minutes, or till tops have cookie cracks on top."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Allowing the extra space during baking, you end up with the traditional round cooking shape. Can also use just one choc button if desired, or many a time."
+      "HowToTip": {},
+      "image": "https://foodhub.scene7.com/is/image/woolworthsltdprod/govhd22vumu1sd8cv98r?wid=3000&hei=4000&fmt=png-alpha",
+      "text": "Place on airing trays, and place remaining batches in oven and cook."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
+      "HowToTip": {},
+      "image": "https://foodhub.scene7.com/is/image/woolworthsltdprod/dsu2sjni9ssqjabkrild?wid=3000&hei=4000&fmt=png-alpha",
       "text": "Allowing the extra space during baking, you end up with the traditional round cooking shape. Can also use just one choc button if desired, or many a time."
     }
   ],
   "recipeNameId": "triple-choc-chip-cookies",
   "recipeYield": "12",
   "sameAs": [
-    "https://woolworths.com.au/shop/find-recipes/chocolate-chip-cookies-soft"
+    "https://woolworths.com.au/shop/recipes/triple-choc-chip-cookies"
   ],
   "totalTime": "PT42M",
-  "updatedAt": "2022-11-24T12:47:18.811Z",
+  "updatedAt": "2022-11-24T23:49:27.107Z",
   "url": "https://www.woolworths.com.au/shop/recipes/triple-choc-chip-cookies"
 }

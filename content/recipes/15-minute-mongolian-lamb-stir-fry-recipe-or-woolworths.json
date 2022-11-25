@@ -1,56 +1,72 @@
 {
   "@type": "Recipe",
+  "author": {
+    "@type": "Person",
+    "name": "Fresh Ideas"
+  },
   "cookTime": "PT10M",
   "createdAt": "2022-11-22T15:34:34.887Z",
-  "datePublished": "2021-03-10",
-  "description": "Stir-frying just got even easier with this tasty weeknight meal that's ready in minutes.",
+  "datePublished": "2022-09-26",
+  "description": "Stir-frying just got even easier with this tasty weeknight meal that’s ready in minutes.",
   "image": {
     "@type": "ImageObject",
     "height": 1300,
-    "mime": "image/png",
-    "url": "https://foodhub.scene7.com/is/image/woolworthsltdprod/1907-15-minute-mongolian-lamb-stir-fry?wid=1300&hei=1300&fmt=png-alpha",
+    "mime": "image/jpeg",
+    "url": "https://foodhub.scene7.com/is/image/woolworthsltdprod/1907-15-minute-mongolian-lamb-stir-fry:Square-1300x1300",
     "width": 1300
   },
-  "keywords": "15 Minute Mongolian Lamb Stir Fry",
+  "keywords": "Stir-fry,Tree nut free,Lamb,Low sugar,Budget,Quick & easy dinner,Microwave,High protein,High fibre,Rice,Dinner Made Easy",
   "name": "15 Minute Mongolian Lamb Stir Fry Recipe | Woolworths",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "455 calories",
+    "carbohydrateContent": "44.5 g",
+    "fatContent": "16.4 g",
+    "fiberContent": "4.1 g",
+    "proteinContent": "29.8 g",
+    "saturatedFatContent": "6.2 g",
+    "sodiumContent": "925 millig",
+    "sugarContent": "8.6 g",
+    "transFatContent": "1.4 g"
+  },
   "prepTime": "PT5M",
-  "recipeCategory": "mains",
-  "recipeCuisine": "asian",
+  "recipeCategory": "Mains",
+  "recipeCuisine": "Asian",
   "recipeId": "9540",
   "recipeIngredient": [
-    "450 g Microwave White Long Grain Rice",
+    "450g Microwave White Long Grain Rice",
     "1 tsp olive oil",
-    "500 g Simply Cook Mongolian Lamb Stir Fry",
-    "280 g Simply Cook Sauté Kit Asian Greens"
+    "500g Simply Cook Mongolian Lamb Stir Fry",
+    "280g Simply Cook Sauté Kit Asian Greens"
   ],
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Divide rice among shallow bowls, top with lamb and vegetables and serve."
+      "HowToTip": {},
+      "text": "Microwave rice as per packet directions."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Divide rice among shallow bowls, top with lamb and vegetables and serve."
+      "HowToTip": {},
+      "text": "Meanwhile, heat oil in a large non-stick fry pan over high heat. Add lamb and stir fry for 2-3 minutes. Remove to a bowl."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Divide rice among shallow bowls, top with lamb and vegetables and serve."
+      "HowToTip": {},
+      "text": "Add vegetables to the hot pan and cook for 2 minutes or until bright green and tender. Return lamb to the pan with 100ml water and bring to boil."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
+      "HowToTip": {},
       "text": "Divide rice among shallow bowls, top with lamb and vegetables and serve."
     }
   ],
   "recipeNameId": "15-minute-mongolian-lamb-stir-fry",
   "recipeYield": "4",
   "sameAs": [
-    "https://woolworths.com.au/shop/find-recipes/mongolian-stir-fry"
+    "https://woolworths.com.au/shop/recipes/15-minute-mongolian-lamb-stir-fry"
   ],
   "totalTime": "PT15M",
-  "updatedAt": "2022-11-22T15:34:34.886Z",
+  "updatedAt": "2022-11-24T23:50:51.540Z",
   "url": "https://www.woolworths.com.au/shop/recipes/15-minute-mongolian-lamb-stir-fry"
 }

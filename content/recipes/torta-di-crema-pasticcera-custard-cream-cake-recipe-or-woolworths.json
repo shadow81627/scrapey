@@ -1,90 +1,101 @@
 {
   "@type": "Recipe",
+  "author": {
+    "@type": "Person",
+    "name": "Customer - turi20"
+  },
   "cookTime": "PT25M",
   "createdAt": "2022-11-24T16:25:26.138Z",
-  "datePublished": "2021-11-03",
+  "datePublished": "2022-08-03",
   "description": "A quick and easy custard cream cake that you can whip up in no time for any occasion.",
-  "image": "https://foodhub.scene7.com/is/image/woolworthsltdprod/wbpvmzb3xvyybcehjq4s?wid=2560&hei=1536&fmt=png-alpha",
-  "keywords": "Torta Di Crema Pasticcera (Custard Cream Cake)",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1300,
+    "mime": "image/jpeg",
+    "url": "https://foodhub.scene7.com/is/image/woolworthsltdprod/wbpvmzb3xvyybcehjq4s:Square-1300x1300",
+    "width": 1300
+  },
+  "keywords": "Custard cake",
   "name": "Torta Di Crema Pasticcera (Custard Cream Cake) Recipe | Woolworths",
   "prepTime": "PT20M",
-  "recipeCategory": "desserts",
-  "recipeCuisine": "australian",
+  "recipeCategory": "Desserts",
+  "recipeCuisine": "Australian",
   "recipeId": "a0K2y0000012eKxEAI",
   "recipeIngredient": [
-    "460 g Woolworths double unfilled sponge",
-    "1 L whole milk",
-    "200 g icing sugar",
+    "460g Woolworths double unfilled sponge",
+    "1L whole milk",
+    "200g icing sugar",
     "4 egg yolks",
     "2 tsp vanilla essence",
-    "160 g corn flour",
+    "160g corn flour",
     "2 tbs cocoa powder",
     "1 cup espresso coffee",
-    "2 tbs kahlua"
+    "2 tbs kahlua (optional)"
   ],
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Keep Refrigerated until ready to serve. Enjoy!"
+      "HowToTip": {},
+      "text": "To make the base custard you will need to combine whole milk, icing sugar, egg yolks, vanilla essence and corn flour in a large stainless steel bowl and mix well with a hand whisk. Put the mixture through a sieve and then transfer to a medium saucepan on medium heat. Keep stirring until it comes together using a hand whisk and you should end up with a smooth consistency."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Keep Refrigerated until ready to serve. Enjoy!"
+      "HowToTip": {},
+      "text": "Separate custard cream into 2 bowls."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Keep Refrigerated until ready to serve. Enjoy!"
+      "HowToTip": {},
+      "text": "Leave one vanilla custard aside. In the other, mix in 2 tablespoons of cocoa powder and cover both bowls with cling film. Let it cool down and then keep in fridge overnight."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Keep Refrigerated until ready to serve. Enjoy!"
+      "HowToTip": {},
+      "text": "Then whip it up in the mixer and have it ready to fill your unfilled sponge."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Keep Refrigerated until ready to serve. Enjoy!"
+      "HowToTip": {},
+      "text": "Using the unfilled sponge, slice the sponge in 4 layers."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Keep Refrigerated until ready to serve. Enjoy!"
+      "HowToTip": {},
+      "text": "Using a flat plate you can begin assembling the cake by using the vanilla and chocolate custard cream."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Keep Refrigerated until ready to serve. Enjoy!"
+      "HowToTip": {},
+      "text": "Begin with bottom layer of the sponge by placing it on the plate and brush well with mixture of espresso coffee with Kahlua optional."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Keep Refrigerated until ready to serve. Enjoy!"
+      "HowToTip": {},
+      "text": "Spread vanilla custard on bottom of sponge and next layer of sponge with chocolate custard. Repeat the process by assembling each layer of the cake."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Keep Refrigerated until ready to serve. Enjoy!"
+      "HowToTip": {},
+      "text": "When all layers of the sponge are pieced together. Brush top of sponge with remaining coffee mixture."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Keep Refrigerated until ready to serve. Enjoy!"
+      "HowToTip": {},
+      "text": "The sponge can now be decorated with the remaining vanilla and chocolate custard. Sprinkle with sprinkles around cake."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
+      "HowToTip": {},
+      "image": "https://foodhub.scene7.com/is/image/woolworthsltdprod/dracdpiumqh1qermfwlj?$foodhub-method-images$&fmt=png-alpha",
       "text": "Keep Refrigerated until ready to serve. Enjoy!"
     }
   ],
   "recipeNameId": "torta-di-crema-pasticcera",
   "recipeYield": "10",
   "sameAs": [
-    "https://woolworths.com.au/shop/find-recipes/cream-custard"
+    "https://woolworths.com.au/shop/recipes/torta-di-crema-pasticcera"
   ],
   "totalTime": "PT45M",
-  "updatedAt": "2022-11-24T16:25:26.135Z",
+  "updatedAt": "2022-11-24T23:37:23.429Z",
   "url": "https://www.woolworths.com.au/shop/recipes/torta-di-crema-pasticcera"
 }

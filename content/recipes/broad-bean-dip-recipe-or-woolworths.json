@@ -1,53 +1,67 @@
 {
   "@type": "Recipe",
+  "author": {
+    "@type": "Person",
+    "name": "Customer - sidney7"
+  },
   "cookTime": "PT15M",
   "createdAt": "2022-11-22T15:43:05.435Z",
-  "datePublished": "2021-07-06",
+  "datePublished": "2022-08-03",
   "description": "With broad bean season going crazy I have plenty, so decided to make a quick easy dip of sorts which came out very nice indeed.",
-  "image": "https://foodhub.scene7.com/is/image/woolworthsltdprod/uo8zjqgfyb2x7j8asou9?wid=3974&hei=3456&fmt=png-alpha",
-  "keywords": "Broad Bean Dip",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1300,
+    "mime": "image/jpeg",
+    "url": "https://foodhub.scene7.com/is/image/woolworthsltdprod/uo8zjqgfyb2x7j8asou9:Square-1300x1300",
+    "width": 1300
+  },
+  "keywords": "Veggie dip,Pescatarian,Seafood free,Gluten free,Tree nut free,Egg free,Sesame free,Halal,Soy free,Wheat free,Vegetarian,Vegan,Dairy free,Peanut free",
   "name": "Broad Bean Dip Recipe | Woolworths",
   "prepTime": "PT10M",
-  "recipeCategory": "condiments",
-  "recipeCuisine": "australian",
+  "recipeCategory": "Condiments",
+  "recipeCuisine": "Australian",
   "recipeId": "a0K2y0000011XeKEAU",
   "recipeIngredient": [
-    "2 cup fresh broad beans",
-    "2 clove garlic",
+    "2 cup fresh broad beans (shelled taken from pod)",
+    "2 clove garlic, peeled",
     "2 lemons",
-    "1 tsp cumin powder",
+    "1 tsp cumin powder (optional)",
     "1 tbs olive oil",
     "2 few sprigs of fresh mint or coriander",
-    "salt and pepper"
+    "salt and pepper (or chilli flake for seasoning)"
   ],
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "I made a few batches omitting some ingredients such as the cumin powder and mint, coriander and each has its own special taste flavour."
+      "HowToTip": {},
+      "image": "https://foodhub.scene7.com/is/image/woolworthsltdprod/tja04krspl2vbqrdegkb?wid=4608&hei=3456&fmt=png-alpha",
+      "text": "Shell the broad bean pods. Once you have about 2 cups worth put beans in boiling water for 5 minutes, remove beans into colander and run cold water to retain that nice green colour. You can use beans straight up like that for added fibre or easily peel off the bean skin off to give a smoother texture dip result."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "I made a few batches omitting some ingredients such as the cumin powder and mint, coriander and each has its own special taste flavour."
+      "HowToTip": {},
+      "image": "https://foodhub.scene7.com/is/image/woolworthsltdprod/w9vinscu6s4fwzp5wdhq?wid=4608&hei=3456&fmt=png-alpha",
+      "text": "Rind the lemons then juice them. Peel the garlic cloves. Take mint leaves off stalks. Get everything ready to add to processor."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "I made a few batches omitting some ingredients such as the cumin powder and mint, coriander and each has its own special taste flavour."
+      "HowToTip": {},
+      "image": "https://foodhub.scene7.com/is/image/woolworthsltdprod/me9fednonnlllp1rs8qb?wid=4608&hei=3456&fmt=png-alpha",
+      "text": "Place beans, garlic, rind, juice, mint, cumin, olive oil into food processor. Process until smooth or to your texture consistency liking, add seasonings to suit. All done! Serve as a dip or spread etc. Easy Peasy!"
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
+      "HowToTip": {},
+      "image": "https://foodhub.scene7.com/is/image/woolworthsltdprod/xemxmtz6ho16d6jwsbpc?wid=4608&hei=3456&fmt=png-alpha",
       "text": "I made a few batches omitting some ingredients such as the cumin powder and mint, coriander and each has its own special taste flavour."
     }
   ],
   "recipeNameId": "broad-bean-dip",
   "recipeYield": "4",
   "sameAs": [
-    "https://woolworths.com.au/shop/find-recipes/bean-dip"
+    "https://woolworths.com.au/shop/recipes/broad-bean-dip"
   ],
   "totalTime": "PT25M",
-  "updatedAt": "2022-11-22T15:43:05.433Z",
+  "updatedAt": "2022-11-25T02:04:19.759Z",
   "url": "https://www.woolworths.com.au/shop/recipes/broad-bean-dip"
 }

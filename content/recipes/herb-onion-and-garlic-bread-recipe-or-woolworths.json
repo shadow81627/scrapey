@@ -1,26 +1,30 @@
 {
   "@type": "Recipe",
+  "author": {
+    "@type": "Person",
+    "name": "Customer - kimoi"
+  },
   "cookTime": "PT15M",
   "createdAt": "2022-11-24T00:24:40.597Z",
-  "datePublished": "2021-08-16",
+  "datePublished": "2022-08-03",
   "description": "Simple but oh so mooorish.",
   "image": {
     "@type": "ImageObject",
-    "height": 1336,
-    "mime": "image/png",
-    "url": "https://foodhub.scene7.com/is/image/woolworthsltdprod/mpqpxrwgjzklsd89t3sy?wid=1536&hei=1336&fmt=png-alpha",
-    "width": 1536
+    "height": 1300,
+    "mime": "image/jpeg",
+    "url": "https://foodhub.scene7.com/is/image/woolworthsltdprod/mpqpxrwgjzklsd89t3sy:Square-1300x1300",
+    "width": 1300
   },
-  "keywords": "Herb Onion & Garlic Bread",
+  "keywords": "Bread,Pescatarian,Halal,Seafood free,Vegetarian,Tree nut free,Egg free,Peanut free",
   "name": "Herb Onion & Garlic Bread Recipe | Woolworths",
   "prepTime": "PT10M",
-  "recipeCategory": "side-dishes",
-  "recipeCuisine": "australian",
+  "recipeCategory": "Side dishes,Breakfast",
+  "recipeCuisine": "Australian",
   "recipeId": "a0K0I00000SHmPzUAL",
   "recipeIngredient": [
     "1 medium bread stick",
-    "125 g butter",
-    "1 onion",
+    "125g butter, softened (or margarine)",
+    "1 onion, finely chopped",
     "2 tsp parsley flakes",
     "1 tsp tuscan seasoning",
     "1 tsp french mustard",
@@ -30,26 +34,26 @@
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "You can choose whether you want to bake in the oven at 180°C for approx 15 minutes or heat on one side of the BBQ (not in the centre as this would be too hot)"
+      "HowToTip": {},
+      "text": "Slice bread stick diagonally into thin rounds. Be careful not to cut right through to the bottom of the rounds as you don't want the butter to leak out if possible"
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "You can choose whether you want to bake in the oven at 180°C for approx 15 minutes or heat on one side of the BBQ (not in the centre as this would be too hot)"
+      "HowToTip": {},
+      "text": "Combine all ingredients and spread them between each slice of bread. Wrap the bread stick securely in foil."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
+      "HowToTip": {},
       "text": "You can choose whether you want to bake in the oven at 180°C for approx 15 minutes or heat on one side of the BBQ (not in the centre as this would be too hot)"
     }
   ],
   "recipeNameId": "herb-onion-and-garlic-bread",
   "recipeYield": "4",
   "sameAs": [
-    "https://woolworths.com.au/shop/find-recipes/simple-bread-recipe"
+    "https://woolworths.com.au/shop/recipes/herb-onion-and-garlic-bread"
   ],
   "totalTime": "PT25M",
-  "updatedAt": "2022-11-24T00:24:40.594Z",
+  "updatedAt": "2022-11-25T01:57:44.404Z",
   "url": "https://www.woolworths.com.au/shop/recipes/herb-onion-and-garlic-bread"
 }

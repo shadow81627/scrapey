@@ -1,0 +1,56 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Duck"
+    },
+    {
+      "name": "Size",
+      "value": "2.1kg"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$12.48 per 1Kg"
+    }
+  ],
+  "brand": "Luv A Duck",
+  "createdAt": "2022-11-24T23:32:27.043Z",
+  "description": "Luv-a-Duck Whole Duck is wholesome, meaty and fully flavoured. A succulent crisp duck is easy to prepare and a sure favourite to serve for all occasions. And best of all, it's so easy. Simply Impressive!For more recipe inspiration visit luvaduck.com",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/4/6/8/4683889.jpg",
+    "width": 300
+  },
+  "name": "Frozen Whole Duck",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 26.2,
+    "lowPrice": 26.2,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-24T23:32:27.041Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "26.20",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/luv-a-duck-duck-size-21-frozen"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/luv-a-duck-duck-size-21-frozen"
+  ],
+  "sku": "4683889",
+  "updatedAt": "2022-11-24T23:32:27.041Z"
+}
