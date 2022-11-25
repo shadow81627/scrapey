@@ -1,0 +1,65 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "Strawberry and Passion fruit :181kJ, Wildberry and Mango spilt : 174kJ",
+      "carbohydrateContent": "Strawberry and Passion fruit :7.0g, Wildberry and Mango spilt : 8.0g",
+      "dietary_fibre": "-",
+      "fatContent": "Strawberry and Passion fruit :1.0g, Wildberry and Mango spilt : 0.6g",
+      "name": "nutrition",
+      "proteinContent": "Strawberry and Passion fruit :1.5g, Wildberry and Mango spilt : 1.0g",
+      "saturatedFatContent": "Strawberry and Passion fruit :0.7g, Wildberry and Mango spilt : 0.4g",
+      "servingSize": "100 g",
+      "sodiumContent": "Strawberry and Passion fruit :19mg, Wildberry and Mango spilt : 12mg",
+      "sugarContent": "Strawberry and Passion fruit :6.6g, Wildberry and Mango spilt : 7.7g"
+    }
+  ],
+  "aggregateRating": {
+    "@context": "http://schema.org",
+    "@type": "AggregateRating",
+    "ratingCount": 66,
+    "ratingValue": 4.65151515151515
+  },
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Bulla"
+  },
+  "createdAt": "2022-11-25T08:02:32.363Z",
+  "gtin13": "9310161006690",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/279664.jpg",
+  "name": "Bulla Mini Frozen Yoghurt Assorted Flavours 14 Pack",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 4,
+    "lowPrice": 4,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-25T08:02:32.360Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 4,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/279664/bulla-mini-frozen-yoghurt-assorted-flavours"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/279664/bulla-mini-frozen-yoghurt-assorted-flavours"
+  ],
+  "sku": "279664",
+  "updatedAt": "2022-11-25T08:02:32.360Z"
+}

@@ -1,0 +1,60 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "-",
+      "carbohydrateContent": "-",
+      "dietary_fibre": "-",
+      "fatContent": "-",
+      "name": "nutrition",
+      "proteinContent": "-",
+      "saturatedFatContent": "-",
+      "servingSize": "100 g",
+      "sodiumContent": "-",
+      "sugarContent": "-"
+    }
+  ],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Naked Life"
+  },
+  "createdAt": "2022-11-25T09:38:48.417Z",
+  "description": "A light and fresh sparkling Rose interpretation of Spain's traditional favourite. A balanced blend of fruit, bitter extracts and tannins infused with distilled Orange Extract and Hibiscus Extract. ",
+  "gtin13": "9353517001475",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/222429.jpg",
+  "name": "Naked Life Rose Sangria Spritz Non-alcoholic Cocktail Cans 250ml x4 Pack",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 15,
+    "lowPrice": 15,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-25T09:38:48.416Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 15,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/222429/naked-life-rose-sangria-spritz-non-alcoholic-cocktail-cans"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/222429/naked-life-rose-sangria-spritz-non-alcoholic-cocktail-cans"
+  ],
+  "sku": "222429",
+  "updatedAt": "2022-11-25T09:38:48.416Z"
+}

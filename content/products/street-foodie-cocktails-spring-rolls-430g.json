@@ -1,0 +1,60 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "Approx.384kJ",
+      "carbohydrateContent": "Approx.11.9g",
+      "dietary_fibre": "-",
+      "fatContent": "Approx.4.2g",
+      "name": "nutrition",
+      "proteinContent": "Approx.1.4g",
+      "saturatedFatContent": "Approx.1.3g",
+      "servingSize": "100 g",
+      "sodiumContent": "Approx.183mg",
+      "sugarContent": "Approx.1.1g"
+    }
+  ],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Street Foodie"
+  },
+  "createdAt": "2022-11-25T08:34:11.358Z",
+  "description": "24 golden pastry rolls with a vegetable filling.",
+  "gtin13": "9323015021282",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/160240.jpg",
+  "name": "Street Foodie Cocktails Spring Rolls 430g",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 5.5,
+    "lowPrice": 5.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-25T08:34:11.357Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 5.5,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/160240/street-foodie-cocktails-spring-rolls"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/160240/street-foodie-cocktails-spring-rolls"
+  ],
+  "sku": "160240",
+  "updatedAt": "2022-11-25T08:34:11.357Z"
+}

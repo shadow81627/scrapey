@@ -1,0 +1,60 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "344kJ",
+      "carbohydrateContent": "0g",
+      "dietary_fibre": "-",
+      "fatContent": "4.4g",
+      "name": "nutrition",
+      "proteinContent": "10.7g",
+      "saturatedFatContent": "0.7g",
+      "servingSize": "100 g",
+      "sodiumContent": "585mg",
+      "sugarContent": "0g"
+    }
+  ],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Ocean Blue"
+  },
+  "createdAt": "2022-11-25T09:28:51.282Z",
+  "description": "Ocean Blue Smoked Salmon 50gOcean Blue’s hand-selected and responsibly sourced Norwegian Atlantic Salmon is traditionally smoked with aromatic Beechwood chips to bring out their natural flavours and delicately salted for that distinctive taste.",
+  "gtin13": "9343005000011",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/345345.jpg",
+  "name": "Ocean Blue Smoked Salmon Sliced 50G",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 5,
+    "lowPrice": 5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-25T09:28:51.281Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 5,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/345345/ocean-blue-smoked-salmon-sliced"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/345345/ocean-blue-smoked-salmon-sliced"
+  ],
+  "sku": "345345",
+  "updatedAt": "2022-11-25T09:28:51.281Z"
+}

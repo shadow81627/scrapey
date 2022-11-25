@@ -1,0 +1,60 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "Approx.352kJ",
+      "carbohydrateContent": "<1g",
+      "dietary_fibre": "-",
+      "fatContent": "Approx.4.1g",
+      "name": "nutrition",
+      "proteinContent": "Approx.11.3g",
+      "saturatedFatContent": "Approx.1.5g",
+      "servingSize": "100 g",
+      "sodiumContent": "Approx.785mg",
+      "sugarContent": "<1g"
+    }
+  ],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Woolworths"
+  },
+  "createdAt": "2022-11-25T10:04:17.451Z",
+  "description": "Juicy and succulent ham that's easy to carve and has been wood smoked for a richer flavour. Winner of the Silver medal in the 2022 Royal Tasmanian Fine Food Awards.\nAverage weight of this product varies between 4.5KG - 5.5KG.Please note the price shown is calculated based on the maximum weight. \nThis is a variable weight product and is priced by $/kg. Once we've picked your item in store, we'll refund you for the difference between the weight paid and the weight received. \nMake sure you utilise our pickers notes in the check out to add weight recommendations for our store pickers. We will try our best to provide you with the requested weight  \n\nCarving your Bone-in Leg Ham. \n1. Place ham skin side up. Run a small sharp knife under the rind around the bottom (opposite end to hock) and each side of the ham to about halfway up.  \n2. Begin slicing from top to bottom straight through the ham, working your way back to the hock.\n\nStoring your Ham: \nSoak a clean ham bag, pillowcase or tea towel in 4 cups of water and 2 tablespoons of vinegar. \nWring out excess water and place ham in the ham bag, pillowcase or wrap in the tea towel. Store in coolest part of the fridge. Re-soak bag in solution when ham bag dries out. \nStore at 1-5°C for up to a week.",
+  "gtin13": "0275013000006",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/201303.jpg",
+  "name": "Woolworths Ham Leg Easy Carve Traditional Leg Easy Carve 4.5KG - 5.5KG",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 77,
+    "lowPrice": 77,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-25T10:04:17.449Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 77,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/201303/woolworths-ham-leg-easy-carve-traditional-leg-easy-carve"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/201303/woolworths-ham-leg-easy-carve-traditional-leg-easy-carve"
+  ],
+  "sku": "201303",
+  "updatedAt": "2022-11-25T10:04:17.449Z"
+}

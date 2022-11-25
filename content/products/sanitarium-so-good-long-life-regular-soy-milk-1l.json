@@ -1,0 +1,60 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "682.00kJ",
+      "carbohydrateContent": "12.80g",
+      "dietary_fibre": "0.80g",
+      "fatContent": "8.80g",
+      "name": "nutrition",
+      "proteinContent": "8.00g",
+      "saturatedFatContent": "1.00g",
+      "servingSize": "100 g",
+      "sodiumContent": "100.00mg",
+      "sugarContent": "5.00g"
+    }
+  ],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Sanitarium"
+  },
+  "createdAt": "2022-11-25T08:06:00.131Z",
+  "description": "Sanitarium So Good Soy Milk Regular is a long life dairy free milk alternativeSo Good™ Regular soy milk is a nutritious and delicious creamy milk made from soy. With protein and essential minerals, it’s naturally lactose and cholesterol free. And with the added benefit of half your daily calcium and vitamin D in one glass, So Good™ Regular may be the milk for your body and your life.So Good™ Regular (and Essential) is low in saturated fat, sugars and sodium, plus it contains protein.  These are important factors which contribute to the 5 star rating that So Good Regular achieves.Contains:Half your daily CalciumSource of ProteinVitamins and MineralsLow GI*Non GM soy#Naturally free from:LactoseGlutenCholesterolHead to the dairy free aisle to pick up your So Good on your next shop.  * Low GI foods have a GI below 55#So Good™ uses soy protein that is Identity Preserved. Identity Preserved means that every stage from seed to supermarket is controlled, to maintain segregation and minimise the possibility of mixing Identity Preserved soybeans with any genetically modified soybeans.",
+  "gtin13": "9300652510911",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/024318.jpg",
+  "name": "Sanitarium So Good Long Life Regular Soy Milk 1L",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2.2,
+    "lowPrice": 2.2,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-25T08:06:00.130Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 2.2,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/24318/sanitarium-so-good-long-life-regular-soy-milk"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/24318/sanitarium-so-good-long-life-regular-soy-milk"
+  ],
+  "sku": "24318",
+  "updatedAt": "2022-11-25T08:06:00.130Z"
+}

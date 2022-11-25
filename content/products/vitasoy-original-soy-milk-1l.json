@@ -1,0 +1,60 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "643kJ",
+      "carbohydrateContent": "12.5g",
+      "dietary_fibre": "1.5g",
+      "fatContent": "7.5g",
+      "name": "nutrition",
+      "proteinContent": "8.2g",
+      "saturatedFatContent": "1.3",
+      "servingSize": "100 g",
+      "sodiumContent": "150mg",
+      "sugarContent": "6.5g"
+    }
+  ],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Vitasoy"
+  },
+  "createdAt": "2022-11-25T08:07:02.785Z",
+  "description": "Vitasoy Soy Milk Original is made with 100% organic whole soybeans. Contains 38% of your daily calcium needs, as well as the benefits of essential vitamins A, B2, B12.  Your Vitasoy soy Milk Original is made from 100% organic whole soybeans. The soybeans are carefully delivered to our factory in regional Victoria, where we dehull and grind our beans, then blend the good bits with filtered water and other important ingredients to provide benefits like calcium and essential vitamins A, B2, B12 and D. Naturally free from dairy, cholesterol and lactose, there are plenty of ways to enjoy our much loved soy milk, in a smoothie or on its own!  Made with organic whole soybeans  Naturally free from dairy, cholesterol and lactose  Natural source of protein  50% of your daily vitamin D and calcium needs  Contains vitamin A, B2 and B12  Suitable for vegans and vegetarians",
+  "gtin13": "9310232100104",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/035617.jpg",
+  "name": "Vitasoy Original Soy Milk 1L",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3,
+    "lowPrice": 3,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-25T08:07:02.784Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 3,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/35617/vitasoy-original-soy-milk"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/35617/vitasoy-original-soy-milk"
+  ],
+  "sku": "35617",
+  "updatedAt": "2022-11-25T08:07:02.784Z"
+}

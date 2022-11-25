@@ -1,0 +1,59 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "660kJ",
+      "carbohydrateContent": "12.0g",
+      "dietary_fibre": "-",
+      "fatContent": "8.5g",
+      "name": "nutrition",
+      "proteinContent": "8.3g",
+      "saturatedFatContent": "5.8g",
+      "servingSize": "100 g",
+      "sodiumContent": "113mg",
+      "sugarContent": "12.0g"
+    }
+  ],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Devondale"
+  },
+  "createdAt": "2022-11-25T08:06:43.721Z",
+  "gtin13": "9300639500041",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/033557.jpg",
+  "name": "Devondale 100% Pure Full Cream Long Life Milk 1L",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2.2,
+    "lowPrice": 2.2,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-25T08:06:43.719Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 2.2,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/33557/devondale-100-pure-full-cream-long-life-milk"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/33557/devondale-100-pure-full-cream-long-life-milk"
+  ],
+  "sku": "33557",
+  "updatedAt": "2022-11-25T08:06:43.719Z"
+}

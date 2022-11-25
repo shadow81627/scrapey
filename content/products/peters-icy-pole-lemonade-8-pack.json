@@ -1,0 +1,66 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "Approx.180kJ",
+      "carbohydrateContent": "Approx.10.7g",
+      "dietary_fibre": "-",
+      "fatContent": "Approx.1g",
+      "name": "nutrition",
+      "proteinContent": "Approx.1g",
+      "saturatedFatContent": "Approx.1g",
+      "servingSize": "100 g",
+      "sodiumContent": "Approx.5mg",
+      "sugarContent": "Approx.10.7g"
+    }
+  ],
+  "aggregateRating": {
+    "@context": "http://schema.org",
+    "@type": "AggregateRating",
+    "ratingCount": 19,
+    "ratingValue": 4.94736842105263
+  },
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Peters"
+  },
+  "createdAt": "2022-11-25T08:02:23.742Z",
+  "description": "The name speaks for itself! Classic lemonade water ice that is 99% fat free with no artificial colours or flavours.",
+  "gtin13": "9310080274460",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/007280.jpg",
+  "name": "Peters Icy Pole Lemonade 8 Pack",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 5,
+    "lowPrice": 5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-25T08:02:23.737Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 5,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/7280/peters-icy-pole-lemonade"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/7280/peters-icy-pole-lemonade"
+  ],
+  "sku": "7280",
+  "updatedAt": "2022-11-25T08:02:23.737Z"
+}

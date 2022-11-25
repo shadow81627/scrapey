@@ -1,0 +1,66 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "Strawberry381.5kJ; Chocolate 389.2kJ",
+      "carbohydrateContent": "Strawberry13.3g; Chocolate 12.32g",
+      "dietary_fibre": "-",
+      "fatContent": "Strawberry1.54g; Chocolate 1.89g",
+      "name": "nutrition",
+      "proteinContent": "Strawberry2.1g; Chocolate 2.59g",
+      "saturatedFatContent": "Strawberry1.05g; Chocolate 1.26g",
+      "servingSize": "100 g",
+      "sodiumContent": "Strawberry44.8mg; Chocolate 51.1mg",
+      "sugarContent": "Strawberry10.92g; Chocolate 9.87g"
+    }
+  ],
+  "aggregateRating": {
+    "@context": "http://schema.org",
+    "@type": "AggregateRating",
+    "ratingCount": 11,
+    "ratingValue": 4.45454545454545
+  },
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Twisted"
+  },
+  "createdAt": "2022-11-25T08:01:52.133Z",
+  "description": "Twisted Minis Frozen Yoghurt Strawberry & Vanilla Bean and Chocolate & Vanilla Bean are made with real probiotic yoghurt.A seriously delicious product, from an awesome Aussie brand.This is our founder Cass spies and her three kids. Cass started twisted back in 2010 to create delicious healthy frozen treats that are a smart food choice for adults, children and families alike.Twisted products are packed with the finest Australian ingredients. They're all-natural, seriously delicious and because we use real probiotic yoghurt, it has amazing health benefits.What's not to like?6 Reasons...Why you should get twisted:- Gluten free.- 98% fat free.- 95 calories per cup.- 100% Australian dairy.- Live and active cultures.- Made with real probiotic yoghurt.",
+  "gtin13": "9349107000089",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/577912.jpg",
+  "name": "Twisted Gluten Free Frozen Yoghurt Mini Multpack 4x120mL",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 7.5,
+    "lowPrice": 7.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-25T08:01:52.131Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 7.5,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/577912/twisted-gluten-free-frozen-yoghurt-mini-multpack"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/577912/twisted-gluten-free-frozen-yoghurt-mini-multpack"
+  ],
+  "sku": "577912",
+  "updatedAt": "2022-11-25T08:01:52.131Z"
+}

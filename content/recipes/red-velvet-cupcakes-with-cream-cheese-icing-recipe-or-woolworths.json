@@ -1,64 +1,74 @@
 {
   "@type": "Recipe",
+  "author": {
+    "@type": "Person",
+    "name": "Licensed by Woolworths - ©️ Dorling Kindersley Ltd"
+  },
   "cookTime": "PT25M",
   "createdAt": "2022-11-24T18:10:37.720Z",
-  "datePublished": "2021-12-17",
+  "datePublished": "2022-08-03",
   "description": "These fashionable cupcakes taste as good as they look, with red-toned cake against pale buttery icing.",
-  "image": "https://foodhub.scene7.com/is/image/woolworthsltdprod/famkit415redcup_037?wid=5616&hei=3744&fmt=png-alpha",
-  "keywords": "Red Velvet Cupcakes With Cream Cheese Icing",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1300,
+    "mime": "image/jpeg",
+    "url": "https://foodhub.scene7.com/is/image/woolworthsltdprod/famkit415redcup_037:Square-1300x1300",
+    "width": 1300
+  },
+  "keywords": "Cupcake,Baking",
   "name": "Red Velvet Cupcakes With Cream Cheese Icing Recipe | Woolworths",
   "prepTime": "PT25M",
-  "recipeCategory": "desserts",
-  "recipeCuisine": "north-american",
+  "recipeCategory": "Desserts",
+  "recipeCuisine": "American",
   "recipeId": "RGR17571",
   "recipeIngredient": [
-    "125 g butter",
-    "250 g caster sugar",
-    "2 eggs",
+    "125g butter, softened",
+    "250g caster sugar",
+    "2 eggs, lightly beaten",
     "2 tsp red food colouring",
     "1 tsp vanilla extract",
-    "250 g self-raising flour",
+    "250g self-raising flour",
     "4 tbs cocoa powder",
     "0.8 cup buttermilk",
     "1 tsp cider vinegar",
     "1 tsp bicarbonate of soda",
-    "50 g cream cheese",
-    "50 g butter",
-    "200 g icing sugar"
+    "50g cream cheese",
+    "50g butter, softened",
+    "200g icing sugar"
   ],
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "When the cakes are completely cold, they are ready to ice. Ice them by hand using the back of a spoon dipped in warm water to smooth the surface, or pipe the icing onto the cupcakes."
+      "HowToTip": {},
+      "text": "Preheat the oven to 180°C (Gas 4). Place the butter and sugar in a large bowl, and use an electric hand-held whisk to cream them together until the mixture is very light and fluffy. Whisk in the eggs, food colouring, and vanilla extract until they are well combined."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "When the cakes are completely cold, they are ready to ice. Ice them by hand using the back of a spoon dipped in warm water to smooth the surface, or pipe the icing onto the cupcakes."
+      "HowToTip": {},
+      "text": "Sift together the flour and cocoa powder. Add one-third of the flour to the cake batter and whisk it in well. Add half of the buttermilk and whisk it again, then another one-third of the flour, the rest of the buttermilk, and the final one-third of the flour, making sure to whisk well between additions. Mix together the cider vinegar and bicarbonate of soda and fold quickly into the batter."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "When the cakes are completely cold, they are ready to ice. Ice them by hand using the back of a spoon dipped in warm water to smooth the surface, or pipe the icing onto the cupcakes."
+      "HowToTip": {},
+      "text": "Place 18-20 cupcake cases in 2 deep 12-hole muffin tins (they will help the cupcakes keep their shape). Spoon the batter into the cases, filling each two-thirds full. Bake for 22-25 minutes, until springy to the touch. Do not open the oven until at least 20 minutes baking time has passed. Transfer to a wire rack to cool."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "When the cakes are completely cold, they are ready to ice. Ice them by hand using the back of a spoon dipped in warm water to smooth the surface, or pipe the icing onto the cupcakes."
+      "HowToTip": {},
+      "text": "To make the icing, beat the cream cheese, butter, icing sugar, and vanilla extract until light and creamy, and transfer to a piping bag fitted with a star-shaped nozzle (if using)."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
+      "HowToTip": {},
       "text": "When the cakes are completely cold, they are ready to ice. Ice them by hand using the back of a spoon dipped in warm water to smooth the surface, or pipe the icing onto the cupcakes."
     }
   ],
   "recipeNameId": "red-velvet-cupcakes-with-cream-cheese-icing",
   "recipeYield": "18",
   "sameAs": [
-    "https://woolworths.com.au/shop/find-recipes/cream-cheese-icing"
+    "https://woolworths.com.au/shop/recipes/red-velvet-cupcakes-with-cream-cheese-icing"
   ],
   "totalTime": "PT50M",
-  "updatedAt": "2022-11-24T18:10:37.719Z",
+  "updatedAt": "2022-11-25T08:37:16.284Z",
   "url": "https://www.woolworths.com.au/shop/recipes/red-velvet-cupcakes-with-cream-cheese-icing"
 }

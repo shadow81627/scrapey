@@ -1,0 +1,60 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "Approx. 6kJ",
+      "carbohydrateContent": "<1g",
+      "dietary_fibre": "-",
+      "fatContent": "<1g",
+      "name": "nutrition",
+      "proteinContent": "<1g",
+      "saturatedFatContent": "<1g",
+      "servingSize": "100 g",
+      "sodiumContent": "<10mg",
+      "sugarContent": "<1g"
+    }
+  ],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Nerada"
+  },
+  "createdAt": "2022-11-25T08:03:44.013Z",
+  "description": "Rooibos is a shrub native to South Africa, where it has been used as a refreshing beverage for centuries. To excite and delight the palate we have added a hint of natural vanilla flavour to our organic Rooibos which makes it beautifully aromatic and smooth. As Rooibos is naturally sweet and caffeine free it is perfect at any time of day.100% Natural IngredientsWe like to do things the natural way. That’s why our deliciously refreshing teas & herbal infusions have been expertly created only using the finest organic ingredients from our trusted growing partners which makes them unique and delicious.",
+  "gtin13": "9310551000550",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/319056.jpg",
+  "name": "Nerada Organic Rooibos & Vanilla Tea Bags 50 Pack",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 5.1,
+    "lowPrice": 5.1,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-25T08:03:44.012Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 5.1,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/319056/nerada-organic-rooibos-vanilla-tea-bags"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/319056/nerada-organic-rooibos-vanilla-tea-bags"
+  ],
+  "sku": "319056",
+  "updatedAt": "2022-11-25T08:03:44.012Z"
+}

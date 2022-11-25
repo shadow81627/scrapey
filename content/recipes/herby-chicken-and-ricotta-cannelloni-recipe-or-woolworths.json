@@ -1,67 +1,77 @@
 {
   "@type": "Recipe",
+  "author": {
+    "@type": "Person",
+    "name": "Licensed by Woolworths - ©️ Octopus Publishing Ltd"
+  },
   "cookTime": "PT40M",
   "createdAt": "2022-11-24T17:37:43.981Z",
-  "datePublished": "2022-09-06",
+  "datePublished": "2022-09-26",
   "description": "Try our easy to follow Herby Chicken & Ricotta Cannelloni recipe. Absolutely delicious with the best ingredients from Woolworths.",
-  "image": "https://foodhub.scene7.com/is/image/woolworthsltdprod/159-chicken-cannelloni?wid=4080&hei=5436&fmt=png-alpha",
-  "keywords": "Herby Chicken & Ricotta Cannelloni",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1300,
+    "mime": "image/jpeg",
+    "url": "https://foodhub.scene7.com/is/image/woolworthsltdprod/159-chicken-cannelloni:Square-1300x1300",
+    "width": 1300
+  },
+  "keywords": "Cannelloni,Chicken,Tree nut free,Peanut free",
   "name": "Herby Chicken & Ricotta Cannelloni Recipe | Woolworths",
   "prepTime": "PT20M",
-  "recipeCategory": "mains",
-  "recipeCuisine": "european",
+  "recipeCategory": "Mains",
+  "recipeCuisine": "Italian",
   "recipeId": "RGR31160",
   "recipeIngredient": [
     "2 tbs olive oil",
     "1 tsp sweet paprika",
-    "100 g frozen spinach",
-    "75 g sun-dried tomatoes",
-    "250 g cannelloni tubes",
-    "2 tbs Parmesan cheese",
+    "100g frozen spinach, thawed and chopped",
+    "75g sun-dried tomatoes (not in oil, chopped (optional)",
+    "250g cannelloni tubes",
+    "2 tbs Parmesan cheese, finely grated",
     "1 pinch salt",
     "1 pinch pepper",
-    "500 g boneless",
-    "2 leeks",
+    "500g boneless, skinless chicken thighs, finely chopped or minced",
+    "2 leeks, trimmed, cleaned and diced",
     "2 cup passata",
-    "6 tbs chopped mixed herbs",
+    "6 tbs chopped mixed herbs (chopped)",
     "1 tsp fennel seeds",
-    "250 g ricotta cheese",
-    "1 lemon",
+    "250g ricotta cheese",
+    "1 lemon, finely grated rind",
     "0.5 tsp ground nutmeg"
   ],
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Place in a preheated oven, 180°C, Gas Mark 4, for 35-40 minutes or until cooked through and bubbling. Serve hot with a crisp green salad."
+      "HowToTip": {},
+      "text": "Heat 1 tablespoon of the oil in a large, nonstick frying pan over a medium-high heat, add the chicken and fry for 3-4 minutes or until browned, stirring frequently. Reduce the heat slightly, add the leeks and cook for a further 3-4 minutes or until the leeks are translucent."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Place in a preheated oven, 180°C, Gas Mark 4, for 35-40 minutes or until cooked through and bubbling. Serve hot with a crisp green salad."
+      "HowToTip": {},
+      "text": "Meanwhile, heat the passata in a saucepan and stir in one-third of the chopped herbs, the fennel seeds and the remaining oil. Season with salt and pepper to taste, then simmer gently for 2-3 minutes."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Place in a preheated oven, 180°C, Gas Mark 4, for 35-40 minutes or until cooked through and bubbling. Serve hot with a crisp green salad."
+      "HowToTip": {},
+      "text": "Remove the chicken from the heat and stir in the ricotta, the remaining chopped herbs, the lemon rind, nutmeg, paprika, spinach and sun-dried tomatoes, if using. Season to taste. Stand the cannelloni tubes upright and use a narrow spoon to fill them with the ricotta mixture."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Place in a preheated oven, 180°C, Gas Mark 4, for 35-40 minutes or until cooked through and bubbling. Serve hot with a crisp green salad."
+      "HowToTip": {},
+      "text": "Spoon half of the passata over the base of a large, shallow ovenproof dish. Arrange the filled pasta tubes, side by side over the tomato sauce, so that they all fit in one closely fitting layer. Pour the remaining passata over the top of the cannelloni, then sprinkle with the Parmesan."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
+      "HowToTip": {},
       "text": "Place in a preheated oven, 180°C, Gas Mark 4, for 35-40 minutes or until cooked through and bubbling. Serve hot with a crisp green salad."
     }
   ],
   "recipeNameId": "herby-chicken-ricotta-cannelloni",
   "recipeYield": "4",
   "sameAs": [
-    "https://woolworths.com.au/shop/find-recipes/chicken-sun-dried-tomato"
+    "https://woolworths.com.au/shop/recipes/herby-chicken-ricotta-cannelloni"
   ],
   "totalTime": "PT60M",
-  "updatedAt": "2022-11-24T17:37:43.980Z",
+  "updatedAt": "2022-11-25T07:35:30.437Z",
   "url": "https://www.woolworths.com.au/shop/recipes/herby-chicken-ricotta-cannelloni"
 }

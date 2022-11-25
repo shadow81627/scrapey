@@ -1,59 +1,69 @@
 {
   "@type": "Recipe",
+  "author": {
+    "@type": "Person",
+    "name": "Licensed by Woolworths - ©️ Octopus Publishing Ltd"
+  },
   "cookTime": "PT30M",
   "createdAt": "2022-11-24T14:23:07.365Z",
-  "datePublished": "2022-02-21",
+  "datePublished": "2022-09-14",
   "description": "Try our easy to follow Vanilla & White Chocolate Cupcakes recipe. Absolutely delicious with the best ingredients from Woolworths.",
-  "image": "https://foodhub.scene7.com/is/image/woolworthsltdprod/vanilla-choc-cup-cakes190?wid=4052&hei=4964&fmt=png-alpha",
-  "keywords": "Vanilla & White Chocolate Cupcakes",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1300,
+    "mime": "image/jpeg",
+    "url": "https://foodhub.scene7.com/is/image/woolworthsltdprod/vanilla-choc-cup-cakes190:Square-1300x1300",
+    "width": 1300
+  },
+  "keywords": "Cupcake,Baking",
   "name": "Vanilla & White Chocolate Cupcakes Recipe | Woolworths",
   "prepTime": "PT20M",
-  "recipeCategory": "desserts",
-  "recipeCuisine": "north-american",
+  "recipeCategory": "Desserts",
+  "recipeCuisine": "American",
   "recipeId": "RGR34019",
   "recipeIngredient": [
-    "125 g lightly salted butter",
-    "175 g caster sugar",
+    "125g lightly salted butter, softened",
+    "175g caster sugar",
     "2 eggs",
     "0.4 cup milk",
     "1 tsp vanilla bean paste",
-    "25 g plain flour",
-    "100 g self-raising flour",
-    "100 g cream cheese",
-    "25 g white chocolate",
-    "50 g lightly salted butter",
+    "25g plain flour",
+    "100g self-raising flour",
+    "100g cream cheese",
+    "25g white chocolate, melted",
+    "50g lightly salted butter, softened",
     "0.5 tsp vanilla bean paste",
-    "260 g icing sugar",
-    "2 tbs white chocolate"
+    "260g icing sugar (save 10g for dusting)",
+    "2 tbs white chocolate, curls (to decorate)"
   ],
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Make the icing. Put the cream cheese, chocolate, butter, vanilla and icing sugar in a bowl and beat until smooth and creamy. Spread over the tops of the cakes. Scatter with plenty of white chocolate curls and dust with extra icing sugar to decorate."
+      "HowToTip": {},
+      "text": "Line a 6-hole muffin tray with paper cake cases."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Make the icing. Put the cream cheese, chocolate, butter, vanilla and icing sugar in a bowl and beat until smooth and creamy. Spread over the tops of the cakes. Scatter with plenty of white chocolate curls and dust with extra icing sugar to decorate."
+      "HowToTip": {},
+      "text": "Cream together the butter and caster sugar using a hand-held electric whisk until light and fluffy. Beat in one egg, half the milk and the vanilla, then the plain flour. Stir in the remaining egg and milk. Add the self-raising flour, stirring until just combined. Use to fill the cake cases, reserving the excess to make a second batch. Place on the lower rack of the halogen oven."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Make the icing. Put the cream cheese, chocolate, butter, vanilla and icing sugar in a bowl and beat until smooth and creamy. Spread over the tops of the cakes. Scatter with plenty of white chocolate curls and dust with extra icing sugar to decorate."
+      "HowToTip": {},
+      "text": "Set the temperature to 200°C and cook for about 15 minutes until risen and just firm to the touch. Leave in the tin for 5 minutes, then transfer to a wire rack while you cook the remaining mixture."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
+      "HowToTip": {},
       "text": "Make the icing. Put the cream cheese, chocolate, butter, vanilla and icing sugar in a bowl and beat until smooth and creamy. Spread over the tops of the cakes. Scatter with plenty of white chocolate curls and dust with extra icing sugar to decorate."
     }
   ],
   "recipeNameId": "vanilla-and-white-chocolate-cupcakes",
   "recipeYield": "10",
   "sameAs": [
-    "https://woolworths.com.au/shop/find-recipes/white-chocolate-muffins"
+    "https://woolworths.com.au/shop/recipes/vanilla-and-white-chocolate-cupcakes"
   ],
   "totalTime": "PT50M",
-  "updatedAt": "2022-11-24T14:23:07.364Z",
+  "updatedAt": "2022-11-25T07:57:04.963Z",
   "url": "https://www.woolworths.com.au/shop/recipes/vanilla-and-white-chocolate-cupcakes"
 }

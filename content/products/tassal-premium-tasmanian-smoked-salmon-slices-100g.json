@@ -1,0 +1,60 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "439kJ",
+      "carbohydrateContent": "<0.5g",
+      "dietary_fibre": "-",
+      "fatContent": "6.4g",
+      "name": "nutrition",
+      "proteinContent": "11.9g",
+      "saturatedFatContent": "1.4g",
+      "servingSize": "100 g",
+      "sodiumContent": "560mg",
+      "sugarContent": "<0.5g"
+    }
+  ],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Tassal"
+  },
+  "createdAt": "2022-11-25T09:28:50.845Z",
+  "description": "Click HERE for a easy Smoked Salmon Corn Fritters recipe.  ",
+  "gtin13": "9314111000196",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/029637.jpg",
+  "name": "Tassal Premium Tasmanian Smoked Salmon Slices 100G",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 9,
+    "lowPrice": 9,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-25T09:28:50.843Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 9,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/29637/tassal-premium-tasmanian-smoked-salmon-slices"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/29637/tassal-premium-tasmanian-smoked-salmon-slices"
+  ],
+  "sku": "29637",
+  "updatedAt": "2022-11-25T09:28:50.844Z"
+}

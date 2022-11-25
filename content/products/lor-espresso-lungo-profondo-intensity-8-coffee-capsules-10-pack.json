@@ -1,0 +1,60 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "-",
+      "carbohydrateContent": "-",
+      "dietary_fibre": "-",
+      "fatContent": "-",
+      "name": "nutrition",
+      "proteinContent": "-",
+      "saturatedFatContent": "-",
+      "servingSize": "100 g",
+      "sodiumContent": "-",
+      "sugarContent": "-"
+    }
+  ],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "L'Or"
+  },
+  "createdAt": "2022-11-25T08:05:07.022Z",
+  "description": "L'OR Espresso Lungo Profondo Intensity 8 is a toasty, fruity and distinct ground coffee in capsules that is compatible with Nespresso* original coffee machines.A journey of taste from start to finish with a medium roast taken right to the edge of dark. Deeper hints of chocolate and nuts, then light toasty notes, contrasted with soft fruitiness. A lingering, distinct aftertaste keeps you yearning for more.Blended by L’OR Coffee ArtistsToasty, fruity and distinct ground coffee in single-dose capsulesIdeal preparation is espresso (40mL)Compatible with L’OR Barista and Nespresso* original coffee machines100% Rainforest Alliance certified coffee beans100% recyclable capsules via partnership with Terracycle",
+  "gtin13": "8711000362617",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/604171.jpg",
+  "name": "L'or Espresso Lungo Profondo Intensity 8 Coffee Capsules 10 Pack",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 5,
+    "lowPrice": 5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-25T08:05:07.021Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 5,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/604171/l-or-espresso-lungo-profondo-intensity-8-coffee-capsules"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/604171/l-or-espresso-lungo-profondo-intensity-8-coffee-capsules"
+  ],
+  "sku": "604171",
+  "updatedAt": "2022-11-25T08:05:07.021Z"
+}

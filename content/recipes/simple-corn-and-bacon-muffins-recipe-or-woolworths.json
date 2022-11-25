@@ -1,61 +1,71 @@
 {
   "@type": "Recipe",
+  "author": {
+    "@type": "Person",
+    "name": "Licensed by Woolworths - ©️ Octopus Publishing Ltd"
+  },
   "cookTime": "PT20M",
   "createdAt": "2022-11-22T09:57:25.349Z",
-  "datePublished": "2022-01-31",
+  "datePublished": "2022-09-26",
   "description": "Try our easy to follow Simple Corn & Bacon Muffins recipe. Absolutely delicious with the best ingredients from Woolworths.",
-  "image": "https://foodhub.scene7.com/is/image/woolworthsltdprod/23701CT161?wid=2036&hei=2511&fmt=png-alpha",
-  "keywords": "Simple Corn & Bacon Muffins",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1300,
+    "mime": "image/jpeg",
+    "url": "https://foodhub.scene7.com/is/image/woolworthsltdprod/23701CT161:Square-1300x1300",
+    "width": 1300
+  },
+  "keywords": "Savoury muffin",
   "name": "Simple Corn & Bacon Muffins Recipe | Woolworths",
   "prepTime": "PT10M",
-  "recipeCategory": "snacks",
-  "recipeCuisine": "australian",
+  "recipeCategory": "Snacks",
+  "recipeCuisine": "Australian",
   "recipeId": "RGR3171",
   "recipeIngredient": [
-    "6 bacon slices",
-    "1 small red onion",
-    "200 g frozen corn kernels",
-    "175 g fine cornmeal",
-    "125 g glutenfree all-purpose flour",
-    "2 tsp glutenfree baking powder",
-    "50 g grated cheddar cheese",
+    "6 bacon slices, finely chopped",
+    "1 small red onion, finely chopped",
+    "200g frozen corn kernels",
+    "175g fine cornmeal",
+    "125g gluten-free all-purpose flour",
+    "2 tsp gluten-free baking powder",
+    "50g grated cheddar cheese",
     "0.8 cup milk",
     "2 eggs",
-    "4 tbs vegetable oil"
+    "4 tbs vegetable oil (save 1tbs for greasing)"
   ],
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Pour the mixture into the oiled holes and place in a preheated oven, 218°C, for 1520 minutes until golden and just firm to the touch. Remove from the oven and transfer to a wire rack to cool."
+      "HowToTip": {},
+      "text": "Oil a 12-cup muffin tray."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Pour the mixture into the oiled holes and place in a preheated oven, 218°C, for 1520 minutes until golden and just firm to the touch. Remove from the oven and transfer to a wire rack to cool."
+      "HowToTip": {},
+      "text": "Heat a skillet, add the bacon and onion and dry-fry for 3-4 minutes until the bacon is turning crisp."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Pour the mixture into the oiled holes and place in a preheated oven, 218°C, for 1520 minutes until golden and just firm to the touch. Remove from the oven and transfer to a wire rack to cool."
+      "HowToTip": {},
+      "text": "Cook the corn in a saucepan of boiling water for 2 minutes to soften. Drain well."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Pour the mixture into the oiled holes and place in a preheated oven, 218°C, for 1520 minutes until golden and just firm to the touch. Remove from the oven and transfer to a wire rack to cool."
+      "HowToTip": {},
+      "text": "Mix together the cornmeal, flour, and baking powder in a bowl, then stir in the corn, cheese, bacon, and onion. Mix together the milk, eggs, and oil in a separate bowl, add to the dry ingredients, and stir gently to combine."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Pour the mixture into the oiled holes and place in a preheated oven, 218°C, for 1520 minutes until golden and just firm to the touch. Remove from the oven and transfer to a wire rack to cool."
+      "HowToTip": {},
+      "text": "Pour the mixture into the oiled holes and place in a preheated oven, 218°C, for 15-20 minutes until golden and just firm to the touch. Remove from the oven and transfer to a wire rack to cool."
     }
   ],
   "recipeNameId": "simple-corn-and-bacon-muffins",
   "recipeYield": "4",
   "sameAs": [
-    "https://woolworths.com.au/shop/find-recipes/bacon-muffin"
+    "https://woolworths.com.au/shop/recipes/simple-corn-and-bacon-muffins"
   ],
   "totalTime": "PT30M",
-  "updatedAt": "2022-11-22T09:57:25.348Z",
+  "updatedAt": "2022-11-25T09:11:07.986Z",
   "url": "https://www.woolworths.com.au/shop/recipes/simple-corn-and-bacon-muffins"
 }

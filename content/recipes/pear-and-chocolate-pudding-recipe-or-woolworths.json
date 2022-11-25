@@ -1,61 +1,71 @@
 {
   "@type": "Recipe",
+  "author": {
+    "@type": "Person",
+    "name": "Produced for Woolworths"
+  },
   "cookTime": "PT30M",
   "createdAt": "2022-11-24T12:28:12.799Z",
-  "datePublished": "2022-02-03",
+  "datePublished": "2022-08-03",
   "description": "A deliciously moist pudding with the surprising marriage of pear and chocolate.",
-  "image": "https://foodhub.scene7.com/is/image/woolworthsltdprod/337684?wid=5670&hei=3780&fmt=png-alpha",
-  "keywords": "Pear & Chocolate Pudding",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1300,
+    "mime": "image/jpeg",
+    "url": "https://foodhub.scene7.com/is/image/woolworthsltdprod/337684:Square-1300x1300",
+    "width": 1300
+  },
+  "keywords": "Chocolate pudding,Chocolate,Pear",
   "name": "Pear & Chocolate Pudding Recipe | Woolworths",
   "prepTime": "PT20M",
-  "recipeCategory": "desserts",
-  "recipeCuisine": "north-american",
+  "recipeCategory": "Desserts",
+  "recipeCuisine": "American",
   "recipeId": "RGWW337684",
   "recipeIngredient": [
-    "800 g pears",
-    "3 medium eggs",
-    "210 g flour",
+    "800g pears, store bought tins in syrup",
+    "3 medium eggs, free range",
+    "210g flour",
     "1 tsp baking powder",
     "1 tsp bicarbonate soda",
-    "20 g dark chocolate cocoa powder",
-    "150 g sugar",
+    "20g dark chocolate cocoa powder",
+    "150g sugar",
     "1 tsp vanilla essence",
-    "200 g dark chocolate",
+    "200g dark chocolate, over 60% cocoa solids",
     "1 cup cream"
   ],
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Serve the cake with the creamy chocolate sauce."
+      "HowToTip": {},
+      "text": "Pre-heat the oven to 180°C. Drain the pears and slice lengthways."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Serve the cake with the creamy chocolate sauce."
+      "HowToTip": {},
+      "text": "Prepare the sauce by melting the chocolate with the cream on a low heat for 5 minutes while stirring until the chocolate has meted and leave to one side."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Serve the cake with the creamy chocolate sauce."
+      "HowToTip": {},
+      "text": "Crack and beat the eggs in a mixing bowl and then combine with the other wet ingredients. Sift the dry ingredients into the mixing bowl incrementally and mix well for 5 minutes."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Serve the cake with the creamy chocolate sauce."
+      "HowToTip": {},
+      "text": "In your chosen cake tin, line the sliced pears at the bottom of the tin decoratively. Pour the cake mixture on top and bake in the oven for 30 minutes then remove form oven and allow to stand for 10 minutes."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
+      "HowToTip": {},
       "text": "Serve the cake with the creamy chocolate sauce."
     }
   ],
   "recipeNameId": "pear-and-chocolate-pudding",
   "recipeYield": "6",
   "sameAs": [
-    "https://woolworths.com.au/shop/find-recipes/pear-pudding"
+    "https://woolworths.com.au/shop/recipes/pear-and-chocolate-pudding"
   ],
   "totalTime": "PT50M",
-  "updatedAt": "2022-11-24T12:28:12.798Z",
+  "updatedAt": "2022-11-25T08:09:39.234Z",
   "url": "https://www.woolworths.com.au/shop/recipes/pear-and-chocolate-pudding"
 }

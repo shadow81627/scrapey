@@ -1,0 +1,60 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "300",
+      "carbohydrateContent": "12.2g",
+      "dietary_fibre": "-",
+      "fatContent": "1.5g",
+      "name": "nutrition",
+      "proteinContent": "2g",
+      "saturatedFatContent": "1g",
+      "servingSize": "100 g",
+      "sodiumContent": "24mg",
+      "sugarContent": "9.8g"
+    }
+  ],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Twisted"
+  },
+  "createdAt": "2022-11-25T08:02:12.114Z",
+  "description": "Twisted Healthy Treats Chocolate Cookie Frozen Yoghurt  is an all natural, gluten free yoghurt with 75 calories per serve.Seriously Delicious Our founder Cass Spies started Twisted back in 2010 to create delicious healthy frozen treats that are a smart food choice for adults, children and families alike. Twisted products are packed with the finest Australian ingredients. They're all-natural, gluten free, seriously delicious and because we use real probiotic yoghurt, it has amazinghealth benefits.- Live & active cultures- Gluten free all natural75 Calories Per ServeGluten FreeAll NaturalLive & Active Cultures",
+  "gtin13": "9349107000812",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/221825.jpg",
+  "name": "Twisted Frozen Yoghurt Chocolate & Cookie 1l",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 9.5,
+    "lowPrice": 9.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-25T08:02:12.112Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 9.5,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/221825/twisted-frozen-yoghurt-chocolate-cookie"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/221825/twisted-frozen-yoghurt-chocolate-cookie"
+  ],
+  "sku": "221825",
+  "updatedAt": "2022-11-25T08:02:12.112Z"
+}

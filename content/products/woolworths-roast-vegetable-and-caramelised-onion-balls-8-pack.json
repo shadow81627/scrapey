@@ -1,0 +1,59 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "707.00kJ",
+      "carbohydrateContent": "25.70g",
+      "dietary_fibre": "-",
+      "fatContent": "5.60g",
+      "name": "nutrition",
+      "proteinContent": "3.70g",
+      "saturatedFatContent": "0.60g",
+      "servingSize": "100 g",
+      "sodiumContent": "235.00mg",
+      "sugarContent": "4.40g"
+    }
+  ],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Woolworths"
+  },
+  "createdAt": "2022-11-25T09:38:45.168Z",
+  "gtin13": "9339687297320",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/206336.jpg",
+  "name": "Woolworths Roast Vegetable & Caramelised Onion Balls 8 Pack",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 7,
+    "lowPrice": 7,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-25T09:38:45.167Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 7,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/206336/woolworths-roast-vegetable-caramelised-onion-balls"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/206336/woolworths-roast-vegetable-caramelised-onion-balls"
+  ],
+  "sku": "206336",
+  "updatedAt": "2022-11-25T09:38:45.167Z"
+}

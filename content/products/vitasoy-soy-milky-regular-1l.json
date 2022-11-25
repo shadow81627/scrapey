@@ -1,0 +1,60 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "553",
+      "carbohydrateContent": "8.5g",
+      "dietary_fibre": "0.5g",
+      "fatContent": "7.5g",
+      "name": "nutrition",
+      "proteinContent": "7.5g",
+      "saturatedFatContent": "1.0g",
+      "servingSize": "100 g",
+      "sodiumContent": "200mg",
+      "sugarContent": "6.3g"
+    }
+  ],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Vitasoy"
+  },
+  "createdAt": "2022-11-25T08:06:46.180Z",
+  "description": "Vitasoy Soy Milk - Milky Regular is made with 100% Australian grown whole soybeans. It has added benefits including 38% of your daily calcium needs with a great milky taste!Your Vitasoy Soy Milk - Milky Regular is made from 100% Australian grown whole soybean, grown by a small group of carefully picked farmers on the east coast of Australia. Harvested in autumn, they are carefully delivered to our factory in regional Victoria, where we dehull and grind our beans, then blend the good bits with filtered water and other important ingredients like calcium to provide bone health benefits as part of a balanced diet. Naturally free from dairy, gluten, cholesterol and lactose, there are plenty of ways to enjoy our much loved soy milk, in a smoothie or on its own!Made with Australian grown whole soybeansNaturally free from gluten, dairy, cholesterol and lactoseNatural source of protein38% of your daily calcium needsSuitable for vegans and vegetarians?Non-genetically modified",
+  "gtin13": "9310232100500",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/212840.jpg",
+  "name": "Vitasoy Soy Milky Regular 1L",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2.45,
+    "lowPrice": 2.45,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-25T08:06:46.179Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 2.45,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/212840/vitasoy-soy-milky-regular"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/212840/vitasoy-soy-milky-regular"
+  ],
+  "sku": "212840",
+  "updatedAt": "2022-11-25T08:06:46.179Z"
+}

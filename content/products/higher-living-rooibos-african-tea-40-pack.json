@@ -1,0 +1,60 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "-",
+      "carbohydrateContent": "-",
+      "dietary_fibre": "-",
+      "fatContent": "-",
+      "name": "nutrition",
+      "proteinContent": "-",
+      "saturatedFatContent": "-",
+      "servingSize": "100 g",
+      "sodiumContent": "-",
+      "sugarContent": "-"
+    }
+  ],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Higher Living"
+  },
+  "createdAt": "2022-11-25T08:02:57.483Z",
+  "description": "For flavours that fly\nThis rooibos (also known as redbush) is grown on a small organic farm amongst the clean air and pure water streams of the Cedarberg Mountains, in South Africa the same way it has been for centuries. It is then hand harvested and left to dry in the sun, the same way the Khoisan people have done it for millennia.\nWhen cut and fermented, the leaves of the Rooibos plant turn a rich orangey- red colour, and it is this distinctive colour which led to the Afrikaans name rooibos meaning red bush.\n\nOur rooibos tea has a lot to offer. Not only does it taste deliciously sweet and earthy, it also full of natural goodness. Rooibos can be enjoyed with or without milk, making it the perfect naturally caffeine free alternative to black tea.",
+  "gtin13": "5060319129668",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/728344.jpg",
+  "name": "Higher Living Rooibos African Tea 40 Pack",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 5.5,
+    "lowPrice": 5.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-25T08:02:57.482Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 5.5,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/728344/higher-living-rooibos-african-tea"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/728344/higher-living-rooibos-african-tea"
+  ],
+  "sku": "728344",
+  "updatedAt": "2022-11-25T08:02:57.482Z"
+}

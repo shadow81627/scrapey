@@ -1,0 +1,60 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "20kJ",
+      "carbohydrateContent": "<1g",
+      "dietary_fibre": "-",
+      "fatContent": "<1g",
+      "name": "nutrition",
+      "proteinContent": "<1g",
+      "saturatedFatContent": "<1g",
+      "servingSize": "100 g",
+      "sodiumContent": "10mg",
+      "sugarContent": "<1g"
+    }
+  ],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Twinings"
+  },
+  "createdAt": "2022-11-25T08:03:40.098Z",
+  "description": "Twinings Flavoured Herbal Infusions Lemon & Ginger is naturally caffeine free. Warming & comforting!A moment of warmth & comfort...Our Lemon & Ginger is packed with zesty lemon and warming ginger root, perfect to help revitalise your senses. Delivering a moment of warmth & comfort, this blend is wonderful to sip in all seasons. Take a moment to enjoy this wonderful infusion.For more delightful herbal infusions, try our soothing & gentle Pure Chamomile.In 1706, Thomas Twining started selling tea. More than 300 years on, the Twinings’ tradition continues with our finest blends for you to enjoy every day.",
+  "gtin13": "70177169909",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/931160.jpg",
+  "name": "Twinings Tea Bags Lemon & Ginger 80 Pack",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 13.5,
+    "lowPrice": 13.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-25T08:03:40.097Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 13.5,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/931160/twinings-tea-bags-lemon-ginger"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/931160/twinings-tea-bags-lemon-ginger"
+  ],
+  "sku": "931160",
+  "updatedAt": "2022-11-25T08:03:40.097Z"
+}

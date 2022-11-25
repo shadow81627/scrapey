@@ -1,0 +1,60 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "-",
+      "carbohydrateContent": "-",
+      "dietary_fibre": "-",
+      "fatContent": "-",
+      "name": "nutrition",
+      "proteinContent": "-",
+      "saturatedFatContent": "-",
+      "servingSize": "100 g",
+      "sodiumContent": "-",
+      "sugarContent": "-"
+    }
+  ],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Twinings"
+  },
+  "createdAt": "2022-11-25T08:03:54.505Z",
+  "description": "Twinings Chai with Vanilla Light Strength Tea Bag is spicy & soothing.A match made in chai heaven!A warm mug of our Vanilla Flavoured Chai is enough to melt away your worries for the day. Deliciously spicy and soothing with a creamy twist, it is best enjoyed anytime you need a happy boost. The intoxicating aromas of cinnamon, ginger and vanilla will leave you blissfully content.In 1706, Thomas Twining started selling tea. More than 300 years on, the Twinings' tradition continues with our finest blends for you to enjoy every day.",
+  "gtin13": "70177161170",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/750405.jpg",
+  "name": "Twinings Chai Vanilla Tea Bags Chai Tea 10 Pack",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3,
+    "lowPrice": 3,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-25T08:03:54.504Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 3,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/750405/twinings-chai-vanilla-tea-bags-chai-tea"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/750405/twinings-chai-vanilla-tea-bags-chai-tea"
+  ],
+  "sku": "750405",
+  "updatedAt": "2022-11-25T08:03:54.504Z"
+}

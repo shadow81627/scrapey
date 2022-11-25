@@ -1,0 +1,65 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "Approx.756kJ",
+      "carbohydrateContent": "Approx.4.5g",
+      "dietary_fibre": "-",
+      "fatContent": "Approx.4.3g",
+      "name": "nutrition",
+      "proteinContent": "Approx.30.7g",
+      "saturatedFatContent": "Approx.1.9g",
+      "servingSize": "100 g",
+      "sodiumContent": "Approx.371mg",
+      "sugarContent": "<1g"
+    }
+  ],
+  "aggregateRating": {
+    "@context": "http://schema.org",
+    "@type": "AggregateRating",
+    "ratingCount": 615,
+    "ratingValue": 3.96260162601626
+  },
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Woolworths"
+  },
+  "createdAt": "2022-11-25T09:28:27.357Z",
+  "gtin13": "9339687104567",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/054241.jpg",
+  "name": "Woolworths Cook Beef Pepper Steaks 300G",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 8,
+    "lowPrice": 8,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-25T09:28:27.356Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 8,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/54241/woolworths-cook-beef-pepper-steaks"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/54241/woolworths-cook-beef-pepper-steaks"
+  ],
+  "sku": "54241",
+  "updatedAt": "2022-11-25T09:28:27.356Z"
+}

@@ -1,0 +1,60 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "-",
+      "carbohydrateContent": "-",
+      "dietary_fibre": "-",
+      "fatContent": "-",
+      "name": "nutrition",
+      "proteinContent": "-",
+      "saturatedFatContent": "-",
+      "servingSize": "100 g",
+      "sodiumContent": "-",
+      "sugarContent": "-"
+    }
+  ],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Luv-A-Duck"
+  },
+  "createdAt": "2022-11-25T10:03:35.130Z",
+  "description": "Luv-a-Duck Whole Duck is wholesome, meaty and fully flavoured. A succulent crisp duck is easy to prepare and a sure favourite to serve for all occasions. And best of all, it's so easy.This is a variable weight product and is priced by $/kg. Once we've picked your item in store, we'll refund you for the difference between the weight paid and the weight received.",
+  "gtin13": "2208200000006",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/476068.jpg",
+  "name": "Luv-a-duck Fresh Whole Duck 1.9KG - 2.4KG",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 26.4,
+    "lowPrice": 26.4,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-25T10:03:35.128Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 26.4,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/476068/luv-a-duck-fresh-whole-duck"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/476068/luv-a-duck-fresh-whole-duck"
+  ],
+  "sku": "476068",
+  "updatedAt": "2022-11-25T10:03:35.128Z"
+}

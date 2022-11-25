@@ -1,0 +1,66 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "Approx. 659kJ",
+      "carbohydrateContent": "Approx. 12g",
+      "dietary_fibre": "-",
+      "fatContent": "Approx. 8.5g",
+      "name": "nutrition",
+      "proteinContent": "Approx. 8.2g",
+      "saturatedFatContent": "Approx. 5.5g",
+      "servingSize": "100 g",
+      "sodiumContent": "Approx. 110mg",
+      "sugarContent": "Approx. 12g"
+    }
+  ],
+  "aggregateRating": {
+    "@context": "http://schema.org",
+    "@type": "AggregateRating",
+    "ratingCount": 558,
+    "ratingValue": 4.36379928315412
+  },
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Woolworths"
+  },
+  "createdAt": "2022-11-25T08:06:18.827Z",
+  "description": "Lactose free milk has the same great taste and goodness as regular milk, with the lactose removed.\n\nGood Source of Calcium for healthy teeth and bones (1)\n(1) Eating 3 serves of dairy each day as part of a healthy, balanced diet will provide most people with their daily calcium requirements.",
+  "gtin13": "9300633785529",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/799811.jpg",
+  "name": "Woolworths Free From Lactose Full Cream Milk 1L",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 1.7,
+    "lowPrice": 1.7,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-25T08:06:18.824Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 1.7,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/799811/woolworths-free-from-lactose-full-cream-milk"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/799811/woolworths-free-from-lactose-full-cream-milk"
+  ],
+  "sku": "799811",
+  "updatedAt": "2022-11-25T08:06:18.824Z"
+}

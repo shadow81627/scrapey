@@ -1,46 +1,56 @@
 {
   "@type": "Recipe",
+  "author": {
+    "@type": "Person",
+    "name": "Produced for Woolworths"
+  },
   "cookTime": "PT200M",
   "createdAt": "2022-11-24T15:42:46.071Z",
   "datePublished": "2022-10-24",
   "description": "This middle eastern slow cooked chicken and walnut stew is rich, spiced, sweet and completely delicious.",
-  "image": "https://foodhub.scene7.com/is/image/woolworthsltdprod/slow-cooker-chicken-and-walnut-stew?wid=4423&hei=4423&fmt=png-alpha",
-  "keywords": "Slow Cooker Chicken & Walnut Stew",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1300,
+    "mime": "image/jpeg",
+    "url": "https://foodhub.scene7.com/is/image/woolworthsltdprod/slow-cooker-chicken-and-walnut-stew:Square-1300x1300",
+    "width": 1300
+  },
+  "keywords": "Stew,Seafood free,Soy free,Wheat free,Egg free,Slow cooker,Chicken",
   "name": "Slow Cooker Chicken & Walnut Stew Recipe | Woolworths",
   "prepTime": "PT15M",
-  "recipeCategory": "mains",
-  "recipeCuisine": "middle-eastern",
+  "recipeCategory": "Lunch,Dinner",
+  "recipeCuisine": "Middle Eastern,English",
   "recipeId": "RGWW339532",
   "recipeIngredient": [
     "1 tbs olive oil",
-    "1 large onion",
-    "50 g walnuts",
-    "750 g chicken thighs",
+    "1 large onion, peeled and sliced",
+    "50g walnuts, chopped",
+    "750g chicken thighs, skinless, on the bone",
     "1 tsp cinnamon",
     "1 tsp ground ginger",
-    "75 g dates",
+    "75g dates, pitted and chopped",
     "2 tbs harissa paste",
     "2 tbs pomegranate molasses",
-    "0.6 cup chicken stock"
+    "0.6 cup chicken stock, hot"
   ],
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Add the dates, harissa and pomegranate molasses and stir to coat. Pour in the stock, cover and cook on low for 5 hours."
+      "HowToTip": {},
+      "text": "Heat the oil in a pan on medium heat and cook the onion for 5 minutes to soften. Add the walnuts and cook for 1 minute. Tip into the slow cooker. Toss the chicken in spices and tip into the slow cooker."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
+      "HowToTip": {},
       "text": "Add the dates, harissa and pomegranate molasses and stir to coat. Pour in the stock, cover and cook on low for 5 hours."
     }
   ],
   "recipeNameId": "slow-cooker-chicken-and-walnut-stew",
   "recipeYield": "4",
   "sameAs": [
-    "https://woolworths.com.au/shop/find-recipes/slow-cooker-chicken-stew"
+    "https://woolworths.com.au/shop/recipes/slow-cooker-chicken-and-walnut-stew"
   ],
   "totalTime": "PT215M",
-  "updatedAt": "2022-11-24T15:42:46.069Z",
+  "updatedAt": "2022-11-25T07:35:38.448Z",
   "url": "https://www.woolworths.com.au/shop/recipes/slow-cooker-chicken-and-walnut-stew"
 }

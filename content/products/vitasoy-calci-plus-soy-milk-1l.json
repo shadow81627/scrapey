@@ -1,0 +1,60 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "673kJ",
+      "carbohydrateContent": "14.5g",
+      "dietary_fibre": "1.5g",
+      "fatContent": "7.5g",
+      "name": "nutrition",
+      "proteinContent": "8.0g",
+      "saturatedFatContent": "1.0g",
+      "servingSize": "100 g",
+      "sodiumContent": "150mg",
+      "sugarContent": "7.0g"
+    }
+  ],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Vitasoy"
+  },
+  "createdAt": "2022-11-25T08:06:53.844Z",
+  "description": "Vitasoy Soy Milk Calci-Plus is made with 100% organic whole soybeans. Contains 50% of your daily calcium needs, as well as essential vitamins A, B2, B12, D.  Your Vitasoy soy Calci-Plus is made from 100% organic whole soybeans. The soybeans are carefully delivered to our factory in regional Victoria, where we dehull and grind our beans, then blend the good bits with filtered water and other important ingredients like calcium and essential vitamins A, B2 and B12. Naturally free from dairy, cholesterol and lactose, there are plenty of ways to enjoy our much loved soy milk, in a smoothie or on its own!  Made with organic whole soybeans  Naturally free from dairy, cholesterol and lactose  Natural source of protein  50% of your daily vitamin D and calcium needs  Contains vitamin A, B2 and B12  Suitable for vegans and vegetarians",
+  "gtin13": "9310232100180",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/042937.jpg",
+  "name": "Vitasoy Calci Plus Soy Milk 1L",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3,
+    "lowPrice": 3,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-25T08:06:53.844Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 3,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/42937/vitasoy-calci-plus-soy-milk"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/42937/vitasoy-calci-plus-soy-milk"
+  ],
+  "sku": "42937",
+  "updatedAt": "2022-11-25T08:06:53.844Z"
+}

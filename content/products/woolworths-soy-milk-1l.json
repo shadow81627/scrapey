@@ -1,0 +1,66 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "Approx.625kJ",
+      "carbohydrateContent": "Approx.12.5g",
+      "dietary_fibre": "1.5g",
+      "fatContent": "Approx.7.2g",
+      "name": "nutrition",
+      "proteinContent": "Approx.8.5g",
+      "saturatedFatContent": "Approx.0.5g",
+      "servingSize": "100 g",
+      "sodiumContent": "Approx.170mg",
+      "sugarContent": "Approx.4.2g"
+    }
+  ],
+  "aggregateRating": {
+    "@context": "http://schema.org",
+    "@type": "AggregateRating",
+    "ratingCount": 578,
+    "ratingValue": 3.97404844290657
+  },
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Woolworths"
+  },
+  "createdAt": "2022-11-25T08:06:04.683Z",
+  "description": "Enjoy the smooth and creamy taste of our Woolworths Soy Milk.\n\nNaturally free of Lactose and Gluten it's a delicious alternative to traditional dairy.",
+  "gtin13": "9300633473648",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/779130.jpg",
+  "name": "Woolworths Soy Milk 1L",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 1.15,
+    "lowPrice": 1.15,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-25T08:06:04.679Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 1.15,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/779130/woolworths-soy-milk"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/779130/woolworths-soy-milk"
+  ],
+  "sku": "779130",
+  "updatedAt": "2022-11-25T08:06:04.679Z"
+}

@@ -1,0 +1,66 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "1100kj",
+      "carbohydrateContent": "3.6g",
+      "dietary_fibre": "-",
+      "fatContent": "18.8g",
+      "name": "nutrition",
+      "proteinContent": "19.7g",
+      "saturatedFatContent": "6.0g",
+      "servingSize": "100 g",
+      "sodiumContent": "991mg",
+      "sugarContent": "1.2g"
+    }
+  ],
+  "aggregateRating": {
+    "@context": "http://schema.org",
+    "@type": "AggregateRating",
+    "ratingCount": 65,
+    "ratingValue": 4.55384615384615
+  },
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Ingham's"
+  },
+  "createdAt": "2022-11-25T10:03:40.758Z",
+  "description": "Ingham's Frozen Turkey Thigh Roast is made with 100% Aussie Turkey, is gluten free and a good source of protein. Cooks in 90 mins from thawed and serves approximately 6There are plenty of reasons to love Ingham's always good 100% Aussie Turkey. It tastes amazing, it's also raised with no added hormones. It remains true to our promise of sharing food that's always goods so you love'em 100% Australian turkeyNo added hormonesGood source of protein.Cooks in 1 hour 35 minutes.",
+  "gtin13": "9310037102358",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/089785.jpg",
+  "name": "Ingham's Frozen Turkey Thigh Roast Traditional 1Kg",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 15,
+    "lowPrice": 15,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-25T10:03:40.755Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 15,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/89785/ingham-s-frozen-turkey-thigh-roast-traditional"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/89785/ingham-s-frozen-turkey-thigh-roast-traditional"
+  ],
+  "sku": "89785",
+  "updatedAt": "2022-11-25T10:03:40.755Z"
+}

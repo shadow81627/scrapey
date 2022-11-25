@@ -1,0 +1,60 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "525.00kJ",
+      "carbohydrateContent": "4.20g",
+      "dietary_fibre": "0.80g",
+      "fatContent": "7.50g",
+      "name": "nutrition",
+      "proteinContent": "10.00g",
+      "saturatedFatContent": "1.20g",
+      "servingSize": "100 g",
+      "sodiumContent": "120.00mg",
+      "sugarContent": "1.80g"
+    }
+  ],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Vitasoy"
+  },
+  "createdAt": "2022-11-25T08:08:05.718Z",
+  "description": "Vitasoy Protein+ Soy is unsweetened soy milk, high in calcium with vitamin A, B2, B12, D.Soy experts since 1940.- Made with whole organic soybeans.- 10g protein in every serving (Calcium, magnesium and phosphorus for strong bones and protein for muscle growth and repair).- Contains vitamin A, B2, B12 and D.- Calcium, phosphorus and magnesium for bone health (Calcium, magnesium and phosphorus for strong bones and protein for muscle growth and repair).- Naturally free from gluten, dairy, lactose and cholesterol. - No artificial colours, flavours or preservatives.- Suitable for vegans and vegetarians",
+  "gtin13": "9341650001445",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/083114.jpg",
+  "name": "Vitasoy Soy & Protein Unsweetened Milk 1L",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 4.5,
+    "lowPrice": 4.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-25T08:08:05.717Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 4.5,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/83114/vitasoy-soy-protein-unsweetened-milk"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/83114/vitasoy-soy-protein-unsweetened-milk"
+  ],
+  "sku": "83114",
+  "updatedAt": "2022-11-25T08:08:05.717Z"
+}

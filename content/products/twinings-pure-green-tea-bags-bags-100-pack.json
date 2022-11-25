@@ -1,0 +1,60 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "10kJ",
+      "carbohydrateContent": "<1g",
+      "dietary_fibre": "-",
+      "fatContent": "<1g",
+      "name": "nutrition",
+      "proteinContent": "<1g",
+      "saturatedFatContent": "<1g",
+      "servingSize": "100 g",
+      "sodiumContent": "<10mg",
+      "sugarContent": "<1g"
+    }
+  ],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Twinings"
+  },
+  "createdAt": "2022-11-25T08:03:05.782Z",
+  "description": "Twinings Green Tea & Mint Tea Bag is fragrant & invigorating. Contains natural antioxidants.To positive living, one tea cup at a time...Let's drink to the fact that our Pure Green Tea has been crafted by our master blenders to deliver a fragrant and invigorating blend. Delicious with every sip, this tea will have you seeing the world in a beautiful glow.In 1706, Thomas Twining started selling tea. More than 300 years on, the Twinings' tradition continues with our finest blends for you to enjoy every day.",
+  "gtin13": "70177261863",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/318680.jpg",
+  "name": "Twinings Pure Green Tea Bags Bags 100 Pack",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 13.5,
+    "lowPrice": 13.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-25T08:03:05.781Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 13.5,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/318680/twinings-pure-green-tea-bags-bags"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/318680/twinings-pure-green-tea-bags-bags"
+  ],
+  "sku": "318680",
+  "updatedAt": "2022-11-25T08:03:05.781Z"
+}

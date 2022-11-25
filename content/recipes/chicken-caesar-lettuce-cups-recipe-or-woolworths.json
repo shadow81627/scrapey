@@ -1,42 +1,53 @@
 {
   "@type": "Recipe",
+  "author": {
+    "@type": "Person",
+    "name": "Produced for Woolworths"
+  },
+  "cookTime": "PT0M",
   "createdAt": "2022-11-22T07:03:47.321Z",
   "datePublished": "2022-10-17",
   "description": "These creamy chicken Caesar lettuce cups make a delicious entree or light lunch.",
-  "image": "https://foodhub.scene7.com/is/image/woolworthsltdprod/chicken-caesar-lettuce-cups?wid=4480&hei=4480&fmt=png-alpha",
-  "keywords": "Chicken Caesar Lettuce Cups",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1300,
+    "mime": "image/jpeg",
+    "url": "https://foodhub.scene7.com/is/image/woolworthsltdprod/chicken-caesar-lettuce-cups:Square-1300x1300",
+    "width": 1300
+  },
+  "keywords": "Caesar salad,Chicken,Christmas,Summer",
   "name": "Chicken Caesar Lettuce Cups Recipe | Woolworths",
   "prepTime": "PT10M",
-  "recipeCategory": "entrees",
-  "recipeCuisine": "latin-american",
+  "recipeCategory": "Entrees",
+  "recipeCuisine": "Mexican",
   "recipeId": "RGWW339441",
   "recipeIngredient": [
-    "250 g roast chicken breast",
+    "250g roast chicken breast, 2 large fillets, skinless and cooked",
     "2 tbs Greek yoghurt",
     "4 tbs Caesar dressing",
-    "2 heads little gem lettuce",
-    "100 g croutons",
-    "70 g parmesan",
+    "2 heads little gem lettuce, leaves separated",
+    "100g croutons",
+    "70g parmesan, shaved with a vegetable peeled",
     "1 pinch cracked black pepper"
   ],
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Arrange the little gem leaves on a plate and divide the chicken between them. Top each with croutons and parmesan shavings, season with cracked black pepper and serve."
+      "HowToTip": {},
+      "text": "Chop the chicken into bitesize pieces and tip into a bowl with yoghurt and Caesar dressing. Toss well to coat."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
+      "HowToTip": {},
       "text": "Arrange the little gem leaves on a plate and divide the chicken between them. Top each with croutons and parmesan shavings, season with cracked black pepper and serve."
     }
   ],
   "recipeNameId": "chicken-caesar-lettuce-cups",
   "recipeYield": "4",
   "sameAs": [
-    "https://woolworths.com.au/shop/find-recipes/caesar-chicken"
+    "https://woolworths.com.au/shop/recipes/chicken-caesar-lettuce-cups"
   ],
   "totalTime": "PT10M",
-  "updatedAt": "2022-11-22T07:03:47.320Z",
+  "updatedAt": "2022-11-25T07:35:13.145Z",
   "url": "https://www.woolworths.com.au/shop/recipes/chicken-caesar-lettuce-cups"
 }

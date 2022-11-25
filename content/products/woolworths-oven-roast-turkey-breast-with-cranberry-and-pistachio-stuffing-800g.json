@@ -1,0 +1,66 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "Approx.584kJ",
+      "carbohydrateContent": "Approx.5g",
+      "dietary_fibre": "-",
+      "fatContent": "Approx.5.3g",
+      "name": "nutrition",
+      "proteinContent": "Approx.17.8g",
+      "saturatedFatContent": "Approx.1.9g",
+      "servingSize": "100 g",
+      "sodiumContent": "Approx.778mg",
+      "sugarContent": "Approx.2.9g"
+    }
+  ],
+  "aggregateRating": {
+    "@context": "http://schema.org",
+    "@type": "AggregateRating",
+    "ratingCount": 78,
+    "ratingValue": 3.78205128205128
+  },
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Woolworths"
+  },
+  "createdAt": "2022-11-25T10:04:23.075Z",
+  "description": "Award-winning tender Australian turkey breast delicately filled with a stuffing of dried cranberries and pistachios, showcasing a perfect balance of flavours.\nSlice and serve witha side of roasted carrots, brussel sprouts and drizzel generously with gravy.\nOven Heating Instructions: \nHeating times are a guide and may vary depending on your appliance. \n1. Preheat oven at 150°C (140°C Fan Forced). \n2. Remove joint from the plastic bag and place product onto oven tray. \n3. Place in the oven directly onto the middle rack and heat for 70 minutes or until heated through. \n4. Remove joint from the oven and rest for 5 minutes. \n5. Carve and serve. \n\nCaution: \nProduct will be hot after heating.",
+  "gtin13": "9339687267477",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/167579.jpg",
+  "name": "Woolworths Oven Roast Turkey Breast With Cranberry & Pistachio Stuffing 800g",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 25,
+    "lowPrice": 25,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/OutOfStock",
+        "availabilityStarts": "2022-11-25T10:04:23.073Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 25,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/167579/woolworths-oven-roast-turkey-breast-with-cranberry-pistachio-stuffing"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/167579/woolworths-oven-roast-turkey-breast-with-cranberry-pistachio-stuffing"
+  ],
+  "sku": "167579",
+  "updatedAt": "2022-11-25T10:04:23.073Z"
+}

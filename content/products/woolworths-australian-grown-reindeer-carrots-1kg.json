@@ -1,0 +1,66 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "-",
+      "carbohydrateContent": "-",
+      "dietary_fibre": "-",
+      "fatContent": "-",
+      "name": "nutrition",
+      "proteinContent": "-",
+      "saturatedFatContent": "-",
+      "servingSize": "100 g",
+      "sodiumContent": "-",
+      "sugarContent": "-"
+    }
+  ],
+  "aggregateRating": {
+    "@context": "http://schema.org",
+    "@type": "AggregateRating",
+    "ratingCount": 289,
+    "ratingValue": 4.76124567474048
+  },
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Woolworths"
+  },
+  "createdAt": "2022-11-25T09:38:11.196Z",
+  "description": "We're proud to be the Fresh Food People for all Australians, even the furry ones. So this Christmas, 10 cents from the sale of each Reindeer Carrots pack will be donated to WIRES to help support the rescue and care of our native wildlife. Click here to find out more.",
+  "gtin13": "9319900011001",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/135369.jpg",
+  "name": "Woolworths Australian Grown Reindeer Carrots 1Kg",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 1.8,
+    "lowPrice": 1.8,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-25T09:38:11.194Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 1.8,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/135369/woolworths-australian-grown-reindeer-carrots"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/135369/woolworths-australian-grown-reindeer-carrots"
+  ],
+  "sku": "135369",
+  "updatedAt": "2022-11-25T09:38:11.194Z"
+}

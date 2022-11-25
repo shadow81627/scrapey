@@ -1,0 +1,65 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "Approx.876kJ",
+      "carbohydrateContent": "<1g",
+      "dietary_fibre": "-",
+      "fatContent": "Approx.15g",
+      "name": "nutrition",
+      "proteinContent": "Approx.18g",
+      "saturatedFatContent": "Approx.4.9g",
+      "servingSize": "100 g",
+      "sodiumContent": "Approx.68mg",
+      "sugarContent": "<1g"
+    }
+  ],
+  "aggregateRating": {
+    "@context": "http://schema.org",
+    "@type": "AggregateRating",
+    "ratingCount": 255,
+    "ratingValue": 4.76470588235294
+  },
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Woolworths"
+  },
+  "createdAt": "2022-11-25T10:02:57.711Z",
+  "gtin13": "9339687267613",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/169853.jpg",
+  "name": "Woolworths Pork Mince 800g",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 7,
+    "lowPrice": 7,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-25T10:02:57.708Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 7,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/169853/woolworths-pork-mince"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/169853/woolworths-pork-mince"
+  ],
+  "sku": "169853",
+  "updatedAt": "2022-11-25T10:02:57.709Z"
+}

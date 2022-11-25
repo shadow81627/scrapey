@@ -1,0 +1,60 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "-",
+      "carbohydrateContent": "-",
+      "dietary_fibre": "-",
+      "fatContent": "-",
+      "name": "nutrition",
+      "proteinContent": "-",
+      "saturatedFatContent": "-",
+      "servingSize": "100 g",
+      "sodiumContent": "-",
+      "sugarContent": "-"
+    }
+  ],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Ito En"
+  },
+  "createdAt": "2022-11-25T08:05:17.789Z",
+  "description": "Matcha is Japan's special powdered green tea traditionally used in Japanese tea ceremony. Milled from high quality tea leaves, Matcha provides the full health benefits of the entire tea leaf.\n\nMatcha green tea is considered Japan's most classic and popular beverage. Natural with no added colours or flavours, this premium green tea features a beautiful aroma and mellow, yet bold taste. The unique blend of matcha and whole tea leaves gives a rich and vibrant green infusion like no other.",
+  "gtin13": "835143011701",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/426222.jpg",
+  "name": "Ito En Matcha Green Tea Traditional 20 Pack",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 6,
+    "lowPrice": 6,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-25T08:05:17.788Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 6,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/426222/ito-en-matcha-green-tea-traditional"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/426222/ito-en-matcha-green-tea-traditional"
+  ],
+  "sku": "426222",
+  "updatedAt": "2022-11-25T08:05:17.788Z"
+}

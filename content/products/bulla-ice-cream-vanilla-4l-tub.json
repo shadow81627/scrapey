@@ -1,0 +1,66 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "323kJ",
+      "carbohydrateContent": "11.8g",
+      "dietary_fibre": "-",
+      "fatContent": "2.7g",
+      "name": "nutrition",
+      "proteinContent": "1.4g",
+      "saturatedFatContent": "1.9g",
+      "servingSize": "100 g",
+      "sodiumContent": "24mg",
+      "sugarContent": "9.4g"
+    }
+  ],
+  "aggregateRating": {
+    "@context": "http://schema.org",
+    "@type": "AggregateRating",
+    "ratingCount": 62,
+    "ratingValue": 4.82258064516129
+  },
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Bulla"
+  },
+  "createdAt": "2022-11-25T08:02:23.349Z",
+  "description": "Reduced fat vanilla flavoured ice cream* *Contains 37% less fat than standard ice cream",
+  "gtin13": "9310161002111",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/086412.jpg",
+  "name": "Bulla Ice Cream Vanilla 4L Tub",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 10,
+    "lowPrice": 10,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-25T08:02:23.348Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 10,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/86412/bulla-ice-cream-vanilla"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/86412/bulla-ice-cream-vanilla"
+  ],
+  "sku": "86412",
+  "updatedAt": "2022-11-25T08:02:23.348Z"
+}
