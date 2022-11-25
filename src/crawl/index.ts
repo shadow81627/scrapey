@@ -53,7 +53,7 @@ type MySubject = {
   await AppDataSource.initialize();
   const connection = AppDataSource;
   const pool = Pool(() => spawn<Crawler>(new Worker('./crawl.ts')), {
-    size: cpuCount / 2,
+    size: 1,
   });
   const $tasks = new Subject<MySubject>();
   $tasks.subscribe({
