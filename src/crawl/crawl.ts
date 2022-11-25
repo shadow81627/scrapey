@@ -95,11 +95,12 @@ export default async function crawl(
 
     try {
       const newLinks = links.map((link) => new Url(Url.urlToParts(link)));
-      dbCanonical.urls = _.uniqBy(
-        (dbCanonical.urls ?? []).concat(newLinks),
-        function (link) {
+      dbCanonical.urls = Promise.resolve(
+        _.uniqBy(((await dbCanonical.urls) ?? []).concat(newLinks), function (
+          link,
+        ) {
           return link.id;
-        },
+        }),
       );
       await connection.manager.save(dbCanonical);
     } catch (e) {

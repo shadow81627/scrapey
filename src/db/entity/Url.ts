@@ -61,7 +61,7 @@ export class Url {
   @JoinTable({
     name: 'url_urls',
   })
-  urls?: Relation<Url[]>;
+  urls?: Promise<Relation<Url[]>>;
 
   @OneToMany(() => CrawlIssue, (issue: CrawlIssue) => issue.url)
   issues?: Relation<CrawlIssue>;
