@@ -30,7 +30,7 @@ import probeImages from './probeImages';
   await countUrlSearch();
   responses.probeImages = await probeImages();
   responses.urlsMissingUrls = await urlsMissingUrls();
-  // await gitTimeStamps();
+  await gitTimeStamps();
 
   console.table(responses);
 
