@@ -27,19 +27,20 @@ export default async function gitTimeStamps(): Promise<void> {
   console.log('fetching createdAt from git history');
   for await (const filename of getFiles('content')) {
     iteration++;
+    const relativePath = path.relative(process.cwd(), filename);
     try {
       const content = JSON.parse((await readFile(filename)).toString());
-      const relativePath = path.relative(process.cwd(), filename);
       const createdAt = (await gitCreateDate(relativePath)).toISOString();
       if (content.createdAt !== createdAt) {
         console.log(iteration, relativePath);
+        content.createdAt = createdAt
         await writeFile(
           filename,
           JSON.stringify(deepSort(content), undefined, 2) + '\n',
         );
       }
     } catch (error) {
-      console.error(error);
+      console.error(iteration, relativePath, error);
     }
   }
 }
