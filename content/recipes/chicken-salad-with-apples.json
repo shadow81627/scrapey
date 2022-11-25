@@ -1,0 +1,81 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "20",
+    "ratingValue": "4.85"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Beth - Budget Bytes"
+  },
+  "cookTime": "PT15M",
+  "createdAt": "2022-11-25T11:19:29.559Z",
+  "datePublished": "2021-08-05T16:30:00+00:00",
+  "description": "This chicken salad is packed with sweet and crunchy apples, tart dried cranberries, and a light and creamy homemade dressing.",
+  "image": {
+    "@type": "ImageObject",
+    "height": 900,
+    "mime": "image/jpeg",
+    "url": "https://www.budgetbytes.com/wp-content/uploads/2011/10/Chicken-Salad-with-Apples-side.jpg",
+    "width": 1200
+  },
+  "keywords": "chicken salad",
+  "name": "Chicken Salad with Apples",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "367 kcal",
+    "carbohydrateContent": "15 g",
+    "fatContent": "19 g",
+    "fiberContent": "2 g",
+    "proteinContent": "34 g",
+    "servingSize": "1 Serving",
+    "sodiumContent": "395 mg"
+  },
+  "recipeIngredient": [
+    "3 cups chopped cooked chicken ($7.97)",
+    "1 apple (1.5 cups chopped) ($0.76)",
+    "1/4 cup diced red onion ($0.20)",
+    "1/4 cup dried cranberries ($0.22)",
+    "1/3 cup mayonnaise ($0.53)",
+    "1/3 cup plain yogurt ($0.35)",
+    "1 Tbsp Dijon mustard ($0.18)",
+    "1 Tbsp red wine vinegar ($0.10)",
+    "1/4 tsp salt ($0.02)",
+    "1/4 tsp freshly cracked black pepper ($0.02)"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Chop the cooked chicken and the apple into small pieces. Finely dice the red onion."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Place the chicken, apple, onion, and dried cranberries in a large bowl."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Combine the mayonnaise, yogurt, Dijon, red wine vinegar, salt, and pepper in a bowl. Stir until smooth."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Pour the dressing over the salad ingredients in the bowl and stir until everything is coated. Serve immediately or refrigerate until ready to eat."
+    }
+  ],
+  "recipeYield": "4",
+  "sameAs": [
+    "https://budgetbytes.com/chicken-n-apple-salad"
+  ],
+  "totalTime": "PT15M",
+  "updatedAt": "2022-11-25T11:19:29.558Z",
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://mediavine-res.cloudinary.com/video/upload/t_original/v1665151730/pfevmajbogxuwgm8uzxx.mp4",
+    "description": "This chicken salad is packed with sweet and crunchy apples, tart dried cranberries, and a light and creamy homemade dressing.",
+    "duration": "PT52S",
+    "embedUrl": "https://video.mediavine.com/videos/pfevmajbogxuwgm8uzxx.js",
+    "name": "Chicken Salad",
+    "thumbnailUrl": "https://mediavine-res.cloudinary.com/image/upload/s--J8_AoY1r--/c_limit,f_auto,fl_lossy,h_1080,q_auto,w_1920/v1665151819/licgrg2vezlbuwjx0u1h.jpg",
+    "uploadDate": "2022-10-07T14:10:39+00:00"
+  }
+}

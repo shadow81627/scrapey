@@ -1,0 +1,74 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "4",
+    "ratingValue": "5"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Beth - Budget Bytes"
+  },
+  "cookTime": "PT15M",
+  "createdAt": "2022-11-25T11:10:40.867Z",
+  "datePublished": "2021-11-06T15:13:16+00:00",
+  "description": "A step by step guide on how to make hard boiled eggs, recipe ideas, tips for easy peeling, and more.",
+  "image": {
+    "@type": "ImageObject",
+    "height": 900,
+    "mime": "image/jpeg",
+    "url": "https://www.budgetbytes.com/wp-content/uploads/2021/11/Hard-Boiled-Egg-six.jpg",
+    "width": 1200
+  },
+  "keywords": "hard boiled egg",
+  "name": "How to Make Hard Boiled Eggs",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "72 kcal",
+    "carbohydrateContent": "1 g",
+    "fatContent": "5 g",
+    "proteinContent": "6 g",
+    "servingSize": "1 egg",
+    "sodiumContent": "71 mg"
+  },
+  "prepTime": "PT5M",
+  "recipeCategory": "Breakfast",
+  "recipeCuisine": "General",
+  "recipeIngredient": [
+    "4 large eggs"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Add cold eggs to a saucepot. Add enough water to the pot to cover the eggs by one inch."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Place a lid on the pot and turn the heat on to high. Allow the water to come up to a boil."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Once the water reaches a full rolling boil, turn the heat off and leave the pot on the burner (with the lid on) for about 12 minutes.*"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "After 12 minutes, transfer the eggs to a bowl of ice water. Chill the eggs in the ice water for about five minutes. Peel and enjoy."
+    }
+  ],
+  "recipeYield": "4",
+  "sameAs": [
+    "https://budgetbytes.com/how-to-make-hard-boiled-eggs"
+  ],
+  "totalTime": "PT20M",
+  "updatedAt": "2022-11-25T11:10:40.866Z",
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://mediavine-res.cloudinary.com/video/upload/t_original/v1643568019/ukpe5knteqj8bs998zy6.mp4",
+    "description": "A step by step guide on how to make hard boiled eggs, recipe ideas, tips for easy peeling, and more.",
+    "duration": "PT45S",
+    "embedUrl": "https://video.mediavine.com/videos/ukpe5knteqj8bs998zy6.js",
+    "name": "Hard Boiled Eggs",
+    "thumbnailUrl": "https://mediavine-res.cloudinary.com/image/upload/s--DuW4Z1lL--/c_limit,f_auto,fl_lossy,h_1080,q_auto,w_1920/v1643568048/blo8w6yhc9zp3mq6akgl.jpg",
+    "uploadDate": "2022-01-30T18:41:07+00:00"
+  }
+}

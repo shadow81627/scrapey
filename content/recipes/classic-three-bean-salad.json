@@ -1,0 +1,78 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "10",
+    "ratingValue": "4.6"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Beth - Budget Bytes"
+  },
+  "createdAt": "2022-11-25T10:19:52.731Z",
+  "datePublished": "2021-06-21T17:05:16+00:00",
+  "description": "Simple ingredients come together in this Classic Three Bean Salad to make a simple summer side dish, perfect for BBQs and potlucks!",
+  "image": {
+    "@type": "ImageObject",
+    "height": 900,
+    "mime": "image/jpeg",
+    "url": "https://www.budgetbytes.com/wp-content/uploads/2021/06/Three-Bean-Salad-bowl.jpg",
+    "width": 1200
+  },
+  "keywords": "bbq side dish, bean salad, Potluck Recipes",
+  "name": "Classic Three Bean Salad",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "301 kcal",
+    "carbohydrateContent": "41 g",
+    "fatContent": "11 g",
+    "fiberContent": "12 g",
+    "proteinContent": "13 g",
+    "servingSize": "1 cup",
+    "sodiumContent": "666 mg"
+  },
+  "prepTime": "PT15M",
+  "recipeCategory": "Salad",
+  "recipeCuisine": "American",
+  "recipeIngredient": [
+    "1 15oz. can kidney beans ($0.50)",
+    "1 15oz. can cannellini beans ($0.55)",
+    "1.5 cups frozen green beans (thawed) ($0.44)",
+    "1/4 cup chopped parsley ($0.17)",
+    "1/4 cup finely diced red onion ($0.05)",
+    "1/4 cup apple cider vinegar ($0.24)",
+    "1/4 cup olive oil ($0.64)",
+    "2 Tbsp sugar ($0.12)",
+    "1 tsp salt ($0.03)",
+    "1/4 tsp freshly cracked pepper ($0.02)",
+    "1 tsp Dijon mustard ($0.03)"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Rinse and drain the kidney beans and cannellini beans. Place the kidney beans, cannelini beand, and thawed green beans in a bowl."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Slice the red onion, then soak the onion in a bowl of ice water for about five minutes before draining and finely dicing. Chop the parsley. Add the onion and parsley to the bowl with the beans."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "In a separate bowl, whisk together the vinegar, sugar, olive oil, salt, pepper, and Dijon."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Pour the dressing over the beans, onion, and parsley, then stir to combine."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Transfer the bean salad to the refrigerator and let the beans marinate in the dressing for about 30 minutes before serving. Give the salad a good stir just before serving to redistribute the dressing."
+    }
+  ],
+  "recipeYield": "5",
+  "sameAs": [
+    "https://budgetbytes.com/classic-three-bean-salad"
+  ],
+  "totalTime": "PT45M",
+  "updatedAt": "2022-11-25T10:19:52.729Z"
+}

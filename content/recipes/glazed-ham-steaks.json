@@ -1,0 +1,72 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "2",
+    "ratingValue": "5"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Beth - Budget Bytes"
+  },
+  "cookTime": "PT10M",
+  "createdAt": "2022-11-25T11:22:29.114Z",
+  "datePublished": "2021-12-20T09:16:58+00:00",
+  "description": "Glazed ham steaks are a quick and easy dinner idea that only takes a few ingredients and about 15 minutes to prepare.",
+  "image": {
+    "@type": "ImageObject",
+    "height": 900,
+    "mime": "image/jpeg",
+    "url": "https://www.budgetbytes.com/wp-content/uploads/2021/12/Glazed-Ham-Steaks-close.jpg",
+    "width": 1200
+  },
+  "keywords": "Ham Recipe",
+  "name": "Glazed Ham Steaks",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "220 kcal",
+    "carbohydrateContent": "14 g",
+    "fatContent": "8 g",
+    "fiberContent": "1 g",
+    "proteinContent": "22 g",
+    "servingSize": "1 serving",
+    "sodiumContent": "1525 mg"
+  },
+  "prepTime": "PT5M",
+  "recipeCategory": "Dinner",
+  "recipeCuisine": "American",
+  "recipeIngredient": [
+    "1/4 cup brown sugar ($0.12)",
+    "1 Tbsp Dijon mustard ($0.18)",
+    "1 tsp Worcestershire sauce ($0.02)",
+    "1 tsp apple cider vinegar ($0.02)",
+    "1/8 tsp garlic powder ($0.02)",
+    "1/8 tsp ground cloves ($0.02)",
+    "2 8oz. ham steaks ($5.00)",
+    "1 Tbsp butter ($0.10)"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Combine the brown sugar, Dijon, Worcestershire sauce, vinegar, garlic powder, and cloves in a small bowl."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Cut the ham steaks in half to create four 4oz. portions."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add the butter to a skillet and heat over medium. When the butter is melted, swirl the skillet to coat the surface. Add the ham steaks and cook for 3-5 minutes on each side, or until browned."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Spoon half of the glaze mixture over the ham steaks, flip, then add the second half of the glaze. Cook for 1-2 minutes more on each side, or until the glaze becomes thick and sticky. Serve hot."
+    }
+  ],
+  "recipeYield": "4",
+  "sameAs": [
+    "https://budgetbytes.com/glazed-ham-steaks"
+  ],
+  "totalTime": "PT15M",
+  "updatedAt": "2022-11-25T11:22:29.113Z"
+}

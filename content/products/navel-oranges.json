@@ -1,0 +1,52 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "3kg"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.97 per 1Kg"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2022-11-25T11:05:54.455Z",
+  "description": "Known for their glossy vibrant orange colour and sweet juicy segments that are delicious as a healthy snack on their own, added to baking and cooking or for freshly squeezed juice.",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/4/0/9/409874.jpg",
+    "width": 300
+  },
+  "name": "Navel Oranges",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 5.9,
+    "lowPrice": 5.9,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-25T11:05:54.454Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "5.90",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/oranges-navel-prepacked"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/oranges-navel-prepacked"
+  ],
+  "sku": "409874",
+  "updatedAt": "2022-11-25T11:05:54.454Z"
+}

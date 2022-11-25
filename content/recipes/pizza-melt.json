@@ -1,0 +1,77 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "7",
+    "ratingValue": "5"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Beth - Budget Bytes"
+  },
+  "cookTime": "PT10M",
+  "createdAt": "2022-11-25T10:24:34.649Z",
+  "datePublished": "2021-06-07T15:29:55+00:00",
+  "description": "Pizza melts are like a cross between your two favorite comfort foods: pizza and grilled cheese. They're fast, easy, and the perfect quick meal!",
+  "image": {
+    "@type": "ImageObject",
+    "height": 900,
+    "mime": "image/jpeg",
+    "url": "https://www.budgetbytes.com/wp-content/uploads/2021/06/Pizza-Melt-stack.jpg",
+    "width": 1200
+  },
+  "keywords": "Grilled Cheese, Melt sandwich, pepperoni, Sandwich",
+  "name": "Pizza Melt",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "451 kcal",
+    "carbohydrateContent": "30 g",
+    "fatContent": "28 g",
+    "fiberContent": "3 g",
+    "proteinContent": "19 g",
+    "servingSize": "1 sandwich",
+    "sodiumContent": "991 mg"
+  },
+  "prepTime": "PT5M",
+  "recipeCategory": "Lunch",
+  "recipeCuisine": "American",
+  "recipeIngredient": [
+    "1 Tbsp butter, room temperature ($0.11)",
+    "1 Tbsp grated Parmesan ($0.11)",
+    "1/2 tsp Italian seasoning ($0.05)",
+    "2 slices hearty bread ($0.44)",
+    "1/3 cup shredded mozzarella ($0.19)",
+    "1 Tbsp pizza sauce ($0.06)",
+    "6 slices pepperoni ($0.15)"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Stir together the room temperature butter, grated parmesan, and Italian seasoning in a small bowl until evenly combined. Spread the Parmesan butter over one side of each slice of bread."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Flip the bread over so the un-buttered side is facing up. Place half of the shredded mozzarella on one slice of bread. Next, add small dollops of the sauce over top of the cheese, followed by the sliced pepperoni. Finally, add the remaining cheese. Place the second slice of bread on top to close the sandwich, butter side facing out."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Place the sandwich in a skillet and cook over medium-low heat until golden brown on each side and the cheese is melted on the inside. Cut the sandwich in half and serve!"
+    }
+  ],
+  "recipeYield": "1",
+  "sameAs": [
+    "https://budgetbytes.com/pizza-melts"
+  ],
+  "totalTime": "PT15M",
+  "updatedAt": "2022-11-25T10:24:34.642Z",
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://mediavine-res.cloudinary.com/video/upload/t_original/v1624139209/htgyopg45bbir6wuayt8.mp4",
+    "description": "Pizza melts are like a cross between your two favorite comfort foods: pizza and grilled cheese. They're fast, easy, and the perfect quick meal!",
+    "duration": "PT47S",
+    "embedUrl": "https://video.mediavine.com/videos/htgyopg45bbir6wuayt8.js",
+    "name": "Pizza Melts",
+    "thumbnailUrl": "https://mediavine-res.cloudinary.com/image/upload/s--TLsNFp2T--/c_limit,f_auto,fl_lossy,h_1080,q_auto,w_1920/v1624139363/bvfekkkx4ewvyyruqzin.jpg",
+    "uploadDate": "2021-06-19T21:49:52+00:00"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "5 pack"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.38 per 1Ea"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2022-11-25T10:57:02.063Z",
+  "description": "Round and vibrant green, limes have sour flavoured flesh which adds great flavour to dressings, marinades and drinks.",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/8/1/2/8128020.jpg",
+    "width": 300
+  },
+  "name": "Limes",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 6.9,
+    "lowPrice": 6.9,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-25T10:57:02.061Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "6.90",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-fresh-limes---prepacked"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/coles-fresh-limes---prepacked"
+  ],
+  "sku": "8128020",
+  "updatedAt": "2022-11-25T10:57:02.061Z"
+}

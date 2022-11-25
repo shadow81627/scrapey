@@ -1,0 +1,58 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "16",
+    "ratingValue": "4.88"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Beth - Budget Bytes"
+  },
+  "createdAt": "2022-11-25T10:25:49.584Z",
+  "datePublished": "2013-06-27T18:14:01+00:00",
+  "description": "Hummus and eggs get together to make this egg salad-like hummus breakfast mug that cooks up in just a couple of minutes!",
+  "image": {
+    "@type": "ImageObject",
+    "height": 480,
+    "mime": "image/jpeg",
+    "url": "https://www.budgetbytes.com/wp-content/uploads/2013/06/Hummus-Breakfast-Mug-small-1.jpg",
+    "width": 640
+  },
+  "name": "Hummus Breakfast Mug",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "303.6 kcal",
+    "carbohydrateContent": "12.8 g",
+    "fatContent": "20.6 g",
+    "fiberContent": "3.5 g",
+    "proteinContent": "17.4 g",
+    "servingSize": "1 Serving",
+    "sodiumContent": "413 mg"
+  },
+  "prepTime": "PT5M",
+  "recipeIngredient": [
+    "2 large eggs ($0.34)",
+    "1/4 cup hummus ($0.24)"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Crack two eggs into a large mug. Microwave on high for 30 seconds and then stir until the eggs are slightly scrambled."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Microwave on high for 15 seconds and then stir. Repeat the 15 second cooking and stirring interval two more times, or until the egg is cooked and fluffy."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Stir in 1/4 cup of your favorite hummus and then enjoy!"
+    }
+  ],
+  "recipeYield": "1",
+  "sameAs": [
+    "https://budgetbytes.com/hummus-breakfast-mug"
+  ],
+  "totalTime": "PT5M",
+  "updatedAt": "2022-11-25T10:25:49.583Z"
+}

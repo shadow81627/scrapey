@@ -1,0 +1,60 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "3",
+    "ratingValue": "5"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Beth - Budget Bytes"
+  },
+  "createdAt": "2022-11-25T10:18:56.996Z",
+  "datePublished": "2020-06-30T15:49:00+00:00",
+  "description": "This fresh and easy pico de gallo only takes a few minutes to make and adds vibrant flavor to your tacos, enchiladas, nachos, and more.",
+  "image": {
+    "@type": "ImageObject",
+    "height": 600,
+    "mime": "image/jpeg",
+    "url": "https://www.budgetbytes.com/wp-content/uploads/2011/05/pico-de-gallo-above.jpg",
+    "width": 800
+  },
+  "keywords": "Condiment, Fresh Salsa, Pico de Gallo, Salsa",
+  "name": "Pico de Gallo",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "13.8 kcal",
+    "carbohydrateContent": "3.45 g",
+    "fatContent": "0.12 g",
+    "fiberContent": "0.97 g",
+    "proteinContent": "0.5 g",
+    "servingSize": "1 serving",
+    "sodiumContent": "102.42 mg"
+  },
+  "prepTime": "PT10M",
+  "recipeCategory": "Salad",
+  "recipeCuisine": "Mexican",
+  "recipeIngredient": [
+    "2 tomatoes (2 cups diced) ($1.50)",
+    "1/2 Vidalia onion (1 cup diced) ($0.37)",
+    "1 lime ($0.50)",
+    "1/4 cup chopped cilantro ($0.20)",
+    "1/4 tsp salt ($0.02)"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Finely dice the tomato and onion. Finely chop the cilantro. Add the tomato, onion, and cilantro to a bowl."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Squeeze the juice of half the lime over the vegetables in the bowl (about 1 Tbsp). Add a pinch or two of salt, and stir everything to combine. Taste the mixture and add more salt or lime juice to your liking. Allow the salsa to sit for five minutes before serving."
+    }
+  ],
+  "recipeYield": "12",
+  "sameAs": [
+    "https://budgetbytes.com/pico-de-gallo"
+  ],
+  "totalTime": "PT10M",
+  "updatedAt": "2022-11-25T10:18:56.995Z"
+}
