@@ -1,0 +1,66 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "Cheese and Spinach:195kJ, Quiche Lorraine: 202kJ",
+      "carbohydrateContent": "Cheese and Spinach:3.9g, Quiche Lorraine: 3.7g",
+      "dietary_fibre": "0.26g",
+      "fatContent": "Cheese and Spinach:2.8g, Quiche Lorraine: 3.1g",
+      "name": "nutrition",
+      "proteinContent": "Cheese and Spinach:1.3g, Quiche Lorraine: 1.3g",
+      "saturatedFatContent": "Cheese and Spinach:1.6g, Quiche Lorraine: 1.7g",
+      "servingSize": "100 g",
+      "sodiumContent": "Cheese and Spinach:91mg, Quiche Lorraine: 99mg",
+      "sugarContent": "Cheese and Spinach:0.4g, Quiche Lorraine: 0.3g"
+    }
+  ],
+  "aggregateRating": {
+    "@context": "http://schema.org",
+    "@type": "AggregateRating",
+    "ratingCount": 18,
+    "ratingValue": 4.33333333333333
+  },
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Temptation Bakeries"
+  },
+  "createdAt": "2022-11-25T17:24:11.423Z",
+  "description": "Our classic Petite Lorraine and our creamy Petite Cheese and Spinach Quiches, waiting to be served as the ideal canapés, appetisers, or snacks.",
+  "gtin13": "9318677000164",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/745513.jpg",
+  "name": "Temptation Bakeries Petite Quiche Null 30 Pack",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 10,
+    "lowPrice": 10,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-25T17:24:11.421Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 10,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/745513/temptation-bakeries-petite-quiche-null"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/745513/temptation-bakeries-petite-quiche-null"
+  ],
+  "sku": "745513",
+  "updatedAt": "2022-11-25T17:24:11.421Z"
+}

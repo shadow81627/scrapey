@@ -1,49 +1,59 @@
 {
   "@type": "Recipe",
+  "author": {
+    "@type": "Person",
+    "name": "Produced for Woolworths"
+  },
   "cookTime": "PT10M",
   "createdAt": "2022-11-25T02:08:20.389Z",
-  "datePublished": "2022-08-10",
+  "datePublished": "2022-09-26",
   "description": "Quick kale pesto is perfect with fried eggs on sourdough toast for a delicious breakfast or lunch.",
-  "image": "https://foodhub.scene7.com/is/image/woolworthsltdprod/kale-pesto-eggs?wid=4480&hei=4480&fmt=png-alpha",
-  "keywords": "Kale Pesto Eggs",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1300,
+    "mime": "image/jpeg",
+    "url": "https://foodhub.scene7.com/is/image/woolworthsltdprod/kale-pesto-eggs:Square-1300x1300",
+    "width": 1300
+  },
+  "keywords": "Egg salad sandwich,Halal,Seafood free,Kale,Egg",
   "name": "Kale Pesto Eggs Recipe | Woolworths",
   "prepTime": "PT10M",
-  "recipeCategory": "breakfast",
-  "recipeCuisine": "european",
+  "recipeCategory": "Lunch,Breakfast",
+  "recipeCuisine": "Italian",
   "recipeId": "RGWW338998",
   "recipeIngredient": [
     "5 tbs olive oil",
-    "200 g kale",
-    "1 bunch parsley",
-    "60 g walnuts",
-    "1 medium lemon",
-    "30 g parmesan",
+    "200g kale, destalked, chopped",
+    "1 bunch parsley, chopped",
+    "60g walnuts, tub",
+    "1 medium lemon, juice and zest",
+    "30g parmesan, grated",
     "4 slices sourdough bread",
-    "4 eggs"
+    "4 eggs, grated"
   ],
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Toast the sourdough to your liking and serve each slice with a pesto egg on top."
+      "HowToTip": {},
+      "text": "Place the pesto ingredients in a food processor and blitz to a smooth consistency, adding water to loosen if necessary."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Toast the sourdough to your liking and serve each slice with a pesto egg on top."
+      "HowToTip": {},
+      "text": "Heat a drizzle of oil in a large pan on medium heat and add the pesto. Make 4 small wells with the back of a spoon and crack an egg into each. Cook for 3 minutes, flip and cook for 1 more minute."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
+      "HowToTip": {},
       "text": "Toast the sourdough to your liking and serve each slice with a pesto egg on top."
     }
   ],
   "recipeNameId": "kale-pesto-eggs",
   "recipeYield": "4",
   "sameAs": [
-    "https://woolworths.com.au/shop/find-recipes/easy-kale-recipes"
+    "https://woolworths.com.au/shop/recipes/kale-pesto-eggs"
   ],
   "totalTime": "PT20M",
-  "updatedAt": "2022-11-25T02:08:20.387Z",
+  "updatedAt": "2022-11-25T17:08:17.421Z",
   "url": "https://www.woolworths.com.au/shop/recipes/kale-pesto-eggs"
 }

@@ -1,65 +1,75 @@
 {
   "@type": "Recipe",
+  "author": {
+    "@type": "Person",
+    "name": "Produced for Woolworths"
+  },
   "cookTime": "PT20M",
   "createdAt": "2022-11-24T09:33:40.694Z",
   "datePublished": "2022-11-07",
   "description": "A breakfast frittata recipe with simple ingredients but packed with aroma and savoury flavour.",
-  "image": "https://foodhub.scene7.com/is/image/woolworthsltdprod/herb-baked-frittata?wid=2953&hei=2953&fmt=png-alpha",
-  "keywords": "Herb Baked Frittata",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1300,
+    "mime": "image/jpeg",
+    "url": "https://foodhub.scene7.com/is/image/woolworthsltdprod/herb-baked-frittata:Square-1300x1300",
+    "width": 1300
+  },
+  "keywords": "Frittata,Egg",
   "name": "Herb Baked Frittata Recipe | Woolworths",
   "prepTime": "PT15M",
-  "recipeCategory": "breakfast",
-  "recipeCuisine": "european",
+  "recipeCategory": "Breakfast",
+  "recipeCuisine": "Italian",
   "recipeId": "RGWW338205",
   "recipeIngredient": [
-    "1 small red onion",
-    "1 tbs sage",
-    "1 tbs rosemary",
-    "1 tbs parsley",
-    "5 medium eggs",
+    "1 small red onion, peeled and diced",
+    "1 tbs sage, chopped",
+    "1 tbs rosemary, chopped",
+    "1 tbs parsley, chopped",
+    "5 medium eggs, free range",
     "2 tbs milk",
     "1 pinch salt",
     "1 pinch pepper",
-    "100 g cheddar cheese"
+    "100g cheddar cheese, grated"
   ],
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Once the edges and top start to brown, remove from the oven and allow to set for 3 minutes before serving."
+      "HowToTip": {},
+      "text": "Pre-heat the oven to 190°C/170°C fan-forced."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Once the edges and top start to brown, remove from the oven and allow to set for 3 minutes before serving."
+      "HowToTip": {},
+      "text": "Heat up a 9 inch skillet or similar oven proof pan to a medium heat and then fry the onions and herbs for 5 minutes."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Once the edges and top start to brown, remove from the oven and allow to set for 3 minutes before serving."
+      "HowToTip": {},
+      "text": "In a mixing bowl, lightly beat the eggs with the milk and add the salt and pepper."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Once the edges and top start to brown, remove from the oven and allow to set for 3 minutes before serving."
+      "HowToTip": {},
+      "text": "Pour the egg mixture into the skillet and mix well with the onion and herbs."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Once the edges and top start to brown, remove from the oven and allow to set for 3 minutes before serving."
+      "HowToTip": {},
+      "text": "Allow the eggs to cook on the skillet for 5 minutes and then cover with grated cheddar cheese and place in the oven for 10 minutes."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
+      "HowToTip": {},
       "text": "Once the edges and top start to brown, remove from the oven and allow to set for 3 minutes before serving."
     }
   ],
   "recipeNameId": "herb-baked-frittata",
   "recipeYield": "6",
   "sameAs": [
-    "https://woolworths.com.au/shop/find-recipes/oven-baked-frittata-recipes-easy"
+    "https://woolworths.com.au/shop/recipes/herb-baked-frittata"
   ],
   "totalTime": "PT35M",
-  "updatedAt": "2022-11-24T09:33:40.693Z",
+  "updatedAt": "2022-11-25T19:28:59.141Z",
   "url": "https://www.woolworths.com.au/shop/recipes/herb-baked-frittata"
 }

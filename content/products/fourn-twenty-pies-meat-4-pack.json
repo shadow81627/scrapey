@@ -1,0 +1,66 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "1780kJ",
+      "carbohydrateContent": "37.5g",
+      "dietary_fibre": "-",
+      "fatContent": "24.3g",
+      "name": "nutrition",
+      "proteinContent": "13.7g",
+      "saturatedFatContent": "12.8g",
+      "servingSize": "100 g",
+      "sodiumContent": "852mg",
+      "sugarContent": "2.5g"
+    }
+  ],
+  "aggregateRating": {
+    "@context": "http://schema.org",
+    "@type": "AggregateRating",
+    "ratingCount": 78,
+    "ratingValue": 4.30769230769231
+  },
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Four'N Twenty"
+  },
+  "createdAt": "2022-11-25T17:23:31.458Z",
+  "description": "Four 'N Twenty Classic Meat Pies. The classic taste of 100% Australian meat in delicious gravy wrapped in golden flaky pastry. The great Australian taste.Win $10K valueThe ultimate gaming setupfor you & your best mate. Xbox, PS5, PCyour choice!Plus $100 Visa cards to be won daily. Enter here or see back for details. T&Cs apply, see www.fntgameon.com.auTnC. AUNZ res only. Starts: 30062022. Ends: 11:59pm AEST 7922. Max 3 entries pperson pday. Retain original receipts. 70 Daily draws at 11am AEST + 2 Major Draws at 11:30am AEST (1 for AU res + 1 for NZ res): 6106 Old Pittwater Rd, Brookvale NSW 2100. Daily Prizes: 1x$100 Visa Gift Card. Prize per each Major Draw: Ultimate Game Setup including choice of PS5, Xbox X or PC setup + accessories, valued at up to $5k - Same setup awarded to each winner + 1 friend (up to $10k total value per Major Draw). Major + ACT winners published at www.fntgameon.com.au on 12922. Promoter: Patties Food Pty Ltd (ABN 62 007 157 182) of L2, 1 Joseph Ave, Mentone VIC 3194. NSW TP  01666 ACT Permit No. TP2200269 SA Permit No. T22178",
+  "gtin13": "9310114022937",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/024940.jpg",
+  "name": "Four'n Twenty Pies Meat 4 Pack",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 8.5,
+    "lowPrice": 8.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-25T17:23:31.457Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 8.5,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/24940/four-n-twenty-pies-meat"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/24940/four-n-twenty-pies-meat"
+  ],
+  "sku": "24940",
+  "updatedAt": "2022-11-25T17:23:31.457Z"
+}

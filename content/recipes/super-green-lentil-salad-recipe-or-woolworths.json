@@ -1,51 +1,61 @@
 {
   "@type": "Recipe",
+  "author": {
+    "@type": "Person",
+    "name": "Produced for Woolworths"
+  },
   "cookTime": "PT5M",
   "createdAt": "2022-11-24T11:16:56.379Z",
-  "datePublished": "2022-08-09",
+  "datePublished": "2022-09-26",
   "description": "This salad is vibrant and invigorating, packed with lentils and green veggies for the perfect filling lunch.",
-  "image": "https://foodhub.scene7.com/is/image/woolworthsltdprod/super-green-lentil-salad?wid=3307&hei=3307&fmt=png-alpha",
-  "keywords": "Super Green Lentil Salad",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1300,
+    "mime": "image/jpeg",
+    "url": "https://foodhub.scene7.com/is/image/woolworthsltdprod/super-green-lentil-salad:Square-1300x1300",
+    "width": 1300
+  },
+  "keywords": "Green salad,Pescatarian,Seafood free,Broccoli,Tree nut free,Egg free,Lemon,Sesame free,Halal,Soy free,Wheat free,Vegetarian,Vegan,Avocado,Asparagus,Spinach,Dairy free,Peanut free",
   "name": "Super Green Lentil Salad Recipe | Woolworths",
   "prepTime": "PT15M",
-  "recipeCategory": "salads",
-  "recipeCuisine": "european",
+  "recipeCategory": "Salads",
+  "recipeCuisine": "Mediterranean",
   "recipeId": "RGWW338831",
   "recipeIngredient": [
     "3 tbs olive oil",
-    "500 g puy lentils",
-    "4 spring onions",
-    "1 large lemon",
-    "0.5 bunch parsley",
-    "250 g tenderstem broccoli",
-    "250 g asparagus",
-    "1 large avocado",
-    "200 g spinach",
-    "50 g pumpkin seeds"
+    "500g puy lentils, ready cooked",
+    "4 spring onions, sliced",
+    "1 large lemon, juice and zest",
+    "0.5 bunch parsley, fresh, chopped",
+    "250g tenderstem broccoli, chopped",
+    "250g asparagus, trimmed and chopped",
+    "1 large avocado, destoned and chopped",
+    "200g spinach",
+    "50g pumpkin seeds"
   ],
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Serve with the remaining fresh parsley and pumpkin seeds on top."
+      "HowToTip": {},
+      "text": "Whisk the lemon juice, zest, half of the chopped parsley and olive oil together in a small bowl to make a dressing."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Serve with the remaining fresh parsley and pumpkin seeds on top."
+      "HowToTip": {},
+      "text": "Steam the broccoli and asparagus for 3 minutes until tender. Place in a large bowl with the lentils, spring onions, spinach and avocado, pour over the dressing and toss well."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
+      "HowToTip": {},
       "text": "Serve with the remaining fresh parsley and pumpkin seeds on top."
     }
   ],
   "recipeNameId": "super-green-lentil-salad",
   "recipeYield": "4",
   "sameAs": [
-    "https://woolworths.com.au/shop/find-recipes/green-lentil-salad-recipe"
+    "https://woolworths.com.au/shop/recipes/super-green-lentil-salad"
   ],
   "totalTime": "PT20M",
-  "updatedAt": "2022-11-24T11:16:56.378Z",
+  "updatedAt": "2022-11-25T15:11:26.785Z",
   "url": "https://www.woolworths.com.au/shop/recipes/super-green-lentil-salad"
 }

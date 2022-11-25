@@ -1,0 +1,66 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "1990.00kJ",
+      "carbohydrateContent": "51.20g",
+      "dietary_fibre": "4.62g",
+      "fatContent": "22.70g",
+      "name": "nutrition",
+      "proteinContent": "18.30g",
+      "saturatedFatContent": "11.80g",
+      "servingSize": "100 g",
+      "sodiumContent": "682.00mg",
+      "sugarContent": "2.50g"
+    }
+  ],
+  "aggregateRating": {
+    "@context": "http://schema.org",
+    "@type": "AggregateRating",
+    "ratingCount": 53,
+    "ratingValue": 4.62264150943396
+  },
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Herbert Adams"
+  },
+  "createdAt": "2022-11-25T17:32:34.597Z",
+  "description": "Herbert Adams Gourmet Baker's Selection - Chicken & leek in creamy camembert sauce.",
+  "gtin13": "9311008003407",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/329998.jpg",
+  "name": "Herbert Adams Pies Creamy Chicken & Leek 2 Pack",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 9,
+    "lowPrice": 9,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-25T17:32:34.596Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 9,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/329998/herbert-adams-pies-creamy-chicken-leek"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/329998/herbert-adams-pies-creamy-chicken-leek"
+  ],
+  "sku": "329998",
+  "updatedAt": "2022-11-25T17:32:34.596Z"
+}

@@ -1,95 +1,105 @@
 {
   "@type": "Recipe",
+  "author": {
+    "@type": "Person",
+    "name": "Produced for Woolworths"
+  },
   "cookTime": "PT120M",
   "createdAt": "2022-11-24T23:58:49.923Z",
   "datePublished": "2022-11-07",
   "description": "The peppered beef in this classic Maltese dish adds some spice to the meaty pasta base.",
-  "image": "https://foodhub.scene7.com/is/image/woolworthsltdprod/corned-beef-timpana?wid=3154&hei=3154&fmt=png-alpha",
-  "keywords": "Corned Beef Timpana",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1300,
+    "mime": "image/jpeg",
+    "url": "https://foodhub.scene7.com/is/image/woolworthsltdprod/corned-beef-timpana:Square-1300x1300",
+    "width": 1300
+  },
+  "keywords": "Pasta bake,Beef,Egg",
   "name": "Corned Beef Timpana Recipe | Woolworths",
   "prepTime": "PT15M",
-  "recipeCategory": "mains",
-  "recipeCuisine": "european",
+  "recipeCategory": "Lunch,Dinner",
+  "recipeCuisine": "Italian",
   "recipeId": "RGWW338211",
   "recipeIngredient": [
     "2 tbs canola oil",
-    "2 medium white onion",
-    "4 cloves garlic",
-    "200 g corned beef",
-    "200 g minced beef",
-    "1 medium carrot",
-    "300 g passata",
+    "2 medium white onion, peeled and diced",
+    "4 cloves garlic, peeled and diced",
+    "200g corned beef, diced",
+    "200g minced beef",
+    "1 medium carrot, diced",
+    "300g passata",
     "1.2 cup beef stock",
-    "50 g butter",
-    "300 g macaroni pasta",
-    "500 g pastry sheets",
-    "5 medium eggs",
+    "50g butter",
+    "300g macaroni pasta",
+    "500g pastry sheets, thawed",
+    "5 medium eggs, free range",
     "1 tsp cracked black pepper",
     "0.2 cup milk"
   ],
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Bake in the oven for 70 minutes and allow to cool slightly before serving."
+      "HowToTip": {},
+      "text": "Heat up a large non-stick pan to a medium heat and then add the canola oil."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Bake in the oven for 70 minutes and allow to cool slightly before serving."
+      "HowToTip": {},
+      "text": "Fry the onions and garlic while tossing for 5 minutes."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Bake in the oven for 70 minutes and allow to cool slightly before serving."
+      "HowToTip": {},
+      "text": "Add the corned beef and minced beef to the pan and fry for a further 10 minutes while combining."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Bake in the oven for 70 minutes and allow to cool slightly before serving."
+      "HowToTip": {},
+      "text": "Add the carrots, passata and beef stock to the pan and allow everything to simmer for 20 minutes stirring occasionally."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Bake in the oven for 70 minutes and allow to cool slightly before serving."
+      "HowToTip": {},
+      "text": "Pre-heat the oven to 180°C/160°C fan-forced and prepare a casserole dish or baking tin by buttering the edges."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Bake in the oven for 70 minutes and allow to cool slightly before serving."
+      "HowToTip": {},
+      "text": "Cook the pasta as per packet instructions, drain, and then empty into the saucepan with the mince and combine."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Bake in the oven for 70 minutes and allow to cool slightly before serving."
+      "HowToTip": {},
+      "text": "Line your baking dish with pastry on the bottom and sides and keep some pastry to cover the top."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Bake in the oven for 70 minutes and allow to cool slightly before serving."
+      "HowToTip": {},
+      "text": "Crack and beat your eggs in a bowl with the pepper and then combine with the mince and pasta."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Bake in the oven for 70 minutes and allow to cool slightly before serving."
+      "HowToTip": {},
+      "text": "Empty all contents into the pastry lined baking dish."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Bake in the oven for 70 minutes and allow to cool slightly before serving."
+      "HowToTip": {},
+      "text": "Cover the pasta with puff pastry and tighten the edges together. Pierce multiple times with a fork and brush the pastry with milk."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
+      "HowToTip": {},
       "text": "Bake in the oven for 70 minutes and allow to cool slightly before serving."
     }
   ],
   "recipeNameId": "corned-beef-timpana",
   "recipeYield": "8",
   "sameAs": [
-    "https://woolworths.com.au/shop/find-recipes/diced-beef-recipe"
+    "https://woolworths.com.au/shop/recipes/corned-beef-timpana"
   ],
   "totalTime": "PT135M",
-  "updatedAt": "2022-11-24T23:58:49.919Z",
+  "updatedAt": "2022-11-25T14:34:45.212Z",
   "url": "https://www.woolworths.com.au/shop/recipes/corned-beef-timpana"
 }

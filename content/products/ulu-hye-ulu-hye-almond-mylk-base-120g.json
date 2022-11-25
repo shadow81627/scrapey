@@ -1,0 +1,60 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "-",
+      "carbohydrateContent": "-",
+      "dietary_fibre": "-",
+      "fatContent": "-",
+      "name": "nutrition",
+      "proteinContent": "-",
+      "saturatedFatContent": "-",
+      "servingSize": "100 g",
+      "sodiumContent": "-",
+      "sugarContent": "-"
+    }
+  ],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Ulu Hye"
+  },
+  "createdAt": "2022-11-25T16:13:46.507Z",
+  "description": "Make your own plant-based milk at home in just 1 minute. No nasties, just the good stuff. Make as much as you want, when you want. Waste-free milk that's better for you and better for the environment.",
+  "gtin13": "9356444000146",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/224431.jpg",
+  "name": "Ulu Hye Ulu Hye Almond Mylk Base 120g",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 12,
+    "lowPrice": 12,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-25T16:13:46.506Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 12,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/224431/ulu-hye-almond-mylk-base"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/224431/ulu-hye-almond-mylk-base"
+  ],
+  "sku": "224431",
+  "updatedAt": "2022-11-25T16:13:46.506Z"
+}

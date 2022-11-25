@@ -1,56 +1,66 @@
 {
   "@type": "Recipe",
+  "author": {
+    "@type": "Person",
+    "name": "Produced for Woolworths"
+  },
   "cookTime": "PT210M",
   "createdAt": "2022-11-24T14:16:44.454Z",
-  "datePublished": "2022-07-25",
-  "description": "This garlicky lamb kleftiko is a deliciously different way to enjoy lamb shanks with lots of Greek flavour.",
-  "image": "https://foodhub.scene7.com/is/image/woolworthsltdprod/greek-style-lamb-shank-casserole?wid=4124&hei=4124&fmt=png-alpha",
-  "keywords": "Greek-Style Lamb Shank Casserole",
+  "datePublished": "2022-09-26",
+  "description": "This garlicky lamb kleftiko is a deliciously different  way to enjoy lamb shanks with lots of Greek flavour.",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1300,
+    "mime": "image/jpeg",
+    "url": "https://foodhub.scene7.com/is/image/woolworthsltdprod/greek-style-lamb-shank-casserole:Square-1300x1300",
+    "width": 1300
+  },
+  "keywords": "Casserole,Lamb,Lemon,Tomato,Potato",
   "name": "Greek-Style Lamb Shank Casserole Recipe | Woolworths",
   "prepTime": "PT10M",
-  "recipeCategory": "mains",
-  "recipeCuisine": "european",
+  "recipeCategory": "Lunch,Dinner",
+  "recipeCuisine": "Greek",
   "recipeId": "RGWW338926",
   "recipeIngredient": [
     "2 tbs olive oil",
     "6 lamb shanks",
     "10 cloves garlic",
     "6 bay leaves",
-    "2 tbs oregano",
+    "2 tbs oregano, dried",
     "0.5 tsp cinnamon",
-    "2 large lemons",
-    "1.2 kg baby potatoes",
-    "350 g tomatoes",
-    "200 g feta"
+    "2 large lemons, juice and zest",
+    "1.2kg baby potatoes, halved",
+    "350g tomatoes",
+    "200g feta, crumbled"
   ],
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Serve with the remaining feta crumbled on top and a Greek salad on the side, if desired."
+      "HowToTip": {},
+      "text": "Pre-heat the oven to 170°C. Add half of the oil, lemon juice, oregano, cinnamon, bay leaves and garlic to a large, oven-safe casserole dish and mix well."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Serve with the remaining feta crumbled on top and a Greek salad on the side, if desired."
+      "HowToTip": {},
+      "text": "Add the potatoes, tomatoes, lamb shanks and 3/4 of the feta to the casserole dish and mix well. Pour over the remaining oil and 100ml of water and cover with a layer of foil and the casserole lid."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Serve with the remaining feta crumbled on top and a Greek salad on the side, if desired."
+      "HowToTip": {},
+      "text": "Bake for 3 hours until the lamb is completely tender, checking halfway through cooking and adding more water if necessary. Remove the lid, sprinkle over a teaspoon of lemon zest and cook for 30 minutes more."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
+      "HowToTip": {},
       "text": "Serve with the remaining feta crumbled on top and a Greek salad on the side, if desired."
     }
   ],
   "recipeNameId": "greek-style-lamb-shank-casserole",
   "recipeYield": "6",
   "sameAs": [
-    "https://woolworths.com.au/shop/find-recipes/greek-lamb-shank-recipe"
+    "https://woolworths.com.au/shop/recipes/greek-style-lamb-shank-casserole"
   ],
   "totalTime": "PT220M",
-  "updatedAt": "2022-11-24T14:16:44.451Z",
+  "updatedAt": "2022-11-25T18:24:32.841Z",
   "url": "https://www.woolworths.com.au/shop/recipes/greek-style-lamb-shank-casserole"
 }

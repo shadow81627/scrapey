@@ -1,0 +1,66 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "397 kJ",
+      "carbohydrateContent": "8.4 g",
+      "dietary_fibre": "0.96g",
+      "fatContent": "5.4 g",
+      "name": "nutrition",
+      "proteinContent": "3.0 g",
+      "saturatedFatContent": "2.3 g",
+      "servingSize": "100 g",
+      "sodiumContent": "185 mg",
+      "sugarContent": "0.7 g"
+    }
+  ],
+  "aggregateRating": {
+    "@context": "http://schema.org",
+    "@type": "AggregateRating",
+    "ratingCount": 24,
+    "ratingValue": 4.29166666666667
+  },
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Marathon"
+  },
+  "createdAt": "2022-11-25T17:28:38.533Z",
+  "description": "Marathon Puffy DogsÂ® are a unique treat the whole family can enjoy. Tasty skinless cocktail Frankfurts wrapped in a light golden pastry. They are perfect for any occasion from â??kids partiesâ?? to â??cocktail partiesâ??  Simply bake from frozen, ready to share within minutes.",
+  "gtin13": "9310375004772",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/215516.jpg",
+  "name": "Marathon Puffy Dogs 600G",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 8.6,
+    "lowPrice": 8.6,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-25T17:28:38.531Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 8.6,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/215516/marathon-puffy-dogs"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/215516/marathon-puffy-dogs"
+  ],
+  "sku": "215516",
+  "updatedAt": "2022-11-25T17:28:38.531Z"
+}

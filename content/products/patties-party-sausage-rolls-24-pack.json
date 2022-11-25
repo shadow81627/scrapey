@@ -1,0 +1,66 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "399.00kJ",
+      "carbohydrateContent": "9.30g",
+      "dietary_fibre": "-",
+      "fatContent": "5.40g",
+      "name": "nutrition",
+      "proteinContent": "3.30g",
+      "saturatedFatContent": "2.70g",
+      "servingSize": "100 g",
+      "sodiumContent": "269.00mg",
+      "sugarContent": "0.40g"
+    }
+  ],
+  "aggregateRating": {
+    "@context": "http://schema.org",
+    "@type": "AggregateRating",
+    "ratingCount": 45,
+    "ratingValue": 4.4
+  },
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Patties"
+  },
+  "createdAt": "2022-11-25T17:26:47.780Z",
+  "description": "Patties Sausage Rolls Original Beef made with 100% Australian beef.The Original Party FoodPatties has been helping Australians celebrate for over 50 years.",
+  "gtin13": "9311008056953",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/521233.jpg",
+  "name": "Patties Party Sausage Rolls 24 Pack",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 15.5,
+    "lowPrice": 15.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-25T17:26:47.778Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 15.5,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/521233/patties-party-sausage-rolls"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/521233/patties-party-sausage-rolls"
+  ],
+  "sku": "521233",
+  "updatedAt": "2022-11-25T17:26:47.779Z"
+}

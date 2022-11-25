@@ -1,0 +1,66 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "506kJ",
+      "carbohydrateContent": "13.1g",
+      "dietary_fibre": "1.2g",
+      "fatContent": "6.1g",
+      "name": "nutrition",
+      "proteinContent": "3.1g",
+      "saturatedFatContent": "3.2g",
+      "servingSize": "100 g",
+      "sodiumContent": "249mg",
+      "sugarContent": "0.1g"
+    }
+  ],
+  "aggregateRating": {
+    "@context": "http://schema.org",
+    "@type": "AggregateRating",
+    "ratingCount": 34,
+    "ratingValue": 4.32352941176471
+  },
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Four'N Twenty"
+  },
+  "createdAt": "2022-11-25T17:24:49.468Z",
+  "description": "Four'N Twenty Party Pies are the classic taste of 100% Australian meat in delicious gravy wrapped in golden pastry.",
+  "gtin13": "9310114222535",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/088281.jpg",
+  "name": "Four'n Twenty Party Pies Frozen 12 Pack",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 7,
+    "lowPrice": 7,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-25T17:24:49.466Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 7,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/88281/four-n-twenty-party-pies-frozen"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/88281/four-n-twenty-party-pies-frozen"
+  ],
+  "sku": "88281",
+  "updatedAt": "2022-11-25T17:24:49.466Z"
+}

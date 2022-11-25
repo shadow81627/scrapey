@@ -1,0 +1,65 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "Approx.780kJ",
+      "carbohydrateContent": "Approx.20.1g",
+      "dietary_fibre": "Approx.3.2g",
+      "fatContent": "Approx.9.7g",
+      "name": "nutrition",
+      "proteinContent": "Approx.3.2g",
+      "saturatedFatContent": "Approx.5.2g",
+      "servingSize": "100 g",
+      "sodiumContent": "Approx.172mg",
+      "sugarContent": "Approx.0.4g"
+    }
+  ],
+  "aggregateRating": {
+    "@context": "http://schema.org",
+    "@type": "AggregateRating",
+    "ratingCount": 282,
+    "ratingValue": 4.43617021276596
+  },
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Woolworths"
+  },
+  "createdAt": "2022-11-25T17:33:13.691Z",
+  "gtin13": "9300633437619",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/763596.jpg",
+  "name": "Woolworths Pastry Shortcrust 1Kg",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2.3,
+    "lowPrice": 2.3,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-25T17:33:13.689Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 2.3,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/763596/woolworths-pastry-shortcrust"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/763596/woolworths-pastry-shortcrust"
+  ],
+  "sku": "763596",
+  "updatedAt": "2022-11-25T17:33:13.689Z"
+}

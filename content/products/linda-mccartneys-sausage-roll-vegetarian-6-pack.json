@@ -1,0 +1,59 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "Approx.1212kJ",
+      "carbohydrateContent": "Approx.22.9g",
+      "dietary_fibre": "Approx.3.8g",
+      "fatContent": "Approx.16.3g",
+      "name": "nutrition",
+      "proteinContent": "Approx.11g",
+      "saturatedFatContent": "Approx.7.4g",
+      "servingSize": "100 g",
+      "sodiumContent": "Approx.348mg",
+      "sugarContent": "Approx.2.1g"
+    }
+  ],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Linda Mccartney's"
+  },
+  "createdAt": "2022-11-25T17:28:02.239Z",
+  "gtin13": "5014008002671",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/749520.jpg",
+  "name": "Linda Mccartney's Sausage Roll Vegetarian 6 Pack",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3,
+    "lowPrice": 3,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-25T17:28:02.239Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 3,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/749520/linda-mccartney-s-sausage-roll-vegetarian"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/749520/linda-mccartney-s-sausage-roll-vegetarian"
+  ],
+  "sku": "749520",
+  "updatedAt": "2022-11-25T17:28:02.239Z"
+}

@@ -1,0 +1,60 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "-",
+      "carbohydrateContent": "-",
+      "dietary_fibre": "-",
+      "fatContent": "-",
+      "name": "nutrition",
+      "proteinContent": "-",
+      "saturatedFatContent": "-",
+      "servingSize": "100 g",
+      "sodiumContent": "-",
+      "sugarContent": "-"
+    }
+  ],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Twinings"
+  },
+  "createdAt": "2022-11-25T15:58:25.131Z",
+  "description": "Twinings Earl Grey Tea Bags is light strength and aromatic. Enjoy every day.A tea fit for an Earl!Legend has it that Earl Grey was developed especially for the 2nd Earl Grey of England in the 1800s. It is light and aromatic with a distinctive citrus bergamot flavour. So sip and enjoy this delightful blend inspired by the Earl and you will feel like you have just stepped back in time.In 1706, Thomas Twining started selling tea. More than 300 years on, the Twinings' tradition continues with our finest blends for you to Enjoy Every Day.",
+  "gtin13": "70177025694",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/072617.jpg",
+  "name": "Twinings Earl Grey Tea Bags Tea Bags 100 Pack",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 13.5,
+    "lowPrice": 13.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-25T15:58:25.130Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 13.5,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/72617/twinings-earl-grey-tea-bags-tea-bags"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/72617/twinings-earl-grey-tea-bags-tea-bags"
+  ],
+  "sku": "72617",
+  "updatedAt": "2022-11-25T15:58:25.130Z"
+}

@@ -1,0 +1,66 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "700kJ",
+      "carbohydrateContent": "20.7g",
+      "dietary_fibre": "1.36g",
+      "fatContent": "7.9g",
+      "name": "nutrition",
+      "proteinContent": "3.1g",
+      "saturatedFatContent": "3.9g",
+      "servingSize": "100 g",
+      "sodiumContent": "175mg",
+      "sugarContent": "1.3g"
+    }
+  ],
+  "aggregateRating": {
+    "@context": "http://schema.org",
+    "@type": "AggregateRating",
+    "ratingCount": 53,
+    "ratingValue": 4.77358490566038
+  },
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Pampas"
+  },
+  "createdAt": "2022-11-25T17:29:18.692Z",
+  "description": "Make the best pastries with Pampas Frozen Puff Pastry 10 Sheets. Whether you're craving tarts or a fruit-filled roll, Pampas is sure to help you create something delicious.Enjoy pastry the way you want to with Pampas Frozen Puff Pastry. it's light, golden layers are the key ingredient for beautiful pies and tarts. Made with no artificial colours, flavours or preservatives and suitable for vegetarians, these pastry sheets are made to be enjoyed by anyone.• No artificial colours, flavours and preservatives• Light golden layers• Suitable for vegetarians• Perfect for making pies, tarts or danishes• Contains 10 sheets in the pack",
+  "gtin13": "9310002011159",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/083512.jpg",
+  "name": "Pampas Puff Pastry 10 Sheets 1.6Kg",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 7.3,
+    "lowPrice": 7.3,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-25T17:29:18.690Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 7.3,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/83512/pampas-puff-pastry-10-sheets"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/83512/pampas-puff-pastry-10-sheets"
+  ],
+  "sku": "83512",
+  "updatedAt": "2022-11-25T17:29:18.690Z"
+}

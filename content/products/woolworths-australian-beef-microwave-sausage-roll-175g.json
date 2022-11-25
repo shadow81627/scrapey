@@ -1,0 +1,65 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "Approx.1960kJ",
+      "carbohydrateContent": "Approx.50.1g",
+      "dietary_fibre": "-",
+      "fatContent": "Approx.23.1g",
+      "name": "nutrition",
+      "proteinContent": "Approx.15.2g",
+      "saturatedFatContent": "Approx.12.1g",
+      "servingSize": "100 g",
+      "sodiumContent": "Approx.868mg",
+      "sugarContent": "Approx.1.1g"
+    }
+  ],
+  "aggregateRating": {
+    "@context": "http://schema.org",
+    "@type": "AggregateRating",
+    "ratingCount": 270,
+    "ratingValue": 3.02592592592593
+  },
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Woolworths"
+  },
+  "createdAt": "2022-11-25T17:29:57.881Z",
+  "gtin13": "9339687276318",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/183622.jpg",
+  "name": "Woolworths Australian Beef Microwave Sausage Roll 175g",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2.2,
+    "lowPrice": 2.2,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-25T17:29:57.880Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 2.2,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/183622/woolworths-australian-beef-microwave-sausage-roll"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/183622/woolworths-australian-beef-microwave-sausage-roll"
+  ],
+  "sku": "183622",
+  "updatedAt": "2022-11-25T17:29:57.880Z"
+}

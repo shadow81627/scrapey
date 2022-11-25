@@ -1,0 +1,66 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "512kJ",
+      "carbohydrateContent": "15.9g",
+      "dietary_fibre": "0.99g",
+      "fatContent": "5.4g",
+      "name": "nutrition",
+      "proteinContent": "2.5g",
+      "saturatedFatContent": "2.5g",
+      "servingSize": "100 g",
+      "sodiumContent": "163mg",
+      "sugarContent": "0.4g"
+    }
+  ],
+  "aggregateRating": {
+    "@context": "http://schema.org",
+    "@type": "AggregateRating",
+    "ratingCount": 45,
+    "ratingValue": 4.8
+  },
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Borg's"
+  },
+  "createdAt": "2022-11-25T17:26:08.672Z",
+  "description": "\"Borg's frozen puff pastry is a flaky pastry carefully crafted using the traditional French methods of pastry making to create light and flaky layers of pastry which just melts in your mouth.\"\" Perfect home baked pastry every time!\"",
+  "gtin13": "9311648000477",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/173040.jpg",
+  "name": "Borg's Traditional Puff Pastry 1.9Kg",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 6.8,
+    "lowPrice": 6.8,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-25T17:26:08.671Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 6.8,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/173040/borg-s-traditional-puff-pastry"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/173040/borg-s-traditional-puff-pastry"
+  ],
+  "sku": "173040",
+  "updatedAt": "2022-11-25T17:26:08.671Z"
+}
