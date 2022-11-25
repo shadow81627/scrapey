@@ -10,11 +10,13 @@ import {
   VersionColumn,
   Relation,
   JoinColumn,
+  OneToOne,
 } from 'typeorm';
 import { v5 as uuidv5 } from 'uuid';
 import isValidUrl from '../../utils/isValidUrl';
 import { Dated } from '../util/Dated';
 import { CrawlIssue } from './CrawlIssue';
+import { Image } from './Image';
 
 interface UrlParts {
   hostname: string;
@@ -63,6 +65,9 @@ export class Url {
   })
   urls?: Promise<Relation<Url[]>>;
 
+  @OneToOne(() => Image)
+  @JoinColumn()
+  image?: Relation<Image>;
   @OneToMany(() => CrawlIssue, (issue: CrawlIssue) => issue.url)
   issues?: Relation<CrawlIssue>;
 
