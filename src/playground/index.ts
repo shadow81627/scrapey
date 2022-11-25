@@ -2,21 +2,37 @@ import AppDataSource from '../db/data-source';
 import deleteDisallowedDomains from './deleteDisallowedDomains';
 import deleteDuplicateUrls from './deleteDuplicateUrls';
 import colesNationalReplaceUrls from './colesNationalReplaceUrls';
-import incorrectUIrlIds from './incorrectUrlId';
+import incorrectUrlIds from './incorrectUrlId';
 import resetRedirectedColesUrls from './resetRedirectedColesUrls';
 import countUrlSearch from './countUrlSearch';
 import gitTimeStamps from './gitTimeStamps';
+import urlsMissingUrls from './urlsMissingUrls';
+import probeImages from './probeImages';
 
 (async () => {
   await AppDataSource.initialize();
 
-  await deleteDisallowedDomains();
-  await colesNationalReplaceUrls();
-  await incorrectUIrlIds();
-  await deleteDuplicateUrls();
-  await resetRedirectedColesUrls();
+  const responses = {
+    deleteDisallowedDomains: '',
+    colesNationalReplaceUrls: '',
+    incorrectUrlIds: '',
+    deleteDuplicateUrls: '',
+    resetRedirectedColesUrls: '',
+    probeImages: '',
+    urlsMissingUrls: '',
+  }
+
+  responses.deleteDisallowedDomains = await deleteDisallowedDomains();
+  responses.colesNationalReplaceUrls = await colesNationalReplaceUrls();
+  responses.incorrectUrlIds = await incorrectUrlIds();
+  responses.deleteDuplicateUrls = await deleteDuplicateUrls();
+  responses.resetRedirectedColesUrls = await resetRedirectedColesUrls();
   await countUrlSearch();
-  await gitTimeStamps();
+  responses.probeImages = await probeImages();
+  responses.urlsMissingUrls = await urlsMissingUrls();
+  // await gitTimeStamps();
+
+  console.table(responses);
 
   await AppDataSource.destroy();
 })();
