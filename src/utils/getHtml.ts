@@ -14,12 +14,12 @@ export default async function getHtml({ url }: getHtmlArgs): Promise<string> {
     slowMo: 250,
     waitUntil: 'networkidle0',
     defaultViewport: null,
-    maxRedirects: url.startsWith('https://shop.coles.com.au') ? 0 : undefined,
+    proxy: { server: 'http://localhost:11111' }
   };
   const timeout = 120000; // timeout in milliseconds.
   const waitForTimeout = 15000;
   const browser = await firefox.launch(browserOptions);
-  const context = await browser.newContext();
+  const context = await browser.newContext({ ignoreHTTPSErrors: true });
   try {
     // fetch browser rendered html
     const page = await context.newPage();
