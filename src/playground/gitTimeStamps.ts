@@ -13,8 +13,7 @@ const execAsync = util.promisify(exec);
  * @param filename to get create date from git
  * @returns file create date
  */
-async function gitCreateDate(filename: string): Promise<Date> {
-  const relativePath = path.relative(process.cwd(), filename)
+async function gitCreateDate(relativePath: string): Promise<Date> {
   const command = `git log --follow --format=%ad --date default ${relativePath} | tail -1`
   const { stdout, stderr } = await execAsync(command);
   if (stderr) {
@@ -31,8 +30,9 @@ export default async function gitTimeStamps(): Promise<void> {
       const content = JSON.parse(
         (await readFile(filename)).toString(),
       );
-      content.createdAt = await gitCreateDate(filename);
-      console.log(iteration, content.createdAt)
+      const relativePath = path.relative(process.cwd(), filename)
+      content.createdAt = await gitCreateDate(relativePath);
+      console.log(iteration, filename)
       await writeFile(
         filename,
         JSON.stringify(deepSort(content), undefined, 2) + '\n',
