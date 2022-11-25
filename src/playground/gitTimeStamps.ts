@@ -1,24 +1,40 @@
-import { getStamps } from 'git-date-extractor';
-import { readFile, writeFile, stat } from 'fs/promises'; 
+import { readFile, writeFile } from 'fs/promises'; 
 import deepSort from '../utils/deepSort';
 import getFiles from '../utils/getFiles';
+import util from 'util';
+import { exec } from 'child_process';
+import path from 'path';
+const execAsync = util.promisify(exec);
 
-// git log --follow --format=%ad --date default content/offers/10-in-1-beauty-balm/coles.json | tail -1
+/**
+ * https://stackoverflow.com/a/2390382
+ * https://github.com/joshuatz/git-date-extractor
+ * https://github.com/domharrington/node-gitlog
+ * @param filename to get create date from git
+ * @returns file create date
+ */
+async function gitCreateDate(filename: string): Promise<Date> {
+  const relativePath = path.relative(process.cwd(), filename)
+  const command = `git log --follow --format=%ad --date default ${relativePath} | tail -1`
+  const { stdout, stderr } = await execAsync(command);
+  if (stderr) {
+    throw new Error(stderr);
+  }
+  return new Date(stdout);
+}
 
 export default async function gitTimeStamps(): Promise<void> {
-  const iteration = 0;
+  let iteration = 0;
   for await (const filename of getFiles('content')) {
+    iteration++
     const content = JSON.parse(
       (await readFile(filename)).toString(),
     );
-    console.log('stat', await stat(filename))
-    const timestamps: Record<string, {created: number, updated: number }> = await getStamps({ onlyIn: 'content', outputToFile: false, files: [filename] });
-    const timestamp = Object.values(timestamps)[0];
-    content.createdAt = new Date(timestamp.created).toISOString();
-    // console.log(iteration, content.createdAt)
-    // await writeFile(
-    //   filename,
-    //   JSON.stringify(deepSort(content), undefined, 2) + '\n',
-    // )
+    content.createdAt = await gitCreateDate(filename);
+    console.log(iteration, content.createdAt)
+    await writeFile(
+      filename,
+      JSON.stringify(deepSort(content), undefined, 2) + '\n',
+    )
   }
 }
