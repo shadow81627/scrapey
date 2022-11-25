@@ -68,9 +68,9 @@ type MySubject = {
     url.duration = duration;
     url.crawledAt = new Date();
     await connection.manager.save(url);
-    if (iteration === ((perPage * page) - perPage) - (perPage / 2)) {
-      await paginatedCrawl();
-    }
+    // if (iteration === ((perPage * page) - perPage) - (perPage / 2)) {
+    //   await paginatedCrawl();
+    // }
   }
   const perPage = cpuCount * 2;
   let page = 1;
