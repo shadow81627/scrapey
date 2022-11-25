@@ -4,7 +4,7 @@ import { Url } from '../db/entity';
 /**
  * Fetch duplicate urls from database set canonical ids and then soft delete non canonical urls.
  */
-export default async function colesNationalReplaceUrls(): Promise<void> {
+export default async function colesNationalReplaceUrls(): Promise<string> {
   const connection = AppDataSource;
   const linksToDelete: Url[] = [];
   const duplicates = await connection
@@ -52,6 +52,8 @@ export default async function colesNationalReplaceUrls(): Promise<void> {
       }
     }
   }
-  console.log('soft delete', linksToDelete.length, 'duplicate links');
+  const response = `soft delete ${linksToDelete.length} duplicate links`
+  console.log(response);
   await connection.manager.softRemove(linksToDelete);
+  return response;
 }

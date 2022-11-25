@@ -2,7 +2,7 @@ import { In } from "typeorm";
 import AppDataSource from "../db/data-source";
 import { Url } from "../db/entity";
 
-export default async function deleteDisallowedDomains(): Promise<void> {
+export default async function deleteDisallowedDomains(): Promise<string> {
   const disallowedHosts = [
     'twitter.com',
     'facebook.com',
@@ -20,4 +20,7 @@ export default async function deleteDisallowedDomains(): Promise<void> {
     ],
   });
   await connection.manager.softRemove(links);
+  const response = `soft delete ${links.length}`;
+  console.log(response);
+  return response;
 }

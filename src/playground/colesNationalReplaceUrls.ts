@@ -2,7 +2,7 @@ import { Like, Not } from 'typeorm';
 import AppDataSource from '../db/data-source';
 import { Url } from '../db/entity';
 
-export default async function colesNationalReplaceUrls(): Promise<void> {
+export default async function colesNationalReplaceUrls(): Promise<string> {
   const connection = AppDataSource;
   const links = await connection
     .getRepository(Url)
@@ -25,7 +25,8 @@ export default async function colesNationalReplaceUrls(): Promise<void> {
     })
     .getMany();
 
-  console.log('coles national replace total', links.length);
+  const response = `coles national replace total ${links.length}`;
+  console.log(response);
   const regex = /^\/a\/(.+?)\//;
   let iteration = 0;
   for (const link of links) {
@@ -35,8 +36,9 @@ export default async function colesNationalReplaceUrls(): Promise<void> {
       link.pathname = replaced;
       link.crawledAt = null;
       link.duration = null;
-      // await connection.manager.save(link);
+      await connection.manager.save(link);
       console.log(iteration, link.url);
     }
   }
+  return response;
 }

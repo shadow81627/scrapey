@@ -1,7 +1,7 @@
 import AppDataSource from '../db/data-source';
 import { Url } from '../db/entity';
 
-export default async function incorrectUIrlIds(): Promise<void> {
+export default async function incorrectUIrlIds(): Promise<string> {
   const connection = AppDataSource;
   console.log('fetch all urls to check id');
   const links = await connection.manager.find(Url, {
@@ -42,7 +42,9 @@ export default async function incorrectUIrlIds(): Promise<void> {
       newIds.push(canonicalId);
     }
   }
-  console.log('total incorrect url ids', newIds.length);
+  const response = `total incorrect url ids ${newIds.length}`
+  console.log(response);
   console.log('soft delete', linksToDelete.length, 'incorrect id links');
   await connection.manager.softRemove(linksToDelete);
+  return response;
 }
