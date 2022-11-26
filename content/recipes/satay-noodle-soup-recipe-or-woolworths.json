@@ -1,29 +1,39 @@
 {
   "@type": "Recipe",
+  "author": {
+    "@type": "Person",
+    "name": "Customer - ankalein"
+  },
   "cookTime": "PT15M",
   "createdAt": "2022-11-25T10:08:59.000Z",
-  "datePublished": "2021-09-10",
+  "datePublished": "2022-08-03",
   "description": "Great winter dish to warm you up and get a few extra veggies in.",
-  "image": "https://foodhub.scene7.com/is/image/woolworthsltdprod/vbwezz35kc7ckvnazlzc?wid=4624&hei=3468&fmt=png-alpha",
-  "keywords": "Satay Noodle Soup",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1300,
+    "mime": "image/jpeg",
+    "url": "https://foodhub.scene7.com/is/image/woolworthsltdprod/vbwezz35kc7ckvnazlzc:Square-1300x1300",
+    "width": 1300
+  },
+  "keywords": "Noodle soup",
   "name": "Satay Noodle Soup Recipe | Woolworths",
   "prepTime": "PT10M",
-  "recipeCategory": "mains",
-  "recipeCuisine": "asian",
+  "recipeCategory": "Lunch,Dinner",
+  "recipeCuisine": "Asian",
   "recipeId": "a0K2y000000onb9EAA",
   "recipeIngredient": [
     "1 piece small ginger",
     "2 clove small garlic",
     "1 tsp cooking oil",
-    "1 tsp curry paste",
+    "1 tsp curry paste (thai green or red)",
     "1 can coconut milk",
-    "1 L vegetable broth",
+    "1L vegetable broth",
     "2 tbs satay paste",
-    "200 g satay tofu",
-    "2 cup veggies",
-    "180 g udon noodles",
-    "1 handful fresh coriander",
-    "1 handful peanuts",
+    "200g satay tofu",
+    "2-3 cup veggies (of your choice we have used broccolini, mushrooms and snow peas)",
+    "180g udon noodles",
+    "1 handful fresh coriander (optional)",
+    "1 handful peanuts (optional)",
     "1 tbs soy sauce",
     "1 tbs honey",
     "1 tbs lemon juice"
@@ -31,31 +41,31 @@
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "To serve ladle the soup and noodles into a large bowl and add veggies and tofu on top. Garnish with fresh coriander and peanuts (optional)."
+      "HowToTip": {},
+      "text": "Finely mince the ginger and garlic. In a large pot heat the oil and add in the ginger and garlic, cook until fragrant. Add in the curry paste and cook for another minute. Then add in the broth, coconut milk and satay paste. Bring to a boil."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "To serve ladle the soup and noodles into a large bowl and add veggies and tofu on top. Garnish with fresh coriander and peanuts (optional)."
+      "HowToTip": {},
+      "text": "In the meantime, prepare your veggies and cut the tofu into smaller chunks. Fry the tofu and veggies off in a separate pan."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "To serve ladle the soup and noodles into a large bowl and add veggies and tofu on top. Garnish with fresh coriander and peanuts (optional)."
+      "HowToTip": {},
+      "text": "Add in the udon noodles into the soup and cook to package instructions. Add soy sauce, honey and lemon juice into the soup and stir well."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
+      "HowToTip": {},
       "text": "To serve ladle the soup and noodles into a large bowl and add veggies and tofu on top. Garnish with fresh coriander and peanuts (optional)."
     }
   ],
   "recipeNameId": "satay-noodle-soup",
   "recipeYield": "3",
   "sameAs": [
-    "https://woolworths.com.au/shop/find-recipes/tofu-soup"
+    "https://woolworths.com.au/shop/recipes/satay-noodle-soup"
   ],
   "totalTime": "PT25M",
-  "updatedAt": "2022-11-25T07:38:42.123Z",
+  "updatedAt": "2022-11-26T12:36:54.334Z",
   "url": "https://www.woolworths.com.au/shop/recipes/satay-noodle-soup"
 }

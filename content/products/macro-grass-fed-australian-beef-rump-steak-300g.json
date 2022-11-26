@@ -1,0 +1,51 @@
+{
+  "@type": "Product",
+  "additionalProperty": [],
+  "aggregateRating": {
+    "@context": "http://schema.org",
+    "@type": "AggregateRating",
+    "ratingCount": 956,
+    "ratingValue": 4.59728033472803
+  },
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Macro"
+  },
+  "createdAt": "2022-11-26T11:30:44.230Z",
+  "gtin13": "9339687271160",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/175571.jpg",
+  "name": "Macro Grass Fed Australian Beef Rump Steak 300g",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 14.5,
+    "lowPrice": 14.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-26T11:30:44.228Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 14.5,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/175571/macro-grass-fed-australian-beef-rump-steak"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/175571/macro-grass-fed-australian-beef-rump-steak"
+  ],
+  "sku": "175571",
+  "updatedAt": "2022-11-26T11:30:44.228Z"
+}

@@ -1,0 +1,66 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "Approx.1070kJ",
+      "carbohydrateContent": "Approx.4.8g",
+      "dietary_fibre": "-",
+      "fatContent": "Approx.18.4g",
+      "name": "nutrition",
+      "proteinContent": "Approx.18g",
+      "saturatedFatContent": "Approx.7.8g",
+      "servingSize": "100 g",
+      "sodiumContent": "Approx.417mg",
+      "sugarContent": "<1g"
+    }
+  ],
+  "aggregateRating": {
+    "@context": "http://schema.org",
+    "@type": "AggregateRating",
+    "ratingCount": 515,
+    "ratingValue": 4.45631067961165
+  },
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Woolworths"
+  },
+  "createdAt": "2022-11-26T11:29:14.278Z",
+  "description": "These gluten free meetballs are made with Australian beef and lamb with no artificial colours or flavours",
+  "gtin13": "9300633435547",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/764264.jpg",
+  "name": "Woolworths Beef & Lamb Meatballs 400G",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 8,
+    "lowPrice": 8,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-26T11:29:14.277Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 8,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/764264/woolworths-beef-lamb-meatballs"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/764264/woolworths-beef-lamb-meatballs"
+  ],
+  "sku": "764264",
+  "updatedAt": "2022-11-26T11:29:14.277Z"
+}

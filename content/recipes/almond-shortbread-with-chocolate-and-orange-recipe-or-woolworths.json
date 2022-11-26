@@ -1,73 +1,83 @@
 {
   "@type": "Recipe",
+  "author": {
+    "@type": "Person",
+    "name": "Produced for Woolworths"
+  },
   "cookTime": "PT20M",
   "createdAt": "2022-11-22T22:53:07.000Z",
-  "datePublished": "2022-06-27",
+  "datePublished": "2022-08-03",
   "description": "These buttery treats have a nutty and zesty taste.",
-  "image": "https://foodhub.scene7.com/is/image/woolworthsltdprod/almond-shortbread-with-chocolate-and-orange?wid=4118&hei=4118&fmt=png-alpha",
-  "keywords": "Almond Shortbread with Chocolate & Orange",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1300,
+    "mime": "image/jpeg",
+    "url": "https://foodhub.scene7.com/is/image/woolworthsltdprod/almond-shortbread-with-chocolate-and-orange:Square-1300x1300",
+    "width": 1300
+  },
+  "keywords": "Shortbread,Chocolate",
   "name": "Almond Shortbread with Chocolate & Orange Recipe | Woolworths",
   "prepTime": "PT15M",
-  "recipeCategory": "desserts",
-  "recipeCuisine": "british",
+  "recipeCategory": "Desserts",
+  "recipeCuisine": "Scottish",
   "recipeId": "RGWW338087",
   "recipeIngredient": [
-    "160 g plain flour",
-    "50 g caster sugar",
-    "120 g unsalted butter",
+    "160g plain flour",
+    "50g caster sugar",
+    "120g unsalted butter",
     "1 tsp vanilla extract",
-    "20 g ground almond",
-    "50 g orange chocolate",
-    "1 large orange"
+    "20g ground almond",
+    "50g orange chocolate, broken",
+    "1 large orange, zest only"
   ],
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Once cooled, drizzle or dip the shortbread into the chocolate and add some zest on top to garnish."
+      "HowToTip": {},
+      "text": "In a mixing bowl, combine the butter with the sugar and vanilla until fluffy."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Once cooled, drizzle or dip the shortbread into the chocolate and add some zest on top to garnish."
+      "HowToTip": {},
+      "text": "Incrementally add the flour and ground almonds while you are still mixing until combined fully."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Once cooled, drizzle or dip the shortbread into the chocolate and add some zest on top to garnish."
+      "HowToTip": {},
+      "text": "Allow the mix to set in the fridge for 30 minutes and pre-heat your oven to 190°C."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Once cooled, drizzle or dip the shortbread into the chocolate and add some zest on top to garnish."
+      "HowToTip": {},
+      "text": "Remove the dough from the fridge and roll out using a rolling pin."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Once cooled, drizzle or dip the shortbread into the chocolate and add some zest on top to garnish."
+      "HowToTip": {},
+      "text": "Cut the dough into your desired shapes which should yield about 10 - 12 pieces and place on some baking paper on a baking tray."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Once cooled, drizzle or dip the shortbread into the chocolate and add some zest on top to garnish."
+      "HowToTip": {},
+      "text": "Bake your shortbread in the oven for 16 minutes or until cooked through."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Once cooled, drizzle or dip the shortbread into the chocolate and add some zest on top to garnish."
+      "HowToTip": {},
+      "text": "Once cooked, allow to cool while you melt your orange chocolate in the microwave for a few seconds or using a bain marie."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
+      "HowToTip": {},
       "text": "Once cooled, drizzle or dip the shortbread into the chocolate and add some zest on top to garnish."
     }
   ],
   "recipeNameId": "almond-shortbread-with-chocolate-and-orange",
   "recipeYield": "4",
   "sameAs": [
-    "https://woolworths.com.au/shop/find-recipes/almond-shortbread-cookies"
+    "https://woolworths.com.au/shop/recipes/almond-shortbread-with-chocolate-and-orange"
   ],
   "totalTime": "PT35M",
-  "updatedAt": "2022-11-24T17:27:08.246Z",
+  "updatedAt": "2022-11-26T14:12:23.977Z",
   "url": "https://www.woolworths.com.au/shop/recipes/almond-shortbread-with-chocolate-and-orange"
 }

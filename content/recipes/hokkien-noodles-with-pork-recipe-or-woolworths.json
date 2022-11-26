@@ -1,57 +1,67 @@
 {
   "@type": "Recipe",
+  "author": {
+    "@type": "Person",
+    "name": "Licensed by Woolworths - ©️ Dorling Kindersley Ltd"
+  },
   "cookTime": "PT10M",
   "createdAt": "2022-11-24T22:03:11.000Z",
-  "datePublished": "2021-12-13",
+  "datePublished": "2022-10-19",
   "description": "Try our easy to follow Hokkien Noodles With Pork recipe. Absolutely delicious with the best ingredients from Woolworths.",
-  "image": "https://foodhub.scene7.com/is/image/woolworthsltdprod/tik200hoknoo_020?wid=2448&hei=3262&fmt=png-alpha",
-  "keywords": "Hokkien Noodles With Pork",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1300,
+    "mime": "image/jpeg",
+    "url": "https://foodhub.scene7.com/is/image/woolworthsltdprod/tik200hoknoo_020:Square-1300x1300",
+    "width": 1300
+  },
+  "keywords": "Singapore noodles,Pork",
   "name": "Hokkien Noodles With Pork Recipe | Woolworths",
   "prepTime": "PT20M",
-  "recipeCategory": "mains",
-  "recipeCuisine": "asian",
+  "recipeCategory": "Lunch,Dinner",
+  "recipeCuisine": "Asian",
   "recipeId": "RGR12420",
   "recipeIngredient": [
     "2 tbs vegetable oil",
-    "44 g dried cloud ear mushrooms",
+    "44g dried cloud ear mushrooms",
     "2 tbs oyster sauce",
     "2 tbs soy sauce",
     "1 tsp honey",
-    "2 cloves garlic",
+    "2 cloves garlic, minced",
     "2 tsp fresh ginger",
-    "1 red capsicum",
-    "100 g snow peas",
-    "450 g Hokkein Noodle",
-    "350 g char-sui pork"
+    "1 red capsicum, seeded and thinly sliced",
+    "100g snow peas, each cut in half lengthwise",
+    "450g Hokkein Noodle, thick fresh",
+    "350g char-sui pork, thinly sliced"
   ],
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Meanwhile, add the noodles to the boiling water and cook for 1 minute. Add the pork to the wok, pour in the oyster sauce mixture and toss over the heat for 1 minute, until everything is heated. Drain the noodles, mix with the stir-fried pork and vegetables, and serve hot."
+      "HowToTip": {},
+      "text": "Put the mushrooms in a heatproof bowl, cover with boiling water, and set aside for 30 minutes to soak. Drain and cut the mushrooms into thin strips."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Meanwhile, add the noodles to the boiling water and cook for 1 minute. Add the pork to the wok, pour in the oyster sauce mixture and toss over the heat for 1 minute, until everything is heated. Drain the noodles, mix with the stir-fried pork and vegetables, and serve hot."
+      "HowToTip": {},
+      "text": "Bring a large pot of water to a boil over high heat. Mix the oyster sauce, soy sauce, and honey together in a small bowl."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Meanwhile, add the noodles to the boiling water and cook for 1 minute. Add the pork to the wok, pour in the oyster sauce mixture and toss over the heat for 1 minute, until everything is heated. Drain the noodles, mix with the stir-fried pork and vegetables, and serve hot."
+      "HowToTip": {},
+      "text": "Heat the oil in a wok or frying pan over high heat. Add the garlic and ginger and stir-fry for 15 seconds. Add the red capsicum, stir-fry for 3 minutes, then add the snow peas, and stir-fry for 1 minute, until they turn bright green."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
+      "HowToTip": {},
       "text": "Meanwhile, add the noodles to the boiling water and cook for 1 minute. Add the pork to the wok, pour in the oyster sauce mixture and toss over the heat for 1 minute, until everything is heated. Drain the noodles, mix with the stir-fried pork and vegetables, and serve hot."
     }
   ],
   "recipeNameId": "hokkien-noodles-with-pork",
   "recipeYield": "6",
   "sameAs": [
-    "https://woolworths.com.au/shop/find-recipes/singapore-fried-noodles"
+    "https://woolworths.com.au/shop/recipes/hokkien-noodles-with-pork"
   ],
   "totalTime": "PT30M",
-  "updatedAt": "2022-11-24T16:26:08.965Z",
+  "updatedAt": "2022-11-26T12:53:44.437Z",
   "url": "https://www.woolworths.com.au/shop/recipes/hokkien-noodles-with-pork"
 }

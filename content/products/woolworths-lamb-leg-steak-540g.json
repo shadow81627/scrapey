@@ -1,0 +1,52 @@
+{
+  "@type": "Product",
+  "additionalProperty": [],
+  "aggregateRating": {
+    "@context": "http://schema.org",
+    "@type": "AggregateRating",
+    "ratingCount": 1,
+    "ratingValue": 5
+  },
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Woolworths"
+  },
+  "createdAt": "2022-11-26T12:04:55.259Z",
+  "description": "Boneless lamb leg steaks are perfect for a pan-fry or slice thin to stir fry.Cooking hint & tips:PREP: Remove lamb from fridge and rest it to room temperature before cooking.SEASON & SEAR: Lightly oil and season well with salt & pepper. Sear in a hot pan to seal in the juices.Tip: If cooking over a BBQ grill, do not oil your lamb to avoid burning.REST: Rest before serving for a more tender and juicy experience.Level of Doneness:Pan Fry/BBQ:Rare - 2 min on each side and rest for 2 minutesMedium - 3 min each side and rest for 3 minutes (recommended)Well done- 4 minutes on each side, rest for 4 minutes",
+  "gtin13": "9339687082148",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/827609.jpg",
+  "name": "Woolworths Lamb Leg Steak 540G",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 15,
+    "lowPrice": 15,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-26T12:04:55.257Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 15,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/827609/woolworths-lamb-leg-steak"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/827609/woolworths-lamb-leg-steak"
+  ],
+  "sku": "827609",
+  "updatedAt": "2022-11-26T12:04:55.257Z"
+}

@@ -1,58 +1,73 @@
 {
   "@type": "Recipe",
+  "author": {
+    "@type": "Person",
+    "name": "Fresh Ideas"
+  },
+  "cookTime": "PT0M",
   "createdAt": "2022-11-22T12:23:57.000Z",
-  "datePublished": "2021-03-10",
+  "datePublished": "2022-09-26",
   "description": "Try our easy to follow Prawn & Noodle Cups recipe. Absolutely delicious with the best ingredients from Woolworths.",
   "image": {
     "@type": "ImageObject",
     "height": 1300,
-    "mime": "image/png",
-    "url": "https://foodhub.scene7.com/is/image/woolworthsltdprod/1312_sanchoybauprawnnoodlecups?wid=1300&hei=1300&fmt=png-alpha",
+    "mime": "image/jpeg",
+    "url": "https://foodhub.scene7.com/is/image/woolworthsltdprod/1312_sanchoybauprawnnoodlecups:Square-1300x1300",
     "width": 1300
   },
-  "keywords": "Prawn & Noodle Cups",
+  "keywords": "Cold canapés,Pescatarian,Christmas,Prawn,Tree nut free,Egg free,Low fat,Sesame free,Dairy free,Peanut free",
   "name": "Prawn & Noodle Cups Recipe | Woolworths",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "153 calories",
+    "carbohydrateContent": "24.9 g",
+    "fatContent": "2.5 g",
+    "fiberContent": "1.7 g",
+    "proteinContent": "6.7 g",
+    "sodiumContent": "1180 millig",
+    "sugarContent": "8.0 g"
+  },
   "prepTime": "PT10M",
-  "recipeCategory": "appetisers",
-  "recipeCuisine": "asian",
+  "recipeCategory": "Appetisers",
+  "recipeCuisine": "Asian",
   "recipeId": "1753",
   "recipeIngredient": [
-    "100 g thin rice noodles",
-    "1 carrot",
-    "1 Lebanese cucumber",
-    "1 spring onion",
+    "100g thin rice noodles",
+    "1 carrot, coarsely grated",
+    "1 Lebanese cucumber, coarsely grated",
+    "1 spring onion, chopped",
     "2 tbs sweet chilli sauce",
-    "4 lettuce",
-    "125 g prawns"
+    "4 lettuce (4 leaves)",
+    "125g prawns, cooked, peeled"
   ],
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Add cooked, peeled prawns and spring onion. Serve on a platter."
+      "HowToTip": {},
+      "text": "Soak rice noodles in boiling water for 5 minutes until softened."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Add cooked, peeled prawns and spring onion. Serve on a platter."
+      "HowToTip": {},
+      "text": "Drain well and combine with sweet chilli sauce, 1 coarsely grated carrot and 1 coarsely grated lebanese cucumber."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Add cooked, peeled prawns and spring onion. Serve on a platter."
+      "HowToTip": {},
+      "text": "Divide noodle mixture between leaves of 4 sweet crunch lettuce leaves."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
+      "HowToTip": {},
       "text": "Add cooked, peeled prawns and spring onion. Serve on a platter."
     }
   ],
   "recipeNameId": "prawn-and-noodle-cups",
   "recipeYield": "4",
   "sameAs": [
-    "https://woolworths.com.au/shop/find-recipes/prawn-rice-noodles"
+    "https://woolworths.com.au/shop/recipes/prawn-and-noodle-cups"
   ],
   "totalTime": "PT10M",
-  "updatedAt": "2022-11-22T05:10:33.964Z",
+  "updatedAt": "2022-11-26T11:50:45.824Z",
   "url": "https://www.woolworths.com.au/shop/recipes/prawn-and-noodle-cups"
 }

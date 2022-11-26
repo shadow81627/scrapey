@@ -1,0 +1,60 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "485",
+      "carbohydrateContent": "12.8g",
+      "dietary_fibre": "0.0",
+      "fatContent": "3.3",
+      "name": "nutrition",
+      "proteinContent": "8.5",
+      "saturatedFatContent": "2.3",
+      "servingSize": "100 g",
+      "sodiumContent": "100",
+      "sugarContent": "12.5"
+    }
+  ],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Pauls"
+  },
+  "createdAt": "2022-11-26T11:03:15.214Z",
+  "description": "Pauls Zymil Low Fat Milk is 100% Australian milk, lactose free dairy milk that is easy to digest.At Pauls, we love dairy. We're pretty passionate about making great tasting products packed with real dairy goodness. We put that devotion into every Pauls milk, cream, custard and yoghurt we make. Milk is a natural source of protein, vitamins and minerals essential for good health. Rich in calcium, Pauls Zymil is simply milk which is easy to digest (As part of a healthy and varied diet, consuming Zymil instead of regular milk helps ease digestion in those who are sensitive to lactose). Plus Pauls Zymil is lactose free and made from real milk so it has all of the natural goodness of regular milk. Lactose free, easy to digest and rich in calcium.Low fat milkLactose freeGluten free",
+  "gtin13": "9310036018377",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/146547.jpg",
+  "name": "Pauls Zymil Lactose Free Long Life Milk 1L",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2.75,
+    "lowPrice": 2.75,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-26T11:03:15.212Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 2.75,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/146547/pauls-zymil-lactose-free-long-life-milk"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/146547/pauls-zymil-lactose-free-long-life-milk"
+  ],
+  "sku": "146547",
+  "updatedAt": "2022-11-26T11:03:15.212Z"
+}

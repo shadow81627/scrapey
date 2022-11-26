@@ -1,65 +1,75 @@
 {
   "@type": "Recipe",
+  "author": {
+    "@type": "Person",
+    "name": "Produced for Woolworths"
+  },
   "cookTime": "PT20M",
   "createdAt": "2022-11-24T12:25:40.000Z",
-  "datePublished": "2022-09-12",
+  "datePublished": "2022-09-26",
   "description": "A simple and fast noodle dish with spicy eggs.",
-  "image": "https://foodhub.scene7.com/is/image/woolworthsltdprod/spicy-egg-fried-noodles?wid=3896&hei=3896&fmt=png-alpha",
-  "keywords": "Spicy Egg Fried Noodles",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1300,
+    "mime": "image/jpeg",
+    "url": "https://foodhub.scene7.com/is/image/woolworthsltdprod/spicy-egg-fried-noodles:Square-1300x1300",
+    "width": 1300
+  },
+  "keywords": "Noodle stir-fry,Egg",
   "name": "Spicy Egg Fried Noodles Recipe | Woolworths",
   "prepTime": "PT10M",
-  "recipeCategory": "mains",
-  "recipeCuisine": "asian",
+  "recipeCategory": "Lunch,Dinner",
+  "recipeCuisine": "Chinese",
   "recipeId": "RGWW338126",
   "recipeIngredient": [
     "4 eggs",
-    "400 g noodles",
+    "400g noodles, cooked as per packet instructions",
     "2 tbs sesame oil",
-    "3 cloves garlic",
-    "1 medium white onion",
-    "2 medium chillies",
+    "3 cloves garlic, peeled and mashed",
+    "1 medium white onion, peeled and finely diced",
+    "2 medium chillies, de-seeded and sliced",
     "4 tbs soy sauce",
     "1 tsp chilli flakes",
-    "1 tsp scallions"
+    "1 tsp scallions, chopped"
   ],
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Wipe pan clean adding a touch more sesame oil then crisp-fry the eggs and put on top of each dish."
+      "HowToTip": {},
+      "text": "Heat up a large non-stick pan to a medium heat and then add the sesame oil."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Wipe pan clean adding a touch more sesame oil then crisp-fry the eggs and put on top of each dish."
+      "HowToTip": {},
+      "text": "Add the onion and garlic to the pan and fry for 4 minutes."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Wipe pan clean adding a touch more sesame oil then crisp-fry the eggs and put on top of each dish."
+      "HowToTip": {},
+      "text": "Add the rest of the ingredients to the pan and combine fully."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Wipe pan clean adding a touch more sesame oil then crisp-fry the eggs and put on top of each dish."
+      "HowToTip": {},
+      "text": "Cook the noodles as per packet instructions and then drain and add to the pan."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Wipe pan clean adding a touch more sesame oil then crisp-fry the eggs and put on top of each dish."
+      "HowToTip": {},
+      "text": "Fry and combine all ingredients while tossing for 3 minutes before plating."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
+      "HowToTip": {},
       "text": "Wipe pan clean adding a touch more sesame oil then crisp-fry the eggs and put on top of each dish."
     }
   ],
   "recipeNameId": "spicy-egg-fried-noodles",
   "recipeYield": "4",
   "sameAs": [
-    "https://woolworths.com.au/shop/find-recipes/chinese-fried-noodles"
+    "https://woolworths.com.au/shop/recipes/spicy-egg-fried-noodles"
   ],
   "totalTime": "PT30M",
-  "updatedAt": "2022-11-24T13:03:06.623Z",
+  "updatedAt": "2022-11-26T12:53:00.384Z",
   "url": "https://www.woolworths.com.au/shop/recipes/spicy-egg-fried-noodles"
 }

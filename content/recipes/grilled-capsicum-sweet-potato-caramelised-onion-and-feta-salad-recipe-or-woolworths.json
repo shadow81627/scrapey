@@ -1,57 +1,72 @@
 {
   "@type": "Recipe",
+  "author": {
+    "@type": "Person",
+    "name": "Fresh Ideas"
+  },
   "cookTime": "PT35M",
   "createdAt": "2022-11-22T22:53:07.000Z",
-  "datePublished": "2021-03-10",
+  "datePublished": "2022-09-26",
   "description": "Try our easy to follow Grilled Capsicum, Sweet Potato, Caramelised Onion & Feta Salad recipe. Absolutely delicious with the best ingredients from Woolworths.",
   "image": {
     "@type": "ImageObject",
     "height": 1300,
-    "mime": "image/png",
-    "url": "https://foodhub.scene7.com/is/image/woolworthsltdprod/1803-grilled-capsicum-sweet-potato-caramelised-onion-and-feta-salad?wid=1300&hei=1300&fmt=png-alpha",
+    "mime": "image/jpeg",
+    "url": "https://foodhub.scene7.com/is/image/woolworthsltdprod/1803-grilled-capsicum-sweet-potato-caramelised-onion-and-feta-salad:Square-1300x1300",
     "width": 1300
   },
-  "keywords": "Grilled Capsicum, Sweet Potato, Caramelised Onion & Feta Salad",
+  "keywords": "Salad,High fibre,Low salt,Sweet potato,Tomato,Spinach",
   "name": "Grilled Capsicum, Sweet Potato, Caramelised Onion & Feta Salad Recipe | Woolworths",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "315 calories",
+    "carbohydrateContent": "22.5 g",
+    "fatContent": "19.3 g",
+    "fiberContent": "7.1 g",
+    "proteinContent": "9.8 g",
+    "saturatedFatContent": "6.4 g",
+    "sodiumContent": "335 millig",
+    "sugarContent": "19.2 g"
+  },
   "prepTime": "PT15M",
-  "recipeCategory": "salads",
-  "recipeCuisine": "european",
+  "recipeCategory": "Salads",
+  "recipeCuisine": "Greek",
   "recipeId": "7374",
   "recipeIngredient": [
-    "120 g marinated persian feta",
-    "1 green capsicum",
-    "1 red capsicum",
-    "4 large brown onions",
-    "1 small sweet potato",
-    "100 g spinach and rocket mix",
+    "120g marinated persian feta, drained, crumbled",
+    "1 green capsicum, quartered, deseeded",
+    "1 red capsicum, quartered, deseeded",
+    "4 large brown onions, thinly sliced",
+    "1 small sweet potato, peeled, thinly sliced lengthwise",
+    "100g spinach and rocket mix",
     "1.5 tbs balsamic vinegar",
     "3 tbs olive oil",
     "1.5 tbs brown sugar",
-    "1 punnet solanato tomatoes"
+    "1 punnet solanato tomatoes, halved"
   ],
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Arrange spinach and rocket mix, chargrilled vegetables and tomatoes on a serving platter. Add the feta and half of the caramelised onion (see tip). Season and serve."
+      "HowToTip": {},
+      "text": "Heat 2 tbs of the oil in a frying pan over medium heat. Add onion and cook covered, stirring occasionally for 20 minutes until soft and translucent. Remove lid, stir in sugar and balsamic, increase heat to medium-high and cook a further 15 minutes, stirring often, until soft and caramel in colour."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Arrange spinach and rocket mix, chargrilled vegetables and tomatoes on a serving platter. Add the feta and half of the caramelised onion (see tip). Season and serve."
+      "HowToTip": {},
+      "text": "Meanwhile, toss capsicum and sweet potato in remaining olive oil and season with salt and cracked black pepper. Heat a chargrill over medium heat and cook vegetables, in batches, for 2 minutes each side or until charred and tender. Cut into smaller pieces."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
+      "HowToTip": {},
       "text": "Arrange spinach and rocket mix, chargrilled vegetables and tomatoes on a serving platter. Add the feta and half of the caramelised onion (see tip). Season and serve."
     }
   ],
   "recipeNameId": "grilled-capsicum-sweet-potato-caramelised-onion-and-feta-salad",
   "recipeYield": "4",
   "sameAs": [
-    "https://woolworths.com.au/shop/find-recipes/grilled-sweet-potato"
+    "https://woolworths.com.au/shop/recipes/grilled-capsicum-sweet-potato-caramelised-onion-and-feta-salad"
   ],
   "totalTime": "PT50M",
-  "updatedAt": "2022-11-22T14:27:57.845Z",
+  "updatedAt": "2022-11-26T14:07:40.932Z",
   "url": "https://www.woolworths.com.au/shop/recipes/grilled-capsicum-sweet-potato-caramelised-onion-and-feta-salad"
 }

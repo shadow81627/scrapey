@@ -1,57 +1,69 @@
 {
   "@type": "Recipe",
+  "author": {
+    "@type": "Person",
+    "name": "Fresh Ideas"
+  },
   "cookTime": "PT10M",
   "createdAt": "2022-11-22T12:23:57.000Z",
-  "datePublished": "2021-03-10",
+  "datePublished": "2022-08-03",
   "description": "Try our easy to follow Cheesy Hot Dogs recipe. Absolutely delicious with the best ingredients from Woolworths.",
   "image": {
     "@type": "ImageObject",
     "height": 1300,
-    "mime": "image/png",
-    "url": "https://foodhub.scene7.com/is/image/woolworthsltdprod/1601-cheesyhotdogs?wid=1300&hei=1300&fmt=png-alpha",
+    "mime": "image/jpeg",
+    "url": "https://foodhub.scene7.com/is/image/woolworthsltdprod/1601-cheesyhotdogs:Square-1300x1300",
     "width": 1300
   },
-  "keywords": "Cheesy Hot Dogs",
+  "keywords": "Hot dog,Quick & easy lunch,High protein",
   "name": "Cheesy Hot Dogs Recipe | Woolworths",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "1000 calories",
+    "carbohydrateContent": "82.8 g",
+    "fatContent": "29.5 g",
+    "proteinContent": "30.5 g",
+    "transFatContent": "0.6 g"
+  },
   "prepTime": "PT10M",
-  "recipeCategory": "mains",
-  "recipeCuisine": "north-american",
+  "recipeCategory": "Mains",
+  "recipeCuisine": "North American",
   "recipeId": "4234",
   "recipeIngredient": [
     "2 tbs tomato sauce",
-    "8 extrasoft jumbo hot dog rolls",
+    "8 extra-soft jumbo hot dog rolls, split",
     "0.5 cup bread and butter cucumbers",
-    "750 ml Wine option: Cat Amongst the Pigeons Shiraz",
-    "60 g baby rocket",
-    "100 g potato crisps",
+    "750ml Wine option: Cat Amongst the Pigeons Shiraz",
+    "60g baby rocket",
+    "100g potato crisps",
     "8 frankfurts",
-    "0.66 cup tasty cheese",
+    "0.66 cup tasty cheese, shredded",
     "2 tbs mild American mustard",
-    "750 ml Wine option: South Island Marlborough Sauvignon Blanc"
+    "750ml Wine option: South Island Marlborough Sauvignon Blanc"
   ],
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Place hot dog rolls on a serving tray and fill each with a frankfurt and pickles. Drizzle with tomato sauce and mustard. Sprinkle over cheese and top with rocket. Serve with potato crisps."
+      "HowToTip": {},
+      "text": "Preheat oven to 180°C. Place the hot dog rolls on an ovenproof tray and heat for 10 minutes or until heated through."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Place hot dog rolls on a serving tray and fill each with a frankfurt and pickles. Drizzle with tomato sauce and mustard. Sprinkle over cheese and top with rocket. Serve with potato crisps."
+      "HowToTip": {},
+      "text": "Meanwhile, cook frankfurts in boiling water for 5 minutes or until heated through."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
+      "HowToTip": {},
       "text": "Place hot dog rolls on a serving tray and fill each with a frankfurt and pickles. Drizzle with tomato sauce and mustard. Sprinkle over cheese and top with rocket. Serve with potato crisps."
     }
   ],
   "recipeNameId": "cheesy-hot-dogs",
   "recipeYield": "4",
   "sameAs": [
-    "https://woolworths.com.au/shop/find-recipes/american-hot-dog"
+    "https://woolworths.com.au/shop/recipes/cheesy-hot-dogs"
   ],
   "totalTime": "PT20M",
-  "updatedAt": "2022-11-22T09:18:19.311Z",
+  "updatedAt": "2022-11-26T17:37:48.777Z",
   "url": "https://www.woolworths.com.au/shop/recipes/cheesy-hot-dogs"
 }

@@ -1,0 +1,60 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "Approx.269kJ",
+      "carbohydrateContent": "Approx.6.7g",
+      "dietary_fibre": "Approx.1.5g",
+      "fatContent": "Approx.3.2g",
+      "name": "nutrition",
+      "proteinContent": "Approx.1.4g",
+      "saturatedFatContent": "<1g",
+      "servingSize": "100 g",
+      "sodiumContent": "Approx.47mg",
+      "sugarContent": "<1g"
+    }
+  ],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Cobs"
+  },
+  "createdAt": "2022-11-26T11:37:58.028Z",
+  "description": "Our Sea Salt Popcorn proves that the simple things in life are the most satisfying. We pop quality corn kernels to perfection in the goodness of high oleic sunflower oil. Creating fluffy & crunchy popcorn, to which we add a sprinkle of sea salt.",
+  "gtin13": "9334714000645",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/820459.jpg",
+  "name": "Cobs Natural Popcorn Sea Salt Multipack 5 Pack",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3.5,
+    "lowPrice": 3.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-26T11:37:58.027Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 3.5,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/820459/cobs-natural-popcorn-sea-salt-multipack"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/820459/cobs-natural-popcorn-sea-salt-multipack"
+  ],
+  "sku": "820459",
+  "updatedAt": "2022-11-26T11:37:58.027Z"
+}

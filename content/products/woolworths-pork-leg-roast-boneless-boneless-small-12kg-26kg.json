@@ -1,0 +1,66 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "-",
+      "carbohydrateContent": "-",
+      "dietary_fibre": "-",
+      "fatContent": "-",
+      "name": "nutrition",
+      "proteinContent": "-",
+      "saturatedFatContent": "-",
+      "servingSize": "100 g",
+      "sodiumContent": "-",
+      "sugarContent": "-"
+    }
+  ],
+  "aggregateRating": {
+    "@context": "http://schema.org",
+    "@type": "AggregateRating",
+    "ratingCount": 45,
+    "ratingValue": 5
+  },
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Woolworths"
+  },
+  "createdAt": "2022-11-26T12:05:38.013Z",
+  "description": "Cut from the hindquarter leg portion, this tender and juicy rolled pork leg has a lean texture and flavourful bite.Tips:PREP: Dry out the skin as much as possible and ensure your oven is at a high temperature to achieve the best crackling. Remove pork from fridge and rest it to room temperature before cooking.Roast Instructions1. Dry pork skin with a paper tower, return to the fridge uncovered for at least 1 hrs before cooking or overnight or possible.2. 1 hour before cooking, remove pork from fridge and rest at room temperature. Preheat oven to 260C (240C fan forced).3. Season pork with 2 tbsp veg oil and 1 tbsp salt. Place the pork in a roasting pan fitted with a roasting rack and roast in the oven for up to 50 minutes or until skin has become golden and crackled.4. Reduce to 200C (180C fan forced) and cook for 35 minutes per kg or until cooked. Remove and rest for 10 minutes before carving.",
+  "gtin13": "9339687141722",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/764527.jpg",
+  "name": "Woolworths Pork Leg Roast Boneless Boneless Small 1.2kg - 2.6kg",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 28.6,
+    "lowPrice": 28.6,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-26T12:05:38.012Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 28.6,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/764527/woolworths-pork-leg-roast-boneless-boneless-small"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/764527/woolworths-pork-leg-roast-boneless-boneless-small"
+  ],
+  "sku": "764527",
+  "updatedAt": "2022-11-26T12:05:38.012Z"
+}

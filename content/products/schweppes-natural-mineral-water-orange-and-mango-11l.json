@@ -1,0 +1,60 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "175kJ",
+      "carbohydrateContent": "9.5g",
+      "dietary_fibre": "-",
+      "fatContent": "0g",
+      "name": "nutrition",
+      "proteinContent": "0g",
+      "saturatedFatContent": "0g",
+      "servingSize": "100 g",
+      "sodiumContent": "30mg",
+      "sugarContent": "9.3g"
+    }
+  ],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Schweppes"
+  },
+  "createdAt": "2022-11-26T11:32:08.834Z",
+  "description": "Delightfully fruity, Schweppes Natural Mineral Water Orange & Mango makes the perfect summer drink. It's perfect chilled or added to a bright cocktail mix.Schweppes Orange & Mango with Natural Mineral Water 1.1L is a perfectly balanced mix of flavours with 5% orange and mango juice. It delivers a refreshing fruity taste and is made with mineral water sourced from some of Australia's finest springs. Serve over ice with a slice of orange.With mineral water from some of Australia’s finest springsA blend of real orange and mango juiceDelightfully fruity tasteWith 5% juiceServe chilled",
+  "gtin13": "9315596006390",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/634284.jpg",
+  "name": "Schweppes Natural Mineral Water Orange & Mango 1.1L",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2,
+    "lowPrice": 2,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-26T11:32:08.833Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 2,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/634284/schweppes-natural-mineral-water-orange-mango"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/634284/schweppes-natural-mineral-water-orange-mango"
+  ],
+  "sku": "634284",
+  "updatedAt": "2022-11-26T11:32:08.833Z"
+}

@@ -1,51 +1,61 @@
 {
   "@type": "Recipe",
+  "author": {
+    "@type": "Person",
+    "name": "Produced for Woolworths"
+  },
   "cookTime": "PT10M",
   "createdAt": "2022-11-22T12:23:57.000Z",
-  "datePublished": "2022-09-13",
+  "datePublished": "2022-09-26",
   "description": "This refreshing prawn laksa is just as good as takeaway and can be on the table even quicker.",
-  "image": "https://foodhub.scene7.com/is/image/woolworthsltdprod/spicy-prawn-laksa?wid=3940&hei=3940&fmt=png-alpha",
-  "keywords": "Spicy Prawn Laksa",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1300,
+    "mime": "image/jpeg",
+    "url": "https://foodhub.scene7.com/is/image/woolworthsltdprod/spicy-prawn-laksa:Square-1300x1300",
+    "width": 1300
+  },
+  "keywords": "Noodle soup,Prawn,Plant-based",
   "name": "Spicy Prawn Laksa Recipe | Woolworths",
   "prepTime": "PT10M",
-  "recipeCategory": "mains",
-  "recipeCuisine": "asian",
+  "recipeCategory": "Lunch,Dinner",
+  "recipeCuisine": "Thai",
   "recipeId": "RGWW338752",
   "recipeIngredient": [
-    "3.2 cup coconut milk",
-    "250 g vegetable stir fry mix",
+    "3.2 cup coconut milk, reduced fat",
+    "250g vegetable stir fry mix",
     "3 tbs Thai red curry paste",
     "2 tbs fish sauce",
-    "2 large limes",
-    "0.5 bunch coriander",
-    "200 g rice noodles",
-    "1 red chilli",
+    "2 large limes, juice and zest",
+    "0.5 bunch coriander, fresh, chopped",
+    "200g rice noodles",
+    "1 red chilli, slice",
     "1 tbs canola oil",
-    "400 g king prawns"
+    "400g king prawns, cooked, peeled, deveined"
   ],
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Stir in the prawns, sliced chilli, coriander stalks and rice noodles and simmer for 3 minutes. Serve with lime wedges and fresh coriander on top."
+      "HowToTip": {},
+      "text": "Cook the rice noodles according to pack instructions, drain and set aside."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Stir in the prawns, sliced chilli, coriander stalks and rice noodles and simmer for 3 minutes. Serve with lime wedges and fresh coriander on top."
+      "HowToTip": {},
+      "text": "Heat the oil in a large, deep pan and fry the vegetables for 2 minutes, stir in the curry paste and cook for 1 minute. Stir in the coconut milk and fish sauce and the zest and juice of 1 lime and bring to a simmer."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
+      "HowToTip": {},
       "text": "Stir in the prawns, sliced chilli, coriander stalks and rice noodles and simmer for 3 minutes. Serve with lime wedges and fresh coriander on top."
     }
   ],
   "recipeNameId": "spicy-prawn-laksa",
   "recipeYield": "4",
   "sameAs": [
-    "https://woolworths.com.au/shop/find-recipes/spicy-prawn-recipe"
+    "https://woolworths.com.au/shop/recipes/spicy-prawn-laksa"
   ],
   "totalTime": "PT20M",
-  "updatedAt": "2022-11-22T08:47:52.019Z",
+  "updatedAt": "2022-11-26T11:52:10.604Z",
   "url": "https://www.woolworths.com.au/shop/recipes/spicy-prawn-laksa"
 }

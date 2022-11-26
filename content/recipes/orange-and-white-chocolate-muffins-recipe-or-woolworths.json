@@ -1,15 +1,25 @@
 {
   "@type": "Recipe",
+  "author": {
+    "@type": "Person",
+    "name": "Customer - dolce14"
+  },
   "cookTime": "PT25M",
   "createdAt": "2022-11-24T22:03:11.000Z",
-  "datePublished": "2022-07-05",
-  "description": "Delicious muffins! You won't stop at one.",
-  "image": "https://foodhub.scene7.com/is/image/woolworthsltdprod/iektqnjj91grigoxsokj?wid=3024&hei=3024&fmt=png-alpha",
-  "keywords": "Orange & White Chocolate Muffins",
+  "datePublished": "2022-08-03",
+  "description": "Delicious muffins! You won’t stop at one.",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1300,
+    "mime": "image/jpeg",
+    "url": "https://foodhub.scene7.com/is/image/woolworthsltdprod/iektqnjj91grigoxsokj:Square-1300x1300",
+    "width": 1300
+  },
+  "keywords": "Muffins,Orange,Seafood free,Sesame free",
   "name": "Orange & White Chocolate Muffins Recipe | Woolworths",
   "prepTime": "PT10M",
-  "recipeCategory": "desserts",
-  "recipeCuisine": "australian",
+  "recipeCategory": "Desserts",
+  "recipeCuisine": "Australian",
   "recipeId": "a0K2y0000012fCWEAY",
   "recipeIngredient": [
     "1.75 cups wholemeal self raising flour",
@@ -19,60 +29,68 @@
     "0.5 cup white chocolate bits",
     "2 eggs",
     "1 cup natural plain yoghurt",
-    "70 g butter",
+    "70g butter, melted",
     "1 orange",
-    "0.5 cup apricot jam",
+    "0.5 cup apricot jam (split in two bowls)",
     "1 tbs water",
     "0.25 cup flaked almonds"
   ],
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "When the muffins have cooled for 5 mins, top with some jam mix and sprinkle with flaked almonds. If the muffins are too hot the jam will simply slip off. Enjoy warm or cold - they are divine!"
+      "HowToTip": {},
+      "image": "https://foodhub.scene7.com/is/image/woolworthsltdprod/tkowgnwe4cbdn2ldnoxy?$foodhub-method-images$&fmt=png-alpha",
+      "text": "Sift the flour, baking powder, sugar and salt."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "When the muffins have cooled for 5 mins, top with some jam mix and sprinkle with flaked almonds. If the muffins are too hot the jam will simply slip off. Enjoy warm or cold - they are divine!"
+      "HowToTip": {},
+      "image": "https://foodhub.scene7.com/is/image/woolworthsltdprod/urjks3u9ocgy9es9tljw?$foodhub-method-images$&fmt=png-alpha",
+      "text": "Zest the whole orange, then cut in half and squeeze out the juice."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "When the muffins have cooled for 5 mins, top with some jam mix and sprinkle with flaked almonds. If the muffins are too hot the jam will simply slip off. Enjoy warm or cold - they are divine!"
+      "HowToTip": {},
+      "image": "https://foodhub.scene7.com/is/image/woolworthsltdprod/dtx7lv5sdkvfazj8e39q?$foodhub-method-images$&fmt=png-alpha",
+      "text": "Beat the eggs with a fork, add the yoghurt and mix through. Add the orange zest and juice and stir through. Then finally add the butter to this wet mix and stir through."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "When the muffins have cooled for 5 mins, top with some jam mix and sprinkle with flaked almonds. If the muffins are too hot the jam will simply slip off. Enjoy warm or cold - they are divine!"
+      "HowToTip": {},
+      "image": "https://foodhub.scene7.com/is/image/woolworthsltdprod/d3gbtwblxfghgprjbgre?$foodhub-method-images$&fmt=png-alpha",
+      "text": "Add the chocolate chips and set aside."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "When the muffins have cooled for 5 mins, top with some jam mix and sprinkle with flaked almonds. If the muffins are too hot the jam will simply slip off. Enjoy warm or cold - they are divine!"
+      "HowToTip": {},
+      "image": "https://foodhub.scene7.com/is/image/woolworthsltdprod/awgwmspipzsd7lq7kowh?$foodhub-method-images$&fmt=png-alpha",
+      "text": "Add the flour mix to the wet mix and stir only enough to combine. Portion into greased muffin tin. I made 10 fat ones but you can do 12 smaller if desired. Take one half of the jam mix and add 1/2 teaspoon of jam to the centre of each. Swirl with a skewer so none is visible from the top. It will burn when cooking!"
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "When the muffins have cooled for 5 mins, top with some jam mix and sprinkle with flaked almonds. If the muffins are too hot the jam will simply slip off. Enjoy warm or cold - they are divine!"
+      "HowToTip": {},
+      "image": "https://foodhub.scene7.com/is/image/woolworthsltdprod/saxmjjv2uypsuipa55ex?$foodhub-method-images$&fmt=png-alpha",
+      "text": "Cook at 190 degrees in fan forced oven for 25 mins until golden."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "When the muffins have cooled for 5 mins, top with some jam mix and sprinkle with flaked almonds. If the muffins are too hot the jam will simply slip off. Enjoy warm or cold - they are divine!"
+      "HowToTip": {},
+      "image": "https://foodhub.scene7.com/is/image/woolworthsltdprod/qak4ewjcohb5ofmc9aez?$foodhub-method-images$&fmt=png-alpha",
+      "text": "While the muffins are cooking, make the topping by mixing the remaining jam with the water."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
+      "HowToTip": {},
+      "image": "https://foodhub.scene7.com/is/image/woolworthsltdprod/zf7sx5gbbmk0gtllalbh?$foodhub-method-images$&fmt=png-alpha",
       "text": "When the muffins have cooled for 5 mins, top with some jam mix and sprinkle with flaked almonds. If the muffins are too hot the jam will simply slip off. Enjoy warm or cold - they are divine!"
     }
   ],
   "recipeNameId": "orange-and-white-chocolate-muffins",
   "recipeYield": "10",
   "sameAs": [
-    "https://woolworths.com.au/shop/find-recipes/orange-jam-recipe"
+    "https://woolworths.com.au/shop/recipes/orange-and-white-chocolate-muffins"
   ],
   "totalTime": "PT35M",
-  "updatedAt": "2022-11-24T17:27:42.319Z",
+  "updatedAt": "2022-11-26T10:58:55.152Z",
   "url": "https://www.woolworths.com.au/shop/recipes/orange-and-white-chocolate-muffins"
 }
