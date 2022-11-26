@@ -204,14 +204,7 @@ export async function processLinkData({
           strict: true,
         });
         const folder = `content/people`;
-        const personPath = `${folder}/${personSlug}.json`;
-        const oldPerson = fs.existsSync(personPath)
-          ? JSON.parse(
-            await readFile(personPath, {
-              encoding: 'utf8',
-            }),
-          )
-          : {};
+        const oldPerson = (await ContentService.load({ folder, slug: personSlug })) ?? {};
         const author = { ...oldPerson, ...linkData.author };
         const sameAs = _.uniq([
           ...(author.sameAs || []),
