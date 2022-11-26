@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "McGuigan"
+  },
+  "createdAt": "2022-11-26T04:49:51.084Z",
+  "description": "Elegant and refreshing, featuring crisp pear and green apple flavours, lively bubbles and an attractive crisp finish. Perfect when celebratingany occasion or enjoy as an aperitif.Country Of Origin: Australia",
+  "gtin13": "9310415017908",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/088122.jpg",
+  "name": "Mcguigan Alcohol Free Sparkling 750ml",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 10,
+    "lowPrice": 10,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-26T04:49:51.083Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 10,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/88122/mcguigan-alcohol-free-sparkling"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/88122/mcguigan-alcohol-free-sparkling"
+  ],
+  "sku": "88122",
+  "updatedAt": "2022-11-26T04:49:51.083Z"
+}

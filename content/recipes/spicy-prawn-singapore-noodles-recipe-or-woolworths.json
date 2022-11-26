@@ -1,64 +1,74 @@
 {
   "@type": "Recipe",
+  "author": {
+    "@type": "Person",
+    "name": "Licensed by Woolworths - ©️ Octopus Publishing Ltd"
+  },
   "cookTime": "PT15M",
   "createdAt": "2022-11-24T22:03:11.000Z",
-  "datePublished": "2022-09-06",
+  "datePublished": "2022-10-19",
   "description": "Try our easy to follow Spicy Prawn Singapore Noodles recipe. Absolutely delicious with the best ingredients from Woolworths.",
-  "image": "https://foodhub.scene7.com/is/image/woolworthsltdprod/215-singapore-noodles?wid=4080&hei=5436&fmt=png-alpha",
-  "keywords": "Spicy Prawn Singapore Noodles",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1300,
+    "mime": "image/jpeg",
+    "url": "https://foodhub.scene7.com/is/image/woolworthsltdprod/215-singapore-noodles:Square-1300x1300",
+    "width": 1300
+  },
+  "keywords": "Singapore noodles",
   "name": "Spicy Prawn Singapore Noodles Recipe | Woolworths",
   "prepTime": "PT20M",
-  "recipeCategory": "mains",
-  "recipeCuisine": "asian",
+  "recipeCategory": "Mains",
+  "recipeCuisine": "Chinese",
   "recipeId": "RGR3439",
   "recipeIngredient": [
-    "5 ml low-calorie cooking spray",
-    "1 tbs curry powder",
-    "6 scallions",
-    "250 g rice noodles",
+    "5ml low-calorie cooking spray",
+    "1 tbs curry powder, medium or hot",
+    "6 scallions, thinly sliced diagonally",
+    "250g rice noodles, cooked according to the package directions and drained well",
     "2 tbs water",
     "6 tbs dark soy sauce",
     "3 tbs sweet chilli sauce",
-    "2 red chiles",
+    "2 red chiles, seeded and thinly sliced (to garnish)",
     "1 pinch salt",
     "1 pinch black pepper",
-    "500 g large prawns",
-    "125 g bacon",
-    "3 cloves garlic",
+    "500g large prawns, peeled and deveined",
+    "125g bacon, lean rindless, cut into small pieces",
+    "3 cloves garlic, crushed",
     "1 tsp fresh ginger root",
-    "1 onion",
-    "1 carrot",
-    "200 g sugar snap peas",
-    "50 g beansprouts"
+    "1 onion, thinly sliced",
+    "1 carrot, cut into matchsticks",
+    "200g sugar snap peas",
+    "50g beansprouts"
   ],
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Divide the noodle mixture among 4 warm, shallow bowls, sprinkle with the chiles, and serve with lime wedges."
+      "HowToTip": {},
+      "text": "Spray a large, nonstick wok or skillet with cooking spray and heat over high heat. Add the shrimp and bacon and stir-fry for 4-5 minutes, until the shrimp turn pink and the bacon is golden. Remove and keep warm."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Divide the noodle mixture among 4 warm, shallow bowls, sprinkle with the chiles, and serve with lime wedges."
+      "HowToTip": {},
+      "text": "Wipe out the pan with paper towels. Respray with cooking spray and heat over high heat. Add the garlic and ginger and stir-fry for 30 seconds. Add the onion, carrot, sugar snap peas, and bean sprouts and stir-fry for 2-3 minutes, until soft, then add the curry powder and scallions and cook, stirring, for 1 minute."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Divide the noodle mixture among 4 warm, shallow bowls, sprinkle with the chiles, and serve with lime wedges."
+      "HowToTip": {},
+      "text": "Add the prepared noodles with the measured water and toss everything together. Stir in the soy sauce and sweet chili sauce, season with salt and black pepper, and stir-fry for another minute. Return the shrimp and bacon to the pan with their juices and toss through the mixture."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
+      "HowToTip": {},
       "text": "Divide the noodle mixture among 4 warm, shallow bowls, sprinkle with the chiles, and serve with lime wedges."
     }
   ],
   "recipeNameId": "spicy-prawn-singapore-noodles",
   "recipeYield": "4",
   "sameAs": [
-    "https://woolworths.com.au/shop/find-recipes/singapore-noodles"
+    "https://woolworths.com.au/shop/recipes/spicy-prawn-singapore-noodles"
   ],
   "totalTime": "PT35M",
-  "updatedAt": "2022-11-24T16:26:01.874Z",
+  "updatedAt": "2022-11-26T06:03:43.594Z",
   "url": "https://www.woolworths.com.au/shop/recipes/spicy-prawn-singapore-noodles"
 }

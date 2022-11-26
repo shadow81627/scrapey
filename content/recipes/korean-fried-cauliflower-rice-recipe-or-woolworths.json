@@ -1,60 +1,70 @@
 {
   "@type": "Recipe",
+  "author": {
+    "@type": "Person",
+    "name": "Produced for Woolworths"
+  },
   "cookTime": "PT15M",
   "createdAt": "2022-11-24T22:03:11.000Z",
-  "datePublished": "2022-08-08",
+  "datePublished": "2022-09-26",
   "description": "Korean fried rice gets a makeover with cauliflower without sacrificing any flavour.",
-  "image": "https://foodhub.scene7.com/is/image/woolworthsltdprod/korean-fried-cauliflower-rice?wid=3314&hei=3314&fmt=png-alpha",
-  "keywords": "Korean Fried Cauliflower Rice",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1300,
+    "mime": "image/jpeg",
+    "url": "https://foodhub.scene7.com/is/image/woolworthsltdprod/korean-fried-cauliflower-rice:Square-1300x1300",
+    "width": 1300
+  },
+  "keywords": "Fried vegetable,Cauliflower,Egg",
   "name": "Korean Fried Cauliflower Rice Recipe | Woolworths",
   "prepTime": "PT15M",
-  "recipeCategory": "mains",
-  "recipeCuisine": "asian",
+  "recipeCategory": "Lunch,Dinner",
+  "recipeCuisine": "Korean",
   "recipeId": "RGWW338671",
   "recipeIngredient": [
-    "1 large cauliflower",
-    "2 tbs sesame oil",
-    "300 g stir-fry vegetables",
-    "4 spring onions",
+    "1 large cauliflower, chopped into florets",
+    "2 tbs sesame oil, divided",
+    "300g stir-fry vegetables",
+    "4 spring onions, sliced, green tops reserved",
     "4 eggs",
-    "5 cm ginger",
-    "2 cloves garlic",
+    "5cm ginger, peeled and grated",
+    "2 cloves garlic, crushed",
     "1 tbs gochujang paste",
-    "2 tbs soy sauce"
+    "2 tbs soy sauce, reduced salt"
   ],
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Divide the rice between 4 bowls, top each with a fried egg and chopped spring onion tops. Serve with sriracha and lime wedges, if desired."
+      "HowToTip": {},
+      "text": "Place the cauliflower in a food processor and pulse until it resembles rice."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Divide the rice between 4 bowls, top each with a fried egg and chopped spring onion tops. Serve with sriracha and lime wedges, if desired."
+      "HowToTip": {},
+      "text": "Heat the half of the oil in a wok on high heat and stir fry the cauliflower rice for 7-8 minutes until lightly browned. Add the mixed vegetables and spring onion and cook for 3 minutes."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Divide the rice between 4 bowls, top each with a fried egg and chopped spring onion tops. Serve with sriracha and lime wedges, if desired."
+      "HowToTip": {},
+      "text": "Whisk the gochujang paste, soy sauce, garlic and ginger together and tip into the wok. Cook for 2 minutes, stirring well to coat all the rice and vegetables."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Divide the rice between 4 bowls, top each with a fried egg and chopped spring onion tops. Serve with sriracha and lime wedges, if desired."
+      "HowToTip": {},
+      "text": "Heat the remaining oil in a separate pan and fry the eggs until just cooked, with the yolks still runny."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
+      "HowToTip": {},
       "text": "Divide the rice between 4 bowls, top each with a fried egg and chopped spring onion tops. Serve with sriracha and lime wedges, if desired."
     }
   ],
   "recipeNameId": "korean-fried-cauliflower-rice",
   "recipeYield": "4",
   "sameAs": [
-    "https://woolworths.com.au/shop/find-recipes/stir-fry-cauliflower"
+    "https://woolworths.com.au/shop/recipes/korean-fried-cauliflower-rice"
   ],
   "totalTime": "PT30M",
-  "updatedAt": "2022-11-24T13:31:07.667Z",
+  "updatedAt": "2022-11-26T04:09:13.846Z",
   "url": "https://www.woolworths.com.au/shop/recipes/korean-fried-cauliflower-rice"
 }

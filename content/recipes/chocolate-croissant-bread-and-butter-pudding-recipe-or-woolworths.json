@@ -1,61 +1,71 @@
 {
   "@type": "Recipe",
+  "author": {
+    "@type": "Person",
+    "name": "Licensed by Woolworths - ©️ Dorling Kindersley Ltd"
+  },
   "cookTime": "PT30M",
   "createdAt": "2022-11-25T10:08:59.000Z",
-  "datePublished": "2021-10-08",
+  "datePublished": "2022-08-03",
   "description": "An unapologetically indulgent dessert, this is one to save for a special occasion.",
-  "image": "https://foodhub.scene7.com/is/image/woolworthsltdprod/famkit349chocro_028?wid=5412&hei=7216&fmt=png-alpha",
-  "keywords": "Chocolate Croissant Bread & Butter Pudding",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1300,
+    "mime": "image/jpeg",
+    "url": "https://foodhub.scene7.com/is/image/woolworthsltdprod/famkit349chocro_028:Square-1300x1300",
+    "width": 1300
+  },
+  "keywords": "Pudding,Bread & butter pudding",
   "name": "Chocolate Croissant Bread & Butter Pudding Recipe | Woolworths",
   "prepTime": "PT15M",
-  "recipeCategory": "desserts",
-  "recipeCuisine": "british",
+  "recipeCategory": "Desserts",
+  "recipeCuisine": "British",
   "recipeId": "RGR17480",
   "recipeIngredient": [
-    "4 butter",
-    "4 chocolate croissants",
+    "4 butter, for greasing",
+    "4 chocolate croissants, thinly sliced",
     "0.8 cup double cream",
     "0.8 cup whole milk",
-    "1 vanilla pod",
-    "30 g caster sugar",
+    "1 vanilla pod, split, seeds scraped out and reserved",
+    "30g caster sugar",
     "3 egg yolks",
-    "50 g white chocolate chips or buttons",
-    "2 tsp icing sugar",
-    "80 ml cream"
+    "50g white chocolate chips or buttons",
+    "2 tsp icing sugar (to serve)",
+    "80ml cream (to serve)"
   ],
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Pour the mixture back into the rinsed-out pan, and heat gently until thickened, stirring constantly with a wooden spoon. Pour the thickened custard over the pastry slices and set aside for 15 minutes. Bake in the oven for 20 minutes, then leave to rest for at least 10 minutes. Sift over icing sugar and serve with cream."
+      "HowToTip": {},
+      "text": "Preheat the oven to 200°C. Butter a medium ovenproof dish and arrange the sliced pastries in the dish."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Pour the mixture back into the rinsed-out pan, and heat gently until thickened, stirring constantly with a wooden spoon. Pour the thickened custard over the pastry slices and set aside for 15 minutes. Bake in the oven for 20 minutes, then leave to rest for at least 10 minutes. Sift over icing sugar and serve with cream."
+      "HowToTip": {},
+      "text": "Place the cream, milk, vanilla pod, and scraped-out seeds in a small, non-stick pan over a medium heat. Gently heat to a simmer."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Pour the mixture back into the rinsed-out pan, and heat gently until thickened, stirring constantly with a wooden spoon. Pour the thickened custard over the pastry slices and set aside for 15 minutes. Bake in the oven for 20 minutes, then leave to rest for at least 10 minutes. Sift over icing sugar and serve with cream."
+      "HowToTip": {},
+      "text": "Meanwhile, put the sugar and yolks in a heatproof bowl and whisk with an electric hand-held whisk until pale and creamy."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Pour the mixture back into the rinsed-out pan, and heat gently until thickened, stirring constantly with a wooden spoon. Pour the thickened custard over the pastry slices and set aside for 15 minutes. Bake in the oven for 20 minutes, then leave to rest for at least 10 minutes. Sift over icing sugar and serve with cream."
+      "HowToTip": {},
+      "text": "Stir the white chocolate into the milk mixture and stir constantly until melted. Remove the vanilla pod from the milk mixture. Pour the milk mixture over the egg mixture, whisking constantly."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
+      "HowToTip": {},
       "text": "Pour the mixture back into the rinsed-out pan, and heat gently until thickened, stirring constantly with a wooden spoon. Pour the thickened custard over the pastry slices and set aside for 15 minutes. Bake in the oven for 20 minutes, then leave to rest for at least 10 minutes. Sift over icing sugar and serve with cream."
     }
   ],
   "recipeNameId": "chocolate-croissant-bread-butter-and-pudding",
   "recipeYield": "4",
   "sameAs": [
-    "https://woolworths.com.au/shop/find-recipes/chocolate-bread-pudding"
+    "https://woolworths.com.au/shop/recipes/chocolate-croissant-bread-butter-and-pudding"
   ],
   "totalTime": "PT45M",
-  "updatedAt": "2022-11-25T08:10:59.994Z",
+  "updatedAt": "2022-11-26T04:02:51.452Z",
   "url": "https://www.woolworths.com.au/shop/recipes/chocolate-croissant-bread-butter-and-pudding"
 }

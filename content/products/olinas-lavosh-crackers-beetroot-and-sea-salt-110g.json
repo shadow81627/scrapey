@@ -1,0 +1,60 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "275.0kJ",
+      "carbohydrateContent": "11.3g",
+      "dietary_fibre": "0.4g",
+      "fatContent": "1.3g",
+      "name": "nutrition",
+      "proteinContent": "1.6g",
+      "saturatedFatContent": "0.8g",
+      "servingSize": "100 g",
+      "sodiumContent": "79.0mg",
+      "sugarContent": "0.8g"
+    }
+  ],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Olina's"
+  },
+  "createdAt": "2022-11-26T04:49:20.110Z",
+  "description": "Olina's Bakehouse Lavosh Crackers Beetroot & Sea Salt has no artificial colours or flavours.Our Lavosh crackers have a uniquely light and crispy character. We carefully bake them in small batches to deliver a wonderful crunchy texture. Perfectly shaped to dip, our Lavosh crackers are a delicious addition to your next platter. ",
+  "gtin13": "9349571000547",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/237227.jpg",
+  "name": "Olina's Lavosh Crackers Beetroot & Sea Salt 110g",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3,
+    "lowPrice": 3,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-26T04:49:20.109Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 3,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/237227/olina-s-lavosh-crackers-beetroot-sea-salt"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/237227/olina-s-lavosh-crackers-beetroot-sea-salt"
+  ],
+  "sku": "237227",
+  "updatedAt": "2022-11-26T04:49:20.109Z"
+}

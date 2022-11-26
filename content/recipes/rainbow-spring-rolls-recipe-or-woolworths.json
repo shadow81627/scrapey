@@ -1,47 +1,57 @@
 {
   "@type": "Recipe",
+  "author": {
+    "@type": "Person",
+    "name": "Produced for Woolworths"
+  },
   "cookTime": "PT10M",
   "createdAt": "2022-11-24T22:03:11.000Z",
   "datePublished": "2022-11-04",
   "description": "These rolls are packed with veg and colours.",
-  "image": "https://foodhub.scene7.com/is/image/woolworthsltdprod/rainbow-spring-rolls?wid=2518&hei=2518&fmt=png-alpha",
-  "keywords": "Rainbow Spring Rolls",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1300,
+    "mime": "image/jpeg",
+    "url": "https://foodhub.scene7.com/is/image/woolworthsltdprod/rainbow-spring-rolls:Square-1300x1300",
+    "width": 1300
+  },
+  "keywords": "Spring rolls,Asparagus",
   "name": "Rainbow Spring Rolls Recipe | Woolworths",
   "prepTime": "PT10M",
-  "recipeCategory": "appetisers",
-  "recipeCuisine": "asian",
+  "recipeCategory": "Appetisers",
+  "recipeCuisine": "Chinese",
   "recipeId": "RGWW337958",
   "recipeIngredient": [
-    "4 stalks asparagus",
-    "8 sheets rice paper",
-    "1 medium carrot",
-    "1 head beetroot",
-    "80 g feta",
+    "4 stalks asparagus, sliced into thin sticks",
+    "8 sheets rice paper, thawed if frozen",
+    "1 medium carrot, peeled and sliced thinly lenghtways into sticks",
+    "1 head beetroot, sliced into thin sticks",
+    "80g feta, crumbled",
     "3 tbs sesame oil"
   ],
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Place the mixed veg sticks into the centre of a sheet of pastry, add some feta, fold over the edges and roll tightly."
+      "HowToTip": {},
+      "text": "Blanch and refresh the asparagus 30 seconds in boiling water then slice."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Place the mixed veg sticks into the centre of a sheet of pastry, add some feta, fold over the edges and roll tightly."
+      "HowToTip": {},
+      "text": "Dip the rice paper into warm water for 5 seconds."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
+      "HowToTip": {},
       "text": "Place the mixed veg sticks into the centre of a sheet of pastry, add some feta, fold over the edges and roll tightly."
     }
   ],
   "recipeNameId": "rainbow-spring-rolls",
   "recipeYield": "4",
   "sameAs": [
-    "https://woolworths.com.au/shop/find-recipes/veg-spring-roll-recipe"
+    "https://woolworths.com.au/shop/recipes/rainbow-spring-rolls"
   ],
   "totalTime": "PT20M",
-  "updatedAt": "2022-11-24T16:54:01.709Z",
+  "updatedAt": "2022-11-26T07:47:28.118Z",
   "url": "https://www.woolworths.com.au/shop/recipes/rainbow-spring-rolls"
 }

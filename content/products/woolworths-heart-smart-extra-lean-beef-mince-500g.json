@@ -1,0 +1,66 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "549kJ",
+      "carbohydrateContent": "<1.0g",
+      "dietary_fibre": "-",
+      "fatContent": "5g",
+      "name": "nutrition",
+      "proteinContent": "20.4g",
+      "saturatedFatContent": "2.2g",
+      "servingSize": "100 g",
+      "sodiumContent": "60mg",
+      "sugarContent": "<1.0g"
+    }
+  ],
+  "aggregateRating": {
+    "@context": "http://schema.org",
+    "@type": "AggregateRating",
+    "ratingCount": 542,
+    "ratingValue": 4.64760147601476
+  },
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Woolworths"
+  },
+  "createdAt": "2022-11-26T05:17:29.915Z",
+  "description": "100% Australian Extra Lean Beef Mince. Typically 95% meat and 5% fat with nothing else added.Store Keep refrigirated at 1-4°C",
+  "gtin13": "9300633636005",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/577860.jpg",
+  "name": "Woolworths Heart Smart Extra Lean Beef Mince 500G",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 10.5,
+    "lowPrice": 10.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-26T05:17:29.913Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 10.5,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/577860/woolworths-heart-smart-extra-lean-beef-mince"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/577860/woolworths-heart-smart-extra-lean-beef-mince"
+  ],
+  "sku": "577860",
+  "updatedAt": "2022-11-26T05:17:29.913Z"
+}

@@ -1,55 +1,65 @@
 {
   "@type": "Recipe",
+  "author": {
+    "@type": "Person",
+    "name": "Produced for Woolworths"
+  },
   "cookTime": "PT30M",
   "createdAt": "2022-11-25T10:08:59.000Z",
-  "datePublished": "2022-07-22",
+  "datePublished": "2022-08-03",
   "description": "Air frying these Korean style chicken wings uses far less oil to get a crispy finish.",
-  "image": "https://foodhub.scene7.com/is/image/woolworthsltdprod/korean-inspired-air-fryer-chicken-wings?wid=2520&hei=2520&fmt=png-alpha",
-  "keywords": "Korean Inspired Air Fryer Chicken Wings",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1300,
+    "mime": "image/jpeg",
+    "url": "https://foodhub.scene7.com/is/image/woolworthsltdprod/korean-inspired-air-fryer-chicken-wings:Square-1300x1300",
+    "width": 1300
+  },
+  "keywords": "Chicken wings,Air fryer,Chicken",
   "name": "Korean Inspired Air Fryer Chicken Wings Recipe | Woolworths",
   "prepTime": "PT35M",
-  "recipeCategory": "mains",
-  "recipeCuisine": "asian",
+  "recipeCategory": "Lunch,Dinner",
+  "recipeCuisine": "Korean",
   "recipeId": "RGWW338674",
   "recipeIngredient": [
     "4 tbs sriracha sauce",
-    "2 tbs soy sauce",
+    "2 tbs soy sauce (reduced salt)",
     "2 tbs sesame oil",
-    "4 cloves garlic",
-    "2 tbs ginger",
+    "4 cloves garlic (peeled and minced)",
+    "2 tbs ginger (peeled and grated)",
     "1 tbs honey",
     "1 tbs lime juice",
-    "1 kg chicken wings",
-    "2 spring onions"
+    "1kg chicken wings",
+    "2 spring onions (sliced)"
   ],
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Sprinkle the chicken wings with sliced spring onions and serve."
+      "HowToTip": {},
+      "text": "Whisk the sriracha, soy sauce, sesame oil, garlic, ginger, honey and lime juice together in a large bowl."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Sprinkle the chicken wings with sliced spring onions and serve."
+      "HowToTip": {},
+      "text": "Tip the wings into the bowl and toss well to coat in the marinade. Cover and set aside for 30 minutes."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Sprinkle the chicken wings with sliced spring onions and serve."
+      "HowToTip": {},
+      "text": "Set the air-fryer to 180°C and cook the wings for 12-14 minutes, toss and brush with any excess marinade and cook for 12 more minutes until sticky and crisp. Cook in two batches if necessary."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
+      "HowToTip": {},
       "text": "Sprinkle the chicken wings with sliced spring onions and serve."
     }
   ],
   "recipeNameId": "korean-inspired-air-fryer-chicken-wings",
   "recipeYield": "4",
   "sameAs": [
-    "https://woolworths.com.au/shop/find-recipes/air-fryer-wings"
+    "https://woolworths.com.au/shop/recipes/korean-inspired-air-fryer-chicken-wings"
   ],
   "totalTime": "PT65M",
-  "updatedAt": "2022-11-25T09:35:52.470Z",
+  "updatedAt": "2022-11-26T04:52:51.905Z",
   "url": "https://www.woolworths.com.au/shop/recipes/korean-inspired-air-fryer-chicken-wings"
 }
