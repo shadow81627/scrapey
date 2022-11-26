@@ -1,0 +1,66 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "Approx. 400kJ",
+      "carbohydrateContent": "Approx. 10.5g",
+      "dietary_fibre": "-",
+      "fatContent": "Approx. 5.3g",
+      "name": "nutrition",
+      "proteinContent": "Approx. 1.5g",
+      "saturatedFatContent": "Approx. 3.8g",
+      "servingSize": "100 g",
+      "sodiumContent": "Approx. 21mg",
+      "sugarContent": "Approx. 9.1g"
+    }
+  ],
+  "aggregateRating": {
+    "@context": "http://schema.org",
+    "@type": "AggregateRating",
+    "ratingCount": 167,
+    "ratingValue": 4.77245508982036
+  },
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Bulla"
+  },
+  "createdAt": "2022-11-25T23:03:12.598Z",
+  "description": "You can't fake real ice cream that's made from fresh milk & cream. Our Creamy Classics real ice cream is made with fresh cream and whole milk for a deliciously smooth and creamy texture. Traditionally crafted for your family's enjoyment.",
+  "gtin13": "9310161001343",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/191043.jpg",
+  "name": "Bulla Creamy Classics Ice Cream Vanilla 2L",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 5,
+    "lowPrice": 5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-25T23:03:12.597Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 5,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/191043/bulla-creamy-classics-ice-cream-vanilla"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/191043/bulla-creamy-classics-ice-cream-vanilla"
+  ],
+  "sku": "191043",
+  "updatedAt": "2022-11-25T23:03:12.597Z"
+}

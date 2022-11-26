@@ -1,0 +1,66 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "1474kj",
+      "carbohydrateContent": "41.8g",
+      "dietary_fibre": "-",
+      "fatContent": "11.8g",
+      "name": "nutrition",
+      "proteinContent": "19.2g",
+      "saturatedFatContent": "6.6g",
+      "servingSize": "100 g",
+      "sodiumContent": "560mg",
+      "sugarContent": "5.2g"
+    }
+  ],
+  "aggregateRating": {
+    "@context": "http://schema.org",
+    "@type": "AggregateRating",
+    "ratingCount": 1,
+    "ratingValue": 5
+  },
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Garlo's"
+  },
+  "createdAt": "2022-11-25T23:27:45.542Z",
+  "description": "The classic pie made from quality lean beef mince in our delicious rich gravy. We're Thin on pastry?We're BIG on meat!",
+  "gtin13": "9342546001679",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/659354.jpg",
+  "name": "Garlo's Lean Beef Pies 2 Pack",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 8.5,
+    "lowPrice": 8.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-25T23:27:45.541Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 8.5,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/659354/garlo-s-lean-beef-pies"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/659354/garlo-s-lean-beef-pies"
+  ],
+  "sku": "659354",
+  "updatedAt": "2022-11-25T23:27:45.541Z"
+}

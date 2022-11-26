@@ -1,59 +1,69 @@
 {
   "@type": "Recipe",
+  "author": {
+    "@type": "Person",
+    "name": "Produced for Woolworths"
+  },
   "cookTime": "PT5M",
   "createdAt": "2022-11-24T12:25:40.000Z",
-  "datePublished": "2022-06-13",
+  "datePublished": "2022-08-03",
   "description": "You won't miss the pasta in this delicious zucchini dish with zingy lemon and kale sauce. ",
-  "image": "https://foodhub.scene7.com/is/image/woolworthsltdprod/338545?wid=3637&hei=3637&fmt=png-alpha",
-  "keywords": "Zucchini with Lemon, Kale & Basil Sauce",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1300,
+    "mime": "image/jpeg",
+    "url": "https://foodhub.scene7.com/is/image/woolworthsltdprod/338545:Square-1300x1300",
+    "width": 1300
+  },
+  "keywords": "Vegetable dishes,Zucchini,Kale,Lemon,Tomato",
   "name": "Zucchini with Lemon, Kale & Basil Sauce Recipe | Woolworths",
   "prepTime": "PT20M",
-  "recipeCategory": "mains",
-  "recipeCuisine": "european",
+  "recipeCategory": "Lunch,Dinner",
+  "recipeCuisine": "Italian",
   "recipeId": "RGWW338545",
   "recipeIngredient": [
     "4 large zucchini",
     "2 tsp olive oil",
-    "2 cloves garlic",
-    "200 g cherry tomatoes",
+    "2 cloves garlic, peeled and minced",
+    "200g cherry tomatoes, halved",
     "3 tbs nutritional yeast",
-    "1 bunch basil",
-    "150 g kale",
-    "100 g rocket",
-    "1 bunch mint",
-    "1 large lemon",
+    "1 bunch basil, leaves picked",
+    "150g kale, chopped",
+    "100g rocket",
+    "1 bunch mint, leaves picked",
+    "1 large lemon, juiced and zested",
     "6 tbs extra virgin olive oil",
-    "75 g walnuts",
+    "75g walnuts, chopped, 1 tbs reserved",
     "1 pinch cracked black pepper"
   ],
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Serve in bowls with walnuts scattered on top, plenty of cracked black pepper and extra sauce on the side."
+      "HowToTip": {},
+      "text": "Using a spiraliser with a C blade attachment, cut the zucchini into thin noodles. Alternatively, shave the zucchini lengthways with a vegetable peeler to make pappardelle style ribbons."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Serve in bowls with walnuts scattered on top, plenty of cracked black pepper and extra sauce on the side."
+      "HowToTip": {},
+      "text": "Place all the sauce ingredients in a food processor and blitz until smooth, 2-3 minutes, adding water as necessary to loosen the sauce."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Serve in bowls with walnuts scattered on top, plenty of cracked black pepper and extra sauce on the side."
+      "HowToTip": {},
+      "text": "In a large saucepan on a medium high heat, heat the oil and cook the garlic for 2 minutes to soften. Stir in the tomatoes and cook for 2 minutes. Add the zucchini to the pan and toss to coat with oil. Pour over half the sauce and stir to coat."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
+      "HowToTip": {},
       "text": "Serve in bowls with walnuts scattered on top, plenty of cracked black pepper and extra sauce on the side."
     }
   ],
   "recipeNameId": "zucchini-with-lemon-kale-and-basil-sauce",
   "recipeYield": "4",
   "sameAs": [
-    "https://woolworths.com.au/shop/find-recipes/tomato-and-basil-sauce"
+    "https://woolworths.com.au/shop/recipes/zucchini-with-lemon-kale-and-basil-sauce"
   ],
   "totalTime": "PT25M",
-  "updatedAt": "2022-11-24T11:13:27.990Z",
+  "updatedAt": "2022-11-25T22:46:36.383Z",
   "url": "https://www.woolworths.com.au/shop/recipes/zucchini-with-lemon-kale-and-basil-sauce"
 }

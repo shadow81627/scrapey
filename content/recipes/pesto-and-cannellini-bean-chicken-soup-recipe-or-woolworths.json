@@ -1,54 +1,64 @@
 {
   "@type": "Recipe",
+  "author": {
+    "@type": "Person",
+    "name": "Produced for Woolworths"
+  },
   "cookTime": "PT20M",
   "createdAt": "2022-11-22T12:23:57.000Z",
-  "datePublished": "2022-07-08",
+  "datePublished": "2022-08-03",
   "description": "This Italian style chicken soup is quick, warming and filling with cannellini beans.",
-  "image": "https://foodhub.scene7.com/is/image/woolworthsltdprod/pesto-and-cannellini-bean-chicken-soup?wid=3655&hei=3655&fmt=png-alpha",
-  "keywords": "Pesto & Cannellini Bean Chicken Soup",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1300,
+    "mime": "image/jpeg",
+    "url": "https://foodhub.scene7.com/is/image/woolworthsltdprod/pesto-and-cannellini-bean-chicken-soup:Square-1300x1300",
+    "width": 1300
+  },
+  "keywords": "Chicken soup,Chicken,Kale",
   "name": "Pesto & Cannellini Bean Chicken Soup Recipe | Woolworths",
   "prepTime": "PT5M",
-  "recipeCategory": "mains",
-  "recipeCuisine": "european",
+  "recipeCategory": "Lunch,Dinner",
+  "recipeCuisine": "Italian",
   "recipeId": "RGWW338614",
   "recipeIngredient": [
-    "2 cubes chicken stock",
-    "400 g chicken breasts",
-    "1 large onion",
-    "400 g cannellini bean",
-    "4 tbs pesto",
-    "100 g kale",
-    "3 tbs parmesan",
+    "2 cubes chicken stock, reduced salt",
+    "400g chicken breasts",
+    "1 large onion, peeled and sliced",
+    "400g cannellini bean, canned",
+    "4 tbs pesto, save 2 tbs (to serve)",
+    "100g kale, destalked and chopped",
+    "3 tbs parmesan, grated",
     "1 pinch black pepper"
   ],
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Divide between 4 bowls, add a drizzle of pesto to each, top with parmesan and black pepper and serve."
+      "HowToTip": {},
+      "text": "Bring a litre of water to the boil in a large saucepan, add the stock cubes and cook for 2 minutes, stirring, until dissolved. Reduce the heat and add the chicken breasts and onion. Simmer gently for 10 minutes until the chicken is cooked, remove from the pan with a slotted spoon and set aside to cool slightly."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Divide between 4 bowls, add a drizzle of pesto to each, top with parmesan and black pepper and serve."
+      "HowToTip": {},
+      "text": "Once the chicken is cool enough to handle, shred it with two forks. Add the can of cannellini beans including the liquid to the chicken stock, stir in the pesto and simmer for 5 minutes."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Divide between 4 bowls, add a drizzle of pesto to each, top with parmesan and black pepper and serve."
+      "HowToTip": {},
+      "text": "Add the shredded chicken and chopped kale and cook for 2-3 minutes more, until the kale has wilted and the chicken is warmed through."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
+      "HowToTip": {},
       "text": "Divide between 4 bowls, add a drizzle of pesto to each, top with parmesan and black pepper and serve."
     }
   ],
   "recipeNameId": "pesto-and-cannellini-bean-chicken-soup",
   "recipeYield": "4",
   "sameAs": [
-    "https://woolworths.com.au/shop/find-recipes/black-bean-chicken"
+    "https://woolworths.com.au/shop/recipes/pesto-and-cannellini-bean-chicken-soup"
   ],
   "totalTime": "PT25M",
-  "updatedAt": "2022-11-22T05:40:07.359Z",
+  "updatedAt": "2022-11-25T22:45:08.922Z",
   "url": "https://www.woolworths.com.au/shop/recipes/pesto-and-cannellini-bean-chicken-soup"
 }

@@ -1,56 +1,66 @@
 {
   "@type": "Recipe",
+  "author": {
+    "@type": "Person",
+    "name": "Produced for Woolworths"
+  },
   "cookTime": "PT25M",
   "createdAt": "2022-11-22T12:23:57.000Z",
   "datePublished": "2022-11-11",
   "description": "These fragrant lemongrass scented pork lettuce cups make a tasty starter or light lunch.",
-  "image": "https://foodhub.scene7.com/is/image/woolworthsltdprod/thai-style-pork-lettuce-cups?wid=3831&hei=3831&fmt=png-alpha",
-  "keywords": "Thai Style Pork Lettuce Cups",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1300,
+    "mime": "image/jpeg",
+    "url": "https://foodhub.scene7.com/is/image/woolworthsltdprod/thai-style-pork-lettuce-cups:Square-1300x1300",
+    "width": 1300
+  },
+  "keywords": "Pork dishes,Pork,Mince",
   "name": "Thai Style Pork Lettuce Cups Recipe | Woolworths",
   "prepTime": "PT10M",
-  "recipeCategory": "mains",
-  "recipeCuisine": "asian",
+  "recipeCategory": "Lunch,Dinner",
+  "recipeCuisine": "Thai",
   "recipeId": "RGWW338774",
   "recipeIngredient": [
     "1 tsp sesame oil",
-    "4 spring onions",
-    "2 cloves garlic",
-    "1 red chilli",
-    "500 g pork mince",
-    "2 medium limes",
+    "4 spring onions, sliced, green tops reserved",
+    "2 cloves garlic, peeled and minced",
+    "1 red chilli, finely sliced",
+    "500g pork mince",
+    "2 medium limes, juice and zest",
     "1 tsp lemongrass paste",
     "1 tbs fish sauce",
     "2 heads baby gem lettuce",
-    "1 pack mint"
+    "1 pack mint, fresh"
   ],
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Separate the lettuce leaves by slicing off the root and arrange on a platter. Fill each lettuce cup with the pork mix, top with extra fresh mint, spring onion tops and chilli and serve."
+      "HowToTip": {},
+      "text": "Heat the oil in a large pan on medium high heat and cook the spring onions, garlic and chilli for 2 minutes."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Separate the lettuce leaves by slicing off the root and arrange on a platter. Fill each lettuce cup with the pork mix, top with extra fresh mint, spring onion tops and chilli and serve."
+      "HowToTip": {},
+      "text": "Add the pork mince and cook for 10 minutes, until browned and cooked through."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Separate the lettuce leaves by slicing off the root and arrange on a platter. Fill each lettuce cup with the pork mix, top with extra fresh mint, spring onion tops and chilli and serve."
+      "HowToTip": {},
+      "text": "Stir in the lime juice and zest, lemongrass paste, fish sauce and half of the mint and cook 2 minutes."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
+      "HowToTip": {},
       "text": "Separate the lettuce leaves by slicing off the root and arrange on a platter. Fill each lettuce cup with the pork mix, top with extra fresh mint, spring onion tops and chilli and serve."
     }
   ],
   "recipeNameId": "thai-style-pork-lettuce-cups",
   "recipeYield": "4",
   "sameAs": [
-    "https://woolworths.com.au/shop/find-recipes/thai-lettuce-cups"
+    "https://woolworths.com.au/shop/recipes/thai-style-pork-lettuce-cups"
   ],
   "totalTime": "PT35M",
-  "updatedAt": "2022-11-22T09:05:57.379Z",
+  "updatedAt": "2022-11-25T23:59:17.489Z",
   "url": "https://www.woolworths.com.au/shop/recipes/thai-style-pork-lettuce-cups"
 }

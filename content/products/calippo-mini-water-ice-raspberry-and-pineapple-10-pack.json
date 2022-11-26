@@ -1,0 +1,66 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "225.0kJ",
+      "carbohydrateContent": "12.7g",
+      "dietary_fibre": "-",
+      "fatContent": "0.0g",
+      "name": "nutrition",
+      "proteinContent": "0.0g",
+      "saturatedFatContent": "0.0g",
+      "servingSize": "100 g",
+      "sodiumContent": "< 5.0mg",
+      "sugarContent": "12.5g"
+    }
+  ],
+  "aggregateRating": {
+    "@context": "http://schema.org",
+    "@type": "AggregateRating",
+    "ratingCount": 28,
+    "ratingValue": 4.78571428571429
+  },
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Calippo"
+  },
+  "createdAt": "2022-11-25T23:03:33.541Z",
+  "description": "Say goodbye serious and hello joy! Calippo Mini’s are a delicious Raspberry Pineapple flavoured ice block! Great for a refreshing treat at home, enjoy the two mouthwatering  fruit flavours combined into a mini block. Using real fruit juice as well as being 99% fat free, these are perfect for the family to share in a convenient multipack of 10. Enjoy the great juicy taste of Calippo, the taste you love and so refreshing. Calippo is perfect for our summer heat, an evening snack or an anytime treat. Streets' Ice Creams were originally made in the back shed of our founder, Ted Street. Between World War 1 and World War 2, Edwin (‘Ted’) Street, thanks to his wife and brother, laid the foundations (in Cordial, NSW) for what would ultimately become Australia’s biggest and best-known ice cream manufacturer. He would then sell these to neighbours along with sweets, cakes and lemonade. Popularity grew, and he soon used a cart, then a one horsepower motorbike, to sell Streets Ice Cream. It continued to grow and today Streets ice cream is sold throughout Australia and New Zealand with brands such as Magnum, Viennetta, Paddle Pop, Cornetto, Gaytime, Calippo and Blue Ribbon. Visit our Streets website to find our full range of products including water ice, ice cream, ice cream stick, ice cream tubs, kids ice cream, frozen dessert and so much more. Choose Happier Together.",
+  "gtin13": "9310016803849",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/279904.jpg",
+  "name": "Calippo Mini Water Ice Raspberry & Pineapple 10 Pack",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 6,
+    "lowPrice": 6,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-25T23:03:33.540Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 6,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/279904/calippo-mini-water-ice-raspberry-pineapple"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/279904/calippo-mini-water-ice-raspberry-pineapple"
+  ],
+  "sku": "279904",
+  "updatedAt": "2022-11-25T23:03:33.540Z"
+}

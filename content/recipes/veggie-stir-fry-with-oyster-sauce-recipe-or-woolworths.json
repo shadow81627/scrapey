@@ -1,15 +1,25 @@
 {
   "@type": "Recipe",
+  "author": {
+    "@type": "Person",
+    "name": "Customer - meyuu"
+  },
   "cookTime": "PT15M",
   "createdAt": "2022-11-24T22:03:11.000Z",
-  "datePublished": "2021-06-03",
+  "datePublished": "2022-08-03",
   "description": "White cabbage, carrots and capsicum stir fry with oyster sauce.",
-  "image": "https://foodhub.scene7.com/is/image/woolworthsltdprod/mkhobl94l1yrdhif015o?wid=3024&hei=2630&fmt=png-alpha",
-  "keywords": "Veggie Stir Fry with Oyster Sauce",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1300,
+    "mime": "image/jpeg",
+    "url": "https://foodhub.scene7.com/is/image/woolworthsltdprod/mkhobl94l1yrdhif015o:Square-1300x1300",
+    "width": 1300
+  },
+  "keywords": "Vegetable stir-fry",
   "name": "Veggie Stir Fry with Oyster Sauce Recipe | Woolworths",
   "prepTime": "PT10M",
-  "recipeCategory": "entrees",
-  "recipeCuisine": "australian",
+  "recipeCategory": "Entrees",
+  "recipeCuisine": "Australian",
   "recipeId": "a0K0I00000SHe1UUAT",
   "recipeIngredient": [
     "0.25 white cabbage",
@@ -19,41 +29,43 @@
     "3 tbs water",
     "2 tbs oyster sauce",
     "2 cloves garlic",
-    "1 tbs oil"
+    "1-2 tbs oil"
   ],
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Ready to serve. With rice on the side."
+      "HowToTip": {},
+      "text": "Dice the garlic into small pieces, the capsicums, carrots and the cabbage into chunks."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Ready to serve. With rice on the side."
+      "HowToTip": {},
+      "text": "Heat the frying pan then add oil and saute the garlic. Once brown, remove the garlic from the heat."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Ready to serve. With rice on the side."
+      "HowToTip": {},
+      "text": "Saute the carrots, cabbage then add 3 tablespoons of water and 2 tablespoons of oyster sauce."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Ready to serve. With rice on the side."
+      "HowToTip": {},
+      "image": "https://foodhub.scene7.com/is/image/woolworthsltdprod/auzdeh8r1tva5tdqs1dd?wid=3785&hei=2838&fmt=png-alpha",
+      "text": "Once the carrots and cabbage are slightly tender, add the capsicums, the garlic and the bird's eyes chilli (chopped into small pieces) and cook until tender. Season lightly with white pepper."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
+      "HowToTip": {},
+      "image": "https://foodhub.scene7.com/is/image/woolworthsltdprod/zvvii90gm9ffbtfssscb?wid=3024&hei=2326&fmt=png-alpha",
       "text": "Ready to serve. With rice on the side."
     }
   ],
   "recipeNameId": "veggie-stir-fry-with-oyster-sauce",
   "recipeYield": "4",
   "sameAs": [
-    "https://woolworths.com.au/shop/find-recipes/oyster-sauce"
+    "https://woolworths.com.au/shop/recipes/veggie-stir-fry-with-oyster-sauce"
   ],
   "totalTime": "PT25M",
-  "updatedAt": "2022-11-24T16:15:44.795Z",
+  "updatedAt": "2022-11-25T22:54:10.159Z",
   "url": "https://www.woolworths.com.au/shop/recipes/veggie-stir-fry-with-oyster-sauce"
 }
