@@ -1,26 +1,36 @@
 {
   "@type": "Recipe",
+  "author": {
+    "@type": "Person",
+    "name": "Customer - baybee"
+  },
   "cookTime": "PT660M",
   "createdAt": "2022-11-22T22:53:07.000Z",
-  "datePublished": "2021-06-10",
+  "datePublished": "2022-08-03",
   "description": "A delicious slow cooker soup with sweet potato and creamy pumpkin.",
-  "image": "https://foodhub.scene7.com/is/image/woolworthsltdprod/bgxeumvjor1qjwuuzqwv?wid=3000&hei=2609&fmt=png-alpha",
-  "keywords": "Sweet Potato & Pumpkin Slow Cooker Soup",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1300,
+    "mime": "image/jpeg",
+    "url": "https://foodhub.scene7.com/is/image/woolworthsltdprod/bgxeumvjor1qjwuuzqwv:Square-1300x1300",
+    "width": 1300
+  },
+  "keywords": "Soup,Sweet potato",
   "name": "Sweet Potato & Pumpkin Slow Cooker Soup Recipe | Woolworths",
   "prepTime": "PT60M",
-  "recipeCategory": "entrees",
-  "recipeCuisine": "australian",
+  "recipeCategory": "Entrees",
+  "recipeCuisine": "Australian",
   "recipeId": "a0K2y0000016lvdEAA",
   "recipeIngredient": [
-    "2 kg pumpkin",
-    "1.5 kg sweet potato",
+    "2kg pumpkin (can be of mixed variety)",
+    "1.5kg sweet potato, peeled and cut into 5 cm pieces",
     "1 smoked ham hock",
-    "6 celery stalks",
-    "3 medium carrots",
-    "1 large brown onion",
-    "1 L salt reduced vegetable stock",
-    "500 g Mckenzie's dried yellow split peas",
-    "4 tbs olive oil",
+    "6 celery stalks, roughly chopped",
+    "3 medium carrots, peeled and roughly chopped",
+    "1 large brown onion, peeled and roughly chopped",
+    "1L salt reduced vegetable stock",
+    "500g Mckenzie's dried yellow split peas",
+    "4 tbs olive oil, for roasting",
     "1 tsp ground cinnamon",
     "1 tsp ground cumin",
     "0.5 tsp each salt and pepper",
@@ -30,46 +40,53 @@
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "After diluting soup, lovely and smooth consistency."
+      "HowToTip": {},
+      "image": "https://foodhub.scene7.com/is/image/woolworthsltdprod/dkmidolgltkwkhuhzcsq?wid=3000&hei=4000&fmt=png-alpha",
+      "text": "Gather up all your ingredients, don't chop your pumpkin. Wait until slow cooker has cooked your ham hock and veg. Put your split peas into slow cooker, place ham hock on top. Add your chopped celery, carrots and onions. Tip in your Vegetable Stock, you need to pretty much have the water level to the top of the hock. If not add more water and one or two Vegetable stock cubes, that's what I had to do. Cook on low for 8 to 10 hours. I also started the slow cooking late at night to be ready for me the next day."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "After diluting soup, lovely and smooth consistency."
+      "HowToTip": {},
+      "image": "https://foodhub.scene7.com/is/image/woolworthsltdprod/pjtoayyxadt93ypd0slb?wid=3000&hei=4000&fmt=png-alpha",
+      "text": "Remove ham hock and leave to cool, none of the meat will be added to the soup. So any meat you remove from the hock can be shredded and popped into the freezer for a later recipe. The Pumpkin and Sweet Potato are going to be roasted in oven before adding to the soup. Preheat gas oven to 180, (not fan forced) So peel and chop pumpkin into 5cm pieces, put the chopped pumpkin onto tray. Mix honey and boiling water together and pour over pumpkin, make sure all pumpkin is coated in this mix. Drizzle olive oil on top and sprinkle some cinnamon and cumin on. (save some for the sweet potato) Also if using Butternut Pumpkin, cut in half and roast with skin on. Then scoop out flesh discarding seeds, and add into soup."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "After diluting soup, lovely and smooth consistency."
+      "HowToTip": {},
+      "image": "https://foodhub.scene7.com/is/image/woolworthsltdprod/x1m48tcp1mjw1susoorn?wid=3000&hei=4000&fmt=png-alpha",
+      "text": "Do the same with the sweet potato, but only drizzle with olive oil. Making sure all pieces are coated, then sprinkle on cinnamon and cumin. You're looking for both pumpkin and sweet potato to be fork tender and slightly caramelized. I cooked pumpkin & potato for around 30 mins in gas oven at 180. (not fan forced oven) Check with fork, if you need to cook for longer then do so. Also depending on the size of your pieces, may be quicker or longer. I baked some butternut pumpkin with them."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "After diluting soup, lovely and smooth consistency."
+      "HowToTip": {},
+      "image": "https://foodhub.scene7.com/is/image/woolworthsltdprod/mmme80vzldsessheu4qw?wid=3000&hei=4000&fmt=png-alpha",
+      "text": "Turn slow cooker off and add in all your pumpkin and sweet potato. Using a stick blender, puree to whatever consistency you like. As you can see by my picture, I made a big whooping farm size pot of this soup. lol"
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "After diluting soup, lovely and smooth consistency."
+      "HowToTip": {},
+      "image": "https://foodhub.scene7.com/is/image/woolworthsltdprod/sr5wfpbtevec9qbjtspw?wid=3000&hei=4000&fmt=png-alpha",
+      "text": "The ham hock only adds flavour and also help to thicken the finished soup. When I served it up, I placed the serving size into a saucepan and diluted with water. This allows you to have a thicker or slightly thinner soup. Yes my ladle is standing in my saucepan, this is why you need to dilute it. I was also able to get 7 portions to freeze for later meals, gave my son 3 containers."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "After diluting soup, lovely and smooth consistency."
+      "HowToTip": {},
+      "image": "https://foodhub.scene7.com/is/image/woolworthsltdprod/ef3bhuzlo6fxlks3pe37?wid=3000&hei=4000&fmt=png-alpha",
+      "text": "Grandson loves this soup served with garlic bread. Can garnish with some chopped chives and sour cream. I also sprinkled on some toasted pine nuts."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
+      "HowToTip": {},
+      "image": "https://foodhub.scene7.com/is/image/woolworthsltdprod/ch00tedboqdol3feygk7?wid=3000&hei=4000&fmt=png-alpha",
       "text": "After diluting soup, lovely and smooth consistency."
     }
   ],
   "recipeNameId": "sweet-potato-and-pumpkin-slow-cooker-soup",
   "recipeYield": "20",
   "sameAs": [
-    "https://woolworths.com.au/shop/find-recipes/ham-hock-soup"
+    "https://woolworths.com.au/shop/recipes/sweet-potato-and-pumpkin-slow-cooker-soup"
   ],
   "totalTime": "PT720M",
-  "updatedAt": "2022-11-24T15:32:29.006Z",
+  "updatedAt": "2022-11-26T02:10:53.936Z",
   "url": "https://www.woolworths.com.au/shop/recipes/sweet-potato-and-pumpkin-slow-cooker-soup"
 }

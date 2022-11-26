@@ -1,55 +1,65 @@
 {
   "@type": "Recipe",
+  "author": {
+    "@type": "Person",
+    "name": "Produced for Woolworths"
+  },
   "cookTime": "PT10M",
   "createdAt": "2022-11-22T12:23:57.000Z",
   "datePublished": "2022-10-13",
   "description": "This classic French salad makes a filling lunch or light dinner.",
-  "image": "https://foodhub.scene7.com/is/image/woolworthsltdprod/seared-tuna-nicoise-salad?wid=3677&hei=3677&fmt=png-alpha",
-  "keywords": "Seared Tuna Niçoise Salad",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1300,
+    "mime": "image/jpeg",
+    "url": "https://foodhub.scene7.com/is/image/woolworthsltdprod/seared-tuna-nicoise-salad:Square-1300x1300",
+    "width": 1300
+  },
+  "keywords": "Nicoise salad,Fish,Lemon,Tomato,Potato",
   "name": "Seared Tuna Niçoise Salad Recipe | Woolworths",
   "prepTime": "PT5M",
-  "recipeCategory": "salads",
-  "recipeCuisine": "european",
+  "recipeCategory": "Salads",
+  "recipeCuisine": "French",
   "recipeId": "RGWW338798",
   "recipeIngredient": [
-    "400 g tuna steaks",
-    "1 tbs olive oil",
-    "400 g baby potatoes",
-    "400 g green beans",
-    "2 tomatoes",
-    "100 g black olives",
-    "3 tbs capers",
-    "2 lemons",
+    "400g tuna steaks",
+    "1 tbs olive oil, divided",
+    "400g baby potatoes, halved",
+    "400g green beans, trimmed",
+    "2 tomatoes, diced",
+    "100g black olives, drained, pitted",
+    "3 tbs capers, drained",
+    "2 lemons, 1.5 juiced, 0.5 chopped into wedges",
     "1 tbs wholegrain mustard"
   ],
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Serve topped with sliced tuna and a lemon wedge."
+      "HowToTip": {},
+      "text": "Brush the tuna steaks with a little oil and sear in a griddle pan on the highest heat for 20-30 seconds on each side. Rest for 5 minutes."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Serve topped with sliced tuna and a lemon wedge."
+      "HowToTip": {},
+      "text": "Bring a large saucepan of water to the boil and simmer the potatoes for 10-12 minutes, add the green beans and cool for 3 more minutes and then drain well."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Serve topped with sliced tuna and a lemon wedge."
+      "HowToTip": {},
+      "text": "Tip the potatoes and green beans into a large bowl with the tomatoes, olives and capers. Pour over the oil and lemon juice and stir in the mustard."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
+      "HowToTip": {},
       "text": "Serve topped with sliced tuna and a lemon wedge."
     }
   ],
   "recipeNameId": "seared-tuna-nicoise-salad",
   "recipeYield": "4",
   "sameAs": [
-    "https://woolworths.com.au/shop/find-recipes/tuna-nicoise"
+    "https://woolworths.com.au/shop/recipes/seared-tuna-nicoise-salad"
   ],
   "totalTime": "PT15M",
-  "updatedAt": "2022-11-25T20:09:48.097Z",
+  "updatedAt": "2022-11-26T00:33:35.847Z",
   "url": "https://www.woolworths.com.au/shop/recipes/seared-tuna-nicoise-salad"
 }

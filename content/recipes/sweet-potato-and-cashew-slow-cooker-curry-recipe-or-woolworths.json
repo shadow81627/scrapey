@@ -1,46 +1,56 @@
 {
   "@type": "Recipe",
+  "author": {
+    "@type": "Person",
+    "name": "Produced for Woolworths"
+  },
   "cookTime": "PT360M",
   "createdAt": "2022-11-24T03:17:47.000Z",
-  "datePublished": "2022-07-05",
+  "datePublished": "2022-09-26",
   "description": "This delicious spicy slow cooker curry takes a little bit longer than a takeaway but is worth the wait.",
-  "image": "https://foodhub.scene7.com/is/image/woolworthsltdprod/sweet-potato-and-cashew-slow-cooker-curry?wid=3431&hei=3431&fmt=png-alpha",
-  "keywords": "Sweet Potato & Cashew Slow Cooker Curry",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1300,
+    "mime": "image/jpeg",
+    "url": "https://foodhub.scene7.com/is/image/woolworthsltdprod/sweet-potato-and-cashew-slow-cooker-curry:Square-1300x1300",
+    "width": 1300
+  },
+  "keywords": "Indian curry,Pescatarian,Seafood free,Egg free,Halal,Wheat free,Vegetarian,Sweet potato,Vegan,Slow cooker",
   "name": "Sweet Potato & Cashew Slow Cooker Curry Recipe | Woolworths",
   "prepTime": "PT10M",
-  "recipeCategory": "mains",
-  "recipeCuisine": "asian",
+  "recipeCategory": "Lunch,Dinner",
+  "recipeCuisine": "Indian",
   "recipeId": "RGWW338682",
   "recipeIngredient": [
-    "1.6 cup coconut milk",
-    "3 tbs curry paste",
+    "1.6 cup coconut milk, light",
+    "3 tbs curry paste, hot or mild",
     "1 cup cashew nuts",
-    "5 cm ginger",
-    "1 medium red chilli",
-    "3 cloves garlic",
-    "600 g sweet potatoes",
-    "2 red capsicums",
-    "1 lime",
+    "5cm ginger, peeled and chopped",
+    "1 medium red chilli, sliced",
+    "3 cloves garlic, peeled and sliced",
+    "600g sweet potatoes, peeled and chopped",
+    "2 red capsicums, chopped",
+    "1 lime, juiced",
     "1 cube vegetable stock"
   ],
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Add the stock cube and half the lime juice and cook on low for 6 hours until the sweet potatoes and cashews are tender and the sauce is thick. Add extra lime juice to taste."
+      "HowToTip": {},
+      "text": "Place the coconut milk, red curry paste, cashews, ginger, chilli, garlic, sweet potatoes and capsicums in the slow cooker and stir well."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
+      "HowToTip": {},
       "text": "Add the stock cube and half the lime juice and cook on low for 6 hours until the sweet potatoes and cashews are tender and the sauce is thick. Add extra lime juice to taste."
     }
   ],
   "recipeNameId": "sweet-potato-and-cashew-slow-cooker-curry",
   "recipeYield": "4",
   "sameAs": [
-    "https://woolworths.com.au/shop/find-recipes/curried-potatoes"
+    "https://woolworths.com.au/shop/recipes/sweet-potato-and-cashew-slow-cooker-curry"
   ],
   "totalTime": "PT370M",
-  "updatedAt": "2022-11-24T15:30:47.116Z",
+  "updatedAt": "2022-11-26T01:39:43.334Z",
   "url": "https://www.woolworths.com.au/shop/recipes/sweet-potato-and-cashew-slow-cooker-curry"
 }
