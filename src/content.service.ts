@@ -1,4 +1,4 @@
-import { promises as fsPromises, existsSync } from 'fs';
+import { promises as fsPromises } from 'fs';
 const { readFile, mkdir, writeFile } = fsPromises;
 import Thing from './models/Thing';
 import deepSort from './utils/deepSort';
@@ -30,14 +30,7 @@ export default class ContentService {
     folder: string;
   }): Promise<void> {
     await mkdir(folder, { recursive: true });
-    const dataPath = `${folder}/${slug}.json`;
-    const oldData = existsSync(dataPath)
-      ? JSON.parse(
-          await readFile(dataPath, {
-            encoding: 'utf8',
-          }),
-        )
-      : {};
+    const oldData = (await ContentService.load({ folder, slug, })) ?? {} as Thing;
     if (oldData.createdAt) {
       data.createdAt = oldData.createdAt;
     }
@@ -48,7 +41,7 @@ export default class ContentService {
       return;
     }
     return await writeFile(
-      dataPath,
+      `${folder}/${slug}.json`,
       JSON.stringify(deepSort(data), undefined, 2) + '\n',
     );
   }
