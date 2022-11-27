@@ -1,17 +1,20 @@
 # Scrapey
 
-> Web content scraping for fetching html and parsing into json.
+> Web content scraping for fetching html and parsing into JSON.
+
 
 ## Usage
 
 ```bash
 yarn scrape -- --url https://www.joyousapron.com/vietnamese-noodle-bowl/#recipe
 ```
+
+## TODO
 - set content created at from git
-- check url has urls if not set for recrawl
+- check URL has URLs if not set for recrawl
 - save crawl response
-- consider using crawlee to help manger crawl queue and rate limiting
+- consider using Crawlee to help manger crawl queue and rate limiting
 - consider better content storage options
-- stop things with same name but different brand overriding
+- stop Thing with same name but different brand overriding
 - crawl share browser rather than start fresh for each crawl thread
-- Investigate why get json from html is truncated
+- Investigate why get JSON from html gets truncated
