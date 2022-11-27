@@ -1,0 +1,51 @@
+{
+  "@type": "Product",
+  "additionalProperty": [],
+  "aggregateRating": {
+    "@context": "http://schema.org",
+    "@type": "AggregateRating",
+    "ratingCount": 1,
+    "ratingValue": 5
+  },
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Plantein"
+  },
+  "createdAt": "2022-11-27T17:24:35.118Z",
+  "gtin13": "9330752003969",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/176963.jpg",
+  "name": "Plantein Plant Based Sweet Chilli Tenders 300g",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 8,
+    "lowPrice": 8,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-27T17:24:35.116Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 8,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/176963/plantein-plant-based-sweet-chilli-tenders"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/176963/plantein-plant-based-sweet-chilli-tenders"
+  ],
+  "sku": "176963",
+  "updatedAt": "2022-11-27T17:24:35.116Z"
+}

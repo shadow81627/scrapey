@@ -1,58 +1,68 @@
 {
   "@type": "Recipe",
+  "author": {
+    "@type": "Person",
+    "name": "Licensed by Woolworths - ©️ Octopus Publishing Ltd"
+  },
   "cookTime": "PT20M",
   "createdAt": "2022-11-26T14:54:11.989Z",
-  "datePublished": "2022-02-21",
+  "datePublished": "2022-09-14",
   "description": "Try our easy to follow Summer Fruit Crunch recipe. Absolutely delicious with the best ingredients from Woolworths.",
-  "image": "https://foodhub.scene7.com/is/image/woolworthsltdprod/210-summer-fruit-crunch?wid=4080&hei=5440&fmt=png-alpha",
-  "keywords": "Summer Fruit Crunch",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1300,
+    "mime": "image/jpeg",
+    "url": "https://foodhub.scene7.com/is/image/woolworthsltdprod/210-summer-fruit-crunch:Square-1300x1300",
+    "width": 1300
+  },
+  "keywords": "Cooked fruit",
   "name": "Summer Fruit Crunch Recipe | Woolworths",
   "prepTime": "PT10M",
-  "recipeCategory": "desserts",
-  "recipeCuisine": "australian",
+  "recipeCategory": "Desserts",
+  "recipeCuisine": "Australian",
   "recipeId": "RGR33593",
   "recipeIngredient": [
-    "50 g rolled oats",
+    "50g rolled oats",
     "0.5 tsp ground cinnamon",
     "0.5 tsp mixed spice",
     "1 pinch ground ginger",
-    "15 g butter",
+    "15g butter, melted",
     "1 tbs honey",
     "2 tbs sultanas",
-    "400 g mixed fruit",
-    "60 g icing sugar",
+    "400g mixed fruit",
+    "60g icing sugar (save 10g to garnish)",
     "2 tbs crème de cassis",
     "0.5 tsp vanilla extract",
-    "1 tbs flaked almonds"
+    "1 tbs flaked almonds, toasted, to garnish"
   ],
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Spoon the fruit into dishes and sprinkle over the crunchy topping. Garnish with the toasted almonds and a sprinkling of icing sugar. Serve immediately."
+      "HowToTip": {},
+      "text": "Mix the oats and spices with the melted butter and honey until well combined."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Spoon the fruit into dishes and sprinkle over the crunchy topping. Garnish with the toasted almonds and a sprinkling of icing sugar. Serve immediately."
+      "HowToTip": {},
+      "text": "Press on to a baking sheet and cook in a preheated oven, 180°C, Gas Mark 4, for 20 minutes, turning once. Remove and leave to cool before mixing in the sultanas."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Spoon the fruit into dishes and sprinkle over the crunchy topping. Garnish with the toasted almonds and a sprinkling of icing sugar. Serve immediately."
+      "HowToTip": {},
+      "text": "Meanwhile, put the summer fruits in a pan with the icing sugar and 1 tablespoon water. Warm over a medium-low heat, stirring occasionally, until the fruit begins to collapse. Remove from the heat and stir in the crème de cassis and vanilla extract."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
+      "HowToTip": {},
       "text": "Spoon the fruit into dishes and sprinkle over the crunchy topping. Garnish with the toasted almonds and a sprinkling of icing sugar. Serve immediately."
     }
   ],
   "recipeNameId": "summer-fruit-crunch",
   "recipeYield": "4",
   "sameAs": [
-    "https://woolworths.com.au/shop/find-recipes/summer-fruit-desserts"
+    "https://woolworths.com.au/shop/recipes/summer-fruit-crunch"
   ],
   "totalTime": "PT30M",
-  "updatedAt": "2022-11-26T14:54:11.988Z",
+  "updatedAt": "2022-11-27T14:22:41.758Z",
   "url": "https://www.woolworths.com.au/shop/recipes/summer-fruit-crunch"
 }

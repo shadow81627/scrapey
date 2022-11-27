@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Wild Turkey"
+  },
+  "createdAt": "2022-11-27T17:41:33.223Z",
+  "description": "A genuine Kentucky bourbon, Wild Turkey Bourbon gets its unique smoothness thanks to being matured in oak barrels. Its deep bourbon taste is well balanced with vanilla and caramel flavours. You can drink it on ice, with a mixer such as cola or ginger ale. In fact, you can try it any which way with this generous 1 litre bottle.<br><br><strong>Spirit Type: </strong>American Whiskey<br><strong>Varietal: </strong>Bourbon<br><strong>Alcohol %: </strong>43.4<br><strong>Standard Drinks: </strong>34<br><strong>Country Of Origin: </strong>USA",
+  "gtin13": "9343496003508",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/083276.jpg",
+  "name": "Wild Turkey Kentucky Bourbon 86.8 Proof 1L",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 68,
+    "lowPrice": 68,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-27T17:41:33.222Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 68,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/83276/wild-turkey-kentucky-bourbon-86-8-proof"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/83276/wild-turkey-kentucky-bourbon-86-8-proof"
+  ],
+  "sku": "83276",
+  "updatedAt": "2022-11-27T17:41:33.222Z"
+}

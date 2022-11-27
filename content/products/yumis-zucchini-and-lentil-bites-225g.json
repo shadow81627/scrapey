@@ -1,0 +1,60 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "728.00kJ",
+      "carbohydrateContent": "22.10g",
+      "dietary_fibre": "8.93g",
+      "fatContent": "6.10g",
+      "name": "nutrition",
+      "proteinContent": "7.40g",
+      "saturatedFatContent": "0.70g",
+      "servingSize": "100 g",
+      "sodiumContent": "315.00mg",
+      "sugarContent": "2.30g"
+    }
+  ],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Yumi's"
+  },
+  "createdAt": "2022-11-27T17:28:35.610Z",
+  "description": "Yumi’s Veggie Bites range is dairy and gluten free and proudly made in Australia with the natural goodness of real vegetables and spices. Fully cooked, simply heat and serve for a super convenient meal.",
+  "gtin13": "9317444002028",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/531194.jpg",
+  "name": "Yumi's Zucchini & Lentil Bites 225G",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 5.55,
+    "lowPrice": 5.55,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-27T17:28:35.609Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 5.55,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/531194/yumi-s-zucchini-lentil-bites"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/531194/yumi-s-zucchini-lentil-bites"
+  ],
+  "sku": "531194",
+  "updatedAt": "2022-11-27T17:28:35.609Z"
+}

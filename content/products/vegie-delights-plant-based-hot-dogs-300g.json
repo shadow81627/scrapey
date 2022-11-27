@@ -1,0 +1,60 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "807kJ",
+      "carbohydrateContent": "10.7g",
+      "dietary_fibre": "1.1g",
+      "fatContent": "8.0g",
+      "name": "nutrition",
+      "proteinContent": "18.8g",
+      "saturatedFatContent": "0.8g",
+      "servingSize": "100 g",
+      "sodiumContent": "685mg",
+      "sugarContent": "1.3g"
+    }
+  ],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Vegie Delights"
+  },
+  "createdAt": "2022-11-27T17:31:06.134Z",
+  "description": "Guess what? Meat free is no longer in the 'too hard basket'. With our plant-based and easy to prepare Vegie Delights Vegan Classic Hot Dogs.<BR><BR>Made in Australia, our Vegie Delights Classic Hotdogs are a delicious meat free alternative for you netx BBQ.These plant-based sausages are packed with protein and cook in 2 -3 minutes! <br><br>The Classic Hotdogs are an Aussie vegtarian favourite. They're great in sausage rolls, buns or loaded with your favourite condiments.<br><br>Vegie Delights Classic Hotdogs are:<br>- Vegan friendly<br>- High in protein<br>- High in iron<br>- High in B12<br>- High in zinc<br>- Meat & Dairy Free<br><br>Available in the chilled vegetarian section in-store.",
+  "gtin13": "9349174000494",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/249729.jpg",
+  "name": "Vegie Delights Plant Based Hot Dogs 300g",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 7,
+    "lowPrice": 7,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-27T17:31:06.133Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 7,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/249729/vegie-delights-plant-based-hot-dogs"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/249729/vegie-delights-plant-based-hot-dogs"
+  ],
+  "sku": "249729",
+  "updatedAt": "2022-11-27T17:31:06.133Z"
+}

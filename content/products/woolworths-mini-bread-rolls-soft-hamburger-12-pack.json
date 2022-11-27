@@ -1,0 +1,66 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "531.00kJ",
+      "carbohydrateContent": "22.50g",
+      "dietary_fibre": "1.50g",
+      "fatContent": "1.80g",
+      "name": "nutrition",
+      "proteinContent": "4.10g",
+      "saturatedFatContent": "0.20g",
+      "servingSize": "100 g",
+      "sodiumContent": "170.00mg",
+      "sugarContent": "0.20g"
+    }
+  ],
+  "aggregateRating": {
+    "@context": "http://schema.org",
+    "@type": "AggregateRating",
+    "ratingCount": 156,
+    "ratingValue": 4.41025641025641
+  },
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Woolworths"
+  },
+  "createdAt": "2022-11-27T19:56:48.040Z",
+  "description": "<p></p>",
+  "gtin13": "0286967000004",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/720677.jpg",
+  "name": "Woolworths Mini Bread Rolls Soft Hamburger 12 Pack",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 4.5,
+    "lowPrice": 4.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-27T19:56:48.039Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 4.5,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/720677/woolworths-mini-bread-rolls-soft-hamburger"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/720677/woolworths-mini-bread-rolls-soft-hamburger"
+  ],
+  "sku": "720677",
+  "updatedAt": "2022-11-27T19:56:48.039Z"
+}

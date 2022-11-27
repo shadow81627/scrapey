@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Lindeman's"
+  },
+  "createdAt": "2022-11-27T17:42:12.737Z",
+  "description": "The Lindeman’s Early Harvest wines are 25% lighter in alcohol and calories (when compared to wine stated on the bottle), so you can enjoy great tasting wines as part of a lighter lifestyle. The Lindeman's Early Harvest Crisp Chardonnay palate has crisp citrus, stone fruit and pineapple notes. Featuring soft toasty flavours balanced by a clean, refreshing finish.",
+  "gtin13": "9311218001729",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/729735.jpg",
+  "name": "Lindeman's Early Harvest Crisp Chardonnay 750mL",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 12,
+    "lowPrice": 12,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-27T17:42:12.736Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 12,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/729735/lindeman-s-early-harvest-crisp-chardonnay"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/729735/lindeman-s-early-harvest-crisp-chardonnay"
+  ],
+  "sku": "729735",
+  "updatedAt": "2022-11-27T17:42:12.736Z"
+}

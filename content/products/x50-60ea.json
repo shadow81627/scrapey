@@ -1,0 +1,45 @@
+{
+  "@type": "Product",
+  "additionalProperty": [],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "X50"
+  },
+  "createdAt": "2022-11-27T18:54:43.125Z",
+  "description": "Watermelons are known for being super refreshing, juicy and hydrating which is why it’s the perfect Green Tea X50 flavour, because, same!\n\nBy adding a pretty in pink Green Tea X50 Watermelon sachet to your chilled water, you know you’re getting all the health benefits of the world’s (maybe the even the universe?) best superfood, green tea. Think the full package; a source of clean energy, a rush of antioxidants and a boost of metabolism.\n\nResveratrol is another gold-star ingredient not to be overlooked. From the skin of berries, resveratrol is a powerful antioxidant that brightens and combats the damaging effects of free radicals. I’ll sip to that!",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/1073836787.jpg",
+  "name": "X50 60EA",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 62.95,
+    "lowPrice": 62.95,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-27T18:54:43.124Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 62.95,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/1073836787/x50-green-tea-watermelon-60-sachets-60-pack"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/1073836787/x50-green-tea-watermelon-60-sachets-60-pack"
+  ],
+  "sku": "1073836787",
+  "updatedAt": "2022-11-27T18:54:43.124Z"
+}

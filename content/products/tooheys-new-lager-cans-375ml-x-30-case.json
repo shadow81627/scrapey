@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Tooheys"
+  },
+  "createdAt": "2022-11-27T17:38:05.817Z",
+  "description": "An Aussie classic in a can, Tooheys New has been satisfying thirsts since 1931. A draught lager whose full flavour is best enjoyed when served icy cold. A super refreshing beer that's still as enjoyable today as it was all those years ago.<br> <br><strong>Liquor Style:</strong> Lager <br><strong>Beer Type:</strong> Lager <br><strong>Alcohol %:</strong> 4.6 <br><strong>Standard Drinks:</strong> 1.4 <br><strong>Country Of Origin:</strong> Australia",
+  "gtin13": "9311890595851",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/006225.jpg",
+  "name": "Tooheys New Lager Cans 375mL x 30 Case",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 56,
+    "lowPrice": 56,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-27T17:38:05.817Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 56,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/6225/tooheys-new-lager-cans"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/6225/tooheys-new-lager-cans"
+  ],
+  "sku": "6225",
+  "updatedAt": "2022-11-27T17:38:05.817Z"
+}

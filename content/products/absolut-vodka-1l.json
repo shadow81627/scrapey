@@ -1,0 +1,45 @@
+{
+  "@type": "Product",
+  "additionalProperty": [],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Absolut"
+  },
+  "createdAt": "2022-11-27T17:37:24.126Z",
+  "gtin13": "7312040017034",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/default.png",
+  "name": "Absolut Vodka 1L",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 63,
+    "lowPrice": 63,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-27T17:37:24.124Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 63,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/902023/absolut-vodka"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/902023/absolut-vodka"
+  ],
+  "sku": "902023",
+  "updatedAt": "2022-11-27T17:37:24.125Z"
+}

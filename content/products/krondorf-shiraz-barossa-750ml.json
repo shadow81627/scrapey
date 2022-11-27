@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Krondorf"
+  },
+  "createdAt": "2022-11-27T17:46:54.524Z",
+  "description": "If you love a classic Barossa Shiraz with your favourite steak, then this a great value drop for you. It’s all dark berries and spice with integrated oak and fine tannins.<div> Open a bottle and try with a <a href=\"https://www.woolworths.com.au/shop/recipedetail/3626/t-bone-steak-with-asparagus-onion\" target=\"_blank\">T-bone steak with asparagus and onion. </a></div><br><br><strong>Varietal: </strong>Shiraz<br><strong>Liquor Style: </strong>Dry Red<br><strong>Region Of Origin: </strong>Barossa Valley<br><strong>Country Of Origin: </strong>Australia<br><strong>Vintage: </strong>2018*<br><strong>Alcohol %: </strong>14.5<br><strong>Standard Drinks: </strong>8.6<br><br><em>*Vintage may vary from store to store</em>",
+  "gtin13": "9300633279769",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/716121.jpg",
+  "name": "Krondorf Shiraz Barossa 750mL",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 15,
+    "lowPrice": 15,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-27T17:46:54.523Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 15,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/716121/krondorf-shiraz-barossa"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/716121/krondorf-shiraz-barossa"
+  ],
+  "sku": "716121",
+  "updatedAt": "2022-11-27T17:46:54.523Z"
+}

@@ -1,0 +1,60 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "791kJ",
+      "carbohydrateContent": "&lt;1.0g",
+      "dietary_fibre": "6.6g",
+      "fatContent": "9.6g",
+      "name": "nutrition",
+      "proteinContent": "22.5g",
+      "saturatedFatContent": "1.7g",
+      "servingSize": "100 g",
+      "sodiumContent": "74mg",
+      "sugarContent": "&lt;1.0g"
+    }
+  ],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Evergreen"
+  },
+  "createdAt": "2022-11-27T17:27:53.230Z",
+  "description": "Ever Green Hard Tofu Firm.",
+  "gtin13": "9323536720015",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/627088.jpg",
+  "name": "Evergreen Hard Tofu 300G",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 5,
+    "lowPrice": 5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-27T17:27:53.229Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 5,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/627088/evergreen-hard-tofu"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/627088/evergreen-hard-tofu"
+  ],
+  "sku": "627088",
+  "updatedAt": "2022-11-27T17:27:53.229Z"
+}

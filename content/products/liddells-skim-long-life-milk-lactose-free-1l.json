@@ -1,0 +1,60 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "358kJ",
+      "carbohydrateContent": "12.0g",
+      "dietary_fibre": "0g",
+      "fatContent": "0.3g",
+      "name": "nutrition",
+      "proteinContent": "8.5g",
+      "saturatedFatContent": "0.18g",
+      "servingSize": "100 g",
+      "sodiumContent": "88mg",
+      "sugarContent": "12.0g"
+    }
+  ],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Liddells"
+  },
+  "createdAt": "2022-11-27T14:26:15.446Z",
+  "description": "<p>If you love dairy, but your digestive system doesn't, Liddells lactose free is for you. Because it's made with real milk, you get all the goodness and great taste you want, without the lactose.</p><p>- Naturally gluten free</p><p>- High in calcium for strong bones</p><p>- Delicious dairy goodness</p><p>- no preservatives</p>",
+  "gtin13": "9319634000487",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/209144.jpg",
+  "name": "Liddells Skim Long Life Milk Lactose Free 1L",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3,
+    "lowPrice": 3,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-27T14:26:15.445Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 3,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/209144/liddells-skim-long-life-milk-lactose-free"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/209144/liddells-skim-long-life-milk-lactose-free"
+  ],
+  "sku": "209144",
+  "updatedAt": "2022-11-27T14:26:15.445Z"
+}

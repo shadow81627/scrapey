@@ -1,0 +1,66 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "802.00kJ",
+      "carbohydrateContent": "38.10g",
+      "dietary_fibre": "2.00g",
+      "fatContent": "1.00g",
+      "name": "nutrition",
+      "proteinContent": "6.10g",
+      "saturatedFatContent": "0.20g",
+      "servingSize": "100 g",
+      "sodiumContent": "260.00mg",
+      "sugarContent": "0.30g"
+    }
+  ],
+  "aggregateRating": {
+    "@context": "http://schema.org",
+    "@type": "AggregateRating",
+    "ratingCount": 150,
+    "ratingValue": 4.42
+  },
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Woolworths"
+  },
+  "createdAt": "2022-11-27T20:09:48.256Z",
+  "description": "<p></p>",
+  "gtin13": "0284912000000",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/366169.jpg",
+  "name": "Woolworths Tiger Crusty Baguette 340G",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 1.65,
+    "lowPrice": 1.65,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-27T20:09:48.252Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 1.65,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/366169/woolworths-tiger-crusty-baguette"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/366169/woolworths-tiger-crusty-baguette"
+  ],
+  "sku": "366169",
+  "updatedAt": "2022-11-27T20:09:48.252Z"
+}

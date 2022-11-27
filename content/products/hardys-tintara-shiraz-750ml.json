@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Hardys"
+  },
+  "createdAt": "2022-11-27T17:39:27.733Z",
+  "description": "<div>Flavoursome and full-bodied, this Shiraz is brooding with dark forest fruits, plums, cocoa and vanilla oak that make it’s a wonderful partner to enjoy with the family over a Sunday lunch of <a href=\"https://www.woolworths.com.au/shop/recipedetail/7646/balsamic-lamb-with-crispy-potatoes\" target=\"_blank\">balsamic lamb with crispy potatoes. </a></div><br><br><strong>Varietal: </strong>Shiraz<br><strong>Liquor Style: </strong>Dry Red<br><strong>Region Of Origin: </strong>McLaren Vale<br><strong>Country Of Origin: </strong>Australia<br><strong>Vintage: </strong>2016*<br><strong>Alcohol %: </strong>14.5<br><strong>Standard Drinks: </strong>8.6<br><br><em>*Vintage may vary from store to store</em>",
+  "gtin13": "9311043088261",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/744032.jpg",
+  "name": "Hardys Tintara Shiraz 750mL",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 30,
+    "lowPrice": 30,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-27T17:39:27.732Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 30,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/744032/hardys-tintara-shiraz"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/744032/hardys-tintara-shiraz"
+  ],
+  "sku": "744032",
+  "updatedAt": "2022-11-27T17:39:27.732Z"
+}

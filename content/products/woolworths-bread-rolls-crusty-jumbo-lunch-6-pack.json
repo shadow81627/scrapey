@@ -1,0 +1,66 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "1050.00kJ",
+      "carbohydrateContent": "43.00g",
+      "dietary_fibre": "2.60g",
+      "fatContent": "3.80g",
+      "name": "nutrition",
+      "proteinContent": "9.40g",
+      "saturatedFatContent": "0.80g",
+      "servingSize": "100 g",
+      "sodiumContent": "325.00mg",
+      "sugarContent": "0.80g"
+    }
+  ],
+  "aggregateRating": {
+    "@context": "http://schema.org",
+    "@type": "AggregateRating",
+    "ratingCount": 159,
+    "ratingValue": 4.18238993710692
+  },
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Woolworths"
+  },
+  "createdAt": "2022-11-27T19:59:24.326Z",
+  "description": "<p></p>",
+  "gtin13": "0280089000003",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/202563.jpg",
+  "name": "Woolworths Bread Rolls Crusty Jumbo Lunch 6 Pack",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2.85,
+    "lowPrice": 2.85,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-27T19:59:24.324Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 2.85,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/202563/woolworths-bread-rolls-crusty-jumbo-lunch"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/202563/woolworths-bread-rolls-crusty-jumbo-lunch"
+  ],
+  "sku": "202563",
+  "updatedAt": "2022-11-27T19:59:24.324Z"
+}

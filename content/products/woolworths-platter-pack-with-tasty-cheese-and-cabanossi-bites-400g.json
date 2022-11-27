@@ -1,0 +1,66 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "Approx.826kJ",
+      "carbohydrateContent": "&lt;1g",
+      "dietary_fibre": "-",
+      "fatContent": "Approx.18g",
+      "name": "nutrition",
+      "proteinContent": "Approx.8.8g",
+      "saturatedFatContent": "Approx.9g",
+      "servingSize": "100 g",
+      "sodiumContent": "Approx.405mg",
+      "sugarContent": "&lt;1g"
+    }
+  ],
+  "aggregateRating": {
+    "@context": "http://schema.org",
+    "@type": "AggregateRating",
+    "ratingCount": 856,
+    "ratingValue": 3.55607476635514
+  },
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Woolworths"
+  },
+  "createdAt": "2022-11-27T20:13:49.117Z",
+  "description": "Flavourful tasty cheese paired with cabanossi bites. Perfect for your party platters!",
+  "gtin13": "9339687201198",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/109012.jpg",
+  "name": "Woolworths Platter Pack With Tasty Cheese & Cabanossi Bites 400G",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 9,
+    "lowPrice": 9,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-27T20:13:49.115Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 9,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/109012/woolworths-platter-pack-with-tasty-cheese-cabanossi-bites"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/109012/woolworths-platter-pack-with-tasty-cheese-cabanossi-bites"
+  ],
+  "sku": "109012",
+  "updatedAt": "2022-11-27T20:13:49.115Z"
+}

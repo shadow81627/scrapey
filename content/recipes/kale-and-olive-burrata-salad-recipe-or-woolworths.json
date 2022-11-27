@@ -1,56 +1,67 @@
 {
   "@type": "Recipe",
+  "author": {
+    "@type": "Person",
+    "name": "Produced for Woolworths"
+  },
+  "cookTime": "PT0M",
   "createdAt": "2022-11-26T02:00:36.624Z",
-  "datePublished": "2022-08-08",
+  "datePublished": "2022-09-26",
   "description": "Mediterranean flavours bring this kale based salad to life.",
-  "image": "https://foodhub.scene7.com/is/image/woolworthsltdprod/kale-and-olive-burrata-salad?wid=4130&hei=4130&fmt=png-alpha",
-  "keywords": "Kale & Olive Burrata Salad",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1300,
+    "mime": "image/jpeg",
+    "url": "https://foodhub.scene7.com/is/image/woolworthsltdprod/kale-and-olive-burrata-salad:Square-1300x1300",
+    "width": 1300
+  },
+  "keywords": "Green salad,Seafood free,Kale,Egg free,Tomato,Peanut free",
   "name": "Kale & Olive Burrata Salad Recipe | Woolworths",
   "prepTime": "PT10M",
-  "recipeCategory": "salads",
-  "recipeCuisine": "european",
+  "recipeCategory": "Salads",
+  "recipeCuisine": "Italian",
   "recipeId": "RGWW338315",
   "recipeIngredient": [
-    "400 g kale",
-    "240 g burrata",
-    "4 medium heirloom tomato",
-    "80 g green olives",
-    "80 g croutons",
+    "400g kale, washed, drained and stems removed",
+    "240g burrata, drained and sliced",
+    "4 medium heirloom tomato, sliced",
+    "80g green olives, pitted and halved",
+    "80g croutons",
     "1 pinch salt",
     "1 pinch cracked black pepper",
     "2 tbs olive oil",
     "1 tsp garlic powder",
     "2 tbs balsamic vinegar",
-    "1 tbs basil"
+    "1 tbs basil, chopped"
   ],
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Drizzle with the sauce before serving."
+      "HowToTip": {},
+      "text": "In a small bowl, combine the olive oil with the salt, pepper, garlic, balsamic and basil and set to one side."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Drizzle with the sauce before serving."
+      "HowToTip": {},
+      "text": "Place the kale leaves on your serving plates and then equally place the sliced burrata and tomatoes."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Drizzle with the sauce before serving."
+      "HowToTip": {},
+      "text": "Sprinkle the croutons and olives over the salad plates."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
+      "HowToTip": {},
       "text": "Drizzle with the sauce before serving."
     }
   ],
   "recipeNameId": "kale-and-olive-burrata-salad",
   "recipeYield": "4",
   "sameAs": [
-    "https://woolworths.com.au/shop/find-recipes/burrata-salad-recipe"
+    "https://woolworths.com.au/shop/recipes/kale-and-olive-burrata-salad"
   ],
   "totalTime": "PT10M",
-  "updatedAt": "2022-11-26T02:00:36.623Z",
+  "updatedAt": "2022-11-27T21:48:30.452Z",
   "url": "https://www.woolworths.com.au/shop/recipes/kale-and-olive-burrata-salad"
 }

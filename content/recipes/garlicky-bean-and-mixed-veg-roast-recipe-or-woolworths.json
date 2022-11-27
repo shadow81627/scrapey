@@ -1,30 +1,40 @@
 {
   "@type": "Recipe",
+  "author": {
+    "@type": "Person",
+    "name": "Licensed by Woolworths - ©️ Octopus Publishing Ltd"
+  },
   "cookTime": "PT40M",
   "createdAt": "2022-11-22T12:23:57.000Z",
-  "datePublished": "2022-05-10",
+  "datePublished": "2022-08-03",
   "description": "Try our easy to follow Garlicky Bean & Mixed Veg Roast recipe. Absolutely delicious with the best ingredients from Woolworths.",
-  "image": "https://foodhub.scene7.com/is/image/woolworthsltdprod/089-garlicky-bean?wid=4080&hei=5437&fmt=png-alpha",
-  "keywords": "Garlicky Bean & Mixed Veg Roast",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1300,
+    "mime": "image/jpeg",
+    "url": "https://foodhub.scene7.com/is/image/woolworthsltdprod/089-garlicky-bean:Square-1300x1300",
+    "width": 1300
+  },
+  "keywords": "Roast vegetable",
   "name": "Garlicky Bean & Mixed Veg Roast Recipe | Woolworths",
   "prepTime": "PT15M",
-  "recipeCategory": "mains",
-  "recipeCuisine": "australian",
+  "recipeCategory": "Lunch,Dinner",
+  "recipeCuisine": "Australian",
   "recipeId": "RGR2318",
   "recipeIngredient": [
-    "1 green capsicum",
-    "1 red capsicum",
-    "1 yellow capsicum",
-    "1 eggplant",
-    "1 zucchini",
-    "1 red onion",
+    "1 green capsicum, cored, seeded, and cut into chunks",
+    "1 red capsicum, cored, seeded, and cut into chunks",
+    "1 yellow capsicum, cored, seeded, and cut into chunks",
+    "1 eggplant, trimmed and cut into chunks",
+    "1 zucchini, trimmed and sliced",
+    "1 red onion, cut into wedges",
     "3 rosemary sprigs",
     "3 thyme sprigs",
     "0.25 cup olive oil",
-    "4 tomatoes",
+    "4 tomatoes, cut into wedges",
     "2 cups trimmed button mushrooms",
-    "4 cloves garlic",
-    "426 g great Northern beans",
+    "4 cloves garlic, unpeeled",
+    "426g great Northern beans, drained",
     "2 tbs balsamic vinegar",
     "0.5 cup black ripe olives",
     "1 pinch salt",
@@ -33,26 +43,26 @@
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Squeeze the soft garlic out of its skin onto the vegetables in the pan. Add the beans and vinegar and mix well. Return to the oven for a final 10 minutes. Sprinkle with the olives and serve with crusty bread."
+      "HowToTip": {},
+      "text": "Put the capsicums, eggplant, zucchini, onion, rosemary, and thyme in a large roasting pan. Drizzle with the oil, season with salt and black pepper, and toss until evenly coated in the oil, then spread out in a single layer. Roast a preheated oven, at 200°C, for 20 minutes, until starting to soften."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Squeeze the soft garlic out of its skin onto the vegetables in the pan. Add the beans and vinegar and mix well. Return to the oven for a final 10 minutes. Sprinkle with the olives and serve with crusty bread."
+      "HowToTip": {},
+      "text": "Add the tomatoes, mushrooms, and garlic cloves and mix with the other vegetables, then roast for another 10 minutes, until all the vegetables are tender."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
+      "HowToTip": {},
       "text": "Squeeze the soft garlic out of its skin onto the vegetables in the pan. Add the beans and vinegar and mix well. Return to the oven for a final 10 minutes. Sprinkle with the olives and serve with crusty bread."
     }
   ],
   "recipeNameId": "garlicky-bean-and-mixed-veg-roast",
   "recipeYield": "4",
   "sameAs": [
-    "https://woolworths.com.au/shop/find-recipes/veg-recipes"
+    "https://woolworths.com.au/shop/recipes/garlicky-bean-and-mixed-veg-roast"
   ],
   "totalTime": "PT55M",
-  "updatedAt": "2022-11-22T08:31:03.454Z",
+  "updatedAt": "2022-11-27T16:28:30.666Z",
   "url": "https://www.woolworths.com.au/shop/recipes/garlicky-bean-and-mixed-veg-roast"
 }

@@ -1,0 +1,60 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "213.4kJ",
+      "carbohydrateContent": "0.3g",
+      "dietary_fibre": "-",
+      "fatContent": "3.6g",
+      "name": "nutrition",
+      "proteinContent": "4.3g",
+      "saturatedFatContent": "1.5g",
+      "servingSize": "100 g",
+      "sodiumContent": "310.7mg",
+      "sugarContent": "Less than 1g"
+    }
+  ],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "San Marino"
+  },
+  "createdAt": "2022-11-27T19:55:53.534Z",
+  "description": "The perfect base for your antipasto platters! Featuring three crowd pleasing cured meats. Add your favourite cheeses and antipasto items to the already perfectly sliced Prosciutto, Mild Soppressa Salami and Hot Soppressa Salami for a perfect platter!",
+  "gtin13": "9310591503028",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/063990.jpg",
+  "name": "San Marino Artisan Selection Platter 110G",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 8,
+    "lowPrice": 8,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-27T19:55:53.533Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 8,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/63990/san-marino-artisan-selection-platter"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/63990/san-marino-artisan-selection-platter"
+  ],
+  "sku": "63990",
+  "updatedAt": "2022-11-27T19:55:53.534Z"
+}

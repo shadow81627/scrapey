@@ -1,0 +1,60 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "712.0kJ",
+      "carbohydrateContent": "3.4g",
+      "dietary_fibre": "2.6g",
+      "fatContent": "12.5g",
+      "name": "nutrition",
+      "proteinContent": "9.8g",
+      "saturatedFatContent": "7.3g",
+      "servingSize": "100 g",
+      "sodiumContent": "174.0mg",
+      "sugarContent": "0.6g"
+    }
+  ],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "V2"
+  },
+  "createdAt": "2022-11-27T17:17:04.488Z",
+  "description": "Plant-based v2sausage - Garlic & Herb is a succulent beef flavoured sausages, seasoned with garlic, parsley and thyme.<br><br>At v2, we're all about great tasting food and that's something we can all agree on. Say hello to your newest crowd pleaser! Plant-based v2sausage® Garlic & Herb are perfect in a sausage sanga or chopped and stirred through your favourite meals. <br><br>We're Australian-made from soy, with no artificial colours or flavours, non-gmo and with the healthy benefits of protein and fibre. Did we mention that we're also packed with flavour? Enjoy!",
+  "gtin13": "9356418001209",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/238197.jpg",
+  "name": "V2 Plant Based Sausages Garlic & Herb 6 Pack",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 9.5,
+    "lowPrice": 9.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-27T17:17:04.487Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 9.5,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/238197/v2-plant-based-sausages-garlic-herb"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/238197/v2-plant-based-sausages-garlic-herb"
+  ],
+  "sku": "238197",
+  "updatedAt": "2022-11-27T17:17:04.487Z"
+}

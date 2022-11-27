@@ -1,68 +1,78 @@
 {
   "@type": "Recipe",
+  "author": {
+    "@type": "Person",
+    "name": "Produced for Woolworths"
+  },
   "cookTime": "PT25M",
   "createdAt": "2022-11-23T02:35:54.000Z",
-  "datePublished": "2022-06-28",
-  "description": "The winning combo of chocolate and orange makes for a crowd pleasing cupcake the whole family will love. ",
-  "image": "https://foodhub.scene7.com/is/image/woolworthsltdprod/chocolate-orange-cupcakes?wid=4317&hei=4317&fmt=png-alpha",
-  "keywords": "Chocolate Orange Cupcakes",
+  "datePublished": "2022-08-03",
+  "description": "The winning combo of chocolate and orange makes for a crowd pleasing cupcake the whole family will love.  ",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1300,
+    "mime": "image/jpeg",
+    "url": "https://foodhub.scene7.com/is/image/woolworthsltdprod/chocolate-orange-cupcakes:Square-1300x1300",
+    "width": 1300
+  },
+  "keywords": "Cupcake,Orange,Seafood free,Chocolate,Sesame free,Peanut free",
   "name": "Chocolate Orange Cupcakes Recipe | Woolworths",
   "prepTime": "PT15M",
-  "recipeCategory": "desserts",
-  "recipeCuisine": "north-american",
+  "recipeCategory": "Desserts",
+  "recipeCuisine": "American",
   "recipeId": "RGWW338235",
   "recipeIngredient": [
-    "160 g unsalted butter",
-    "1 medium egg",
-    "60 g caster sugar",
-    "1 medium orange",
-    "60 g self raising flour",
-    "50 g milk chocolate",
-    "100 g icing sugar"
+    "160g unsalted butter, 100g for icing, 60g for batter",
+    "1 medium egg, free range",
+    "60g caster sugar",
+    "1 medium orange, keep zest and juice",
+    "60g self raising flour",
+    "50g milk chocolate",
+    "100g icing sugar"
   ],
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Garnish with orange zest before serving."
+      "HowToTip": {},
+      "text": "Pre-heat the oven to 180°C/160°C fan-forced and lightly grease your cupcake baking tin."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Garnish with orange zest before serving."
+      "HowToTip": {},
+      "text": "In a mixing bowl, combine 60g of the butter and the egg with the caster sugar and 1 tbs of orange juice."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Garnish with orange zest before serving."
+      "HowToTip": {},
+      "text": "Add the flour to the mixture while stirring constantly to achieve a smooth batter."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Garnish with orange zest before serving."
+      "HowToTip": {},
+      "text": "Melt the chocolate in the microwave for a few seconds and add to the batter."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Garnish with orange zest before serving."
+      "HowToTip": {},
+      "text": "Equally pour the batter into 6 cupcake holders and bake for 25 minutes. Remove from the oven and allow to cool."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Garnish with orange zest before serving."
+      "HowToTip": {},
+      "text": "In a mixing bowl, combine the icing sugar with 100g of butter. Using a piping bag, ice the cupcakes."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
+      "HowToTip": {},
       "text": "Garnish with orange zest before serving."
     }
   ],
   "recipeNameId": "chocolate-orange-cupcakes",
   "recipeYield": "6",
   "sameAs": [
-    "https://woolworths.com.au/shop/find-recipes/chocolate-cupcake-icing"
+    "https://woolworths.com.au/shop/recipes/chocolate-orange-cupcakes"
   ],
   "totalTime": "PT40M",
-  "updatedAt": "2022-11-23T00:14:15.995Z",
+  "updatedAt": "2022-11-27T14:40:15.469Z",
   "url": "https://www.woolworths.com.au/shop/recipes/chocolate-orange-cupcakes"
 }

@@ -1,0 +1,66 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "988.00kJ",
+      "carbohydrateContent": "45.00g",
+      "dietary_fibre": "2.60g",
+      "fatContent": "1.80g",
+      "name": "nutrition",
+      "proteinContent": "7.70g",
+      "saturatedFatContent": "0.10g",
+      "servingSize": "100 g",
+      "sodiumContent": "333.00mg",
+      "sugarContent": "0.40g"
+    }
+  ],
+  "aggregateRating": {
+    "@context": "http://schema.org",
+    "@type": "AggregateRating",
+    "ratingCount": 9,
+    "ratingValue": 4.88888888888889
+  },
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Woolworths"
+  },
+  "createdAt": "2022-11-27T19:52:03.618Z",
+  "description": "<p></p>",
+  "gtin13": "0280528000007",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/262643.jpg",
+  "name": "Woolworths Bread Rolls Extra Soft Jumbo Hotdog 6 Pack",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2.85,
+    "lowPrice": 2.85,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-27T19:52:03.617Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 2.85,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/262643/woolworths-bread-rolls-extra-soft-jumbo-hotdog"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/262643/woolworths-bread-rolls-extra-soft-jumbo-hotdog"
+  ],
+  "sku": "262643",
+  "updatedAt": "2022-11-27T19:52:03.617Z"
+}

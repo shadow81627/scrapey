@@ -1,0 +1,60 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "890kJ",
+      "carbohydrateContent": "0.7g",
+      "dietary_fibre": "-",
+      "fatContent": "21.6g",
+      "name": "nutrition",
+      "proteinContent": "13.1g",
+      "saturatedFatContent": "8.3g",
+      "servingSize": "100 g",
+      "sodiumContent": "1030mg",
+      "sugarContent": "0.2g"
+    }
+  ],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Gotzinger"
+  },
+  "createdAt": "2022-11-27T20:11:40.822Z",
+  "description": "The true taste of Oktoberfest! Coarse pork sausage spiced with marjoram and pepper!",
+  "gtin13": "9329937007113",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/366112.jpg",
+  "name": "Gotzinger German Bratwurst 400G",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 9.5,
+    "lowPrice": 9.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-27T20:11:40.821Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 9.5,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/366112/gotzinger-german-bratwurst"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/366112/gotzinger-german-bratwurst"
+  ],
+  "sku": "366112",
+  "updatedAt": "2022-11-27T20:11:40.821Z"
+}

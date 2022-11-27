@@ -1,0 +1,66 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "562.00kJ",
+      "carbohydrateContent": "22.30g",
+      "dietary_fibre": "1.50g",
+      "fatContent": "2.20g",
+      "name": "nutrition",
+      "proteinContent": "5.10g",
+      "saturatedFatContent": "0.50g",
+      "servingSize": "100 g",
+      "sodiumContent": "329.00mg",
+      "sugarContent": "1.00g"
+    }
+  ],
+  "aggregateRating": {
+    "@context": "http://schema.org",
+    "@type": "AggregateRating",
+    "ratingCount": 159,
+    "ratingValue": 4.69182389937107
+  },
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Woolworths"
+  },
+  "createdAt": "2022-11-27T20:01:37.593Z",
+  "description": "Proudly made with Australian wheat flour, this sourdough bread recipe has been created by an expert artisan baker. Each 35 hour recipe loaf begins with a traditional culture, is slowly fermented then rested before being fully baked on stone giving a distinctive flavour and light open internal texture. Finished in our in-store ovens for a crisp crust.",
+  "gtin13": "0284732000006",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/363945.jpg",
+  "name": "Woolworths 35hr Sourdough Loaf Kalamata Olive Each",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 6,
+    "lowPrice": 6,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-27T20:01:37.577Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 6,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/363945/woolworths-35hr-sourdough-loaf-kalamata-olive"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/363945/woolworths-35hr-sourdough-loaf-kalamata-olive"
+  ],
+  "sku": "363945",
+  "updatedAt": "2022-11-27T20:01:37.577Z"
+}

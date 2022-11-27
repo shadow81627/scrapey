@@ -1,0 +1,45 @@
+{
+  "@type": "Product",
+  "additionalProperty": [],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Plantein"
+  },
+  "createdAt": "2022-11-27T17:18:31.501Z",
+  "gtin13": "9330752003358",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/090130.jpg",
+  "name": "Plantein Plant Based Schnitzel 300G",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 8,
+    "lowPrice": 8,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-27T17:18:31.500Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 8,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/90130/plantein-plant-based-schnitzel"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/90130/plantein-plant-based-schnitzel"
+  ],
+  "sku": "90130",
+  "updatedAt": "2022-11-27T17:18:31.500Z"
+}

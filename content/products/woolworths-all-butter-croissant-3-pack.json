@@ -1,0 +1,66 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "975.0kJ",
+      "carbohydrateContent": "26.5g",
+      "dietary_fibre": "1.76g",
+      "fatContent": "10.8g",
+      "name": "nutrition",
+      "proteinContent": "6.6g",
+      "saturatedFatContent": "7.2g",
+      "servingSize": "100 g",
+      "sodiumContent": "210.0mg",
+      "sugarContent": "4.2g"
+    }
+  ],
+  "aggregateRating": {
+    "@context": "http://schema.org",
+    "@type": "AggregateRating",
+    "ratingCount": 540,
+    "ratingValue": 4.53703703703704
+  },
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Woolworths"
+  },
+  "createdAt": "2022-11-27T20:00:47.173Z",
+  "description": "3 All Butter Croissants prefect with your favourite filling, morning, noon and night",
+  "gtin13": "9300633680572",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/097237.jpg",
+  "name": "Woolworths All Butter Croissant 3 Pack",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2.5,
+    "lowPrice": 2.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-27T20:00:47.171Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 2.5,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/97237/woolworths-all-butter-croissant"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/97237/woolworths-all-butter-croissant"
+  ],
+  "sku": "97237",
+  "updatedAt": "2022-11-27T20:00:47.171Z"
+}

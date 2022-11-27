@@ -1,62 +1,77 @@
 {
   "@type": "Recipe",
+  "author": {
+    "@type": "Person",
+    "name": "Customer - watchit"
+  },
   "cookTime": "PT30M",
   "createdAt": "2022-11-24T22:03:11.000Z",
-  "datePublished": "2021-06-01",
+  "datePublished": "2022-09-26",
   "description": "Enjoy these cheesy stuffed potatoes on their own or as a side dish. ",
-  "image": "https://foodhub.scene7.com/is/image/woolworthsltdprod/ynznf9yaqbxzgztwwiuf?wid=2815&hei=2448&fmt=png-alpha",
-  "keywords": "Cheesy Stuffed Potatoes",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1300,
+    "mime": "image/jpeg",
+    "url": "https://foodhub.scene7.com/is/image/woolworthsltdprod/ynznf9yaqbxzgztwwiuf:Square-1300x1300",
+    "width": 1300
+  },
+  "keywords": "Stuffed vegetable,Seafood free,Gluten free,Tree nut free,Egg free,Sesame free,Potato,Soy free,Wheat free,Peanut free",
   "name": "Cheesy Stuffed Potatoes Recipe | Woolworths",
   "prepTime": "PT10M",
-  "recipeCategory": "side-dishes",
-  "recipeCuisine": "australian",
+  "recipeCategory": "Appetisers,Side dishes",
+  "recipeCuisine": "Australian",
   "recipeId": "a0K2y00000117oNEAQ",
   "recipeIngredient": [
     "2 washed potatoes, halved",
-    "1 tbs chopped parsley",
+    "1-2 tbs chopped parsley",
     "2 shallots finely chopped",
-    "3 tbs bacon",
-    "4 tbs cheese",
+    "3 tbs bacon, diced",
+    "4 tbs cheese, grated",
     "sour cream or cream"
   ],
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Place under a hot grill until the cheese melts and is golden brown. If the potatoes are being made some time ahead before you want to eat them, cook them in the oven so that they heat through and are golden on top."
+      "HowToTip": {},
+      "image": "https://foodhub.scene7.com/is/image/woolworthsltdprod/omdl0mtvsdau7pjmy8if?wid=3264&hei=2448&fmt=png-alpha",
+      "text": "Wash and halve the potatoes and cook in salted water until very soft, about 30 minutes depending on how many being cooked. Dice the bacon, shallots, parsley and grate cheese."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Place under a hot grill until the cheese melts and is golden brown. If the potatoes are being made some time ahead before you want to eat them, cook them in the oven so that they heat through and are golden on top."
+      "HowToTip": {},
+      "text": "Cook the bacon."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Place under a hot grill until the cheese melts and is golden brown. If the potatoes are being made some time ahead before you want to eat them, cook them in the oven so that they heat through and are golden on top."
+      "HowToTip": {},
+      "image": "https://foodhub.scene7.com/is/image/woolworthsltdprod/lewl5foppdt7rzoeaya2?wid=3182&hei=2448&fmt=png-alpha",
+      "text": "With a spoon remove the inside of the potatoes and put into a bowl, leaving a small rim on the edge and the skin."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Place under a hot grill until the cheese melts and is golden brown. If the potatoes are being made some time ahead before you want to eat them, cook them in the oven so that they heat through and are golden on top."
+      "HowToTip": {},
+      "image": "https://foodhub.scene7.com/is/image/woolworthsltdprod/xixbcdelnlisquxicmrm?wid=3182&hei=2448&fmt=png-alpha",
+      "text": "Mash the potatoes and add the cooked bacon and shallots, parsley, and some of the grated cheese and about 2 tablespoons cream or sour cream to taste. Mix it all together until it is all combined. Add more cream or sour cream if needed but don't add too much cream that will make the mix too runny. The amount of cream or sour cream depends on the texture of the potatoes."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Place under a hot grill until the cheese melts and is golden brown. If the potatoes are being made some time ahead before you want to eat them, cook them in the oven so that they heat through and are golden on top."
+      "HowToTip": {},
+      "image": "https://foodhub.scene7.com/is/image/woolworthsltdprod/pdmtxb0pv1wsxdf7ovhc?wid=3182&hei=2448&fmt=png-alpha",
+      "text": "Heap the halved potatoes with the potato mixture. Covering all the potato shells and mounding the top. Use the rest of the cheese on top of each potato."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
+      "HowToTip": {},
+      "image": "https://foodhub.scene7.com/is/image/woolworthsltdprod/xtx0ljli27fvegm3ubnr?wid=3182&hei=2448&fmt=png-alpha",
       "text": "Place under a hot grill until the cheese melts and is golden brown. If the potatoes are being made some time ahead before you want to eat them, cook them in the oven so that they heat through and are golden on top."
     }
   ],
   "recipeNameId": "cheesy-stuffed-potatoes",
   "recipeYield": "4",
   "sameAs": [
-    "https://woolworths.com.au/shop/find-recipes/stuffed-potato"
+    "https://woolworths.com.au/shop/recipes/cheesy-stuffed-potatoes"
   ],
   "totalTime": "PT40M",
-  "updatedAt": "2022-11-24T14:45:10.077Z",
+  "updatedAt": "2022-11-27T16:39:34.938Z",
   "url": "https://www.woolworths.com.au/shop/recipes/cheesy-stuffed-potatoes"
 }

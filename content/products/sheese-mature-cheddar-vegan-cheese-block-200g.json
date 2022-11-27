@@ -1,0 +1,66 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "378kJ",
+      "carbohydrateContent": "6.5g",
+      "dietary_fibre": "1.2g",
+      "fatContent": "6.9g",
+      "name": "nutrition",
+      "proteinContent": "0.2g",
+      "saturatedFatContent": "5.7g",
+      "servingSize": "100 g",
+      "sodiumContent": "216mg",
+      "sugarContent": "&lt;0.1g"
+    }
+  ],
+  "aggregateRating": {
+    "@context": "http://schema.org",
+    "@type": "AggregateRating",
+    "ratingCount": 1,
+    "ratingValue": 5
+  },
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Sheese"
+  },
+  "createdAt": "2022-11-27T17:33:14.751Z",
+  "description": "Sheese's plant based Mature Style Block tastes so good  - you'd never know it's vegan friendly!<BR><BR>Delicious plant based mature style block Sheese. If you've been looking for a plant based alternative that delivers the taste, bite and versatility you're after - then look no further!<br/><br/>Vegan friendly<br/>Contains no artificial colours, flavours or preservatives<br/>Non GMO<br/>Soya Free<BR><BR>Vegan friendly<BR><BR>No artificial colours, flavour or preservatives<BR><BR>Non GMO<BR><BR>Soya free",
+  "gtin13": "5034795000926",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/675781.jpg",
+  "name": "Sheese Mature Cheddar Vegan Cheese Block 200G",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 6.5,
+    "lowPrice": 6.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-27T17:33:14.750Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 6.5,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/675781/sheese-mature-cheddar-vegan-cheese-block"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/675781/sheese-mature-cheddar-vegan-cheese-block"
+  ],
+  "sku": "675781",
+  "updatedAt": "2022-11-27T17:33:14.750Z"
+}

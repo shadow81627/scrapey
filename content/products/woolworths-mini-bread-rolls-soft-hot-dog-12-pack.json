@@ -1,0 +1,66 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "456.00kJ",
+      "carbohydrateContent": "19.20g",
+      "dietary_fibre": "1.30g",
+      "fatContent": "1.60g",
+      "name": "nutrition",
+      "proteinContent": "3.50g",
+      "saturatedFatContent": "0.40g",
+      "servingSize": "100 g",
+      "sodiumContent": "146.00mg",
+      "sugarContent": "0.20g"
+    }
+  ],
+  "aggregateRating": {
+    "@context": "http://schema.org",
+    "@type": "AggregateRating",
+    "ratingCount": 133,
+    "ratingValue": 4.56390977443609
+  },
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Woolworths"
+  },
+  "createdAt": "2022-11-27T20:10:44.141Z",
+  "description": "<p></p>",
+  "gtin13": "0286969000002",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/720679.jpg",
+  "name": "Woolworths Mini Bread Rolls Soft Hot Dog 12 Pack",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 4.5,
+    "lowPrice": 4.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-27T20:10:44.125Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 4.5,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/720679/woolworths-mini-bread-rolls-soft-hot-dog"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/720679/woolworths-mini-bread-rolls-soft-hot-dog"
+  ],
+  "sku": "720679",
+  "updatedAt": "2022-11-27T20:10:44.125Z"
+}

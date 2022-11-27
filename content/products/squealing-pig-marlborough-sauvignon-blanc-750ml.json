@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Squealing Pig"
+  },
+  "createdAt": "2022-11-27T17:44:13.813Z",
+  "description": "<p>Sourced from hidden vineyards in the Awatere Valley, this little pig is packed with passionfruit and herbaceous aromas on the nose. On the palate, it?s all about that crisp, citrus flavour with a long finish. Best to drink when young and fresh.</p><br><br><strong>Varietal: </strong>Sauvignon Blanc<br><strong>Liquor Style: </strong>Medium Bodied White<br><strong>Region Of Origin: </strong>Marlborough<br><strong>Country Of Origin: </strong>New Zealand<br><strong>Vintage: </strong>2018*<br><strong>Alcohol %: </strong>13<br><strong>Standard Drinks: </strong>7.7",
+  "gtin13": "9415305127092",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/459634.jpg",
+  "name": "Squealing Pig Marlborough Sauvignon Blanc 750mL",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 16,
+    "lowPrice": 16,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/OutOfStock",
+        "availabilityStarts": "2022-11-27T17:44:13.812Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 16,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/459634/squealing-pig-marlborough-sauvignon-blanc"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/459634/squealing-pig-marlborough-sauvignon-blanc"
+  ],
+  "sku": "459634",
+  "updatedAt": "2022-11-27T17:44:13.812Z"
+}

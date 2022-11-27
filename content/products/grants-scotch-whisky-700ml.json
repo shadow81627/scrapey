@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Grant's"
+  },
+  "createdAt": "2022-11-27T17:49:34.672Z",
+  "description": "Grant's has been around since 1898, and has long been a blender of quality Scotch. This is the original Grant's Scotch Whisky. It's silky, smooth with a smoky finish and is still one to please, after all this time.<br><br><strong>Spirit Type: </strong>Whisky<br><strong>Varietal: </strong>Blended Whisky<br><strong>Alcohol %: </strong>40<br><strong>Standard Drinks: </strong>22<br><strong>Country Of Origin: </strong>Scotland",
+  "gtin13": "5010327000404",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/043457.jpg",
+  "name": "Grant's Scotch Whisky 700mL",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 40,
+    "lowPrice": 40,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-27T17:49:34.672Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 40,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/43457/grant-s-scotch-whisky"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/43457/grant-s-scotch-whisky"
+  ],
+  "sku": "43457",
+  "updatedAt": "2022-11-27T17:49:34.672Z"
+}

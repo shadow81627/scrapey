@@ -1,0 +1,45 @@
+{
+  "@type": "Product",
+  "additionalProperty": [],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Evergreen"
+  },
+  "createdAt": "2022-11-27T17:25:21.341Z",
+  "gtin13": "9323536721029",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/119028.jpg",
+  "name": "Evergreen Original Tofu Regular Firm 900G",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 5,
+    "lowPrice": 5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-27T17:25:21.341Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 5,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/119028/evergreen-original-tofu-regular-firm"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/119028/evergreen-original-tofu-regular-firm"
+  ],
+  "sku": "119028",
+  "updatedAt": "2022-11-27T17:25:21.341Z"
+}
