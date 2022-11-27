@@ -124,5 +124,13 @@ export default async function crawl(
   const duration = Number(parseHrtimeToSeconds(process.hrtime(startTime)));
   return { duration };
 }
-export type Crawler = typeof crawl;
-expose(crawl);
+async function complete() {
+  AppDataSource.destroy()
+}
+
+const worker = {
+  crawl,
+  complete,
+}
+export type Crawler = typeof worker;
+expose(worker);
