@@ -16,6 +16,7 @@ const { readFile } = fsPromises;
 const schemaDomainRegex = /https?:\/\/schema.org\//g;
 import { expose } from 'threads/worker';
 import AppDataSource from '../data-source';
+import parseHrtimeToSeconds from '../../utils/parseHrtimeToSeconds';
 const userAgent =
   'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:106.0) Gecko/20100101 Firefox/106.0';
 
@@ -76,6 +77,7 @@ async function loadDB(filename: string) {
               where: [{ url: { id: url.id } }],
               relations: { url: true },
             })) ?? connection.manager.create(Image, { url });
+          const probeStartTime = process.hrtime();
           if (!url.crawledAt) {
             try {
               const { width, height, mime } = await probe(imageUrl, {
@@ -91,7 +93,9 @@ async function loadDB(filename: string) {
             } catch (e) {
               console.error(e);
             } finally {
+              const duration = Number(parseHrtimeToSeconds(process.hrtime(probeStartTime)));
               url.crawledAt = new Date();
+              url.duration = duration;
               await connection.manager.save(url);
             }
           }
