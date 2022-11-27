@@ -42,7 +42,7 @@ const argv = yargs
  * Main top level async/await
  */
 (async () => {
-  const fileUrlMap = await getFileUrlMap(argv);
+  const fileUrlMap = argv.url ? new Map() : await getFileUrlMap(argv);
   const tempFileNameMap: Map<string, string[]> = new Map();
   for (const [url, filename] of fileUrlMap.entries()) {
     tempFileNameMap.set(filename, [...tempFileNameMap.get(filename) ?? [], url]);
