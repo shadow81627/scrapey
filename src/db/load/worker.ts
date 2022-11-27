@@ -91,7 +91,7 @@ async function loadDB(filename: string) {
               // }
               await connection.manager.save(image);
             } catch (e) {
-              console.error(e);
+              console.error('Image Probe Error:', imageUrl, e);
             } finally {
               const duration = Number(parseHrtimeToSeconds(process.hrtime(probeStartTime)));
               url.crawledAt = new Date();
