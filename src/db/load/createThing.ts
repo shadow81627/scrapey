@@ -31,7 +31,7 @@ export default async function createThing({
     additionalProperty,
   });
   if (urls) {
-    thing.urls = (thing.urls ?? []).concat(urls);
+    thing.urls = _.uniqBy((thing.urls ?? []).concat(urls), 'id');
   }
   await connection.manager.save(thing);
   return thing;
