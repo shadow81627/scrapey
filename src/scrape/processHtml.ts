@@ -1,30 +1,27 @@
-import cheerio from 'cheerio';
 import slugify from 'slugify';
-import he from 'he';
 import deepSort from '../utils/deepSort';
 import _ from 'lodash';
 import renameKeys from '../utils/renameKeys';
 import Thing from '../models/Thing';
+import { parse } from 'node-html-parser';
 
 const linkDataTypes = ['Product', 'Recipe', 'VideoObject'];
 
 export function processHtml(url: string, html: string): Thing | undefined {
   // parse html and extract data to json file
-  const $ = cheerio.load(html, { decodeEntities: true });
-  const elements = $('script[type="application/ld+json"]')
-    .map((_, e) => $(e).html())
-    .get();
+  const document = parse(html);
+  const elements = document.querySelectorAll(
+    'script[type="application/ld+json"]',
+  );
 
   for (const element of elements) {
-    const linkDataHtmlDecoded = he.decode(element);
-    const html = cheerio.load(linkDataHtmlDecoded).root().text();
-    const parsedData = JSON.parse(html);
+    const parsedData = JSON.parse(element.rawText);
 
     // check graph for recipe
     const linkData =
       parsedData &&
-        parsedData['@graph'] &&
-        !linkDataTypes.includes(_.upperFirst(parsedData['@type']))
+      parsedData['@graph'] &&
+      !linkDataTypes.includes(_.upperFirst(parsedData['@type']))
         ? _.find(parsedData['@graph'], { '@type': 'Recipe' })
         : (parsedData as Thing);
 
@@ -66,27 +63,40 @@ export function processHtml(url: string, html: string): Thing | undefined {
         if (url.startsWith('https://www.connoisseurusveg.com/')) {
           const image = {
             '@type': 'ImageObject',
-            height: $('meta[property="og:image:width"]').attr('content'),
-            url: $('meta[property="og:image"]').attr('content'),
-            width: $('meta[property="og:image:height"]').attr('content'),
+            height: document
+              .querySelector('meta[property="og:image:width"]')
+              ?.getAttribute('content'),
+            url: document
+              .querySelector('meta[property="og:image"]')
+              ?.getAttribute('content'),
+            width: document
+              .querySelector('meta[property="og:image:height"]')
+              ?.getAttribute('content'),
           };
           linkData.image = image;
         }
       }
       if (type === 'Product') {
         if (url.includes('woolworths')) {
-          const price = $('.price').text();
+          const price = document.querySelector('.price')?.rawText;
           const nutritionScraped: Record<string, string> = {};
-          $('.nutrition-row').each(function (_, rowElement) {
-            const key = slugify(
-              $($('.nutrition-column', rowElement).get(0)).text(),
-              { lower: true, strict: true, replacement: '_' },
-            );
-            const value = $($('.nutrition-column', rowElement).get(1))
-              .text()
-              .trim();
-            nutritionScraped[key] = value;
-          });
+          document
+            .querySelectorAll('.nutrition-row')
+            .forEach(function (rowElement) {
+              const keyElementText =
+                rowElement.querySelectorAll('.nutrition-column')[0]?.rawText ??
+                '';
+              const valueElementText =
+                rowElement.querySelectorAll('.nutrition-column')[1]?.rawText ??
+                '';
+              const key = slugify(keyElementText, {
+                lower: true,
+                strict: true,
+                replacement: '_',
+              });
+              const value = valueElementText.trim();
+              nutritionScraped[key] = value;
+            });
           const nutritionKeyRenameMap = {
             energy: 'calories',
             protein: 'proteinContent',
@@ -96,10 +106,7 @@ export function processHtml(url: string, html: string): Thing | undefined {
             sugars: 'sugarContent',
             sodium: 'sodiumContent',
           };
-          const nutrition = renameKeys(
-            nutritionKeyRenameMap,
-            nutritionScraped,
-          );
+          const nutrition = renameKeys(nutritionKeyRenameMap, nutritionScraped);
           linkData.additionalProperty = linkData.additionalProperty
             ? linkData.additionalProperty
             : [];
