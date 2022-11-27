@@ -2,7 +2,11 @@
 
 > Web content scraping for fetching html and parsing into json.
 
-TODO:
+## Usage
+
+```bash
+yarn scrape -- --url https://www.joyousapron.com/vietnamese-noodle-bowl/#recipe
+```
 - set content created at from git
 - check url has urls if not set for recrawl
 - save crawl response
