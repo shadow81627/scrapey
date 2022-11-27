@@ -8,6 +8,7 @@ import { QueuedTask } from 'threads/dist/master/pool';
 const cpuCount = os.cpus().length;
 import AppDataSource from '../db/data-source';
 import { Crawler } from './crawl';
+import { shuffle } from 'lodash';
 
 const allowedHosts = [
   'shop.coles.com.au',
@@ -22,7 +23,7 @@ async function fetchCrawlUrls({
 }): Promise<[Url[], number]> {
   const skip = perPage * page - perPage;
   const connection = AppDataSource;
-  return await connection.manager.findAndCount(Url, {
+  const total = await connection.manager.count(Url, {
     where: [
       {
         crawledAt: IsNull(),
@@ -35,14 +36,33 @@ async function fetchCrawlUrls({
         canonical: Raw('canonicalId'),
       },
     ],
-    order: {
-      dated: {
-        updatedAt: 'ASC',
-      },
-    },
-    take: perPage,
-    skip,
   });
+  let urls: Url[] = [];
+  for (const hostname of allowedHosts) {
+    const results = await connection.manager.find(Url, {
+      where: [
+        {
+          crawledAt: IsNull(),
+          hostname,
+          canonical: IsNull(),
+        },
+        {
+          crawledAt: IsNull(),
+          hostname,
+          canonical: Raw('canonicalId'),
+        },
+      ],
+      order: {
+        dated: {
+          updatedAt: 'ASC',
+        },
+      },
+      take: perPage,
+      skip,
+    });
+    urls = shuffle([...urls, ...results]);
+  }
+  return [urls, total];
 }
 type MySubject = {
   task: QueuedTask<ArbitraryThreadType, { duration: number }>;
@@ -72,9 +92,9 @@ type MySubject = {
     //   await paginatedCrawl();
     // }
   }
-  const perPage = cpuCount * 2;
+  const perPage = (cpuCount * 2) / allowedHosts.length;
   let page = 1;
-  async function paginatedCrawl() {
+  async function paginatedCrawl(): Promise<void> {
     const [urls, total] = await fetchCrawlUrls({ page, perPage });
     console.log(
       'Page',
@@ -88,16 +108,18 @@ type MySubject = {
     page++;
     if (!urls || !urls.length) {
       console.log('No urls found, terminating queue and database connection.');
+      pool.queue(({complete}) => complete())
       await pool.completed();
       await connection.destroy();
       await pool.terminate();
+      return;
     }
     for (const url of urls) {
-      const task = pool.queue((crawl) => crawl(url.url));
+      const task = pool.queue(({crawl}) => crawl(url.url));
       $tasks.next({ task, url });
     }
     await pool.completed();
-    await paginatedCrawl();
+    return await paginatedCrawl();
   }
   await paginatedCrawl();
 })();
