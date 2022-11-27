@@ -1,0 +1,45 @@
+{
+  "@type": "Product",
+  "additionalProperty": [],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Oral-B"
+  },
+  "createdAt": "2022-11-27T10:24:27.848Z",
+  "description": "<p>Oral-B UltraThin Compact Gum Care Toothbrush has extra small head and gentle clean.</p><br><br><p><strong>Product Features: </strong></p> <ul> <li>Extra small head and gentle clean</li> <li>&lt;0.01mm tips. Designed for deep clean</li> <li>Cup-shaped bristles</li> <li>Precisely covered each tooth and cleans deep</li> <li>Ultrathin bristles reach up to 2x deeper between teeth (vs regular, flat trim bristles. Based on laboratory testing)</li> <li>Extra small head and gentle clean</li> </ul> <p>&nbsp;</p>",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/1073834163.jpg",
+  "name": "Oral-b 3EACH",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 10,
+    "lowPrice": 10,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-27T10:24:27.847Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 10,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/1073834163/oral-b-ultrathin-compact-gum-care-toothbrush-extra-soft-3-pack"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/1073834163/oral-b-ultrathin-compact-gum-care-toothbrush-extra-soft-3-pack"
+  ],
+  "sku": "1073834163",
+  "updatedAt": "2022-11-27T10:24:27.847Z"
+}

@@ -1,0 +1,45 @@
+{
+  "@type": "Product",
+  "additionalProperty": [],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Thursday Plantation"
+  },
+  "createdAt": "2022-11-27T10:28:10.235Z",
+  "description": "Enjoy fresh, clear and healthy-looking skin with the Thursday Plantation Tea Tree Face Wash For Acne. This soap-free cleanser captures the antibacterial power of tea tree oil to gently remove excess sebum, dirt, impurities and make-up without stripping the skin of its natural oils. It also contains chamomile extract to calm and soothe skin redness. Ideal for combination and oily skin types, it can help prevent acne and pimples from forming.",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/1073815486.jpg",
+  "name": "Thursday Plantation 150ML",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 6.75,
+    "lowPrice": 6.75,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-27T10:28:10.234Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 6.75,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/1073815486/thursday-plantation-tea-tree-face-wash-for-acne-150ml"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/1073815486/thursday-plantation-tea-tree-face-wash-for-acne-150ml"
+  ],
+  "sku": "1073815486",
+  "updatedAt": "2022-11-27T10:28:10.234Z"
+}

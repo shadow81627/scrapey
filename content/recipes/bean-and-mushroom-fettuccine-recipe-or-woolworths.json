@@ -1,49 +1,64 @@
 {
   "@type": "Recipe",
+  "author": {
+    "@type": "Person",
+    "name": "Fresh Ideas"
+  },
   "cookTime": "PT15M",
   "createdAt": "2022-11-24T11:07:44.000Z",
-  "datePublished": "2021-03-10",
+  "datePublished": "2022-09-26",
   "description": "Try our easy to follow Bean & Mushroom Fettuccine recipe. Absolutely delicious with the best ingredients from Woolworths.",
   "image": {
     "@type": "ImageObject",
     "height": 1300,
-    "mime": "image/png",
-    "url": "https://foodhub.scene7.com/is/image/woolworthsltdprod/1507-bean-mushroom-fettuccine?wid=1300&hei=1300&fmt=png-alpha",
+    "mime": "image/jpeg",
+    "url": "https://foodhub.scene7.com/is/image/woolworthsltdprod/1507-bean-mushroom-fettuccine:Square-1300x1300",
     "width": 1300
   },
-  "keywords": "Bean & Mushroom Fettuccine",
+  "keywords": "Pasta,Pescatarian,Low salt,Seafood free,Tree nut free,Low sugar,Sesame free,Mushroom,Halal,Quick & easy dinner,High protein,High fibre,Soy free,Vegetarian,Peanut free",
   "name": "Bean & Mushroom Fettuccine Recipe | Woolworths",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "828 calories",
+    "carbohydrateContent": "104 g",
+    "fatContent": "29.8 g",
+    "fiberContent": "13.4 g",
+    "proteinContent": "27.2 g",
+    "saturatedFatContent": "12.4 g",
+    "sodiumContent": "48 millig",
+    "sugarContent": "8.8 g"
+  },
   "prepTime": "PT5M",
-  "recipeCategory": "mains",
-  "recipeCuisine": "european",
+  "recipeCategory": "Mains",
+  "recipeCuisine": "Italian",
   "recipeId": "3742",
   "recipeIngredient": [
-    "2 leeks",
-    "200 g swiss brown mushrooms",
-    "420 g can cannellini beans",
-    "500 g fettuccine",
+    "2 leeks, white part only, thinly sliced",
+    "200g swiss brown mushrooms, sliced",
+    "420g can cannellini beans, drained, rinsed",
+    "500g fettuccine",
     "0.25 cup olive oil",
-    "1 bunch chives",
-    "300 ml light thickened cream"
+    "1 bunch chives, finely chopped",
+    "300ml light thickened cream"
   ],
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Meanwhile, heat oil in a frying pan over medium-high heat. Add leek and mushroom and cook, stirring occasionally, for 10 minutes or until leek is tender and mushroom is golden. Stir in cream and bring to the boil. Reduce heat to low and simmer for 3 minutes or until thickened slightly. Stir in beans and cook for 2 minutes or until heated through. Toss through pasta with chives. Season. Serve."
+      "HowToTip": {},
+      "text": "Cook pasta in a large saucepan of boiling salted water following packet directions. Drain and return to pan."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
+      "HowToTip": {},
       "text": "Meanwhile, heat oil in a frying pan over medium-high heat. Add leek and mushroom and cook, stirring occasionally, for 10 minutes or until leek is tender and mushroom is golden. Stir in cream and bring to the boil. Reduce heat to low and simmer for 3 minutes or until thickened slightly. Stir in beans and cook for 2 minutes or until heated through. Toss through pasta with chives. Season. Serve."
     }
   ],
   "recipeNameId": "bean-and-mushroom-fettuccine",
   "recipeYield": "4",
   "sameAs": [
-    "https://woolworths.com.au/shop/find-recipes/mushroom-fettuccine"
+    "https://woolworths.com.au/shop/recipes/bean-and-mushroom-fettuccine"
   ],
   "totalTime": "PT20M",
-  "updatedAt": "2022-11-24T09:32:10.648Z",
+  "updatedAt": "2022-11-27T11:58:57.415Z",
   "url": "https://www.woolworths.com.au/shop/recipes/bean-and-mushroom-fettuccine"
 }

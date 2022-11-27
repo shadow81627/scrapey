@@ -1,57 +1,61 @@
 {
   "@type": "Recipe",
+  "author": {
+    "@type": "Person",
+    "name": "Sponsored"
+  },
   "cookTime": "PT2M",
   "createdAt": "2022-11-24T22:03:11.000Z",
-  "datePublished": "2021-10-06",
+  "datePublished": "2022-05-26",
   "description": "Try our easy to follow Hot Smoked Grain Salad recipe. Absolutely delicious with the best ingredients from Woolworths.",
   "image": {
     "@type": "ImageObject",
     "height": 1300,
-    "mime": "image/png",
-    "url": "https://foodhub.scene7.com/is/image/woolworthsltdprod/hot-smoked-grain-salad?wid=1300&hei=1300&fmt=png-alpha",
+    "mime": "image/jpeg",
+    "url": "https://foodhub.scene7.com/is/image/woolworthsltdprod/hot-smoked-grain-salad:Square-1300x1300",
     "width": 1300
   },
-  "keywords": "Hot Smoked Grain Salad",
+  "keywords": "Salad,Soy free,Wheat free,Gluten free,Tree nut free,Egg free,Sesame free,Dairy free,Peanut free",
   "name": "Hot Smoked Grain Salad Recipe | Woolworths",
   "prepTime": "PT8M",
-  "recipeCategory": "mains",
-  "recipeCuisine": "australian",
+  "recipeCategory": "Lunch,Dinner",
+  "recipeCuisine": "Australian",
   "recipeId": "SP-00046",
   "recipeIngredient": [
-    "150 g Tassal Hot smoked salmon with cracked pepper, flaked",
+    "150g Tassal Hot smoked salmon with cracked pepper, flaked",
     "3 tbs extra virgin olive oil",
     "1 tbs Lemon juice",
-    "1 red Capsicum",
-    "1 medium lebanese cucumber",
+    "1 red Capsicum, diced",
+    "1 medium lebanese cucumber, cut into thin wedges",
     "a handful of parsley leaves",
     "a handful of coriander leaves",
-    "250 g precooked microwave ancient grains mix",
-    "1 ripe avocado",
-    "lemon wedges"
+    "250g precooked microwave ancient grains mix",
+    "1 ripe avocado, cut into chunks",
+    "lemon wedges (to serve)"
   ],
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Spoon grains onto a sharing plate and top with the avocado quarters and flaked salmon. Serve with lemon wedges."
+      "HowToTip": {},
+      "text": "Put the olive oil and lemon juice into a large bowl. Season generously with sea-salt and freshly ground black pepper. Add the capsicum, cucumber and herbs to the bowl."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Spoon grains onto a sharing plate and top with the avocado quarters and flaked salmon. Serve with lemon wedges."
+      "HowToTip": {},
+      "text": "Heat the ancient grains mix according to instructions; transfer to bowl and toss to combine."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
+      "HowToTip": {},
       "text": "Spoon grains onto a sharing plate and top with the avocado quarters and flaked salmon. Serve with lemon wedges."
     }
   ],
   "recipeNameId": "hot-smoked-grain-salad",
   "recipeYield": "2",
   "sameAs": [
-    "https://woolworths.com.au/shop/find-recipes/ancient-grain-salad"
+    "https://woolworths.com.au/shop/recipes/hot-smoked-grain-salad"
   ],
   "totalTime": "PT10M",
-  "updatedAt": "2022-11-24T15:48:50.288Z",
+  "updatedAt": "2022-11-27T12:30:30.765Z",
   "url": "https://www.woolworths.com.au/shop/recipes/hot-smoked-grain-salad"
 }

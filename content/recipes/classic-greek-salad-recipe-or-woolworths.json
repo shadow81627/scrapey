@@ -1,50 +1,66 @@
 {
   "@type": "Recipe",
+  "author": {
+    "@type": "Person",
+    "name": "Fresh Ideas"
+  },
+  "cookTime": "PT0M",
   "createdAt": "2022-11-26T02:01:07.235Z",
-  "datePublished": "2021-03-10",
+  "datePublished": "2022-09-26",
   "description": "A popular choice, Greek salad is the epitome of classic sides. With bursts of tomatoes, crunchy cucumber and crumbly feta, this recipe has it all.",
   "image": {
     "@type": "ImageObject",
     "height": 1300,
-    "mime": "image/png",
-    "url": "https://foodhub.scene7.com/is/image/woolworthsltdprod/2101-classic-greek-salad?wid=1300&hei=1300&fmt=png-alpha",
+    "mime": "image/jpeg",
+    "url": "https://foodhub.scene7.com/is/image/woolworthsltdprod/2101-classic-greek-salad:Square-1300x1300",
     "width": 1300
   },
-  "keywords": "Classic Greek Salad",
+  "keywords": "Greek salad,Pescatarian,Seafood free,Gluten free,Tree nut free,Egg free,Low sugar,Sesame free,Summer,High protein,Soy free,Wheat free,Vegetarian,Tomato,Jan Feb 2021,Peanut free",
   "name": "Classic Greek Salad Recipe | Woolworths",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "390 calories",
+    "carbohydrateContent": "6.4 g",
+    "fatContent": "34.5 g",
+    "fiberContent": "3.8 g",
+    "proteinContent": "12.7 g",
+    "sodiumContent": "798 millig",
+    "sugarContent": "5.2 g",
+    "transFatContent": "0.9 g"
+  },
   "prepTime": "PT10M",
-  "recipeCategory": "salads",
-  "recipeCuisine": "european",
+  "recipeCategory": "Salads",
+  "recipeCuisine": "Greek",
   "recipeId": "11048",
   "recipeIngredient": [
     "0.33 cup extra virgin olive oil",
     "1 tbs red wine vinegar",
     "1 tsp dried oregano",
-    "2 tomatoes",
-    "1 green capsicum",
-    "1 continental cucumber",
-    "1 small red onion",
-    "0.5 cup Kalamata olives",
-    "200 g Greek-style feta"
+    "2 tomatoes, cut into wedges",
+    "1 green capsicum, deseeded, roughly chopped",
+    "1 continental cucumber, chopped",
+    "1 small red onion, thinly sliced into rounds",
+    "0.5 cup Kalamata olives, pitted",
+    "200g Greek-style feta, halved"
   ],
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Toss tomato, capsicum, cucumber, onion and olives in a large bowl. Divide among bowls. Cut each piece of feta horizontally. Top each bowl with feta and drizzle with dressing."
+      "HowToTip": {},
+      "text": "Place oil, vinegar and oregano in a bowl, stirring to combine. Season."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
+      "HowToTip": {},
       "text": "Toss tomato, capsicum, cucumber, onion and olives in a large bowl. Divide among bowls. Cut each piece of feta horizontally. Top each bowl with feta and drizzle with dressing."
     }
   ],
   "recipeNameId": "classic-greek-salad",
   "recipeYield": "4",
   "sameAs": [
-    "https://woolworths.com.au/shop/find-recipes/classic-egg-salad-recipe"
+    "https://woolworths.com.au/shop/recipes/classic-greek-salad"
   ],
   "totalTime": "PT10M",
-  "updatedAt": "2022-11-26T02:01:07.234Z",
+  "updatedAt": "2022-11-27T09:11:35.424Z",
   "url": "https://www.woolworths.com.au/shop/recipes/classic-greek-salad"
 }

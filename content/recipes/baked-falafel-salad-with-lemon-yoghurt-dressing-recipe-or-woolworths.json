@@ -1,61 +1,71 @@
 {
   "@type": "Recipe",
+  "author": {
+    "@type": "Person",
+    "name": "Produced for Woolworths"
+  },
   "cookTime": "PT25M",
   "createdAt": "2022-11-24T22:03:11.000Z",
-  "datePublished": "2022-06-14",
+  "datePublished": "2022-08-03",
   "description": "This easy baked falafel salad is the perfect packed lunch or light summer dinner option.",
-  "image": "https://foodhub.scene7.com/is/image/woolworthsltdprod/338566?wid=3357&hei=3357&fmt=png-alpha",
-  "keywords": "Baked Falafel Salad with Lemon Yoghurt Dressing",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1300,
+    "mime": "image/jpeg",
+    "url": "https://foodhub.scene7.com/is/image/woolworthsltdprod/338566:Square-1300x1300",
+    "width": 1300
+  },
+  "keywords": "Salad,Pescatarian,Seafood free,Tree nut free,Egg free,Lemon,Sesame free,Halal,Soy free,Wheat free,Vegetarian,Tomato,Peanut free",
   "name": "Baked Falafel Salad with Lemon Yoghurt Dressing Recipe | Woolworths",
   "prepTime": "PT20M",
-  "recipeCategory": "mains",
-  "recipeCuisine": "middle-eastern",
+  "recipeCategory": "Appetisers,Lunch,Dinner",
+  "recipeCuisine": "Middle Eastern",
   "recipeId": "RGWW338566",
   "recipeIngredient": [
-    "800 g chickpeas",
-    "2 medium red onion",
-    "4 cloves garlic",
-    "1 bunch parsley",
-    "0.5 bunch coriander",
+    "800g chickpeas, canned, drained",
+    "2 medium red onion, peeled, 1 chopped, 1 finely sliced",
+    "4 cloves garlic, peeled and chopped",
+    "1 bunch parsley, fresh, with stalks",
+    "0.5 bunch coriander, fresh, with stalks",
     "1 tsp cumin",
     "1 tsp ground coriander",
-    "2 medium lemon",
-    "75 g oats",
-    "5 ml olive oil spray",
-    "1 large cucumber",
-    "200 g cherry tomatoes",
-    "250 g mixed lettuce",
-    "150 g Greek style yoghurt",
+    "2 medium lemon, juiced and zested",
+    "75g oats",
+    "5ml olive oil spray (to coat)",
+    "1 large cucumber, chopped",
+    "200g cherry tomatoes",
+    "250g mixed lettuce",
+    "150g Greek style yoghurt",
     "1 pinch cracked black pepper"
   ],
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Divide the sliced red onion, lettuce, tomatoes and cucumber between 4 bowls, top each with 3 falafels and a drizzle of lemon dressing and serve."
+      "HowToTip": {},
+      "text": "Pre-heat the oven to 200°C/180°C fan-forced. Blend the oats to a coarse flour in a food processor and pour into a large bowl. Whisk in the ground spices. Add the fresh herbs, garlic, chopped onion, chickpeas and half the lemon zest and juice to the food processor and blend to a coarse dough."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Divide the sliced red onion, lettuce, tomatoes and cucumber between 4 bowls, top each with 3 falafels and a drizzle of lemon dressing and serve."
+      "HowToTip": {},
+      "text": "Tip the chickpea mixture into the oats and mix through with your hands. Shape into 18 balls with your hands and place on a baking tray. Coat each with olive oil spray and bake for 25 minutes, flipping the falafels halfway through."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Divide the sliced red onion, lettuce, tomatoes and cucumber between 4 bowls, top each with 3 falafels and a drizzle of lemon dressing and serve."
+      "HowToTip": {},
+      "text": "Whisk the remaining lemon juice and zest into the yoghurt and loosen with 1-2 tablespoons of water. Season with cracked black pepper."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
+      "HowToTip": {},
       "text": "Divide the sliced red onion, lettuce, tomatoes and cucumber between 4 bowls, top each with 3 falafels and a drizzle of lemon dressing and serve."
     }
   ],
   "recipeNameId": "baked-falafel-salad-with-lemon-yoghurt-dressing",
   "recipeYield": "6",
   "sameAs": [
-    "https://woolworths.com.au/shop/find-recipes/lemon-salad-dressing-recipe"
+    "https://woolworths.com.au/shop/recipes/baked-falafel-salad-with-lemon-yoghurt-dressing"
   ],
   "totalTime": "PT45M",
-  "updatedAt": "2022-11-24T16:00:33.787Z",
+  "updatedAt": "2022-11-27T09:12:24.657Z",
   "url": "https://www.woolworths.com.au/shop/recipes/baked-falafel-salad-with-lemon-yoghurt-dressing"
 }

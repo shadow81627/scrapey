@@ -1,0 +1,45 @@
+{
+  "@type": "Product",
+  "additionalProperty": [],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Grants"
+  },
+  "createdAt": "2022-11-27T10:23:59.854Z",
+  "description": "Leave your mouth feeling minty fresh with Grants Whitening Toothpaste with Baking Soda and Spearmint. Its strong minty taste will leave your mouth feeling fresh and clean, while baking soda helps to naturally whiten teeth and remove stains. Start the day off with a bang!\nKey benefits:\nFluoride-free\nMade with no SLS or preservatives\nProudly Australian made\nCertified vegan\nGrants of Australia is a proudly Australian-owned and operated company, established over 35 years ago, dedicated to producing the highest quality, natural oral hygiene products. Grants products were established initially to fill a vacant market niche for a pleasant tasting, fluoride-free toothpaste.",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/1073779702.jpg",
+  "name": "Grants 110G",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 4.5,
+    "lowPrice": 4.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-27T10:23:59.853Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 4.5,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/1073779702/grants-whitening-with-spearmint-toothpaste"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/1073779702/grants-whitening-with-spearmint-toothpaste"
+  ],
+  "sku": "1073779702",
+  "updatedAt": "2022-11-27T10:23:59.853Z"
+}

@@ -1,27 +1,31 @@
 {
   "@type": "Recipe",
+  "author": {
+    "@type": "Person",
+    "name": "Fresh Ideas"
+  },
   "cookTime": "PT5M",
   "createdAt": "2022-11-25T23:16:24.805Z",
-  "datePublished": "2021-03-10",
+  "datePublished": "2021-07-22",
   "description": "Try our easy to follow Grilled Fruit with Ice-Cream recipe. Absolutely delicious with the best ingredients from Woolworths.",
   "image": {
     "@type": "ImageObject",
     "height": 1300,
-    "mime": "image/png",
-    "url": "https://foodhub.scene7.com/is/image/woolworthsltdprod/1212_grilledfruitwithicecream?wid=1300&hei=1300&fmt=png-alpha",
+    "mime": "image/jpeg",
+    "url": "https://foodhub.scene7.com/is/image/woolworthsltdprod/1212_grilledfruitwithicecream:Square-1300x1300",
     "width": 1300
   },
-  "keywords": "Grilled Fruit with Ice-Cream",
+  "keywords": "Ice-cream,Christmas,Summer,Quick & easy dessert,Stone fruit",
   "name": "Grilled Fruit with Ice-Cream Recipe | Woolworths",
   "prepTime": "PT10M",
-  "recipeCategory": "desserts",
-  "recipeCuisine": "european",
+  "recipeCategory": "Desserts",
+  "recipeCuisine": "European",
   "recipeId": "966",
   "recipeIngredient": [
-    "80 g unsalted butter",
-    "24 cherries",
-    "4 peaches",
-    "4 apricots",
+    "80g unsalted butter, melted",
+    "24 cherries, pitted and halved",
+    "4 peaches, halved",
+    "4 apricots, halved",
     "8 dessert brandy baskets",
     "4 tbs brown sugar",
     "8 scoop berry flavoured ice cream"
@@ -29,26 +33,26 @@
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Fill baskets with scoops of ice-cream and place onto 8 serving plates. Divide fruit among plates and drizzle over the pan juices. Serve."
+      "HowToTip": {},
+      "text": "Halve peaches and apricots and remove stones. Cut into wedges. Combine with cherries."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Fill baskets with scoops of ice-cream and place onto 8 serving plates. Divide fruit among plates and drizzle over the pan juices. Serve."
+      "HowToTip": {},
+      "text": "Preheat grill. Place fruit on a shallow ovenproof dish, lined with foil. Brush fruit with melted butter and sprinkle over sugar. Grill for a few minutes until softened and browned."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
+      "HowToTip": {},
       "text": "Fill baskets with scoops of ice-cream and place onto 8 serving plates. Divide fruit among plates and drizzle over the pan juices. Serve."
     }
   ],
   "recipeNameId": "grilled-fruit-with-ice-cream",
   "recipeYield": "8",
   "sameAs": [
-    "https://woolworths.com.au/shop/find-recipes/fruit-ice-cream"
+    "https://woolworths.com.au/shop/recipes/grilled-fruit-with-ice-cream"
   ],
   "totalTime": "PT15M",
-  "updatedAt": "2022-11-25T23:16:24.786Z",
+  "updatedAt": "2022-11-27T06:51:45.743Z",
   "url": "https://www.woolworths.com.au/shop/recipes/grilled-fruit-with-ice-cream"
 }

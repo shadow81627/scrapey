@@ -1,21 +1,31 @@
 {
   "@type": "Recipe",
+  "author": {
+    "@type": "Person",
+    "name": "Produced for Woolworths"
+  },
   "cookTime": "PT10M",
   "createdAt": "2022-11-24T22:03:11.000Z",
-  "datePublished": "2022-04-02",
+  "datePublished": "2022-09-29",
   "description": "A perfect light lunch salad with zingy fennel and orange paired with rich, flavoursome mackerel.",
-  "image": "https://foodhub.scene7.com/is/image/woolworthsltdprod/338356?wid=3856&hei=3856&fmt=png-alpha",
-  "keywords": "Mackerel, Fennel & Orange Salad",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1300,
+    "mime": "image/jpeg",
+    "url": "https://foodhub.scene7.com/is/image/woolworthsltdprod/338356:Square-1300x1300",
+    "width": 1300
+  },
+  "keywords": "Salad,Orange,Fish",
   "name": "Mackerel, Fennel & Orange Salad Recipe | Woolworths",
   "prepTime": "PT20M",
-  "recipeCategory": "salads",
-  "recipeCuisine": "australian",
+  "recipeCategory": "Salads",
+  "recipeCuisine": "Australian",
   "recipeId": "RGWW338356",
   "recipeIngredient": [
     "2 large oranges",
-    "4 medium mackerel fillets",
+    "4 medium mackerel fillets, fresh",
     "1 large fennel bulb",
-    "100 g lettuce",
+    "100g lettuce",
     "2 tbs white wine vinegar",
     "2 tsp honey",
     "3 tbs olive oil",
@@ -25,36 +35,36 @@
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Place the lettuce on a serving platter, top with mackerel fillets, orange slices and fennel, drizzle over the dressing and serve."
+      "HowToTip": {},
+      "text": "Peel the oranges with a serrated knife and squeeze juice from the peels into a small bowl. Thinly slice the oranges."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Place the lettuce on a serving platter, top with mackerel fillets, orange slices and fennel, drizzle over the dressing and serve."
+      "HowToTip": {},
+      "text": "For the dressing, add white wine vinegar, honey and 2 tbs of olive oil to the orange juice, whisk to combine and season to taste."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Place the lettuce on a serving platter, top with mackerel fillets, orange slices and fennel, drizzle over the dressing and serve."
+      "HowToTip": {},
+      "text": "Brush the mackerel fillets with the remaining oil and place skin side down in a pan over a medium high heat for 3 minutes to crisp the skin. Flip and cook for a further 2 minutes."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Place the lettuce on a serving platter, top with mackerel fillets, orange slices and fennel, drizzle over the dressing and serve."
+      "HowToTip": {},
+      "text": "Finely slice the fennel bulbs with a very sharp knife, vegetable peeler or mandolin."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
+      "HowToTip": {},
       "text": "Place the lettuce on a serving platter, top with mackerel fillets, orange slices and fennel, drizzle over the dressing and serve."
     }
   ],
   "recipeNameId": "mackerel-fennel-and-orange-salad",
   "recipeYield": "4",
   "sameAs": [
-    "https://woolworths.com.au/shop/find-recipes/fennel-and-orange-salad"
+    "https://woolworths.com.au/shop/recipes/mackerel-fennel-and-orange-salad"
   ],
   "totalTime": "PT30M",
-  "updatedAt": "2022-11-24T16:08:21.307Z",
+  "updatedAt": "2022-11-27T07:20:31.000Z",
   "url": "https://www.woolworths.com.au/shop/recipes/mackerel-fennel-and-orange-salad"
 }

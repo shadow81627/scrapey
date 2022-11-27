@@ -1,0 +1,45 @@
+{
+  "@type": "Product",
+  "additionalProperty": [],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Vaseline"
+  },
+  "createdAt": "2022-11-27T10:23:31.835Z",
+  "description": "Vaseline Total Moisture Dry Skin lotion leaves your skin feeling healthy, soft & smooth. Our 24 hr nourishing formula combines a pure oat extract + Stratys 3 multi-layer moisture.",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/1073815485.jpg",
+  "name": "Vaseline 1.5L",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 18,
+    "lowPrice": 18,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-27T10:24:55.955Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 18,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/1073815485/vaseline-total-moisture-lotion-1-5l-aloe-fresh"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/1073815485/vaseline-total-moisture-lotion-1-5l-aloe-fresh"
+  ],
+  "sku": "1073815485",
+  "updatedAt": "2022-11-27T10:24:55.955Z"
+}

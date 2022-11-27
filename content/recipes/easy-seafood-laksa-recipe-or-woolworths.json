@@ -1,33 +1,47 @@
 {
   "@type": "Recipe",
+  "author": {
+    "@type": "Person",
+    "name": "Fresh Ideas"
+  },
   "cookTime": "PT20M",
   "createdAt": "2022-11-24T22:03:11.000Z",
-  "datePublished": "2021-03-10",
+  "datePublished": "2022-09-26",
   "description": "Try our easy to follow Easy Seafood Laksa recipe. Absolutely delicious with the best ingredients from Woolworths.",
   "image": {
     "@type": "ImageObject",
     "height": 1300,
-    "mime": "image/png",
-    "url": "https://foodhub.scene7.com/is/image/woolworthsltdprod/1803-easy-seafood-laksa?wid=1300&hei=1300&fmt=png-alpha",
+    "mime": "image/jpeg",
+    "url": "https://foodhub.scene7.com/is/image/woolworthsltdprod/1803-easy-seafood-laksa:Square-1300x1300",
     "width": 1300
   },
-  "keywords": "Easy Seafood Laksa",
+  "keywords": "Laksa,Fakeaway,Quick & easy dinner,Low saturated fat,High protein,Seafood,Low sugar,Low fat",
   "name": "Easy Seafood Laksa Recipe | Woolworths",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "562 calories",
+    "carbohydrateContent": "53.2 g",
+    "fatContent": "20.0 g",
+    "proteinContent": "42.8 g",
+    "saturatedFatContent": "9.1 g",
+    "sodiumContent": "2430 millig",
+    "sugarContent": "12.8 g"
+  },
   "prepTime": "PT5M",
-  "recipeCategory": "mains",
-  "recipeCuisine": "asian",
+  "recipeCategory": "Mains",
+  "recipeCuisine": "Malaysian",
   "recipeId": "7399",
   "recipeIngredient": [
-    "250 g rice noodles",
-    "1 chilli",
-    "1 bunch spring onions",
-    "1 lime",
+    "250g rice noodles",
+    "1 chilli, sliced (to serve)",
+    "1 bunch spring onions, trimmed, sliced",
+    "1 lime, wedges (to serve)",
     "1 tsp ground coriander",
-    "4 mussels in the shell",
+    "4 mussels in the shell (optional, to garnish)",
     "2 cup reduced-salt chicken stock",
-    "200 g laksa paste",
-    "1 kg marinara mix",
-    "400 ml light coconut milk",
+    "200g laksa paste",
+    "1kg marinara mix",
+    "400ml light coconut milk",
     "1 tbs peanut oil",
     "2 tbs thai basil leaves",
     "1 tbs caster sugar"
@@ -35,21 +49,21 @@
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Meanwhile, place noodles in a heatproof bowl and cover with boiling water. Set aside for 2 minutes. Add marinara mix to coconut broth, cover and cook for 3 minutes or until just cooked. Drain noodles and divide between 4 deep serving bowls. Ladle laksa into bowls and garnish with mussels (if using), basil and sliced chilli. Serve immediately with lime wedges."
+      "HowToTip": {},
+      "text": "Heat oil in a large saucepan over medium-high heat. Add spring onion and cook for 2-3 minutes until softened. Add coriander and sugar. Cook for 1 minute. Stir in laksa paste and cook for 3 minutes. Add coconut milk, stock and 3 cups water. Bring to a simmer and cook for 10 minutes for flavours to develop."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
+      "HowToTip": {},
       "text": "Meanwhile, place noodles in a heatproof bowl and cover with boiling water. Set aside for 2 minutes. Add marinara mix to coconut broth, cover and cook for 3 minutes or until just cooked. Drain noodles and divide between 4 deep serving bowls. Ladle laksa into bowls and garnish with mussels (if using), basil and sliced chilli. Serve immediately with lime wedges."
     }
   ],
   "recipeNameId": "easy-seafood-laksa",
   "recipeYield": "4",
   "sameAs": [
-    "https://woolworths.com.au/shop/find-recipes/seafood-laksa"
+    "https://woolworths.com.au/shop/recipes/easy-seafood-laksa"
   ],
   "totalTime": "PT25M",
-  "updatedAt": "2022-11-24T17:47:42.271Z",
+  "updatedAt": "2022-11-27T10:48:44.979Z",
   "url": "https://www.woolworths.com.au/shop/recipes/easy-seafood-laksa"
 }

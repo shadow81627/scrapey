@@ -1,0 +1,45 @@
+{
+  "@type": "Product",
+  "additionalProperty": [],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Simple"
+  },
+  "createdAt": "2022-11-27T10:21:13.871Z",
+  "description": "Simple Kind to Skin Soothing Facial Toner is perfect for even the most sensitive skin. A blend of multivitamins and skin-loving ingredients keep your skin feeling clean and refreshed everyday.<br><p><strong>Product Features:</strong></p><ul><li>Contains pro-vitamins B5 and B3</li><li>Infused with chamomile, witch hazel and allantoin</li><li>Dermatologist tested</li><li>Suitable for sensitive skin</li><li>Alcohol free</li><li>No artificial perfumes or colours</li><li>Contents: 200 ml</li></ul>",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/1073816230.jpg",
+  "name": "Simple 200ML",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 11.5,
+    "lowPrice": 11.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-27T10:21:13.870Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 11.5,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/1073816230/simple-kind-to-skin-soothing-facial-toner-200-ml"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/1073816230/simple-kind-to-skin-soothing-facial-toner-200-ml"
+  ],
+  "sku": "1073816230",
+  "updatedAt": "2022-11-27T10:21:13.870Z"
+}

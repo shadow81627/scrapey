@@ -1,0 +1,45 @@
+{
+  "@type": "Product",
+  "additionalProperty": [],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Huxden"
+  },
+  "createdAt": "2022-11-27T10:34:15.882Z",
+  "description": "<p><span>A soft silicone head brush that is engineered to effectively<span> </span><strong>scrub</strong>, <strong>cleanse and stimulate the scalp</strong>. </span></p>\n<p><span>This scalp scrubber and grooming tool for men works to: </span></p>\n<ul>\n<li><span>Remove build-up, dirt and impurities on the scalp and facial hair</span></li>\n<li><span>Manage dandruff and promote healthy hair</span></li>\n<li><span>Promote blood circulation and hair follicle nourishment</span></li>\n<li><span>Remove dead skin cells</span></li>\n<li><span>Relieve itchiness on the head and massage the scalp</span></li>\n</ul>",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/1073933286.jpg",
+  "name": "Huxden 1EA",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 23.95,
+    "lowPrice": 23.95,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-27T10:34:44.005Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 23.95,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/1073933286/huxden-scalp-buffer-solo"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/1073933286/huxden-scalp-buffer-solo"
+  ],
+  "sku": "1073933286",
+  "updatedAt": "2022-11-27T10:34:44.005Z"
+}

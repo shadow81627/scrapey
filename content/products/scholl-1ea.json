@@ -1,0 +1,45 @@
+{
+  "@type": "Product",
+  "additionalProperty": [],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Scholl"
+  },
+  "createdAt": "2022-11-27T10:21:41.432Z",
+  "description": "Scholl Velvet Smooth Wet & Dry Roller Heads Extra Coarse with Diamond Crystals effectively remove very hard skin for soft, beautiful feet effortlessly.",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/1073815267.jpg",
+  "name": "Scholl 1EA",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 15,
+    "lowPrice": 15,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-27T10:21:41.430Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 15,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/1073815267/scholl-velvet-smooth-wet-dry-roller-heads-extra-coarse"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/1073815267/scholl-velvet-smooth-wet-dry-roller-heads-extra-coarse"
+  ],
+  "sku": "1073815267",
+  "updatedAt": "2022-11-27T10:21:41.431Z"
+}

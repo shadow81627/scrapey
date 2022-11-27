@@ -1,23 +1,40 @@
 {
   "@type": "Recipe",
+  "author": {
+    "@type": "Person",
+    "name": "Fresh Ideas"
+  },
+  "cookTime": "PT0M",
   "createdAt": "2022-11-22T22:53:07.000Z",
-  "datePublished": "2021-03-10",
+  "datePublished": "2022-10-20",
   "description": "Try our easy to follow Choc Banana & Oat Smoothie recipe. Absolutely delicious with the best ingredients from Woolworths.",
   "image": {
     "@type": "ImageObject",
     "height": 1300,
-    "mime": "image/png",
-    "url": "https://foodhub.scene7.com/is/image/woolworthsltdprod/1707-choc-banana-and-oat-smoothie?wid=1300&hei=1300&fmt=png-alpha",
+    "mime": "image/jpeg",
+    "url": "https://foodhub.scene7.com/is/image/woolworthsltdprod/1707-choc-banana-and-oat-smoothie:Square-1300x1300",
     "width": 1300
   },
-  "keywords": "Choc Banana & Oat Smoothie",
+  "keywords": "Smoothie & frappé,Pescatarian,Low saturated fat,Low salt,Seafood free,Tree nut free,Egg free,Sesame free,Halal,High fibre,High protein,Wheat free,Soy free,Vegetarian,Low fat,Peanut free",
   "name": "Choc Banana & Oat Smoothie Recipe | Woolworths",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "287 calories",
+    "carbohydrateContent": "45.0 g",
+    "fatContent": "5.2 g",
+    "fiberContent": "4.8 g",
+    "proteinContent": "12.2 g",
+    "saturatedFatContent": "3.0 g",
+    "sodiumContent": "110 millig",
+    "sugarContent": "31.9 g",
+    "transFatContent": "2.6 g"
+  },
   "prepTime": "PT5M",
-  "recipeCategory": "drinks",
-  "recipeCuisine": "australian",
+  "recipeCategory": "Drinks",
+  "recipeCuisine": "Australian",
   "recipeId": "6051",
   "recipeIngredient": [
-    "1 banana",
+    "1 banana, sliced, frozen",
     "0.5 tsp honey",
     "2 tsp cocoa powder",
     "1 tbs rolled oats",
@@ -26,16 +43,16 @@
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "HowToStep": {},
+      "HowToTip": {},
       "text": "Place banana, cocoa, oats, milk and honey in a blender and blend on high until thick and creamy. Serve."
     }
   ],
   "recipeNameId": "choc-banana-and-oat-smoothie",
   "recipeYield": "1",
   "sameAs": [
-    "https://woolworths.com.au/shop/find-recipes/banana-and-honey-smoothie"
+    "https://woolworths.com.au/shop/recipes/choc-banana-and-oat-smoothie"
   ],
   "totalTime": "PT5M",
-  "updatedAt": "2022-11-23T23:57:37.828Z",
+  "updatedAt": "2022-11-27T09:39:56.144Z",
   "url": "https://www.woolworths.com.au/shop/recipes/choc-banana-and-oat-smoothie"
 }

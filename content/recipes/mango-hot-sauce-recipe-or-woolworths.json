@@ -1,26 +1,39 @@
 {
   "@type": "Recipe",
+  "author": {
+    "@type": "Person",
+    "name": "Fresh Ideas"
+  },
   "cookTime": "PT20M",
   "createdAt": "2022-11-24T12:25:40.000Z",
-  "datePublished": "2021-03-10",
+  "datePublished": "2022-10-20",
   "description": "Make the perfect summer sauce with this chilli and mango salsa recipe. Pair it with fish, chicken or salads for a juicy flavour hit. It's a great Christmas gift too.",
   "image": {
     "@type": "ImageObject",
     "height": 1300,
-    "mime": "image/png",
-    "url": "https://foodhub.scene7.com/is/image/woolworthsltdprod/2012-mango-hot-sauce?wid=1300&hei=1300&fmt=png-alpha",
+    "mime": "image/jpeg",
+    "url": "https://foodhub.scene7.com/is/image/woolworthsltdprod/2012-mango-hot-sauce:Square-1300x1300",
     "width": 1300
   },
-  "keywords": "Mango Hot Sauce",
+  "keywords": "Hot sauce,Pescatarian,Low saturated fat,Low salt,Seafood free,Gluten free,Tree nut free,Egg free,Sesame free,Christmas,Wheat free,Soy free,Vegetarian,Vegan,Dec 2020,Mango,Low fat,Dairy free,Peanut free",
   "name": "Mango Hot Sauce Recipe | Woolworths",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "289 calories",
+    "carbohydrateContent": "57.5 g",
+    "fatContent": "0.9 g",
+    "proteinContent": "5.3 g",
+    "saturatedFatContent": "0.3 g",
+    "sodiumContent": "10 millig"
+  },
   "prepTime": "PT10M",
-  "recipeCategory": "condiments",
-  "recipeCuisine": "latin-american",
+  "recipeCategory": "Condiments",
+  "recipeCuisine": "Latin American",
   "recipeId": "10812",
   "recipeIngredient": [
-    "1 mango",
-    "3 red capsicums",
-    "4 long red chillies",
+    "1 mango, peeled, cheeks removed and roughly chopped",
+    "3 red capsicums, quartered, deseeded",
+    "4 long red chillies, deseeded",
     "4 cloves garlic",
     "0.5 cup white wine vinegar",
     "0.25 cup caster sugar",
@@ -29,16 +42,16 @@
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "HowToStep": {},
+      "HowToTip": {},
       "text": "Place mango, capsicum, chillies, garlic, white wine vinegar, caster sugar and cayenne pepper in a saucepan over high heat. Cook for 20 minutes or until thickened slightly. Transfer to a blender and blend until smooth. Store in a sterilised glass jar or an airtight container in the fridge for up to two weeks."
     }
   ],
   "recipeNameId": "mango-hot-sauce",
   "recipeYield": "2",
   "sameAs": [
-    "https://woolworths.com.au/shop/find-recipes/white-wine-sauce"
+    "https://woolworths.com.au/shop/recipes/mango-hot-sauce"
   ],
   "totalTime": "PT30M",
-  "updatedAt": "2022-11-24T12:05:45.308Z",
+  "updatedAt": "2022-11-27T08:42:25.285Z",
   "url": "https://www.woolworths.com.au/shop/recipes/mango-hot-sauce"
 }

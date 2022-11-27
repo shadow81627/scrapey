@@ -1,50 +1,60 @@
 {
   "@type": "Recipe",
+  "author": {
+    "@type": "Person",
+    "name": "Produced for Woolworths"
+  },
   "cookTime": "PT25M",
   "createdAt": "2022-11-22T12:23:57.000Z",
   "datePublished": "2022-10-13",
   "description": "You can use any white fish you like in this simple but tasty pasta puttanesca dish.",
-  "image": "https://foodhub.scene7.com/is/image/woolworthsltdprod/seafood-pasta-puttanesca?wid=4425&hei=4425&fmt=png-alpha",
-  "keywords": "Seafood Pasta Puttanesca",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1300,
+    "mime": "image/jpeg",
+    "url": "https://foodhub.scene7.com/is/image/woolworthsltdprod/seafood-pasta-puttanesca:Square-1300x1300",
+    "width": 1300
+  },
+  "keywords": "Seafood pasta,Christmas,Tomato,Summer",
   "name": "Seafood Pasta Puttanesca Recipe | Woolworths",
   "prepTime": "PT10M",
-  "recipeCategory": "mains",
-  "recipeCuisine": "european",
+  "recipeCategory": "Lunch,Dinner",
+  "recipeCuisine": "Italian",
   "recipeId": "RGWW339139",
   "recipeIngredient": [
-    "500 g cod",
-    "6 tbs olive oil",
-    "2 cloves garlic",
-    "2 tbs capers",
-    "60 g black olives",
-    "400 g chopped tomatoes",
-    "300 g linguine",
-    "3 tbs parsley",
-    "0.5 lemon"
+    "500g cod, skinless",
+    "6 tbs olive oil, divided",
+    "2 cloves garlic, peeled and minced",
+    "2 tbs capers, drained",
+    "60g black olives, pitted and chopped",
+    "400g chopped tomatoes",
+    "300g linguine",
+    "3 tbs parsley, fresh, chopped",
+    "0.5 lemon, zest"
   ],
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Cook the linguine according to pack instructions, drain well and tip into the pan with the sauce. Flake the cod and add to the pan along with the parsley and lemon zest, toss well and serve."
+      "HowToTip": {},
+      "text": "Brush the cod fillets with oil, place skin side down on a lined baking tray and cook under a hot grill for 8-10 minutes. Set aside."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Cook the linguine according to pack instructions, drain well and tip into the pan with the sauce. Flake the cod and add to the pan along with the parsley and lemon zest, toss well and serve."
+      "HowToTip": {},
+      "text": "Heat the oil in a large pan on medium high heat and cook the garlic for 2 minutes. Stir in the capers and olives, pour over the chopped tomatoes and a tin of water and simmer for 10 minutes."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
+      "HowToTip": {},
       "text": "Cook the linguine according to pack instructions, drain well and tip into the pan with the sauce. Flake the cod and add to the pan along with the parsley and lemon zest, toss well and serve."
     }
   ],
   "recipeNameId": "seafood-pasta-puttanesca",
   "recipeYield": "4",
   "sameAs": [
-    "https://woolworths.com.au/shop/find-recipes/italian-seafood-pasta-recipes"
+    "https://woolworths.com.au/shop/recipes/seafood-pasta-puttanesca"
   ],
   "totalTime": "PT35M",
-  "updatedAt": "2022-11-22T10:42:07.418Z",
+  "updatedAt": "2022-11-27T08:07:40.313Z",
   "url": "https://www.woolworths.com.au/shop/recipes/seafood-pasta-puttanesca"
 }

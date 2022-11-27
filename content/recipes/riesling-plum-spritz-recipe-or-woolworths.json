@@ -1,43 +1,48 @@
 {
   "@type": "Recipe",
+  "author": {
+    "@type": "Person",
+    "name": "Fresh Ideas"
+  },
+  "cookTime": "PT0M",
   "createdAt": "2022-11-22T12:23:57.000Z",
-  "datePublished": "2021-03-10",
+  "datePublished": "2022-10-24",
   "description": "Try our easy to follow Riesling Plum Spritz recipe. Absolutely delicious with the best ingredients from Woolworths.",
   "image": {
     "@type": "ImageObject",
     "height": 1300,
-    "mime": "image/png",
-    "url": "https://foodhub.scene7.com/is/image/woolworthsltdprod/1702-riesling-plum-spritz-1300-1?wid=1300&hei=1300&fmt=png-alpha",
+    "mime": "image/jpeg",
+    "url": "https://foodhub.scene7.com/is/image/woolworthsltdprod/1702-riesling-plum-spritz-1300-1:Square-1300x1300",
     "width": 1300
   },
-  "keywords": "Riesling Plum Spritz",
+  "keywords": "Cocktail,Christmas,Summer",
   "name": "Riesling Plum Spritz Recipe | Woolworths",
   "prepTime": "PT5M",
-  "recipeCategory": "drinks",
-  "recipeCuisine": "australian",
+  "recipeCategory": "Drinks",
+  "recipeCuisine": "Australian",
   "recipeId": "5182",
   "recipeIngredient": [
     "1.5 cup riesling",
     "0.5 cup campari",
-    "1 tsp mint",
-    "0.5 cup orange juice",
-    "1 lemon",
-    "2 plums",
-    "500 ml lemonade"
+    "1 tsp mint (to garnish)",
+    "0.5 cup orange juice, strained",
+    "1 lemon, sliced (to garnish)",
+    "2 plums, stones removed, sliced",
+    "500ml lemonade, chilled"
   ],
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "HowToStep": {},
+      "HowToTip": {},
       "text": "Combine wine, juice and Campari in a jug. Add plum slices to jug with ice and lemonade. Serve garnished with mint and lemon slices."
     }
   ],
   "recipeNameId": "riesling-plum-spritz",
   "recipeYield": "4",
   "sameAs": [
-    "https://woolworths.com.au/shop/find-recipes/spritz-recipe"
+    "https://woolworths.com.au/shop/recipes/riesling-plum-spritz"
   ],
   "totalTime": "PT5M",
-  "updatedAt": "2022-11-22T06:29:22.248Z",
+  "updatedAt": "2022-11-27T06:56:30.639Z",
   "url": "https://www.woolworths.com.au/shop/recipes/riesling-plum-spritz"
 }

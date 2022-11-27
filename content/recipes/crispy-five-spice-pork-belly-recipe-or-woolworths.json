@@ -1,49 +1,66 @@
 {
   "@type": "Recipe",
+  "author": {
+    "@type": "Person",
+    "name": "Customer | Fresh ideas by you - meyuu"
+  },
   "cookTime": "PT95M",
   "createdAt": "2022-11-26T21:01:52.367Z",
-  "datePublished": "2021-08-12",
+  "datePublished": "2022-09-26",
   "description": "Wondering how to cook pork belly? Audrey from VIC swears by her five-spice pork belly recipe. Succulent pork and crackling is the perfect Sunday lunch.",
   "image": {
     "@type": "ImageObject",
     "height": 1300,
-    "mime": "image/png",
-    "url": "https://foodhub.scene7.com/is/image/woolworthsltdprod/2108-crispy-five-spice-pork-belly?wid=1300&hei=1300&fmt=png-alpha",
+    "mime": "image/jpeg",
+    "url": "https://foodhub.scene7.com/is/image/woolworthsltdprod/2108-crispy-five-spice-pork-belly:Square-1300x1300",
     "width": 1300
   },
-  "keywords": "Crispy Five-Spice Pork Belly",
+  "keywords": "Dinner,High protein,Seafood free,Tree nut free,Pork,Peanut free",
   "name": "Crispy Five-Spice Pork Belly Recipe | Woolworths",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "858 calories",
+    "carbohydrateContent": "0.9 g",
+    "fatContent": "88.5 g",
+    "proteinContent": "16.6 g",
+    "saturatedFatContent": "32.8 g",
+    "sodiumContent": "2300 millig",
+    "transFatContent": "0.4 g"
+  },
   "prepTime": "PT15M",
-  "recipeCategory": "mains",
-  "recipeCuisine": "asian",
+  "recipeCategory": "Mains,Lunch,Dinner",
+  "recipeCuisine": "Asian",
   "recipeId": "FID-2108-03",
   "recipeIngredient": [
-    "1 kg pork belly",
+    "1kg pork belly, rind scored",
     "2 tbs sea salt flakes",
     "3 tsp Chinese five-spice powder",
     "1 tsp white pepper",
     "1 tbs white vinegar",
-    "2 spring onions",
-    "120 g baby rocket leaves"
+    "2 spring onions, thinly sliced",
+    "120g baby rocket leaves (to serve)"
   ],
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Preheat oven to 180°C/160°C fan-forced. Place pork belly, rind-side down, on a baking tray. Bake for 50 minutes. Increase oven temperature to 220°C/200°C fan-forced. Turn pork rind-side up. Brush vinegar over rind and bake for a further 45 minutes or until skin is crisp and pork is cooked through. Rest for 10 minutes. Sprinkle with onion and serve with rocket leaves."
+      "HowToTip": {
+        "tipId": "Tip",
+        "tipText": "A needle meat tenderiser makes pork more tender and helps create a crispy crackling. They are available from kitchenware stores or online."
+      },
+      "text": "Pierce flesh of pork with a needle meat tenderiser (see Tip). Combine 1 tbs sea salt flakes with five-spice and white pepper in a small bowl. Place pork on a tray. Rub spice mixture all over pork. Place pork, rind-side up, and sprinkle with remaining sea salt flakes. Refrigerate, uncovered, overnight."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
+      "HowToTip": {},
       "text": "Preheat oven to 180°C/160°C fan-forced. Place pork belly, rind-side down, on a baking tray. Bake for 50 minutes. Increase oven temperature to 220°C/200°C fan-forced. Turn pork rind-side up. Brush vinegar over rind and bake for a further 45 minutes or until skin is crisp and pork is cooked through. Rest for 10 minutes. Sprinkle with onion and serve with rocket leaves."
     }
   ],
   "recipeNameId": "crispy-five-spice-pork-belly",
   "recipeYield": "6",
   "sameAs": [
-    "https://woolworths.com.au/shop/find-recipes/how-to-cook-pork-belly-in-oven"
+    "https://woolworths.com.au/shop/recipes/crispy-five-spice-pork-belly"
   ],
   "totalTime": "PT110M",
-  "updatedAt": "2022-11-26T21:01:52.366Z",
+  "updatedAt": "2022-11-27T06:37:57.310Z",
   "url": "https://www.woolworths.com.au/shop/recipes/crispy-five-spice-pork-belly"
 }

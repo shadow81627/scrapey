@@ -1,59 +1,69 @@
 {
   "@type": "Recipe",
+  "author": {
+    "@type": "Person",
+    "name": "Produced for Woolworths"
+  },
   "cookTime": "PT30M",
   "createdAt": "2022-11-24T12:25:40.000Z",
   "datePublished": "2022-11-07",
   "description": "A simple warm roasted beetroot salad with a smoky and sweet flavour.",
-  "image": "https://foodhub.scene7.com/is/image/woolworthsltdprod/sweet-and-smoky-roasted-beetroot-salad?wid=3720&hei=3720&fmt=png-alpha",
-  "keywords": "Sweet & Smoky Roasted Beetroot Salad",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1300,
+    "mime": "image/jpeg",
+    "url": "https://foodhub.scene7.com/is/image/woolworthsltdprod/sweet-and-smoky-roasted-beetroot-salad:Square-1300x1300",
+    "width": 1300
+  },
+  "keywords": "Green salad,Beetroot",
   "name": "Sweet & Smoky Roasted Beetroot Salad Recipe | Woolworths",
   "prepTime": "PT10M",
-  "recipeCategory": "salads",
-  "recipeCuisine": "british",
+  "recipeCategory": "Salads",
+  "recipeCuisine": "English",
   "recipeId": "RGWW338151",
   "recipeIngredient": [
-    "4 medium beetroot",
+    "4 medium beetroot, cooked",
     "2 tbs canola oil",
-    "1 medium white onion",
-    "2 cloves garlic",
+    "1 medium white onion, peeled and diced",
+    "2 cloves garlic, peeled and diced",
     "2 tbs olive oil",
     "2 tbs balsamic vinegar",
     "1 tbs Dijon mustard",
-    "200 g mixed salad leaves"
+    "200g mixed salad leaves, washed and drained"
   ],
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Remove the beetroot from the oven and allow to cool, then toss with the salad leave and drizzle with dressing before serving."
+      "HowToTip": {},
+      "text": "Pre-heat the oven to 180°C/160°C fan-forced."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Remove the beetroot from the oven and allow to cool, then toss with the salad leave and drizzle with dressing before serving."
+      "HowToTip": {},
+      "text": "Dice the beetroot into small cubes and toss in a baking dish with the canola oil, onion and garlic."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Remove the beetroot from the oven and allow to cool, then toss with the salad leave and drizzle with dressing before serving."
+      "HowToTip": {},
+      "text": "Bake in the oven for 30 minutes."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Remove the beetroot from the oven and allow to cool, then toss with the salad leave and drizzle with dressing before serving."
+      "HowToTip": {},
+      "text": "Now combine your dressing ingredients and set to one side."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
+      "HowToTip": {},
       "text": "Remove the beetroot from the oven and allow to cool, then toss with the salad leave and drizzle with dressing before serving."
     }
   ],
   "recipeNameId": "sweet-and-smoky-roasted-beetroot-salad",
   "recipeYield": "4",
   "sameAs": [
-    "https://woolworths.com.au/shop/find-recipes/roast-beetroot-salad"
+    "https://woolworths.com.au/shop/recipes/sweet-and-smoky-roasted-beetroot-salad"
   ],
   "totalTime": "PT40M",
-  "updatedAt": "2022-11-24T12:13:45.866Z",
+  "updatedAt": "2022-11-27T11:26:23.193Z",
   "url": "https://www.woolworths.com.au/shop/recipes/sweet-and-smoky-roasted-beetroot-salad"
 }

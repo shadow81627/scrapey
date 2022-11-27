@@ -1,0 +1,45 @@
+{
+  "@type": "Product",
+  "additionalProperty": [],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Vicks"
+  },
+  "createdAt": "2022-11-27T10:20:17.476Z",
+  "description": "<p style=\"border: 2px solid #000; padding: 16px; background: rgb(236, 236, 236)\"><strong style=\"font-family: GT-Big-Walsheim-Bold,Montserrat,Helvetica,sans-serif!important;\">WARNING: </strong>Always read the label. Follow the directions for use. This product may not be right for you. Read the warnings on pack before purchase. If symptoms persist, talk to your health professional.</p>Keep your family protected during cold and flu season with the Vicks Warm Steam Vaporiser. This steam vaporiser helps combat excessive dryness in the air, and can help to relieve the symptoms of cold, flu and hayfever, relieve sore throats, keep the respiratory system moist and helps you breathe better to sleep more comfortably.",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/1073815184.jpg",
+  "name": "Vicks 1EACH",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 70,
+    "lowPrice": 70,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-27T10:20:17.475Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 70,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/1073815184/vicks-warm-steam-vaporiser"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/1073815184/vicks-warm-steam-vaporiser"
+  ],
+  "sku": "1073815184",
+  "updatedAt": "2022-11-27T10:20:17.475Z"
+}

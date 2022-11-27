@@ -1,29 +1,44 @@
 {
   "@type": "Recipe",
+  "author": {
+    "@type": "Person",
+    "name": "Fresh Ideas"
+  },
   "cookTime": "PT15M",
   "createdAt": "2022-11-22T22:53:07.000Z",
-  "datePublished": "2021-03-10",
+  "datePublished": "2022-09-26",
   "description": "Try our easy to follow Farfalle with Vegetable Carbonara Sauce recipe. Absolutely delicious with the best ingredients from Woolworths.",
   "image": {
     "@type": "ImageObject",
     "height": 1300,
-    "mime": "image/png",
-    "url": "https://foodhub.scene7.com/is/image/woolworthsltdprod/1305_lowfatfarfallewithcarbonarasauce?wid=1300&hei=1300&fmt=png-alpha",
+    "mime": "image/jpeg",
+    "url": "https://foodhub.scene7.com/is/image/woolworthsltdprod/1305_lowfatfarfallewithcarbonarasauce:Square-1300x1300",
     "width": 1300
   },
-  "keywords": "Farfalle with Vegetable Carbonara Sauce",
+  "keywords": "Carbonara,Pescatarian,Low saturated fat,Seafood free,Low salt,Tree nut free,Low sugar,Sesame free,Zucchini,Halal,High protein,High fibre,Soy free,Vegetarian,Peanut free",
   "name": "Farfalle with Vegetable Carbonara Sauce Recipe | Woolworths",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "548 calories",
+    "carbohydrateContent": "82.2 g",
+    "fatContent": "11.8 g",
+    "fiberContent": "7.2 g",
+    "proteinContent": "23.3 g",
+    "saturatedFatContent": "4.7 g",
+    "sodiumContent": "325 millig",
+    "sugarContent": "9.8 g"
+  },
   "prepTime": "PT10M",
-  "recipeCategory": "entrees",
-  "recipeCuisine": "european",
+  "recipeCategory": "Entrees",
+  "recipeCuisine": "Italian",
   "recipeId": "1602",
   "recipeIngredient": [
-    "400 g farfalle pasta",
-    "0.5 cup mint",
-    "3 medium zucchini",
-    "0.33 cup parmesan",
-    "0.5 cup parmesan",
-    "1 pinch ground pepper",
+    "400g farfalle pasta",
+    "0.5 cup mint, leaves (to serve)",
+    "3 medium zucchini, trimmed grated",
+    "0.33 cup parmesan, finely grated",
+    "0.5 cup parmesan, shaved (to serve)",
+    "1 pinch ground pepper (to serve)",
     "0.33 cup light and creamy evaporated milk",
     "2 tsp olive oil",
     "2 eggs",
@@ -32,26 +47,26 @@
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Whisk evaporated milk, eggs and parmesan in a bowl. Add to hot pasta and toss until combined. Add vegetable mixture and toss until combined. Transfer to serving bowls. Top with mint and shaved parmesan. Serve with freshly ground black pepper."
+      "HowToTip": {},
+      "text": "Heat oil in a frying pan over a medium-high heat. Add zucchini and cook, stirring occasionally, for 3 minutes until tender. Stir in peas and cook for 3 minutes."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Whisk evaporated milk, eggs and parmesan in a bowl. Add to hot pasta and toss until combined. Add vegetable mixture and toss until combined. Transfer to serving bowls. Top with mint and shaved parmesan. Serve with freshly ground black pepper."
+      "HowToTip": {},
+      "text": "Cook farfalle pasta following packet instructions. Drain and return to saucepan."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
+      "HowToTip": {},
       "text": "Whisk evaporated milk, eggs and parmesan in a bowl. Add to hot pasta and toss until combined. Add vegetable mixture and toss until combined. Transfer to serving bowls. Top with mint and shaved parmesan. Serve with freshly ground black pepper."
     }
   ],
   "recipeNameId": "farfalle-with-vegetable-carbonara-sauce",
   "recipeYield": "4",
   "sameAs": [
-    "https://woolworths.com.au/shop/find-recipes/how-to-make-a-carbonara-sauce"
+    "https://woolworths.com.au/shop/recipes/farfalle-with-vegetable-carbonara-sauce"
   ],
   "totalTime": "PT25M",
-  "updatedAt": "2022-11-22T12:43:40.785Z",
+  "updatedAt": "2022-11-27T07:14:11.160Z",
   "url": "https://www.woolworths.com.au/shop/recipes/farfalle-with-vegetable-carbonara-sauce"
 }

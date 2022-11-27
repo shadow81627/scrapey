@@ -1,0 +1,45 @@
+{
+  "@type": "Product",
+  "additionalProperty": [],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Nad's"
+  },
+  "createdAt": "2022-11-27T10:20:45.634Z",
+  "description": "<p>Nad's Facial Wax Strips use a soft, flexible, hypoallergenic strip that conforms to delicate facial areas to remove even the shortest hair by the root. Quick, simple, effective hair removal at home or on the go!</p>",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/1073815255.jpg",
+  "name": "Nad's 20EACH",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 10,
+    "lowPrice": 10,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-27T10:20:45.633Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 10,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/1073815255/nad-s-facial-wax-strips-20-pack"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/1073815255/nad-s-facial-wax-strips-20-pack"
+  ],
+  "sku": "1073815255",
+  "updatedAt": "2022-11-27T10:20:45.633Z"
+}

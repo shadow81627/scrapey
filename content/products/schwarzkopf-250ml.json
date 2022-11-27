@@ -1,0 +1,45 @@
+{
+  "@type": "Product",
+  "additionalProperty": [],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Schwarzkopf"
+  },
+  "createdAt": "2022-11-27T10:25:22.686Z",
+  "description": "<p>Extra Care Purple Conditioner is formulated with ANTI-YELLOW TECHNOLOGY with intense violet pigments to neutralise any remaining yellow & brassy tones. With OMEGAPLEX ANTIBREAKAGETECHNOLOGY + BLUEBERRY EXTRACT for hair repair & stronger hair.</p>",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/1073814497.jpg",
+  "name": "Schwarzkopf 250ML",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 8,
+    "lowPrice": 8,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-27T10:25:22.685Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 8,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/1073814497/schwarzkopf-extra-care-blonde-anti-yellow-toning-purple-conditioner-250ml"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/1073814497/schwarzkopf-extra-care-blonde-anti-yellow-toning-purple-conditioner-250ml"
+  ],
+  "sku": "1073814497",
+  "updatedAt": "2022-11-27T10:25:22.685Z"
+}

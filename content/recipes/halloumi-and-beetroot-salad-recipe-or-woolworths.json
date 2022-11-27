@@ -1,23 +1,33 @@
 {
   "@type": "Recipe",
+  "author": {
+    "@type": "Person",
+    "name": "Produced for Woolworths"
+  },
   "cookTime": "PT30M",
   "createdAt": "2022-11-24T22:03:11.000Z",
   "datePublished": "2022-10-12",
   "description": "This halloumi salad has a sweet sticky dressing which compliments the flavour of beetroot.",
-  "image": "https://foodhub.scene7.com/is/image/woolworthsltdprod/halloumi-and-beetroot-salad?wid=3311&hei=3311&fmt=png-alpha",
-  "keywords": "Halloumi & Beetroot Salad",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1300,
+    "mime": "image/jpeg",
+    "url": "https://foodhub.scene7.com/is/image/woolworthsltdprod/halloumi-and-beetroot-salad:Square-1300x1300",
+    "width": 1300
+  },
+  "keywords": "Green salad,Christmas,Summer,Beetroot",
   "name": "Halloumi & Beetroot Salad Recipe | Woolworths",
   "prepTime": "PT10M",
-  "recipeCategory": "salads",
-  "recipeCuisine": "european",
+  "recipeCategory": "Salads",
+  "recipeCuisine": "Mediterranean",
   "recipeId": "RGWW338156",
   "recipeIngredient": [
-    "4 beetroot",
-    "160 g halloumi cheese",
+    "4 beetroot, cooked",
+    "160g halloumi cheese, cut into small cubes",
     "2 tbs canola oil",
-    "1 white onion",
-    "2 cloves garlic",
-    "300 g mixed salad leaves",
+    "1 white onion, peeled and diced",
+    "2 cloves garlic, peeled and diced",
+    "300g mixed salad leaves, washed and drained",
     "2 tbs olive oil",
     "2 tbs balsamic vinegar",
     "1 tbs Dijon mustard"
@@ -25,36 +35,36 @@
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Once the halloumi and beetroot is ready, you can remove from the oven and toss with the salad leave and drizzle with dressing before serving."
+      "HowToTip": {},
+      "text": "Pre-heat the oven to 180°C/160°C fan-forced."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Once the halloumi and beetroot is ready, you can remove from the oven and toss with the salad leave and drizzle with dressing before serving."
+      "HowToTip": {},
+      "text": "Dice the beetroot into small cubes and toss in a baking dish with the halloumi, canola oil, onion and garlic."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Once the halloumi and beetroot is ready, you can remove from the oven and toss with the salad leave and drizzle with dressing before serving."
+      "HowToTip": {},
+      "text": "Bake in the oven for 30 minutes."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Once the halloumi and beetroot is ready, you can remove from the oven and toss with the salad leave and drizzle with dressing before serving."
+      "HowToTip": {},
+      "text": "Now combine your dressing ingredients and set to one side."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
+      "HowToTip": {},
       "text": "Once the halloumi and beetroot is ready, you can remove from the oven and toss with the salad leave and drizzle with dressing before serving."
     }
   ],
   "recipeNameId": "halloumi-and-beetroot-salad",
   "recipeYield": "4",
   "sameAs": [
-    "https://woolworths.com.au/shop/find-recipes/easy-beetroot-salad"
+    "https://woolworths.com.au/shop/recipes/halloumi-and-beetroot-salad"
   ],
   "totalTime": "PT40M",
-  "updatedAt": "2022-11-24T16:37:39.184Z",
+  "updatedAt": "2022-11-27T11:24:06.874Z",
   "url": "https://www.woolworths.com.au/shop/recipes/halloumi-and-beetroot-salad"
 }
