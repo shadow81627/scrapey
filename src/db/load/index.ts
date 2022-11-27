@@ -2,7 +2,9 @@ import 'reflect-metadata';
 import getFiles from '../../utils/getFiles';
 import { Pool, spawn, Worker } from 'threads';
 import path from 'path';
+import os from 'os';
 import AppDataSource from '../data-source';
+const cpuCount = os.cpus().length;
 
 /**
  * Main top level async/await
@@ -17,7 +19,7 @@ import AppDataSource from '../data-source';
     files.push(filename);
   }
   const totalFiles = files.length;
-  const pool = Pool(() => spawn(new Worker('./worker.ts')));
+  const pool = Pool(() => spawn(new Worker('./worker.ts')), {size: cpuCount / 4});
   let iteration = 0;
   for (const file of files) {
     const task = pool.queue(async (loadDB) => {
