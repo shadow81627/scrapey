@@ -1,0 +1,81 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "3",
+    "ratingValue": "5"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Alissa"
+  },
+  "cookTime": "PT25M",
+  "createdAt": "2022-11-28T15:11:04.857Z",
+  "datePublished": "2016-11-11T09:33:00+00:00",
+  "description": "This healthy and hearty red bean kale soup is packed with juicy tomatoes, savory rosemary, and (optionally) seasoned up with a touch of hot sauce.",
+  "image": {
+    "@type": "ImageObject",
+    "height": 933,
+    "mime": "image/jpeg",
+    "url": "https://www.connoisseurusveg.com/wp-content/uploads/2013/10/red-bean-kale-soup-3.jpg",
+    "width": 700
+  },
+  "keywords": "kidney beans, rosemary, tomato",
+  "name": "Rosemary Red Bean and Kale Soup",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "209 kcal",
+    "carbohydrateContent": "26.9 g",
+    "fatContent": "6.7 g",
+    "fiberContent": "7.1 g",
+    "proteinContent": "12.2 g",
+    "saturatedFatContent": "1.3 g",
+    "servingSize": "1 serving",
+    "sodiumContent": "1065 mg",
+    "sugarContent": "5.8 g"
+  },
+  "prepTime": "PT5M",
+  "recipeCategory": "Soups",
+  "recipeCuisine": "American",
+  "recipeIngredient": [
+    "2 tbsp. olive oil",
+    "1 medium onion, (diced)",
+    "4 garlic cloves, (minced)",
+    "6 cups vegetable broth",
+    "2 tbsp. fresh rosemary, (finely chopped)",
+    "1 14 oz. can diced tomatoes",
+    "1 14 oz. can red kidney beans, drained",
+    "1/4 cup tomato paste",
+    "6 cups sliced kale",
+    "Juice of 1 lemon",
+    "1 tbsp. cayenne pepper sauce, (adjust to your spice preference, or omit entirely if not your thing)"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Coat the bottom of a large saucepan or stock pot with oil and place over medium heat. When oil is hot, add onion and sauté for about five minutes, or until softened."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add garlic and sauté an additional minute or until fragrant."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add remaining ingredients, stir until tomato paste is blended in, and heat to a simmer."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Continue simmering about 20 minutes or until kale is tender."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Season with salt and pepper to taste. Ladle into bowls and serve."
+    }
+  ],
+  "recipeYield": "6",
+  "sameAs": [
+    "https://connoisseurusveg.com/tangy-red-bean-and-kale-soup"
+  ],
+  "totalTime": "PT30M",
+  "updatedAt": "2022-11-28T15:11:04.855Z"
+}

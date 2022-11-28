@@ -1,0 +1,72 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "769.00kJ",
+      "carbohydrateContent": "25.60g",
+      "dietary_fibre": "1.20g",
+      "fatContent": "6.70g",
+      "name": "nutrition",
+      "proteinContent": "4.40g",
+      "saturatedFatContent": "3.20g",
+      "servingSize": "100 g",
+      "sodiumContent": "227.00mg",
+      "sugarContent": "0.60g"
+    }
+  ],
+  "aggregateRating": {
+    "@context": "http://schema.org",
+    "@type": "AggregateRating",
+    "ratingCount": 15,
+    "ratingValue": 4.26666666666667
+  },
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Borg's"
+  },
+  "createdAt": "2022-11-28T21:11:21.395Z",
+  "description": "Borg's Savoury Pastizzi Spinach & Ricotta 10 Pieces 625g. Fresh spinach & ricotta cheese wrapped in our Borg's light and flaky pastry.<br><br>From the traditions of the Mediterranean comes Borg's Savoury Pastries.  Prepared using authentic recipes from Mrs. Borg's kitchen, these finest ingredients are selected and wrapped in our famous flaky pastry, serving you a wholesome and nutritious meal.  Serve Borg's Savoury Pastries as a quick hot party snack or an ideal meal served with a crisp green salad.<br><br>Wholesome Ingredients<br><br>Simply Cook from Frozen<br><br>Made with 100% real cheese",
+  "gtin13": "9311648007001",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1200,
+    "mime": "image/jpeg",
+    "url": "https://cdn0.woolworths.media/content/wowproductimages/large/766488.jpg",
+    "width": 1200
+  },
+  "name": "Borg's Spinach & Ricotta Pastizzis Null 625G",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 6.7,
+    "lowPrice": 6.7,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-28T21:11:21.393Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 6.7,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/766488/borg-s-spinach-ricotta-pastizzis-null"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/766488/borg-s-spinach-ricotta-pastizzis-null"
+  ],
+  "sku": "766488",
+  "updatedAt": "2022-11-28T21:11:21.393Z"
+}

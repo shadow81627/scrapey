@@ -1,0 +1,72 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "1930kJ",
+      "carbohydrateContent": "39.9g",
+      "dietary_fibre": "-",
+      "fatContent": "26.5g",
+      "name": "nutrition",
+      "proteinContent": "15.6g",
+      "saturatedFatContent": "14.0g",
+      "servingSize": "100 g",
+      "sodiumContent": "745mg",
+      "sugarContent": "1.1g"
+    }
+  ],
+  "aggregateRating": {
+    "@context": "http://schema.org",
+    "@type": "AggregateRating",
+    "ratingCount": 2,
+    "ratingValue": 5
+  },
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "National Pies"
+  },
+  "createdAt": "2022-11-28T21:32:06.619Z",
+  "description": "National Pies Classic Beef is made of Tassie Beef. Freshly baked daily in Tasmania with 128 layers of delicious puff pastry. Family owned since 1942.",
+  "gtin13": "9310795001320",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1200,
+    "mime": "image/jpeg",
+    "url": "https://cdn0.woolworths.media/content/wowproductimages/large/170572.jpg",
+    "width": 1200
+  },
+  "name": "National Pies Classic Beef Pie Single Null 180G",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3.3,
+    "lowPrice": 3.3,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-28T21:32:06.618Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 3.3,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/170572/national-pies-classic-beef-pie-single-null"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/170572/national-pies-classic-beef-pie-single-null"
+  ],
+  "sku": "170572",
+  "updatedAt": "2022-11-28T21:32:06.618Z"
+}

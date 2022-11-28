@@ -1,0 +1,78 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "3",
+    "ratingValue": "5"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Alissa"
+  },
+  "cookTime": "PT20M",
+  "createdAt": "2022-11-28T14:54:56.029Z",
+  "datePublished": "2013-12-30T12:40:00+00:00",
+  "description": "These delectable vegan mini quiches made from crispy phyllo shells stuffed with a savory mixture of seasoned tofu and spinach.",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1024,
+    "mime": "image/jpeg",
+    "url": "https://www.connoisseurusveg.com/wp-content/uploads/2013/12/top-fork-front.jpg",
+    "width": 1023
+  },
+  "keywords": "quiche",
+  "name": "Spinach Vegan Mini Quiches",
+  "prepTime": "PT10M",
+  "recipeCategory": "Appetizer",
+  "recipeCuisine": "American",
+  "recipeIngredient": [
+    "15 mini phyllo shells",
+    "1/2 lb. extra firm tofu",
+    "1 tbsp. unflavored (unsweetened soy or almond milk)",
+    "1 tsp. soy sauce",
+    "1 tbsp. nutritional yeast",
+    "1 tbsp. olive oil",
+    "1/2 medium onion (diced)",
+    "3 garlic cloves (minced)",
+    "2 cups spinach (sliced thinly)",
+    "2 scallions (finely chopped)",
+    "pinch of salt",
+    "a generous amount of black pepper"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Place tofu, milk, soy sauce and nutritional yeast into food processor and blend until a smooth, thick paste forms, scraping bowl as needed."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Preheat oven to 350. Arrange shells on baking sheet."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Heat oil in medium skillet over medium heat. Add onion and sautee until softened, about five minutes."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add garlic and spinach and continue to sautee until spinach wilts, about another minute."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add tofu mixture and scallions and reduce heat to low. Cook, stirring frequently, until tofu softens and everything is evenly blended."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Spoon mixture evenly into shells. Bake for about 10 minutes, or until tops begin to brown."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Serve warm. I like to eat mine with a little hot sauce."
+    }
+  ],
+  "recipeYield": "15",
+  "sameAs": [
+    "https://connoisseurusveg.com/vegan-mini-spinach-quiches"
+  ],
+  "totalTime": "PT30M",
+  "updatedAt": "2022-11-28T14:54:56.028Z"
+}

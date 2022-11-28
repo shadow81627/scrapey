@@ -1,55 +1,59 @@
 {
   "@type": "Recipe",
+  "author": {
+    "@type": "Person",
+    "name": "Fresh Ideas"
+  },
   "cookTime": "PT10M",
   "createdAt": "2022-11-27T18:16:58.859Z",
-  "datePublished": "2021-09-23",
+  "datePublished": "2022-05-27",
   "description": "Learn our clever hack to make instant pork meatballs. This speedy pesto pasta is super tasty and ready in 15 minutes, perfect for when you're short on time.",
   "image": {
     "@type": "ImageObject",
     "height": 1300,
-    "mime": "image/png",
-    "url": "https://foodhub.scene7.com/is/image/woolworthsltdprod/2110-pork-fennel-and-pea-gnocchi?wid=1300&hei=1300&fmt=png-alpha",
+    "mime": "image/jpeg",
+    "url": "https://foodhub.scene7.com/is/image/woolworthsltdprod/2110-pork-fennel-and-pea-gnocchi:Square-1300x1300",
     "width": 1300
   },
-  "keywords": "Pork, Fennel & Pea Gnocchi",
+  "keywords": "Gnocchi,Quick & easy dinner,Oct 2021,Weeknight dinner,Pasta",
   "name": "Pork, Fennel & Pea Gnocchi Recipe | Woolworths",
   "prepTime": "PT5M",
-  "recipeCategory": "mains",
-  "recipeCuisine": "european",
+  "recipeCategory": "Lunch,Dinner",
+  "recipeCuisine": "Italian",
   "recipeId": "FIM-2110-15",
   "recipeIngredient": [
-    "500 g gnocchi",
+    "500g gnocchi",
     "2 tbs Woolworths extra virgin olive oil",
-    "500 g Woolworths Italian style fennel pork sausages",
+    "500g Woolworths Italian style fennel pork sausages",
     "1.5 cups frozen peas",
-    "1 lemon",
+    "1 lemon, zested",
     "0.33 cup basil pesto",
-    "60 g parmesan",
-    "290 g Woolworths Italian style salad kit"
+    "60g parmesan, finely grated",
+    "290g Woolworths Italian style salad kit"
   ],
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Meanwhile, prepare salad according to packet instructions. Serve gnocchi with salad and topped with remaining parmesan."
+      "HowToTip": {},
+      "text": "Cook gnocchi according to packet instructions. Drain, reserving 1/2 cup cooking liquid."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Meanwhile, prepare salad according to packet instructions. Serve gnocchi with salad and topped with remaining parmesan."
+      "HowToTip": {},
+      "text": "Meanwhile, heat oil in a large, deep frying pan over medium-high heat. Remove sausage from casings. Break into small pieces and add to pan. Cook, stirring, for 5 minutes or until golden and cooked through. Add peas, zest, pasta, reserved cooking liquid, pesto and two-thirds of the parmesan, then cook for 2 minutes or until heated through and combined."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
+      "HowToTip": {},
       "text": "Meanwhile, prepare salad according to packet instructions. Serve gnocchi with salad and topped with remaining parmesan."
     }
   ],
   "recipeNameId": "pork-fennel-and-pea-gnocchi",
   "recipeYield": "4",
   "sameAs": [
-    "https://woolworths.com.au/shop/find-recipes/pork-pasta-recipes"
+    "https://woolworths.com.au/shop/recipes/pork-fennel-and-pea-gnocchi"
   ],
   "totalTime": "PT15M",
-  "updatedAt": "2022-11-27T18:16:58.858Z",
+  "updatedAt": "2022-11-28T15:28:24.716Z",
   "url": "https://www.woolworths.com.au/shop/recipes/pork-fennel-and-pea-gnocchi"
 }
