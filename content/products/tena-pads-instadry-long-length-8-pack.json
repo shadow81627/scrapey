@@ -1,0 +1,45 @@
+{
+  "@type": "Product",
+  "additionalProperty": [],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Tena"
+  },
+  "createdAt": "2022-11-28T05:38:16.632Z",
+  "gtin13": "7322541486390",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/226191.jpg",
+  "name": "Tena Pads Instadry Long Length 8 pack",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 6.3,
+    "lowPrice": 6.3,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-28T05:38:16.631Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 6.3,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/226191/tena-pads-instadry-long-length"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/226191/tena-pads-instadry-long-length"
+  ],
+  "sku": "226191",
+  "updatedAt": "2022-11-28T05:38:16.631Z"
+}

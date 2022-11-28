@@ -1,0 +1,72 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "6",
+    "ratingValue": "5"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Beth - Budget Bytes"
+  },
+  "cookTime": "PT10M",
+  "createdAt": "2022-11-28T08:01:40.872Z",
+  "datePublished": "2021-08-02T17:05:35+00:00",
+  "description": "These cheese grits are extra rich, creamy, and flavorful. They make a hearty and comforting breakfast or a delicious side dish with dinner.",
+  "image": {
+    "@type": "ImageObject",
+    "height": 900,
+    "mime": "image/jpeg",
+    "url": "https://www.budgetbytes.com/wp-content/uploads/2021/08/Cheese-Grits-side.jpg",
+    "width": 1200
+  },
+  "keywords": "cheese grits, grits",
+  "name": "Cheese Grits",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "374 kcal",
+    "carbohydrateContent": "36 g",
+    "fatContent": "20 g",
+    "fiberContent": "2 g",
+    "proteinContent": "15 g",
+    "servingSize": "1 cup",
+    "sodiumContent": "855 mg"
+  },
+  "prepTime": "PT5M",
+  "recipeCategory": "Breakfast",
+  "recipeCuisine": "American",
+  "recipeIngredient": [
+    "2 cups chicken broth ($0.26)",
+    "2 cups milk ($1.25)",
+    "1/4 tsp garlic powder ($0.02)",
+    "1 cup quick cooking grits ($0.49)",
+    "1/4 tsp salt ($0.02)",
+    "2 Tbsp butter ($0.18)",
+    "1/4 tsp freshly cracked black pepper ($0.02)",
+    "4 oz. cheddar, shredded ($1.15)"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Combine the chicken broth, milk, and garlic powder in a medium sauce pot. Place a lid on top and bring it up to a boil over medium-high heat, stirring occasionally to prevent the milk from scorching."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Once boiling, stir in the quick cooking grits and salt. Turn the heat down to medium-low and let the grits simmer for about 5 minutes or until thickened, stirring occasionally."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Remove the grits from the heat and stir in the butter and pepper."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Finally, stir in the shredded cheddar, one handful at a time, until fully melted into the grits. Serve warm."
+    }
+  ],
+  "recipeYield": "4",
+  "sameAs": [
+    "https://budgetbytes.com/cheese-grits"
+  ],
+  "totalTime": "PT15M",
+  "updatedAt": "2022-11-28T08:01:40.870Z"
+}

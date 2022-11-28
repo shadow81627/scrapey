@@ -1,0 +1,83 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "3",
+    "ratingValue": "5"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Alissa Saenz"
+  },
+  "cookTime": "PT15M",
+  "createdAt": "2022-11-28T10:10:42.139Z",
+  "datePublished": "2022-05-11T09:51:28+00:00",
+  "description": "This vegan miso soup is delicious and comforting! Easy to make with just a handful of ingredients, it&#39;s the perfect starter for any vegan Japanese meal!",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1200,
+    "mime": "image/jpeg",
+    "url": "https://www.connoisseurusveg.com/wp-content/uploads/2022/04/vegan-miso-soup-sq-3.jpg",
+    "width": 1200
+  },
+  "keywords": "miso, scallions, tofu",
+  "name": "Comforting Vegan Miso Soup",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "72 kcal",
+    "carbohydrateContent": "6.5 g",
+    "fatContent": "2.6 g",
+    "fiberContent": "1.2 g",
+    "proteinContent": "6.1 g",
+    "saturatedFatContent": "0.4 g",
+    "servingSize": "1 cup",
+    "sodiumContent": "662 mg",
+    "sugarContent": "2 g"
+  },
+  "prepTime": "PT5M",
+  "recipeCategory": "Soup",
+  "recipeCuisine": "American",
+  "recipeIngredient": [
+    "4 cups water",
+    "1 (4 inch by 4 inch or 10 gram) piece dried kombu",
+    "1/4 cup white (shiro) miso paste",
+    "8 ounces silken tofu, (cut into 1/2-inch cubes)",
+    "2 scallions, (chopped)"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Place the water and kombu into a small saucepan and place it over high heat."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Bring the water to a boil."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Remove the pot from heat, cover it and allow the kombu to steep for 10 minutes."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "After 10 minutes, remove the lid from the pot and remove the kombu."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Ladle a small amount of the hot liquid from the pot and into a small cup or container. Add the miso and whisk until smooth."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Pour the miso mixture into the pot and stir in the tofu and scallions."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Ladle into bowls and serve immediately."
+    }
+  ],
+  "recipeYield": "4",
+  "sameAs": [
+    "https://connoisseurusveg.com/vegan-miso-soup"
+  ],
+  "totalTime": "PT20M",
+  "updatedAt": "2022-11-28T10:10:42.138Z"
+}

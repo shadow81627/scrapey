@@ -1,0 +1,75 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "3",
+    "ratingValue": "4.67"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Aysegul Sanford"
+  },
+  "cookTime": "PT10M",
+  "createdAt": "2022-11-28T08:04:45.865Z",
+  "datePublished": "2022-07-13T10:02:23+00:00",
+  "description": "Menemen, or Turkish scrambled eggs, is an easy, healthy, and customizable dish that can be ready in less than 30 minutes!",
+  "image": {
+    "@type": "ImageObject",
+    "height": 900,
+    "mime": "image/jpeg",
+    "url": "https://www.budgetbytes.com/wp-content/uploads/2022/07/Menemen-above.jpg",
+    "width": 1200
+  },
+  "keywords": "Menemen, scrambled eggs",
+  "name": "Menemen",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "255 kcal",
+    "carbohydrateContent": "7 g",
+    "fatContent": "20 g",
+    "fiberContent": "1 g",
+    "proteinContent": "12 g",
+    "servingSize": "1 serving",
+    "sodiumContent": "1086 mg"
+  },
+  "prepTime": "PT10M",
+  "recipeCategory": "Breakfast",
+  "recipeCuisine": "Turkish",
+  "recipeIngredient": [
+    "2 Tbsp olive oil ($0.25)",
+    "1 yellow onion ($0.37)",
+    "1 bell pepper (any color) ($0.98)",
+    "1/2 tsp dried oregano ($0.05)",
+    "1/4 tsp crushed red pepper (or Aleppo pepper) ($0.03)",
+    "1 15oz. can diced tomatoes ($0.79)",
+    "1 tsp salt ($0.05)",
+    "1/4 tsp freshly cracked black pepper ($0.02)",
+    "4 large eggs, lightly beaten ($0.78)",
+    "1/4 cup chopped parsley ($0.40)",
+    "1 cup crumbled feta (optional) ($1.64)"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Heat olive oil in a 10-inch skillet over medium heat. Add in onion, pepper, dried oregano, and red pepper flakes. Cook, stirring frequently until vegetables are softened for about 7-8 minutes."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Stir in the tomatoes (with their juices), salt, and pepper. Sauté for 2-3 minutes or until tomatoes are heated through."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Gently pour the lightly beaten eggs into the skillet and cook, stirring frequently, until eggs are just barely set yet still soft, about 2-3 minutes."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Immediately sprinkle it with chopped parsley and crumbled feta cheese, if using. Serve with crusty bread on the side."
+    }
+  ],
+  "recipeYield": "4",
+  "sameAs": [
+    "https://budgetbytes.com/menemen"
+  ],
+  "totalTime": "PT20M",
+  "updatedAt": "2022-11-28T08:04:45.864Z"
+}

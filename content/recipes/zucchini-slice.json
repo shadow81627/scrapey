@@ -1,0 +1,81 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "20",
+    "ratingValue": "5"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Cassie Heilbron"
+  },
+  "cookTime": "PT45M",
+  "createdAt": "2022-11-28T08:42:45.968Z",
+  "datePublished": "2022-08-24T10:03:01+00:00",
+  "description": "Zucchini Slice is an easy and budget-friendly Australian dish featuring fresh zucchini baked into a cheesy egg-based batter.",
+  "image": {
+    "@type": "ImageObject",
+    "height": 900,
+    "mime": "image/jpeg",
+    "url": "https://www.budgetbytes.com/wp-content/uploads/2022/08/Zucchini-Slice-side.jpg",
+    "width": 1200
+  },
+  "keywords": "Zucchini Slice",
+  "name": "Zucchini Slice",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "267 kcal",
+    "carbohydrateContent": "15 g",
+    "fatContent": "19 g",
+    "fiberContent": "1 g",
+    "proteinContent": "10 g",
+    "servingSize": "1 slice",
+    "sodiumContent": "194 mg"
+  },
+  "prepTime": "PT15M",
+  "recipeCategory": "Breakfast",
+  "recipeCuisine": "Australian",
+  "recipeIngredient": [
+    "1 Tbsp butter ($0.11)",
+    "2 strips bacon ($0.52)",
+    "1 yellow onion ($0.37)",
+    "5 large eggs ($0.98)",
+    "1 cup shredded cheddar cheese ($1.25)",
+    "1 cup self-rising flour* ($0.14)",
+    "1/4 cup olive oil ($0.64)",
+    "3/4 lb. zucchini (2 cups shredded) ($1.27)",
+    "1 pinch salt and pepper ($0.03)"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Preheat the oven to 350oF and line a large rectangular baking dish (11x7-inch) with parchment paper. Finely dice the onion and finely chop the bacon."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Heat the butter in a frying pan over medium heat. Add the bacon and onion and cook, stirring regularly, until the onion softens and the bacon is golden. Remove from heat and allow to cool slightly."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Grate zucchini into a colander and sprinkle a little salt on top. Set aside."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "In a large mixing bowl, add the bacon, onion, eggs, cheese, flour, and oil. Stir well to combine."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Using your hands, squeeze excess moisture out of the zucchini into the sink, then place into the mixing bowl and stir to combine—season with a little salt and pepper."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Pour the mixture into the prepared baking dish. Bake for 35-40 minutes, until cooked through and firm to touch. Allow to cool, then cut into squares to serve."
+    }
+  ],
+  "recipeYield": "8",
+  "sameAs": [
+    "https://budgetbytes.com/zucchini-slice"
+  ],
+  "totalTime": "PT60M",
+  "updatedAt": "2022-11-28T08:42:45.967Z"
+}
