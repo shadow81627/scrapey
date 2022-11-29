@@ -13,7 +13,9 @@ const execAsync = util.promisify(exec);
  * @param filename to get create date from git
  * @returns file create date
  */
-async function gitCreateDate(relativePath: string): Promise<string | undefined> {
+async function gitCreateDate(
+  relativePath: string,
+): Promise<string | undefined> {
   const command = `git log --follow --format=%ad --date default ${relativePath} | tail -1`;
   const { stdout, stderr } = await execAsync(command);
   if (stderr) {
@@ -24,9 +26,11 @@ async function gitCreateDate(relativePath: string): Promise<string | undefined> 
   }
 }
 
-export default async function gitTimeStamps(): Promise<void> {
+export default async function gitTimeStamps(): Promise<string> {
+  const updated = [];
   let iteration = 0;
-  console.log('fetching createdAt from git history');
+  const name = 'createdAt from git history';
+  console.log(`fetching ${name}`);
   for await (const filename of getFiles('content')) {
     iteration++;
     const relativePath = path.relative(process.cwd(), filename);
@@ -35,14 +39,18 @@ export default async function gitTimeStamps(): Promise<void> {
       const createdAt = await gitCreateDate(relativePath);
       if (createdAt && content.createdAt !== createdAt) {
         console.log(iteration, relativePath);
-        content.createdAt = createdAt
+        content.createdAt = createdAt;
         await writeFile(
           filename,
           JSON.stringify(deepSort(content), undefined, 2) + '\n',
         );
+        updated.push(filename);
       }
     } catch (error) {
       console.error(iteration, relativePath, error);
     }
   }
+  const response = `${name} files updated ${updated.length}`;
+  console.log(response);
+  return response;
 }

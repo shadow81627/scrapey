@@ -22,6 +22,7 @@ import imageUrls from './imageUrls';
     probeImages: '',
     urlsMissingUrls: '',
     imageUrls: '',
+    gitTimeStamps: '',
   }
 
   responses.deleteDisallowedDomains = await deleteDisallowedDomains();
@@ -33,7 +34,7 @@ import imageUrls from './imageUrls';
   responses.imageUrls = await imageUrls();
   responses.probeImages = await probeImages();
   responses.urlsMissingUrls = await urlsMissingUrls();
-  await gitTimeStamps();
+  responses.gitTimeStamps = await gitTimeStamps();
 
   console.table(responses);
 
