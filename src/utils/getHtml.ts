@@ -14,7 +14,7 @@ export default async function getHtml({ url }: getHtmlArgs): Promise<string> {
     slowMo: 250,
     waitUntil: 'networkidle0',
     defaultViewport: null,
-    proxy: { server: 'http://localhost:11111' }
+    // proxy: { server: 'http://localhost:11111' },
   };
   const timeout = 120000; // timeout in milliseconds.
   const waitForTimeout = 15000;
