@@ -8,6 +8,7 @@ import countUrlSearch from './countUrlSearch';
 import gitTimeStamps from './gitTimeStamps';
 import urlsMissingUrls from './urlsMissingUrls';
 import probeImages from './probeImages';
+import imageUrls from './imageUrls';
 
 (async () => {
   await AppDataSource.initialize();
@@ -20,6 +21,7 @@ import probeImages from './probeImages';
     resetRedirectedColesUrls: '',
     probeImages: '',
     urlsMissingUrls: '',
+    imageUrls: '',
   }
 
   responses.deleteDisallowedDomains = await deleteDisallowedDomains();
@@ -28,6 +30,7 @@ import probeImages from './probeImages';
   responses.deleteDuplicateUrls = await deleteDuplicateUrls();
   responses.resetRedirectedColesUrls = await resetRedirectedColesUrls();
   await countUrlSearch();
+  responses.imageUrls = await imageUrls();
   responses.probeImages = await probeImages();
   responses.urlsMissingUrls = await urlsMissingUrls();
   await gitTimeStamps();
