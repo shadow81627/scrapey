@@ -1,10 +1,7 @@
-import probe from 'probe-image-size';
 import { IsNull, Like } from 'typeorm';
 import AppDataSource from '../db/data-source';
 import { Image, Url } from '../db/entity';
 import probeImage from '../utils/probeImage';
-const userAgent =
-  'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:106.0) Gecko/20100101 Firefox/106.0';
 
 export default async function probeImages(): Promise<string> {
   const connection = AppDataSource;

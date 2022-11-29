@@ -22,6 +22,7 @@ import ImageObject from '../models/ImageObject';
 import probe from 'probe-image-size';
 import NutritionInformation from '../models/NutritionInformation';
 import RecipeCategory from '../models/RecipeCategory';
+import { userAgent } from '../utils/probeImage';
 
 interface ProcessLinkDataParams {
   // eslint-disable-next-line @typescript-eslint/no-explicit-any
@@ -102,10 +103,10 @@ export async function processLinkData({
     linkData.name = formatString(linkData.name);
     const slug = path.basename(
       filename ||
-      slugify(linkData.name, {
-        lower: true,
-        strict: true,
-      }),
+        slugify(linkData.name, {
+          lower: true,
+          strict: true,
+        }),
       '.json',
     );
 
@@ -133,9 +134,13 @@ export async function processLinkData({
         typeof image === 'object' && image.url ? image.url : image;
       if (typeof imageUrl === 'string') {
         try {
-          const { width, height, mime, url } = await probe(imageUrl);
+          const { width, height, mime, url } = await probe(imageUrl, {
+            user_agent: userAgent,
+            rejectUnauthorized: false,
+            proxy: 'http://localhost:11111',
+          });
           linkData.image = new ImageObject({ url, width, height, mime });
-        } catch (_) { }
+        } catch (_) {}
       }
     }
 
@@ -204,7 +209,8 @@ export async function processLinkData({
           strict: true,
         });
         const folder = `content/people`;
-        const oldPerson = (await ContentService.load({ folder, slug: personSlug })) ?? {};
+        const oldPerson =
+          (await ContentService.load({ folder, slug: personSlug })) ?? {};
         const author = { ...oldPerson, ...linkData.author };
         const sameAs = _.uniq([
           ...(author.sameAs || []),
@@ -241,9 +247,13 @@ export async function processLinkData({
       }
 
       if (Array.isArray(linkData.recipeCategory)) {
-        const recipeCategories = Object.values(RecipeCategory).filter(x => typeof x === "string");
+        const recipeCategories = Object.values(RecipeCategory).filter(
+          (x) => typeof x === 'string',
+        );
         const found = linkData.recipeCategory.find((category: string) =>
-          recipeCategories.find((value) => category.toLowerCase().includes(String(value).toLowerCase())),
+          recipeCategories.find((value) =>
+            category.toLowerCase().includes(String(value).toLowerCase()),
+          ),
         );
         if (found) {
           linkData.recipeCategory = found;
