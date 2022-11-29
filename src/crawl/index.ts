@@ -1,5 +1,5 @@
 import 'reflect-metadata';
-import { In, IsNull, Raw } from 'typeorm';
+import { In, IsNull, Like, Not, Raw } from 'typeorm';
 import { Url } from '../db/entity/Url';
 import { Pool, spawn, Worker } from 'threads';
 import os from 'os';
@@ -23,17 +23,20 @@ async function fetchCrawlUrls({
 }): Promise<[Url[], number]> {
   const skip = perPage * page - perPage;
   const connection = AppDataSource;
+  const defaultWhere = {
+    crawledAt: IsNull(),
+    image: IsNull(),
+    pathname: Not(Like('%.jpg')),
+  };
   const total = await connection.manager.count(Url, {
     where: [
       {
-        crawledAt: IsNull(),
-        image: IsNull(),
+        ...defaultWhere,
         hostname: In(allowedHosts),
         canonical: IsNull(),
       },
       {
-        crawledAt: IsNull(),
-        image: IsNull(),
+        ...defaultWhere,
         hostname: In(allowedHosts),
         canonical: Raw('canonicalId'),
       },
@@ -44,14 +47,12 @@ async function fetchCrawlUrls({
     const results = await connection.manager.find(Url, {
       where: [
         {
-          crawledAt: IsNull(),
-          image: IsNull(),
+          ...defaultWhere,
           hostname,
           canonical: IsNull(),
         },
         {
-          crawledAt: IsNull(),
-          image: IsNull(),
+          ...defaultWhere,
           hostname,
           canonical: Raw('canonicalId'),
         },
