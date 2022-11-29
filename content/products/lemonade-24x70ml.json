@@ -1,0 +1,56 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "24 PACK"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.19 per 100mL"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Made in Australia"
+    }
+  ],
+  "brand": "Zooper Dooper",
+  "createdAt": "2022-11-29T05:00:58.716Z",
+  "description": "Zooper Dooper Lemonade 24X70mL",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/4/9/5496005.jpg",
+    "width": 300
+  },
+  "name": "Lemonade 24X70mL",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3.25,
+    "lowPrice": 3.25,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/OutOfStock",
+        "availabilityStarts": "2022-11-29T05:00:58.715Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "3.25",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/lemonade-5496005p-1"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/lemonade-5496005p-1"
+  ],
+  "sku": "5496005",
+  "updatedAt": "2022-11-29T05:00:58.715Z"
+}

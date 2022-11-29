@@ -1,0 +1,64 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Wheat Flour, yeast, salt, palm oil, glucose, bread improver [contains malt, seaweed powder, isolated soy protein], dough conditioner (ascorbic acid)."
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "8.0"
+    },
+    {
+      "name": "Size",
+      "value": "200g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.45 per 100G"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Made in South Korea from Imported ingredients"
+    }
+  ],
+  "brand": "Obento",
+  "createdAt": "2022-11-29T03:28:38.859Z",
+  "description": "Obento Panko Breadcrumbs have a light texture, give a crunchy coating and is ideal for coating chicken, meat and seafood.",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/0/1/2017230.jpg",
+    "width": 300
+  },
+  "name": "Panko Bread Crumbs",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2.9,
+    "lowPrice": 2.9,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-29T03:28:38.858Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "2.90",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/obento-panko-breadcrumbs"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/obento-panko-breadcrumbs"
+  ],
+  "sku": "2017230",
+  "updatedAt": "2022-11-29T03:28:38.858Z"
+}

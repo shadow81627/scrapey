@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "6.8g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$12.50 per 10G"
+    }
+  ],
+  "brand": "Rimmel",
+  "createdAt": "2022-11-29T05:18:16.476Z",
+  "description": "Rimmel Wonder Ink Eyeliner",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/7/0/3702252.jpg",
+  "name": "Wonder Ink Eyeliner",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 8.5,
+    "lowPrice": 8.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-29T05:18:16.473Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "8.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/rimmel-wonder-ink-eyeliner"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/rimmel-wonder-ink-eyeliner"
+  ],
+  "sku": "3702252",
+  "updatedAt": "2022-11-29T05:18:16.474Z"
+}

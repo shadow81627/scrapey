@@ -1,0 +1,60 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Cooked Rice (Water, Rice), Chicken (23%) (Chicken, Cottonseed Oil, Water, Wheat Flour, Soy Flour, Salt, Spices, Parsley, Sugar, Yeast, Potato Starch, Soy Protein), Water, Vegetables (Carrots, Capsicum, Spinach), Honey, Sugar, Thickener (1422), Lemon Juice (1%), Soy Sauce (Soy, Wheat), Canola Oil, Coriander."
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "1.0"
+    },
+    {
+      "name": "Size",
+      "value": "350g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.29 per 100G"
+    }
+  ],
+  "brand": "McCain",
+  "createdAt": "2022-11-29T04:51:44.397Z",
+  "description": "McCain Healthy Choice is looking after yourself. It is low in cholesterol, no artificial colours and no artificial flavours. The McCain promise: We are passionate and proud of our products and always do our best to ensure that they reach you in perfect condition.",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/6/5/5/6557841.jpg",
+    "width": 300
+  },
+  "name": "Frozen Healthy Choice Lemon Chicken",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 4.5,
+    "lowPrice": 4.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-29T04:51:44.396Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "4.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/mccain-healthy-choice-meal-frozen-lemon-chicken"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/mccain-healthy-choice-meal-frozen-lemon-chicken"
+  ],
+  "sku": "6557841",
+  "updatedAt": "2022-11-29T04:51:44.396Z"
+}

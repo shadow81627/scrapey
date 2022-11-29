@@ -1,0 +1,64 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Water, Reconstituted Fruit Juices [Apple (19%), Blackcurrant (1%)], Sugar, Acidity Regulator (Citric Acid), Natural Flavours."
+    },
+    {
+      "name": "Dietary",
+      "value": "No Preservatives"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "1.0"
+    },
+    {
+      "name": "Size",
+      "value": "6 pack"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.53 per 1Ea"
+    }
+  ],
+  "brand": "Prima",
+  "createdAt": "2022-11-29T04:28:22.928Z",
+  "description": "Prima Apple Blackcurrant Fruit Drink Multipack 200mL",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/6/6/3/6631810.jpg",
+    "width": 300
+  },
+  "name": "Apple Blackcurrant Fruit Drink Multipack 200mL",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3.15,
+    "lowPrice": 3.15,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-29T04:28:22.927Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "3.15",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/prima-fruit-drink-apple-blackcurrant"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/prima-fruit-drink-apple-blackcurrant"
+  ],
+  "sku": "6631810",
+  "updatedAt": "2022-11-29T04:28:22.927Z"
+}

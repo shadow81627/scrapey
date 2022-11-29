@@ -1,0 +1,60 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Wheat Flour, Vegetable Oils (Palm Oil, Rapeseed Oil), Salt, Curry Powder 9% (Turmeric, Coriander, Pepper, Cumin, Fenugreek, Orange Peel,Paprika, Spices), Sugar, Flavour Enhancers (621, 627, 631), Colour (150a), Spices (Pepper, Chilli Pepper, Garlic, Celery Seed, Mustard), Food Acid (296)"
+    },
+    {
+      "name": "Size",
+      "value": "92g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$4.18 per 100G"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Made in Japan from Imported ingredients"
+    }
+  ],
+  "brand": "S & B",
+  "createdAt": "2022-11-29T03:38:39.259Z",
+  "description": "S & B Golden Curry Mild Curry Sauce Mix",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/8/0/5800026.jpg",
+    "width": 300
+  },
+  "name": "Golden Curry Mild Curry Sauce Mix",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3.85,
+    "lowPrice": 3.85,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-29T03:38:39.257Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "3.85",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/s-b-curry-golden-mild"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/s-b-curry-golden-mild"
+  ],
+  "sku": "5800026",
+  "updatedAt": "2022-11-29T03:38:39.258Z"
+}

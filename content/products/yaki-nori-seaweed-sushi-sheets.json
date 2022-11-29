@@ -1,0 +1,64 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Seaweed (Porphyra Yezoensis)."
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "10.0"
+    },
+    {
+      "name": "Size",
+      "value": "25g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$10.80 per 100G"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Product of China from Imported ingredients"
+    }
+  ],
+  "brand": "Obento",
+  "createdAt": "2022-11-29T03:28:13.095Z",
+  "description": "Maki Sushi, or literally 'rolled sushi' involves fresh ingredients and sushi rice wrapped inside a seaweed sheet (nori) and rolled using an Obento bamboo mat. These rolls can be enjoyed whole or sliced into smaller pieces and are traditionally served with soy sauce, wasabi and ginger.",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/9/4/3/9435068.jpg",
+    "width": 300
+  },
+  "name": "Yaki Nori Seaweed Sushi Sheets",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2.7,
+    "lowPrice": 2.7,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-29T03:28:13.094Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "2.70",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/obento-sushi-sheets-seaweed-yaki-nori"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/obento-sushi-sheets-seaweed-yaki-nori"
+  ],
+  "sku": "9435068",
+  "updatedAt": "2022-11-29T03:28:13.094Z"
+}

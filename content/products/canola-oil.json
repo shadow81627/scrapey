@@ -1,0 +1,68 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Canola Oil."
+    },
+    {
+      "name": "Contains",
+      "value": "NA"
+    },
+    {
+      "name": "Dietary",
+      "value": "Cholesterol free, Omega 3"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "50.0"
+    },
+    {
+      "name": "Size",
+      "value": "750mL"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.59 per 100mL"
+    }
+  ],
+  "brand": "Crisco",
+  "createdAt": "2022-11-29T03:18:01.450Z",
+  "description": "Crisco Canola Oil",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/7/3/0/73092.jpg",
+    "width": 300
+  },
+  "name": "Canola Oil",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 4.4,
+    "lowPrice": 4.4,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-29T03:18:01.449Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "4.40",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/crisco-canola-oil"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/crisco-canola-oil"
+  ],
+  "sku": "73092",
+  "updatedAt": "2022-11-29T03:18:01.449Z"
+}

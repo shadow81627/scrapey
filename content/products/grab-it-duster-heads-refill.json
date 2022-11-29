@@ -1,0 +1,60 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Contains",
+      "value": "5 Duster Heads"
+    },
+    {
+      "name": "Warning",
+      "value": "#NAME?"
+    },
+    {
+      "name": "Size",
+      "value": "5 pack"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$7.75 per 1Ea"
+    }
+  ],
+  "brand": "Pledge",
+  "createdAt": "2022-11-29T04:06:02.424Z",
+  "description": "Pledge Grab It Duster Heads Refill",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/4/3/5/4359144.jpg",
+    "width": 300
+  },
+  "name": "Grab It Duster Heads Refill",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 7.75,
+    "lowPrice": 7.75,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-29T04:06:02.422Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "7.75",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/pledge-grab-it-duster-heads-refill"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/pledge-grab-it-duster-heads-refill"
+  ],
+  "sku": "4359144",
+  "updatedAt": "2022-11-29T04:06:02.423Z"
+}

@@ -1,0 +1,72 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Wheat Flour, Water, Modified Tapioca Starch (1420), Salt, Acidity Regulator (lactic acid, sodium lactate, glucono-delta-lactone)."
+    },
+    {
+      "name": "Allergen",
+      "value": "Contains Wheat, Contains Cereals"
+    },
+    {
+      "name": "Dietary",
+      "value": "99% Fat Free"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "1.0"
+    },
+    {
+      "name": "Size",
+      "value": "200g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.60 per 100G"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Made in Japan from Imported ingredients"
+    }
+  ],
+  "brand": "Obento",
+  "createdAt": "2022-11-29T03:40:19.345Z",
+  "description": "Obento Udon Noodles are traditional wheat based Japanese noodles that are ideal in stir-fries, salad, and soups. Suitable for vegetarian.",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/9/8/5982943.jpg",
+    "width": 300
+  },
+  "name": "Udon Noodles",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 1.2,
+    "lowPrice": 1.2,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-29T03:40:19.344Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "1.20",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/obento-udon-noodles"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/obento-udon-noodles"
+  ],
+  "sku": "5982943",
+  "updatedAt": "2022-11-29T03:40:19.344Z"
+}

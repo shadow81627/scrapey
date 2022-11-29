@@ -1,0 +1,50 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "420g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$2.38 per 100G"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Made in Poland"
+    }
+  ],
+  "brand": "Cadbury",
+  "createdAt": "2022-11-29T05:31:44.397Z",
+  "description": "CADBURY milk chocolate encased in a chewy caramel.",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/5/1/3518720.jpg",
+  "name": "Chocolate Eclairs",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 10,
+    "lowPrice": 10,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-29T05:31:44.395Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "10.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/cadbury-chocolate-eclairs"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/cadbury-chocolate-eclairs"
+  ],
+  "sku": "3518720",
+  "updatedAt": "2022-11-29T05:31:44.395Z"
+}

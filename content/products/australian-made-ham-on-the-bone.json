@@ -1,0 +1,60 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "<strong>INGREDIENTS:</strong> Australian Sow Stall Free Pork (85%), Water, Acidity Regulators (326, 262), Salt, Sugar, Mineral Salts (451, 450, 452), Dextrose, Antioxidant (301), Preservative (250), Natural Wood Smoke."
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "20.0"
+    },
+    {
+      "name": "Size",
+      "value": "approx. 100g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$28.00 per 1Kg"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2022-11-29T02:20:39.102Z",
+  "description": "Coles Own Brand pork, ham and bacon products solid in our supermarkets are Sow Stall Free .",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/4/9/5495432.jpg",
+    "width": 300
+  },
+  "name": "Australian Made Ham On The Bone",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2.8,
+    "lowPrice": 2.8,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-29T02:20:39.101Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "2.80",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/ham-on-the-bone"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/ham-on-the-bone"
+  ],
+  "sku": "5495432",
+  "updatedAt": "2022-11-29T02:20:39.101Z"
+}

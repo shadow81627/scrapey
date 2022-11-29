@@ -1,0 +1,64 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Meat Including Pork, Curing Premix [Salt, Spice, Lactose, Vegetable Powders (Contains Garlic), Mineral Salt (451), Smoke Flavouring (Salt, Rice Flour, Smoke Flavour), Antioxidant (316), Preservatives (250)], Dextrose, Skim Milk Powder, Starter Culture."
+    },
+    {
+      "name": "Allergen",
+      "value": "Contains Milk"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "25.0"
+    },
+    {
+      "name": "Size",
+      "value": "approx. 100g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$31.00 per 1Kg"
+    }
+  ],
+  "brand": "Primo",
+  "createdAt": "2022-11-29T02:32:16.512Z",
+  "description": "Primo Danish Salami is made from finely minced meat that is mildly seasoned for a savoury and slightly smoky flavour. Primo Danish Salami has a firm bite and slightly chewy. Perfect for antipasto platters, pizzas or sandwich fillings.",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/0/7/5079755.jpg",
+    "width": 300
+  },
+  "name": "Danish Salami",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3.1,
+    "lowPrice": 3.1,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-29T02:32:16.511Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "3.10",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-deli-salami-danish"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/coles-deli-salami-danish"
+  ],
+  "sku": "5079755",
+  "updatedAt": "2022-11-29T02:32:16.512Z"
+}

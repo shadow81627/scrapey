@@ -1,0 +1,72 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Beef, Water, Premix [Salt, Mineral Salts (451, 452, 508, 450), Sugar, Vegetable Gum (407a), Hydrolysed Maize Protein, Vegetable Powders, Flavour Enhancers (631, 627)], Acidity Regulators (326, 325, 262), Vegetable Gum (407), Preservative (234), Natural Flavour."
+    },
+    {
+      "name": "Allergen",
+      "value": "May Be Present Soy"
+    },
+    {
+      "name": "Dietary",
+      "value": "No Artificial Flavours or Colours"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "2.0"
+    },
+    {
+      "name": "Warning",
+      "value": "Manufactured meat. Sandwich filler."
+    },
+    {
+      "name": "Size",
+      "value": "80g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$46.25 per 1Kg"
+    }
+  ],
+  "brand": "Primo",
+  "createdAt": "2022-11-29T02:31:03.414Z",
+  "description": "Primo Roast Beef is made from prime silverside which is mildly seasoned and slow roasted in controlled heat ovens, making it tender and moist with a salty, sweet flavour. Perfect in a roast beef sandwich with wholegrain mustard and horseradish. Primo Thinly Sliced Roast Beef is gluten free.",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/8/2/2822259.jpg",
+    "width": 300
+  },
+  "name": "Roast Beef Thinly Sliced",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3.7,
+    "lowPrice": 3.7,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-29T02:31:03.413Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "3.70",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/primo-roast-beef-thin-sliced"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/primo-roast-beef-thin-sliced"
+  ],
+  "sku": "2822259",
+  "updatedAt": "2022-11-29T02:31:03.413Z"
+}

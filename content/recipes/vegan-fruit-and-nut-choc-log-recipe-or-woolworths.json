@@ -1,51 +1,64 @@
 {
   "@type": "Recipe",
+  "author": {
+    "@type": "Person",
+    "name": "Fresh Ideas"
+  },
   "cookTime": "PT20M",
   "createdAt": "2022-11-25T23:46:32.985Z",
-  "datePublished": "2021-03-10",
+  "datePublished": "2022-09-26",
   "description": "Try our easy to follow Vegan Fruit & Nut Choc Log recipe. Absolutely delicious with the best ingredients from Woolworths.",
   "image": {
     "@type": "ImageObject",
     "height": 1300,
-    "mime": "image/png",
-    "url": "https://foodhub.scene7.com/is/image/woolworthsltdprod/1812-vegan-fruit-and-nut-choc-log?wid=1300&hei=1300&fmt=png-alpha",
+    "mime": "image/jpeg",
+    "url": "https://foodhub.scene7.com/is/image/woolworthsltdprod/1812-vegan-fruit-and-nut-choc-log:Square-1300x1300",
     "width": 1300
   },
-  "keywords": "Vegan Fruit & Nut Choc Log",
+  "keywords": "Chocolate treats,Seafood free,Christmas,Egg free,Chocolate,Stone fruit",
   "name": "Vegan Fruit & Nut Choc Log Recipe | Woolworths",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "509 calories",
+    "carbohydrateContent": "38.2 g",
+    "fatContent": "33.0 g",
+    "proteinContent": "5.4 g",
+    "sodiumContent": "181 millig",
+    "sugarContent": "33.2 g"
+  },
   "prepTime": "PT20M",
-  "recipeCategory": "desserts",
-  "recipeCuisine": "australian",
+  "recipeCategory": "Desserts",
+  "recipeCuisine": "Australian",
   "recipeId": "8276",
   "recipeIngredient": [
-    "0.5 cup prunes",
-    "0.5 cup dried apricots",
-    "300 g dairy-free dark chocolate",
-    "160 g vegan margarine",
+    "0.5 cup prunes, pitted, roughly chopped",
+    "0.5 cup dried apricots, roughly chopped",
+    "300g dairy-free dark chocolate, broken into pieces (70% cocoa)",
+    "160g vegan margarine",
     "0.5 tsp bicarbonate of soda",
     "2 tbs golden syrup",
     "0.5 cup craisins",
     "0.33 cup caster sugar",
-    "0.5 cup hazelnuts"
+    "0.5 cup hazelnuts, roasted, chopped"
   ],
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Grease a 20x12cm loaf pan and line with baking paper, with sides overhanging. Stir chocolate and margarine in a heatproof bowl over a saucepan of simmering water for 5 minutes or until melted. Cool for 10 minutes. Stir in hazelnut, dried fruit and toffee. Pour into pan, smooth top and chill for 2 hours to set. Remove from pan, slice and serve."
+      "HowToTip": {},
+      "text": "Line a baking tray with baking paper. Stir sugar and syrup in a small deep saucepan over medium heat for 8 minutes or until sugar dissolves and mixture boils. Reduce heat to low and simmer for 8 minutes or until mixture turns a golden caramel colour. Stir in bicarbonate of soda (be careful, mixture will bubble up quickly). Pour immediately over tray and set aside. When cold, break into pieces."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
+      "HowToTip": {},
       "text": "Grease a 20x12cm loaf pan and line with baking paper, with sides overhanging. Stir chocolate and margarine in a heatproof bowl over a saucepan of simmering water for 5 minutes or until melted. Cool for 10 minutes. Stir in hazelnut, dried fruit and toffee. Pour into pan, smooth top and chill for 2 hours to set. Remove from pan, slice and serve."
     }
   ],
   "recipeNameId": "vegan-fruit-and-nut-choc-log",
   "recipeYield": "8",
   "sameAs": [
-    "https://woolworths.com.au/shop/find-recipes/chocolate-log-dessert"
+    "https://woolworths.com.au/shop/recipes/vegan-fruit-and-nut-choc-log"
   ],
   "totalTime": "PT40M",
-  "updatedAt": "2022-11-25T23:46:32.985Z",
+  "updatedAt": "2022-11-29T02:46:09.910Z",
   "url": "https://www.woolworths.com.au/shop/recipes/vegan-fruit-and-nut-choc-log"
 }

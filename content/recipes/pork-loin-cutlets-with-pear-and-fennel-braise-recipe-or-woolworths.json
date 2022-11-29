@@ -1,27 +1,41 @@
 {
   "@type": "Recipe",
+  "author": {
+    "@type": "Person",
+    "name": "Fresh Ideas"
+  },
   "cookTime": "PT20M",
   "createdAt": "2022-11-23T02:35:54.000Z",
-  "datePublished": "2021-03-10",
+  "datePublished": "2022-09-26",
   "description": "Try our easy to follow Pork Loin Cutlets with Pear & Fennel Braise recipe. Absolutely delicious with the best ingredients from Woolworths.",
   "image": {
     "@type": "ImageObject",
     "height": 1300,
-    "mime": "image/png",
-    "url": "https://foodhub.scene7.com/is/image/woolworthsltdprod/1504_porkloincutletswithpearfennelbraise?wid=1300&hei=1300&fmt=png-alpha",
+    "mime": "image/jpeg",
+    "url": "https://foodhub.scene7.com/is/image/woolworthsltdprod/1504_porkloincutletswithpearfennelbraise:Square-1300x1300",
     "width": 1300
   },
-  "keywords": "Pork Loin Cutlets with Pear & Fennel Braise",
+  "keywords": "Pork cutlet,Seafood free,Low salt,Gluten free,Tree nut free,Egg free,Sesame free,Pear,Quick & easy dinner,High protein,High fibre,Soy free,Wheat free,Pork,Dairy free,Peanut free",
   "name": "Pork Loin Cutlets with Pear & Fennel Braise Recipe | Woolworths",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "765 calories",
+    "carbohydrateContent": "19.6 g",
+    "fatContent": "58.8 g",
+    "fiberContent": "6.9 g",
+    "proteinContent": "34.5 g",
+    "saturatedFatContent": "14.0 g",
+    "sodiumContent": "182 millig"
+  },
   "prepTime": "PT5M",
-  "recipeCategory": "mains",
-  "recipeCuisine": "british",
+  "recipeCategory": "Mains",
+  "recipeCuisine": "British",
   "recipeId": "3534",
   "recipeIngredient": [
-    "2 pears",
-    "4 small fennel bulbs",
+    "2 pears, cored, quartered",
+    "4 small fennel bulbs, trimmed, thickly sliced",
     "0.5 cup pear cider",
-    "1 lemon",
+    "1 lemon, rind grated",
     "1.5 tbs olive oil",
     "1 tbs thyme leaves",
     "4 pork loin cutlets"
@@ -29,26 +43,26 @@
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Remove pork from oven and stir any juices into fennel mixture. Spoon onto plates and top with pork to serve."
+      "HowToTip": {},
+      "text": "Preheat oven to 200°C. Brush pork with a little of the oil and season. Heat a frying pan over medium-high heat. Add pork and brown on both sides, then reduce heat to medium and cook for 5 minutes. Transfer to an ovenproof dish and bake for 8-10 minutes until cooked through."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Remove pork from oven and stir any juices into fennel mixture. Spoon onto plates and top with pork to serve."
+      "HowToTip": {},
+      "text": "Meanwhile, heat remaining oil in the same pan over medium-low heat. Add the fennel and cook, stirring often for 5 minutes until soft. Add pear, lemon rind, thyme and cider and simmer gently for 5 minutes or until thickened slightly."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
+      "HowToTip": {},
       "text": "Remove pork from oven and stir any juices into fennel mixture. Spoon onto plates and top with pork to serve."
     }
   ],
   "recipeNameId": "pork-loin-cutlets-with-pear-and-fennel-braise",
   "recipeYield": "4",
   "sameAs": [
-    "https://woolworths.com.au/shop/find-recipes/pork-loin-cutlet"
+    "https://woolworths.com.au/shop/recipes/pork-loin-cutlets-with-pear-and-fennel-braise"
   ],
   "totalTime": "PT25M",
-  "updatedAt": "2022-11-23T00:37:39.029Z",
+  "updatedAt": "2022-11-29T03:24:29.163Z",
   "url": "https://www.woolworths.com.au/shop/recipes/pork-loin-cutlets-with-pear-and-fennel-braise"
 }

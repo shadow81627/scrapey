@@ -1,62 +1,76 @@
 {
   "@type": "Recipe",
+  "author": {
+    "@type": "Person",
+    "name": "Fresh Ideas"
+  },
   "cookTime": "PT30M",
   "createdAt": "2022-11-25T10:08:59.000Z",
-  "datePublished": "2021-03-10",
+  "datePublished": "2022-09-26",
   "description": "Try our easy to follow Custard-Filled Cannoli recipe. Absolutely delicious with the best ingredients from Woolworths.",
   "image": {
     "@type": "ImageObject",
     "height": 1300,
-    "mime": "image/png",
-    "url": "https://foodhub.scene7.com/is/image/woolworthsltdprod/1908-custard-filled-cannoli?wid=1300&hei=1300&fmt=png-alpha",
+    "mime": "image/jpeg",
+    "url": "https://foodhub.scene7.com/is/image/woolworthsltdprod/1908-custard-filled-cannoli:Square-1300x1300",
     "width": 1300
   },
-  "keywords": "Custard-Filled Cannoli",
+  "keywords": "Cannoli,Pescatarian,Halal,Seafood free,Low salt,Vegetarian,Tree nut free,Low sugar,Sesame free,Peanut free",
   "name": "Custard-Filled Cannoli Recipe | Woolworths",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "407 calories",
+    "carbohydrateContent": "17.1 g",
+    "fatContent": "36.9 g",
+    "proteinContent": "2.4 g",
+    "saturatedFatContent": "6.2 g",
+    "sodiumContent": "37 millig",
+    "sugarContent": "3.9 g"
+  },
   "prepTime": "PT60M",
-  "recipeCategory": "desserts",
-  "recipeCuisine": "european",
+  "recipeCategory": "Desserts",
+  "recipeCuisine": "Italian",
   "recipeId": "9642",
   "recipeIngredient": [
     "2 tbs custard powder",
     "1 cup milk",
-    "2 tbs icing sugar",
+    "2 tbs icing sugar (to dust)",
     "24 wonton skins",
     "1 tsp ground cinnamon",
     "6 cannelloni shells",
     "2 tbs caster sugar",
     "0.25 cup caster sugar",
     "3 cup vegetable oil",
-    "300 ml mascarpone"
+    "300ml mascarpone"
   ],
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Combine sugar and cinnamon in a bowl. Roll shells in cinnamon sugar to coat. Fill with custard mixture and dust with icing sugar. Serve immediately."
+      "HowToTip": {},
+      "text": "Combine custard powder and sugar in a small saucepan. Gradually whisk in milk until smooth. Stir over low heat for 5 minutes or until thickened. Transfer to a large heatproof bowl. Cover surface with plastic wrap and chill for 15 minutes. Beat with electric beaters until smooth. Add mascarpone and beat until soft peaks form. Transfer to a piping bag fitted with a 2cm star nozzle."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Combine sugar and cinnamon in a bowl. Roll shells in cinnamon sugar to coat. Fill with custard mixture and dust with icing sugar. Serve immediately."
+      "HowToTip": {},
+      "text": "To make the cannoli, cut 6 x 12cm squares of baking paper. Wrap a cannelloni shell with a paper square then place wonton skins diagonally so 2 corners meet. Moisten one corner with water and press to join. Set aside and repeat to make 6."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Combine sugar and cinnamon in a bowl. Roll shells in cinnamon sugar to coat. Fill with custard mixture and dust with icing sugar. Serve immediately."
+      "HowToTip": {},
+      "text": "Meanwhile, heat oil in a deep pan over medium heat. Carefully lower shells into oil, in batches, and cook for 3 minutes or until golden and crisp. Drain on a paper towel-lined plate. Cool for 1 minute, then carefully slide pastry shells off. Using the same shells and paper, repeat until all wonton skins have been cooked."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
+      "HowToTip": {},
       "text": "Combine sugar and cinnamon in a bowl. Roll shells in cinnamon sugar to coat. Fill with custard mixture and dust with icing sugar. Serve immediately."
     }
   ],
   "recipeNameId": "custard-filled-cannoli",
   "recipeYield": "24",
   "sameAs": [
-    "https://woolworths.com.au/shop/find-recipes/wonton-pastry"
+    "https://woolworths.com.au/shop/recipes/custard-filled-cannoli"
   ],
   "totalTime": "PT90M",
-  "updatedAt": "2022-11-25T10:02:14.883Z",
+  "updatedAt": "2022-11-29T04:38:57.645Z",
   "url": "https://www.woolworths.com.au/shop/recipes/custard-filled-cannoli"
 }

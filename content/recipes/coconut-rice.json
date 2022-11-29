@@ -2,68 +2,83 @@
   "@type": "Recipe",
   "aggregateRating": {
     "@type": "AggregateRating",
-    "ratingCount": "48",
-    "ratingValue": "4.84"
+    "ratingCount": "1",
+    "ratingValue": "5"
   },
   "author": {
     "@type": "Person",
-    "name": "Beth - Budget Bytes"
+    "name": "Alissa"
   },
-  "cookTime": "PT25M",
-  "createdAt": "2022-11-28T11:19:44.362Z",
-  "datePublished": "2022-05-04T07:47:00+00:00",
-  "description": "This savory coconut rice features fragrant jasmine rice, rich coconut milk, and savory garlic for a simple yet delicious side dish.",
+  "cookTime": "PT20M",
+  "createdAt": "2022-11-28T12:45:27.000Z",
+  "datePublished": "2020-02-28T10:07:00+00:00",
+  "description": "This decadent, Thai-inspired coconut rice is prepared by simmering jasmine rice in rich coconut milk. A delicious side for stir-fries and curries!",
   "image": {
     "@type": "ImageObject",
-    "height": 900,
+    "height": 1020,
     "mime": "image/jpeg",
-    "url": "https://www.budgetbytes.com/wp-content/uploads/2022/04/Coconut-RIce-plate.jpg",
-    "width": 1200
+    "url": "https://www.connoisseurusveg.com/wp-content/uploads/2014/01/coconut-rice-5-of-5.jpg",
+    "width": 680
   },
-  "keywords": "coconut rice, jasmine rice",
+  "keywords": "vegan rice recipe, vegan side dishes",
   "name": "Coconut Rice",
   "nutrition": {
     "@type": "NutritionInformation",
-    "calories": "295 kcal",
-    "carbohydrateContent": "39 g",
-    "fatContent": "14 g",
-    "fiberContent": "1 g",
-    "proteinContent": "5 g",
-    "servingSize": "1 Serving",
-    "sodiumContent": "303 mg"
+    "calories": "281 kcal",
+    "carbohydrateContent": "38.9 g",
+    "fatContent": "12.5 g",
+    "fiberContent": "3.2 g",
+    "proteinContent": "4.2 g",
+    "saturatedFatContent": "11.1 g",
+    "servingSize": "0.5 cups",
+    "sodiumContent": "225 mg",
+    "sugarContent": "1.8 g"
   },
-  "prepTime": "PT5M",
-  "recipeCategory": "Side Dish",
-  "recipeCuisine": "Asian",
+  "prepTime": "PT10M",
+  "recipeCategory": "sides",
+  "recipeCuisine": "Thai",
   "recipeIngredient": [
-    "1 1/2 cups long-grain jasmine rice ($0.48)",
-    "1 clove garlic, minced ($0.08)",
-    "3/4 tsp salt ($0.03)",
-    "1 13.5oz. can coconut milk ($2.29)",
-    "1 cup water ($0.00)"
+    "1 3/4 cups water",
+    "1 (14 ounce or 400 ml) can full-fat coconut milk",
+    "2 cups jasmine rice",
+    "3/4 teaspoon salt, (plus more to taste)",
+    "Chopped scallions",
+    "Toasted sesame seeds"
   ],
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "text": "Rinse the jasmine rice using a wire mesh strainer or a bowl, making sure to pour off as much excess water as possible. Add the rinsed rice to a pot along with the minced garlic and salt."
+      "text": "Stir the water, coconut milk, rice, and salt together in a medium saucepan. Place it over medium heat."
     },
     {
       "@type": "HowToStep",
-      "text": "Add the coconut milk and water to the pot. Give the rice a brief stir."
+      "text": "Bring the liquid to a boil, stirring frequently and scraping the bottom of the pot with a spoon to prevent the rice from sticking."
     },
     {
       "@type": "HowToStep",
-      "text": "Place a lid on the pot, turn the heat up to high, and allow the liquid to come up to a full boil. Once it reaches a full boil, turn the heat down to low. Allow the rice to simmer over low for 15 minutes. Make sure the pot maintains a simmer. Do not stir or lift the lid as the rice simmers."
+      "text": "Lower the heat until the liquid is at a very low simmer. Cover the pot."
     },
     {
       "@type": "HowToStep",
-      "text": "After simmering for 15 minutes, remove the pot from the heat and let the rice rest an additional 5 minutes without lifting the lid. Finally, after the rice has rested, you lift the lid and fluff with a fork. Serve hot."
+      "text": "Allow the rice to simmer for about 20 minutes, or until most of the liquid is absorbed."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Remove the pot from heat and let it sit with the lid on for about 10 minutes."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Remove the lid and fluff the rice with a fork. Season with additional salt, if desired."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Top with scallions and sesame seeds, if desired. Serve."
     }
   ],
-  "recipeYield": "6",
+  "recipeYield": "8",
   "sameAs": [
-    "https://budgetbytes.com/coconut-rice-take-2"
+    "https://connoisseurusveg.com/coconut-rice"
   ],
   "totalTime": "PT30M",
-  "updatedAt": "2022-11-28T11:19:44.360Z"
+  "updatedAt": "2022-11-29T02:04:57.703Z"
 }
