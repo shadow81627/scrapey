@@ -13,13 +13,12 @@
   "createdAt": "2020-10-12T05:22:04.000Z",
   "datePublished": "2016-04-14T18:44:51+00:00",
   "description": "Eggs poached in a rich and smoky tomato sauce speckled with white beans, this Smoky White Bean Shakshuka is a filling and inexpensive breakfast or dinner! BudgetBytes.com",
-  "image": {
-    "@type": "ImageObject",
-    "height": 480,
-    "mime": "image/jpeg",
-    "url": "https://www.budgetbytes.com/wp-content/uploads/2016/04/Smoky-White-Bean-Shakshuka-above.jpg",
-    "width": 640
-  },
+  "image": [
+    "https://www.budgetbytes.com/wp-content/uploads/2016/04/Smoky-White-Bean-Shakshuka-above.jpg",
+    "https://www.budgetbytes.com/wp-content/uploads/2016/04/Smoky-White-Bean-Shakshuka-above-500x480.jpg",
+    "https://www.budgetbytes.com/wp-content/uploads/2016/04/Smoky-White-Bean-Shakshuka-above-500x375.jpg",
+    "https://www.budgetbytes.com/wp-content/uploads/2016/04/Smoky-White-Bean-Shakshuka-above-480x270.jpg"
+  ],
   "keywords": "Eggs in Tomato Sauce, Poached Eggs, Savory Breakfast Recipes",
   "name": "Smoky White Bean Shakshuka",
   "nutrition": {
@@ -60,11 +59,11 @@
     },
     {
       "@type": "HowToStep",
-      "text": "Allow the sauce to come to a simmer. Let the sauce simmer, stirring occasionally, for 57 minutes, or until it has thickened slightly. Add 1/4 tsp salt, then taste the sauce and adjust the salt or other spices to your liking."
+      "text": "Allow the sauce to come to a simmer. Let the sauce simmer, stirring occasionally, for 5-7 minutes, or until it has thickened slightly. Add 1/4 tsp salt, then taste the sauce and adjust the salt or other spices to your liking."
     },
     {
       "@type": "HowToStep",
-      "text": "Drain the white beans, add them to the skillet, then stir to combine. Allow the skillet to return to a simmer. Simmer for 23 minutes more."
+      "text": "Drain the white beans, add them to the skillet, then stir to combine. Allow the skillet to return to a simmer. Simmer for 2-3 minutes more."
     },
     {
       "@type": "HowToStep",
@@ -76,5 +75,5 @@
     "https://budgetbytes.com/smoky-white-bean-shakshuka"
   ],
   "totalTime": "PT30M",
-  "updatedAt": "2022-11-23T00:41:05.618Z"
+  "updatedAt": "2022-11-29T09:45:07.374Z"
 }

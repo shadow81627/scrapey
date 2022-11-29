@@ -1,0 +1,66 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Sugar, Popcorn (43%), Glucose Syrup (Wheat), Vegetable Oil, Artificial Flavours Added, Colours (102,110,122,133)."
+    },
+    {
+      "name": "Allergen",
+      "value": "May Contain Soybean, May Contain Milk, Contains Sulphites"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "5.0"
+    },
+    {
+      "name": "Warning",
+      "value": "WARNING: May contain unpopped corn."
+    },
+    {
+      "name": "Size",
+      "value": "150g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.33 per 100G"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Made in Australia from at least 97 % Australian ingredients."
+    }
+  ],
+  "brand": "Movietime",
+  "createdAt": "2022-11-29T11:21:35.959Z",
+  "description": "Movietime Multi Coloured Popcorn",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/0/4/5045200.jpg",
+  "name": "Multi Coloured Popcorn",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2,
+    "lowPrice": 2,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-29T11:21:35.957Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "2.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/movietime-popcorn-multi-coloured"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/movietime-popcorn-multi-coloured"
+  ],
+  "sku": "5045200",
+  "updatedAt": "2022-11-29T11:21:35.958Z"
+}

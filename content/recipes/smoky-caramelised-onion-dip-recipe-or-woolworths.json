@@ -1,41 +1,42 @@
 {
   "@type": "Recipe",
+  "author": {
+    "@type": "Person",
+    "name": "Fresh Ideas"
+  },
   "cookTime": "PT10M",
   "createdAt": "2022-11-22T12:23:57.000Z",
-  "datePublished": "2021-03-10",
+  "datePublished": "2022-06-01",
   "description": "Try our easy to follow Smoky Caramelised Onion Dip recipe. Absolutely delicious with the best ingredients from Woolworths.",
-  "image": {
-    "@type": "ImageObject",
-    "height": 1300,
-    "mime": "image/png",
-    "url": "https://foodhub.scene7.com/is/image/woolworthsltdprod/2007-smoky-caramelised-onion-dip?wid=1300&hei=1300&fmt=png-alpha",
-    "width": 1300
-  },
-  "keywords": "Smoky Caramelised Onion Dip",
+  "image": [
+    "https://foodhub.scene7.com/is/image/woolworthsltdprod/2007-smoky-caramelised-onion-dip:Square-1300x1300"
+  ],
+  "keywords": "Dip & spread,Seafood free,Wheat free,Gluten free,Tree nut free,Egg free,Aug 2020,Sesame free,Peanut free",
   "name": "Smoky Caramelised Onion Dip Recipe | Woolworths",
-  "recipeCategory": "appetisers",
-  "recipeCuisine": "australian",
+  "prepTime": "PT0M",
+  "recipeCategory": "Appetisers",
+  "recipeCuisine": "Australian",
   "recipeId": "10410",
   "recipeIngredient": [
     "3 tsp smoked paprika",
-    "200 g caramelised onion dip",
+    "200g caramelised onion dip",
     "corn chips",
-    "200 g cream cheese",
+    "200g cream cheese",
     "0.5 cup Mexican inspired shredded cheese"
   ],
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "HowToStep": {},
+      "HowToTip": {},
       "text": "Combine cream cheese, paprika, onion dip and cheese in a bowl. Season, then sprinkle over extra paprika. Transfer to a serving dish. See tip for suggested toppings."
     }
   ],
   "recipeNameId": "smoky-caramelised-onion-dip",
   "recipeYield": "6",
   "sameAs": [
-    "https://woolworths.com.au/shop/find-recipes/mexican-dip"
+    "https://woolworths.com.au/shop/recipes/smoky-caramelised-onion-dip"
   ],
   "totalTime": "PT10M",
-  "updatedAt": "2022-11-24T17:17:04.967Z",
+  "updatedAt": "2022-11-29T11:09:56.934Z",
   "url": "https://www.woolworths.com.au/shop/recipes/smoky-caramelised-onion-dip"
 }

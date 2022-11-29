@@ -1,0 +1,54 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "<b>INGREDIENTS:</b> Apple (91%), Sugar, Acidity Regulator (330, 331)."
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "7.0"
+    },
+    {
+      "name": "Size",
+      "value": "375g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.48 per 100G"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2022-11-29T10:57:59.398Z",
+  "description": "NAFNACHSR Australian Grown Apples Traditionally tasty",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/6/5/5/6551211.jpg",
+  "name": "Apple Sauce",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 1.8,
+    "lowPrice": 1.8,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-29T13:13:39.111Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "1.80",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-sauce-apple"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/coles-sauce-apple"
+  ],
+  "sku": "6551211",
+  "updatedAt": "2022-11-29T13:13:39.111Z"
+}

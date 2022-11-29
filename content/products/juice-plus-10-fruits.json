@@ -1,0 +1,54 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "RECONSTITUTED FRUIT JUICES (APPLE (76.5%), ORANGE (10%), GRAPE (4%), APRICOT (4%), PEACH (2%),PEAR (0.5%), MANGO (0.5%), LEMON (0.5%), PASSIONFRUIT (0.5%), GUAVA PUREE (0.5%)), DIETARY FIBRE (ACACIA), NATURAL FLAVOUR, FOOD ACID (CITRIC), VITAMIN C, NATURAL COLOUR (160a)."
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "8.0"
+    },
+    {
+      "name": "Size",
+      "value": "2L"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.63 per 1L"
+    }
+  ],
+  "brand": "Fruit Co",
+  "createdAt": "2022-11-29T10:52:29.815Z",
+  "description": "Made from 99% Juice and enriched with the goodness of Vitamin C and Fibre, FruitCo Juice is the perfect juice for any occasion. FruitCo Juice comes in a convenient and ergonomic 2L PET grip bottle.",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/7/5/3752283.jpg",
+  "name": "Juice Plus + 10 Fruits",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3.25,
+    "lowPrice": 3.25,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-29T10:52:29.814Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "3.25",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/fruit-co-plus-juice-10-fruits"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/fruit-co-plus-juice-10-fruits"
+  ],
+  "sku": "3752283",
+  "updatedAt": "2022-11-29T10:52:29.814Z"
+}

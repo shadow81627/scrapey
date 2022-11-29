@@ -2,8 +2,8 @@
   "@type": "Recipe",
   "aggregateRating": {
     "@type": "AggregateRating",
-    "ratingCount": "16",
-    "ratingValue": "4.94"
+    "ratingCount": "23",
+    "ratingValue": "4.87"
   },
   "author": {
     "@type": "Person",
@@ -11,15 +11,15 @@
   },
   "cookTime": "PT15M",
   "createdAt": "2020-10-12T05:22:04.000Z",
-  "datePublished": "2010-03-06T14:37:00+00:00",
-  "description": "Homemade Garlic Bread is twice as nice for half the price of it's frozen store bought counterpart! ",
-  "image": {
-    "@type": "ImageObject",
-    "height": 600,
-    "mime": "image/jpeg",
-    "url": "https://www.budgetbytes.com/wp-content/uploads/2010/03/Homemade-Garlic-Bread-front.jpg",
-    "width": 800
-  },
+  "datePublished": "2017-01-16T14:37:00+00:00",
+  "description": "This Homemade Garlic Bread Recipe uses plenty of fresh garlic, butter, and olive oil for a rich and garlicky finish. Freezer friendly!",
+  "image": [
+    "https://www.budgetbytes.com/wp-content/uploads/2010/03/Homemade-Garlic-Bread-front.jpg",
+    "https://www.budgetbytes.com/wp-content/uploads/2010/03/Homemade-Garlic-Bread-front-500x500.jpg",
+    "https://www.budgetbytes.com/wp-content/uploads/2010/03/Homemade-Garlic-Bread-front-500x375.jpg",
+    "https://www.budgetbytes.com/wp-content/uploads/2010/03/Homemade-Garlic-Bread-front-480x270.jpg"
+  ],
+  "keywords": "Bread recipe",
   "name": "Homemade Garlic Bread",
   "nutrition": {
     "@type": "NutritionInformation",
@@ -32,8 +32,10 @@
     "sodiumContent": "349.08 mg"
   },
   "prepTime": "PT10M",
+  "recipeCategory": "Dinner",
+  "recipeCuisine": "American",
   "recipeIngredient": [
-    "1 loaf French bread, approx. 24\" long ($1.29)",
+    "1 loaf Italian or French bread, approx. 24\" long ($1.29)",
     "4 Tbsp butter, room temperature ($0.44)",
     "2 Tbsp olive oil ($0.32)",
     "3 cloves garlic, minced ($0.24)",
@@ -47,7 +49,7 @@
     },
     {
       "@type": "HowToStep",
-      "text": "Cut the French bread into two 12\" long pieces, then cut each piece open lengthwise. Lay the bread on a baking sheet cut sides facing up. Spread the garlic butter mixture evenly over the open surfaces of the bread.*"
+      "text": "Cut the bread into two 12\" long pieces, then cut each piece open lengthwise. Lay the bread on a baking sheet cut sides facing up. Spread the garlic butter mixture evenly over the open surfaces of the bread.*"
     },
     {
       "@type": "HowToStep",
@@ -56,8 +58,18 @@
   ],
   "recipeYield": "12",
   "sameAs": [
-    "https://www.budgetbytes.com/garlic-bread/"
+    "https://budgetbytes.com/garlic-bread"
   ],
   "totalTime": "PT25M",
-  "updatedAt": "2020-10-08T05:38:23.761Z"
+  "updatedAt": "2022-11-29T09:40:36.604Z",
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://mediavine-res.cloudinary.com/video/upload/t_original/v1632674274/yrbg8vpaoo4ceyydxgbv.mp4",
+    "description": "This Homemade Garlic Bread Recipe uses plenty of fresh garlic, butter, and olive oil for a rich and garlicky finish. Freezer friendly!",
+    "duration": "PT50S",
+    "embedUrl": "https://video.mediavine.com/videos/yrbg8vpaoo4ceyydxgbv.js",
+    "name": "The BEST Homemade Garlic Bread",
+    "thumbnailUrl": "https://mediavine-res.cloudinary.com/image/upload/s--1GfhazXi--/c_limit,f_auto,fl_lossy,h_1080,q_auto,w_1920/v1632674284/k0uuaoxys3ihsys4zmco.jpg",
+    "uploadDate": "2021-09-26T16:38:45+00:00"
+  }
 }

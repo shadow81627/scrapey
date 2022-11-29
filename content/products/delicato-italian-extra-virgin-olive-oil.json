@@ -1,0 +1,54 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Extra Virgin Olive Oil."
+    },
+    {
+      "name": "Size",
+      "value": "750mL"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$2.00 per 100mL"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Made in Italy"
+    }
+  ],
+  "brand": "Monini",
+  "createdAt": "2022-11-29T13:03:41.065Z",
+  "description": "Monini Delicato Italian Extra Virgin Olive Oil",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/5/2/3526648.jpg",
+  "name": "Delicato Italian Extra Virgin Olive Oil",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 15,
+    "lowPrice": 15,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-29T13:03:41.064Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "15.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/monini-delicato-italian-evoo-3526648p"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/monini-delicato-italian-evoo-3526648p"
+  ],
+  "sku": "3526648",
+  "updatedAt": "2022-11-29T13:03:41.065Z"
+}

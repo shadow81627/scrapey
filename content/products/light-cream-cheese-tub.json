@@ -1,0 +1,66 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Milk, Cream (from Milk), Water, Milk Solids, Salt, Vegetable Gum (412, 410), Starter Culture."
+    },
+    {
+      "name": "Contains",
+      "value": "Milk. Contains Milk Solids 25%."
+    },
+    {
+      "name": "Allergen",
+      "value": "Contains Milk"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "10.0"
+    },
+    {
+      "name": "Warning",
+      "value": "Contains milk."
+    },
+    {
+      "name": "Size",
+      "value": "250g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$22.80 per 1Kg"
+    }
+  ],
+  "brand": "Philadelphia",
+  "createdAt": "2022-11-29T11:32:39.823Z",
+  "description": "Philadelphia Light Cream Cheese Tub",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/5/0/350057.jpg",
+  "name": "Light Cream Cheese Tub",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 5.7,
+    "lowPrice": 5.7,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-29T11:32:39.823Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "5.70",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/kraft-philadelphia-cheese-cream-spreadable-light-350057p"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/kraft-philadelphia-cheese-cream-spreadable-light-350057p"
+  ],
+  "sku": "350057",
+  "updatedAt": "2022-11-29T11:32:39.823Z"
+}

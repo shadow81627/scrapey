@@ -1,0 +1,54 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "100% Natural Coffee Beans."
+    },
+    {
+      "name": "Size",
+      "value": "500g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$4.80 per 100G"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Made in Australia from Imported Coffee Beans"
+    }
+  ],
+  "brand": "Nescafe",
+  "createdAt": "2022-11-29T11:16:19.398Z",
+  "description": "Flybuys member price - $2 off the marked price until 29 Nov 2022",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/7/7/3772961.jpg",
+  "name": "Blend 43 Coffee Espresso",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 24,
+    "lowPrice": 24,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-29T11:16:19.397Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "24.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/nescafe-blend-43-coffe-espresso"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/nescafe-blend-43-coffe-espresso?adId=display_3IkzSDRcbHiGyzUJH5i7JAt7rkkKCgoIMzc3Mjk2MVASABoMCKSgkJwGENSJxcUDIgIIAQ%3D%3D"
+  ],
+  "sku": "3772961",
+  "updatedAt": "2022-11-29T11:16:19.397Z"
+}

@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Warning",
+      "value": "Always follow the directions for use."
+    },
+    {
+      "name": "Unit Price",
+      "value": "$27.00 per 1Ea"
+    }
+  ],
+  "brand": "Elastoplast",
+  "createdAt": "2022-11-29T12:11:10.050Z",
+  "description": "- Warmth and support to relieve weak and injured knees.- Customised fit with moderate compression.- Washable & reusable.",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/9/7/3/9739335.jpg",
+  "name": "Knee Support",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 27,
+    "lowPrice": 27,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-29T12:11:10.049Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "27.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/elastoplast-support-knee"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/elastoplast-support-knee"
+  ],
+  "sku": "9739335",
+  "updatedAt": "2022-11-29T12:11:10.049Z"
+}

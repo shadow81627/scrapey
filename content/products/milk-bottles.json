@@ -1,0 +1,58 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "<b>INGREDIENTS:</b> Sugar Syrup, <strong>Wheat </strong>Glucose Syrup (contains <strong>Sulphites</strong>), Water, Beef Gelatine, Thickener [Modified Starch], Natural Flavour, Glazing Agent [Carnauba Wax]."
+    },
+    {
+      "name": "Allergen",
+      "value": "May Be Present MILK, Contains SULPHITES, May Be Present TREE NUTS, Contains CEREALS CONTAINING GLUTEN, May Be Present PEANUTS, Contains Wheat"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "8.0"
+    },
+    {
+      "name": "Size",
+      "value": "200g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.00 per 100G"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2022-11-29T12:27:13.592Z",
+  "description": "Our confectionery comes in heaps of fun flavours and a variety of textures. With NO artificial colours or flavours, these delicious treats are guaranteed to bring a smile to everyone. Enjoy!",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/4/5/3453566.jpg",
+  "name": "Milk Bottles",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2,
+    "lowPrice": 2,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-29T12:27:13.591Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "2.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-milk-bottles"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/coles-milk-bottles"
+  ],
+  "sku": "3453566",
+  "updatedAt": "2022-11-29T12:27:13.591Z"
+}

@@ -1,0 +1,49 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "<p><strong>INGREDIENTS:</strong> No Added Hormone Australian Beef (75%), Water, Salt, Sugar, Mineral Salt (451), Citrus Fibre, Antioxidant (316), Fruit Powder, Preservative (250), Yeast Extract, Canola Oil.</p>"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "3.0"
+    },
+    {
+      "name": "Size",
+      "value": "approx. 1.4kg"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2022-11-29T13:16:14.528Z",
+  "description": "Coles Corned Silverside",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/4/3/4/434703.jpg",
+  "name": "Corned Silverside",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": null,
+    "lowPrice": null,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/OutOfStock",
+        "availabilityStarts": "2022-11-29T13:16:14.527Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-beef-corned-silverside"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/coles-beef-corned-silverside"
+  ],
+  "sku": "434703",
+  "updatedAt": "2022-11-29T13:16:14.527Z"
+}

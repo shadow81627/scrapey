@@ -1,54 +1,60 @@
 {
   "@type": "Recipe",
+  "author": {
+    "@type": "Person",
+    "name": "Produced for Woolworths"
+  },
   "cookTime": "PT10M",
   "createdAt": "2022-11-23T02:35:54.000Z",
-  "datePublished": "2022-04-04",
+  "datePublished": "2022-09-26",
   "description": "A classic combination of goats cheese and beetroot paired with filling quinoa and crunchy hazelnuts.",
-  "image": "https://foodhub.scene7.com/is/image/woolworthsltdprod/338365?wid=3225&hei=3225&fmt=png-alpha",
-  "keywords": "Quinoa, Goats Cheese & Beetroot Salad",
+  "image": [
+    "https://foodhub.scene7.com/is/image/woolworthsltdprod/338365:Square-1300x1300"
+  ],
+  "keywords": "Grain salad",
   "name": "Quinoa, Goats Cheese & Beetroot Salad Recipe | Woolworths",
   "prepTime": "PT15M",
-  "recipeCategory": "salads",
-  "recipeCuisine": "european",
+  "recipeCategory": "Salads",
+  "recipeCuisine": "Mediterranean",
   "recipeId": "RGWW338365",
   "recipeIngredient": [
-    "200 g quinoa",
-    "2 large beetroot",
+    "200g quinoa",
+    "2 large beetroot, cooked, drained",
     "2 tbs lemon juice",
     "4 tbs olive oil",
     "2 tbs red wine vinegar",
-    "50 g hazelnuts",
-    "100 g goats cheese",
+    "50g hazelnuts, chopped",
+    "100g goats cheese, crumbled",
     "1 pinch cracked black pepper"
   ],
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Crumble the goats cheese in, add the chopped hazelnuts and cracked black pepper, toss and serve."
+      "HowToTip": {},
+      "text": "Cook quinoa according to pack instructions, drain and set aside to cool."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Crumble the goats cheese in, add the chopped hazelnuts and cracked black pepper, toss and serve."
+      "HowToTip": {},
+      "text": "Toast the hazelnuts in a saucepan over a medium high heat for 2-3 minutes, toss frequently to ensure they don't burn. Dice the cooked beetroot and add to the quinoa."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Crumble the goats cheese in, add the chopped hazelnuts and cracked black pepper, toss and serve."
+      "HowToTip": {},
+      "text": "Whisk the lemon juice, red wine vinegar and olive oil together and add to the quinoa and beetroot mix."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
+      "HowToTip": {},
       "text": "Crumble the goats cheese in, add the chopped hazelnuts and cracked black pepper, toss and serve."
     }
   ],
   "recipeNameId": "quinoa-goats-cheese-and-beetroot-salad",
   "recipeYield": "4",
   "sameAs": [
-    "https://woolworths.com.au/shop/find-recipes/beetroot-quinoa"
+    "https://woolworths.com.au/shop/recipes/quinoa-goats-cheese-and-beetroot-salad"
   ],
   "totalTime": "PT25M",
-  "updatedAt": "2022-11-23T00:38:24.005Z",
+  "updatedAt": "2022-11-29T12:05:17.873Z",
   "url": "https://www.woolworths.com.au/shop/recipes/quinoa-goats-cheese-and-beetroot-salad"
 }

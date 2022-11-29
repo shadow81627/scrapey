@@ -1,0 +1,58 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Wheat Flour, Water, Yeast, Wheat Gluten, Sesame Seeds, Vinegar, Canola Oil, Iodised Salt, Cultured Wheat Flour, Soy Flour, Vegetable Emulsifier (471, 481), Vitamins (Thiamin, Folic Acid)."
+    },
+    {
+      "name": "Contains",
+      "value": "Gluten Containing Cereals Soy Sesame"
+    },
+    {
+      "name": "Allergen",
+      "value": "Contains Sesame, Contains Gluten, Contains Soy, Contains Wheat, Contains Sesame Seeds"
+    },
+    {
+      "name": "Size",
+      "value": "450g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.78 per 100G"
+    }
+  ],
+  "brand": "Buttercup",
+  "createdAt": "2022-11-29T12:06:25.206Z",
+  "description": "Buttercup Country Split White Bread",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/1/2/212790.jpg",
+  "name": "Country Split White Bread",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3.5,
+    "lowPrice": 3.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-29T12:06:25.205Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "3.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/buttercup-bread-white-country-split"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/buttercup-bread-white-country-split"
+  ],
+  "sku": "212790",
+  "updatedAt": "2022-11-29T12:06:25.206Z"
+}

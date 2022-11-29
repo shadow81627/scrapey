@@ -1,0 +1,54 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "100% Certified organic spirulina Powder.Nothing else - nothing artificial, no preservatives, additives, flavour or colours."
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "20.0"
+    },
+    {
+      "name": "Size",
+      "value": "100g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$9.75 per 100G"
+    }
+  ],
+  "brand": "Nature's Way",
+  "createdAt": "2022-11-29T09:56:47.768Z",
+  "description": "Nature's Way Super Foods Spirulina",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/1/4/6/1466217.jpg",
+  "name": "Super Foods Spirulina",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 9.75,
+    "lowPrice": 9.75,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-29T09:56:47.767Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "9.75",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/natures-way-super-foods-spirulina"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/natures-way-super-foods-spirulina"
+  ],
+  "sku": "1466217",
+  "updatedAt": "2022-11-29T09:56:47.767Z"
+}

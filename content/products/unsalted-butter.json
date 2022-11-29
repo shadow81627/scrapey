@@ -1,0 +1,62 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "INGREDIENTS: Cream (Milk), Water. Minimum 80% Milk fat"
+    },
+    {
+      "name": "Allergen",
+      "value": "Contains MILK"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "50.0"
+    },
+    {
+      "name": "Size",
+      "value": "250g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.48 per 100G"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Product of New Zealand"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2022-11-29T10:05:06.971Z",
+  "description": "Coles Dairy unsalted butter, 250g. A rich, smooth and creamy butter. Ideal for baking your favourite cakes and adding and buttery goodness to your favourite savoury dishes. Product of New Zealand.",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/1/6/3169879.jpg",
+  "name": "Unsalted Butter",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3.7,
+    "lowPrice": 3.7,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/OutOfStock",
+        "availabilityStarts": "2022-11-29T10:05:06.970Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "3.70",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/butter-unsalted"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/butter-unsalted"
+  ],
+  "sku": "3169879",
+  "updatedAt": "2022-11-29T10:05:06.970Z"
+}

@@ -1,59 +1,70 @@
 {
   "@type": "Recipe",
+  "author": {
+    "@type": "Person",
+    "name": "Fresh Ideas"
+  },
   "cookTime": "PT40M",
   "createdAt": "2022-11-25T10:08:59.000Z",
-  "datePublished": "2021-03-10",
+  "datePublished": "2022-09-26",
   "description": "Combining the best of the classic eton mess and peach melba, this easy-to-make meringue recipe with poached peach and raspberries is a delicious sweet treat.",
-  "image": {
-    "@type": "ImageObject",
-    "height": 1300,
-    "mime": "image/png",
-    "url": "https://foodhub.scene7.com/is/image/woolworthsltdprod/2011-poached-peach-melba-mess?wid=1300&hei=1300&fmt=png-alpha",
-    "width": 1300
-  },
-  "keywords": "Poached Peach Melba Mess",
+  "image": [
+    "https://foodhub.scene7.com/is/image/woolworthsltdprod/2011-poached-peach-melba-mess:Square-1300x1300"
+  ],
+  "keywords": "Pudding,Pescatarian,Seafood free,Low salt,Gluten free,Spring,Nov 2020,Raspberry,Stone fruit,High fibre,Soy free,Wheat free,Vegetarian",
   "name": "Poached Peach Melba Mess Recipe | Woolworths",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "520 calories",
+    "carbohydrateContent": "30.8 g",
+    "fatContent": "29.5 g",
+    "fiberContent": "6.6 g",
+    "proteinContent": "6.6 g",
+    "saturatedFatContent": "14.3 g",
+    "sodiumContent": "28 millig",
+    "sugarContent": "30.0 g"
+  },
   "prepTime": "PT10M",
-  "recipeCategory": "desserts",
-  "recipeCuisine": "european",
+  "recipeCategory": "Desserts",
+  "recipeCuisine": "French",
   "recipeId": "10745",
   "recipeIngredient": [
     "1 tsp vanilla extract",
-    "200 ml creme fraiche",
-    "750 ml raspberry-flavoured cordial",
+    "200ml creme fraiche",
+    "750ml raspberry-flavoured cordial",
     "4 large ripe yellow peaches",
-    "125 g fresh raspberries",
-    "100 g mini meringues",
-    "80 g pistachio kernels"
+    "125g fresh raspberries",
+    "100g mini meringues, crushed",
+    "80g pistachio kernels, toasted, chopped"
   ],
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Halve and destone peaches, then chop into large pieces. Divide creme fraiche mixture and peach among plates. Top with raspberries and meringue. Drizzle over syrup and scatter over pistachios, then serve."
+      "HowToTip": {},
+      "text": "Place vanilla and creme fraiche in a bowl and hand whisk until stiff peaks form. Refrigerate until required."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Halve and destone peaches, then chop into large pieces. Divide creme fraiche mixture and peach among plates. Top with raspberries and meringue. Drizzle over syrup and scatter over pistachios, then serve."
+      "HowToTip": {},
+      "text": "Place cordial and 3 cups water in a large saucepan over medium-high heat, then bring to the boil. Reduce heat to low and add peaches, ensuring they are in a single layer. Cover with a disc of baking paper to keep peaches submerged in poaching liquid. Poach for 25 minutes or until peaches are tender. Remove pan from heat and cover, then cool for 30 minutes. Using a slotted spoon, transfer peaches to a bowl."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Halve and destone peaches, then chop into large pieces. Divide creme fraiche mixture and peach among plates. Top with raspberries and meringue. Drizzle over syrup and scatter over pistachios, then serve."
+      "HowToTip": {},
+      "text": "Discard half of the poaching liquid and bring the remainder to the boil over medium-high heat. Cook for 10 minutes or until thickened slightly and syrupy. Set aside to cool."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
+      "HowToTip": {},
       "text": "Halve and destone peaches, then chop into large pieces. Divide creme fraiche mixture and peach among plates. Top with raspberries and meringue. Drizzle over syrup and scatter over pistachios, then serve."
     }
   ],
   "recipeNameId": "poached-peach-melba-mess",
   "recipeYield": "4",
   "sameAs": [
-    "https://woolworths.com.au/shop/find-recipes/peach-melba"
+    "https://woolworths.com.au/shop/recipes/poached-peach-melba-mess"
   ],
   "totalTime": "PT50M",
-  "updatedAt": "2022-11-25T08:32:34.963Z",
+  "updatedAt": "2022-11-29T11:20:49.783Z",
   "url": "https://www.woolworths.com.au/shop/recipes/poached-peach-melba-mess"
 }

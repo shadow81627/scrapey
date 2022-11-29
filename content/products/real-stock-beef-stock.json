@@ -1,0 +1,62 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Beef Stock (98%) (Water, Beef, Carrot, Celery, Cabbage, Onion, Parsley, Pepper), Salt, Yeast Extract, Sugar, Glucose, Food Colour (Caramel I), Cloves."
+    },
+    {
+      "name": "Dietary",
+      "value": "99% Fat Free, No Preservatives"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "1.0"
+    },
+    {
+      "name": "Warning",
+      "value": "Do not purchase if package is open or torn."
+    },
+    {
+      "name": "Size",
+      "value": "250mL"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.72 per 100mL"
+    }
+  ],
+  "brand": "Campbell's",
+  "createdAt": "2022-11-29T10:32:51.213Z",
+  "description": "Campbell's Real Stock Beef Stock",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/1/1/9/1190149.jpg",
+  "name": "Real Stock Beef Stock",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 1.8,
+    "lowPrice": 1.8,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-29T10:32:51.213Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "1.80",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/campbells-stock-real-beef"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/campbells-stock-real-beef"
+  ],
+  "sku": "1190149",
+  "updatedAt": "2022-11-29T10:32:51.213Z"
+}

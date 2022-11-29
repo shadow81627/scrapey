@@ -1,0 +1,50 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Mung Beans."
+    },
+    {
+      "name": "Size",
+      "value": "375g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.75 per 100G"
+    }
+  ],
+  "brand": "Pandaroo",
+  "createdAt": "2022-11-29T13:05:55.725Z",
+  "description": "Pandaroo Asian Spices: Premium Grade Mung Bean. Available in 375 grams. Made in Australia. Premium grade Mung BeanAvailable in 375 grams Product of Australia Australian Made and Owned",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/7/4/3740080.jpg",
+  "name": "Mung Bean",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2.8,
+    "lowPrice": 2.8,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-29T13:05:55.724Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "2.80",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/pandaro-mung-bean"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/pandaro-mung-bean"
+  ],
+  "sku": "3740080",
+  "updatedAt": "2022-11-29T13:05:55.724Z"
+}

@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "500g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$15.00 per 1kg"
+    }
+  ],
+  "brand": "British",
+  "createdAt": "2022-11-29T10:02:21.083Z",
+  "description": "British Cumberland Sausages",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/8/1/2814818.jpg",
+  "name": "Cumberland Sausages",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 7.5,
+    "lowPrice": 7.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-29T10:02:21.082Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "7.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/the-british-sausage-co-english-style-pork-cumberland-sausages"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/the-british-sausage-co-english-style-pork-cumberland-sausages"
+  ],
+  "sku": "2814818",
+  "updatedAt": "2022-11-29T10:02:21.083Z"
+}

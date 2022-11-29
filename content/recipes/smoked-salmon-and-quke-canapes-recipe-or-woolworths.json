@@ -1,23 +1,34 @@
 {
   "@type": "Recipe",
-  "createdAt": "2022-11-27T22:11:28.000Z",
-  "datePublished": "2021-03-10",
-  "description": "Try our easy to follow Smoked Salmon & Quke Canapes recipe. Absolutely delicious with the best ingredients from Woolworths.",
-  "image": {
-    "@type": "ImageObject",
-    "height": 1300,
-    "mime": "image/png",
-    "url": "https://foodhub.scene7.com/is/image/woolworthsltdprod/1905-smoked-salmon-and-quke-canapes?wid=1300&hei=1300&fmt=png-alpha",
-    "width": 1300
+  "author": {
+    "@type": "Person",
+    "name": "Fresh Ideas"
   },
-  "keywords": "Smoked Salmon & Quke Canapes",
+  "cookTime": "PT0M",
+  "createdAt": "2022-11-27T22:11:28.000Z",
+  "datePublished": "2022-09-26",
+  "description": "Try our easy to follow Smoked Salmon & Quke Canapes recipe. Absolutely delicious with the best ingredients from Woolworths.",
+  "image": [
+    "https://foodhub.scene7.com/is/image/woolworthsltdprod/1905-smoked-salmon-and-quke-canapes:Square-1300x1300"
+  ],
+  "keywords": "Cold canapés,Pescatarian,Gluten free,Tree nut free,Egg free,Low sugar,Sesame free,Soy free,Wheat free,Peanut free,Salmon",
   "name": "Smoked Salmon & Quke Canapes Recipe | Woolworths",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "25 calories",
+    "carbohydrateContent": "0.7 g",
+    "fatContent": "1.7 g",
+    "fiberContent": "0.5 g",
+    "proteinContent": "1.4 g",
+    "sodiumContent": "58 millig",
+    "sugarContent": "0.6 g"
+  },
   "prepTime": "PT10M",
-  "recipeCategory": "appetisers",
-  "recipeCuisine": "north-american",
+  "recipeCategory": "Appetisers",
+  "recipeCuisine": "North American",
   "recipeId": "9218",
   "recipeIngredient": [
-    "50 g smoked salmon slices",
+    "50g smoked salmon slices",
     "1 tsp wasabi paste",
     "6 Qukes baby cucumbers",
     "2 tbs crème fraîche",
@@ -26,21 +37,21 @@
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "In a small bowl, mix crème fraîche with wasabi. Slice salmon into 1cm strips, then twist strips and place on top of Quke halves. Dollop with crème fraîche mixture and scatter over chives."
+      "HowToTip": {},
+      "text": "Split Qukes in half lengthways and trim bases to sit flat, if needed."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
+      "HowToTip": {},
       "text": "In a small bowl, mix crème fraîche with wasabi. Slice salmon into 1cm strips, then twist strips and place on top of Quke halves. Dollop with crème fraîche mixture and scatter over chives."
     }
   ],
   "recipeNameId": "smoked-salmon-and-quke-canapes",
   "recipeYield": "12",
   "sameAs": [
-    "https://woolworths.com.au/shop/find-recipes/smoked-salmon-canapes"
+    "https://woolworths.com.au/shop/recipes/smoked-salmon-and-quke-canapes"
   ],
   "totalTime": "PT10M",
-  "updatedAt": "2022-11-27T14:15:28.728Z",
+  "updatedAt": "2022-11-29T11:18:31.777Z",
   "url": "https://www.woolworths.com.au/shop/recipes/smoked-salmon-and-quke-canapes"
 }

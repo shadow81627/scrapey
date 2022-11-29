@@ -1,0 +1,50 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "145g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.66 per 100G"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Product of China from Imported ingredients"
+    }
+  ],
+  "brand": "Lee Kum Kee",
+  "createdAt": "2022-11-29T12:48:58.350Z",
+  "description": "Lee Kum Kee Ready Sauce Lemon Chicken",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/8/1/0/8104564.jpg",
+  "name": "Ready Sauce Lemon Chicken",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2.4,
+    "lowPrice": 2.4,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-29T12:48:58.349Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "2.40",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/lee-kum-kee-sauce-lemon-chicken"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/lee-kum-kee-sauce-lemon-chicken"
+  ],
+  "sku": "8104564",
+  "updatedAt": "2022-11-29T12:48:58.349Z"
+}

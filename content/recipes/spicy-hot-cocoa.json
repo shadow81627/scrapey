@@ -12,13 +12,12 @@
   "createdAt": "2022-11-25T13:16:17.000Z",
   "datePublished": "2012-10-24T18:43:00+00:00",
   "description": "This spicy hot cocoa is rich and warm with a slight kick from cayenne pepper and cinnamon to heat you up inside and out, no matter how cold it is outside!",
-  "image": {
-    "@type": "ImageObject",
-    "height": 600,
-    "mime": "image/jpeg",
-    "url": "https://www.budgetbytes.com/wp-content/uploads/2012/10/Aztec-Cocoa-above.jpg",
-    "width": 800
-  },
+  "image": [
+    "https://www.budgetbytes.com/wp-content/uploads/2012/10/Aztec-Cocoa-above.jpg",
+    "https://www.budgetbytes.com/wp-content/uploads/2012/10/Aztec-Cocoa-above-500x500.jpg",
+    "https://www.budgetbytes.com/wp-content/uploads/2012/10/Aztec-Cocoa-above-500x375.jpg",
+    "https://www.budgetbytes.com/wp-content/uploads/2012/10/Aztec-Cocoa-above-480x270.jpg"
+  ],
   "name": "Spicy Hot Cocoa",
   "nutrition": {
     "@type": "NutritionInformation",
@@ -54,10 +53,10 @@
   ],
   "recipeYield": "1",
   "sameAs": [
-    "https://budgetbytes.com/aztec-cocoa"
+    "https://budgetbytes.com/aztec-cocoa/comment-page-4"
   ],
   "totalTime": "PT5M",
-  "updatedAt": "2022-11-25T10:20:29.323Z",
+  "updatedAt": "2022-11-29T11:41:58.061Z",
   "video": {
     "@type": "VideoObject",
     "contentUrl": "https://mediavine-res.cloudinary.com/video/upload/t_original/v1606594241/kzfhbdrbn0er3bnhfblr.mp4",

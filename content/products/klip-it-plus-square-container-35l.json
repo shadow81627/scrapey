@@ -1,0 +1,42 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Unit Price",
+      "value": "$13.25 per 1Ea"
+    }
+  ],
+  "brand": "Sistema",
+  "createdAt": "2022-11-29T11:57:05.020Z",
+  "description": "Sistema Klip It Plus Square Container 3.5L",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/7/9/3794501.jpg",
+  "name": "Klip It Plus Square Container 3.5L",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 13.25,
+    "lowPrice": 13.25,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-29T11:57:05.019Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "13.25",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/sistema-klip-it-plus-baking-container"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/sistema-klip-it-plus-baking-container"
+  ],
+  "sku": "3794501",
+  "updatedAt": "2022-11-29T11:57:05.019Z"
+}

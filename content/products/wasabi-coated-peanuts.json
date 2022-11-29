@@ -1,0 +1,50 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "240g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.87 per 100G"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Made in Thailand"
+    }
+  ],
+  "brand": "Koh Kae",
+  "createdAt": "2022-11-29T11:03:35.347Z",
+  "description": "Koh Kae Wasabi Coated Peanuts",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/7/6/5/7651619.jpg",
+  "name": "Wasabi Coated Peanuts",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 4.3,
+    "lowPrice": 4.3,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-29T11:03:35.347Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "4.30",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/koh-kae-peanuts-wasabi-coated"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/koh-kae-peanuts-wasabi-coated"
+  ],
+  "sku": "7651619",
+  "updatedAt": "2022-11-29T11:03:35.347Z"
+}
