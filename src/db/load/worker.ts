@@ -3,7 +3,6 @@ import { Url } from '../entity';
 import { Product } from '../entity';
 import _ from 'lodash';
 import { Image } from '../entity';
-import probe from 'probe-image-size';
 import { Recipe } from '../entity';
 import { NutritionInformation } from '../entity/NutritionInformation';
 import { ThingType } from '../util/ThingType';
@@ -16,9 +15,7 @@ const { readFile } = fsPromises;
 const schemaDomainRegex = /https?:\/\/schema.org\//g;
 import { expose } from 'threads/worker';
 import AppDataSource from '../data-source';
-import parseHrtimeToSeconds from '../../utils/parseHrtimeToSeconds';
-const userAgent =
-  'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:106.0) Gecko/20100101 Firefox/106.0';
+import probeImage from '../../utils/probeImage';
 
 async function loadDB(filename: string) {
   if (!AppDataSource.isInitialized) {
@@ -77,27 +74,12 @@ async function loadDB(filename: string) {
               where: [{ url: { id: url.id } }],
               relations: { url: true },
             })) ?? connection.manager.create(Image, { url });
-          const probeStartTime = process.hrtime();
-          if (!url.crawledAt) {
-            try {
-              const { width, height, mime } = await probe(imageUrl, {
-                user_agent: userAgent,
-                rejectUnauthorized: false,
-              });
-              connection.manager.merge(Image, image, { width, height, mime });
-              // if (typeof imageObject === "object") {
+          // if (typeof imageObject === "object") {
               // // TODO: remove url string from imageObject before merge
               //     connection.manager.merge(Image, image, imageObject);
               // }
-              await connection.manager.save(image);
-            } catch (e) {
-              console.error('Image Probe Error:', imageUrl, e);
-            } finally {
-              const duration = Number(parseHrtimeToSeconds(process.hrtime(probeStartTime)));
-              url.crawledAt = new Date();
-              url.duration = duration;
-              await connection.manager.save(url);
-            }
+          if (!url.crawledAt) {
+            await probeImage(image);
           }
           await connection.manager.save(image);
           thing.images?.push(image);
