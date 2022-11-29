@@ -10,11 +10,14 @@ yarn scrape -- --url https://www.joyousapron.com/vietnamese-noodle-bowl/#recipe
 ```
 
 ## TODO
-- set content created at from git
-- check URL has URLs if not set for recrawl
-- save crawl response
-- consider using Crawlee to help manger crawl queue and rate limiting
-- consider better content storage options
-- stop Thing with same name but different brand overriding
-- crawl share browser rather than start fresh for each crawl thread
-- Investigate why get JSON from html gets truncated
+
+- [x] set content created at from git.
+- [x] check URL has URLs if not set for recrawl.
+- [] Save crawl response as archive/cache.
+- [] Consider using Crawlee to help manger crawl queue and rate limiting.
+- [] Consider better content storage options.
+- [] Stop Thing with same name but different brand overriding.
+- [] Crawl share browser rather than start fresh for each crawl thread.
+- [x] Investigate why get JSON from html gets truncated. Problem cheerio/he html encoding issues. Solution - change to `node-html-parser`.
+- [] Consider using web.archive.org to fetch html.
+- [] Queue rate limit image probe and add retry.
