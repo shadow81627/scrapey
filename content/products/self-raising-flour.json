@@ -1,0 +1,62 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Wheat Flour, Raising Agents (339, 341, 450, 500)."
+    },
+    {
+      "name": "Contains",
+      "value": "Gluten Containing Cereals Wheat"
+    },
+    {
+      "name": "Allergen",
+      "value": "Contains Wheat, Contains Cereals Containing Gluten"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "25.0"
+    },
+    {
+      "name": "Size",
+      "value": "1kg"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$2.00 per 1Kg"
+    }
+  ],
+  "brand": "White Wings",
+  "createdAt": "2022-11-29T05:45:57.200Z",
+  "description": "White Wings Self Raising Flour",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/1/1/9/119535.jpg",
+  "name": "Self Raising Flour",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2,
+    "lowPrice": 2,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-29T05:45:57.199Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "2.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/white-wings-flour-self-raising"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/white-wings-flour-self-raising"
+  ],
+  "sku": "119535",
+  "updatedAt": "2022-11-29T05:45:57.199Z"
+}

@@ -1,24 +1,35 @@
 {
   "@type": "Recipe",
-  "createdAt": "2022-11-22T22:53:07.000Z",
-  "datePublished": "2021-06-07",
-  "description": "Mix up your smoothie game with this bright berry smoothie. It's the perfect boost for when you're on the go. All you need is four ingredients for this tasty drink.",
-  "image": {
-    "@type": "ImageObject",
-    "height": 1300,
-    "mime": "image/png",
-    "url": "https://foodhub.scene7.com/is/image/woolworthsltdprod/2105-delicious-berry-smoothie?wid=1300&hei=1300&fmt=png-alpha",
-    "width": 1300
+  "author": {
+    "@type": "Person",
+    "name": "Fresh Ideas"
   },
-  "keywords": "Delicious Berry Smoothie",
+  "createdAt": "2022-11-22T22:53:07.000Z",
+  "datePublished": "2022-10-20",
+  "description": "Mix up your smoothie game with this bright berry smoothie. It's the perfect boost for when you're on the go. All you need is four ingredients for this tasty drink.",
+  "image": [
+    "https://foodhub.scene7.com/is/image/woolworthsltdprod/2105-delicious-berry-smoothie:Square-1300x1300"
+  ],
+  "keywords": "Smoothie & frappé,Pescatarian,Low salt,Seafood free,Gluten free,Tree nut free,Egg free,Sesame free,Halal,High fibre,High protein,Wheat free,Soy free,Vegetarian,Peanut free",
   "name": "Delicious Berry Smoothie Recipe | Woolworths",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "361 calories",
+    "carbohydrateContent": "40.2 g",
+    "fatContent": "15.0 g",
+    "fiberContent": "4.4 g",
+    "proteinContent": "14.5 g",
+    "saturatedFatContent": "10.0 g",
+    "sodiumContent": "150 millig",
+    "sugarContent": "31.3 g"
+  },
   "prepTime": "PT5M",
-  "recipeCategory": "drinks",
-  "recipeCuisine": "australian",
+  "recipeCategory": "Drinks",
+  "recipeCuisine": "Australian",
   "recipeId": "11487",
   "recipeIngredient": [
-    "0.5 cup Greekstyle yoghurt",
-    "0.5 cup Woolworths fullcream mIlk",
+    "0.5 cup Greek-style yoghurt",
+    "0.5 cup Woolworths full-cream mIlk",
     "1 ripe banana",
     "0.25 cup frozen mixed berries",
     "0.25 cup ice cubes"
@@ -26,15 +37,15 @@
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "HowToStep": {},
+      "HowToTip": {},
       "text": "Place ingredients in a blender and blend until smooth and combined. Serve."
     }
   ],
   "recipeNameId": "delicious-berry-smoothie",
   "recipeYield": "1",
   "sameAs": [
-    "https://woolworths.com.au/shop/find-recipes/banana-berry-smoothie"
+    "https://woolworths.com.au/shop/recipes/delicious-berry-smoothie"
   ],
-  "updatedAt": "2022-11-22T14:24:54.380Z",
+  "updatedAt": "2022-11-29T07:07:54.605Z",
   "url": "https://www.woolworths.com.au/shop/recipes/delicious-berry-smoothie"
 }

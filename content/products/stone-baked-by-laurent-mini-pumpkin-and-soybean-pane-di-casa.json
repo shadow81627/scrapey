@@ -1,0 +1,54 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "<strong>INGREDIENTS:</strong> <strong>Wheat</strong> Flour, Water, Pumpkin (11%), <strong>Soybean</strong> (4.9%), Linseed (0.9%), Salt, Turmeric, Rosemary, Malted Barley [<strong>Barley</strong>, Malted <strong>Barley</strong>], Yeast, Vitamins [Folic Acid, Thiamine]."
+    },
+    {
+      "name": "Allergen",
+      "value": "Contains SOY, Contains Barley, Contains CEREALS CONTAINING GLUTEN, Contains Wheat"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "3.0"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$3.00 per 1Ea"
+    }
+  ],
+  "brand": "Coles Bakery",
+  "createdAt": "2022-11-29T08:42:22.447Z",
+  "description": "Coles Bakery Stone Baked By Laurent Mini Pumpkin & Soybean Pane Di Casa",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/5/9/3597920.jpg",
+  "name": "Stone Baked By Laurent Mini Pumpkin & Soybean Pane Di Casa",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3,
+    "lowPrice": 3,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-29T08:42:22.446Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "3.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/stonebaked-pane-di-casa-mini-pumpkin"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/stonebaked-pane-di-casa-mini-pumpkin"
+  ],
+  "sku": "3597920",
+  "updatedAt": "2022-11-29T08:42:22.446Z"
+}

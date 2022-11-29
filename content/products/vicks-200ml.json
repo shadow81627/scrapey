@@ -1,0 +1,45 @@
+{
+  "@type": "Product",
+  "additionalProperty": [],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Vicks"
+  },
+  "createdAt": "2022-11-29T08:08:02.549Z",
+  "description": "<p style=\"border: 2px solid #000; padding: 16px; background: rgb(236, 236, 236)\"><strong style=\"font-family: GT-Big-Walsheim-Bold,Montserrat,Helvetica,sans-serif!important;\">WARNING: </strong>Always read the label. Follow the directions for use. This medicine may not be right for you. Read the warnings on pack before purchase. If symptoms persist, talk to your health professional.</p><p>Vicks VapoSteam Double Strength provides the refreshing fragrance of eucalyptus and peppermint for use in steam. The soothing vapours penetrate nasal and throat passages quickly and safely to gently soothe and comfort. This unique formulation can be added to the vaporizer cup or directly to the water of the Vicks Warm Steam Vaporizer.</p>",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/1073815436.jpg",
+  "name": "Vicks 200ML",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 19,
+    "lowPrice": 19,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-29T08:08:02.548Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 19,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/1073815436/vicks-vapo-steam-double-strength"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/1073815436/vicks-vapo-steam-double-strength"
+  ],
+  "sku": "1073815436",
+  "updatedAt": "2022-11-29T08:08:02.548Z"
+}

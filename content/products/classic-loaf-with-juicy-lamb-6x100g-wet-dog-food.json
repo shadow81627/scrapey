@@ -1,0 +1,54 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Meats (including Chicken &/or Lamb &/or Sheep &/or Pork &/or Beef &/or Turkey); Gelling Agents; Vegetable Oil; Minerals & Vitamins; Colouring Agents.."
+    },
+    {
+      "name": "Contains",
+      "value": "Tray"
+    },
+    {
+      "name": "Size",
+      "value": "6 pack"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.08 per 100G"
+    }
+  ],
+  "brand": "My Dog",
+  "createdAt": "2022-11-29T07:18:07.460Z",
+  "description": "My Dog Classic Loaf With Juicy Lamb 6X100G Wet Dog Food",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/6/3/8/6387184.jpg",
+  "name": "Classic Loaf With Juicy Lamb 6X100G Wet Dog Food",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 6.5,
+    "lowPrice": 6.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-29T07:18:07.459Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "6.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/my-dog-select-dog-food-lamb-classic"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/my-dog-select-dog-food-lamb-classic"
+  ],
+  "sku": "6387184",
+  "updatedAt": "2022-11-29T07:18:07.459Z"
+}

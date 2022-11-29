@@ -1,62 +1,68 @@
 {
   "@type": "Recipe",
+  "author": {
+    "@type": "Person",
+    "name": "Produced for Woolworths"
+  },
   "cookTime": "PT25M",
   "createdAt": "2022-11-26T22:51:30.000Z",
-  "datePublished": "2022-07-25",
+  "datePublished": "2022-08-03",
   "description": "This slightly sweet ginger chicken ramen is a bowl of warming comfort food.",
-  "image": "https://foodhub.scene7.com/is/image/woolworthsltdprod/chicken-and-ginger-ramen?wid=4120&hei=4120&fmt=png-alpha",
-  "keywords": "Chicken & Ginger Ramen",
+  "image": [
+    "https://foodhub.scene7.com/is/image/woolworthsltdprod/chicken-and-ginger-ramen:Square-1300x1300"
+  ],
+  "keywords": "Ramen,Chicken",
   "name": "Chicken & Ginger Ramen Recipe | Woolworths",
   "prepTime": "PT10M",
-  "recipeCategory": "mains",
-  "recipeCuisine": "asian",
+  "recipeCategory": "Lunch,Dinner",
+  "recipeCuisine": "Chinese",
   "recipeId": "RGWW339010",
   "recipeIngredient": [
-    "2 tbs canola oil",
-    "300 g chicken breasts",
+    "2 tbs canola oil, divided",
+    "300g chicken breasts, skinless, sliced into strips",
     "3 tbs miso paste",
-    "250 g oyster mushrooms",
-    "5 cm ginger",
-    "3 cloves garlic",
-    "1.2 L chicken stock",
-    "6 medium spring onions",
-    "400 g egg noodles",
-    "200 g bok choi",
-    "1 tbs honey"
+    "250g oyster mushrooms, sliced",
+    "5cm ginger, peeled and sliced into matchsticks",
+    "3 cloves garlic, peeled and minced",
+    "1.2L chicken stock, made with 2 stock cubes, hot",
+    "6 medium spring onions, sliced, tops reserved",
+    "400g egg noodles, fresh",
+    "200g bok choi, shredded",
+    "1 tbs honey (to taste)"
   ],
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Serve in bowls with chicken and spring onion tops on top."
+      "HowToTip": {},
+      "text": "Heat half of the oil in a large, deep pan and cook the chicken strips for 4 minutes on each side, remove from the pan and set aside."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Serve in bowls with chicken and spring onion tops on top."
+      "HowToTip": {},
+      "text": "Heat the rest of the oil in the pan and cook the mushrooms for 5 minutes until browned. Stir in the garlic, ginger and miso and cook for 2 minutes."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Serve in bowls with chicken and spring onion tops on top."
+      "HowToTip": {},
+      "text": "Pour over the stock, bring to the boil and reduce the heat. Simmer for 10 minutes."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Serve in bowls with chicken and spring onion tops on top."
+      "HowToTip": {},
+      "text": "Bring the soup back to the boil, add the noodles and bok choi cook for 4 minutes, stir in the spring onions and cook for 2 minutes. Season with honey to taste."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
+      "HowToTip": {},
       "text": "Serve in bowls with chicken and spring onion tops on top."
     }
   ],
   "recipeNameId": "chicken-and-ginger-ramen",
   "recipeYield": "4",
   "sameAs": [
-    "https://woolworths.com.au/shop/find-recipes/chinese-chicken-stock"
+    "https://woolworths.com.au/shop/recipes/chicken-and-ginger-ramen"
   ],
   "totalTime": "PT35M",
-  "updatedAt": "2022-11-26T12:24:45.365Z",
+  "updatedAt": "2022-11-29T07:50:05.650Z",
   "url": "https://www.woolworths.com.au/shop/recipes/chicken-and-ginger-ramen"
 }

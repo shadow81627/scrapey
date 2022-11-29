@@ -1,0 +1,50 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Meat from beef, lamb and/or sheep, poultry (including chicken); vegetable protein; sucrose; cereal protein; humectant; salt (sodium chloride and/or potassium chloride); preservatives; antioxidants."
+    },
+    {
+      "name": "Size",
+      "value": "500g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$2.00 per 100G"
+    }
+  ],
+  "brand": "Schmackos",
+  "createdAt": "2022-11-29T06:59:19.968Z",
+  "description": "SCHMACKOS STRAPZ treats are baked then air dried to seal in the delicious flavour of real chicken. - 95% Fat Free - Real Meat Recipe - Australian Made",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/9/0/5/9058270.jpg",
+  "name": "Strapz With Chicken Dog Treats",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 10,
+    "lowPrice": 10,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-29T06:59:19.966Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "10.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/schmackos-strapz-dog-treat-chicken"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/schmackos-strapz-dog-treat-chicken?adId=display_kMB94x_hOriuX5kEZpAyNmDpiwoKCgoIOTA1ODI3MFASABoLCN7TlZwGEN-2zi0iAggB"
+  ],
+  "sku": "9058270",
+  "updatedAt": "2022-11-29T06:59:19.966Z"
+}

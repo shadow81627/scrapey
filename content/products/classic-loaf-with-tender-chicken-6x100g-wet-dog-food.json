@@ -1,0 +1,54 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Meats (including Chicken &/or Sheep &/or Beef &/or Pork &/or Turkey); Gelling Agents; Vegetable Oil; Minerals & Vitamins; Colouring Agent."
+    },
+    {
+      "name": "Contains",
+      "value": "Tray"
+    },
+    {
+      "name": "Size",
+      "value": "6 pack"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.08 per 100G"
+    }
+  ],
+  "brand": "My Dog",
+  "createdAt": "2022-11-29T07:21:55.513Z",
+  "description": "My Dog Classic Loaf With Tender Chicken 6X100G Wet Dog Food",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/6/3/8/6387209.jpg",
+  "name": "Classic Loaf With Tender Chicken 6X100G Wet Dog Food",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 6.5,
+    "lowPrice": 6.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-29T07:21:55.513Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "6.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/my-dog-dog-food-chicken-supreme"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/my-dog-dog-food-chicken-supreme"
+  ],
+  "sku": "6387209",
+  "updatedAt": "2022-11-29T07:21:55.513Z"
+}

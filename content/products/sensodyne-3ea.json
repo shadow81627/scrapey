@@ -1,0 +1,45 @@
+{
+  "@type": "Product",
+  "additionalProperty": [],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Sensodyne"
+  },
+  "createdAt": "2022-11-29T08:11:20.870Z",
+  "description": "<p style=\"border: 2px solid #000; padding: 16px; background: rgb(236, 236, 236)\"><strong style=\"font-family: GT-Big-Walsheim-Bold,Montserrat,Helvetica,sans-serif!important;\">WARNING: </strong>Always read the label. Follow the directions for use. This product may not be right for you. Read the warnings on pack before purchase. If symptoms persist, talk to your health professional.</p>Sensodyne Repair & Protect Extra Fresh repair the vulnerable, sensitive areas of your teeth with twice daily brushing. It contains eucalyptus extracts for extra impact freshness, contains menthol and leaves your mouth feeling clean and fresh. Sensodyne Repair & Protect Extra Fresh continuously help repair, strengthen and protects teeth every day and with twice daily brushing it is proven to relieve dentine hypersensitivity.",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/1073814453.jpg",
+  "name": "Sensodyne 3EA",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 12.25,
+    "lowPrice": 12.25,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-29T08:11:20.868Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 12.25,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/1073814453/sensodyne-repair-protect-extra-fresh-toothpaste-100g"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/1073814453/sensodyne-repair-protect-extra-fresh-toothpaste-100g"
+  ],
+  "sku": "1073814453",
+  "updatedAt": "2022-11-29T08:11:20.869Z"
+}

@@ -1,0 +1,62 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Fruit Juice (99.9%): Fresh Pressed Apple Juice (95.8%), Fruit Juices (Orange, Pineapple, Mango Passion Fruit), Natural Flavour, Vitamin C"
+    },
+    {
+      "name": "Dietary",
+      "value": "No Added Sugars, No Preservatives, No Artificial Flavours or Colours"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "10.0"
+    },
+    {
+      "name": "Size",
+      "value": "1L"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.65 per 100mL"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Made In New Zealand"
+    }
+  ],
+  "brand": "Juicies",
+  "createdAt": "2022-11-29T06:45:34.446Z",
+  "description": "Juicies Tropical 10 Pack",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/4/8/5489247.jpg",
+  "name": "Tropical 10 Pack",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 6.5,
+    "lowPrice": 6.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/OutOfStock",
+        "availabilityStarts": "2022-11-29T06:45:34.446Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "6.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/juices-tropical-10pk"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/juices-tropical-10pk"
+  ],
+  "sku": "5489247",
+  "updatedAt": "2022-11-29T06:45:34.446Z"
+}

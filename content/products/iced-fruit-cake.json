@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "800g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.25 per 100G"
+    }
+  ],
+  "brand": "Maggie Mae",
+  "createdAt": "2022-11-29T07:41:50.276Z",
+  "description": "Produced in Australlia this fruit cake is full of fruit with a dash of brandy and finished with white icing.",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/3/5/5358497.jpg",
+  "name": "Iced Fruit Cake",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 10,
+    "lowPrice": 10,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-29T07:41:50.275Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "10.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/iced-fruit-cake"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/iced-fruit-cake"
+  ],
+  "sku": "5358497",
+  "updatedAt": "2022-11-29T07:41:50.275Z"
+}

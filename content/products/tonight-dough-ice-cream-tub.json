@@ -1,0 +1,54 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Contains",
+      "value": "458mL"
+    },
+    {
+      "name": "Size",
+      "value": "458mL"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.97 per 100mL"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Made in United States of America"
+    }
+  ],
+  "brand": "Ben & Jerry's",
+  "createdAt": "2022-11-29T06:44:43.305Z",
+  "description": "Ben & Jerry's Tonight Dough Ice Cream Tub",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/7/5/2750930.jpg",
+  "name": "Tonight Dough Ice Cream Tub",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 9,
+    "lowPrice": 9,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-29T06:44:43.304Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "9.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/ben-and-jerrys-the-tonight-dough-ice-cream"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/ben-and-jerrys-the-tonight-dough-ice-cream"
+  ],
+  "sku": "2750930",
+  "updatedAt": "2022-11-29T06:44:43.304Z"
+}

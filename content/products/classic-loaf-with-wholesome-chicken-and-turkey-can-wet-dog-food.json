@@ -1,0 +1,54 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Meats (including Chicken &/or Beef &/or Sheep &/or Pork &/or Turkey &/or Kangaroo); Gelling Agents; Vegetable Fibre; Minerals & Vitamins; Colouring Agent."
+    },
+    {
+      "name": "Contains",
+      "value": "Tender Chicken & Turkey Banquet Dog Food 400g"
+    },
+    {
+      "name": "Size",
+      "value": "400g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.60 per 100G"
+    }
+  ],
+  "brand": "My Dog",
+  "createdAt": "2022-11-29T07:12:47.905Z",
+  "description": "My Dog Classic Loaf With Wholesome Chicken & Turkey Can Wet Dog Food",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/9/9/3994602.jpg",
+  "name": "Classic Loaf With Wholesome Chicken & Turkey Can Wet Dog Food",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2.4,
+    "lowPrice": 2.4,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-29T07:12:47.904Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "2.40",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/tender-chicken-turkey"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/tender-chicken-turkey"
+  ],
+  "sku": "3994602",
+  "updatedAt": "2022-11-29T07:12:47.904Z"
+}

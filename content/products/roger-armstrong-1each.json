@@ -1,0 +1,45 @@
+{
+  "@type": "Product",
+  "additionalProperty": [],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Roger Armstrong"
+  },
+  "createdAt": "2022-11-29T08:22:05.934Z",
+  "description": "<p><span style=\"font-size:14px;\">Take temperature and pulse easily and quickly with this DualScan thermometer. It can be placed inside the ear or on the forehead to get a reading in 2 seconds.</span></p>",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/1073906523.jpg",
+  "name": "Roger Armstrong 1EACH",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 66.6,
+    "lowPrice": 66.6,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-29T08:22:05.933Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 66.6,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/1073906523/roger-armstrong-pulse-temperature-digital-talking-thermometer"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/1073906523/roger-armstrong-pulse-temperature-digital-talking-thermometer"
+  ],
+  "sku": "1073906523",
+  "updatedAt": "2022-11-29T08:22:05.933Z"
+}

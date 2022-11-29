@@ -1,0 +1,58 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Wheat Flour, Salt, Vegetable Oil, Water, Raising Agents (450, 500), Natural Colour (160)b."
+    },
+    {
+      "name": "Allergen",
+      "value": "Free From Tree Nuts, Free From Fish, Free From Rye, Free From Crustacea, Free From Wheat, Free From Milk, Free From Sulphites, Free From Egg, Free From Sesame Seeds, Free From Lupin, Contains Cereals, Free From Soybean, Free From Peanuts"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "4.0"
+    },
+    {
+      "name": "Size",
+      "value": "100g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.20 per 100G"
+    }
+  ],
+  "brand": "Chang's",
+  "createdAt": "2022-11-29T05:56:19.167Z",
+  "description": "Chang's Crunchy Fried Noodles",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/6/4/6/6467498.jpg",
+  "name": "Crunchy Fried Noodles",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 1.2,
+    "lowPrice": 1.2,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-29T05:56:19.167Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "1.20",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/changs-noodles-crunchy"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/changs-noodles-crunchy"
+  ],
+  "sku": "6467498",
+  "updatedAt": "2022-11-29T05:56:19.167Z"
+}

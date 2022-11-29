@@ -1,0 +1,45 @@
+{
+  "@type": "Product",
+  "additionalProperty": [],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Revlon"
+  },
+  "createdAt": "2022-11-29T08:29:21.814Z",
+  "description": "<p>Enhance your smile with the Revlon Intense White Teeth Whitening Pen. Using the pen twice daily, apply a thin layer of gel to each tooth, allow the gel to dry and in a week, you will have a Revlon Intense White smile.</p> <br><br><p><strong>Product Features: </strong></p><ul><li>With Added Botanicals: Chamomile, Aloe Vera, Cranberries & Peppermint</li><li>Use Twice Daily</li><li>Whiter Smile in 1 Week!</li></ul>",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/1073921974.jpg",
+  "name": "Revlon 1EA",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 12,
+    "lowPrice": 12,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-29T08:29:21.813Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 12,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/1073921974/revlon-intense-white-teeth-whitening-pen"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/1073921974/revlon-intense-white-teeth-whitening-pen"
+  ],
+  "sku": "1073921974",
+  "updatedAt": "2022-11-29T08:29:21.813Z"
+}

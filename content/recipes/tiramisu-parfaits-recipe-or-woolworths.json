@@ -1,61 +1,61 @@
 {
   "@type": "Recipe",
+  "author": {
+    "@type": "Person",
+    "name": "Fresh Ideas"
+  },
   "cookTime": "PT5M",
   "createdAt": "2022-11-28T12:45:27.000Z",
-  "datePublished": "2021-03-10",
+  "datePublished": "2022-05-11",
   "description": "Try our easy to follow Tiramisu Parfaits recipe. Absolutely delicious with the best ingredients from Woolworths.",
-  "image": {
-    "@type": "ImageObject",
-    "height": 1300,
-    "mime": "image/png",
-    "url": "https://foodhub.scene7.com/is/image/woolworthsltdprod/1504_tiramisuparfaits?wid=1300&hei=1300&fmt=png-alpha",
-    "width": 1300
-  },
-  "keywords": "Tiramisu Parfaits",
+  "image": [
+    "https://foodhub.scene7.com/is/image/woolworthsltdprod/1504_tiramisuparfaits:Square-1300x1300"
+  ],
+  "keywords": "Parfait,Chocolate,Tiramisu,Summer,Quick & easy dessert",
   "name": "Tiramisu Parfaits Recipe | Woolworths",
   "prepTime": "PT25M",
-  "recipeCategory": "desserts",
-  "recipeCuisine": "european",
+  "recipeCategory": "Desserts",
+  "recipeCuisine": "French",
   "recipeId": "3566",
   "recipeIngredient": [
-    "500 g chocolate sauce",
-    "300 ml thickened cream",
+    "500g chocolate sauce",
+    "300ml thickened cream, whipped",
     "0.33 cup soft icing mixture",
     "1 tbs ground coffee espresso",
     "12 sponge finger biscuits",
-    "40 g dark chocolate",
+    "40g dark chocolate, finely grated",
     "2 eggs",
-    "250 g mascarpone",
+    "250g mascarpone, at room temperature",
     "0.5 cup marsala wine"
   ],
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Top parfaits with whipped cream, remaining chocolate sauce and grated chocolate to serve."
+      "HowToTip": {},
+      "text": "Dissolve the coffee in the 1/2 cup boiled water. Stir in marsala wine. Set aside to cool."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Top parfaits with whipped cream, remaining chocolate sauce and grated chocolate to serve."
+      "HowToTip": {},
+      "text": "Place eggs and icing mixture in a heatproof bowl over a saucepan of simmering water. Beat until pale and thick. Remove from heat and set aside to cool. Stir in mascarpone."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Top parfaits with whipped cream, remaining chocolate sauce and grated chocolate to serve."
+      "HowToTip": {},
+      "text": "Break sponge fingers into pieces. Dip into coffee mixture and layer into tall glasses (at least 1 1/2-cup-capacity) pour over with the custard mix and a layer of chocolate sauce, repeat to almost fill the glass, and chill."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
+      "HowToTip": {},
       "text": "Top parfaits with whipped cream, remaining chocolate sauce and grated chocolate to serve."
     }
   ],
   "recipeNameId": "tiramisu-parfaits",
   "recipeYield": "6",
   "sameAs": [
-    "https://woolworths.com.au/shop/find-recipes/whipped-coffee"
+    "https://woolworths.com.au/shop/recipes/tiramisu-parfaits"
   ],
   "totalTime": "PT30M",
-  "updatedAt": "2022-11-28T07:24:03.386Z",
+  "updatedAt": "2022-11-29T07:57:29.962Z",
   "url": "https://www.woolworths.com.au/shop/recipes/tiramisu-parfaits"
 }

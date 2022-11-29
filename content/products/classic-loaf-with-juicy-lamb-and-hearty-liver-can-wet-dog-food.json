@@ -1,0 +1,54 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Meats & Liver (including Chicken &/or Lamb &/or Sheep &/or Beef &/or Pork &/or Turkey &/or Kangaroo); Gelling Agents; Vegetable Fibre; Minerals & Vitamins; Colouring Agents."
+    },
+    {
+      "name": "Contains",
+      "value": "Country Lamb & Liver Dog Food 400g"
+    },
+    {
+      "name": "Size",
+      "value": "400g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.60 per 100G"
+    }
+  ],
+  "brand": "My Dog",
+  "createdAt": "2022-11-29T07:09:02.242Z",
+  "description": "My Dog Classic Loaf With Juicy Lamb & Hearty Liver Can Wet Dog Food",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/1/0/5102959.jpg",
+  "name": "Classic Loaf With Juicy Lamb & Hearty Liver Can Wet Dog Food",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2.4,
+    "lowPrice": 2.4,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-29T07:09:02.241Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "2.40",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/my-dog-dog-food-country-lamb-liver"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/my-dog-dog-food-country-lamb-liver"
+  ],
+  "sku": "5102959",
+  "updatedAt": "2022-11-29T07:09:02.241Z"
+}

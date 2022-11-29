@@ -1,0 +1,58 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "<strong>INGREDIENTS:</strong> <strong>Pistachio Nuts</strong> (98%), Sea Salt (2%)."
+    },
+    {
+      "name": "Allergen",
+      "value": "May be Present: wheat, almond, Brazil nut, cashew, hazelnut, macadamia, other tree nuts, milk, soy, Contains Pistachios"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "6.5"
+    },
+    {
+      "name": "Size",
+      "value": "400g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$22.50 per 1Kg"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2022-11-29T05:57:11.004Z",
+  "description": "Source of fibre Dry roasted in shell & salted for extra flavour. Fibre - Contains dietary fibre for gut health.",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/1/3/2131611.jpg",
+  "name": "Roasted & Salted Pistachios",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 9,
+    "lowPrice": 9,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-29T05:57:10.998Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "9.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-roasted-salted-pistachios-prepacked"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/coles-roasted-salted-pistachios-prepacked"
+  ],
+  "sku": "2131611",
+  "updatedAt": "2022-11-29T05:57:10.998Z"
+}

@@ -1,0 +1,50 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Contains",
+      "value": "2 Pack"
+    },
+    {
+      "name": "Size",
+      "value": "2 pack"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$4.00 per 1Ea"
+    }
+  ],
+  "brand": "Colgate",
+  "createdAt": "2022-11-29T07:32:24.203Z",
+  "description": "Colgate 360 Degree Value Pack Soft Toothbrush",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/6/0/0/6005700.jpg",
+  "name": "360 Degree Value Pack Soft Toothbrush",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 8,
+    "lowPrice": 8,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-29T07:32:24.203Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "8.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/colgate-360-degree-toothbrush-adult-soft"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/colgate-360-degree-toothbrush-adult-soft"
+  ],
+  "sku": "6005700",
+  "updatedAt": "2022-11-29T07:32:24.203Z"
+}

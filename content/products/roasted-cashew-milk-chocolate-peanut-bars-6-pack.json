@@ -1,0 +1,50 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "192g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$2.47 per 100G"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Made in New Zealand from Imported and Local Ingredients"
+    }
+  ],
+  "brand": "Nice & Natural",
+  "createdAt": "2022-11-29T08:39:48.591Z",
+  "description": "Nice & Natural Roasted Cashew Milk Chocolate Peanut Bars 6 Pack",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/6/0/2605873.jpg",
+  "name": "Roasted Cashew Milk Chocolate Peanut Bars 6 Pack",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 4.75,
+    "lowPrice": 4.75,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-29T08:39:48.591Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "4.75",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/nice-natural--roasted-peanut-cashew-nut-bar"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/nice-natural--roasted-peanut-cashew-nut-bar"
+  ],
+  "sku": "2605873",
+  "updatedAt": "2022-11-29T08:39:48.591Z"
+}

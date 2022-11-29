@@ -1,0 +1,54 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Water, Hydrated Silica, Sorbitol, Glycerin, PEG-12, Sodium Tripolyphosphate, Tetrasodium Pyrophosphate, Sodium Lauryl Sulfate, Flavour, Cellulose Gum, Titanium Dioxide, Sodium Fluoride, Carrageenan, Sodium Saccharin."
+    },
+    {
+      "name": "Contains",
+      "value": "Contains the equivalent of 1450ppm Fluoride."
+    },
+    {
+      "name": "Size",
+      "value": "200g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$4.00 per 100G"
+    }
+  ],
+  "brand": "Colgate",
+  "createdAt": "2022-11-29T08:20:57.798Z",
+  "description": "Colgate Advanced Whitening & Tartar Toothpaste",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/4/8/4/4842450.jpg",
+  "name": "Advanced Whitening & Tartar Toothpaste",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 8,
+    "lowPrice": 8,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/OutOfStock",
+        "availabilityStarts": "2022-11-29T08:20:57.797Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "8.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/-whitening-toothpaste"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/-whitening-toothpaste"
+  ],
+  "sku": "4842450",
+  "updatedAt": "2022-11-29T08:20:57.797Z"
+}

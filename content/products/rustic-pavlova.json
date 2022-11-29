@@ -1,0 +1,58 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "<p><strong>INGREDIENTS:</strong> Caster Sugar, Egg White Mix (<strong>Egg</strong> White, Stabilisers (415, 412), Antifoaming Agent (1505)), <strong>Egg</strong> White Powder, Vinegar, Preservative (Potassium Sorbate), Natural Vanilla Flavouring.</p>"
+    },
+    {
+      "name": "Allergen",
+      "value": "Contains EGG"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "12.0"
+    },
+    {
+      "name": "Size",
+      "value": "1 pack"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$10.00 per 1Ea"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2022-11-29T08:01:39.159Z",
+  "description": "Light and crispy with a soft marshmallowy centre",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/8/3/3838469.jpg",
+  "name": "Rustic Pavlova",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 10,
+    "lowPrice": 10,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-29T08:01:39.158Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "10.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-rustic-pavlova"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/coles-rustic-pavlova"
+  ],
+  "sku": "3838469",
+  "updatedAt": "2022-11-29T08:01:39.158Z"
+}
