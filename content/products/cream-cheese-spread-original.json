@@ -1,0 +1,58 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Milk, Cream, Salt, Thickener (410), Starter Culture."
+    },
+    {
+      "name": "Allergen",
+      "value": "Contains MILK"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "10.0"
+    },
+    {
+      "name": "Size",
+      "value": "250g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$12.40 per 1Kg"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2022-11-29T14:32:33.974Z",
+  "description": "Made in Australia with Australian Milk",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/7/5/0/7504647.jpg",
+  "name": "Cream Cheese Spread Original",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3.1,
+    "lowPrice": 3.1,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-29T14:32:33.974Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "3.10",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-cheese-cream-spreadable"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/coles-cheese-cream-spreadable"
+  ],
+  "sku": "7504647",
+  "updatedAt": "2022-11-29T14:32:33.974Z"
+}

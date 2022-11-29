@@ -11,7 +11,7 @@
     },
     {
       "name": "Allergen",
-      "value": "May Be Present Egg, May Be Present Gluten, May Be Present Cereals, May Be Present Tree Nuts, Contains Milk, Contains Soy, Contains Wheat"
+      "value": "May Be Present Cereals, May Be Present Tree Nuts, Contains Soy, May Be Present Gluten, May Be Present CEREALS CONTAINING GLUTEN, Contains Wheat, Contains Milk, May Be Present Egg"
     },
     {
       "name": "Servings Per Pack",
@@ -27,7 +27,7 @@
     },
     {
       "name": "Unit Price",
-      "value": "$1.12 per 100G"
+      "value": "$2.56 per 100G"
     },
     {
       "name": "Country Of Origin",
@@ -37,28 +37,22 @@
   "brand": "Cadbury",
   "createdAt": "2020-11-15T12:30:20.000Z",
   "description": "Cadbury Cookies Choc Centre is not your ordinary chocolate chip cookie with its wonderful crunch and rich chocolate filling. It contains crunchy cookies with choc filled centre. Eat me Warm and heat me up in the microwave. Pop me in the microwave oven for 10 seconds for a delicious warm treat.",
-  "image": {
-    "@type": "ImageObject",
-    "height": 300,
-    "mime": "image/jpeg",
-    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/9/9/2994232.jpg",
-    "width": 300
-  },
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/9/9/2994232.jpg",
   "name": "Soft Biscuit Choc Centre",
   "offers": {
     "@type": "AggregateOffer",
-    "highPrice": 1.75,
-    "lowPrice": 1.75,
+    "highPrice": 4,
+    "lowPrice": 4,
     "offerCount": 1,
     "offers": [
       {
         "@context": "http://schema.org",
         "@type": "Offer",
         "availability": "https://schema.org/InStock",
-        "availabilityStarts": "2020-11-15T09:13:15.608Z",
+        "availabilityStarts": "2022-11-29T19:40:57.375Z",
         "itemCondition": "https://schema.org/NewCondition",
         "offeredBy": "Coles",
-        "price": "1.75",
+        "price": "4.00",
         "priceCurrency": "AUD",
         "seller": {
           "@type": "Organization",
@@ -69,8 +63,8 @@
     ]
   },
   "sameAs": [
-    "https://shop.coles.com.au/a/sunnybank-hills/product/cadbury-cookie-crunchie-choc"
+    "https://shop.coles.com.au/a/national/product/cadbury-cookie-crunchie-choc"
   ],
   "sku": "2994232",
-  "updatedAt": "2020-11-15T09:13:15.608Z"
+  "updatedAt": "2022-11-29T19:40:57.375Z"
 }

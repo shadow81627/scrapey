@@ -3,7 +3,11 @@
   "additionalProperty": [
     {
       "name": "Ingredients",
-      "value": "INGREDIENTS: RSPCA Approved Australian Chicken (63%), Breadcrumb Coating [Wheat Flour, Water, Canola Oil, Salt, Wheat Gluten, Maize Flour, Thickener (1422), Egg Powder, Yeast, Dextrose, Vegetable Powders (Tomato, Garlic, Onion), Rapeseed Oil, Mineral Salts (450, Sodium Carbonates), Natural Colours (Paprika Oleoresins, Turmeric), Pepper, Oregano, Natural Flavouring, Basil Extract], Garlic Butter Filling (12%) [Water, Butter (Cream, Water, Salt), Cheese Powder (Milk Solids, Salt, Starter Culture, Enzyme, Acidity Regulator (270)), Cheese (Milk, Salt, Starter Culture, Enzyme, Preservative (Sorbic Acid)), Milk Solids, Garlic (Acidity Regulator (330)), Thickeners (1422, 415), Parsley, Salt], Marinade [Water, Salt, Soy Protein Isolate, Mineral Salts (451, 450, 452), Canola Oil]."
+      "value": "<strong>INGREDIENTS:</strong> RSPCA Approved Australian Chicken Breast (63%), Breadcrumb Coating [<strong>Wheat</strong> ;Flour, Water, Canola Oil, Salt, ;<strong>Wheat</strong> ;Gluten, Maize Flour, Thickener (1422), ;<strong>Egg</strong> ;Powder, Yeast, Dextrose, Vegetable Powders (Tomato, Garlic, Onion), Rapeseed Oil, Mineral Salts (450, Sodium Carbonates), Natural Colours (Paprika Oleoresins, Turmeric), Pepper, Oregano, Natural Flavouring, Basil Extract], Garlic Butter Filling (12%) [Water, Butter (<strong>Cream</strong>, Water, Salt), Cheese Powder (<strong>Milk</strong> ;Solids, Salt, Starter Culture, Enzyme, Acidity Regulator (270)), Cheese (<strong>Milk</strong>, Salt, Starter Culture, Enzyme, Preservative (Sorbic Acid)), ;<strong>Milk</strong> ;Solids, Garlic (Acidity Regulator (330)), Thickeners (1422, 415), Parsley, Salt], Marinade [Water, Salt, ;<strong>Soy</strong> ;Protein Isolate, Mineral Salts (451, 450, 452), Canola Oil]."
+    },
+    {
+      "name": "Allergen",
+      "value": "Contains SOY, Contains MILK, Contains EGG, Contains Gluten, Contains Wheat"
     },
     {
       "name": "Servings Per Pack",
@@ -11,7 +15,7 @@
     },
     {
       "name": "Warning",
-      "value": "Food Warnings:rnALL CARE HAS BEEN TAKEN TO REMOVE ALL BONES AND BONE FRAGMENTS, HOWEVER SOME MAY REMAIN.rnrn"
+      "value": "Food Warnings: ALL CARE HAS BEEN TAKEN TO REMOVE ALL BONES AND BONE FRAGMENTS, HOWEVER SOME MAY REMAIN."
     },
     {
       "name": "Size",
@@ -19,34 +23,28 @@
     },
     {
       "name": "Unit Price",
-      "value": "$11.43 per 1Kg"
+      "value": "$12.14 per 1Kg"
     }
   ],
   "brand": "Coles",
   "createdAt": "2020-11-15T12:30:20.000Z",
-  "description": "first box: 25 minutes mid box: OVEN end box: RSPCA logo",
-  "image": {
-    "@type": "ImageObject",
-    "height": 300,
-    "mime": "image/jpeg",
-    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/9/7/5970321.jpg",
-    "width": 300
-  },
+  "description": "Light Refreshing Crisp Sparkling Bubbly Cool",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/9/7/5970321.jpg",
   "name": "RSPCA Approved Chicken Breast Kiev Garlic Butter",
   "offers": {
     "@type": "AggregateOffer",
-    "highPrice": 8,
-    "lowPrice": 8,
+    "highPrice": 8.5,
+    "lowPrice": 8.5,
     "offerCount": 1,
     "offers": [
       {
         "@context": "http://schema.org",
         "@type": "Offer",
         "availability": "https://schema.org/InStock",
-        "availabilityStarts": "2020-11-15T07:49:07.483Z",
+        "availabilityStarts": "2022-11-29T19:40:35.975Z",
         "itemCondition": "https://schema.org/NewCondition",
         "offeredBy": "Coles",
-        "price": "8.00",
+        "price": "8.50",
         "priceCurrency": "AUD",
         "seller": {
           "@type": "Organization",
@@ -57,8 +55,8 @@
     ]
   },
   "sameAs": [
-    "https://shop.coles.com.au/a/sunnybank-hills/product/coles-chicken-kiev-crumbed-family-pack"
+    "https://shop.coles.com.au/a/national/product/coles-chicken-kiev-crumbed-family-pack"
   ],
   "sku": "5970321",
-  "updatedAt": "2020-11-15T07:49:07.483Z"
+  "updatedAt": "2022-11-29T19:40:35.975Z"
 }

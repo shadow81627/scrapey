@@ -1,0 +1,60 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "2390.0kJ",
+      "carbohydrateContent": "77.7g",
+      "dietary_fibre": "2.8g",
+      "fatContent": "17.5g",
+      "name": "nutrition",
+      "proteinContent": "25.9g",
+      "saturatedFatContent": "10.2g",
+      "servingSize": "100 g",
+      "sodiumContent": "925.0mg",
+      "sugarContent": "9.5g"
+    }
+  ],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Plantry"
+  },
+  "createdAt": "2022-11-29T19:29:56.655Z",
+  "description": "Plantry Green Curry is a filling combo of jasmine rice topped with green beans, red capsicum and a perfect kick of spice, you are guaranteed to be going back for more. Vegan friendly, this plant based meal allows you to enjoy a classic curry in no time. Prepared by professional chefs using quality ingredients, this is a great pick when you're opting for a quick and easy lunch or dinner.",
+  "gtin13": "9310047219916",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/112379.jpg",
+  "name": "Plantry Plant Based Food Green Curry Null 350G",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 9,
+    "lowPrice": 9,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-29T19:29:56.654Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 9,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/112379/plantry-plant-based-food-green-curry-null"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/112379/plantry-plant-based-food-green-curry-null"
+  ],
+  "sku": "112379",
+  "updatedAt": "2022-11-29T19:29:56.654Z"
+}

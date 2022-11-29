@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Unit Price",
+      "value": "$25.00 per 1Ea"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Product of Mixed Origin"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2022-11-29T15:22:05.522Z",
+  "description": "Serves 2 Includes: Coles Cooked Black Tiger Prawns, Tassel Smoked Salmon, 1/2 Dozen Oysters and Lemon Wedges. Perfect and convenient for entertaining.",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/8/3/3830490.jpg",
+  "name": "Seashore Snacker Platter",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 25,
+    "lowPrice": 25,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-29T15:22:05.522Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "25.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-platter-seashore-snacker"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/coles-platter-seashore-snacker"
+  ],
+  "sku": "3830490",
+  "updatedAt": "2022-11-29T15:22:05.522Z"
+}

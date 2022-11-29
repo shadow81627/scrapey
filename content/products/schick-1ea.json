@@ -1,0 +1,45 @@
+{
+  "@type": "Product",
+  "additionalProperty": [],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Schick"
+  },
+  "createdAt": "2022-11-29T20:09:04.162Z",
+  "description": "Schick Intuition Sensitive Care puts the shave cream right on the razor!",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/1073815215.jpg",
+  "name": "Schick 1EA",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 14.75,
+    "lowPrice": 14.75,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-29T20:09:04.162Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 14.75,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/1073815215/schick-intuition-naturals-sensitive-core-kit"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/1073815215/schick-intuition-naturals-sensitive-core-kit"
+  ],
+  "sku": "1073815215",
+  "updatedAt": "2022-11-29T20:09:04.162Z"
+}

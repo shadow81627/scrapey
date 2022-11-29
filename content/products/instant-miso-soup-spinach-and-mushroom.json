@@ -2,39 +2,53 @@
   "@type": "Product",
   "additionalProperty": [
     {
+      "name": "Ingredients",
+      "value": "Soya Paste (Soybean, Rice, Salt), Spinach (10%), Shiitake Mushroom (1%), Seaweed, Salt, Sugar, Bonito (Fish), Flavour Enhancer (635)"
+    },
+    {
+      "name": "Allergen",
+      "value": "Contains Soybean, May Contain Egg, May Contain Crustacea, Contains Fish, May Contain Wheat, May Contain Gluten"
+    },
+    {
+      "name": "Dietary",
+      "value": "No Preservatives"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "2.0"
+    },
+    {
       "name": "Size",
       "value": "12g"
     },
     {
       "name": "Unit Price",
-      "value": "$25.83 per 100G"
+      "value": "$2.17 per 10G"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Made in China"
     }
   ],
   "brand": "Ajishima",
   "createdAt": "2020-10-12T05:22:04.000Z",
   "description": "Ajishima Instant Miso Soup Spinach & Mushroom",
-  "image": {
-    "@type": "ImageObject",
-    "height": 300,
-    "mime": "image/jpeg",
-    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/0/0/2005402.jpg",
-    "width": 300
-  },
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/0/0/2005402.jpg",
   "name": "Instant Miso Soup Spinach & Mushroom",
   "offers": {
     "@type": "AggregateOffer",
-    "highPrice": 3.1,
-    "lowPrice": 3.1,
+    "highPrice": 2.6,
+    "lowPrice": 2.6,
     "offerCount": 1,
     "offers": [
       {
         "@context": "http://schema.org",
         "@type": "Offer",
         "availability": "https://schema.org/InStock",
-        "availabilityStarts": "2020-11-15T10:22:04.795Z",
+        "availabilityStarts": "2022-11-29T22:19:14.017Z",
         "itemCondition": "https://schema.org/NewCondition",
         "offeredBy": "Coles",
-        "price": "3.10",
+        "price": "2.60",
         "priceCurrency": "AUD",
         "seller": {
           "@type": "Organization",
@@ -45,8 +59,8 @@
     ]
   },
   "sameAs": [
-    "https://shop.coles.com.au/a/sunnybank-hills/product/ajishima-instant-miso-soup-spinach-mushrom"
+    "https://shop.coles.com.au/a/national/product/ajishima-instant-miso-soup-spinach-mushrom"
   ],
   "sku": "2005402",
-  "updatedAt": "2020-11-15T10:22:04.795Z"
+  "updatedAt": "2022-11-29T22:19:14.017Z"
 }

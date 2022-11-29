@@ -1,0 +1,58 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "<strong>INGREDIENTS:</strong> Diced Mango (100%)."
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "3.0"
+    },
+    {
+      "name": "Size",
+      "value": "500g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$10.00 per 1Kg"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Packed in Canada"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2022-11-29T20:32:53.119Z",
+  "description": "* Source Of Folate To Combat Fatigue* Source Of Fibre For Healthy Digestion Australian Dietary Guidelines Recommend 2 Serves Of Fruit Per Day. 1 Serve Of Fruit Is Equal To Approximately 150G Of Fruit.",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/1/3/0/1301170.jpg",
+  "name": "Frozen Diced Mango",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 5,
+    "lowPrice": 5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-29T20:32:53.119Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "5.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-fruit-mango-diced-frozen"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/coles-fruit-mango-diced-frozen"
+  ],
+  "sku": "1301170",
+  "updatedAt": "2022-11-29T20:32:53.119Z"
+}

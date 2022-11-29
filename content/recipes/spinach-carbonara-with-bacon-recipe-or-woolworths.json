@@ -1,68 +1,78 @@
 {
   "@type": "Recipe",
+  "author": {
+    "@type": "Person",
+    "name": "Sponsored"
+  },
   "cookTime": "PT40M",
   "createdAt": "2022-11-22T22:53:07.000Z",
-  "datePublished": "2022-04-05",
+  "datePublished": "2022-09-26",
   "description": "Try our easy to follow Spinach Carbonara with Bacon  recipe. Absolutely delicious with the best ingredients from Woolworths.",
-  "image": {
-    "@type": "ImageObject",
-    "height": 1300,
-    "mime": "image/png",
-    "url": "https://foodhub.scene7.com/is/image/woolworthsltdprod/spinach-carbonara-with-bacon?wid=1300&hei=1300&fmt=png-alpha",
-    "width": 1300
-  },
-  "keywords": "Spinach Carbonara with Bacon ",
+  "image": [
+    "https://foodhub.scene7.com/is/image/woolworthsltdprod/spinach-carbonara-with-bacon:Square-1300x1300"
+  ],
+  "keywords": "Carbonara,High protein,Soy free,Tree nut free,Low sugar,Sesame free,Peanut free",
   "name": "Spinach Carbonara with Bacon Recipe | Woolworths",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "435 calories",
+    "carbohydrateContent": "63.5 g",
+    "fatContent": "9.2 g",
+    "proteinContent": "21.8 g",
+    "saturatedFatContent": "3.6 g",
+    "sodiumContent": "505 millig",
+    "sugarContent": "4.1 g"
+  },
   "prepTime": "PT10M",
-  "recipeCategory": "mains",
-  "recipeCuisine": "european",
+  "recipeCategory": "Lunch,Dinner",
+  "recipeCuisine": "Italian",
   "recipeId": "SP-00220",
   "recipeIngredient": [
     "1 tsp Vegeta Gourmet Stock & Seasoning",
-    "50 g smoked bacon",
-    "150 g baby spinach leaves",
+    "50g smoked bacon",
+    "150g baby spinach leaves",
     "4 eggs",
     "1 tbs ricotta cheese",
-    "350 g spaghetti pasta"
+    "350g spaghetti pasta"
   ],
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Stir all ingredients briefly then remove from heat."
+      "HowToTip": {},
+      "text": "Dice smoked bacon."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Stir all ingredients briefly then remove from heat."
+      "HowToTip": {},
+      "text": "Wash & dry baby leaf spinach, finely chop in a food processor."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Stir all ingredients briefly then remove from heat."
+      "HowToTip": {},
+      "text": "In a bowl, whisk together spinach, ricotta & Vegeta Gourmet Stock & Seasoning Powder."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Stir all ingredients briefly then remove from heat."
+      "HowToTip": {},
+      "text": "Boil spaghetti pasta in a large pot of salted water according to package instructions. Keep some water aside, drain well."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Stir all ingredients briefly then remove from heat."
+      "HowToTip": {},
+      "text": "Heat a large pan, add smoked bacon and cook until crispy. Remove bacon, keep excess fat & add spinach mixture. Stir on low and add spaghetti. If needed, add a touch of pasta water."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
+      "HowToTip": {},
       "text": "Stir all ingredients briefly then remove from heat."
     }
   ],
   "recipeNameId": "spinach-carbonara-with-bacon",
   "recipeYield": "4",
   "sameAs": [
-    "https://woolworths.com.au/shop/find-recipes/recipes-carbonara-spaghetti"
+    "https://woolworths.com.au/shop/recipes/spinach-carbonara-with-bacon"
   ],
   "totalTime": "PT50M",
-  "updatedAt": "2022-11-22T22:04:54.112Z",
+  "updatedAt": "2022-11-29T18:05:59.865Z",
   "url": "https://www.woolworths.com.au/shop/recipes/spinach-carbonara-with-bacon"
 }

@@ -1,61 +1,69 @@
 {
   "@type": "Recipe",
+  "author": {
+    "@type": "Person",
+    "name": "Fresh Ideas"
+  },
   "cookTime": "PT20M",
   "createdAt": "2022-11-26T00:27:14.000Z",
-  "datePublished": "2021-03-10",
+  "datePublished": "2022-11-01",
   "description": "Try our easy to follow Veggie Packed Mac & Cheese recipe. Absolutely delicious with the best ingredients from Woolworths.",
-  "image": {
-    "@type": "ImageObject",
-    "height": 1300,
-    "mime": "image/png",
-    "url": "https://foodhub.scene7.com/is/image/woolworthsltdprod/1905_vegie_packed_mac_cheese?wid=1300&hei=1300&fmt=png-alpha",
-    "width": 1300
-  },
-  "keywords": "Veggie Packed Mac & Cheese",
+  "image": [
+    "https://foodhub.scene7.com/is/image/woolworthsltdprod/1905_vegie_packed_mac_cheese:Square-1300x1300"
+  ],
+  "keywords": "Mac & cheese,Pescatarian,Seafood free,Tree nut free,Healthier Easier,Video,Sesame free,Zucchini,Halal,Quick & easy dinner,Microwave,Vegetarian,Comfort food,Spinach,Cauliflower,Peanut free",
   "name": "Veggie Packed Mac & Cheese Recipe | Woolworths",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "fiberContent": "13.7 g",
+    "proteinContent": "26.0 g",
+    "saturatedFatContent": "10.4 g",
+    "sodiumContent": "290 millig",
+    "sugarContent": "3.4 g"
+  },
   "prepTime": "PT10M",
-  "recipeCategory": "mains",
-  "recipeCuisine": "north-american",
+  "recipeCategory": "Mains,Dinner",
+  "recipeCuisine": "North American",
   "recipeId": "9145",
   "recipeIngredient": [
-    "0.5 bunch parsley",
-    "400 g no added salt cannellini beans",
-    "5 ml virgin olive oil spray",
+    "0.5 bunch parsley, chopped",
+    "400g no added salt cannellini beans, drained",
+    "5ml virgin olive oil spray",
     "0.5 tsp cinnamon",
-    "2 cup wholemeal penne pasta",
-    "60 g baby spinach",
-    "250 g Simply Steam Zucchini Spaghetti",
-    "250 g Simply Steam Cauliflower Rice",
+    "2 cup wholemeal penne pasta, cooked",
+    "60g baby spinach",
+    "250g Simply Steam Zucchini Spaghetti",
+    "250g Simply Steam Cauliflower Rice",
     "1.33 cup shredded tasty cheese"
   ],
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Spray a 2L baking dish lightly with olive oil and pour in the vegetable and bean mixture. Top with remaining beans and cheese and bake for 20 minutes until golden on top."
+      "HowToTip": {},
+      "text": "Preheat oven to 180°C."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Spray a 2L baking dish lightly with olive oil and pour in the vegetable and bean mixture. Top with remaining beans and cheese and bake for 20 minutes until golden on top."
+      "HowToTip": {},
+      "text": "Pierce both packets of cauliflower rice and zucchini spaghetti and microwave for 21/2 minutes. Remove and blitz in a blender until smooth. Season with pepper to taste."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Spray a 2L baking dish lightly with olive oil and pour in the vegetable and bean mixture. Top with remaining beans and cheese and bake for 20 minutes until golden on top."
+      "HowToTip": {},
+      "text": "Stir together vegetable purée, cinnamon, spinach, parsley and penne, half the beans and half the cheese."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
+      "HowToTip": {},
       "text": "Spray a 2L baking dish lightly with olive oil and pour in the vegetable and bean mixture. Top with remaining beans and cheese and bake for 20 minutes until golden on top."
     }
   ],
   "recipeNameId": "vegie-packed-mac-and-cheese",
   "recipeYield": "4",
   "sameAs": [
-    "https://woolworths.com.au/shop/find-recipes/vegetable-cheese-bake"
+    "https://woolworths.com.au/shop/recipes/vegie-packed-mac-and-cheese"
   ],
   "totalTime": "PT30M",
-  "updatedAt": "2022-11-26T00:02:28.823Z",
+  "updatedAt": "2022-11-29T18:08:09.040Z",
   "url": "https://www.woolworths.com.au/shop/recipes/vegie-packed-mac-and-cheese"
 }

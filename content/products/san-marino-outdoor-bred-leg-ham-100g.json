@@ -1,0 +1,60 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "178kJ",
+      "carbohydrateContent": "Less than 1g",
+      "dietary_fibre": "1.7g",
+      "fatContent": "2.4g",
+      "name": "nutrition",
+      "proteinContent": "5.4g",
+      "saturatedFatContent": "0.9g",
+      "servingSize": "100 g",
+      "sodiumContent": "273mg",
+      "sugarContent": "Less than 1g"
+    }
+  ],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "San Marino"
+  },
+  "createdAt": "2022-11-29T21:18:48.383Z",
+  "description": "Naturally smoked 100% Australian outdoor bred leg ham off the bone. With a sweet and succulent taste, it is sure to be a favourite with ham lovers! Great as part of a sandwich or can be used in cooking for a hint of smokiness",
+  "gtin13": "9310591500263",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/775721.jpg",
+  "name": "San Marino Outdoor Bred Leg Ham 100G",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 7,
+    "lowPrice": 7,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-29T21:18:48.382Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 7,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/775721/san-marino-outdoor-bred-leg-ham"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/775721/san-marino-outdoor-bred-leg-ham"
+  ],
+  "sku": "775721",
+  "updatedAt": "2022-11-29T21:18:48.382Z"
+}

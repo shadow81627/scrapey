@@ -1,0 +1,59 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "213.00kJ",
+      "carbohydrateContent": "0.20g",
+      "dietary_fibre": "0.51g",
+      "fatContent": "2.80g",
+      "name": "nutrition",
+      "proteinContent": "6.40g",
+      "saturatedFatContent": "1.10g",
+      "servingSize": "100 g",
+      "sodiumContent": "420.00mg",
+      "sugarContent": "0.20g"
+    }
+  ],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Bertocchi"
+  },
+  "createdAt": "2022-11-29T21:30:49.577Z",
+  "gtin13": "0271486000000",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/346463.jpg",
+  "name": "Bertocchi Double Smoked Ham Off The Bone Freshly Sliced From The Deli Per Kg",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 33,
+    "lowPrice": 33,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-29T21:30:49.576Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 33,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/346463"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/346463"
+  ],
+  "sku": "346463",
+  "updatedAt": "2022-11-29T21:30:49.576Z"
+}

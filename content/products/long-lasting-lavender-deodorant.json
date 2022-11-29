@@ -1,0 +1,54 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Propylene Glycol, Water, Sodium Stearate, Aloe Barbadensis Leafjuice*, Glyceryl Laurate, Fragrance**, Humulus Extract, Helianthus Annuus (Sunflower) Seed Oil*, Ascorbic Acid, Cymbopogon Flexuosus Oil*. *Organic **Natural"
+    },
+    {
+      "name": "Warning",
+      "value": "Keep out of reach of children."
+    },
+    {
+      "name": "Size",
+      "value": "64g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$12.50 per 100G"
+    }
+  ],
+  "brand": "Tom's",
+  "createdAt": "2022-11-29T21:55:06.436Z",
+  "description": "Tom's Long Lasting Lavender Deodorant",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/7/3/3733041.jpg",
+  "name": "Long Lasting Lavender Deodorant",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 8,
+    "lowPrice": 8,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-29T21:55:06.435Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "8.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/toms-deodorant-long-lasting-lavender"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/toms-deodorant-long-lasting-lavender"
+  ],
+  "sku": "3733041",
+  "updatedAt": "2022-11-29T21:55:06.435Z"
+}

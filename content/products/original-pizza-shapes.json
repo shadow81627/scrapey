@@ -11,7 +11,7 @@
     },
     {
       "name": "Allergen",
-      "value": "Contains Cereals Containing Gluten, May Be Present Egg, May Be Present Peanuts, May Be Present Tree Nuts, Contains Milk, May Be Present Sesame, Contains Soy, Contains Wheat"
+      "value": "May Be Present Sesame, May Be Present Tree Nuts, May Be Present Peanuts, Contains Soy, Contains Wheat, Contains Milk, Contains Cereals Containing Gluten, May Be Present Egg"
     },
     {
       "name": "Dietary",
@@ -31,7 +31,7 @@
     },
     {
       "name": "Unit Price",
-      "value": "$1.32 per 100G"
+      "value": "$1.84 per 100G"
     },
     {
       "name": "Country Of Origin",
@@ -41,28 +41,22 @@
   "brand": "Arnott's",
   "createdAt": "2020-11-15T12:30:20.000Z",
   "description": "Arnott's Original Pizza Shapes",
-  "image": {
-    "@type": "ImageObject",
-    "height": 300,
-    "mime": "image/jpeg",
-    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/7/3/2734457.jpg",
-    "width": 300
-  },
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/7/3/2734457.jpg",
   "name": "Original Pizza Shapes",
   "offers": {
     "@type": "AggregateOffer",
-    "highPrice": 2.5,
-    "lowPrice": 2.5,
+    "highPrice": 3.5,
+    "lowPrice": 3.5,
     "offerCount": 1,
     "offers": [
       {
         "@context": "http://schema.org",
         "@type": "Offer",
         "availability": "https://schema.org/InStock",
-        "availabilityStarts": "2020-11-15T10:20:04.360Z",
+        "availabilityStarts": "2022-11-29T22:09:23.890Z",
         "itemCondition": "https://schema.org/NewCondition",
         "offeredBy": "Coles",
-        "price": "2.50",
+        "price": "3.50",
         "priceCurrency": "AUD",
         "seller": {
           "@type": "Organization",
@@ -73,8 +67,8 @@
     ]
   },
   "sameAs": [
-    "https://shop.coles.com.au/a/sunnybank-hills/product/arnotts-hot-dog-shapes"
+    "https://shop.coles.com.au/a/national/product/arnotts-hot-dog-shapes"
   ],
   "sku": "2734457",
-  "updatedAt": "2020-11-15T10:20:04.360Z"
+  "updatedAt": "2022-11-29T22:09:23.891Z"
 }

@@ -2,51 +2,57 @@
   "@type": "Product",
   "additionalProperty": [
     {
+      "name": "Ingredients",
+      "value": "Sugar, Water, Pickled Red Chilli (19%), Distilled Vinegar, Garlic, Salt, Stabilizer (415)."
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "29.0"
+    },
+    {
       "name": "Size",
-      "value": "250mL"
+      "value": "730mL"
     },
     {
       "name": "Unit Price",
-      "value": "$0.80 per 100mL"
+      "value": "$0.63 per 100mL"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Product of Thailand from Imported ingredients"
     }
   ],
-  "brand": "Fountain",
+  "brand": "Mae Ploy",
   "createdAt": "2020-10-12T05:22:04.000Z",
-  "description": "Fountain Sweet Chilli Sauce",
-  "image": {
-    "@type": "ImageObject",
-    "height": 300,
-    "mime": "image/jpeg",
-    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/6/8/4/6849199.jpg",
-    "width": 300
-  },
+  "description": "Mae Ploy Sweet Chilli Sauce",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/2/5/5253579.jpg",
   "name": "Sweet Chilli Sauce",
   "offers": {
     "@type": "AggregateOffer",
-    "highPrice": 2,
-    "lowPrice": 2,
+    "highPrice": 4.6,
+    "lowPrice": 4.6,
     "offerCount": 1,
     "offers": [
       {
         "@context": "http://schema.org",
         "@type": "Offer",
         "availability": "https://schema.org/InStock",
-        "availabilityStarts": "2020-11-15T10:43:34.250Z",
+        "availabilityStarts": "2022-11-29T17:04:58.569Z",
         "itemCondition": "https://schema.org/NewCondition",
         "offeredBy": "Coles",
-        "price": "2.00",
+        "price": "4.60",
         "priceCurrency": "AUD",
         "seller": {
           "@type": "Organization",
           "name": "Coles"
         },
-        "url": "https://shop.coles.com.au/a/national/product/fountain-sweet-chilli-sauce"
+        "url": "https://shop.coles.com.au/a/national/product/mae-ploy-sauce-sweet-chilli-chicken"
       }
     ]
   },
   "sameAs": [
-    "https://shop.coles.com.au/a/sunnybank-hills/product/fountain-sweet-chilli-sauce"
+    "https://shop.coles.com.au/a/national/product/mae-ploy-sauce-sweet-chilli-chicken"
   ],
-  "sku": "6849199",
-  "updatedAt": "2020-11-15T10:43:34.250Z"
+  "sku": "5253579",
+  "updatedAt": "2022-11-29T17:04:58.569Z"
 }

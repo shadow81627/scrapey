@@ -13,13 +13,12 @@
   "createdAt": "2022-11-25T13:16:17.000Z",
   "datePublished": "2011-08-03T18:33:00+00:00",
   "description": "All the cheesy toppings of a pizza stuffed into a fast, easy, and crispy quesadilla. Perfect for dipping in pizza sauce!",
-  "image": {
-    "@type": "ImageObject",
-    "height": 480,
-    "mime": "image/jpeg",
-    "url": "https://www.budgetbytes.com/wp-content/uploads/2011/08/Pizzadillas252520close.jpg",
-    "width": 640
-  },
+  "image": [
+    "https://www.budgetbytes.com/wp-content/uploads/2011/08/Pizzadillas252520close.jpg",
+    "https://www.budgetbytes.com/wp-content/uploads/2011/08/Pizzadillas252520close-500x480.jpg",
+    "https://www.budgetbytes.com/wp-content/uploads/2011/08/Pizzadillas252520close-500x375.jpg",
+    "https://www.budgetbytes.com/wp-content/uploads/2011/08/Pizzadillas252520close-480x270.jpg"
+  ],
   "keywords": "easy, Quick, Snack",
   "name": "Pizzadillas",
   "nutrition": {
@@ -59,10 +58,10 @@
   ],
   "recipeYield": "6",
   "sameAs": [
-    "https://budgetbytes.com/pizzadillas"
+    "https://budgetbytes.com/pizzadillas/comment-page-3"
   ],
   "totalTime": "PT20M",
-  "updatedAt": "2022-11-25T10:24:42.050Z",
+  "updatedAt": "2022-11-29T16:35:58.338Z",
   "video": {
     "@type": "VideoObject",
     "contentUrl": "https://mediavine-res.cloudinary.com/video/upload/t_original/v1550096322/kpzzslfaua4s9vwzighp.mp4",

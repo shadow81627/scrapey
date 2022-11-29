@@ -1,0 +1,59 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "1790.00kJ",
+      "carbohydrateContent": "85.80g",
+      "dietary_fibre": "5.30g",
+      "fatContent": "2.60g",
+      "name": "nutrition",
+      "proteinContent": "14.40g",
+      "saturatedFatContent": "1.60g",
+      "servingSize": "100 g",
+      "sodiumContent": "600.00mg",
+      "sugarContent": "7.20g"
+    }
+  ],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Woolworths"
+  },
+  "createdAt": "2022-11-29T21:08:25.012Z",
+  "gtin13": "0284667000003",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/162733.jpg",
+  "name": "Woolworths Baguette Half Half 2 pack",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 1.65,
+    "lowPrice": 1.65,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-29T21:08:25.012Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 1.65,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/162733/woolworths-baguette-half-half"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/162733/woolworths-baguette-half-half"
+  ],
+  "sku": "162733",
+  "updatedAt": "2022-11-29T21:08:25.012Z"
+}

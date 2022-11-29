@@ -1,0 +1,60 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "Approx.393kJ",
+      "carbohydrateContent": "Approx.2.8g",
+      "dietary_fibre": "-",
+      "fatContent": "Approx.6.7g",
+      "name": "nutrition",
+      "proteinContent": "Approx.5.6g",
+      "saturatedFatContent": "Approx.1.2g",
+      "servingSize": "100 g",
+      "sodiumContent": "Approx.212mg",
+      "sugarContent": "Approx.0.5g"
+    }
+  ],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Made With Plants"
+  },
+  "createdAt": "2022-11-29T19:16:07.962Z",
+  "description": "Made With Plants Bacon is an absolute game-changer if you love the taste and texture of bacon, but are trying to eat more plant-based foods. This crispy, streaky, meat-free bacon is American-style and sure to satisfy.<br><br>As the name suggests, Made With Plants Bacon cooks, tastes and smells just like traditional bacon, only it’s made with plants! In fact, soy protein has a naturally neutral flavour, making it an excellent base for many meat alternatives.<br><br>Thanks to a few secret herbs and spices, you can enjoy the unmistakable flavour of bacon with an authentic mouthfeel, that’s just like the real deal. Cook it just like you would traditional bacon, making sure to let it crisp up on both sides. Made With Plants Bacon only takes a few minutes to cook in a hot pan!<br><br>QUICK FACTS:<br>- meat free<br>- 100% vegan<br>- Prepare and enjoy like traditional bacon.",
+  "gtin13": "9354853000535",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/090398.jpg",
+  "name": "Made With Plants Meat Free Bacon 200G",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 9,
+    "lowPrice": 9,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-29T19:16:07.962Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 9,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/90398/made-with-plants-meat-free-bacon"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/90398/made-with-plants-meat-free-bacon"
+  ],
+  "sku": "90398",
+  "updatedAt": "2022-11-29T19:16:07.962Z"
+}

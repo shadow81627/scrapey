@@ -1,0 +1,58 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Sachet: Glucose Syrup, Soluble Coffee (24%), Milk Solids, Vegetable Oil, Sugar, Stabilisers (340, 451, 331, 452) , Flavour, Emulsifiers (471, 472e), Salt Chocolate Shaker: Sugar, Cocoa (Cocoa Solids 30%), Emulsifier ( Soy Lecithin), Salt, Flavour (Vanilla), Spice (Cinnamon)."
+    },
+    {
+      "name": "Allergen",
+      "value": "Contains Milk"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "10.0"
+    },
+    {
+      "name": "Size",
+      "value": "10 pack"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.35 per 1Ea"
+    }
+  ],
+  "brand": "Nescafe",
+  "createdAt": "2022-11-29T13:41:18.140Z",
+  "description": "Nescafe Strong Cappuccino Coffee Sachets",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/6/9/5694097.jpg",
+  "name": "Strong Cappuccino Coffee Sachets",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3.5,
+    "lowPrice": 3.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-29T13:41:18.139Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "3.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/nescafe-cafe-menu-coffee-cappuccino-strong"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/nescafe-cafe-menu-coffee-cappuccino-strong"
+  ],
+  "sku": "5694097",
+  "updatedAt": "2022-11-29T13:41:18.139Z"
+}

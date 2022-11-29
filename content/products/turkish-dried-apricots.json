@@ -3,7 +3,7 @@
   "additionalProperty": [
     {
       "name": "Ingredients",
-      "value": " Dried Turkish Apricots (99.7%), Preservative (220)."
+      "value": "<p><strong>INGREDIENTS:</strong>&nbsp;Apricots (99.7%), Preservative ((220)&nbsp;<strong>sulphites</strong>).</p><table></table>"
     },
     {
       "name": "Allergen",
@@ -15,7 +15,7 @@
     },
     {
       "name": "Warning",
-      "value": "Food Warnings:rnApricots are mechanically pitted and may contain an occasional pit or pit fragment. Take care to avoid dental injury.rnrn"
+      "value": "Apricots are mechanically pitted and may contain an occasional pit or pit fragment. Take care to avoid dental injury."
     },
     {
       "name": "Size",
@@ -23,34 +23,28 @@
     },
     {
       "name": "Unit Price",
-      "value": "$9.00 per 1Kg"
+      "value": "$12.00 per 1Kg"
     }
   ],
   "brand": "Coles",
   "createdAt": "2020-10-12T05:22:04.000Z",
-  "description": "Coles Turkish Dried Apricots",
-  "image": {
-    "@type": "ImageObject",
-    "height": 300,
-    "mime": "image/jpeg",
-    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/7/4/2749400.jpg",
-    "width": 300
-  },
+  "description": "Coles Turkish Apricots have many uses including for cooking, baking or as part of a muesli mix.",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/7/4/2749400.jpg",
   "name": "Turkish Dried Apricots",
   "offers": {
     "@type": "AggregateOffer",
-    "highPrice": 4.5,
-    "lowPrice": 4.5,
+    "highPrice": 6,
+    "lowPrice": 6,
     "offerCount": 1,
     "offers": [
       {
         "@context": "http://schema.org",
         "@type": "Offer",
         "availability": "https://schema.org/InStock",
-        "availabilityStarts": "2020-11-15T11:12:35.591Z",
+        "availabilityStarts": "2022-11-29T18:35:57.808Z",
         "itemCondition": "https://schema.org/NewCondition",
         "offeredBy": "Coles",
-        "price": "4.50",
+        "price": "6.00",
         "priceCurrency": "AUD",
         "seller": {
           "@type": "Organization",
@@ -61,8 +55,8 @@
     ]
   },
   "sameAs": [
-    "https://shop.coles.com.au/a/sunnybank-hills/product/coles-dried-turk-apricots"
+    "https://shop.coles.com.au/a/national/product/coles-dried-turk-apricots"
   ],
   "sku": "2749400",
-  "updatedAt": "2020-11-15T11:12:35.591Z"
+  "updatedAt": "2022-11-29T18:35:57.808Z"
 }

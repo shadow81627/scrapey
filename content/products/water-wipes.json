@@ -1,0 +1,54 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Water, Polysorbate 20, Phenoxyethanol, Caprylyl Glycol."
+    },
+    {
+      "name": "Contains",
+      "value": "3 x 80 Value Pack (240 super thick wipes)"
+    },
+    {
+      "name": "Size",
+      "value": "240 pack"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.07 per 1Ea"
+    }
+  ],
+  "brand": "Curash",
+  "createdAt": "2022-11-29T18:14:04.541Z",
+  "description": "Curash Water Wipes",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/7/7/3779235.jpg",
+  "name": "Water Wipes",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 16.5,
+    "lowPrice": 16.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-29T18:14:04.540Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "16.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/curash-water-wipes-3779235p"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/curash-water-wipes-3779235p"
+  ],
+  "sku": "3779235",
+  "updatedAt": "2022-11-29T18:14:04.540Z"
+}

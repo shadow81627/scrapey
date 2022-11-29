@@ -2,8 +2,16 @@
   "@type": "Product",
   "additionalProperty": [
     {
+      "name": "Ingredients",
+      "value": "Pasteurised egg albumin. (May contain traces of yolk)"
+    },
+    {
       "name": "Allergen",
       "value": "Contains Egg"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "4.0"
     },
     {
       "name": "Size",
@@ -11,34 +19,28 @@
     },
     {
       "name": "Unit Price",
-      "value": "$1.05 per 100mL"
+      "value": "$1.11 per 100mL"
     }
   ],
   "brand": "Farm Pride",
   "createdAt": "2020-10-12T05:22:04.000Z",
-  "description": "Farm Pride Frozen Egg Whites",
-  "image": {
-    "@type": "ImageObject",
-    "height": 300,
-    "mime": "image/jpeg",
-    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/1/9/0/1909588.jpg",
-    "width": 300
-  },
+  "description": "100% Australian egg whites.Each serve (237ml) is a good source of protien.Protein contributes to the growth and maintenance of muscle mass.Low fat, nothing added.",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/1/9/0/1909588.jpg",
   "name": "Frozen Egg Whites",
   "offers": {
     "@type": "AggregateOffer",
-    "highPrice": 10,
-    "lowPrice": 10,
+    "highPrice": 10.5,
+    "lowPrice": 10.5,
     "offerCount": 1,
     "offers": [
       {
         "@context": "http://schema.org",
         "@type": "Offer",
         "availability": "https://schema.org/InStock",
-        "availabilityStarts": "2020-11-15T11:46:36.340Z",
+        "availabilityStarts": "2022-11-29T21:45:21.064Z",
         "itemCondition": "https://schema.org/NewCondition",
         "offeredBy": "Coles",
-        "price": "10.00",
+        "price": "10.50",
         "priceCurrency": "AUD",
         "seller": {
           "@type": "Organization",
@@ -49,8 +51,8 @@
     ]
   },
   "sameAs": [
-    "https://shop.coles.com.au/a/sunnybank-hills/product/farm-pride-frozen-egg-white"
+    "https://shop.coles.com.au/a/national/product/farm-pride-frozen-egg-white"
   ],
   "sku": "1909588",
-  "updatedAt": "2020-11-15T11:46:36.340Z"
+  "updatedAt": "2022-11-29T21:45:21.064Z"
 }

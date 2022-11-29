@@ -1,0 +1,60 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "373kJ",
+      "carbohydrateContent": "0.4g",
+      "dietary_fibre": "-",
+      "fatContent": "7.0g",
+      "name": "nutrition",
+      "proteinContent": "6.3g",
+      "saturatedFatContent": "3.2g",
+      "servingSize": "100 g",
+      "sodiumContent": "460mg",
+      "sugarContent": "Less than 1g"
+    }
+  ],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "San Marino"
+  },
+  "createdAt": "2022-11-29T20:51:04.977Z",
+  "description": "Cured salami made from finely minced pork and delicately seasoned with spices for a tasty, mild salami. Great for kids due to the mild nature but also a great addition to an antipasto platter",
+  "gtin13": "9310591502823",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/807105.jpg",
+  "name": "San Marino Danish Salami 100G",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 7,
+    "lowPrice": 7,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-29T20:51:04.976Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 7,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/807105/san-marino-danish-salami"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/807105/san-marino-danish-salami"
+  ],
+  "sku": "807105",
+  "updatedAt": "2022-11-29T20:51:04.977Z"
+}

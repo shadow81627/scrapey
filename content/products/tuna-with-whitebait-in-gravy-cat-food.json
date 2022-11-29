@@ -1,0 +1,50 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Warning",
+      "value": "Pet Food Only."
+    },
+    {
+      "name": "Size",
+      "value": "85g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.41 per 100G"
+    }
+  ],
+  "brand": "Purr",
+  "createdAt": "2022-11-29T22:19:57.578Z",
+  "description": "Purr Cat Food Tuna Topped With Whitebait In Gravy, 85g. Spoil your feline friend with a wide selection of gourmet flavours, a delicious meal they'll be sure to love.",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/7/5/8/7581025.jpg",
+  "name": "Tuna with Whitebait in Gravy Cat Food",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 1.2,
+    "lowPrice": 1.2,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-29T22:19:57.577Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "1.20",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/purr-cat-food-tuna-with-whitebait-in-gravy"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/purr-cat-food-tuna-with-whitebait-in-gravy"
+  ],
+  "sku": "7581025",
+  "updatedAt": "2022-11-29T22:19:57.577Z"
+}

@@ -1,55 +1,55 @@
 {
   "@type": "Recipe",
+  "author": {
+    "@type": "Person",
+    "name": "Fresh Ideas"
+  },
   "cookTime": "PT30M",
   "createdAt": "2022-11-22T12:23:57.000Z",
-  "datePublished": "2021-03-10",
+  "datePublished": "2022-09-26",
   "description": "Try our easy to follow Creamy Pumpkin Spaghetti recipe. Absolutely delicious with the best ingredients from Woolworths.",
-  "image": {
-    "@type": "ImageObject",
-    "height": 1300,
-    "mime": "image/png",
-    "url": "https://foodhub.scene7.com/is/image/woolworthsltdprod/1904-creamy-pumpkin-spaghetti?wid=1300&hei=1300&fmt=png-alpha",
-    "width": 1300
-  },
-  "keywords": "Creamy Pumpkin Spaghetti",
+  "image": [
+    "https://foodhub.scene7.com/is/image/woolworthsltdprod/1904-creamy-pumpkin-spaghetti:Square-1300x1300"
+  ],
+  "keywords": "Pasta,Pescatarian,Pumpkin,Vegetarian",
   "name": "Creamy Pumpkin Spaghetti Recipe | Woolworths",
   "prepTime": "PT10M",
-  "recipeCategory": "mains",
-  "recipeCuisine": "european",
+  "recipeCategory": "Mains",
+  "recipeCuisine": "Italian",
   "recipeId": "8890",
   "recipeIngredient": [
     "0.33 cup light thickened cream",
-    "800 g Kent pumpkin",
+    "800g Kent pumpkin",
     "1 cup salt-reduced vegetable stock",
     "0.5 cup finely grated parmesan",
-    "375 g spaghetti",
+    "375g spaghetti",
     "1 tbs olive oil",
     "chives",
-    "3 cloves garlic"
+    "3 cloves garlic, crushed"
   ],
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Place three-quarters of the cooked pumpkin in a food processor or blender and reserve remainder in a bowl. Add stock and process until smooth. Transfer pumpkin mixture to empty pasta saucepan. Add cream and half the parmesan and bring to the boil. Add pasta and toss to coat. Serve pasta topped with chives, and remaining parmesan and pumpkin."
+      "HowToTip": {},
+      "text": "Preheat oven to 200°C. Place pumpkin on a baking paper-lined baking tray. Drizzle with oil. Season. Bake for 25 minutes or until tender, adding garlic to tray for the last 5 minutes of cooking."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Place three-quarters of the cooked pumpkin in a food processor or blender and reserve remainder in a bowl. Add stock and process until smooth. Transfer pumpkin mixture to empty pasta saucepan. Add cream and half the parmesan and bring to the boil. Add pasta and toss to coat. Serve pasta topped with chives, and remaining parmesan and pumpkin."
+      "HowToTip": {},
+      "text": "Meanwhile, cook pasta in a large saucepan of boiling, salted water, following packet directions, until al dente. Drain."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
+      "HowToTip": {},
       "text": "Place three-quarters of the cooked pumpkin in a food processor or blender and reserve remainder in a bowl. Add stock and process until smooth. Transfer pumpkin mixture to empty pasta saucepan. Add cream and half the parmesan and bring to the boil. Add pasta and toss to coat. Serve pasta topped with chives, and remaining parmesan and pumpkin."
     }
   ],
   "recipeNameId": "creamy-pumpkin-spaghetti",
   "recipeYield": "4",
   "sameAs": [
-    "https://woolworths.com.au/shop/find-recipes/creamy-veg-pasta"
+    "https://woolworths.com.au/shop/recipes/creamy-pumpkin-spaghetti"
   ],
   "totalTime": "PT40M",
-  "updatedAt": "2022-11-27T17:55:07.636Z",
+  "updatedAt": "2022-11-29T18:55:12.489Z",
   "url": "https://www.woolworths.com.au/shop/recipes/creamy-pumpkin-spaghetti"
 }

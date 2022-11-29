@@ -1,0 +1,54 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Meats (including Chicken &/or Beef &/or Pork &/or Sheep &/or Turkey); Gelling Agents; Vegetable Oil; Colouring Agents; Minerals & Vitamins.."
+    },
+    {
+      "name": "Contains",
+      "value": "Tray"
+    },
+    {
+      "name": "Size",
+      "value": "6 pack"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.08 per 100G"
+    }
+  ],
+  "brand": "My Dog",
+  "createdAt": "2022-11-29T13:43:46.097Z",
+  "description": "My Dog Adult Wet Dog Food Classic Loaf With Gourmet Beef 6x100G Trays",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/6/3/8/6387162.jpg",
+  "name": "Adult Wet Dog Food Classic Loaf With Gourmet Beef 6x100G Trays",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 6.5,
+    "lowPrice": 6.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-29T13:43:46.096Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "6.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/my-dog-dog-food-gourmet-beef"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/my-dog-dog-food-gourmet-beef"
+  ],
+  "sku": "6387162",
+  "updatedAt": "2022-11-29T13:43:46.096Z"
+}

@@ -1,0 +1,50 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Contains",
+      "value": "12 Pure White Rolls x 180 Sheets"
+    },
+    {
+      "name": "Size",
+      "value": "12 pack"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.92 per 1Ea"
+    }
+  ],
+  "brand": "Sorbent",
+  "createdAt": "2022-11-29T17:42:22.530Z",
+  "description": "Sorbent Hypo Allergenic Toilet Tissue",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/8/6/5865350.jpg",
+  "name": "Hypo Allergenic Toilet Tissue",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 11,
+    "lowPrice": 11,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-29T17:42:22.528Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "11.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/sorbent-toilet-paper-2-ply-extra-thick-hypo-allergenic"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/sorbent-toilet-paper-2-ply-extra-thick-hypo-allergenic"
+  ],
+  "sku": "5865350",
+  "updatedAt": "2022-11-29T17:42:22.528Z"
+}

@@ -1,0 +1,37 @@
+{
+  "@type": "Product",
+  "additionalProperty": [],
+  "brand": "Magazine",
+  "createdAt": "2022-11-29T15:01:44.556Z",
+  "description": "Cover may not depict edition offered for sale.",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/8/9/2/892333.jpg",
+  "name": "Home Beautiful",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 8.99,
+    "lowPrice": 8.99,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-29T15:01:44.556Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "8.99",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/home-beautiful-magazine"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/home-beautiful-magazine"
+  ],
+  "sku": "892333",
+  "updatedAt": "2022-11-29T15:01:44.556Z"
+}

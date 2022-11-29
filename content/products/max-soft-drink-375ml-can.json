@@ -1,0 +1,66 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "CARBONATED WATER, COLOUR (150d), SWEETENERS (951, 950), FOOD ACIDS (338, 330), PRESERVATIVE (211), CAFFEINE, FLAVOUR"
+    },
+    {
+      "name": "Allergen",
+      "value": "Contains Phenylalanine"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "30.0"
+    },
+    {
+      "name": "Warning",
+      "value": "LOW JOULE COLA: CONTAINS CAFFEINE PHENYLKETONURICS: CONTAINS PHENYLALININE"
+    },
+    {
+      "name": "Size",
+      "value": "30 pack"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$2.13 per 1L"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Product of Mixed Origin"
+    }
+  ],
+  "brand": "Pepsi",
+  "createdAt": "2022-11-29T18:55:55.178Z",
+  "description": "Pepsi Max Soft Drink 375mL Can",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/7/8/3/7837413.jpg",
+  "name": "Max Soft Drink 375mL Can",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 24,
+    "lowPrice": 24,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-29T18:55:55.177Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "24.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/pepsi-soft-drink-max"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/pepsi-soft-drink-max"
+  ],
+  "sku": "7837413",
+  "updatedAt": "2022-11-29T18:55:55.177Z"
+}

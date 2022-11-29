@@ -2,7 +2,7 @@
   "@type": "Recipe",
   "aggregateRating": {
     "@type": "AggregateRating",
-    "ratingCount": "116",
+    "ratingCount": "117",
     "ratingValue": "4.8"
   },
   "author": {
@@ -13,13 +13,12 @@
   "createdAt": "2022-11-25T13:16:17.000Z",
   "datePublished": "2022-04-30T20:19:00+00:00",
   "description": "It only takes 10 minutes to make this super easy red enchilada sauce that is bursting with flavor.",
-  "image": {
-    "@type": "ImageObject",
-    "height": 900,
-    "mime": "image/jpeg",
-    "url": "https://www.budgetbytes.com/wp-content/uploads/2012/08/Easy-Red-Enchilada-Sauce-spoon.jpg",
-    "width": 1200
-  },
+  "image": [
+    "https://www.budgetbytes.com/wp-content/uploads/2012/08/Easy-Red-Enchilada-Sauce-spoon.jpg",
+    "https://www.budgetbytes.com/wp-content/uploads/2012/08/Easy-Red-Enchilada-Sauce-spoon-500x500.jpg",
+    "https://www.budgetbytes.com/wp-content/uploads/2012/08/Easy-Red-Enchilada-Sauce-spoon-500x375.jpg",
+    "https://www.budgetbytes.com/wp-content/uploads/2012/08/Easy-Red-Enchilada-Sauce-spoon-480x270.jpg"
+  ],
   "keywords": "enchilada sauce, red enchiladas",
   "name": "Easy Red Enchilada Sauce",
   "nutrition": {
@@ -61,10 +60,10 @@
   ],
   "recipeYield": "8",
   "sameAs": [
-    "https://budgetbytes.com/red-enchilada-sauce"
+    "https://budgetbytes.com/red-enchilada-sauce/comment-page-16"
   ],
   "totalTime": "PT10M",
-  "updatedAt": "2022-11-25T10:20:30.545Z",
+  "updatedAt": "2022-11-29T16:01:45.511Z",
   "video": {
     "@type": "VideoObject",
     "contentUrl": "https://mediavine-res.cloudinary.com/video/upload/t_original/v1550099703/xu3keskbvam6brx3lgsu.mp4",

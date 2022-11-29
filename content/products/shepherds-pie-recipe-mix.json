@@ -17,13 +17,7 @@
   "brand": "Colmans",
   "createdAt": "2020-10-12T05:22:04.000Z",
   "description": "Colmans Shepherds Pie Recipe Mix",
-  "image": {
-    "@type": "ImageObject",
-    "height": 300,
-    "mime": "image/jpeg",
-    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/7/2/3724459.jpg",
-    "width": 300
-  },
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/7/2/3724459.jpg",
   "name": "Shepherds Pie Recipe Mix",
   "offers": {
     "@type": "AggregateOffer",
@@ -34,8 +28,8 @@
       {
         "@context": "http://schema.org",
         "@type": "Offer",
-        "availability": "https://schema.org/OutOfStock",
-        "availabilityStarts": "2020-11-15T08:34:07.835Z",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-29T18:31:55.467Z",
         "itemCondition": "https://schema.org/NewCondition",
         "offeredBy": "Coles",
         "price": "2.50",
@@ -49,8 +43,8 @@
     ]
   },
   "sameAs": [
-    "https://shop.coles.com.au/a/sunnybank-hills/product/colmans-shepherds-pie-recipe-mix"
+    "https://shop.coles.com.au/a/national/product/colmans-shepherds-pie-recipe-mix"
   ],
   "sku": "3724459",
-  "updatedAt": "2020-11-15T08:34:07.835Z"
+  "updatedAt": "2022-11-29T18:31:55.468Z"
 }

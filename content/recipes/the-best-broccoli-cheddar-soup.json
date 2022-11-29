@@ -2,7 +2,7 @@
   "@type": "Recipe",
   "aggregateRating": {
     "@type": "AggregateRating",
-    "ratingCount": "48",
+    "ratingCount": "49",
     "ratingValue": "4.9"
   },
   "author": {
@@ -13,13 +13,12 @@
   "createdAt": "2022-11-25T13:16:17.000Z",
   "datePublished": "2020-09-22T08:27:03+00:00",
   "description": "This super easy Broccoli Cheddar Soup is chock full of colorful, chunky vegetables in a rich and cheesy broth for a totally meal-worthy soup.",
-  "image": {
-    "@type": "ImageObject",
-    "height": 600,
-    "mime": "image/jpeg",
-    "url": "https://www.budgetbytes.com/wp-content/uploads/2020/09/Broccoli-Cheddar-Soup-one-bowl.jpg",
-    "width": 800
-  },
+  "image": [
+    "https://www.budgetbytes.com/wp-content/uploads/2020/09/Broccoli-Cheddar-Soup-one-bowl.jpg",
+    "https://www.budgetbytes.com/wp-content/uploads/2020/09/Broccoli-Cheddar-Soup-one-bowl-500x500.jpg",
+    "https://www.budgetbytes.com/wp-content/uploads/2020/09/Broccoli-Cheddar-Soup-one-bowl-500x375.jpg",
+    "https://www.budgetbytes.com/wp-content/uploads/2020/09/Broccoli-Cheddar-Soup-one-bowl-480x270.jpg"
+  ],
   "keywords": "Cheese Soup, Easy Soup",
   "name": "The Best Broccoli Cheddar Soup",
   "nutrition": {
@@ -77,10 +76,10 @@
   ],
   "recipeYield": "4",
   "sameAs": [
-    "https://budgetbytes.com/easy-broccoli-cheddar-soup"
+    "https://budgetbytes.com/easy-broccoli-cheddar-soup?gclid=Cj0KCQiAsdKbBhDHARIsANJ6-jcJhu_okR6Z9gJfzr8jSiw30LMF1E3dBhW5W-gUoTxUpqI_PUZG2aMaAu4SEALw_wcB"
   ],
   "totalTime": "PT50M",
-  "updatedAt": "2022-11-25T10:26:30.861Z",
+  "updatedAt": "2022-11-29T17:03:53.335Z",
   "video": {
     "@type": "VideoObject",
     "contentUrl": "https://mediavine-res.cloudinary.com/video/upload/t_original/v1602449880/bcapajmaom9m22uwvpzs.mp4",

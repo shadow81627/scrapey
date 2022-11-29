@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "250mL"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.28 per 100mL"
+    }
+  ],
+  "brand": "Fountain",
+  "createdAt": "2022-11-29T22:32:22.342Z",
+  "description": "Fountain Soy Sauce Asian Sauces Stir fry",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/3/7/5377390.jpg",
+  "name": "Soy Sauce Asian Sauces Stir fry",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3.2,
+    "lowPrice": 3.2,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-29T22:32:22.341Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "3.20",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/fountain-soy-sauce"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/fountain-soy-sauce"
+  ],
+  "sku": "5377390",
+  "updatedAt": "2022-11-29T22:32:22.342Z"
+}

@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "1kg"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$5.90 per 1Kg"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2022-11-29T19:20:21.579Z",
+  "description": "A traditional favourite, this apple variety has firm, sweet, crisp, juicy flesh. Excellent in salads, sauces and pies.",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/4/4/3/4438477.jpg",
+  "name": "Pink Lady Apples Prepacked",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 5.9,
+    "lowPrice": 5.9,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-29T19:20:21.579Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "5.90",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/apples-pink-lady-prepacked"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/apples-pink-lady-prepacked"
+  ],
+  "sku": "4438477",
+  "updatedAt": "2022-11-29T19:20:21.579Z"
+}

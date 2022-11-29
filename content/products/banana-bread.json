@@ -1,0 +1,58 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "<p><strong>INGREDIENTS:</strong> <strong>Wheat</strong> Flour, Banana (26%), Sugar, Canola Oil, <strong>Egg</strong> Powder, Raising Agents (Sodium Carbonates, 450), Salt, Preservative (Potassium Sorbate).</p>"
+    },
+    {
+      "name": "Allergen",
+      "value": "May Be Present SOY, May Be Present MILK, May Be Present TREE NUTS, Contains EGG, Contains CEREALS CONTAINING GLUTEN, May Be Present PEANUTS, Contains Wheat"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "8.0"
+    },
+    {
+      "name": "Size",
+      "value": "550g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.95 per 100G"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2022-11-29T17:56:17.783Z",
+  "description": "Coles Banana Bread is made with real bananas and is extra-moist and delicious. Warm a slice of this perfectly sweet and soft banana bread and top with your favourite butter for extra goodness. An easy and tasty snack that will satisfy your cravings at any time of the day.",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/9/1/2/9120090.jpg",
+  "name": "Banana Bread",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 5.2,
+    "lowPrice": 5.2,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-29T17:56:17.781Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "5.20",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-banana-bread"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/coles-banana-bread"
+  ],
+  "sku": "9120090",
+  "updatedAt": "2022-11-29T17:56:17.781Z"
+}

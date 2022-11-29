@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "800g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$2.00 per 100G"
+    }
+  ],
+  "brand": "Ital",
+  "createdAt": "2022-11-29T14:20:32.051Z",
+  "description": "Ital is the largest manufacturer of Panettone cakes in Australia. We have pioneered the art of making Panettone using premium Australian ingredients over the last 40+ years.",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/8/5/3851605.jpg",
+  "name": "Baileys Panettone",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 16,
+    "lowPrice": 16,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-29T14:20:32.050Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "16.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/ital-panettone-baileys"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/ital-panettone-baileys"
+  ],
+  "sku": "3851605",
+  "updatedAt": "2022-11-29T14:20:32.050Z"
+}

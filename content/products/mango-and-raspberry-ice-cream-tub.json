@@ -7,7 +7,7 @@
     },
     {
       "name": "Allergen",
-      "value": "Contains Milk, Contains Egg"
+      "value": "Contains Egg, Contains Milk"
     },
     {
       "name": "Servings Per Pack",
@@ -19,7 +19,7 @@
     },
     {
       "name": "Unit Price",
-      "value": "$1.26 per 100mL"
+      "value": "$1.75 per 100mL"
     },
     {
       "name": "Country Of Origin",
@@ -29,28 +29,22 @@
   "brand": "Haagen-Dazs",
   "createdAt": "2020-11-15T12:30:20.000Z",
   "description": "Haagen-Dazs Mango & Raspberry Ice Cream Tub",
-  "image": {
-    "@type": "ImageObject",
-    "height": 300,
-    "mime": "image/jpeg",
-    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/1/2/3125080.jpg",
-    "width": 300
-  },
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/1/2/3125080.jpg",
   "name": "Mango & Raspberry Ice Cream Tub",
   "offers": {
     "@type": "AggregateOffer",
-    "highPrice": 5.75,
-    "lowPrice": 5.75,
+    "highPrice": 8,
+    "lowPrice": 8,
     "offerCount": 1,
     "offers": [
       {
         "@context": "http://schema.org",
         "@type": "Offer",
         "availability": "https://schema.org/InStock",
-        "availabilityStarts": "2020-11-15T05:37:00.219Z",
+        "availabilityStarts": "2022-11-29T19:18:13.955Z",
         "itemCondition": "https://schema.org/NewCondition",
         "offeredBy": "Coles",
-        "price": "5.75",
+        "price": "8.00",
         "priceCurrency": "AUD",
         "seller": {
           "@type": "Organization",
@@ -61,8 +55,8 @@
     ]
   },
   "sameAs": [
-    "https://shop.coles.com.au/a/sunnybank-hills/product/hagen-dazs-ice-cream-mango-raspberry"
+    "https://shop.coles.com.au/a/national/product/hagen-dazs-ice-cream-mango-raspberry"
   ],
   "sku": "3125080",
-  "updatedAt": "2020-11-15T05:37:00.219Z"
+  "updatedAt": "2022-11-29T19:18:13.955Z"
 }

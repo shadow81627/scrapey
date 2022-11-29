@@ -1,67 +1,77 @@
 {
   "@type": "Recipe",
+  "author": {
+    "@type": "Person",
+    "name": "Fresh Ideas"
+  },
   "cookTime": "PT25M",
   "createdAt": "2022-11-25T10:08:59.000Z",
-  "datePublished": "2021-03-10",
+  "datePublished": "2022-09-26",
   "description": "Try our easy to follow Caramel Pecan Carrot Cupcakes recipe. Absolutely delicious with the best ingredients from Woolworths.",
-  "image": {
-    "@type": "ImageObject",
-    "height": 1300,
-    "mime": "image/png",
-    "url": "https://foodhub.scene7.com/is/image/woolworthsltdprod/wk42-vendor-recipe-caramel-pecan-carrot-cupcake-1300x1300?wid=1300&hei=1300&fmt=png-alpha",
-    "width": 1300
-  },
-  "keywords": "Caramel Pecan Carrot Cupcakes",
+  "image": [
+    "https://foodhub.scene7.com/is/image/woolworthsltdprod/wk42-vendor-recipe-caramel-pecan-carrot-cupcake-1300x1300:Square-1300x1300"
+  ],
+  "keywords": "Cupcake,Pescatarian,Seafood free,Soy free,Vegetarian,Sesame free,Peanut free",
   "name": "Caramel Pecan Carrot Cupcakes Recipe | Woolworths",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "442 calories",
+    "carbohydrateContent": "54.4 g",
+    "fatContent": "22.6 g",
+    "proteinContent": "4.9 g",
+    "saturatedFatContent": "9.6 g",
+    "sodiumContent": "169 millig",
+    "sugarContent": "47.9 g"
+  },
   "prepTime": "PT15M",
-  "recipeCategory": "desserts",
-  "recipeCuisine": "north-american",
+  "recipeCategory": "Desserts",
+  "recipeCuisine": "North American",
   "recipeId": "9163",
   "recipeIngredient": [
     "1 cup plain flour",
-    "0.5 cup NESTLE TOP'N'FILL Caramel",
-    "125 g butter",
+    "0.5 cup NESTLE TOP’N’FILL Caramel",
+    "125g butter, softened",
     "1.75 cup icing sugar mixture",
     "1 cup carrots",
     "1 tsp cinnamon",
     "1 tsp bi carbonate of soda",
-    "100 g crushed pecans",
+    "100g crushed pecans",
     "3 tsp vanilla bean paste",
-    "250 g cream cheese",
+    "250g cream cheese, softened",
     "0.25 cup vegetable oil",
-    "2 eggs",
+    "2 eggs, beaten",
     "1 cup caster sugar",
-    "0.5 cup crushed pineapple",
+    "0.5 cup crushed pineapple, well-drained",
     "0.5 cup sweetened condensed milk"
   ],
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "In a medium bowl; whisk caramel and hot water until smooth. Drizzle caramel over the tops of the frosted cupcakes. Sprinkle with 40g crushed pecans."
+      "HowToTip": {},
+      "text": "Preheat oven to 180°C/160°C fan forced. Line 20 holes from two 12-hole (1/3 cup/80mL) muffin pans with paper cases."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "In a medium bowl; whisk caramel and hot water until smooth. Drizzle caramel over the tops of the frosted cupcakes. Sprinkle with 40g crushed pecans."
+      "HowToTip": {},
+      "text": "In a large bowl, mix sugar, flour, bicarbonate of soda and cinnamon. Make a well and add oil, sweetened condensed milk, eggs and 1 tsp vanilla and mix well. Stir in carrots, pineapple and 60g of nuts until combined. Divide mixture evenly among prepared cases (we find using an ice cream scoop to divide mixture gives even sized cupcakes). Bake for 20 minutes or until cooked. Cool."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "In a medium bowl; whisk caramel and hot water until smooth. Drizzle caramel over the tops of the frosted cupcakes. Sprinkle with 40g crushed pecans."
+      "HowToTip": {},
+      "text": "Meanwhile to make cream cheese frosting; using an electric mixer; beat butter and icing sugar mixture with 2 tsp vanilla bean paste together for 2 minutes or until light and creamy. Add cream cheese and beat for a further 2 minutes. Place mixture into a piping bag fitted with a large star nozzle. Pipe over cooled cupcakes."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
+      "HowToTip": {},
       "text": "In a medium bowl; whisk caramel and hot water until smooth. Drizzle caramel over the tops of the frosted cupcakes. Sprinkle with 40g crushed pecans."
     }
   ],
   "recipeNameId": "caramel-pecan-carrot-cupcakes",
   "recipeYield": "16",
   "sameAs": [
-    "https://woolworths.com.au/shop/find-recipes/carrot-cupcakes"
+    "https://woolworths.com.au/shop/recipes/caramel-pecan-carrot-cupcakes"
   ],
   "totalTime": "PT40M",
-  "updatedAt": "2022-11-25T09:30:37.296Z",
+  "updatedAt": "2022-11-29T17:01:47.438Z",
   "url": "https://www.woolworths.com.au/shop/recipes/caramel-pecan-carrot-cupcakes"
 }

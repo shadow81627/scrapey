@@ -1,0 +1,45 @@
+{
+  "@type": "Product",
+  "additionalProperty": [],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "QVS"
+  },
+  "createdAt": "2022-11-29T20:17:53.683Z",
+  "description": "Designed with a modern, punched metal pattern and a smooth contemporary finish, the QVS Combination Tip Tweezers are made from quality stainless steel and combine an all purpose slant tip with a pointed tip for the removal of individual hairs or splinters.<br><p><strong>Product Features:</strong></p> <ul> <li>Contents: 1 x Tweezer, 1 x Sharpener</li> <li>Stainless steel</li> <li>Black</li> <li>Broad design body with bubble cut out feature</li> <li>Sharpening tool included</li> </ul>",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/1073816271.jpg",
+  "name": "Qvs 1EACH",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 10,
+    "lowPrice": 10,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-29T20:17:53.683Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 10,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/1073816271/qvs-combination-tip-tweezers"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/1073816271/qvs-combination-tip-tweezers"
+  ],
+  "sku": "1073816271",
+  "updatedAt": "2022-11-29T20:17:53.683Z"
+}

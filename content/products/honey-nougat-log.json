@@ -7,7 +7,7 @@
     },
     {
       "name": "Allergen",
-      "value": "May Contain Wheat, May Contain Tree Nuts, Contains Peanuts, Contains Milk, Contains Soy"
+      "value": "May Contain Wheat, May Contain Tree Nuts, Contains Soy, Contains Peanuts, Contains Milk"
     },
     {
       "name": "Warning",
@@ -19,7 +19,7 @@
     },
     {
       "name": "Unit Price",
-      "value": "$2.50 per 100G"
+      "value": "$5.00 per 100G"
     },
     {
       "name": "Country Of Origin",
@@ -29,28 +29,22 @@
   "brand": "Europe",
   "createdAt": "2020-11-15T12:30:20.000Z",
   "description": "Europe Honey Nougat Log",
-  "image": {
-    "@type": "ImageObject",
-    "height": 300,
-    "mime": "image/jpeg",
-    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/6/7/8/67850.jpg",
-    "width": 300
-  },
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/6/7/8/67850.jpg",
   "name": "Honey Nougat Log",
   "offers": {
     "@type": "AggregateOffer",
-    "highPrice": 1,
-    "lowPrice": 1,
+    "highPrice": 2,
+    "lowPrice": 2,
     "offerCount": 1,
     "offers": [
       {
         "@context": "http://schema.org",
         "@type": "Offer",
         "availability": "https://schema.org/InStock",
-        "availabilityStarts": "2020-11-15T09:10:55.678Z",
+        "availabilityStarts": "2022-11-29T21:01:27.893Z",
         "itemCondition": "https://schema.org/NewCondition",
         "offeredBy": "Coles",
-        "price": "1.00",
+        "price": "2.00",
         "priceCurrency": "AUD",
         "seller": {
           "@type": "Organization",
@@ -61,8 +55,8 @@
     ]
   },
   "sameAs": [
-    "https://shop.coles.com.au/a/richmond-south/product/europe-bars-honey-nougat-log"
+    "https://shop.coles.com.au/a/national/product/europe-bars-honey-nougat-log"
   ],
   "sku": "67850",
-  "updatedAt": "2020-11-15T09:10:55.678Z"
+  "updatedAt": "2022-11-29T21:01:27.893Z"
 }

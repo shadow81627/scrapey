@@ -1,0 +1,42 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Unit Price",
+      "value": "$2.90 per 1Ea"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2022-11-29T20:06:11.844Z",
+  "description": "Iceberg lettuce is the quintessential salad base due to its crisp sweet leaves that can be served whole, torn or shredded.",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/4/5/8/4584071.jpg",
+  "name": "Iceberg Lettuce",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2.9,
+    "lowPrice": 2.9,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-29T20:06:11.844Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "2.90",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/lettuce-iceberg"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/lettuce-iceberg"
+  ],
+  "sku": "4584071",
+  "updatedAt": "2022-11-29T20:06:11.844Z"
+}

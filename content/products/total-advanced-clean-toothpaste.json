@@ -7,54 +7,48 @@
     },
     {
       "name": "Contains",
-      "value": "Sodium Fluoride 0.32% w/w (equiv. 1450 ppm F). 1 Toothpaste"
+      "value": "Sodium Fluoride 0.32% w/w (equiv. to 1450 ppm F). 1 Toothpaste"
     },
     {
       "name": "Size",
-      "value": "115g"
+      "value": "200g"
     },
     {
       "name": "Unit Price",
-      "value": "$3.35 per 100G"
+      "value": "$5.00 per 100G"
     }
   ],
   "brand": "Colgate",
   "createdAt": "2020-11-15T12:30:20.000Z",
   "description": "Colgate Total Advanced Clean Toothpaste",
-  "image": {
-    "@type": "ImageObject",
-    "height": 300,
-    "mime": "image/jpeg",
-    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/4/0/3400854.jpg",
-    "width": 300
-  },
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/4/0/3400887.jpg",
   "name": "Total Advanced Clean Toothpaste",
   "offers": {
     "@type": "AggregateOffer",
-    "highPrice": 3.85,
-    "lowPrice": 3.85,
+    "highPrice": 10,
+    "lowPrice": 10,
     "offerCount": 1,
     "offers": [
       {
         "@context": "http://schema.org",
         "@type": "Offer",
         "availability": "https://schema.org/InStock",
-        "availabilityStarts": "2020-11-15T11:58:45.444Z",
+        "availabilityStarts": "2022-11-29T18:11:38.955Z",
         "itemCondition": "https://schema.org/NewCondition",
         "offeredBy": "Coles",
-        "price": "3.85",
+        "price": "10.00",
         "priceCurrency": "AUD",
         "seller": {
           "@type": "Organization",
           "name": "Coles"
         },
-        "url": "https://shop.coles.com.au/a/national/product/colgate-total-advanced-clean-toothpaste-3400854p"
+        "url": "https://shop.coles.com.au/a/national/product/colgate-total-advanced-clean-toothpaste"
       }
     ]
   },
   "sameAs": [
-    "https://shop.coles.com.au/a/national/product/colgate-total-advanced-clean-toothpaste-3400854p"
+    "https://shop.coles.com.au/a/national/product/colgate-total-advanced-clean-toothpaste"
   ],
-  "sku": "3400854",
-  "updatedAt": "2020-11-15T11:58:45.444Z"
+  "sku": "3400887",
+  "updatedAt": "2022-11-29T18:11:38.956Z"
 }

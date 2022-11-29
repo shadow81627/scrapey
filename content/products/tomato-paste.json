@@ -1,0 +1,58 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "<strong>INGREDIENTS:</strong> Tomato Paste."
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "3.4"
+    },
+    {
+      "name": "Size",
+      "value": "170g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.56 per 100G"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Product of China"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2022-11-29T19:47:15.563Z",
+  "description": "Coles tomato paste an essential pantry staple allowing you to create delicious flavoured meals by lifting the flavour",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/8/8/5885594.jpg",
+  "name": "Tomato Paste",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 0.95,
+    "lowPrice": 0.95,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-29T19:47:15.562Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "0.95",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-smart-buy-paste-tomato-5885594p"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/coles-smart-buy-paste-tomato-5885594p"
+  ],
+  "sku": "5885594",
+  "updatedAt": "2022-11-29T19:47:15.562Z"
+}

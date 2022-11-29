@@ -1,0 +1,58 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Extra Virgin Olive Oil"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "66.0"
+    },
+    {
+      "name": "Size",
+      "value": "1L"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.00 per 100mL"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Product of Spain"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2022-11-29T19:00:12.778Z",
+  "description": "Coles Extra Virgin Olive Oil 1 Litre a great oil for adding flavour to your food try it over your next salad",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/6/0/5607376.jpg",
+  "name": "Extra Virgin Olive Oil",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 10,
+    "lowPrice": 10,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-29T19:39:11.639Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "10.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-brand-oil-olive-extra-virgin-5607376p"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/coles-brand-oil-olive-extra-virgin-5607376p"
+  ],
+  "sku": "5607376",
+  "updatedAt": "2022-11-29T19:39:11.639Z"
+}

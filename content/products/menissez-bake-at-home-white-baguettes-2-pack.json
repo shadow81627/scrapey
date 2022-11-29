@@ -1,0 +1,58 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "Approx. 528kJ",
+      "carbohydrateContent": "Approx. 26g",
+      "dietary_fibre": "-",
+      "fatContent": "Approx. 0.5g",
+      "name": "nutrition",
+      "proteinContent": "Approx. 3.6g",
+      "saturatedFatContent": "Approx. 0.1g",
+      "servingSize": "100 g",
+      "sodiumContent": "Approx. 297mg",
+      "sugarContent": "Approx. 1.9g"
+    }
+  ],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Menissez"
+  },
+  "createdAt": "2022-11-29T21:09:48.892Z",
+  "gtin13": "9300633634414",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/573300.jpg",
+  "name": "Menissez Bake At Home White Baguettes 2 Pack",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": null,
+    "lowPrice": null,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/OutOfStock",
+        "availabilityStarts": "2022-11-29T21:09:48.892Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/573300/menissez-bake-at-home-white-baguettes"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/573300/menissez-bake-at-home-white-baguettes"
+  ],
+  "sku": "573300",
+  "updatedAt": "2022-11-29T21:09:48.892Z"
+}

@@ -1,0 +1,50 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "3 pack"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.07 per 1Ea"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Packed in Australia from imported materials"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2022-11-29T22:19:35.516Z",
+  "description": "Coles ULTRA paper towel has been specially developed to be extra absorbent, stay strong when wet and made from 100% virgin paper material. With 3 layers of paper and cushioned emboss pattern, it is suitable for all your needs at home.",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/5/6/3566529.jpg",
+  "name": "Ultra Paper Towel 3 Ply",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3.2,
+    "lowPrice": 3.2,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-29T22:19:35.515Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "3.20",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-ultra-3-ply-paper-towel"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/coles-ultra-3-ply-paper-towel"
+  ],
+  "sku": "3566529",
+  "updatedAt": "2022-11-29T22:19:35.516Z"
+}

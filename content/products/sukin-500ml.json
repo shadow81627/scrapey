@@ -1,0 +1,45 @@
+{
+  "@type": "Product",
+  "additionalProperty": [],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Sukin"
+  },
+  "createdAt": "2022-11-29T14:27:36.389Z",
+  "description": "<p>The&nbsp;Lime and Coconut Body Lotion refreshes and stimulates the senses, while a nourishing combination of Rosehip, Avocado and Jojoba Oils, along with Shea Butter and Cocoa Butter hydrate and smooth skin. An infusion of Aloe Vera, Nettle, Horsetail and Burdock restores the skin’s moisture barrier and helps to nourish dry skin.</p><br><p><strong>Product Features:</strong></p><ul><li>Lime and Coconut infused Hydrating Body Lotion</li><li>Refreshes and stimulates the senses with a zesty citrus, coconut burst</li><li>Nourishing combination of Rosehip, Avocado, and Jojoba Oils, along with Shea Butter and Cocoa Butter hydrate and smooth skin</li><li>An infusion of Aloe Vera, Nettle, Horsetail and Burdock restores the skin’s moisture barrier</li></ul><p>&nbsp;</p>",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/1073816092.jpg",
+  "name": "Sukin 500ML",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 16,
+    "lowPrice": 16,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-29T14:27:36.389Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 16,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/1073816092/sukin-hydrating-body-lotion-lime-coconut-500ml"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/1073816092/sukin-hydrating-body-lotion-lime-coconut-500ml"
+  ],
+  "sku": "1073816092",
+  "updatedAt": "2022-11-29T14:27:36.389Z"
+}

@@ -7,50 +7,44 @@
     },
     {
       "name": "Size",
-      "value": "500mL"
+      "value": "1L"
     },
     {
       "name": "Unit Price",
-      "value": "$3.80 per 100mL"
+      "value": "$2.30 per 100mL"
     }
   ],
   "brand": "Sukin",
   "createdAt": "2020-11-15T12:30:20.000Z",
   "description": "Sukin Hydrating Shampoo",
-  "image": {
-    "@type": "ImageObject",
-    "height": 300,
-    "mime": "image/jpeg",
-    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/9/9/2994119.jpg",
-    "width": 300
-  },
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/1/5/3154940.jpg",
   "name": "Hydrating Shampoo",
   "offers": {
     "@type": "AggregateOffer",
-    "highPrice": 19,
-    "lowPrice": 19,
+    "highPrice": 23,
+    "lowPrice": 23,
     "offerCount": 1,
     "offers": [
       {
         "@context": "http://schema.org",
         "@type": "Offer",
         "availability": "https://schema.org/InStock",
-        "availabilityStarts": "2022-11-24T08:09:15.314Z",
+        "availabilityStarts": "2022-11-29T18:30:06.996Z",
         "itemCondition": "https://schema.org/NewCondition",
         "offeredBy": "Coles",
-        "price": "19.00",
+        "price": "23.00",
         "priceCurrency": "AUD",
         "seller": {
           "@type": "Organization",
           "name": "Coles"
         },
-        "url": "https://shop.coles.com.au/a/national/product/sukin-hydrating-shampoo"
+        "url": "https://shop.coles.com.au/a/national/product/sukin-shampoo-hydrating"
       }
     ]
   },
   "sameAs": [
-    "https://shop.coles.com.au/a/national/product/sukin-hydrating-shampoo"
+    "https://shop.coles.com.au/a/national/product/sukin-shampoo-hydrating"
   ],
-  "sku": "2994119",
-  "updatedAt": "2022-11-24T08:09:15.314Z"
+  "sku": "3154940",
+  "updatedAt": "2022-11-29T18:30:06.996Z"
 }

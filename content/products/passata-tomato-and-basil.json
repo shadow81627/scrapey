@@ -1,0 +1,58 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "<strong>INGREDIENTS:</strong> Tomatoes (98%), Basil, Salt, Onion, Food Acid (Citric Acid)."
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "4.0"
+    },
+    {
+      "name": "Size",
+      "value": "700g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.28 per 100G"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Product of Italy"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2022-11-29T19:24:38.323Z",
+  "description": "Rich tomato sauce perfect for pasta and casseroles",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/7/8/9/7895566.jpg",
+  "name": "Passata Tomato & Basil",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 1.95,
+    "lowPrice": 1.95,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-29T19:24:38.322Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "1.95",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-pasta-sauce-basil"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/coles-pasta-sauce-basil"
+  ],
+  "sku": "7895566",
+  "updatedAt": "2022-11-29T19:24:38.322Z"
+}

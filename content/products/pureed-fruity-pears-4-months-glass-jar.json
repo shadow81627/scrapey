@@ -2,6 +2,22 @@
   "@type": "Product",
   "additionalProperty": [
     {
+      "name": "Ingredients",
+      "value": "Pear Puree (100%)."
+    },
+    {
+      "name": "Dietary",
+      "value": "No Preservatives"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "1.0"
+    },
+    {
+      "name": "Warning",
+      "value": "NOT RECOMMENDED FOR INFANTS UNDER THE AGE OF 4 MONTHS."
+    },
+    {
       "name": "Size",
       "value": "110g"
     },
@@ -13,13 +29,7 @@
   "brand": "Heinz",
   "createdAt": "2020-10-12T05:22:04.000Z",
   "description": "Heinz Pureed Fruity Pears 4+ Months Glass Jar",
-  "image": {
-    "@type": "ImageObject",
-    "height": 300,
-    "mime": "image/jpeg",
-    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/1/6/6/166353.jpg",
-    "width": 300
-  },
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/1/6/6/166353.jpg",
   "name": "Pureed Fruity Pears 4+ Months Glass Jar",
   "offers": {
     "@type": "AggregateOffer",
@@ -31,7 +41,7 @@
         "@context": "http://schema.org",
         "@type": "Offer",
         "availability": "https://schema.org/InStock",
-        "availabilityStarts": "2020-11-21T10:14:13.286Z",
+        "availabilityStarts": "2022-11-29T18:06:43.733Z",
         "itemCondition": "https://schema.org/NewCondition",
         "offeredBy": "Coles",
         "price": "1.00",
@@ -45,8 +55,8 @@
     ]
   },
   "sameAs": [
-    "https://shop.coles.com.au/a/sunnybank-hills/product/heinz-4-6-months-pureed-fruity-pear"
+    "https://shop.coles.com.au/a/national/product/heinz-4-6-months-pureed-fruity-pear"
   ],
   "sku": "166353",
-  "updatedAt": "2020-11-21T10:14:13.286Z"
+  "updatedAt": "2022-11-29T18:06:43.733Z"
 }

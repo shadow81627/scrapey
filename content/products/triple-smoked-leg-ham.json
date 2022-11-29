@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "approx. 100g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$30.00 per 1Kg"
+    }
+  ],
+  "brand": "Bertocchi",
+  "createdAt": "2022-11-29T13:27:51.579Z",
+  "description": "At Bertocchi we combine traditional recipes, hand craftsmanship and state of the art food processing technology to deliver the finest range of European smallgoods. Smallgoods that are rich in the unique and authentic traditions from Europe.",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/1/8/9/1890118.jpg",
+  "name": "Triple Smoked Leg Ham",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3,
+    "lowPrice": 3,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-29T13:27:51.579Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "3.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-deli-sliced-bertocchi-triple-smoked-leg-ham"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/coles-deli-sliced-bertocchi-triple-smoked-leg-ham"
+  ],
+  "sku": "1890118",
+  "updatedAt": "2022-11-29T13:27:51.579Z"
+}

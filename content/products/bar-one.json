@@ -1,0 +1,50 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "55g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$4.18 per 100G"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Made in South Africa"
+    }
+  ],
+  "brand": "Nestle",
+  "createdAt": "2022-11-29T17:48:42.319Z",
+  "description": "Nestle Bar One",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/5/0/3501261.jpg",
+  "name": "Bar One",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2.3,
+    "lowPrice": 2.3,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-29T17:48:42.318Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "2.30",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/nestle-bar-one"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/nestle-bar-one"
+  ],
+  "sku": "3501261",
+  "updatedAt": "2022-11-29T17:48:42.318Z"
+}

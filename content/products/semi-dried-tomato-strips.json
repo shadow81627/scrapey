@@ -2,12 +2,24 @@
   "@type": "Product",
   "additionalProperty": [
     {
+      "name": "Ingredients",
+      "value": "Semi-dried tomatoes (99.7%), preservative sulphur dioxide, glucose, salt."
+    },
+    {
+      "name": "Allergen",
+      "value": "Free From Cereals, Contains Sulphites"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "5.0"
+    },
+    {
       "name": "Size",
       "value": "125g"
     },
     {
       "name": "Unit Price",
-      "value": "$32.00 per 1Kg"
+      "value": "$36.00 per 1Kg"
     },
     {
       "name": "Country Of Origin",
@@ -17,28 +29,22 @@
   "brand": "Sandhurst",
   "createdAt": "2020-10-12T05:22:04.000Z",
   "description": "Sandhurst Semi-Dried Tomato Strips",
-  "image": {
-    "@type": "ImageObject",
-    "height": 300,
-    "mime": "image/jpeg",
-    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/1/9/9/1997199.jpg",
-    "width": 300
-  },
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/1/9/9/1997199.jpg",
   "name": "Semi-Dried Tomato Strips",
   "offers": {
     "@type": "AggregateOffer",
-    "highPrice": 4,
-    "lowPrice": 4,
+    "highPrice": 4.5,
+    "lowPrice": 4.5,
     "offerCount": 1,
     "offers": [
       {
         "@context": "http://schema.org",
         "@type": "Offer",
         "availability": "https://schema.org/InStock",
-        "availabilityStarts": "2020-11-15T08:49:39.658Z",
+        "availabilityStarts": "2022-11-29T20:44:21.702Z",
         "itemCondition": "https://schema.org/NewCondition",
         "offeredBy": "Coles",
-        "price": "4.00",
+        "price": "4.50",
         "priceCurrency": "AUD",
         "seller": {
           "@type": "Organization",
@@ -49,8 +55,8 @@
     ]
   },
   "sameAs": [
-    "https://shop.coles.com.au/a/sunnybank-hills/product/sandhurst-semi-dried-tomato-strips"
+    "https://shop.coles.com.au/a/national/product/sandhurst-semi-dried-tomato-strips"
   ],
   "sku": "1997199",
-  "updatedAt": "2020-11-15T08:49:39.658Z"
+  "updatedAt": "2022-11-29T20:44:21.702Z"
 }

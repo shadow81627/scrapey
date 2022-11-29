@@ -1,0 +1,54 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "MUNG BEANS"
+    },
+    {
+      "name": "Contains",
+      "value": "BEAN SPROUTS"
+    },
+    {
+      "name": "Size",
+      "value": "250g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$9.60 per 1Kg"
+    }
+  ],
+  "brand": "Aussie Sprouts",
+  "createdAt": "2022-11-29T16:42:27.464Z",
+  "description": "Aussie Sprouts Bean Shoots Prepacked",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/4/5/4/4544770.jpg",
+  "name": "Bean Shoots Prepacked",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2.4,
+    "lowPrice": 2.4,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-29T16:42:27.463Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "2.40",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/sprouts-bean-shoots-prepacked"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/sprouts-bean-shoots-prepacked"
+  ],
+  "sku": "4544770",
+  "updatedAt": "2022-11-29T16:42:27.463Z"
+}

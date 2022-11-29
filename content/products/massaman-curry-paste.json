@@ -2,12 +2,16 @@
   "@type": "Product",
   "additionalProperty": [
     {
+      "name": "Ingredients",
+      "value": "Sunflower oil, garlic, shallot, water, lemongrass, galangal, dried red chilli, salt, coriander seed, shrimp paste (shrimp, salt), cumin, modified tapioca starch (1442), cardamom, nutmeg, mace, cinnamon, acidity regulator (330)"
+    },
+    {
       "name": "Size",
       "value": "210g"
     },
     {
       "name": "Unit Price",
-      "value": "$1.52 per 100G"
+      "value": "$1.62 per 100G"
     },
     {
       "name": "Country Of Origin",
@@ -16,29 +20,23 @@
   ],
   "brand": "Valcom",
   "createdAt": "2020-10-12T05:22:04.000Z",
-  "description": "Valcom Massaman Curry Paste",
-  "image": {
-    "@type": "ImageObject",
-    "height": 300,
-    "mime": "image/jpeg",
-    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/6/8/2/6823377.jpg",
-    "width": 300
-  },
+  "description": "This mild Thai curry, originating from India, is made from natural Thai herbs and spices, ideal for chicken or beef. Gluten Free. No artificial preservatives or colouring added. Mild",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/6/8/2/6823377.jpg",
   "name": "Massaman Curry Paste",
   "offers": {
     "@type": "AggregateOffer",
-    "highPrice": 3.2,
-    "lowPrice": 3.2,
+    "highPrice": 3.4,
+    "lowPrice": 3.4,
     "offerCount": 1,
     "offers": [
       {
         "@context": "http://schema.org",
         "@type": "Offer",
         "availability": "https://schema.org/InStock",
-        "availabilityStarts": "2020-11-15T09:15:55.032Z",
+        "availabilityStarts": "2022-11-29T20:53:50.948Z",
         "itemCondition": "https://schema.org/NewCondition",
         "offeredBy": "Coles",
-        "price": "3.20",
+        "price": "3.40",
         "priceCurrency": "AUD",
         "seller": {
           "@type": "Organization",
@@ -49,8 +47,8 @@
     ]
   },
   "sameAs": [
-    "https://shop.coles.com.au/a/sunnybank-hills/product/valcom-paste-massaman-curry"
+    "https://shop.coles.com.au/a/national/product/valcom-paste-massaman-curry"
   ],
   "sku": "6823377",
-  "updatedAt": "2020-11-15T09:15:55.032Z"
+  "updatedAt": "2022-11-29T20:53:50.948Z"
 }

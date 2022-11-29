@@ -1,0 +1,58 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Allergen",
+      "value": "May Contain Egg, May Contain Crustacea, May Contain Milk, May Contain Fish, Contains Wheat"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "1.0"
+    },
+    {
+      "name": "Size",
+      "value": "90g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.11 per 100G"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Made in Thailand"
+    }
+  ],
+  "brand": "Mama",
+  "createdAt": "2022-11-29T17:21:39.740Z",
+  "description": "Mama Pork noodle is a well-known authentic Thai flavour, created by Thailand's number one noodle brand - Mama! This 90g pack noodle is a jumbo pack size than the regular for better value.",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/7/3/3736913.jpg",
+  "name": "Pork Noodles Jumbo Pack",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 1,
+    "lowPrice": 1,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-29T17:21:39.739Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "1.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/mama-pork-nodles-jumbo-pack"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/mama-pork-nodles-jumbo-pack"
+  ],
+  "sku": "3736913",
+  "updatedAt": "2022-11-29T17:21:39.739Z"
+}

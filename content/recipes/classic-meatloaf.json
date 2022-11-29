@@ -13,13 +13,12 @@
   "createdAt": "2022-11-25T13:16:17.000Z",
   "datePublished": "2021-09-27T10:38:38+00:00",
   "description": "This classic meatloaf recipe is just like the traditional meatloaf grandma used to make. Tender and juicy with the perfect tomato glaze!",
-  "image": {
-    "@type": "ImageObject",
-    "height": 900,
-    "mime": "image/jpeg",
-    "url": "https://www.budgetbytes.com/wp-content/uploads/2021/09/Classic-Meatloaf-side.jpg",
-    "width": 1200
-  },
+  "image": [
+    "https://www.budgetbytes.com/wp-content/uploads/2021/09/Classic-Meatloaf-side.jpg",
+    "https://www.budgetbytes.com/wp-content/uploads/2021/09/Classic-Meatloaf-side-500x500.jpg",
+    "https://www.budgetbytes.com/wp-content/uploads/2021/09/Classic-Meatloaf-side-500x375.jpg",
+    "https://www.budgetbytes.com/wp-content/uploads/2021/09/Classic-Meatloaf-side-480x270.jpg"
+  ],
   "keywords": "Comfort Food, Ground Beef Recipes, meatloaf",
   "name": "Classic Meatloaf",
   "nutrition": {
@@ -75,10 +74,10 @@
   ],
   "recipeYield": "10",
   "sameAs": [
-    "https://budgetbytes.com/classic-homemade-meatloaf"
+    "https://budgetbytes.com/classic-homemade-meatloaf/comment-page-3"
   ],
   "totalTime": "PT65M",
-  "updatedAt": "2022-11-25T11:12:01.171Z",
+  "updatedAt": "2022-11-29T20:03:11.458Z",
   "video": {
     "@type": "VideoObject",
     "contentUrl": "https://mediavine-res.cloudinary.com/video/upload/t_original/v1635096220/mijnybtvnsfru3wxqwz3.mp4",

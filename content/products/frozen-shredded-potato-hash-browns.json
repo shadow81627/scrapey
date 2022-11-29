@@ -1,0 +1,54 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Potato (88%), Vegetable Oil, Corn Flour, Salt."
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "10.0"
+    },
+    {
+      "name": "Size",
+      "value": "750g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$4.67 per 1Kg"
+    }
+  ],
+  "brand": "McCain",
+  "createdAt": "2022-11-29T18:40:58.506Z",
+  "description": "An all time breaky favourite, McCain Hash Browns are crispy and golden on the outside & fluffy on the inside.",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/8/2/1/8217844.jpg",
+  "name": "Frozen Shredded Potato Hash Browns",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3.5,
+    "lowPrice": 3.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-29T18:40:58.505Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "3.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/mccain-hashbrown-shredded-potato"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/mccain-hashbrown-shredded-potato"
+  ],
+  "sku": "8217844",
+  "updatedAt": "2022-11-29T18:40:58.505Z"
+}

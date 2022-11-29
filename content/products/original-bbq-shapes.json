@@ -3,7 +3,7 @@
   "additionalProperty": [
     {
       "name": "Ingredients",
-      "value": "Wheat Flour, Vegetable Oil, Starch (Wheat), Salt, Tomato Powder, Yeast, Garlic, Parsley, Sugar, Worcestershire Sauce, Onion Powder Baking Powder, Natural Flavour, Vegetable Protein Extract (from Maize), Spices, Antioxidants (E300, E307b From Soy, E304), Flavour Enhancer (E635), Emulsifier (Soy Lecithin), Malt Extract (From Barley)."
+      "value": "Wheat Flour, Vegetable Oil, Starch (Wheat), Salt, Tomato Powder, Yeast, Garlic, Parsley, Sugar, Worcestershire Sauce, Onion Powder, Baking Powder, Natural Flavour, Vegetable Protein Extract (from Maize), Spices, Antioxidants (E300, E307b From Soy, E304), Flavour Enhancer (E635), Emulsifier (Soy Lecithin), Malt Extract (From Barley)."
     },
     {
       "name": "Contains",
@@ -11,7 +11,7 @@
     },
     {
       "name": "Allergen",
-      "value": "Contains Cereals Containing Gluten, May Be Present Egg, May Be Present Peanuts, Contains Barley, May Be Present Tree Nuts, May Be Present Sesame, Contains Soy, May Be Present Milk, Contains Wheat"
+      "value": "May Be Present Sesame, May Be Present Milk, Contains Barley, May Be Present Tree Nuts, May Be Present Peanuts, Contains Soy, Contains Wheat, Contains Cereals Containing Gluten, May Be Present Egg"
     },
     {
       "name": "Servings Per Pack",
@@ -27,7 +27,7 @@
     },
     {
       "name": "Unit Price",
-      "value": "$1.43 per 100G"
+      "value": "$2.00 per 100G"
     },
     {
       "name": "Country Of Origin",
@@ -36,29 +36,23 @@
   ],
   "brand": "Arnott's",
   "createdAt": "2020-11-15T12:30:20.000Z",
-  "description": "No artificial colours, flavours or preservativesFoil wrapped for freshnessOven baked not fried",
-  "image": {
-    "@type": "ImageObject",
-    "height": 300,
-    "mime": "image/jpeg",
-    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/7/3/2734446.jpg",
-    "width": 300
-  },
+  "description": "Arnott's Original BBQ Shapes",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/7/3/2734446.jpg",
   "name": "Original BBQ Shapes",
   "offers": {
     "@type": "AggregateOffer",
-    "highPrice": 2.5,
-    "lowPrice": 2.5,
+    "highPrice": 3.5,
+    "lowPrice": 3.5,
     "offerCount": 1,
     "offers": [
       {
         "@context": "http://schema.org",
         "@type": "Offer",
         "availability": "https://schema.org/InStock",
-        "availabilityStarts": "2020-11-15T10:21:44.923Z",
+        "availabilityStarts": "2022-11-29T22:10:31.513Z",
         "itemCondition": "https://schema.org/NewCondition",
         "offeredBy": "Coles",
-        "price": "2.50",
+        "price": "3.50",
         "priceCurrency": "AUD",
         "seller": {
           "@type": "Organization",
@@ -69,8 +63,8 @@
     ]
   },
   "sameAs": [
-    "https://shop.coles.com.au/a/sunnybank-hills/product/arnotts-original-bbq-shapes"
+    "https://shop.coles.com.au/a/national/product/arnotts-original-bbq-shapes"
   ],
   "sku": "2734446",
-  "updatedAt": "2020-11-15T10:21:44.923Z"
+  "updatedAt": "2022-11-29T22:10:31.513Z"
 }

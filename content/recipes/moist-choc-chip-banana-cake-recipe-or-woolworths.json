@@ -1,21 +1,32 @@
 {
   "@type": "Recipe",
+  "author": {
+    "@type": "Person",
+    "name": "Fresh Ideas"
+  },
   "cookTime": "PT45M",
   "createdAt": "2022-11-24T22:03:11.000Z",
-  "datePublished": "2021-03-10",
+  "datePublished": "2022-09-26",
   "description": "Try our easy to follow Moist Choc-Chip Banana Cake recipe. Absolutely delicious with the best ingredients from Woolworths.",
-  "image": {
-    "@type": "ImageObject",
-    "height": 1300,
-    "mime": "image/png",
-    "url": "https://foodhub.scene7.com/is/image/woolworthsltdprod/1801-moist-choc-chip-banana-cake?wid=1300&hei=1300&fmt=png-alpha",
-    "width": 1300
-  },
-  "keywords": "Moist Choc-Chip Banana Cake",
+  "image": [
+    "https://foodhub.scene7.com/is/image/woolworthsltdprod/1801-moist-choc-chip-banana-cake:Square-1300x1300"
+  ],
+  "keywords": "Banana bread,Pescatarian,Halal,Seafood free,Low salt,Vegetarian,Baking",
   "name": "Moist Choc-Chip Banana Cake Recipe | Woolworths",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "476 calories",
+    "carbohydrateContent": "61.4 g",
+    "fatContent": "21.8 g",
+    "fiberContent": "2.6 g",
+    "proteinContent": "7.4 g",
+    "saturatedFatContent": "11.6 g",
+    "sodiumContent": "121 millig",
+    "sugarContent": "41.1 g"
+  },
   "prepTime": "PT15M",
-  "recipeCategory": "desserts",
-  "recipeCuisine": "north-american",
+  "recipeCategory": "Desserts",
+  "recipeCuisine": "North American",
   "recipeId": "7151",
   "recipeIngredient": [
     "1 tsp vanilla",
@@ -23,35 +34,35 @@
     "1.5 cup plain flour",
     "0.75 cup milk",
     "1 cup white sugar",
-    "100 g unsalted butter",
-    "3 ripe bananas",
+    "100g unsalted butter, softened",
+    "3 ripe bananas, mashed",
     "0.5 tsp bicarbonate of soda",
     "2 eggs",
-    "0.5 cup walnuts"
+    "0.5 cup walnuts, roughly chopped (optional)"
   ],
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Add flour, bicarbonate of soda and milk alternatively. Stir in mashed banana and 3/4 of choc chips and walnuts, if using. Stir until combined. Pour mixture into prepared pan, smooth top and sprinkle with remaining choc chips. Bake for 45 minutes or until a skewer comes out clean when inserted into centre of the cake. Stand for 10 minutes before turning out onto a wire rack to cool. Slice and serve."
+      "HowToTip": {},
+      "text": "Preheat oven to 180°C. Grease and line a 20 x 10 x 7cm (7-cup capacity) deep loaf tin with baking paper."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Add flour, bicarbonate of soda and milk alternatively. Stir in mashed banana and 3/4 of choc chips and walnuts, if using. Stir until combined. Pour mixture into prepared pan, smooth top and sprinkle with remaining choc chips. Bake for 45 minutes or until a skewer comes out clean when inserted into centre of the cake. Stand for 10 minutes before turning out onto a wire rack to cool. Slice and serve."
+      "HowToTip": {},
+      "text": "Beat butter and sugar together with electric beaters until pale and creamy. Add eggs, one at a time, and beat until just combined. Add vanilla and beat until combined."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
+      "HowToTip": {},
       "text": "Add flour, bicarbonate of soda and milk alternatively. Stir in mashed banana and 3/4 of choc chips and walnuts, if using. Stir until combined. Pour mixture into prepared pan, smooth top and sprinkle with remaining choc chips. Bake for 45 minutes or until a skewer comes out clean when inserted into centre of the cake. Stand for 10 minutes before turning out onto a wire rack to cool. Slice and serve."
     }
   ],
   "recipeNameId": "moist-choc-chip-banana-cake",
   "recipeYield": "8",
   "sameAs": [
-    "https://woolworths.com.au/shop/find-recipes/banana-cake-moist"
+    "https://woolworths.com.au/shop/recipes/moist-choc-chip-banana-cake"
   ],
   "totalTime": "PT60M",
-  "updatedAt": "2022-11-24T14:23:09.538Z",
+  "updatedAt": "2022-11-29T17:31:37.947Z",
   "url": "https://www.woolworths.com.au/shop/recipes/moist-choc-chip-banana-cake"
 }

@@ -1,0 +1,45 @@
+{
+  "@type": "Product",
+  "additionalProperty": [],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Bic"
+  },
+  "createdAt": "2022-11-29T14:25:08.203Z",
+  "description": "Shave your way to a more colourful life with this pack of 8 brightly coloured razors to match your every mood. BIC Soleil Colour Collection of women’s razors contains&nbsp;four BIC Soleil Lady razors and&nbsp;four BIC Soleil Scent razors. The curved handles are designed for women's shaving and have&nbsp;two soft rubber grips for excellent control. They all feature twin lubricating strips enriched with Vitamin E and Aloe Vera.&nbsp;Each razor contains three high-quality stainless steel blades for a close shave.\n<br>",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/1073814404.jpg",
+  "name": "Bic 8EA",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 5,
+    "lowPrice": 5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-29T14:25:08.202Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 5,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/1073814404/bic-soleil-colour-collection-disposable-razor-8-pack"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/1073814404/bic-soleil-colour-collection-disposable-razor-8-pack"
+  ],
+  "sku": "1073814404",
+  "updatedAt": "2022-11-29T14:25:08.202Z"
+}

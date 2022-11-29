@@ -4,28 +4,22 @@
   "brand": "Magazine",
   "createdAt": "2020-11-15T12:30:20.000Z",
   "description": "Cover may not depict edition offered for sale.",
-  "image": {
-    "@type": "ImageObject",
-    "height": 300,
-    "mime": "image/jpeg",
-    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/1/4/3/1438110.jpg",
-    "width": 300
-  },
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/1/4/3/1438110.jpg",
   "name": "Australian Country Style",
   "offers": {
     "@type": "AggregateOffer",
-    "highPrice": 8.5,
-    "lowPrice": 8.5,
+    "highPrice": 8.99,
+    "lowPrice": 8.99,
     "offerCount": 1,
     "offers": [
       {
         "@context": "http://schema.org",
         "@type": "Offer",
         "availability": "https://schema.org/InStock",
-        "availabilityStarts": "2020-11-15T11:06:49.691Z",
+        "availabilityStarts": "2022-11-29T18:17:17.818Z",
         "itemCondition": "https://schema.org/NewCondition",
         "offeredBy": "Coles",
-        "price": "8.50",
+        "price": "8.99",
         "priceCurrency": "AUD",
         "seller": {
           "@type": "Organization",
@@ -36,8 +30,8 @@
     ]
   },
   "sameAs": [
-    "https://shop.coles.com.au/a/sunnybank-hills/product/australian-country-style-magazine"
+    "https://shop.coles.com.au/a/national/product/australian-country-style-magazine"
   ],
   "sku": "1438110",
-  "updatedAt": "2020-11-15T11:06:49.691Z"
+  "updatedAt": "2022-11-29T18:17:17.818Z"
 }

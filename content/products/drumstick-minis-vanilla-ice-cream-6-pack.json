@@ -1,0 +1,58 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Allergen",
+      "value": "Contains Soybean, Contains Peanuts, Contains Wheat, Contains Milk"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "6.0"
+    },
+    {
+      "name": "Size",
+      "value": "490mL"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.97 per 100mL"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Product of Australia"
+    }
+  ],
+  "brand": "Peters",
+  "createdAt": "2022-11-29T20:42:08.904Z",
+  "description": "Mini-sized smooth vanilla ice cream, topped with lush chocolate sauce and crunchy peanuts. All in a crispy wafer cone with a delicious choccy tip! The perfect size for snacking.",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/8/6/5863445.jpg",
+  "name": "Drumstick Minis Vanilla Ice Cream 6 pack",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 4.75,
+    "lowPrice": 4.75,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-29T20:42:08.904Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "4.75",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/nestle-peters-drumstick-ice-cream-vanilla-minis-6-pack"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/nestle-peters-drumstick-ice-cream-vanilla-minis-6-pack"
+  ],
+  "sku": "5863445",
+  "updatedAt": "2022-11-29T20:42:08.904Z"
+}

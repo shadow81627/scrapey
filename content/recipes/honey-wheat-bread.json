@@ -2,7 +2,7 @@
   "@type": "Recipe",
   "aggregateRating": {
     "@type": "AggregateRating",
-    "ratingCount": "22",
+    "ratingCount": "23",
     "ratingValue": "4.87"
   },
   "author": {
@@ -13,13 +13,12 @@
   "createdAt": "2022-11-25T13:16:17.000Z",
   "datePublished": "2022-11-09T08:29:48+00:00",
   "description": "This homemade Honey Wheat Bread is soft, fluffy, flavorful, and perfect for breakfast toast and all of your favorite sandwiches.",
-  "image": {
-    "@type": "ImageObject",
-    "height": 900,
-    "mime": "image/jpeg",
-    "url": "https://www.budgetbytes.com/wp-content/uploads/2022/10/Honey-Wheat-Bread-butter.jpg",
-    "width": 1200
-  },
+  "image": [
+    "https://www.budgetbytes.com/wp-content/uploads/2022/10/Honey-Wheat-Bread-butter.jpg",
+    "https://www.budgetbytes.com/wp-content/uploads/2022/10/Honey-Wheat-Bread-butter-500x500.jpg",
+    "https://www.budgetbytes.com/wp-content/uploads/2022/10/Honey-Wheat-Bread-butter-500x375.jpg",
+    "https://www.budgetbytes.com/wp-content/uploads/2022/10/Honey-Wheat-Bread-butter-480x270.jpg"
+  ],
   "keywords": "Homemade Bread, Honey Wheat, Wheat Bread",
   "name": "Honey Wheat Bread",
   "nutrition": {
@@ -92,8 +91,8 @@
   ],
   "recipeYield": "12",
   "sameAs": [
-    "https://budgetbytes.com/honey-wheat-sandwich-bread"
+    "https://budgetbytes.com/honey-wheat-sandwich-bread?_gl=1*1gb4hnv*_ga*WHBnTGJUaG9zNUkxZEN5VEF3cjZBejltVnYyQ0doYXlWYnJzOTJmV0owdFJlVnUyQUdkNXBuakMxS1YxOW9LOQ.."
   ],
   "totalTime": "PT180M",
-  "updatedAt": "2022-11-25T11:13:46.379Z"
+  "updatedAt": "2022-11-29T20:37:49.633Z"
 }

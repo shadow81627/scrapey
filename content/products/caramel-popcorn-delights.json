@@ -2,12 +2,24 @@
   "@type": "Product",
   "additionalProperty": [
     {
+      "name": "Ingredients",
+      "value": "Popping Corn (47%), Vegetable Oil, Cane & Raw Sugar, Caramel & Butter Flavours, Soy Lecithin."
+    },
+    {
+      "name": "Allergen",
+      "value": "Contains Soybean"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "7.1"
+    },
+    {
       "name": "Size",
       "value": "142g"
     },
     {
       "name": "Unit Price",
-      "value": "$1.97 per 100G"
+      "value": "$1.41 per 100G"
     },
     {
       "name": "Country Of Origin",
@@ -17,28 +29,22 @@
   "brand": "Jonny's",
   "createdAt": "2020-10-12T05:22:04.000Z",
   "description": "Jonny's Caramel Popcorn Delights",
-  "image": {
-    "@type": "ImageObject",
-    "height": 300,
-    "mime": "image/jpeg",
-    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/5/3/3531546.jpg",
-    "width": 300
-  },
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/5/3/3531546.jpg",
   "name": "Caramel Popcorn Delights",
   "offers": {
     "@type": "AggregateOffer",
-    "highPrice": 2.8,
-    "lowPrice": 2.8,
+    "highPrice": 2,
+    "lowPrice": 2,
     "offerCount": 1,
     "offers": [
       {
         "@context": "http://schema.org",
         "@type": "Offer",
         "availability": "https://schema.org/InStock",
-        "availabilityStarts": "2020-11-15T11:46:16.098Z",
+        "availabilityStarts": "2022-11-29T19:49:01.812Z",
         "itemCondition": "https://schema.org/NewCondition",
         "offeredBy": "Coles",
-        "price": "2.80",
+        "price": "2.00",
         "priceCurrency": "AUD",
         "seller": {
           "@type": "Organization",
@@ -49,8 +55,8 @@
     ]
   },
   "sameAs": [
-    "https://shop.coles.com.au/a/sunnybank-hills/product/jonnys-popcorn-delights-caramel-3531546p"
+    "https://shop.coles.com.au/a/national/product/jonnys-popcorn-delights-caramel-3531546p"
   ],
   "sku": "3531546",
-  "updatedAt": "2020-11-15T11:46:16.098Z"
+  "updatedAt": "2022-11-29T19:49:01.812Z"
 }

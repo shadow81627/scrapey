@@ -1,0 +1,60 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "1440",
+      "carbohydrateContent": "2.4",
+      "dietary_fibre": "0.25g",
+      "fatContent": "25.5",
+      "name": "nutrition",
+      "proteinContent": "25.8",
+      "saturatedFatContent": "9.4",
+      "servingSize": "100 g",
+      "sodiumContent": "1430",
+      "sugarContent": "2.4"
+    }
+  ],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Primo"
+  },
+  "createdAt": "2022-11-29T20:54:33.382Z",
+  "description": "Primo Chorizo is inspired by the flavours of Spain, this sausage is made from finely minced pork and spiced with paprika for a full, strong flavour. Manufactured meat.",
+  "gtin13": "9311594046062",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/328005.jpg",
+  "name": "Primo Chorizo 2 Pack 2 Pack",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 6.8,
+    "lowPrice": 6.8,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-29T20:54:33.381Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 6.8,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/328005/primo-chorizo-2-pack"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/328005/primo-chorizo-2-pack"
+  ],
+  "sku": "328005",
+  "updatedAt": "2022-11-29T20:54:33.381Z"
+}

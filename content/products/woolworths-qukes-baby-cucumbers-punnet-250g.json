@@ -1,0 +1,66 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "-",
+      "carbohydrateContent": "-",
+      "dietary_fibre": "-",
+      "fatContent": "-",
+      "name": "nutrition",
+      "proteinContent": "-",
+      "saturatedFatContent": "-",
+      "servingSize": "100 g",
+      "sodiumContent": "-",
+      "sugarContent": "-"
+    }
+  ],
+  "aggregateRating": {
+    "@context": "http://schema.org",
+    "@type": "AggregateRating",
+    "ratingCount": 357,
+    "ratingValue": 4.72549019607843
+  },
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Woolworths"
+  },
+  "createdAt": "2022-11-29T20:44:00.105Z",
+  "description": " Woolworths Qukes Baby Lebanese Cucumber you will find the perfect serving size with these sweet and crunchy cucumbers - full of flavour and so convenient.",
+  "gtin13": "9300633001674",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/169067.jpg",
+  "name": "Woolworths Qukes Baby Cucumbers Punnet 250G",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3,
+    "lowPrice": 3,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-29T20:44:00.103Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 3,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/169067/woolworths-qukes-baby-cucumbers-punnet"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/169067/woolworths-qukes-baby-cucumbers-punnet"
+  ],
+  "sku": "169067",
+  "updatedAt": "2022-11-29T20:44:00.103Z"
+}

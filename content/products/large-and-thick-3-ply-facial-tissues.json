@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "95 pack"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$3.16 per 100Ea"
+    }
+  ],
+  "brand": "Kleenex",
+  "createdAt": "2022-11-29T19:28:10.606Z",
+  "description": "Kleenex Large & Thick 3 Ply Facial Tissues",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/9/3/3/9333818.jpg",
+  "name": "Large & Thick 3 Ply Facial Tissues",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3,
+    "lowPrice": 3,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-29T19:28:10.605Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "3.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/kleenex-large-n-thick-facial-tissues-3-ply"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/kleenex-large-n-thick-facial-tissues-3-ply"
+  ],
+  "sku": "9333818",
+  "updatedAt": "2022-11-29T19:28:10.605Z"
+}

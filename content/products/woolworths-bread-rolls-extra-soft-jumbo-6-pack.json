@@ -1,0 +1,66 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "1020.00kJ",
+      "carbohydrateContent": "41.40g",
+      "dietary_fibre": "2.90g",
+      "fatContent": "3.70g",
+      "name": "nutrition",
+      "proteinContent": "9.00g",
+      "saturatedFatContent": "0.90g",
+      "servingSize": "100 g",
+      "sodiumContent": "316.00mg",
+      "sugarContent": "0.90g"
+    }
+  ],
+  "aggregateRating": {
+    "@context": "http://schema.org",
+    "@type": "AggregateRating",
+    "ratingCount": 30,
+    "ratingValue": 4.66666666666667
+  },
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Woolworths"
+  },
+  "createdAt": "2022-11-29T20:45:43.822Z",
+  "description": "<p></p>",
+  "gtin13": "0280085000007",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/201257.jpg",
+  "name": "Woolworths Bread Rolls Extra Soft Jumbo 6 Pack",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2.85,
+    "lowPrice": 2.85,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-29T20:45:43.818Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 2.85,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/201257/woolworths-bread-rolls-extra-soft-jumbo"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/201257/woolworths-bread-rolls-extra-soft-jumbo"
+  ],
+  "sku": "201257",
+  "updatedAt": "2022-11-29T20:45:43.818Z"
+}

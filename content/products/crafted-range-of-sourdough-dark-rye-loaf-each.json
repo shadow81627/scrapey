@@ -1,0 +1,66 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "1070.00kJ",
+      "carbohydrateContent": "45.80g",
+      "dietary_fibre": "5.30g",
+      "fatContent": "2.20g",
+      "name": "nutrition",
+      "proteinContent": "10.10g",
+      "saturatedFatContent": "1.00g",
+      "servingSize": "100 g",
+      "sodiumContent": "472.00mg",
+      "sugarContent": "1.30g"
+    }
+  ],
+  "aggregateRating": {
+    "@context": "http://schema.org",
+    "@type": "AggregateRating",
+    "ratingCount": 403,
+    "ratingValue": 4.35483870967742
+  },
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Crafted Range"
+  },
+  "createdAt": "2022-11-29T21:04:13.655Z",
+  "description": "<strong>Dark Rye Sourdough Loaf</strong><br><br>\nA rustic rye sourdough with dark caramelized crust, boasting sensational malt flavours.\n<br><br>Proudly made with Australian wheat flour, these sourdough bread recipes have been crafted by an expert artisan baker. Using time honoured methods, the 40 hour recipe loaves begin with a traditional culture, are slowly fermented then hand shaped and rested before being fully baked on stone. Finished in our in-store ovens, these loaves have an intense sourdough flavour, with a perfect crust and wonderful open texture.\n<div>Find out more <a href=\"https://www.woolworths.com.au/shop/discover/our-brands/woolworths-range/sourdough?icmpid=sm-vurl-sourdough\" target=\"_blank\">here</a>.</div>\n<br><br>- No Added Yeast\n<br>- Naturally Leavened\n<br>- Hand Shaped",
+  "gtin13": "0286270000005",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/097078.jpg",
+  "name": "Crafted Range Of Sourdough Dark Rye Loaf Each",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 7,
+    "lowPrice": 7,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-29T21:04:13.654Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 7,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/97078/crafted-range-of-sourdough-dark-rye-loaf"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/97078/crafted-range-of-sourdough-dark-rye-loaf"
+  ],
+  "sku": "97078",
+  "updatedAt": "2022-11-29T21:04:13.654Z"
+}

@@ -1,0 +1,58 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "<strong>INGREDIENTS:</strong> Pink Lady Apple (59%), Refined Fruit Juice [Apple, Grape, Peach, Pear], Acidity Regulator (330)."
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "3.3"
+    },
+    {
+      "name": "Warning",
+      "value": "Food Warnings: May contain seed fragments. May contain seeds. May contain stems."
+    },
+    {
+      "name": "Size",
+      "value": "410g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$4.88 per 1Kg"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2022-11-29T15:31:11.504Z",
+  "description": "Australian",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/1/8/5/1857270.jpg",
+  "name": "Australian Pink Lady Apple Slices In Juice",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2,
+    "lowPrice": 2,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-29T15:31:11.503Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "2.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-apple-slices-in-natural-juice-canned"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/coles-apple-slices-in-natural-juice-canned"
+  ],
+  "sku": "1857270",
+  "updatedAt": "2022-11-29T15:31:11.503Z"
+}

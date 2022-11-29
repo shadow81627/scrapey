@@ -1,0 +1,50 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Chicken; lamb &/or sheep; rice; gelling agents; vegetable fibre; minerals; vitamins; antioxidants; garlic; plant extracts."
+    },
+    {
+      "name": "Size",
+      "value": "100g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.25 per 100G"
+    }
+  ],
+  "brand": "Optimum",
+  "createdAt": "2022-11-29T13:51:43.943Z",
+  "description": "Optimum Lamb & Rice Adult Wet Dog Food Tray",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/4/8/2489295.jpg",
+  "name": "Lamb & Rice Adult Wet Dog Food Tray",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 1.25,
+    "lowPrice": 1.25,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-29T13:51:43.942Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "1.25",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/optimum-lamb-rice-adult-dog-food-tray"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/optimum-lamb-rice-adult-dog-food-tray"
+  ],
+  "sku": "2489295",
+  "updatedAt": "2022-11-29T13:51:43.942Z"
+}

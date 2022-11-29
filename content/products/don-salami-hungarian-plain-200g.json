@@ -1,0 +1,60 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "845.00kJ",
+      "carbohydrateContent": "2.00g",
+      "dietary_fibre": "-",
+      "fatContent": "17.40g",
+      "name": "nutrition",
+      "proteinContent": "9.90g",
+      "saturatedFatContent": "6.80g",
+      "servingSize": "100 g",
+      "sodiumContent": "760.00mg",
+      "sugarContent": "0.50g"
+    }
+  ],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Don"
+  },
+  "createdAt": "2022-11-29T20:55:15.574Z",
+  "description": "Mild spiced salami made to a traditional recipe with no artificial colours or flavours. DON Mild Hungarian Salami is ready to eat and perfect for entertaining, snacking and cooking. Slice it as you like and enjoy, or use it to make a tasty pasta arrabiata.",
+  "gtin13": "93389365",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/064116.jpg",
+  "name": "Don Salami Hungarian Plain 200G",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 8.5,
+    "lowPrice": 8.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-29T20:55:15.572Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 8.5,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/64116/don-salami-hungarian-plain"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/64116/don-salami-hungarian-plain"
+  ],
+  "sku": "64116",
+  "updatedAt": "2022-11-29T20:55:15.572Z"
+}

@@ -1,0 +1,54 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "<strong>INGREDIENTS:</strong> Pork (70%), Beef (30%)"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "5.0"
+    },
+    {
+      "name": "Size",
+      "value": "500g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$13.00 per 1Kg"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2022-11-29T17:34:27.810Z",
+  "description": "3 STAR TYPICALLY 17% FAT 70% Pork, 30% Beef",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/8/7/8/8782725.jpg",
+  "name": "Pork & Beef 3 Star Mince Bolognese",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 6.5,
+    "lowPrice": 6.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-29T17:34:27.809Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "6.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-pork-beef-(bolognese)-mince"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/coles-pork-beef-(bolognese)-mince"
+  ],
+  "sku": "8782725",
+  "updatedAt": "2022-11-29T17:34:27.809Z"
+}

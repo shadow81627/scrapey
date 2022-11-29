@@ -1,0 +1,60 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "416kJ",
+      "carbohydrateContent": "3.6g",
+      "dietary_fibre": "-",
+      "fatContent": "6.2g",
+      "name": "nutrition",
+      "proteinContent": "7.3g",
+      "saturatedFatContent": "3.5g",
+      "servingSize": "100 g",
+      "sodiumContent": "305mg",
+      "sugarContent": "0.4g"
+    }
+  ],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Unreal Co."
+  },
+  "createdAt": "2022-11-29T19:19:39.245Z",
+  "description": "Unreal Co.'s Chick'n Chives Sausages are simply MMM; meaty, morish, and mouth-watering. These gourmet snags have been infused with fresh chives for that warm and comforting flavour, making them the perfect centrepiece to your bangers 'n' mash, barbecues, or breakfast spreads.",
+  "gtin13": "9353712000174",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/065254.jpg",
+  "name": "Unreal Co. Plant Based Chick'n Chives Sausages 350G",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 4,
+    "lowPrice": 4,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-29T19:19:39.245Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 4,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/65254/unreal-co-plant-based-chick-n-chives-sausages"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/65254/unreal-co-plant-based-chick-n-chives-sausages"
+  ],
+  "sku": "65254",
+  "updatedAt": "2022-11-29T19:19:39.245Z"
+}

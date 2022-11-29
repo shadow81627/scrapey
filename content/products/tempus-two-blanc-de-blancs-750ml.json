@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Tempus Two"
+  },
+  "createdAt": "2022-11-29T19:34:37.907Z",
+  "description": "A zesty and refreshing sparkling wine with enticing fruit flavours of passionfruit and green apple which provide a sweetness that is well balanced by a citrus finish. A soft fine bubble completes the wine.<br><br><strong>Varietal: </strong>Chardonnay<br><strong>Liquor Style: </strong>Sparkling White<br><strong>Region Of Origin: </strong>Langhorne Creek<br><strong>Country Of Origin: </strong>Australia<br><strong>Vintage: </strong>2017*<br><strong>Alcohol %: </strong>11.5<br><strong>Standard Drinks: </strong>7.7",
+  "gtin13": "9315743502324",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/640828.jpg",
+  "name": "Tempus Two Blanc De Blancs 750mL",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 13,
+    "lowPrice": 13,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-29T19:34:37.906Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 13,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/640828/tempus-two-blanc-de-blancs"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/640828/tempus-two-blanc-de-blancs"
+  ],
+  "sku": "640828",
+  "updatedAt": "2022-11-29T19:34:37.906Z"
+}

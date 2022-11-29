@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Espolon"
+  },
+  "createdAt": "2022-11-29T19:36:42.720Z",
+  "description": "Made from some of the purest agave around, this premium tequila offers a fuller body and potent fruity flavours. You'll love the long-lasting spicy aftertaste that'll linger on the tongue long after you've finished a shot or cocktail.<br><br><strong>Spirit Type: </strong>Tequila<br><strong>Varietal: </strong>Blanco<br><strong>Alcohol %: </strong>40<br><strong>Standard Drinks: </strong>22<br><strong>Country Of Origin: </strong>Mexico",
+  "gtin13": "721059707503",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/376541.jpg",
+  "name": "Espolon Tequila Blanco 700mL",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 62,
+    "lowPrice": 62,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-29T19:36:42.719Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 62,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/376541/espolon-tequila-blanco"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/376541/espolon-tequila-blanco"
+  ],
+  "sku": "376541",
+  "updatedAt": "2022-11-29T19:36:42.719Z"
+}

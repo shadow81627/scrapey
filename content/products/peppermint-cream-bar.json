@@ -1,0 +1,50 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "50g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.52 per 10G"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "MADE IN UK FROM LOCAL AND IMPORTED INGREDIENTS"
+    }
+  ],
+  "brand": "Fry's",
+  "createdAt": "2022-11-29T15:10:42.585Z",
+  "description": "Fry's Peppermint Cream Bar",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/8/6/9/8693545.jpg",
+  "name": "Peppermint Cream Bar",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2.6,
+    "lowPrice": 2.6,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-29T15:10:42.584Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "2.60",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/frys-creme-bar-8693545p"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/frys-creme-bar-8693545p"
+  ],
+  "sku": "8693545",
+  "updatedAt": "2022-11-29T15:10:42.584Z"
+}

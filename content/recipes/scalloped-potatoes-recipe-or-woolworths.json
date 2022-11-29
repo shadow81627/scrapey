@@ -1,63 +1,63 @@
 {
   "@type": "Recipe",
+  "author": {
+    "@type": "Person",
+    "name": "Fresh Ideas"
+  },
   "cookTime": "PT50M",
   "createdAt": "2022-11-27T12:33:04.000Z",
-  "datePublished": "2021-03-10",
+  "datePublished": "2022-07-13",
   "description": "Try our easy to follow Scalloped Potatoes recipe. Absolutely delicious with the best ingredients from Woolworths.",
-  "image": {
-    "@type": "ImageObject",
-    "height": 1300,
-    "mime": "image/png",
-    "url": "https://foodhub.scene7.com/is/image/woolworthsltdprod/1906-scalloped-potatoes?wid=1300&hei=1300&fmt=png-alpha",
-    "width": 1300
-  },
-  "keywords": "Scalloped Potatoes",
+  "image": [
+    "https://foodhub.scene7.com/is/image/woolworthsltdprod/1906-scalloped-potatoes:Square-1300x1300"
+  ],
+  "keywords": "Jacket potato,Winter,Potato",
   "name": "Scalloped Potatoes Recipe | Woolworths",
   "prepTime": "PT20M",
-  "recipeCategory": "side-dishes",
-  "recipeCuisine": "european",
+  "recipeCategory": "Side dishes",
+  "recipeCuisine": "French",
   "recipeId": "9401",
   "recipeIngredient": [
     "0.5 red onion",
     "1 spring onions",
     "1 pinch freshly ground black pepper",
-    "1 kg starchy potatoes",
-    "300 ml cooking cream",
+    "1kg starchy potatoes",
+    "300ml cooking cream",
     "0.5 cup creme fraiche",
     "2 rashers short bacon",
     "1 pinch salt flakes",
-    "1 sprigs thyme",
+    "1-2 sprigs thyme",
     "2 clove garlic",
     "0.5 cup tasty cheese"
   ],
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Sprinkle with spring onion just prior to serving if desired."
+      "HowToTip": {},
+      "text": "Preheat oven to 180°C (160°C fan-forced). Peel and slice potatoes into approx. 5mm thick slices. Layer on base of a 5cm deep, 20cm x 25cm baking dish, slightly overlapping. Scatter over some of the sliced onion and repeat layering until all the potatoes and onion are used, finishing with a layer of potatoes."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Sprinkle with spring onion just prior to serving if desired."
+      "HowToTip": {},
+      "text": "Combine Bulla Cooking Cream, Bulla Crème Fraîche, garlic and thyme in a saucepan. Heat until mix just comes to the boil and pour over the potatoes."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Sprinkle with spring onion just prior to serving if desired."
+      "HowToTip": {},
+      "text": "Sprinkle cheese and bacon over the top of potatoes and season. Cover with foil and bake for 45 minutes. Remove foil and continue cooking for a further 20 minutes until golden and cooked through."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
+      "HowToTip": {},
       "text": "Sprinkle with spring onion just prior to serving if desired."
     }
   ],
   "recipeNameId": "scalloped-potatoes",
   "recipeYield": "6",
   "sameAs": [
-    "https://woolworths.com.au/shop/find-recipes/scalloped-potatoes-with-bacon"
+    "https://woolworths.com.au/shop/recipes/scalloped-potatoes"
   ],
   "totalTime": "PT70M",
-  "updatedAt": "2022-11-27T10:14:50.001Z",
+  "updatedAt": "2022-11-29T15:53:08.529Z",
   "url": "https://www.woolworths.com.au/shop/recipes/scalloped-potatoes"
 }

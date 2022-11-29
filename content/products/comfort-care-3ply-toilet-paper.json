@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "18 pack"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.56 per 1Ea"
+    }
+  ],
+  "brand": "Kleenex",
+  "createdAt": "2022-11-29T17:38:46.044Z",
+  "description": "Kleenex  Comfort Care 3ply Toilet Paper",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/4/9/2/4926958.jpg",
+  "name": "Comfort Care 3ply Toilet Paper",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 10,
+    "lowPrice": 10,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-29T17:38:46.042Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "10.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/3ply-toilet-tissue-4926958p-1"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/3ply-toilet-tissue-4926958p-1"
+  ],
+  "sku": "4926958",
+  "updatedAt": "2022-11-29T17:38:46.043Z"
+}

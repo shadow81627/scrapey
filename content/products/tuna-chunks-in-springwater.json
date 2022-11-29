@@ -1,0 +1,58 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Allergen",
+      "value": "Contains FISH"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "2.0"
+    },
+    {
+      "name": "Size",
+      "value": "185g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$9.73 per 1Kg"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Made in Thailand"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2022-11-29T21:12:56.514Z",
+  "description": "This product has been assessed as a good choice to safeguard our marine ecosystems.For more information go to www.coles.com.au",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/8/6/7/8675270.jpg",
+  "name": "Tuna Chunks In Springwater",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 1.8,
+    "lowPrice": 1.8,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-29T21:12:56.513Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "1.80",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-tuna-chunks-in-springwater"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/coles-tuna-chunks-in-springwater"
+  ],
+  "sku": "8675270",
+  "updatedAt": "2022-11-29T21:12:56.513Z"
+}

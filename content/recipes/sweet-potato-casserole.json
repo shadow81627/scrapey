@@ -2,7 +2,7 @@
   "@type": "Recipe",
   "aggregateRating": {
     "@type": "AggregateRating",
-    "ratingCount": "1",
+    "ratingCount": "2",
     "ratingValue": "5"
   },
   "author": {
@@ -13,13 +13,12 @@
   "createdAt": "2022-11-25T13:16:17.000Z",
   "datePublished": "2022-11-21T18:07:14+00:00",
   "description": "Greater than the sum of its parts, this buttery sweet potato casserole is a breeze to put together and will be the star of your dinner table!",
-  "image": {
-    "@type": "ImageObject",
-    "height": 900,
-    "mime": "image/jpeg",
-    "url": "https://www.budgetbytes.com/wp-content/uploads/2022/11/Sweet-Potato-Casserole-above.jpg",
-    "width": 1200
-  },
+  "image": [
+    "https://www.budgetbytes.com/wp-content/uploads/2022/11/Sweet-Potato-Casserole-above.jpg",
+    "https://www.budgetbytes.com/wp-content/uploads/2022/11/Sweet-Potato-Casserole-above-500x500.jpg",
+    "https://www.budgetbytes.com/wp-content/uploads/2022/11/Sweet-Potato-Casserole-above-500x375.jpg",
+    "https://www.budgetbytes.com/wp-content/uploads/2022/11/Sweet-Potato-Casserole-above-480x270.jpg"
+  ],
   "keywords": "Baked sweet potato, Casserole, casserole from scratch, Casserole Recipes, Sweet Potato Casserole, Sweet Potato Recipe, sweet potato recipes",
   "name": "Sweet Potato Casserole",
   "nutrition": {
@@ -44,7 +43,7 @@
     "1/2 tsp vanilla extract ($0.29)",
     "1 pinch nutmeg ($0.01)",
     "1/4 tsp cinnamon ($0.01)",
-    "2 cups mini marshmallows ($0.50)"
+    "2 cups mini marshmallows* ($0.50)"
   ],
   "recipeInstructions": [
     {
@@ -69,7 +68,7 @@
     },
     {
       "@type": "HowToStep",
-      "text": "Add the mash to the greased casserole dish and smooth the top with a spatula."
+      "text": "Mix the caramel into the mash and then add the mash into the greased casserole dish. Smooth the top with a spatula."
     },
     {
       "@type": "HowToStep",
@@ -82,8 +81,8 @@
   ],
   "recipeYield": "8",
   "sameAs": [
-    "https://budgetbytes.com/sweet-potato-casserole"
+    "https://budgetbytes.com/sweet-potato-casserole?_gl=1*laepsd*_ga*dVFTTTBmQTZ5b1JJRXlKd0hlTGhmeFdVN0R5VFVzZDNYTWFPWm9HcVAyTHFQb08yeWR0OWM2aHhaamRtQVFDSA.."
   ],
   "totalTime": "PT50M",
-  "updatedAt": "2022-11-25T10:18:17.414Z"
+  "updatedAt": "2022-11-29T15:24:39.776Z"
 }

@@ -3,7 +3,7 @@
   "additionalProperty": [
     {
       "name": "Ingredients",
-      "value": " Basmati Rice"
+      "value": "Basmati Rice"
     },
     {
       "name": "Servings Per Pack",
@@ -15,7 +15,7 @@
     },
     {
       "name": "Unit Price",
-      "value": "$0.28 per 100G"
+      "value": "$0.36 per 100G"
     },
     {
       "name": "Country Of Origin",
@@ -24,29 +24,23 @@
   ],
   "brand": "Coles",
   "createdAt": "2020-10-12T05:22:04.000Z",
-  "description": "Coles Basmati Rice",
-  "image": {
-    "@type": "ImageObject",
-    "height": 300,
-    "mime": "image/jpeg",
-    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/9/5/4/9540288.jpg",
-    "width": 300
-  },
+  "description": "Coles Basmati rice a great tasting rice that goes well with many dishes particularly Indian dishes",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/9/5/4/9540288.jpg",
   "name": "Basmati Rice",
   "offers": {
     "@type": "AggregateOffer",
-    "highPrice": 14,
-    "lowPrice": 14,
+    "highPrice": 18,
+    "lowPrice": 18,
     "offerCount": 1,
     "offers": [
       {
         "@context": "http://schema.org",
         "@type": "Offer",
         "availability": "https://schema.org/InStock",
-        "availabilityStarts": "2020-11-15T05:24:37.312Z",
+        "availabilityStarts": "2022-11-29T18:35:14.109Z",
         "itemCondition": "https://schema.org/NewCondition",
         "offeredBy": "Coles",
-        "price": "14.00",
+        "price": "18.00",
         "priceCurrency": "AUD",
         "seller": {
           "@type": "Organization",
@@ -57,8 +51,8 @@
     ]
   },
   "sameAs": [
-    "https://shop.coles.com.au/a/sunnybank-hills/product/coles-rice-basmati"
+    "https://shop.coles.com.au/a/national/product/coles-rice-basmati"
   ],
   "sku": "9540288",
-  "updatedAt": "2020-11-15T05:24:37.312Z"
+  "updatedAt": "2022-11-29T18:35:14.109Z"
 }

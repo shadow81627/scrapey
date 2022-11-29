@@ -3,7 +3,11 @@
   "additionalProperty": [
     {
       "name": "Ingredients",
-      "value": " Wholemeal Wheat Flour (96%), Raising Agents (339, 341, 450, 500)."
+      "value": "<strong>INGREDIENTS:</strong> Wholemeal <strong>Wheat</strong> Flour, Raising Agents (450, 500, 341, 339)"
+    },
+    {
+      "name": "Allergen",
+      "value": "Contains CEREALS CONTAINING GLUTEN, Contains Wheat"
     },
     {
       "name": "Servings Per Pack",
@@ -11,7 +15,7 @@
     },
     {
       "name": "Size",
-      "value": "1kg"
+      "value": "1Kg"
     },
     {
       "name": "Unit Price",
@@ -20,14 +24,8 @@
   ],
   "brand": "Coles",
   "createdAt": "2020-10-12T05:22:04.000Z",
-  "description": "Unbleached Made with Australian Wheat",
-  "image": {
-    "@type": "ImageObject",
-    "height": 300,
-    "mime": "image/jpeg",
-    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/8/8/5880830.jpg",
-    "width": 300
-  },
+  "description": "Coles Wholemeal Plain Flour 2kg. Australian unbleached wholemeal flour. Great for baking breads and muffins or even cookies!",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/8/8/5880830.jpg",
   "name": "Wholemeal Self Raising Flour",
   "offers": {
     "@type": "AggregateOffer",
@@ -39,7 +37,7 @@
         "@context": "http://schema.org",
         "@type": "Offer",
         "availability": "https://schema.org/InStock",
-        "availabilityStarts": "2020-11-15T05:25:37.355Z",
+        "availabilityStarts": "2022-11-29T19:01:40.679Z",
         "itemCondition": "https://schema.org/NewCondition",
         "offeredBy": "Coles",
         "price": "2.00",
@@ -53,8 +51,8 @@
     ]
   },
   "sameAs": [
-    "https://shop.coles.com.au/a/sunnybank-hills/product/coles-flour-self-raising-wholemeal"
+    "https://shop.coles.com.au/a/national/product/coles-flour-self-raising-wholemeal"
   ],
   "sku": "5880830",
-  "updatedAt": "2020-11-15T05:25:37.355Z"
+  "updatedAt": "2022-11-29T19:01:40.679Z"
 }

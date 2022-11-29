@@ -1,0 +1,42 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Unit Price",
+      "value": "$4.99 per 1Ea"
+    }
+  ],
+  "brand": "Magazine",
+  "createdAt": "2022-11-29T16:54:00.510Z",
+  "description": "Cover may not depict edition offered for sale",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/1/0/8/1085166.jpg",
+  "name": "Take 5 Monthly",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 4.99,
+    "lowPrice": 4.99,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-29T16:54:00.509Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "4.99",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/bauer-one-shot-pocket-3"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/bauer-one-shot-pocket-3"
+  ],
+  "sku": "1085166",
+  "updatedAt": "2022-11-29T16:54:00.509Z"
+}

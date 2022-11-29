@@ -1,0 +1,50 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Servings Per Pack",
+      "value": "8.0"
+    },
+    {
+      "name": "Size",
+      "value": "800g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$16.25 per 1Kg"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2022-11-29T19:18:55.830Z",
+  "description": "Coles Beef 4 Star Lean Mince",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/4/4/3449773.jpg",
+  "name": "Beef 4 Star Lean Mince",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 13,
+    "lowPrice": 13,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-29T19:18:55.830Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "13.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-rr-9x7-beef-lean-mince-3449773p"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/coles-rr-9x7-beef-lean-mince-3449773p"
+  ],
+  "sku": "3449773",
+  "updatedAt": "2022-11-29T19:18:55.830Z"
+}

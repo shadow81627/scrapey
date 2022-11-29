@@ -3,66 +3,64 @@
   "additionalProperty": [
     {
       "name": "Ingredients",
-      "value": "Sugar, glucose syrup, invert sugar, water, milk solids, cocoa butter, cocoa mass gelatine, emulsifiers (soy lecithin, 476). Flavors, cornstarch."
+      "value": "Sugar, Glucose Syrup, Invert Sugar, Water Milk Solids, Cocoa Butter, Cocoa Mass, Gelatine, Emulsifiers (Soy Lecithin, 476), Flavours, Cornstarch."
     },
     {
       "name": "Contains",
-      "value": "Marshamallow (71%), Milk Chocolate (29%)"
+      "value": "Marshmallow (71%), Milk Chocolate (29%). Milk chocolate contains cocoa solids 26%, milk solids 23%."
+    },
+    {
+      "name": "Allergen",
+      "value": "May Be Present Tree Nuts, May Be Present Peanuts, Contains Soy, Contains Milk"
     },
     {
       "name": "Servings Per Pack",
-      "value": "1.0"
+      "value": "5.0"
     },
     {
       "name": "Size",
-      "value": "35g"
+      "value": "175g"
     },
     {
       "name": "Unit Price",
-      "value": "$3.57 per 100G"
+      "value": "$1.71 per 100G"
     },
     {
       "name": "Country Of Origin",
-      "value": "Made in Australia from Imported and Local Ingredients"
+      "value": "Made in Australia from local and imported Ingredients"
     }
   ],
   "brand": "Cadbury",
   "createdAt": "2020-11-15T12:30:20.000Z",
-  "description": "Treat yourself this Christmas with the 35g Cadbury Marshmallow Santa A soft marshmallow covered with Cadbury milk chocolate.",
-  "image": {
-    "@type": "ImageObject",
-    "height": 300,
-    "mime": "image/jpeg",
-    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/1/9/5195009.jpg",
-    "width": 300
-  },
+  "description": "Cadbury Marshmallow Santa a soft marshmallow covered with milk chocolate.",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/5/1/3518719.jpg",
   "name": "Marshmallow Santa",
   "offers": {
     "@type": "AggregateOffer",
-    "highPrice": 1.25,
-    "lowPrice": 1.25,
+    "highPrice": 3,
+    "lowPrice": 3,
     "offerCount": 1,
     "offers": [
       {
         "@context": "http://schema.org",
         "@type": "Offer",
         "availability": "https://schema.org/InStock",
-        "availabilityStarts": "2022-11-29T02:06:30.435Z",
+        "availabilityStarts": "2022-11-29T22:35:56.932Z",
         "itemCondition": "https://schema.org/NewCondition",
         "offeredBy": "Coles",
-        "price": "1.25",
+        "price": "3.00",
         "priceCurrency": "AUD",
         "seller": {
           "@type": "Organization",
           "name": "Coles"
         },
-        "url": "https://shop.coles.com.au/a/national/product/cadbury-marshmallow-santa-5195009p"
+        "url": "https://shop.coles.com.au/a/national/product/cadbury-santa-marshmallow"
       }
     ]
   },
   "sameAs": [
-    "https://shop.coles.com.au/a/national/product/cadbury-marshmallow-santa-5195009p"
+    "https://shop.coles.com.au/a/national/product/cadbury-santa-marshmallow"
   ],
-  "sku": "5195009",
-  "updatedAt": "2022-11-29T02:06:30.435Z"
+  "sku": "3518719",
+  "updatedAt": "2022-11-29T22:35:56.932Z"
 }

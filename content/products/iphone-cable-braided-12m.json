@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "1 Pack"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$31.00 per 1Ea"
+    }
+  ],
+  "brand": "Energizer",
+  "createdAt": "2022-11-29T17:59:54.865Z",
+  "description": "Energizer iPhone Cable Braided 1.2M",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/6/6/3667297.jpg",
+  "name": "iPhone Cable Braided 1.2M",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 31,
+    "lowPrice": 31,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-29T17:59:54.864Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "31.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/energizer-lightning-cable-aluminium-12m-silver"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/energizer-lightning-cable-aluminium-12m-silver"
+  ],
+  "sku": "3667297",
+  "updatedAt": "2022-11-29T17:59:54.864Z"
+}

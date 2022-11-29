@@ -1,45 +1,57 @@
 {
   "@type": "Recipe",
+  "author": {
+    "@type": "Person",
+    "name": "Fresh Ideas"
+  },
   "cookTime": "PT15M",
   "createdAt": "2022-11-25T02:09:40.000Z",
-  "datePublished": "2021-03-10",
+  "datePublished": "2022-11-03",
   "description": "Try our easy to follow Green Beans With Almonds recipe. Absolutely delicious with the best ingredients from Woolworths.",
-  "image": {
-    "@type": "ImageObject",
-    "height": 1300,
-    "mime": "image/png",
-    "url": "https://foodhub.scene7.com/is/image/woolworthsltdprod/1612-greenbeanswithalmonds?wid=1300&hei=1300&fmt=png-alpha",
-    "width": 1300
-  },
-  "keywords": "Green Beans With Almonds",
+  "image": [
+    "https://foodhub.scene7.com/is/image/woolworthsltdprod/1612-greenbeanswithalmonds:Square-1300x1300"
+  ],
+  "keywords": "Vegetable dishes,Pescatarian,Low salt,Seafood free,Gluten free,Egg free,Green beans,Low sugar,Sesame free,Halal,High fibre,Christmas,Soy free,Wheat free,Vegetarian,Peanut free",
   "name": "Green Beans With Almonds Recipe | Woolworths",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "98 calories",
+    "carbohydrateContent": "3.6 g",
+    "fatContent": "6.5 g",
+    "fiberContent": "4.2 g",
+    "proteinContent": "4.1 g",
+    "saturatedFatContent": "3.0 g",
+    "sodiumContent": "30 millig",
+    "sugarContent": "1.8 g",
+    "transFatContent": "0.2 g"
+  },
   "prepTime": "PT20M",
-  "recipeCategory": "side-dishes",
-  "recipeCuisine": "australian",
+  "recipeCategory": "Side dishes",
+  "recipeCuisine": "Australian",
   "recipeId": "5087",
   "recipeIngredient": [
-    "40 g butter",
-    "1 kg green beans",
-    "0.25 cup slivered almonds"
+    "40g butter",
+    "1kg green beans, trimmed",
+    "0.25 cup slivered almonds, toasted"
   ],
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Return to the pan with butter and season with salt and pepper. Shake pan over the heat for 2-3 minutes to reheat beans and coat with the butter. Add almonds and toss to combine. Transfer to a warmed serving dish."
+      "HowToTip": {},
+      "text": "Bring a large saucepan of water to the boil over high heat. Add beans and cook for 6-8 minutes or until bright green and just tender. Drain and refresh in cold water."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
+      "HowToTip": {},
       "text": "Return to the pan with butter and season with salt and pepper. Shake pan over the heat for 2-3 minutes to reheat beans and coat with the butter. Add almonds and toss to combine. Transfer to a warmed serving dish."
     }
   ],
   "recipeNameId": "green-beans-with-almonds",
   "recipeYield": "8",
   "sameAs": [
-    "https://woolworths.com.au/shop/find-recipes/green-beans-with-almonds"
+    "https://woolworths.com.au/shop/recipes/green-beans-with-almonds"
   ],
   "totalTime": "PT35M",
-  "updatedAt": "2022-11-25T01:40:41.770Z",
+  "updatedAt": "2022-11-29T15:46:04.261Z",
   "url": "https://www.woolworths.com.au/shop/recipes/green-beans-with-almonds"
 }

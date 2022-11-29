@@ -1,0 +1,50 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "3 pack"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.23 per 1Ea"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Made in China"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2022-11-29T15:08:36.923Z",
+  "description": "Coles Wooden Coat Hangers, 3 Pack. A chrome plated hook for durability and notches for garment straps to stay secure.",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/3/0/5308717.jpg",
+  "name": "Wooden Coat Hangers",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3.7,
+    "lowPrice": 3.7,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-29T15:08:36.922Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "3.70",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-hangers-wooden-coat"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/coles-hangers-wooden-coat"
+  ],
+  "sku": "5308717",
+  "updatedAt": "2022-11-29T15:08:36.922Z"
+}

@@ -3,11 +3,11 @@
   "additionalProperty": [
     {
       "name": "Ingredients",
-      "value": "  Wheat Flour, Water, Sesame Seeds (3%), Yeast, Wheat Gluten, Vegetable Oils (Palm, Canola), Iodised Salt, Yellow Pea Flour, Potassium Chloride, Vitamins (Thiamin, Folic Acid)."
+      "value": "<strong>INGREDIENTS:</strong> <strong>Wheat</strong> Flour, Water, <strong>Sesame</strong> Seeds (3.5%), Yeast,<strong> </strong>Iodised Salt, <strong>Wheat</strong> Gluten Vegetable Oil, Yellow Pea Flour, Vitamins (Thiamine, Folic Acid)."
     },
     {
       "name": "Allergen",
-      "value": "May Be Present SULPHITES, May Be Present SOY, May Be Present MILK, May Be Present TREE NUTS, May Be Present EGG, May Be Present PEANUTS"
+      "value": "May Contain Pine, May Contain SULPHITES, May Contain Walnut, May Contain EGG, May Contain MILK, May Contain SOY, May Contain Cashew, May Contain Macadamia Nuts, May Contain Hazelnuts, May Contain Brazil Nuts, Contains SESAME, May Contain Almonds, May Contain Lupin, May Contain PEANUTS, Contains Gluten, May Contain Pistachios, Contains Wheat, May Contain Pecan"
     },
     {
       "name": "Servings Per Pack",
@@ -19,34 +19,28 @@
     },
     {
       "name": "Unit Price",
-      "value": "$0.33 per 1Ea"
+      "value": "$0.42 per 1Ea"
     }
   ],
   "brand": "Coles Bakery",
   "createdAt": "2020-11-15T04:05:36.000Z",
-  "description": "Due to the short shelf life of the product it is not available for delivery before 2pm.",
-  "image": {
-    "@type": "ImageObject",
-    "height": 300,
-    "mime": "image/jpeg",
-    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/6/2/4/6240721.jpg",
-    "width": 300
-  },
+  "description": "Perfect for breakfast, lunch, dinner or a snack in between - simply add your favourite filling.",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/6/2/4/6240721.jpg",
   "name": "Crusty Round Rolls",
   "offers": {
     "@type": "AggregateOffer",
-    "highPrice": 2,
-    "lowPrice": 2,
+    "highPrice": 2.5,
+    "lowPrice": 2.5,
     "offerCount": 1,
     "offers": [
       {
         "@context": "http://schema.org",
         "@type": "Offer",
         "availability": "https://schema.org/InStock",
-        "availabilityStarts": "2020-11-21T05:56:45.256Z",
+        "availabilityStarts": "2022-11-29T19:13:40.624Z",
         "itemCondition": "https://schema.org/NewCondition",
         "offeredBy": "Coles",
-        "price": "2.00",
+        "price": "2.50",
         "priceCurrency": "AUD",
         "seller": {
           "@type": "Organization",
@@ -57,8 +51,8 @@
     ]
   },
   "sameAs": [
-    "https://shop.coles.com.au/a/sunnybank-hills/product/coles-bakery-rolls-white-round-crusty-baked-in-store-6240721p"
+    "https://shop.coles.com.au/a/national/product/coles-bakery-rolls-white-round-crusty-baked-in-store-6240721p"
   ],
   "sku": "6240721",
-  "updatedAt": "2020-11-21T05:56:45.256Z"
+  "updatedAt": "2022-11-29T19:13:40.625Z"
 }

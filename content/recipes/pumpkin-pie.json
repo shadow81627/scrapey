@@ -2,8 +2,8 @@
   "@type": "Recipe",
   "aggregateRating": {
     "@type": "AggregateRating",
-    "ratingCount": "1",
-    "ratingValue": "5"
+    "ratingCount": "3",
+    "ratingValue": "4"
   },
   "author": {
     "@type": "Person",
@@ -13,13 +13,12 @@
   "createdAt": "2022-11-25T13:16:17.000Z",
   "datePublished": "2022-11-14T11:30:55+00:00",
   "description": "This pumpkin pie recipe is simple but decadent. With a few of my favorite tricks, you can produce the silkiest pie with the most profound flavors.",
-  "image": {
-    "@type": "ImageObject",
-    "height": 900,
-    "mime": "image/jpeg",
-    "url": "https://www.budgetbytes.com/wp-content/uploads/2022/11/Pumpkin-Pie-slice-side.jpg",
-    "width": 1200
-  },
+  "image": [
+    "https://www.budgetbytes.com/wp-content/uploads/2022/11/Pumpkin-Pie-slice-side.jpg",
+    "https://www.budgetbytes.com/wp-content/uploads/2022/11/Pumpkin-Pie-slice-side-500x500.jpg",
+    "https://www.budgetbytes.com/wp-content/uploads/2022/11/Pumpkin-Pie-slice-side-500x375.jpg",
+    "https://www.budgetbytes.com/wp-content/uploads/2022/11/Pumpkin-Pie-slice-side-480x270.jpg"
+  ],
   "keywords": "pumpkin pie, pumpkin pie spice",
   "name": "Pumpkin Pie",
   "nutrition": {
@@ -91,8 +90,8 @@
   ],
   "recipeYield": "12",
   "sameAs": [
-    "https://budgetbytes.com/pumpkin-pie"
+    "https://budgetbytes.com/pumpkin-pie?_gl=1*1nzrhwq*_ga*TmNqclFENjM0TkFCUHNrSWpIYnpFS3BqVzkzUHVsYjV0NXBNTmhmREU5ZzE2YXE3UEVQbW8wQjNRRjlHNGNUWg.."
   ],
   "totalTime": "PT240M",
-  "updatedAt": "2022-11-25T11:13:41.846Z"
+  "updatedAt": "2022-11-29T20:39:35.281Z"
 }

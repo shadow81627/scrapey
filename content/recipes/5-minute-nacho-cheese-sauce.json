@@ -2,8 +2,8 @@
   "@type": "Recipe",
   "aggregateRating": {
     "@type": "AggregateRating",
-    "ratingCount": "215",
-    "ratingValue": "4.12"
+    "ratingCount": "216",
+    "ratingValue": "4.11"
   },
   "author": {
     "@type": "Person",
@@ -13,13 +13,12 @@
   "createdAt": "2022-11-23T23:43:51.000Z",
   "datePublished": "2016-02-08T16:25:46+00:00",
   "description": "This rich and tangy nacho cheese sauce only takes about 5 minutes to make and uses only real, simple ingredients.",
-  "image": {
-    "@type": "ImageObject",
-    "height": 480,
-    "mime": "image/jpeg",
-    "url": "https://www.budgetbytes.com/wp-content/uploads/2016/02/5-Minute-Nacho-Cheese-Sauce-dip3-1.jpg",
-    "width": 640
-  },
+  "image": [
+    "https://www.budgetbytes.com/wp-content/uploads/2016/02/5-Minute-Nacho-Cheese-Sauce-dip3-1.jpg",
+    "https://www.budgetbytes.com/wp-content/uploads/2016/02/5-Minute-Nacho-Cheese-Sauce-dip3-1-500x480.jpg",
+    "https://www.budgetbytes.com/wp-content/uploads/2016/02/5-Minute-Nacho-Cheese-Sauce-dip3-1-500x375.jpg",
+    "https://www.budgetbytes.com/wp-content/uploads/2016/02/5-Minute-Nacho-Cheese-Sauce-dip3-1-480x270.jpg"
+  ],
   "keywords": "Appetizer, Dip, easy",
   "name": "5 Minute Nacho Cheese Sauce",
   "nutrition": {
@@ -62,10 +61,10 @@
   ],
   "recipeYield": "6",
   "sameAs": [
-    "https://budgetbytes.com/5-minute-nacho-cheese-sauce"
+    "https://budgetbytes.com/5-minute-nacho-cheese-sauce/comment-page-25"
   ],
   "totalTime": "PT5M",
-  "updatedAt": "2022-11-23T11:24:30.212Z",
+  "updatedAt": "2022-11-29T14:54:33.031Z",
   "video": {
     "@type": "VideoObject",
     "contentUrl": "https://mediavine-res.cloudinary.com/video/upload/t_original/v1550096786/bjqrdyg76byoaobzwvni.mp4",

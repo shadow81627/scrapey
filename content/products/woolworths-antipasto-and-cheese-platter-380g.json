@@ -1,0 +1,66 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "Approx.597kJ",
+      "carbohydrateContent": "Approx.1.1g",
+      "dietary_fibre": "-",
+      "fatContent": "Approx.12.5g",
+      "name": "nutrition",
+      "proteinContent": "Approx.6.7g",
+      "saturatedFatContent": "Approx.5.6g",
+      "servingSize": "100 g",
+      "sodiumContent": "Approx.546mg",
+      "sugarContent": "&lt;1g"
+    }
+  ],
+  "aggregateRating": {
+    "@context": "http://schema.org",
+    "@type": "AggregateRating",
+    "ratingCount": 456,
+    "ratingValue": 3.44298245614035
+  },
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Woolworths"
+  },
+  "createdAt": "2022-11-29T21:15:41.472Z",
+  "description": "Treat yourself and your guests to a delightful entertaining platter filled with tasty cheese cubes, garlic-stuffed olives, cabanossi bites and sliced salami. It's the perfect mix of textures and flavours with something for everyone.",
+  "gtin13": "9339687201204",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/109013.jpg",
+  "name": "Woolworths Antipasto & Cheese Platter 380G",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 16.5,
+    "lowPrice": 16.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-29T21:15:41.470Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 16.5,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/109013/woolworths-antipasto-cheese-platter"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/109013/woolworths-antipasto-cheese-platter"
+  ],
+  "sku": "109013",
+  "updatedAt": "2022-11-29T21:15:41.470Z"
+}

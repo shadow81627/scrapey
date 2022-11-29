@@ -1,0 +1,60 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "1870.0kJ",
+      "carbohydrateContent": "82.6g",
+      "dietary_fibre": "4.9g",
+      "fatContent": "4.9g",
+      "name": "nutrition",
+      "proteinContent": "18.6g",
+      "saturatedFatContent": "1.4g",
+      "servingSize": "100 g",
+      "sodiumContent": "1545.0mg",
+      "sugarContent": "17.2g"
+    }
+  ],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Plantry"
+  },
+  "createdAt": "2022-11-29T19:24:59.624Z",
+  "description": "<p>Meat free Monday is sorted with Plantry Plant Based Teriyaki, a convenient vegan friendly meal packed full of flavour that's also doing good for the planet.<br/><br/>Enjoy Teriyaki glazed chicken-style plant protein paired with rice, edamame and carrots. Plantry Teriyaki is batch made by our chefs for your convenience and is perfect for a quick weeknight dinner or a work lunch. Simply heat in the microwave for five minutes and enjoy. How good!<br/><br/>• Vegan friendly<br/><br/>• Planting 50,000 trees with One Tree Planted across Australia and New Zealand.<br/><br/>• Batch made by our chefs<br/><br/>• Freshly made and snap frozen<br/><br/>• Recyclable paper trays<br/><br/>• Microwave on HIGH for 5 minutes</p>",
+  "gtin13": "9310047219947",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/210606.jpg",
+  "name": "Plantry Plant Based Food Co Teriyaki Meal 350g",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 9,
+    "lowPrice": 9,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-29T19:24:59.623Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 9,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/210606/plantry-plant-based-food-co-teriyaki-meal"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/210606/plantry-plant-based-food-co-teriyaki-meal"
+  ],
+  "sku": "210606",
+  "updatedAt": "2022-11-29T19:24:59.623Z"
+}

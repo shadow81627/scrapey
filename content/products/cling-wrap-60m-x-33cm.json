@@ -1,0 +1,50 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Warning",
+      "value": "Avoid contact with cutting edge."
+    },
+    {
+      "name": "Size",
+      "value": "60m"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.09 per 1M"
+    }
+  ],
+  "brand": "Glad",
+  "createdAt": "2022-11-29T19:33:54.797Z",
+  "description": "Glad Cling Wrap 60m x 33cm",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/9/7/297792.jpg",
+  "name": "Cling Wrap 60m x 33cm",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 5.25,
+    "lowPrice": 5.25,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-29T19:33:54.796Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "5.25",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/glad-cling-wrap-297792p"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/glad-cling-wrap-297792p"
+  ],
+  "sku": "297792",
+  "updatedAt": "2022-11-29T19:33:54.796Z"
+}
