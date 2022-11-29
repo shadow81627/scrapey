@@ -1,0 +1,52 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "15g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$2.13 per 10G"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2022-11-29T01:52:23.957Z",
+  "description": "A delicious addition to Mediterranean or tomato based recipes. STORAGE: Basil is sensitive to the cold and is best stored with the stems in a little water and on the kitchen bench",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/2/1/3214521.jpg",
+    "width": 300
+  },
+  "name": "Basil Punnet",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3.2,
+    "lowPrice": 3.2,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-29T01:52:23.957Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "3.20",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/cs-coles-basil-punnet"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/cs-coles-basil-punnet"
+  ],
+  "sku": "3214521",
+  "updatedAt": "2022-11-29T01:52:23.957Z"
+}

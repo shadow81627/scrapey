@@ -1,0 +1,52 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "10g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$3.20 per 10G"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2022-11-29T01:53:11.364Z",
+  "description": "A delicious garnish to add a fresh onion flavour. Perfect on mashed potato or scrambled eggs STORAGE: To prolong the life of fresh herbs, wrap them loosely in a damp paper towel and store the bundle in a container in the fridge",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/2/1/3214747.jpg",
+    "width": 300
+  },
+  "name": "Chives Punnet",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3.2,
+    "lowPrice": 3.2,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-29T01:53:11.364Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "3.20",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/cs-coles-chives-punnet"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/cs-coles-chives-punnet"
+  ],
+  "sku": "3214747",
+  "updatedAt": "2022-11-29T01:53:11.364Z"
+}

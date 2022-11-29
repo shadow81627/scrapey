@@ -1,0 +1,64 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Yoghurt (60%) (Skim Milk, Milk Solids, Culture) [Milk], Cucumber (17%), Canola Oil, Water, Dill (1%), Garlic, Mineral Salt (452), Vinegar, Salt, Thickener (1422), Vegetable Gum (415, 412), Preservative (202)"
+    },
+    {
+      "name": "Ethical",
+      "value": "Australian Made and Owned"
+    },
+    {
+      "name": "Dietary",
+      "value": "No Artificial Flavours or Colours"
+    },
+    {
+      "name": "Size",
+      "value": "220g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$2.27 per 100G"
+    }
+  ],
+  "brand": "Obela",
+  "createdAt": "2022-11-29T01:56:57.259Z",
+  "description": "Fresh, vibrant and creamy. The Obela Classic Tzatziki dip is made with Greek-style yoghurt and real vegetable pieces of cucumber and dill.Gluten Free, no artificial colours, no artificial flavours",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/8/8/2882851.jpg",
+    "width": 300
+  },
+  "name": "Classic Tzatziki",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 5,
+    "lowPrice": 5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-29T01:56:57.258Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "5.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/obela-tzatziki-classic"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/obela-tzatziki-classic"
+  ],
+  "sku": "2882851",
+  "updatedAt": "2022-11-29T01:56:57.258Z"
+}

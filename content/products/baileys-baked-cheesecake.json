@@ -1,0 +1,60 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Neufchatel Cheese (18%) (Milk, Cream (Milk), Milk Solids, Salt, Vegetable Gum (Carob Bean), Lactic Acid, Starter Culture), Biscuit Crumb (Wheat Flour, Vegetable Shortening, Sugar, Wheat Bran, Invert Sugar, Salt, Cinnamon, Sodium Bicarbonate), Sugar, Water, Sweetened Condensed Milk (Milk, Sugar, Lactose), Egg, Vegetable Fats and Oils, White Chocolate (7%) (Milk Solids, Cocoa Butter, Sugar, Emulsifier (Soy Lecithin), Natural Flavour), Cream (Milk), Whey Powder (Milk), Glucose, White Choc Flakes (1%) (Milk, Soy), Natural Flavours, Emulsifiers (Vegetable - 477, 471, 475), Thickeners (1412, 1422), Vegetable Gums (Carrageenan, 405, Carob Bean, Xanthan (Soy)), Gelatine, Lactic Acid, Preservative (Potassium Sorbate), Natural Colour (Caramel 1), Cocoa."
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "8.0"
+    },
+    {
+      "name": "Size",
+      "value": "750g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$2.33 per 100G"
+    }
+  ],
+  "brand": "Sara Lee",
+  "createdAt": "2022-11-29T01:45:59.856Z",
+  "description": "An indulgent baked cheesecake with a rich topping flavoured with the taste of Baileys.The Baileys word and associated logos are trademarks of R & A Bailey & Co and are used under license.",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/6/4/5647596.jpg",
+    "width": 300
+  },
+  "name": "Baileys Baked Cheesecake",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 17.5,
+    "lowPrice": 17.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-29T01:45:59.841Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "17.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/baked-cheesecake"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/baked-cheesecake"
+  ],
+  "sku": "5647596",
+  "updatedAt": "2022-11-29T01:45:59.841Z"
+}

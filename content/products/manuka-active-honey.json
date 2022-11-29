@@ -1,0 +1,60 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "100% Australian Active Manuka Honey"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "22.0"
+    },
+    {
+      "name": "Size",
+      "value": "340g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$2.94 per 100G"
+    }
+  ],
+  "brand": "Capilano",
+  "createdAt": "2022-11-29T01:52:48.144Z",
+  "description": "Capilano Manuka Active Honey",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/8/9/2898986.jpg",
+    "width": 300
+  },
+  "name": "Manuka Active Honey",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 10,
+    "lowPrice": 10,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-29T01:52:48.143Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "10.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/capilano-manuka-mgo30-active-honey"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/capilano-manuka-mgo30-active-honey"
+  ],
+  "sku": "2898986",
+  "updatedAt": "2022-11-29T01:52:48.143Z"
+}

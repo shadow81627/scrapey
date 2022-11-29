@@ -1,0 +1,60 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "INGREDIENTS: RSPCA Approved Chicken (100%) (Chicken Drumsticks)."
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "10.0"
+    },
+    {
+      "name": "Size",
+      "value": "approx. 1.6kg"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$4.50 per 1Kg"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2022-11-29T01:43:27.113Z",
+  "description": "Coles RSPCA Approved Chicken Drumsticks Large Pack",
+  "image": {
+    "@type": "ImageObject",
+    "height": 300,
+    "mime": "image/jpeg",
+    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/9/2/2923835.jpg",
+    "width": 300
+  },
+  "name": "RSPCA Approved Chicken Drumsticks Large Pack",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 7.2,
+    "lowPrice": 7.2,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-29T01:43:27.112Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "7.20",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles--rspca-chicken-drumsticks-large-pack"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/coles--rspca-chicken-drumsticks-large-pack"
+  ],
+  "sku": "2923835",
+  "updatedAt": "2022-11-29T01:43:27.112Z"
+}
