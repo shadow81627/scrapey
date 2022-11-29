@@ -8,6 +8,9 @@ import { parse } from 'node-html-parser';
 const linkDataTypes = ['Product', 'Recipe', 'VideoObject'];
 
 export function processHtml(url: string, html: string): Thing | undefined {
+  if (url.match(/^https:\/\/woolworths.com.au\/shop\/find-recipes\/(.+?)/)) {
+    return;
+  }
   // parse html and extract data to json file
   const document = parse(html);
   const elements = document.querySelectorAll(
