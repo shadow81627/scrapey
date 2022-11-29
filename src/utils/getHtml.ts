@@ -8,6 +8,19 @@ interface getHtmlArgs {
   url: string;
 }
 
+//  block pages by resource type. e.g. image, stylesheet
+const BLOCK_RESOURCE_TYPES = [
+  'beacon',
+  'csp_report',
+  'font',
+  'image',
+  'imageset',
+  'media',
+  'object',
+  'texttrack',
+  'stylesheet',
+];
+
 export default async function getHtml({ url }: getHtmlArgs): Promise<string> {
   const browserOptions = {
     headless: true,
@@ -29,9 +42,9 @@ export default async function getHtml({ url }: getHtmlArgs): Promise<string> {
     );
     await context.addCookies(deserializedCookies);
 
-    await page.route('**/*.{png,jpg,jpeg}', (route) => route.abort());
+    await page.route('**/*.{png,jpg,jpeg,mpg,mp4}', (route) => route.abort());
     await page.route('**/*', (route) => {
-      return route.request().resourceType() === 'image'
+      return BLOCK_RESOURCE_TYPES.includes(route.request().resourceType())
         ? route.abort()
         : route.continue();
     });
