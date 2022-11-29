@@ -29,6 +29,13 @@ export default async function getHtml({ url }: getHtmlArgs): Promise<string> {
     );
     await context.addCookies(deserializedCookies);
 
+    await page.route('**/*.{png,jpg,jpeg}', (route) => route.abort());
+    await page.route('**/*', (route) => {
+      return route.request().resourceType() === 'image'
+        ? route.abort()
+        : route.continue();
+    });
+
     await page.goto(url, { waitUntil: 'domcontentloaded', timeout });
     await page.waitForTimeout(waitForTimeout);
 
