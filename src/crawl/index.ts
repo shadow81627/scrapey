@@ -27,11 +27,13 @@ async function fetchCrawlUrls({
     where: [
       {
         crawledAt: IsNull(),
+        image: IsNull(),
         hostname: In(allowedHosts),
         canonical: IsNull(),
       },
       {
         crawledAt: IsNull(),
+        image: IsNull(),
         hostname: In(allowedHosts),
         canonical: Raw('canonicalId'),
       },
@@ -43,11 +45,13 @@ async function fetchCrawlUrls({
       where: [
         {
           crawledAt: IsNull(),
+          image: IsNull(),
           hostname,
           canonical: IsNull(),
         },
         {
           crawledAt: IsNull(),
+          image: IsNull(),
           hostname,
           canonical: Raw('canonicalId'),
         },
@@ -108,14 +112,14 @@ type MySubject = {
     page++;
     if (!urls || !urls.length) {
       console.log('No urls found, terminating queue and database connection.');
-      pool.queue(({complete}) => complete())
+      pool.queue(({ complete }) => complete());
       await pool.completed();
       await connection.destroy();
       await pool.terminate();
       return;
     }
     for (const url of urls) {
-      const task = pool.queue(({crawl}) => crawl(url.url));
+      const task = pool.queue(({ crawl }) => crawl(url.url));
       $tasks.next({ task, url });
     }
     await pool.completed();
