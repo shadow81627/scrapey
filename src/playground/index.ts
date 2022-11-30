@@ -9,11 +9,13 @@ import gitTimeStamps from './gitTimeStamps';
 import urlsMissingUrls from './urlsMissingUrls';
 import probeImages from './probeImages';
 import imageUrls from './imageUrls';
+import deleteBudgetBytesCommentUrls from './deleteBudgetBytesCommentUrls';
 
 (async () => {
   await AppDataSource.initialize();
 
   const responses = {
+    deleteBudgetBytesCommentUrls: '',
     deleteDisallowedDomains: '',
     colesNationalReplaceUrls: '',
     incorrectUrlIds: '',
@@ -25,6 +27,7 @@ import imageUrls from './imageUrls';
     gitTimeStamps: '',
   }
 
+  responses.deleteBudgetBytesCommentUrls = await deleteBudgetBytesCommentUrls()
   responses.deleteDisallowedDomains = await deleteDisallowedDomains();
   responses.colesNationalReplaceUrls = await colesNationalReplaceUrls();
   responses.incorrectUrlIds = await incorrectUrlIds();
