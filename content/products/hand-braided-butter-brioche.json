@@ -1,0 +1,50 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "400g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$2.08 per 100G"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Made in France"
+    }
+  ],
+  "brand": "La Fournee Doree",
+  "createdAt": "2022-11-30T00:39:09.369Z",
+  "description": "La Fournee Doree offers a range of delicious Organic Brioches! Baked from high-quality ingredients with unrivaled expertise, hurry up to taste our sliced hand-braided brioche loaf, Milk bread rolls and Parisian brioches!",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/3/7/3377005.jpg",
+  "name": "Hand Braided Butter Brioche",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 8.3,
+    "lowPrice": 8.3,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-30T00:39:09.368Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "8.30",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/tp-hand-plaited-butter-brioche-loaf-3377005p"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/tp-hand-plaited-butter-brioche-loaf-3377005p"
+  ],
+  "sku": "3377005",
+  "updatedAt": "2022-11-30T00:39:09.368Z"
+}

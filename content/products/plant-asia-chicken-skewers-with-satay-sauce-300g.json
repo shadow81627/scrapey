@@ -1,0 +1,60 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "Approx.703kJ",
+      "carbohydrateContent": "Approx.5.5g",
+      "dietary_fibre": "Approx.7.6g",
+      "fatContent": "Approx.8.8g",
+      "name": "nutrition",
+      "proteinContent": "Approx.12.9g",
+      "saturatedFatContent": "Approx.6.2g",
+      "servingSize": "100 g",
+      "sodiumContent": "Approx.555mg",
+      "sugarContent": "Approx.3.3g"
+    }
+  ],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Plant Asia"
+  },
+  "createdAt": "2022-11-30T02:46:22.277Z",
+  "description": "Dinner is sorted, thanks to these succulent Satay Chicken Skewers. Simply serve with your choice of veggies or a crispy Asian Style salad, for a mouthwatering meal that'll have everyone coming back for more!",
+  "gtin13": "9354853000689",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/151981.jpg",
+  "name": "Plant Asia Chicken Skewers With Satay Sauce 300G",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 9,
+    "lowPrice": 9,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-30T02:46:22.275Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 9,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/151981/plant-asia-chicken-skewers-with-satay-sauce"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/151981/plant-asia-chicken-skewers-with-satay-sauce"
+  ],
+  "sku": "151981",
+  "updatedAt": "2022-11-30T02:46:22.276Z"
+}

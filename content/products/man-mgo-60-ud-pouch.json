@@ -1,0 +1,54 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "100% Australian Manuka Honey"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "26.0"
+    },
+    {
+      "name": "Size",
+      "value": "400g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$4.00 per 100G"
+    }
+  ],
+  "brand": "Capilano",
+  "createdAt": "2022-11-30T02:37:47.694Z",
+  "description": "Capilano Man Mgo 60+ UD Pouch",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/4/8/5486067.jpg",
+  "name": "Man Mgo 60+ UD Pouch",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 16,
+    "lowPrice": 16,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/OutOfStock",
+        "availabilityStarts": "2022-11-30T02:37:47.693Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "16.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/upside-down-pouch-400g"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/upside-down-pouch-400g"
+  ],
+  "sku": "5486067",
+  "updatedAt": "2022-11-30T02:37:47.693Z"
+}

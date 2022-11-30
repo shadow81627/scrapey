@@ -1,26 +1,36 @@
 {
   "@type": "Recipe",
+  "author": {
+    "@type": "Person",
+    "name": "Fresh Ideas"
+  },
   "cookTime": "PT20M",
   "createdAt": "2022-11-24T03:17:47.000Z",
-  "datePublished": "2021-03-10",
+  "datePublished": "2022-09-26",
   "description": "Try our easy to follow Chocolate Custard Bread Crust Tarts recipe. Absolutely delicious with the best ingredients from Woolworths.",
-  "image": {
-    "@type": "ImageObject",
-    "height": 1300,
-    "mime": "image/png",
-    "url": "https://foodhub.scene7.com/is/image/woolworthsltdprod/1811-chocolate-custard-bread-crust-tarts?wid=1300&hei=1300&fmt=png-alpha",
-    "width": 1300
-  },
-  "keywords": "Chocolate Custard Bread Crust Tarts",
+  "image": [
+    "https://foodhub.scene7.com/is/image/woolworthsltdprod/1811-chocolate-custard-bread-crust-tarts:Square-1300x1300"
+  ],
+  "keywords": "Custard tart,Pescatarian,High tea,High protein,Seafood free,Low salt,Tree nut free,Mother's Day,Quick & easy dessert,Peanut free",
   "name": "Chocolate Custard Bread Crust Tarts Recipe | Woolworths",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "560 calories",
+    "carbohydrateContent": "89.0 g",
+    "fatContent": "16.6 g",
+    "proteinContent": "11.0 g",
+    "saturatedFatContent": "9.8 g",
+    "sodiumContent": "225 millig",
+    "sugarContent": "76.5 g"
+  },
   "prepTime": "PT5M",
-  "recipeCategory": "desserts",
-  "recipeCuisine": "european",
+  "recipeCategory": "Desserts",
+  "recipeCuisine": "French",
   "recipeId": "8193",
   "recipeIngredient": [
     "1 cup milk",
     "2 tbs icing sugar",
-    "1 tbs butter",
+    "1 tbs butter, softened",
     "1 tbs cocoa powder",
     "2 bread crusts",
     "1 egg",
@@ -29,31 +39,31 @@
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Bake for 20 minutes or until the crusts are just browned and the custard has only a slight wobble. Cool completely in the tray before removing carefully. Dust with icing sugar to serve."
+      "HowToTip": {},
+      "text": "Preheat oven to 180oC and grease two muffin tin holes with butter."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Bake for 20 minutes or until the crusts are just browned and the custard has only a slight wobble. Cool completely in the tray before removing carefully. Dust with icing sugar to serve."
+      "HowToTip": {},
+      "text": "Push crusts into muffin tin holes."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Bake for 20 minutes or until the crusts are just browned and the custard has only a slight wobble. Cool completely in the tray before removing carefully. Dust with icing sugar to serve."
+      "HowToTip": {},
+      "text": "Whisk together milk, sugar, egg and cocoa powder. Fill the crusts with mixture."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
+      "HowToTip": {},
       "text": "Bake for 20 minutes or until the crusts are just browned and the custard has only a slight wobble. Cool completely in the tray before removing carefully. Dust with icing sugar to serve."
     }
   ],
   "recipeNameId": "chocolate-custard-bread-crust-tarts",
   "recipeYield": "2",
   "sameAs": [
-    "https://woolworths.com.au/shop/find-recipes/bread-crust"
+    "https://woolworths.com.au/shop/recipes/chocolate-custard-bread-crust-tarts"
   ],
   "totalTime": "PT25M",
-  "updatedAt": "2022-11-24T12:03:13.471Z",
+  "updatedAt": "2022-11-30T01:43:07.964Z",
   "url": "https://www.woolworths.com.au/shop/recipes/chocolate-custard-bread-crust-tarts"
 }

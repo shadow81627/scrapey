@@ -3,11 +3,7 @@
   "additionalProperty": [
     {
       "name": "Ingredients",
-      "value": "Milk Chocolate (28%) [Sugar, Cocoa Butter, Cocoa Mass, Milk, Whey, Butter Oil, Vegetable Fat (Shea, Palm), Emulsifier (322, 476), Natural Vanilla Flavouring], Wheat Flour, Cream Filling (23%) [Sugar, Palm Oil, Cocoa Powder, Natural Vanilla Flavouring], Sugar, Palm Oil, Glucose-Fructose Syrup, Cocoa Powder, Raising Agent (503ii, 500ii), Salt, Natural Vanilla Flavouring, Contains min. of 25% Cocoa Solids and min. of 14% Milk Solids"
-    },
-    {
-      "name": "Allergen",
-      "value": "May Contain Tree Nuts, Contains Cereals, Contains Soybean, Contains Milk"
+      "value": "Milk Chocolate (28%) (Sugar, Cocoa Butter, Cocoa Mass, Milk, Whey, Butter Oil, Vegetable Fat (Shea, Palm), Emulsifier (322, 476), Natural Vanilla Flavouring), Wheat Flour, Cream Filling (23%) (Sugar, Palm Oil, Cocoa Powder, Natural Vanilla Flavouring), Sugar, Palm Oil, Glucose-Fructose Syrup, Cocoa Powder, Raising Agent (503ii, 500ii), Salt, Natural Vanilla Flavouring, Contains min. of 25% Cocoa Solids and min. of 14% Milk Solids"
     },
     {
       "name": "Dietary",
@@ -15,7 +11,11 @@
     },
     {
       "name": "Servings Per Pack",
-      "value": "6.0"
+      "value": "15.0"
+    },
+    {
+      "name": "Warning",
+      "value": "DO NOT PURCHASE IF TORN"
     },
     {
       "name": "Size",
@@ -23,38 +23,32 @@
     },
     {
       "name": "Unit Price",
-      "value": "$1.70 per 100G"
+      "value": "$1.90 per 100G"
     },
     {
       "name": "Country Of Origin",
-      "value": "Made in the United Kingdom from local and imported ingredients"
+      "value": "Made in UK with local and Imported Ingredients"
     }
   ],
   "brand": "McVitie's",
   "createdAt": "2020-11-15T12:30:20.000Z",
-  "description": "McVitie's Penguin Biscuits 6 Pack",
-  "image": {
-    "@type": "ImageObject",
-    "height": 300,
-    "mime": "image/jpeg",
-    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/1/6/5/1656074.jpg",
-    "width": 300
-  },
+  "description": "Milk chocolate covered biscuit bars filled with chocolate cream",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/1/6/5/1656074.jpg",
   "name": "Penguin Biscuits 6 Pack",
   "offers": {
     "@type": "AggregateOffer",
-    "highPrice": 2.5,
-    "lowPrice": 2.5,
+    "highPrice": 2.8,
+    "lowPrice": 2.8,
     "offerCount": 1,
     "offers": [
       {
         "@context": "http://schema.org",
         "@type": "Offer",
         "availability": "https://schema.org/InStock",
-        "availabilityStarts": "2020-11-15T05:18:04.587Z",
+        "availabilityStarts": "2022-11-30T02:04:26.802Z",
         "itemCondition": "https://schema.org/NewCondition",
         "offeredBy": "Coles",
-        "price": "2.50",
+        "price": "2.80",
         "priceCurrency": "AUD",
         "seller": {
           "@type": "Organization",
@@ -65,8 +59,8 @@
     ]
   },
   "sameAs": [
-    "https://shop.coles.com.au/a/sunnybank-hills/product/mcvities-penguin-biscuits-9-pack"
+    "https://shop.coles.com.au/a/national/product/mcvities-penguin-biscuits-9-pack"
   ],
   "sku": "1656074",
-  "updatedAt": "2020-11-15T05:18:04.587Z"
+  "updatedAt": "2022-11-30T02:04:26.802Z"
 }

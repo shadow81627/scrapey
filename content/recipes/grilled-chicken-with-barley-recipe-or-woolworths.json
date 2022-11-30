@@ -1,76 +1,87 @@
 {
   "@type": "Recipe",
+  "author": {
+    "@type": "Person",
+    "name": "Fresh Ideas"
+  },
   "cookTime": "PT10M",
   "createdAt": "2022-11-24T22:03:11.000Z",
-  "datePublished": "2021-03-10",
+  "datePublished": "2022-09-26",
   "description": "Try our easy to follow Grilled Chicken With Barley recipe. Absolutely delicious with the best ingredients from Woolworths.",
-  "image": {
-    "@type": "ImageObject",
-    "height": 1300,
-    "mime": "image/png",
-    "url": "https://foodhub.scene7.com/is/image/woolworthsltdprod/1610-grilledchickenwithbarley?wid=1300&hei=1300&fmt=png-alpha",
-    "width": 1300
-  },
-  "keywords": "Grilled Chicken With Barley",
+  "image": [
+    "https://foodhub.scene7.com/is/image/woolworthsltdprod/1610-grilledchickenwithbarley:Square-1300x1300"
+  ],
+  "keywords": "Chicken salad,Seafood free,Low salt,Tree nut free,Egg free,Low sugar,Sesame free,Zucchini,High protein,High fibre,Soy free,Wheat free,Tomato,Chicken,Beetroot,Peanut free",
   "name": "Grilled Chicken With Barley Recipe | Woolworths",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "638 calories",
+    "carbohydrateContent": "36.8 g",
+    "fatContent": "36.2 g",
+    "fiberContent": "11.1 g",
+    "proteinContent": "39.0 g",
+    "saturatedFatContent": "9.7 g",
+    "sodiumContent": "288 millig",
+    "sugarContent": "12.8 g"
+  },
   "prepTime": "PT25M",
-  "recipeCategory": "mains",
-  "recipeCuisine": "north-american",
+  "recipeCategory": "Mains",
+  "recipeCuisine": "North American",
   "recipeId": "4810",
   "recipeIngredient": [
-    "3 baby beetroots",
-    "3 spring onions",
-    "250 g cherry tomatoes",
+    "3 baby beetroots, peeled",
+    "3 spring onions, thinly sliced diagonally",
+    "250g cherry tomatoes, halved",
     "2 cup watercress",
     "2 small zucchini",
-    "80 g avocado oil",
+    "80g avocado oil (save 34g for later)",
     "1 tsp sweet smoked paprika",
-    "1 lemon",
-    "0.5 cup parmesan",
+    "1 lemon, juiced and rind finely grated",
+    "0.5 cup parmesan, shaved (to serve)",
     "0.75 cup pearl barley",
-    "500 g chicken tenderloins",
-    "1 tbs chives",
-    "1 garlic clove",
+    "500g chicken tenderloins",
+    "1 tbs chives, chopped",
+    "1 garlic clove, crushed",
     "2 tbs goji berries"
   ],
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Pile salad onto serving plates and top with chicken and parmesan."
+      "HowToTip": {},
+      "text": "Combine oil, paprika, lemon rind and garlic in a large bowl. Season with salt and pepper. Add chicken and toss to coat. Set aside."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Pile salad onto serving plates and top with chicken and parmesan."
+      "HowToTip": {},
+      "text": "Bring a large saucepan of water to the boil. Add barley and cook for 40-50 minutes or until tender."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Pile salad onto serving plates and top with chicken and parmesan."
+      "HowToTip": {},
+      "text": "Meanwhile, using a vegetable peeler, thinly shave beetroots and zucchini into long thin ribbons. Set aside."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Pile salad onto serving plates and top with chicken and parmesan."
+      "HowToTip": {},
+      "text": "Preheat a chargrill pan or barbecue over medium heat. Cook chicken for 3 minutes on each side. Set aside to rest for 5 minutes, then cut each piece into thirds."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Pile salad onto serving plates and top with chicken and parmesan."
+      "HowToTip": {},
+      "text": "Drain barley and rinse under cold water. Place the cooled barley, beetroot, zucchini, watercress, tomato, onion and berries into a large bowl. Whisk lemon dressing ingredients together and pour over the salad. Season with salt and pepper and toss to combine."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
+      "HowToTip": {},
       "text": "Pile salad onto serving plates and top with chicken and parmesan."
     }
   ],
   "recipeNameId": "grilled-chicken-with-barley",
   "recipeYield": "4",
   "sameAs": [
-    "https://woolworths.com.au/shop/find-recipes/lemon-barley-water"
+    "https://woolworths.com.au/shop/recipes/grilled-chicken-with-barley"
   ],
   "totalTime": "PT35M",
-  "updatedAt": "2022-11-24T17:54:36.483Z",
+  "updatedAt": "2022-11-30T00:35:58.076Z",
   "url": "https://www.woolworths.com.au/shop/recipes/grilled-chicken-with-barley"
 }

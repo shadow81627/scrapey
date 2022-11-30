@@ -1,0 +1,62 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Great Northern Beans"
+    },
+    {
+      "name": "Allergen",
+      "value": "May Contain Tree Nuts"
+    },
+    {
+      "name": "Warning",
+      "value": "WARNING!: This product may contain traces of nuts"
+    },
+    {
+      "name": "Size",
+      "value": "700g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.07 per 100G"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Product of United States of America"
+    }
+  ],
+  "brand": "Royal Fields",
+  "createdAt": "2022-11-30T01:36:55.210Z",
+  "description": "Great Northern beans. A popular choice for baked bean dishes or use them to make a hearty, healthy soup or stew. Product of USA.",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/8/2/3828192.jpg",
+  "name": "Great Northern Beans",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 7.5,
+    "lowPrice": 7.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-30T01:36:55.208Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "7.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/royal-fields-great-northern-beans"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/royal-fields-great-northern-beans"
+  ],
+  "sku": "3828192",
+  "updatedAt": "2022-11-30T01:36:55.208Z"
+}

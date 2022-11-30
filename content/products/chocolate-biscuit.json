@@ -1,0 +1,50 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "150g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$3.33 per 100G"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Made in South Africa"
+    }
+  ],
+  "brand": "Walters Nougat",
+  "createdAt": "2022-11-30T01:05:42.174Z",
+  "description": "Walters Nougat Chocolate Biscuit",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/4/0/3403342.jpg",
+  "name": "Chocolate Biscuit",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 5,
+    "lowPrice": 5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-30T01:05:42.173Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "5.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/walters-nougat-biscuit-chocolate"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/walters-nougat-biscuit-chocolate"
+  ],
+  "sku": "3403342",
+  "updatedAt": "2022-11-30T01:05:42.173Z"
+}

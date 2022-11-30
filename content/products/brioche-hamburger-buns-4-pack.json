@@ -3,11 +3,11 @@
   "additionalProperty": [
     {
       "name": "Ingredients",
-      "value": "INGREDIENTS: Wheat Flour, Water, Sugar, Whole Egg Powder (5%), Canola Oil, Glaze (Water, Vegetable Proteins on Maltodextrins, Sunflower Oil, Dextrose, Starch), Margarine Blend (Vegetable Oils (Canola, Coconut), Water, Butter (Butter Oil, Water, Salt), Salt, Buttermilk Powder, Emulsifiers (471, 472c), Food Acid (270), Natural Flavour, Antioxidant (304), Natural Colour (160a)), Inverted Sugar, Yeast, Anhydrous Butter Oil (1%), Milk Solids, Iodised Salt, Emulsifiers (322 from Soy, 471 from Palm), Acidity Regulators (260, 262), Natural Flavour, Natural Colour (160a), Vitamins (Thiamin, Folic Acid)."
+      "value": "<strong>INGREDIENTS:</strong> <strong>Wheat</strong> Flour, Water, Sugar, Whole <strong>Egg</strong> Powder (5%), Canola Oil, Glaze (Water, Vegetable Proteins on Maltodextrins, Sunflower Oil, Dextrose, Starch), Margarine Blend (Vegetable Oils (Canola, Coconut), Water, <strong>Butter</strong> (<strong>Butter</strong> Oil, Water, Salt), Salt, <strong>Buttermilk</strong> Powder, Emulsifiers (471, 472c), Food Acid (270), Natural Flavour, Antioxidant (304), Natural Colour (160a)), Inverted Sugar, Yeast, Anhydrous <strong>Butter </strong>Oil (1%), <strong>Milk</strong> Solids, Iodised Salt, Emulsifiers (322 from <strong>Soy</strong>, 471 from Palm), Acidity Regulators (260, 262), Natural Flavour, Natural Colour (160a), Vitamins (Thiamin, Folic Acid)."
     },
     {
       "name": "Allergen",
-      "value": "May Be Present TREE NUTS, May Be Present PEANUTS"
+      "value": "Contains SOY, May Be Present TREE NUTS, Contains MILK, Contains EGG, May Be Present PEANUTS, May Be Present SESAME, May Be Present CEREALS CONTAINING GLUTEN, Contains Wheat"
     },
     {
       "name": "Servings Per Pack",
@@ -19,34 +19,28 @@
     },
     {
       "name": "Unit Price",
-      "value": "$1.35 per 100G"
+      "value": "$1.65 per 100G"
     }
   ],
   "brand": "Coles",
   "createdAt": "2020-11-15T12:30:20.000Z",
-  "description": "Coles Brioche Hamburger Buns 4 Pack",
-  "image": {
-    "@type": "ImageObject",
-    "height": 300,
-    "mime": "image/jpeg",
-    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/5/7/3572292.jpg",
-    "width": 300
-  },
+  "description": "Coles Brioche Hamburger Buns are ideal for any occasion. They are soft, light, and delicately sweet, making it effortless to create a perfect burger. Bring these to your next picnic or party and let your guests be creative with how they use them!",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/5/7/3572292.jpg",
   "name": "Brioche Hamburger Buns 4 Pack",
   "offers": {
     "@type": "AggregateOffer",
-    "highPrice": 2.7,
-    "lowPrice": 2.7,
+    "highPrice": 3.3,
+    "lowPrice": 3.3,
     "offerCount": 1,
     "offers": [
       {
         "@context": "http://schema.org",
         "@type": "Offer",
         "availability": "https://schema.org/InStock",
-        "availabilityStarts": "2020-11-15T05:16:22.921Z",
+        "availabilityStarts": "2022-11-30T01:59:56.171Z",
         "itemCondition": "https://schema.org/NewCondition",
         "offeredBy": "Coles",
-        "price": "2.70",
+        "price": "3.30",
         "priceCurrency": "AUD",
         "seller": {
           "@type": "Organization",
@@ -57,8 +51,8 @@
     ]
   },
   "sameAs": [
-    "https://shop.coles.com.au/a/sunnybank-hills/product/coles-brioche-hamburger-bun-4pk"
+    "https://shop.coles.com.au/a/national/product/coles-brioche-hamburger-bun-4pk"
   ],
   "sku": "3572292",
-  "updatedAt": "2020-11-15T05:16:22.921Z"
+  "updatedAt": "2022-11-30T01:59:56.171Z"
 }

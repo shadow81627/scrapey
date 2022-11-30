@@ -3,11 +3,11 @@
   "additionalProperty": [
     {
       "name": "Ingredients",
-      "value": "INGREDIENTS: Wheat Flour, Water, Sugar, Whole Egg Powder (5%), Canola Oil, Glaze (Water, Vegetable Proteins on Maltodextrins, Sunflower Oil, Dextrose, Starch), Margarine Blend (Vegetable Oils (Canola, Coconut), Water, Butter (Butter Oil, Water, Salt), Salt, Buttermilk Powder, Emulsifiers (471, 472c), Food Acid (270), Natural Flavour, Antioxidant (304), Natural Colour (160a)), Inverted Sugar, Yeast, Anhydrous Butter Oil (1%), Milk Solids, Iodised Salt, Emulsifiers (322 (Soy), 471 from Palm**), Acidity Regulators (260, 262), Natural Flavour, Natural Colour (160a), Vitamins (Thiamin, Folate)."
+      "value": "<strong>INGREDIENTS:</strong> <strong>Wheat</strong> Flour, Water, Sugar, Whole <strong>Egg</strong> Powder (5%), Canola Oil, Glaze (Water, Vegetable Proteins on Maltodextrins, Sunflower Oil, Dextrose, Starch), Margarine Blend (Vegetable Oils (Canola, Coconut), Water, <strong>Butter </strong>(<strong>Butter</strong> Oil, Water, Salt), Salt, <strong>Buttermilk</strong> Powder, Emulsifiers (471, 472c), Food Acid (270), Natural Flavour, Antioxidant (304), Natural Colour (160a)), Inverted Sugar, Yeast, Anhydrous <strong>Butter</strong> Oil (1%), <strong>Milk</strong> Solids, Iodised Salt, Emulsifiers (322 (<strong>Soy</strong>), 471 from Palm), Acidity Regulators (260, 262), Natural Flavour, Natural Colour (160a), Vitamins (Thiamin, Folate)."
     },
     {
       "name": "Allergen",
-      "value": "Contains EGG, May Contain TREE NUTS, May Contain PEANUTS, Contains SOY, Contains CEREALS CONTAINING GLUTEN, Contains MILK, May Contain SESAME"
+      "value": "Contains SOY, May Contain SESAME, May Contain Hazelnuts, Contains MILK, Contains EGG, May Contain Almonds, May Contain PEANUTS, Contains Gluten, Contains Wheat, May Contain Pecan"
     },
     {
       "name": "Servings Per Pack",
@@ -19,34 +19,28 @@
     },
     {
       "name": "Unit Price",
-      "value": "$1.00 per 100G"
+      "value": "$1.22 per 100G"
     }
   ],
   "brand": "Coles",
   "createdAt": "2020-11-15T12:30:20.000Z",
-  "description": "Soft, Light and Delicately Sweet",
-  "image": {
-    "@type": "ImageObject",
-    "height": 300,
-    "mime": "image/jpeg",
-    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/7/5/3757120.jpg",
-    "width": 300
-  },
-  "name": "Brioche Hot Dog Roll 6 pack",
+  "description": "Soft, Light and Delicately Sweet. Incredibly soft, light, and buttery Brioche rolls, perfect for a delicious home-made hot dogs.",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/7/5/3757120.jpg",
+  "name": "Brioche Hot Dog Roll 6 Pack",
   "offers": {
     "@type": "AggregateOffer",
-    "highPrice": 2.7,
-    "lowPrice": 2.7,
+    "highPrice": 3.3,
+    "lowPrice": 3.3,
     "offerCount": 1,
     "offers": [
       {
         "@context": "http://schema.org",
         "@type": "Offer",
         "availability": "https://schema.org/InStock",
-        "availabilityStarts": "2020-11-15T05:16:43.143Z",
+        "availabilityStarts": "2022-11-30T02:02:08.671Z",
         "itemCondition": "https://schema.org/NewCondition",
         "offeredBy": "Coles",
-        "price": "2.70",
+        "price": "3.30",
         "priceCurrency": "AUD",
         "seller": {
           "@type": "Organization",
@@ -57,8 +51,8 @@
     ]
   },
   "sameAs": [
-    "https://shop.coles.com.au/a/sunnybank-hills/product/coles-brioche-hot-dog-roll-6pk"
+    "https://shop.coles.com.au/a/national/product/coles-brioche-hot-dog-roll-6pk"
   ],
   "sku": "3757120",
-  "updatedAt": "2020-11-15T05:16:43.144Z"
+  "updatedAt": "2022-11-30T02:02:08.671Z"
 }

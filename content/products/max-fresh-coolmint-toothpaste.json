@@ -1,0 +1,54 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Sorbitol, Water, Hydrated Silica, Sodium Lauryl Sulfate, Flavour, PEG-12, Cellulose Gum, Cocamidopropyl Betaine, Sodium Saccharin, Sodium Fluoride, Hydroxypropyl Methylcellulose, Menthol, Titanium Dioxide, CI 74160, CI 47005."
+    },
+    {
+      "name": "Contains",
+      "value": "Contains the equivalent of 1000ppm Fluoride."
+    },
+    {
+      "name": "Size",
+      "value": "200g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$4.00 per 100G"
+    }
+  ],
+  "brand": "Colgate",
+  "createdAt": "2022-11-30T01:41:14.868Z",
+  "description": "Colgate Max Fresh Coolmint Toothpaste",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/0/5/5059930.jpg",
+  "name": "Max Fresh Coolmint Toothpaste",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 8,
+    "lowPrice": 8,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/OutOfStock",
+        "availabilityStarts": "2022-11-30T01:41:14.867Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "8.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coolmint-toothpaste-5059930p-1"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/coolmint-toothpaste-5059930p-1"
+  ],
+  "sku": "5059930",
+  "updatedAt": "2022-11-30T01:41:14.867Z"
+}

@@ -2,12 +2,20 @@
   "@type": "Product",
   "additionalProperty": [
     {
+      "name": "Ingredients",
+      "value": "water, Kaffrir Lime Leaves (20%), salt, acidity regulator (330)"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "5.0"
+    },
+    {
       "name": "Size",
       "value": "100g"
     },
     {
       "name": "Unit Price",
-      "value": "$28.50 per 1Kg"
+      "value": "$32.00 per 1Kg"
     },
     {
       "name": "Country Of Origin",
@@ -16,29 +24,23 @@
   ],
   "brand": "Valcom",
   "createdAt": "2020-10-12T05:22:04.000Z",
-  "description": "Valcom Kaffir Lime Leaves",
-  "image": {
-    "@type": "ImageObject",
-    "height": 300,
-    "mime": "image/jpeg",
-    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/9/4/3/9435079.jpg",
-    "width": 300
-  },
+  "description": "A fragrant Thai herb which is widely used in Tom Yum soup and most Thai curries, as well as, many other Thai dishes, to enhance flavours.",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/9/4/3/9435079.jpg",
   "name": "Kaffir Lime Leaves",
   "offers": {
     "@type": "AggregateOffer",
-    "highPrice": 2.85,
-    "lowPrice": 2.85,
+    "highPrice": 3.2,
+    "lowPrice": 3.2,
     "offerCount": 1,
     "offers": [
       {
         "@context": "http://schema.org",
         "@type": "Offer",
         "availability": "https://schema.org/InStock",
-        "availabilityStarts": "2020-11-15T09:16:14.955Z",
+        "availabilityStarts": "2022-11-30T02:43:47.713Z",
         "itemCondition": "https://schema.org/NewCondition",
         "offeredBy": "Coles",
-        "price": "2.85",
+        "price": "3.20",
         "priceCurrency": "AUD",
         "seller": {
           "@type": "Organization",
@@ -49,8 +51,8 @@
     ]
   },
   "sameAs": [
-    "https://shop.coles.com.au/a/sunnybank-hills/product/valcom-lime-leaves-kaffir"
+    "https://shop.coles.com.au/a/national/product/valcom-lime-leaves-kaffir"
   ],
   "sku": "9435079",
-  "updatedAt": "2020-11-15T09:16:14.955Z"
+  "updatedAt": "2022-11-30T02:43:47.713Z"
 }

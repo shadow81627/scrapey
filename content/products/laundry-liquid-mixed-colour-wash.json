@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "2L"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$10.00 per 1L"
+    }
+  ],
+  "brand": "Radiant",
+  "createdAt": "2022-11-30T00:14:35.219Z",
+  "description": "Radiant Laundry Liquid Mixed Colour Wash",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/4/1/4/4144250.jpg",
+  "name": "Laundry Liquid Mixed Colour Wash",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 20,
+    "lowPrice": 20,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-30T00:14:35.218Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "20.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/mixed-colour-wash"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/mixed-colour-wash"
+  ],
+  "sku": "4144250",
+  "updatedAt": "2022-11-30T00:14:35.218Z"
+}

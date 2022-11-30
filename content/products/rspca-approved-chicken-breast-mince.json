@@ -3,11 +3,11 @@
   "additionalProperty": [
     {
       "name": "Servings Per Pack",
-      "value": "4.0"
+      "value": "5.0"
     },
     {
       "name": "Warning",
-      "value": "Food Warnings:rnALL CARE HAS BEEN TAKEN TO REMOVE ALL BONES AND SHELL FRAGMENTS, HOWEVER SOME MAY REMAIN.rnrn"
+      "value": "Food Warnings: ALL CARE HAS BEEN TAKEN TO REMOVE ALL BONES AND SHELL FRAGMENTS, HOWEVER SOME MAY REMAIN."
     },
     {
       "name": "Size",
@@ -15,34 +15,28 @@
     },
     {
       "name": "Unit Price",
-      "value": "$12.00 per 1Kg"
+      "value": "$14.00 per 1Kg"
     }
   ],
   "brand": "Coles",
   "createdAt": "2020-10-12T05:22:04.000Z",
-  "description": "NATURALLY LEAN TYPICALLY LESS THAN 2% FAT",
-  "image": {
-    "@type": "ImageObject",
-    "height": 300,
-    "mime": "image/jpeg",
-    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/8/4/2/8428646.jpg",
-    "width": 300
-  },
+  "description": "TYPICALLY LESS THAN 2% FAT : RSPCA chicken",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/8/4/2/8428646.jpg",
   "name": "RSPCA Approved Chicken Breast Mince",
   "offers": {
     "@type": "AggregateOffer",
-    "highPrice": 6,
-    "lowPrice": 6,
+    "highPrice": 7,
+    "lowPrice": 7,
     "offerCount": 1,
     "offers": [
       {
         "@context": "http://schema.org",
         "@type": "Offer",
         "availability": "https://schema.org/InStock",
-        "availabilityStarts": "2020-11-15T07:49:27.337Z",
+        "availabilityStarts": "2022-11-30T02:56:55.809Z",
         "itemCondition": "https://schema.org/NewCondition",
         "offeredBy": "Coles",
-        "price": "6.00",
+        "price": "7.00",
         "priceCurrency": "AUD",
         "seller": {
           "@type": "Organization",
@@ -53,8 +47,8 @@
     ]
   },
   "sameAs": [
-    "https://shop.coles.com.au/a/sunnybank-hills/product/coles-chicken-mince"
+    "https://shop.coles.com.au/a/national/product/coles-chicken-mince"
   ],
   "sku": "8428646",
-  "updatedAt": "2020-11-15T07:49:27.337Z"
+  "updatedAt": "2022-11-30T02:56:55.809Z"
 }

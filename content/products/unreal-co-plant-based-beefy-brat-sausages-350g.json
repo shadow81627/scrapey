@@ -1,0 +1,60 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "410kJ",
+      "carbohydrateContent": "3.8g",
+      "dietary_fibre": "-",
+      "fatContent": "6g",
+      "name": "nutrition",
+      "proteinContent": "7.1g",
+      "saturatedFatContent": "3.5g",
+      "servingSize": "100 g",
+      "sodiumContent": "300mg",
+      "sugarContent": "0.3g"
+    }
+  ],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Unreal Co."
+  },
+  "createdAt": "2022-11-30T02:47:30.313Z",
+  "description": "Unreal Co.'s Beefy Brat Sausages are bursting with a rich and savoury flavour. These bangers have been specially seasoned for that distinct smokey bratwurst character, and they're begging to be gently fried on the grill and served in a proper smothering of fried onions.",
+  "gtin13": "9353712000297",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/065255.jpg",
+  "name": "Unreal Co. Plant Based Beefy Brat Sausages 350G",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 4,
+    "lowPrice": 4,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-30T02:47:30.312Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 4,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/65255/unreal-co-plant-based-beefy-brat-sausages"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/65255/unreal-co-plant-based-beefy-brat-sausages"
+  ],
+  "sku": "65255",
+  "updatedAt": "2022-11-30T02:47:30.312Z"
+}

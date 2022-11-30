@@ -3,7 +3,11 @@
   "additionalProperty": [
     {
       "name": "Ingredients",
-      "value": " Wholemeal Wheat Flour."
+      "value": "<b>INGREDIENTS:</b> Wholemeal <strong>Wheat</strong> Flour."
+    },
+    {
+      "name": "Allergen",
+      "value": "Contains CEREALS CONTAINING GLUTEN, Contains Wheat"
     },
     {
       "name": "Servings Per Pack",
@@ -11,7 +15,7 @@
     },
     {
       "name": "Size",
-      "value": "1kg"
+      "value": "1 kg"
     },
     {
       "name": "Unit Price",
@@ -21,13 +25,7 @@
   "brand": "Coles",
   "createdAt": "2020-10-12T05:22:04.000Z",
   "description": "Unbleached Made with Australian Wheat",
-  "image": {
-    "@type": "ImageObject",
-    "height": 300,
-    "mime": "image/jpeg",
-    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/8/8/5880943.jpg",
-    "width": 300
-  },
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/8/8/5880943.jpg",
   "name": "Wholemeal Plain Flour",
   "offers": {
     "@type": "AggregateOffer",
@@ -39,7 +37,7 @@
         "@context": "http://schema.org",
         "@type": "Offer",
         "availability": "https://schema.org/InStock",
-        "availabilityStarts": "2020-11-15T05:25:57.455Z",
+        "availabilityStarts": "2022-11-30T02:31:59.346Z",
         "itemCondition": "https://schema.org/NewCondition",
         "offeredBy": "Coles",
         "price": "2.00",
@@ -53,8 +51,8 @@
     ]
   },
   "sameAs": [
-    "https://shop.coles.com.au/a/sunnybank-hills/product/coles-flour-plain-wholemeal"
+    "https://shop.coles.com.au/a/national/product/coles-flour-plain-wholemeal"
   ],
   "sku": "5880943",
-  "updatedAt": "2020-11-15T05:25:57.455Z"
+  "updatedAt": "2022-11-30T02:31:59.346Z"
 }

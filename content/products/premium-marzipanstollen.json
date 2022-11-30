@@ -1,0 +1,50 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "200g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.88 per 100G"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Made in Germany"
+    }
+  ],
+  "brand": "Kuchenmeister",
+  "createdAt": "2022-11-30T00:31:41.075Z",
+  "description": "Refined enjoyment. KuchenMeister Luxury Marzipan Stollen consists of deliciously heavy yeast dough and contains a juicy filling made of noble marzipan that will spoil your taste buds. In combination with fruity raisins and a generous layer of powdered sugar, the specific Christmas treat is created.",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/5/4/3545642.jpg",
+  "name": "Premium Marzipanstollen",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3.75,
+    "lowPrice": 3.75,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-30T00:31:41.075Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "3.75",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/kuchenmeister-premium-marzipanstollen"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/kuchenmeister-premium-marzipanstollen"
+  ],
+  "sku": "3545642",
+  "updatedAt": "2022-11-30T00:31:41.075Z"
+}

@@ -1,0 +1,62 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Concentrated Tomatoes (Contains 147g of Tomatoes per 100mL), Sugar, Salt, Concentrated White Vinegar, Natural Flavours, Food Acid (Citric Acid). Contains 77% Concentrated Tomatoes."
+    },
+    {
+      "name": "Dietary",
+      "value": "No Added Colours, No Preservatives"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "33.0"
+    },
+    {
+      "name": "Size",
+      "value": "500mL"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.70 per 100mL"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Made in Netherlands"
+    }
+  ],
+  "brand": "Heinz",
+  "createdAt": "2022-11-30T03:08:21.215Z",
+  "description": "Heinz Ketchup Tomato Sauce",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/3/2/5328995.jpg",
+  "name": "Ketchup Tomato Sauce",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3.5,
+    "lowPrice": 3.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-30T03:08:21.213Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "3.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/heinz-tomato-ketchup-sauce"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/heinz-tomato-ketchup-sauce"
+  ],
+  "sku": "5328995",
+  "updatedAt": "2022-11-30T03:08:21.214Z"
+}

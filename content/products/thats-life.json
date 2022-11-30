@@ -1,36 +1,25 @@
 {
   "@type": "Product",
-  "additionalProperty": [
-    {
-      "name": "Unit Price",
-      "value": "$3.70 per 1Ea"
-    }
-  ],
+  "additionalProperty": [],
   "brand": "Magazine",
   "createdAt": "2020-10-12T05:22:04.000Z",
   "description": "Cover may not depict edition offered for sale.",
-  "image": {
-    "@type": "ImageObject",
-    "height": 300,
-    "mime": "image/jpeg",
-    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/5/1/5515948.jpg",
-    "width": 300
-  },
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/5/1/5515948.jpg",
   "name": "That's Life",
   "offers": {
     "@type": "AggregateOffer",
-    "highPrice": 3.7,
-    "lowPrice": 3.7,
+    "highPrice": 3.95,
+    "lowPrice": 3.95,
     "offerCount": 1,
     "offers": [
       {
         "@context": "http://schema.org",
         "@type": "Offer",
         "availability": "https://schema.org/InStock",
-        "availabilityStarts": "2020-11-15T11:07:29.664Z",
+        "availabilityStarts": "2022-11-30T01:56:47.354Z",
         "itemCondition": "https://schema.org/NewCondition",
         "offeredBy": "Coles",
-        "price": "3.70",
+        "price": "3.95",
         "priceCurrency": "AUD",
         "seller": {
           "@type": "Organization",
@@ -41,8 +30,8 @@
     ]
   },
   "sameAs": [
-    "https://shop.coles.com.au/a/sunnybank-hills/product/thats-life-magazine"
+    "https://shop.coles.com.au/a/national/product/thats-life-magazine"
   ],
   "sku": "5515948",
-  "updatedAt": "2020-11-15T11:07:29.664Z"
+  "updatedAt": "2022-11-30T01:56:47.354Z"
 }

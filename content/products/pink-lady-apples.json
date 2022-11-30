@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "approx. 200g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$5.50 per 1Kg"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2022-11-30T02:48:16.852Z",
+  "description": "Known for its brilliant pink blush colour, Pink Lady apples are large, crisp and juicy apples. Their sweet and tarty flavour creates an almost fizz like burst of flavour with each bite.",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/1/1/5111654.jpg",
+  "name": "Pink Lady Apples",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 1.1,
+    "lowPrice": 1.1,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-30T02:48:16.851Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "1.10",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/apples-pink-lady-loose"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/apples-pink-lady-loose"
+  ],
+  "sku": "5111654",
+  "updatedAt": "2022-11-30T02:48:16.851Z"
+}

@@ -1,0 +1,54 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Aqua, Alcohol Denat., Propylene Glycol, PEG-40 Hydrogenated Castor Oil, Linalool, Limonene, Geraniol, Coumarin, AlphaIsomethyl Ionone, Citronellol, Parfum"
+    },
+    {
+      "name": "Warning",
+      "value": "Avoid eye area."
+    },
+    {
+      "name": "Size",
+      "value": "100mL"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$6.00 per 100mL"
+    }
+  ],
+  "brand": "Nivea",
+  "createdAt": "2022-11-30T02:28:59.487Z",
+  "description": "Nivea Men Deep Antibacterial After Shave Lotion",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/3/6/3365582.jpg",
+  "name": "Men Deep Antibacterial After Shave Lotion",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 6,
+    "lowPrice": 6,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-30T02:28:59.487Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "6.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/nivea-men-deep-after-shave-lotion"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/nivea-men-deep-after-shave-lotion"
+  ],
+  "sku": "3365582",
+  "updatedAt": "2022-11-30T02:28:59.487Z"
+}

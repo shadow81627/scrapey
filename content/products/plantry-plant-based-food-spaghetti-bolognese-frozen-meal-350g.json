@@ -1,0 +1,60 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "1590kJ",
+      "carbohydrateContent": "49.4g",
+      "dietary_fibre": "4.9g",
+      "fatContent": "8.4g",
+      "name": "nutrition",
+      "proteinContent": "22.4g",
+      "saturatedFatContent": "3.5g",
+      "servingSize": "100 g",
+      "sodiumContent": "1120mg",
+      "sugarContent": "8.4g"
+    }
+  ],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Plantry"
+  },
+  "createdAt": "2022-11-30T02:50:33.480Z",
+  "description": "Plantry Spaghetti Bolognese is one of the favourites in the range. Savour every bite of chewy pasta coated in delicious tomato sauce and seasoned with mixed herbs. Pair with a slice of vegan garlic bread for a filling meal.<BR><BR>Plantry Spaghetti Bolognese gives you a vegan version of a classic comfort food. Freshly made and snap frozen, this microwaveable, plant based meal is crafted by professional chefs for incredible taste. Stock it in your freezer for busy days when you need to whip up filling and tasty meals.<BR><BR>• Meat free spaghetti bolognese<BR><BR>• Vegan<BR><BR>• Prepared by professional chefs<BR><BR>• Made with quality ingredients<BR><BR>• Great for quick meals",
+  "gtin13": "9310047219893",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/113985.jpg",
+  "name": "Plantry Plant Based Food Spaghetti Bolognese Frozen Meal 350G",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 9,
+    "lowPrice": 9,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-30T02:50:33.479Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 9,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/113985/plantry-plant-based-food-spaghetti-bolognese-frozen-meal"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/113985/plantry-plant-based-food-spaghetti-bolognese-frozen-meal"
+  ],
+  "sku": "113985",
+  "updatedAt": "2022-11-30T02:50:33.479Z"
+}

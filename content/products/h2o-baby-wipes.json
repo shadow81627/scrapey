@@ -1,0 +1,54 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Contains",
+      "value": "72 Wipes"
+    },
+    {
+      "name": "Warning",
+      "value": "Product details, including nutritional information and country of origin, may change from time to time and so the product you receive in your order may not reflect the information on this page. Please check the packaging on any product you purchase and if it's not what you expected, feel free to return it for a full refund."
+    },
+    {
+      "name": "Size",
+      "value": "72 pack"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$6.94 per 100Ea"
+    }
+  ],
+  "brand": "Rascal + Friends",
+  "createdAt": "2022-11-30T01:03:14.964Z",
+  "description": "Rascal + Friends H2O Baby Wipes",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/2/5/5253637.jpg",
+  "name": "H2O Baby Wipes",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 5,
+    "lowPrice": 5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/OutOfStock",
+        "availabilityStarts": "2022-11-30T01:03:14.962Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "5.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/h2o-baby-wipes"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/h2o-baby-wipes"
+  ],
+  "sku": "5253637",
+  "updatedAt": "2022-11-30T01:03:14.962Z"
+}

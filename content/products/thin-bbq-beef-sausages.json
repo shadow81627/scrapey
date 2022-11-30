@@ -3,11 +3,11 @@
   "additionalProperty": [
     {
       "name": "Ingredients",
-      "value": "INGREDIENTS: No Added Hormone Australian Beef (72%), Water, Sausage Mix [Rice Flour, Salt, Acidity Regulator (451), Preservative (223), Hydrolysed Maize Protein, Maize Maltodextrin, Vegetable Powders (Onion, Garlic), Spice Extracts (Paprika Oleoresins, Black Pepper, Coriander, Nutmeg, Pimento), Spices (Ginger, Paprika), Herb Extract (Rosemary)], Casing [Water, Thickener (401, 412), Acidity Regulator (330, 270), Preservative (223),Firming Agent (509)]."
+      "value": "<strong>INGREDIENTS:</strong> No Added Hormone Australian Beef (72%), Water, Sausage Mix [Rice Flour, Salt, Acidity Regulator (451), Preservative (<strong>223</strong>), Hydrolysed Maize Protein, Maize Maltodextrin, Vegetable Powders (Onion, Garlic), Spice Extracts (Paprika Oleoresins, Black Pepper, Coriander, Nutmeg, Pimento), Spices (Ginger, Paprika), Herb Extract (Rosemary)], Casing [Water, Thickener (401, 412), Acidity Regulator (330, 270), Preservative (<strong>223</strong>),Firming Agent (509)]."
     },
     {
       "name": "Allergen",
-      "value": "May Contain MILK, Contains SULPHITES, May Contain SOY"
+      "value": "Contains SULPHITES"
     },
     {
       "name": "Servings Per Pack",
@@ -15,38 +15,32 @@
     },
     {
       "name": "Size",
-      "value": "1.8kg"
+      "value": "1.8 kg"
     },
     {
       "name": "Unit Price",
-      "value": "$5.00 per 1Kg"
+      "value": "$6.67 per 1Kg"
     }
   ],
   "brand": "Coles",
   "createdAt": "2020-11-15T12:30:20.000Z",
-  "description": "Please include the following code on label in small writing for internal ACC delivery inspection verification: PACKAG6058",
-  "image": {
-    "@type": "ImageObject",
-    "height": 300,
-    "mime": "image/jpeg",
-    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/5/7/3577650.jpg",
-    "width": 300
-  },
+  "description": "THIN BEEF BBQ SAUSAGES Made with Australian Beef",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/5/7/3577650.jpg",
   "name": "Thin BBQ Beef Sausages",
   "offers": {
     "@type": "AggregateOffer",
-    "highPrice": 9,
-    "lowPrice": 9,
+    "highPrice": 12,
+    "lowPrice": 12,
     "offerCount": 1,
     "offers": [
       {
         "@context": "http://schema.org",
         "@type": "Offer",
         "availability": "https://schema.org/InStock",
-        "availabilityStarts": "2020-11-15T07:47:07.592Z",
+        "availabilityStarts": "2022-11-30T02:42:59.718Z",
         "itemCondition": "https://schema.org/NewCondition",
         "offeredBy": "Coles",
-        "price": "9.00",
+        "price": "12.00",
         "priceCurrency": "AUD",
         "seller": {
           "@type": "Organization",
@@ -57,8 +51,8 @@
     ]
   },
   "sameAs": [
-    "https://shop.coles.com.au/a/sunnybank-hills/product/coles-bbq-beef-sausages"
+    "https://shop.coles.com.au/a/national/product/coles-bbq-beef-sausages"
   ],
   "sku": "3577650",
-  "updatedAt": "2020-11-15T07:47:07.592Z"
+  "updatedAt": "2022-11-30T02:42:59.718Z"
 }

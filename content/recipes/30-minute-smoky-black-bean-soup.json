@@ -2,8 +2,8 @@
   "@type": "Recipe",
   "aggregateRating": {
     "@type": "AggregateRating",
-    "ratingCount": "16",
-    "ratingValue": "4.94"
+    "ratingCount": "26",
+    "ratingValue": "4.97"
   },
   "author": {
     "@type": "Person",
@@ -13,13 +13,12 @@
   "createdAt": "2020-10-12T05:22:04.000Z",
   "datePublished": "2019-11-20T10:12:20+00:00",
   "description": "This super fast and easy Smoky Black Bean Soup is rich, filling, flavorful, and waiting to be piled high with fun toppings! An easy vegan weeknight dinner.",
-  "image": {
-    "@type": "ImageObject",
-    "height": 600,
-    "mime": "image/jpeg",
-    "url": "https://www.budgetbytes.com/wp-content/uploads/2019/11/Smoky-Black-Bean-Soup-two-bowls-toppings.jpg",
-    "width": 800
-  },
+  "image": [
+    "https://www.budgetbytes.com/wp-content/uploads/2019/11/Smoky-Black-Bean-Soup-two-bowls-toppings.jpg",
+    "https://www.budgetbytes.com/wp-content/uploads/2019/11/Smoky-Black-Bean-Soup-two-bowls-toppings-500x500.jpg",
+    "https://www.budgetbytes.com/wp-content/uploads/2019/11/Smoky-Black-Bean-Soup-two-bowls-toppings-500x375.jpg",
+    "https://www.budgetbytes.com/wp-content/uploads/2019/11/Smoky-Black-Bean-Soup-two-bowls-toppings-480x270.jpg"
+  ],
   "keywords": "Easy Soup, gluten-free soup, Vegan Soup",
   "name": "30-Minute Smoky Black Bean Soup",
   "nutrition": {
@@ -33,6 +32,8 @@
     "sodiumContent": "919.75 mg"
   },
   "prepTime": "PT5M",
+  "recipeCategory": "Dinner",
+  "recipeCuisine": "American",
   "recipeIngredient": [
     "1 yellow onion ($0.32)",
     "2 cloves garlic ($0.16)",
@@ -65,8 +66,8 @@
   ],
   "recipeYield": "4",
   "sameAs": [
-    "https://www.budgetbytes.com/smoky-black-bean-soup/"
+    "https://budgetbytes.com/smoky-black-bean-soup"
   ],
   "totalTime": "PT25M",
-  "updatedAt": "2020-10-08T05:18:32.269Z"
+  "updatedAt": "2022-11-30T00:40:15.764Z"
 }
