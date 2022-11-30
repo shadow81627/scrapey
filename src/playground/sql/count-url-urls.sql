@@ -12,7 +12,7 @@ WHERE a.deletedAt IS NULL
   AND (a.canonicalId IS NULL
        OR a.canonicalId = a.id)
   AND (b.canonicalId IS NULL
-       OR b.canonicalId = a.id)
+       OR b.canonicalId = b.id)
 GROUP BY a.hostname,
          a.pathname,
          a.search
