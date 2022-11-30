@@ -5,7 +5,7 @@ import colesNationalReplaceUrls from './colesNationalReplaceUrls';
 import incorrectUrlIds from './incorrectUrlId';
 import resetRedirectedColesUrls from './resetRedirectedColesUrls';
 import countUrlSearch from './countUrlSearch';
-import gitTimeStamps from './gitTimeStamps';
+// import gitTimeStamps from './gitTimeStamps';
 import urlsMissingUrls from './urlsMissingUrls';
 import probeImages from './probeImages';
 import imageUrls from './imageUrls';
@@ -24,7 +24,7 @@ import deleteBudgetBytesCommentUrls from './deleteBudgetBytesCommentUrls';
     probeImages: '',
     urlsMissingUrls: '',
     imageUrls: '',
-    gitTimeStamps: '',
+    // gitTimeStamps: '',
   }
 
   responses.deleteBudgetBytesCommentUrls = await deleteBudgetBytesCommentUrls()
@@ -37,7 +37,7 @@ import deleteBudgetBytesCommentUrls from './deleteBudgetBytesCommentUrls';
   responses.imageUrls = await imageUrls();
   responses.probeImages = await probeImages();
   responses.urlsMissingUrls = await urlsMissingUrls();
-  responses.gitTimeStamps = await gitTimeStamps();
+  // responses.gitTimeStamps = await gitTimeStamps();
 
   console.table(responses);
 
