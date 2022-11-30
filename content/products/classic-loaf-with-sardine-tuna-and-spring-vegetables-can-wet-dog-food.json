@@ -1,0 +1,54 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Fish (including Salmon &/or Sardines &/or Tuna); Chicken; Beef &/or Sheep &/or Pork &/or Turkey &/or Kangaroo; Vegetable; Vegetable Oil; Gelling Agents; Vegetable Fibre; Minerals & Vitamins; Colouring Agent."
+    },
+    {
+      "name": "Contains",
+      "value": "Fish Sardines, Tuna & Spring Vegetables Dog Food 400g"
+    },
+    {
+      "name": "Size",
+      "value": "400g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.75 per 100G"
+    }
+  ],
+  "brand": "My Dog",
+  "createdAt": "2022-11-30T03:46:25.842Z",
+  "description": "My Dog Classic Loaf With Sardine Tuna & Spring Vegetables Can Wet Dog Food",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/8/0/9/8091123.jpg",
+  "name": "Classic Loaf With Sardine Tuna & Spring Vegetables Can Wet Dog Food",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3,
+    "lowPrice": 3,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-30T03:46:25.839Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "3.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/my-dog-dog-food-sardines-tuna-with-spring-vegetables"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/my-dog-dog-food-sardines-tuna-with-spring-vegetables"
+  ],
+  "sku": "8091123",
+  "updatedAt": "2022-11-30T03:46:25.839Z"
+}

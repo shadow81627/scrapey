@@ -1,0 +1,50 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "190g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$2.32 per 100G"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Made in New Zealand from Imported Ingredients."
+    }
+  ],
+  "brand": "Aunt Betty's",
+  "createdAt": "2022-11-30T04:04:20.111Z",
+  "description": "Aunt Betty's Sticky Date Steamy Pud 2 Pack",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/9/9/5/9958237.jpg",
+  "name": "Sticky Date Steamy Pud 2 Pack",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 4.4,
+    "lowPrice": 4.4,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-30T04:04:20.110Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "4.40",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/aunt-bettys-pudding-sticky-date-2-x-95g"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/aunt-bettys-pudding-sticky-date-2-x-95g"
+  ],
+  "sku": "9958237",
+  "updatedAt": "2022-11-30T04:04:20.110Z"
+}

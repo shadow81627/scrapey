@@ -1,62 +1,73 @@
 {
   "@type": "Recipe",
+  "author": {
+    "@type": "Person",
+    "name": "Customer | Fresh ideas by you - butterbee"
+  },
   "cookTime": "PT20M",
   "createdAt": "2022-11-25T02:09:40.000Z",
-  "datePublished": "2021-07-06",
+  "datePublished": "2022-10-12",
   "description": "Super easy dip which is a crowd pleaser. The mixture can be prepared ahead of a party and bake when ready to serve hot.",
-  "image": {
-    "@type": "ImageObject",
-    "height": 1146,
-    "mime": "image/png",
-    "url": "https://foodhub.scene7.com/is/image/woolworthsltdprod/spinach-dip-in-cob-loaf?wid=1380&hei=1146&fmt=png-alpha",
-    "width": 1380
-  },
-  "keywords": "Spinach Dip in Cob Loaf",
+  "image": [
+    "https://foodhub.scene7.com/is/image/woolworthsltdprod/spinach-dip-in-cob-loaf:Square-1300x1300"
+  ],
+  "keywords": "Dip & spread,High fibre,High protein,Cob loaf,Low sugar,Spinach",
   "name": "Spinach Dip in Cob Loaf Recipe | Woolworths",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "490 calories",
+    "carbohydrateContent": "37.8 g",
+    "fatContent": "32.2 g",
+    "fiberContent": "4.9 g",
+    "proteinContent": "11.8 g",
+    "saturatedFatContent": "20.7 g",
+    "sodiumContent": "443 millig",
+    "sugarContent": "4.6 g"
+  },
   "prepTime": "PT10M",
-  "recipeCategory": "appetisers",
-  "recipeCuisine": "australian",
+  "recipeCategory": "Appetisers",
+  "recipeCuisine": "Australian",
   "recipeId": "a0K2y000000okuPEAQ",
   "recipeIngredient": [
-    "450 g cob loaf",
-    "250 g cream cheese",
-    "250 g frozen spinach",
-    "300 ml sour cream",
-    "40 g french onion soup mix"
+    "450g cob loaf",
+    "250g cream cheese, softened",
+    "250g frozen spinach, thawed",
+    "300ml sour cream",
+    "40g french onion soup mix"
   ],
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Add the mixture into the cob and place the lid. Add the bread pieces in a single layer around the cob. Bake in oven for 20 minutes at 160 degrees fan forced. Serve hot."
+      "HowToTip": {},
+      "text": "Preheat oven to 160 degrees fan forced."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Add the mixture into the cob and place the lid. Add the bread pieces in a single layer around the cob. Bake in oven for 20 minutes at 160 degrees fan forced. Serve hot."
+      "HowToTip": {},
+      "text": "Cut off top of loaf (about 3cm) to form lid. Scoop out bread from centre of loaf and tear into small pieces."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Add the mixture into the cob and place the lid. Add the bread pieces in a single layer around the cob. Bake in oven for 20 minutes at 160 degrees fan forced. Serve hot."
+      "HowToTip": {},
+      "text": "Squeeze out excess liquid from spinach."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Add the mixture into the cob and place the lid. Add the bread pieces in a single layer around the cob. Bake in oven for 20 minutes at 160 degrees fan forced. Serve hot."
+      "HowToTip": {},
+      "text": "In a bowl, combine spinach, cream cheese, sour cream and french onion soup mix. Mix everything together nicely. Freeze the mixture for at least an hour to enable the flavours to combine properly."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
+      "HowToTip": {},
       "text": "Add the mixture into the cob and place the lid. Add the bread pieces in a single layer around the cob. Bake in oven for 20 minutes at 160 degrees fan forced. Serve hot."
     }
   ],
   "recipeNameId": "spinach-dip-in-cob-loaf",
   "recipeYield": "6",
   "sameAs": [
-    "https://woolworths.com.au/shop/find-recipes/cob-loaf-dip"
+    "https://woolworths.com.au/shop/recipes/spinach-dip-in-cob-loaf"
   ],
   "totalTime": "PT30M",
-  "updatedAt": "2022-11-25T01:24:32.862Z",
+  "updatedAt": "2022-11-30T04:16:34.425Z",
   "url": "https://www.woolworths.com.au/shop/recipes/spinach-dip-in-cob-loaf"
 }

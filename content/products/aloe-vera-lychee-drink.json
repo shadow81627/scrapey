@@ -1,0 +1,50 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "500mL"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$6.80 per 1L"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Made in South Korea from Imported ingredients"
+    }
+  ],
+  "brand": "Yoosh",
+  "createdAt": "2022-11-30T04:17:19.047Z",
+  "description": "Yoosh Aloe Vera Lychee Drink",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/6/8/0/6803096.jpg",
+  "name": "Aloe Vera Lychee Drink",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3.4,
+    "lowPrice": 3.4,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-30T04:17:19.046Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "3.40",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/yoosh-drink-lychee-aloe-vera"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/yoosh-drink-lychee-aloe-vera"
+  ],
+  "sku": "6803096",
+  "updatedAt": "2022-11-30T04:17:19.046Z"
+}

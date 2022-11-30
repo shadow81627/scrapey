@@ -1,0 +1,54 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "<strong>INGREDIENTS:</strong> Australian Cane Sugar, Tapioca Starch (4%)."
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "250.0"
+    },
+    {
+      "name": "Size",
+      "value": "1 kg"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.36 per 100G"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2022-11-30T04:02:30.440Z",
+  "description": "Coles Soft Icing Mixture",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/5/9/3597216.jpg",
+  "name": "Soft Icing Mixture",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3.6,
+    "lowPrice": 3.6,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-30T04:02:30.439Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "3.60",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-soft-icing-mixture-3597216p"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/coles-soft-icing-mixture-3597216p"
+  ],
+  "sku": "3597216",
+  "updatedAt": "2022-11-30T04:02:30.439Z"
+}

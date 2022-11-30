@@ -1,0 +1,50 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "80g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$7.50 per 100G"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Product of China"
+    }
+  ],
+  "brand": "Lee Kum Kee",
+  "createdAt": "2022-11-30T04:08:33.155Z",
+  "description": "Lee Kum Kee Xo Seafood Sauce",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/4/2/5422993.jpg",
+  "name": "Xo Seafood Sauce",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 6,
+    "lowPrice": 6,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-30T04:08:33.153Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "6.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/lee-kum-kee-sauce-xo-seafood"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/lee-kum-kee-sauce-xo-seafood"
+  ],
+  "sku": "5422993",
+  "updatedAt": "2022-11-30T04:08:33.153Z"
+}
