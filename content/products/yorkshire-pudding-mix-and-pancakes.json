@@ -3,15 +3,11 @@
   "additionalProperty": [
     {
       "name": "Ingredients",
-      "value": "Wheat Flour, Milk Powder, Salt, Dried Egg."
+      "value": "Wheat Flour, Milk Powder, Salt, Dried Egg"
     },
     {
       "name": "Allergen",
-      "value": "Contains Gluten, Contains Milk, Contains Egg, Contains Wheat"
-    },
-    {
-      "name": "Dietary",
-      "value": "No Preservatives"
+      "value": "Contains Egg, Contains Gluten, Contains Wheat, Contains Milk"
     },
     {
       "name": "Servings Per Pack",
@@ -23,7 +19,7 @@
     },
     {
       "name": "Unit Price",
-      "value": "$1.83 per 100G"
+      "value": "$2.01 per 100G"
     },
     {
       "name": "Country Of Origin",
@@ -32,29 +28,23 @@
   ],
   "brand": "Golden Fry",
   "createdAt": "2020-11-15T04:05:36.000Z",
-  "description": "Light, delicious & easy to make.",
-  "image": {
-    "@type": "ImageObject",
-    "height": 300,
-    "mime": "image/jpeg",
-    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/8/7/5879140.jpg",
-    "width": 300
-  },
+  "description": "Golden Fry Yorkshire Pudding Mix & Pancakes",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/8/7/5879140.jpg",
   "name": "Yorkshire Pudding Mix & Pancakes",
   "offers": {
     "@type": "AggregateOffer",
-    "highPrice": 2.6,
-    "lowPrice": 2.6,
+    "highPrice": 2.85,
+    "lowPrice": 2.85,
     "offerCount": 1,
     "offers": [
       {
         "@context": "http://schema.org",
         "@type": "Offer",
         "availability": "https://schema.org/InStock",
-        "availabilityStarts": "2020-11-15T10:24:05.142Z",
+        "availabilityStarts": "2022-11-30T07:01:19.028Z",
         "itemCondition": "https://schema.org/NewCondition",
         "offeredBy": "Coles",
-        "price": "2.60",
+        "price": "2.85",
         "priceCurrency": "AUD",
         "seller": {
           "@type": "Organization",
@@ -65,8 +55,8 @@
     ]
   },
   "sameAs": [
-    "https://shop.coles.com.au/a/sunnybank-hills/product/goldenfry-mix-yorkshire-pudding"
+    "https://shop.coles.com.au/a/national/product/goldenfry-mix-yorkshire-pudding"
   ],
   "sku": "5879140",
-  "updatedAt": "2020-11-15T10:24:05.142Z"
+  "updatedAt": "2022-11-30T07:01:19.029Z"
 }

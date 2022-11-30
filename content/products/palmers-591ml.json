@@ -1,0 +1,45 @@
+{
+  "@type": "Product",
+  "additionalProperty": [],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Palmer's"
+  },
+  "createdAt": "2022-11-30T05:13:41.181Z",
+  "description": "Palmer's Cocoa Butter Formula Body Lotion is a rich, luxurious, daily body lotion which softens and smoothes rough, dry skin, and provides deep hydration all over. Now with 48 hour moisture. <br> <br>Crafted with intensively moisturising Cocoa Butter and Vitamin E. Cocoa Butter is naturally harvested from cocoa beans, and is a rich, nutrient-packed super ingredient loaded with antioxidant CMPs (Cocoa Mass Polyphenols) for superior skin healing and moisture barrier protection. <br><br><p><strong>Product Features: </strong></p><ul><li>With Cocoa Butter and Vitamin E</li><li>Smoothes marks & tones skin</li><li>Now with 48 hour moisture</li><li>Paraben and Phthalate free</li><li>Dermatologist Recommended</li><li>Suitable for eczema prone skin</li></ul>",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/1073922443.jpg",
+  "name": "Palmer's 591ML",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 15,
+    "lowPrice": 15,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-30T05:13:41.180Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 15,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/1073922443/palmer-s-cocoa-butter-formula-body-lotion-591ml"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/1073922443/palmer-s-cocoa-butter-formula-body-lotion-591ml"
+  ],
+  "sku": "1073922443",
+  "updatedAt": "2022-11-30T05:13:41.180Z"
+}

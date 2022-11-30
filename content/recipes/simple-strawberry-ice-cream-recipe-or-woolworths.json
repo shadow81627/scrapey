@@ -1,39 +1,46 @@
 {
   "@type": "Recipe",
+  "author": {
+    "@type": "Person",
+    "name": "Produced for Woolworths"
+  },
+  "cookTime": "PT0M",
   "createdAt": "2022-11-29T09:04:31.000Z",
-  "datePublished": "2022-02-08",
+  "datePublished": "2022-08-03",
   "description": "A classic strawberry ice-cream that is so simple enough to make and even more simple to enjoy.",
-  "image": "https://foodhub.scene7.com/is/image/woolworthsltdprod/337703?wid=3104&hei=3104&fmt=png-alpha",
-  "keywords": "Simple Strawberry Ice-Cream",
+  "image": [
+    "https://foodhub.scene7.com/is/image/woolworthsltdprod/337703:Square-1300x1300"
+  ],
+  "keywords": "Ice-cream,Strawberry,Seafood free,Wheat free,Egg free,Sesame free",
   "name": "Simple Strawberry Ice-Cream Recipe | Woolworths",
   "prepTime": "PT180M",
-  "recipeCategory": "desserts",
-  "recipeCuisine": "north-american",
+  "recipeCategory": "Desserts",
+  "recipeCuisine": "American",
   "recipeId": "RGWW337703",
   "recipeIngredient": [
     "1.8 cup cream",
-    "350 g condensed milk",
+    "350g condensed milk",
     "1 tbs vanilla extract",
-    "180 g strawberries"
+    "180g strawberries, diced"
   ],
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Now fold both bowls together into a sealable container suitable for freezing.Place in the freezer until hard enough to serve which should take over 3 hours."
+      "HowToTip": {},
+      "text": "In a large bowl whip the cream until soft peaks form and leave to one side. In a separate bowl, combine the condensed milk with the vanilla extract and chopped strawberries."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Now fold both bowls together into a sealable container suitable for freezing.Place in the freezer until hard enough to serve which should take over 3 hours."
+      "HowToTip": {},
+      "text": "Now fold both bowls together into a sealable container suitable for freezing. Place in the freezer until hard enough to serve which should take over 3 hours."
     }
   ],
   "recipeNameId": "simple-strawberry-icecream",
   "recipeYield": "8",
   "sameAs": [
-    "https://woolworths.com.au/shop/find-recipes/strawberry-ice-cream"
+    "https://woolworths.com.au/shop/recipes/simple-strawberry-icecream"
   ],
   "totalTime": "PT180M",
-  "updatedAt": "2022-11-29T05:44:44.895Z",
+  "updatedAt": "2022-11-30T05:21:15.576Z",
   "url": "https://www.woolworths.com.au/shop/recipes/simple-strawberry-icecream"
 }

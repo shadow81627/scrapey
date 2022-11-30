@@ -1,0 +1,45 @@
+{
+  "@type": "Product",
+  "additionalProperty": [],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Thankyou"
+  },
+  "createdAt": "2022-11-30T06:29:09.933Z",
+  "description": "<p>To leave your hair feeling clean and nourished, we’ve put the good stuff into this plant-based shampoo bar. Chamomile and Australian rosewater lovingly help calm and soothe the scalp, while your purchase goes on to help end global poverty. A good hair day and the ability to change the world? What more could you want! <br> <br>The how-to <br>Wet your hair and the shampoo bar, and rub bar in between your hands until you have a lather. Put the bar down and massage shampoo lather into your hair. Rinse, then follow with our life-changing conditioner bar.</p><br><p><strong>Product Features: </strong></p><ul><li>Calming and Soothing</li><li>Made in Australia</li><li>Vegan friendly</li><li>Not tested on animals</li><li>Made with recirculated water</li><li>Made with recycled cardboard</li><li>Made with no product wastage</li></ul>",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/1073816266.jpg",
+  "name": "Thankyou 100G",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 12,
+    "lowPrice": 12,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-30T06:29:09.932Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 12,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/1073816266/thankyou-shampoo-bar-100g-chamomile-rosewater"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/1073816266/thankyou-shampoo-bar-100g-chamomile-rosewater"
+  ],
+  "sku": "1073816266",
+  "updatedAt": "2022-11-30T06:29:09.932Z"
+}

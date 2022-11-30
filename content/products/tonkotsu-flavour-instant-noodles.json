@@ -2,12 +2,24 @@
   "@type": "Product",
   "additionalProperty": [
     {
+      "name": "Ingredients",
+      "value": "NOODLES (82.6%), WHEAT FLOUR, PALM OIL, CONTAINS ANTIOXIDANTS (307b, 304), TAPIOCA STARCH, SALT, ACIDITY REGULATORS (452, 501, 451, 500, 339, 450), THICKENERS (1400, 401, 412), GREEN TEA POWDER. SOUP BASE, SALT, WHOLE MILK POWDER, SESAME SEEDS, FLAVOUR ENHANCERS (621, 635), WHITE SUGAR, MALTODEXTRIN, GARLIC POWDER, CREAMER GLUCOSE SYRUP, HYDROGENATED PALM OIL, MILK PROTEIN, ACIDITY REGULATOR (340), EMULSIFIER (471), ANTICAKING AGENT (551), YEAST EXTRACTS, DEHYDRATED GREEN ONION, SPICES, SOYA SAUCE POWDER (SOYA BEANS, WHEAT, SALT), ONION POWDER, HYDROLYSED SOYA PROTEIN, RICE OIL CONTAINS ANTIOXIDANT (307b). SEASONING SAUCE, SOYA SAUCE (WATER, SOYA BEANS, WHEAT, SALT), SESAME OIL, COOKING WINE (GLUTINOUS RICE, WATER, WHEAT), PALM OIL CONTAINS ANTIOXIDANTS (307b, 304), CREAMER GLUCOSE SYRUP, HYDROGENATED PALM OIL, MILK PROTEIN, ACIDITY REGULATOR (340), EMULSIFIER (471), ANTICAKING AGENT (551), ARTIFICIAL PORK FLAVOUR RAPESEED OIL, FLAVOUR, PEANUTS, ANTIOXIDANT (307b), MISO PASTE (WATER, SOYA BEANS, RICE, ALCOHOL), WHITE SUGAR, YEAST EXTRACTS, RICE OIL CONTAINS ANTIOXIDANT (307b), FLAVOUR ENHANCERS (621, 635), SALT, GARLIC POWDER, MALTODEXTRIN."
+    },
+    {
+      "name": "Allergen",
+      "value": "Contains Soybean, Contains Peanuts, Contains Wheat, Contains Milk, Contains Sesame Seeds"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "1.0"
+    },
+    {
       "name": "Size",
       "value": "100g"
     },
     {
       "name": "Unit Price",
-      "value": "$0.90 per 100G"
+      "value": "$1.60 per 100G"
     },
     {
       "name": "Country Of Origin",
@@ -16,29 +28,23 @@
   ],
   "brand": "Nissin",
   "createdAt": "2020-10-12T05:22:04.000Z",
-  "description": "Nissin Tonkotsu Flavour Instant Noodles",
-  "image": {
-    "@type": "ImageObject",
-    "height": 300,
-    "mime": "image/jpeg",
-    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/8/7/1/8714703.jpg",
-    "width": 300
-  },
+  "description": "Convenient yet flavoursome, Nissin Instant Noodle (Tonkotsu Artificial Pork Flavour) offers the perfect combination of chewy noodles and pork-flavoured broth. It is quick and easy to prepare, ideal for a simple instant meal.",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/8/7/1/8714703.jpg",
   "name": "Tonkotsu Flavour Instant Noodles",
   "offers": {
     "@type": "AggregateOffer",
-    "highPrice": 0.9,
-    "lowPrice": 0.9,
+    "highPrice": 1.6,
+    "lowPrice": 1.6,
     "offerCount": 1,
     "offers": [
       {
         "@context": "http://schema.org",
         "@type": "Offer",
         "availability": "https://schema.org/InStock",
-        "availabilityStarts": "2020-11-15T08:52:20.961Z",
+        "availabilityStarts": "2022-11-30T06:34:49.793Z",
         "itemCondition": "https://schema.org/NewCondition",
         "offeredBy": "Coles",
-        "price": "0.90",
+        "price": "1.60",
         "priceCurrency": "AUD",
         "seller": {
           "@type": "Organization",
@@ -49,8 +55,8 @@
     ]
   },
   "sameAs": [
-    "https://shop.coles.com.au/a/sunnybank-hills/product/nissin-noodles-tonkotsu"
+    "https://shop.coles.com.au/a/national/product/nissin-noodles-tonkotsu"
   ],
   "sku": "8714703",
-  "updatedAt": "2020-11-15T08:52:20.961Z"
+  "updatedAt": "2022-11-30T06:34:49.793Z"
 }

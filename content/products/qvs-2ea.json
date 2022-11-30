@@ -1,0 +1,45 @@
+{
+  "@type": "Product",
+  "additionalProperty": [],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "QVS"
+  },
+  "createdAt": "2022-11-30T05:19:28.623Z",
+  "description": "Achieve expert hair removal and shaping with the Facial Razors from QVS. The small blades to be used for precise removal of fine brow and lip hair whilst the large razor to be used for facial hair around the jawline and outer cheek area.",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/1073815189.jpg",
+  "name": "Qvs 2EA",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 10,
+    "lowPrice": 10,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-30T05:19:28.622Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 10,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/1073815189/qvs-facial-razors"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/1073815189/qvs-facial-razors"
+  ],
+  "sku": "1073815189",
+  "updatedAt": "2022-11-30T05:19:28.622Z"
+}

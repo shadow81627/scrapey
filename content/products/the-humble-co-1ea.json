@@ -1,0 +1,45 @@
+{
+  "@type": "Product",
+  "additionalProperty": [],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "The Humble Co."
+  },
+  "createdAt": "2022-11-30T05:16:41.253Z",
+  "description": "the original that took the world by storm. cleans just as well as a plastic toothbrush but made from mother earth’s best invention, bamboo. equipped with the highest quality nylon bristles to ensure dentist approved results, this iconic toothbrush has to date sold in excess of 35 million pieces",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/1073780016.jpg",
+  "name": "The Humble Co. 1EA",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 4.95,
+    "lowPrice": 4.95,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-30T05:16:41.253Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 4.95,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/1073780016/the-humble-co-toothbrush-kids-blue"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/1073780016/the-humble-co-toothbrush-kids-blue"
+  ],
+  "sku": "1073780016",
+  "updatedAt": "2022-11-30T05:16:41.253Z"
+}

@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Jamiesons Run"
+  },
+  "createdAt": "2022-11-30T06:09:34.010Z",
+  "description": "This unoaked Shiraz has juicy and dark berry character, balanced by supple tannins and bright acidity. It's a well-rounded and crowd-pleasing wine that pairs with tomato-based sauces and meaty meals.",
+  "gtin13": "9300770001674",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/349988.jpg",
+  "name": "Jamiesons Run Shiraz Billy's Shadow 750mL",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 10,
+    "lowPrice": 10,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/OutOfStock",
+        "availabilityStarts": "2022-11-30T06:09:34.010Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 10,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/349988/jamiesons-run-shiraz-billy-s-shadow"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/349988/jamiesons-run-shiraz-billy-s-shadow"
+  ],
+  "sku": "349988",
+  "updatedAt": "2022-11-30T06:09:34.010Z"
+}

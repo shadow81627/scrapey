@@ -2,8 +2,8 @@
   "@type": "Product",
   "additionalProperty": [
     {
-      "name": "Contains",
-      "value": "20 Sachets Per Box"
+      "name": "Ingredients",
+      "value": "Ginger Root (32%), Licorice Root, Elderflower, Sweet Fennel Seed, Lemon Verbena Leaf, Turmeric Root, Lemon Essential Oil Flavour (6%), Lemon Whole (6%), Lemon Myrtle Leaf, Manuka Honey Flavour (2%)."
     },
     {
       "name": "Size",
@@ -11,7 +11,7 @@
     },
     {
       "name": "Unit Price",
-      "value": "$0.38 per 1Ea"
+      "value": "$0.41 per 1Ea"
     },
     {
       "name": "Country Of Origin",
@@ -21,28 +21,22 @@
   "brand": "Pukka",
   "createdAt": "2020-10-12T05:22:04.000Z",
   "description": "Pukka Lemon Ginger & Manuka Honey Tea Sachets 20 pack",
-  "image": {
-    "@type": "ImageObject",
-    "height": 300,
-    "mime": "image/jpeg",
-    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/2/4/3248793.jpg",
-    "width": 300
-  },
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/2/4/3248793.jpg",
   "name": "Lemon Ginger & Manuka Honey Tea Sachets 20 pack",
   "offers": {
     "@type": "AggregateOffer",
-    "highPrice": 7.5,
-    "lowPrice": 7.5,
+    "highPrice": 8.25,
+    "lowPrice": 8.25,
     "offerCount": 1,
     "offers": [
       {
         "@context": "http://schema.org",
         "@type": "Offer",
         "availability": "https://schema.org/InStock",
-        "availabilityStarts": "2020-11-15T09:29:19.932Z",
+        "availabilityStarts": "2022-11-30T06:22:53.175Z",
         "itemCondition": "https://schema.org/NewCondition",
         "offeredBy": "Coles",
-        "price": "7.50",
+        "price": "8.25",
         "priceCurrency": "AUD",
         "seller": {
           "@type": "Organization",
@@ -53,8 +47,8 @@
     ]
   },
   "sameAs": [
-    "https://shop.coles.com.au/a/sunnybank-hills/product/pukka-tea-lemon-ginger-manuka-honey"
+    "https://shop.coles.com.au/a/national/product/pukka-tea-lemon-ginger-manuka-honey"
   ],
   "sku": "3248793",
-  "updatedAt": "2020-11-15T09:29:19.932Z"
+  "updatedAt": "2022-11-30T06:22:53.175Z"
 }

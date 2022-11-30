@@ -3,7 +3,11 @@
   "additionalProperty": [
     {
       "name": "Ingredients",
-      "value": " Wheat Flour (96%), Raising Agents (339, 341, 450, 500)."
+      "value": "<b>INGREDIENTS:</b> <strong>Wheat</strong> Flour (96%), Raising Agents (339, 341, 450, 500)."
+    },
+    {
+      "name": "Allergen",
+      "value": "Contains CEREALS CONTAINING GLUTEN, Contains Wheat"
     },
     {
       "name": "Servings Per Pack",
@@ -15,34 +19,28 @@
     },
     {
       "name": "Unit Price",
-      "value": "$0.90 per 1Kg"
+      "value": "$1.10 per 1Kg"
     }
   ],
   "brand": "Coles",
   "createdAt": "2020-10-12T05:22:04.000Z",
-  "description": "Unbleached Made With Australian Wheat",
-  "image": {
-    "@type": "ImageObject",
-    "height": 300,
-    "mime": "image/jpeg",
-    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/8/8/5881265.jpg",
-    "width": 300
-  },
+  "description": "Coles White Self Raising Flour 2Kg. Australian unbleached white self raising flour. Perfect for baking your own goodies at home. Craft delicious cakes and cookies!",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/8/8/5881265.jpg",
   "name": "White Self Raising Flour",
   "offers": {
     "@type": "AggregateOffer",
-    "highPrice": 1.8,
-    "lowPrice": 1.8,
+    "highPrice": 2.2,
+    "lowPrice": 2.2,
     "offerCount": 1,
     "offers": [
       {
         "@context": "http://schema.org",
         "@type": "Offer",
         "availability": "https://schema.org/InStock",
-        "availabilityStarts": "2020-11-15T07:04:02.891Z",
+        "availabilityStarts": "2022-11-30T06:05:22.812Z",
         "itemCondition": "https://schema.org/NewCondition",
         "offeredBy": "Coles",
-        "price": "1.80",
+        "price": "2.20",
         "priceCurrency": "AUD",
         "seller": {
           "@type": "Organization",
@@ -53,8 +51,8 @@
     ]
   },
   "sameAs": [
-    "https://shop.coles.com.au/a/sunnybank-hills/product/coles-flour-self-raising-white-5881265p"
+    "https://shop.coles.com.au/a/national/product/coles-flour-self-raising-white-5881265p"
   ],
   "sku": "5881265",
-  "updatedAt": "2020-11-15T07:04:02.891Z"
+  "updatedAt": "2022-11-30T06:05:22.812Z"
 }

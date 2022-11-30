@@ -1,0 +1,58 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "<p><strong>INGREDIENTS:</strong> Pomegranate Arils (100%).</p>"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "1.7"
+    },
+    {
+      "name": "Size",
+      "value": "250g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.60 per 100G"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Packed in Canada from imported ingredients"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2022-11-30T05:53:44.452Z",
+  "description": "Coles Frozen Pomegranate Arils 250g. They provide an excellent source of fibre for healthy digestion and a good source of vitamin C to support a healthy immune system.",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/3/9/3394682.jpg",
+  "name": "Frozen Pomegranate Arils",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 4,
+    "lowPrice": 4,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-30T05:53:44.452Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "4.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-frozen-pomegranate-arils"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/coles-frozen-pomegranate-arils"
+  ],
+  "sku": "3394682",
+  "updatedAt": "2022-11-30T05:53:44.452Z"
+}

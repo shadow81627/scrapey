@@ -2,12 +2,24 @@
   "@type": "Product",
   "additionalProperty": [
     {
+      "name": "Ingredients",
+      "value": "Wheat Flour, Sugar, Margarine (Animal Fat, Vegetable Oil, Water, Salt, Milk Solids,Emulsifiers (471, 322 (Soy Lecithin)), Antioxidant (320, 310), Colour (160a)),Water, Egg, Golden Syrup, Butter (Cream, Water, Salt), Raising Agent (500, 450), Ginger (2%), Spices, Salt, Food Acid (330), Preservative (202, 263), Flavour"
+    },
+    {
+      "name": "Allergen",
+      "value": "Contains Butter, Contains Cream, Contains Egg, Contains Gluten, Contains Soy, Contains Milk"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "8.0"
+    },
+    {
       "name": "Size",
       "value": "200g"
     },
     {
       "name": "Unit Price",
-      "value": "$1.85 per 100G"
+      "value": "$2.25 per 100G"
     },
     {
       "name": "Country Of Origin",
@@ -16,29 +28,23 @@
   ],
   "brand": "Jon-Jon",
   "createdAt": "2020-10-12T05:22:04.000Z",
-  "description": "Jon-Jon Ginger Kisses Cream Filled Sponge Cake 8 pack",
-  "image": {
-    "@type": "ImageObject",
-    "height": 300,
-    "mime": "image/jpeg",
-    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/6/0/2603798.jpg",
-    "width": 300
-  },
+  "description": "Light and moist, Cream filled sponge cakes, perfect for a snack or tea time. Great sharing pack.",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/6/0/2603798.jpg",
   "name": "Ginger Kisses Cream Filled Sponge Cake 8 pack",
   "offers": {
     "@type": "AggregateOffer",
-    "highPrice": 3.7,
-    "lowPrice": 3.7,
+    "highPrice": 4.5,
+    "lowPrice": 4.5,
     "offerCount": 1,
     "offers": [
       {
         "@context": "http://schema.org",
         "@type": "Offer",
         "availability": "https://schema.org/InStock",
-        "availabilityStarts": "2020-11-15T09:33:42.075Z",
+        "availabilityStarts": "2022-11-30T06:42:46.621Z",
         "itemCondition": "https://schema.org/NewCondition",
         "offeredBy": "Coles",
-        "price": "3.70",
+        "price": "4.50",
         "priceCurrency": "AUD",
         "seller": {
           "@type": "Organization",
@@ -49,8 +55,8 @@
     ]
   },
   "sameAs": [
-    "https://shop.coles.com.au/a/sunnybank-hills/product/jon-jon-ginger-kisses-8-pack"
+    "https://shop.coles.com.au/a/national/product/jon-jon-ginger-kisses-8-pack"
   ],
   "sku": "2603798",
-  "updatedAt": "2020-11-15T09:33:42.075Z"
+  "updatedAt": "2022-11-30T06:42:46.622Z"
 }

@@ -1,0 +1,45 @@
+{
+  "@type": "Product",
+  "additionalProperty": [],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Rimmel London"
+  },
+  "createdAt": "2022-11-30T05:17:02.994Z",
+  "description": "Rimmel Extra 3D Lash Mascara gives multidimensional lash look. 3D brush captures lashes from root to tip. Lashes are volumised, defined and lengthened, from corner to corner- even the smallest lashes. Get a 3D lash look without clumps.",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/1073817032.jpg",
+  "name": "Rimmel London 1EA",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 6.47,
+    "lowPrice": 6.47,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-30T05:17:02.993Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 6.47,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/1073817032/rimmel-extra-3d-lash-mascara-black"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/1073817032/rimmel-extra-3d-lash-mascara-black"
+  ],
+  "sku": "1073817032",
+  "updatedAt": "2022-11-30T05:17:02.993Z"
+}

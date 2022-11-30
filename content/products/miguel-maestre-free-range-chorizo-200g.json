@@ -1,0 +1,66 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "1500kJ",
+      "carbohydrateContent": "1.5g",
+      "dietary_fibre": "0.5g",
+      "fatContent": "28.9g",
+      "name": "nutrition",
+      "proteinContent": "23.6g",
+      "saturatedFatContent": "11.4g",
+      "servingSize": "100 g",
+      "sodiumContent": "1300mg",
+      "sugarContent": "&lt;1.0g"
+    }
+  ],
+  "aggregateRating": {
+    "@context": "http://schema.org",
+    "@type": "AggregateRating",
+    "ratingCount": 1,
+    "ratingValue": 5
+  },
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Miguel Maestre"
+  },
+  "createdAt": "2022-11-30T06:39:44.380Z",
+  "description": "Miguel Maestre Chorizo A La Maestre is made of Australian pork and certified free range.",
+  "gtin13": "9350566000183",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/545716.jpg",
+  "name": "Miguel Maestre Free Range Chorizo 200G",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 9.55,
+    "lowPrice": 9.55,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-30T06:39:44.380Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 9.55,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/545716/miguel-maestre-free-range-chorizo"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/545716/miguel-maestre-free-range-chorizo"
+  ],
+  "sku": "545716",
+  "updatedAt": "2022-11-30T06:39:44.380Z"
+}

@@ -1,0 +1,60 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "Approx.690kJ",
+      "carbohydrateContent": "Approx.3.5g",
+      "dietary_fibre": "-",
+      "fatContent": "Approx.12.3g",
+      "name": "nutrition",
+      "proteinContent": "Approx.10.1g",
+      "saturatedFatContent": "Approx.4.5g",
+      "servingSize": "100 g",
+      "sodiumContent": "Approx.530mg",
+      "sugarContent": "Approx.1.5g"
+    }
+  ],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "D'Orsogna"
+  },
+  "createdAt": "2022-11-30T06:38:21.976Z",
+  "description": "Tasty, succulent, and mild, they’re the perfect addition to a child’s or adult’s lunchbox, light meal, or quick snack. Cut in half on a plate or served vertically in a jar, they’re a hit at any gathering and ideal for tapas-style dining.",
+  "gtin13": "9300767094269",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/713425.jpg",
+  "name": "D'orsogna Tasty Stick Mild 400G",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 10,
+    "lowPrice": 10,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-30T06:38:21.976Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 10,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/713425/d-orsogna-tasty-stick-mild"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/713425/d-orsogna-tasty-stick-mild"
+  ],
+  "sku": "713425",
+  "updatedAt": "2022-11-30T06:38:21.976Z"
+}

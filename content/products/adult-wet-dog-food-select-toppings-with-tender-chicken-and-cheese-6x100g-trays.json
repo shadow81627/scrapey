@@ -1,0 +1,54 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Meats (including Chicken &/or Sheep &/or Beef &/or Pork &/or Turkey); Gelling Agents; Cheese Pasta (contains Cheese); Vegetable Oil; Minerals & Vitamins; Colouring Agents; Herb"
+    },
+    {
+      "name": "Contains",
+      "value": "Tray"
+    },
+    {
+      "name": "Size",
+      "value": "6 pack"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.58 per 100G"
+    }
+  ],
+  "brand": "My Dog",
+  "createdAt": "2022-11-30T07:08:32.481Z",
+  "description": "My Dog Adult Wet Dog Food Select Toppings With Tender Chicken & Cheese 6x100G Trays",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/7/5/3/7532041.jpg",
+  "name": "Adult Wet Dog Food Select Toppings With Tender Chicken & Cheese 6x100G Trays",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 9.5,
+    "lowPrice": 9.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-30T07:08:32.480Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "9.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/my-dog-select-dog-food-chicken-supreme-with-cheese"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/my-dog-select-dog-food-chicken-supreme-with-cheese"
+  ],
+  "sku": "7532041",
+  "updatedAt": "2022-11-30T07:08:32.480Z"
+}

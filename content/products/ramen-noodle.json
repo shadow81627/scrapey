@@ -2,12 +2,24 @@
   "@type": "Product",
   "additionalProperty": [
     {
+      "name": "Ingredients",
+      "value": "wheat flour (84%) (gluten), water, salt, acidity regulator (E500)"
+    },
+    {
+      "name": "Allergen",
+      "value": "Contains Wheat"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "12.0"
+    },
+    {
       "name": "Size",
       "value": "1kg"
     },
     {
       "name": "Unit Price",
-      "value": "$2.50 per 1Kg"
+      "value": "$2.75 per 1Kg"
     },
     {
       "name": "Country Of Origin",
@@ -16,29 +28,23 @@
   ],
   "brand": "Jinmailang",
   "createdAt": "2020-10-12T05:22:04.000Z",
-  "description": "Jinmailang Ramen Noodle",
-  "image": {
-    "@type": "ImageObject",
-    "height": 300,
-    "mime": "image/jpeg",
-    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/1/3/8/1384338.jpg",
-    "width": 300
-  },
+  "description": "Made with quality ingredients, Jinmailang Ramen Noodle offers thin noodles with soft and chewy texture that is ideal for making stir-fries and soup noodles.",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/1/3/8/1384338.jpg",
   "name": "Ramen Noodle",
   "offers": {
     "@type": "AggregateOffer",
-    "highPrice": 2.5,
-    "lowPrice": 2.5,
+    "highPrice": 2.75,
+    "lowPrice": 2.75,
     "offerCount": 1,
     "offers": [
       {
         "@context": "http://schema.org",
         "@type": "Offer",
         "availability": "https://schema.org/InStock",
-        "availabilityStarts": "2020-11-15T08:24:22.559Z",
+        "availabilityStarts": "2022-11-30T06:23:14.432Z",
         "itemCondition": "https://schema.org/NewCondition",
         "offeredBy": "Coles",
-        "price": "2.50",
+        "price": "2.75",
         "priceCurrency": "AUD",
         "seller": {
           "@type": "Organization",
@@ -49,8 +55,8 @@
     ]
   },
   "sameAs": [
-    "https://shop.coles.com.au/a/sunnybank-hills/product/jinmailing-noodle-ramen"
+    "https://shop.coles.com.au/a/national/product/jinmailing-noodle-ramen"
   ],
   "sku": "1384338",
-  "updatedAt": "2020-11-15T08:24:22.559Z"
+  "updatedAt": "2022-11-30T06:23:14.432Z"
 }

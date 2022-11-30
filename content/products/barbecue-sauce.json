@@ -2,43 +2,49 @@
   "@type": "Product",
   "additionalProperty": [
     {
+      "name": "Ingredients",
+      "value": "SOYBEAN OIL, MINCED DRIED FISH (SAURIDA), GARLIC, GINGER, SHALLOTS, SESAME, COCONUT POWDER, DRIED SHRIMP, CHILI POWDER, SALT, PEPPER."
+    },
+    {
+      "name": "Allergen",
+      "value": "Contains Soybean, Contains Crustacea, Contains Fish, Contains Sesame Seeds"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "6.0"
+    },
+    {
       "name": "Size",
       "value": "127g"
     },
     {
       "name": "Unit Price",
-      "value": "$2.52 per 100G"
+      "value": "$2.68 per 100G"
     },
     {
       "name": "Country Of Origin",
-      "value": "Product of Taiwan"
+      "value": "Made in Taiwan"
     }
   ],
   "brand": "Bull Head",
   "createdAt": "2020-10-12T05:22:04.000Z",
-  "description": "Bull Head Barbecue Sauce",
-  "image": {
-    "@type": "ImageObject",
-    "height": 300,
-    "mime": "image/jpeg",
-    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/1/3/1/1316112.jpg",
-    "width": 300
-  },
+  "description": "Bull Head Barbecue Sauce, also known as Shacha Sauce, is a popular sauce from Taiwan that is made with a mix of dried fish, dried shrimps and various spices. It can be used as a stir-fry sauce, hot pot condiment or as a marinade for grill meat to add a remarkable umami smoky flavour.",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/1/3/1/1316112.jpg",
   "name": "Barbecue Sauce",
   "offers": {
     "@type": "AggregateOffer",
-    "highPrice": 3.2,
-    "lowPrice": 3.2,
+    "highPrice": 3.4,
+    "lowPrice": 3.4,
     "offerCount": 1,
     "offers": [
       {
         "@context": "http://schema.org",
         "@type": "Offer",
         "availability": "https://schema.org/InStock",
-        "availabilityStarts": "2020-11-15T10:05:35.690Z",
+        "availabilityStarts": "2022-11-30T06:49:51.057Z",
         "itemCondition": "https://schema.org/NewCondition",
         "offeredBy": "Coles",
-        "price": "3.20",
+        "price": "3.40",
         "priceCurrency": "AUD",
         "seller": {
           "@type": "Organization",
@@ -49,8 +55,8 @@
     ]
   },
   "sameAs": [
-    "https://shop.coles.com.au/a/sunnybank-hills/product/bull-head-sauce-barbecue"
+    "https://shop.coles.com.au/a/national/product/bull-head-sauce-barbecue"
   ],
   "sku": "1316112",
-  "updatedAt": "2020-11-15T10:05:35.690Z"
+  "updatedAt": "2022-11-30T06:49:51.057Z"
 }

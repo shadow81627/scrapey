@@ -2,12 +2,20 @@
   "@type": "Product",
   "additionalProperty": [
     {
+      "name": "Ingredients",
+      "value": "Water, Extract Of Mesona chinensis (Mesona chinensis 1.5%), Sugar and Corn Starch."
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "1.0"
+    },
+    {
       "name": "Size",
       "value": "300mL"
     },
     {
       "name": "Unit Price",
-      "value": "$3.00 per 1L"
+      "value": "$3.33 per 1L"
     },
     {
       "name": "Country Of Origin",
@@ -16,29 +24,23 @@
   ],
   "brand": "Yeo's Grass",
   "createdAt": "2020-10-12T05:22:04.000Z",
-  "description": "Yeo's Grass Jelly Drink",
-  "image": {
-    "@type": "ImageObject",
-    "height": 300,
-    "mime": "image/jpeg",
-    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/9/7/4/9743605.jpg",
-    "width": 300
-  },
+  "description": "A local favourite, our Grass Jelly drink is masterfully prepared with Mesona Chinensis, a herbal plant grown extensively in East Asia. Enjoy the cooling taste on its own or simply mix it with soy milk for a refreshing creation.",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/9/7/4/9743605.jpg",
   "name": "Jelly Drink",
   "offers": {
     "@type": "AggregateOffer",
-    "highPrice": 0.9,
-    "lowPrice": 0.9,
+    "highPrice": 1,
+    "lowPrice": 1,
     "offerCount": 1,
     "offers": [
       {
         "@context": "http://schema.org",
         "@type": "Offer",
         "availability": "https://schema.org/InStock",
-        "availabilityStarts": "2020-11-15T09:31:21.119Z",
+        "availabilityStarts": "2022-11-30T06:13:11.402Z",
         "itemCondition": "https://schema.org/NewCondition",
         "offeredBy": "Coles",
-        "price": "0.90",
+        "price": "1.00",
         "priceCurrency": "AUD",
         "seller": {
           "@type": "Organization",
@@ -49,8 +51,8 @@
     ]
   },
   "sameAs": [
-    "https://shop.coles.com.au/a/sunnybank-hills/product/yeos-drink-grass-jelly"
+    "https://shop.coles.com.au/a/national/product/yeos-drink-grass-jelly"
   ],
   "sku": "9743605",
-  "updatedAt": "2020-11-15T09:31:21.119Z"
+  "updatedAt": "2022-11-30T06:13:11.402Z"
 }
