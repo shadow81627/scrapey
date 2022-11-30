@@ -88,6 +88,7 @@ export default async function crawl(
       .get()
       .filter(Boolean)
       .filter((link) => !disallowedHosts.includes(new URL(link).hostname))
+      .filter(link => !link.match(/^https:\/\/budgetbytes.com\/.+?\/comment-page-\d/))
       .filter(
         (link) =>
           !link.startsWith('https://woolworths.com.au/shop/printrecipe'),
