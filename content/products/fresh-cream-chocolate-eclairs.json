@@ -1,0 +1,58 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "<strong>INGREDIENTS:</strong> <strong>Wheat</strong> Flour, <strong>Egg</strong>, Water, Palm Fat, Rapeseed Oil, Coconut Oil, Raising Agent (450, Sodium Carbonates), Salt, Stabiliser (420)."
+    },
+    {
+      "name": "Allergen",
+      "value": "Contains SOY, Contains MILK, Contains EGG, Contains Gluten, Contains Wheat"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "2.0"
+    },
+    {
+      "name": "Size",
+      "value": "2 pack"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$2.00 per 1Ea"
+    }
+  ],
+  "brand": "Coles Bakery",
+  "createdAt": "2022-11-30T14:54:24.621Z",
+  "description": "Delicious pecan plaits are the perfect size treat to share and conveniently packed for people on the go.",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/7/8/0/7801201.jpg",
+  "name": "Fresh Cream Chocolate Eclairs",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 4,
+    "lowPrice": 4,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-30T14:54:24.621Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "4.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-bakery-chocolate-éclair-with-fresh-cream"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/coles-bakery-chocolate-%C3%A9clair-with-fresh-cream"
+  ],
+  "sku": "7801201",
+  "updatedAt": "2022-11-30T14:54:24.621Z"
+}

@@ -2,43 +2,49 @@
   "@type": "Product",
   "additionalProperty": [
     {
+      "name": "Ingredients",
+      "value": "Sesame Oil"
+    },
+    {
+      "name": "Allergen",
+      "value": "Contains Sesame Seeds"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "13.0"
+    },
+    {
       "name": "Size",
       "value": "207mL"
     },
     {
       "name": "Unit Price",
-      "value": "$2.87 per 100mL"
+      "value": "$3.07 per 100mL"
     },
     {
       "name": "Country Of Origin",
-      "value": "Product of China from Imported ingredients"
+      "value": "Made in China"
     }
   ],
   "brand": "Lee Kum Kee",
   "createdAt": "2020-10-12T05:22:04.000Z",
-  "description": "Lee Kum Kee Pure Sesame Oil",
-  "image": {
-    "@type": "ImageObject",
-    "height": 300,
-    "mime": "image/jpeg",
-    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/2/5/5253116.jpg",
-    "width": 300
-  },
+  "description": "Made from the best roasted sesame seeds, this Pure Sesame Oil is carefully processed to retain its strong sesame flavour and is indispensable in many dishes. To accent overall taste, add a few dashes just before serving or when marinating meat.",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/2/5/5253116.jpg",
   "name": "Pure Sesame Oil",
   "offers": {
     "@type": "AggregateOffer",
-    "highPrice": 5.95,
-    "lowPrice": 5.95,
+    "highPrice": 6.35,
+    "lowPrice": 6.35,
     "offerCount": 1,
     "offers": [
       {
         "@context": "http://schema.org",
         "@type": "Offer",
         "availability": "https://schema.org/InStock",
-        "availabilityStarts": "2020-11-21T06:20:04.901Z",
+        "availabilityStarts": "2022-11-30T14:33:36.757Z",
         "itemCondition": "https://schema.org/NewCondition",
         "offeredBy": "Coles",
-        "price": "5.95",
+        "price": "6.35",
         "priceCurrency": "AUD",
         "seller": {
           "@type": "Organization",
@@ -49,8 +55,8 @@
     ]
   },
   "sameAs": [
-    "https://shop.coles.com.au/a/sunnybank-hills/product/lee-kum-kee-oil-sesame"
+    "https://shop.coles.com.au/a/national/product/lee-kum-kee-oil-sesame"
   ],
   "sku": "5253116",
-  "updatedAt": "2020-11-21T06:20:04.901Z"
+  "updatedAt": "2022-11-30T14:33:36.757Z"
 }

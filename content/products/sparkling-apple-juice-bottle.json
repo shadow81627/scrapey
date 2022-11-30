@@ -1,0 +1,58 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Carbonated Apple Juice from Concentrate (99.2%), Flavour."
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "3.0"
+    },
+    {
+      "name": "Size",
+      "value": "750mL"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$4.20 per 1L"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Made in South Africa"
+    }
+  ],
+  "brand": "Appletiser",
+  "createdAt": "2022-11-30T13:52:07.164Z",
+  "description": "Appletiser Sparkling Apple Juice Bottle",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/0/7/207100.jpg",
+  "name": "Sparkling Apple Juice Bottle",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3.15,
+    "lowPrice": 3.15,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-30T13:52:07.164Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "3.15",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/appletiser-sparkling-apple-juice"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/appletiser-sparkling-apple-juice"
+  ],
+  "sku": "207100",
+  "updatedAt": "2022-11-30T13:52:07.164Z"
+}

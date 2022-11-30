@@ -1,0 +1,59 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "220kJ",
+      "carbohydrateContent": "5.8g",
+      "dietary_fibre": "4.41g",
+      "fatContent": "2.8g",
+      "name": "nutrition",
+      "proteinContent": "1.0g",
+      "saturatedFatContent": "&lt;1.0g",
+      "servingSize": "100 g",
+      "sodiumContent": "87mg",
+      "sugarContent": "3.4g"
+    }
+  ],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Woolworths"
+  },
+  "createdAt": "2022-11-30T14:08:39.996Z",
+  "description": "<div>Woolworths Semi Dried Tomatoes Marinated to perfection in Mediterranean Herbs are Juicy and tender and are perfect for making a delicious Antipasti Platter.<br><br> <a href=\"https://www.woolworths.com.au/shop/recipedetail/3273/antipasti-platter\" target=\"_blank\">See our favourite recipe here </a></div>",
+  "gtin13": "9300633554644",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/505609.jpg",
+  "name": "Woolworths Semi Dried Tomatoes & Herbs Prepacked 180G",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": null,
+    "lowPrice": null,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/OutOfStock",
+        "availabilityStarts": "2022-11-30T14:08:39.995Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/505609"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/505609"
+  ],
+  "sku": "505609",
+  "updatedAt": "2022-11-30T14:08:39.995Z"
+}

@@ -2,39 +2,49 @@
   "@type": "Product",
   "additionalProperty": [
     {
+      "name": "Ingredients",
+      "value": "Two Fruits (59% Min) (Diced Pears & Peaches), Refined Fruit Juice. Fruit ratios may vary due to seasonal availability."
+    },
+    {
+      "name": "Contains",
+      "value": "Peaches, Pears"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "5.0"
+    },
+    {
+      "name": "Warning",
+      "value": "May contain pit, pit fragments, seed, seed fragments or stems. May contain seed, seed fragments or stems."
+    },
+    {
       "name": "Size",
       "value": "825g"
     },
     {
       "name": "Unit Price",
-      "value": "$4.24 per 1Kg"
+      "value": "$6.06 per 1Kg"
     }
   ],
   "brand": "SPC",
   "createdAt": "2020-10-12T05:22:04.000Z",
-  "description": "SPC Diced Two Fruits in Natural Juice Canned",
-  "image": {
-    "@type": "ImageObject",
-    "height": 300,
-    "mime": "image/jpeg",
-    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/1/3/313709.jpg",
-    "width": 300
-  },
+  "description": "SPC Two Fruits Diced in Juice 825g is the perfect way to ensure you can get your favourite fruit, regardless of the season!Australian Made",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/1/3/313709.jpg",
   "name": "Diced Two Fruits in Natural Juice Canned",
   "offers": {
     "@type": "AggregateOffer",
-    "highPrice": 3.5,
-    "lowPrice": 3.5,
+    "highPrice": 5,
+    "lowPrice": 5,
     "offerCount": 1,
     "offers": [
       {
         "@context": "http://schema.org",
         "@type": "Offer",
         "availability": "https://schema.org/InStock",
-        "availabilityStarts": "2020-11-15T09:38:23.869Z",
+        "availabilityStarts": "2022-11-30T14:10:36.493Z",
         "itemCondition": "https://schema.org/NewCondition",
         "offeredBy": "Coles",
-        "price": "3.50",
+        "price": "5.00",
         "priceCurrency": "AUD",
         "seller": {
           "@type": "Organization",
@@ -45,8 +55,8 @@
     ]
   },
   "sameAs": [
-    "https://shop.coles.com.au/a/sunnybank-hills/product/spc-two-fruits-diced-in-natural-juice"
+    "https://shop.coles.com.au/a/national/product/spc-two-fruits-diced-in-natural-juice"
   ],
   "sku": "313709",
-  "updatedAt": "2020-11-15T09:38:23.869Z"
+  "updatedAt": "2022-11-30T14:10:36.493Z"
 }

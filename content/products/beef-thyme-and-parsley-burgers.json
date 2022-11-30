@@ -3,7 +3,11 @@
   "additionalProperty": [
     {
       "name": "Ingredients",
-      "value": "INGREDIENTS: No Added Hormone Australian Beef (85%), Water, Seasoning [Crumb (Maize Starch, Rice Flour, Tapioca Starch, Potato Starch, Soy Flour, Preservatives (Sodium Carbonates, 575), Yeast, Salt), Salt, Dehydrated Beetroot, Preservative (223), Herbs (Parsley, Thyme), Spice Extracts (Paprika, Pepper)], Parsley, Thyme."
+      "value": "<strong>INGREDIENTS:</strong> No Added Hormone Australian Beef (85%), Water, Seasoning [Crumb (Maize Starch, Rice Flour, Tapioca Starch, Potato Starch, <strong>Soy</strong> Flour, Preservatives (Sodium Carbonates, 575), Yeast, Salt), Salt, Dehydrated Beetroot, Preservative (<strong>223</strong>), Herbs (Parsley, Thyme), Spice Extracts (Paprika, Pepper)], Parsley, Thyme."
+    },
+    {
+      "name": "Allergen",
+      "value": "Contains SOY, Contains SULPHITES"
     },
     {
       "name": "Servings Per Pack",
@@ -15,34 +19,28 @@
     },
     {
       "name": "Unit Price",
-      "value": "$12.00 per 1Kg"
+      "value": "$17.00 per 1Kg"
     }
   ],
   "brand": "Coles",
   "createdAt": "2020-10-12T05:22:04.000Z",
-  "description": "Coles Beef Thyme And Parsley Burgers",
-  "image": {
-    "@type": "ImageObject",
-    "height": 300,
-    "mime": "image/jpeg",
-    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/0/3/3034348.jpg",
-    "width": 300
-  },
+  "description": "BEEF BURGERS THYME & PARSLEY",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/0/3/3034348.jpg",
   "name": "Beef Thyme And Parsley Burgers",
   "offers": {
     "@type": "AggregateOffer",
-    "highPrice": 6,
-    "lowPrice": 6,
+    "highPrice": 8.5,
+    "lowPrice": 8.5,
     "offerCount": 1,
     "offers": [
       {
         "@context": "http://schema.org",
         "@type": "Offer",
         "availability": "https://schema.org/InStock",
-        "availabilityStarts": "2020-11-15T10:30:48.968Z",
+        "availabilityStarts": "2022-11-30T14:15:13.366Z",
         "itemCondition": "https://schema.org/NewCondition",
         "offeredBy": "Coles",
-        "price": "6.00",
+        "price": "8.50",
         "priceCurrency": "AUD",
         "seller": {
           "@type": "Organization",
@@ -53,8 +51,8 @@
     ]
   },
   "sameAs": [
-    "https://shop.coles.com.au/a/sunnybank-hills/product/coles-beef-thyme-and-parsley-burgers"
+    "https://shop.coles.com.au/a/national/product/coles-beef-thyme-and-parsley-burgers"
   ],
   "sku": "3034348",
-  "updatedAt": "2020-11-15T10:30:48.968Z"
+  "updatedAt": "2022-11-30T14:15:13.366Z"
 }

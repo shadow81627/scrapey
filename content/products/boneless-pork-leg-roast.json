@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "approx. 2.1kg"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$11.00 per 1Kg"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2022-11-30T13:58:23.611Z",
+  "description": "Sow Stall Free+",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/4/1/7/4174794.jpg",
+  "name": "Boneless Pork Leg Roast",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 23.1,
+    "lowPrice": 23.1,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-30T13:58:23.610Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "23.10",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-pork-leg-roast-easy-carve"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/coles-pork-leg-roast-easy-carve"
+  ],
+  "sku": "4174794",
+  "updatedAt": "2022-11-30T13:58:23.610Z"
+}

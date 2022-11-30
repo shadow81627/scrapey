@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "200g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$24.50 per 1Kg"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2022-11-30T14:19:10.992Z",
+  "description": "Exclusive to Coles, these morsels of tomatoey goodness are perfect for jazzing up a salad, threading onto a kebab or for eating straight from the punnet before anyone else sees them! Tomatoes taste sweeter when stored unrefrigerated.",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/7/2/6/7265535.jpg",
+  "name": "Grape Perino Tomatoes Prepacked",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 4.9,
+    "lowPrice": 4.9,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-30T14:19:10.991Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "4.90",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/tomatoes-grape-perino-prepacked"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/tomatoes-grape-perino-prepacked"
+  ],
+  "sku": "7265535",
+  "updatedAt": "2022-11-30T14:19:10.991Z"
+}

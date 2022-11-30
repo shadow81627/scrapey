@@ -2,8 +2,24 @@
   "@type": "Product",
   "additionalProperty": [
     {
+      "name": "Ingredients",
+      "value": "Partially Inverted Refiners Syrup"
+    },
+    {
+      "name": "Allergen",
+      "value": "Free From Gluten"
+    },
+    {
+      "name": "Ethical",
+      "value": "Recyclable"
+    },
+    {
       "name": "Dietary",
-      "value": "No Preservatives, No Artificial Flavours or Colours"
+      "value": "No Artificial Flavours or Colours"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "65.0"
     },
     {
       "name": "Size",
@@ -11,7 +27,7 @@
     },
     {
       "name": "Unit Price",
-      "value": "$1.13 per 100G"
+      "value": "$1.18 per 100G"
     },
     {
       "name": "Country Of Origin",
@@ -21,28 +37,22 @@
   "brand": "Lyles",
   "createdAt": "2020-10-12T05:22:04.000Z",
   "description": "Lyles Golden Syrup",
-  "image": {
-    "@type": "ImageObject",
-    "height": 300,
-    "mime": "image/jpeg",
-    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/9/2/1/9219696.jpg",
-    "width": 300
-  },
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/9/2/1/9219696.jpg",
   "name": "Golden Syrup",
   "offers": {
     "@type": "AggregateOffer",
-    "highPrice": 5.15,
-    "lowPrice": 5.15,
+    "highPrice": 5.35,
+    "lowPrice": 5.35,
     "offerCount": 1,
     "offers": [
       {
         "@context": "http://schema.org",
         "@type": "Offer",
         "availability": "https://schema.org/InStock",
-        "availabilityStarts": "2020-11-15T09:19:33.559Z",
+        "availabilityStarts": "2022-11-30T13:59:22.827Z",
         "itemCondition": "https://schema.org/NewCondition",
         "offeredBy": "Coles",
-        "price": "5.15",
+        "price": "5.35",
         "priceCurrency": "AUD",
         "seller": {
           "@type": "Organization",
@@ -53,8 +63,8 @@
     ]
   },
   "sameAs": [
-    "https://shop.coles.com.au/a/sunnybank-hills/product/lyles-golden-syrup"
+    "https://shop.coles.com.au/a/national/product/lyles-golden-syrup"
   ],
   "sku": "9219696",
-  "updatedAt": "2020-11-15T09:19:33.559Z"
+  "updatedAt": "2022-11-30T13:59:22.827Z"
 }

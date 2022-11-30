@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "From the Deli"
+  },
+  "createdAt": "2022-11-30T14:07:01.015Z",
+  "description": "<div>Serves 2 people<br><br><strong><em>Our Entertaining platters are made fresh to order in store for Delivery or Pick up. Please allow 36 hours notice when ordering (or 48 hours for Public Holidays, including Christmas and Easter).</em></strong><br><br>This Grazing Platter has the perfect mix of cheese and deli meats to make it a perfect accompaniment to drinks and aperitif, as well as the first course to a relaxed social gathering. The array of mouthwatering nibbles, makes it just as easy to match with either bubbles, crisp dry white or red wines. </div>",
+  "gtin13": "0275583000000",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/806856.jpg",
+  "name": "From The Deli Platter For Two Each",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 12,
+    "lowPrice": 12,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-30T14:07:01.014Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 12,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/806856/from-the-deli-platter-for-two"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/806856/from-the-deli-platter-for-two"
+  ],
+  "sku": "806856",
+  "updatedAt": "2022-11-30T14:07:01.014Z"
+}

@@ -2,12 +2,24 @@
   "@type": "Product",
   "additionalProperty": [
     {
-      "name": "Size",
-      "value": "175g"
+      "name": "Ingredients",
+      "value": "Sugar, Water, Vegetable Oils, Wheat Flour, Icing Sugar, Glucose Syrup, Humectant (Vegetable Glycerine), Invert Sugar Syrup, Dextrose, Dried Egg White, Whey Powder (Milk), Maize Starch, Raising Agents (Disodium Diphosphate, Sodium Bicarbonate), Colours (Plain Caramel, Titanium Dioxide), Tapioca Starch, Emulsifiers (Mono- and Diglycerides of Fatty Acids, Polyglycerol Esters of Fatty Acids, Sorbitan Monostearate, Soy Lecithin, Polysorbate 60), Vegetable Fats, Skimmed Milk Powder, Salt, Fat Reduced Cocoa Powder, Stabilisers (Xanthan Gum, Sorbitan Tristearate), Preservative (Potassium Sorbate), Milk Proteins, Gelling Agent (Sodium Alginate), Flavourings (contain Milk), Acid (Acetic Acid)"
     },
     {
-      "name": "Unit Price",
-      "value": "$1.43 per 100G"
+      "name": "Allergen",
+      "value": "Contains Soybean, Contains Egg, Contains Gluten, Contains Wheat, Contains Milk"
+    },
+    {
+      "name": "Dietary",
+      "value": "No Artificial Flavours or Colours"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "6.0"
+    },
+    {
+      "name": "Size",
+      "value": "175g"
     },
     {
       "name": "Country Of Origin",
@@ -17,28 +29,21 @@
   "brand": "Mr Kipling",
   "createdAt": "2020-10-12T05:22:04.000Z",
   "description": "Mr Kipling Salted Caramel Slices 6 pack",
-  "image": {
-    "@type": "ImageObject",
-    "height": 300,
-    "mime": "image/jpeg",
-    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/7/4/3745040.jpg",
-    "width": 300
-  },
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/7/4/3745040.jpg",
   "name": "Salted Caramel Slices 6 pack",
   "offers": {
     "@type": "AggregateOffer",
-    "highPrice": 2.5,
-    "lowPrice": 2.5,
+    "highPrice": null,
+    "lowPrice": null,
     "offerCount": 1,
     "offers": [
       {
         "@context": "http://schema.org",
         "@type": "Offer",
-        "availability": "https://schema.org/InStock",
-        "availabilityStarts": "2020-11-15T09:12:55.741Z",
+        "availability": "https://schema.org/OutOfStock",
+        "availabilityStarts": "2022-11-30T14:01:43.128Z",
         "itemCondition": "https://schema.org/NewCondition",
         "offeredBy": "Coles",
-        "price": "2.50",
         "priceCurrency": "AUD",
         "seller": {
           "@type": "Organization",
@@ -49,8 +54,8 @@
     ]
   },
   "sameAs": [
-    "https://shop.coles.com.au/a/sunnybank-hills/product/mr-kipling-salted-caramel-slices-6pk"
+    "https://shop.coles.com.au/a/national/product/mr-kipling-salted-caramel-slices-6pk"
   ],
   "sku": "3745040",
-  "updatedAt": "2020-11-15T09:12:55.741Z"
+  "updatedAt": "2022-11-30T14:01:43.128Z"
 }

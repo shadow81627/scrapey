@@ -1,0 +1,59 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "223kJ",
+      "carbohydrateContent": "4.4g",
+      "dietary_fibre": "0.3g",
+      "fatContent": "3.4g",
+      "name": "nutrition",
+      "proteinContent": "1.3g",
+      "saturatedFatContent": "1.2g",
+      "servingSize": "100 g",
+      "sodiumContent": "141mg",
+      "sugarContent": "2.8g"
+    }
+  ],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Woolworths"
+  },
+  "createdAt": "2022-11-30T14:06:21.854Z",
+  "description": "<p>No artificial colours or flavours.</p>",
+  "gtin13": "9300633554743",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/505677.jpg",
+  "name": "Woolworths Baby Pepper Bels Filled Fetta Prepacked 180G",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": null,
+    "lowPrice": null,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/OutOfStock",
+        "availabilityStarts": "2022-11-30T14:06:21.853Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/505677"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/505677"
+  ],
+  "sku": "505677",
+  "updatedAt": "2022-11-30T14:06:21.853Z"
+}

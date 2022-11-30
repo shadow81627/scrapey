@@ -1,0 +1,62 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Reconstituted Orange Juice and Orange Juice (99.9%), Preservative (202), Natural Flavours, Vitamin C, Acidity Regulator (330)."
+    },
+    {
+      "name": "Contains",
+      "value": "Contains fresh, reconstituted and from time to time, cold-stored juice."
+    },
+    {
+      "name": "Dietary",
+      "value": "No Added Sugars"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "10.0"
+    },
+    {
+      "name": "Size",
+      "value": "2L"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$2.50 per 1L"
+    }
+  ],
+  "brand": "Daily Juice",
+  "createdAt": "2022-11-30T14:56:03.144Z",
+  "description": "Daily Juice Pulp Free No Added Sugar Orange Juice",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/7/3/5738160.jpg",
+  "name": "Pulp Free No Added Sugar Orange Juice",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 5,
+    "lowPrice": 5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-30T14:56:03.144Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "5.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/daily-juice-company-juice-orange-pulp-free-no-added-sugar-chilled"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/daily-juice-company-juice-orange-pulp-free-no-added-sugar-chilled"
+  ],
+  "sku": "5738160",
+  "updatedAt": "2022-11-30T14:56:03.144Z"
+}

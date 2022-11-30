@@ -2,6 +2,18 @@
   "@type": "Product",
   "additionalProperty": [
     {
+      "name": "Ingredients",
+      "value": "Coconut Milk (70%) (Coconut Extract, Water, Sugar, Vegetable Gum (Xanthan), Salt), Water, Sugar, Green Chilli Puree (3%), Onion, Coriander Puree, Fish Sauce, Sunflower Oil, Garlic, Salt, Kaffir Lime Leaves, Lemongrass Puree, Red Chilli, Vegetable Powders, Vinegar, Spices, Corn Starch, Natural Flavours, Food Acid (Citric), Vegetable Gum (Xanthan), Spice Extracts"
+    },
+    {
+      "name": "Dietary",
+      "value": "No Artificial Flavours or Colours"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "4.0"
+    },
+    {
       "name": "Size",
       "value": "285 GRAM"
     },
@@ -13,28 +25,22 @@
   "brand": "Street Kitchen",
   "createdAt": "2020-10-12T05:22:04.000Z",
   "description": "Street Kitchen Thai Green Curry",
-  "image": {
-    "@type": "ImageObject",
-    "height": 300,
-    "mime": "image/jpeg",
-    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/7/7/3777874.jpg",
-    "width": 300
-  },
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/7/7/3777874.jpg",
   "name": "Thai Green Curry",
   "offers": {
     "@type": "AggregateOffer",
-    "highPrice": 2.75,
-    "lowPrice": 2.75,
+    "highPrice": 5.9,
+    "lowPrice": 5.9,
     "offerCount": 1,
     "offers": [
       {
         "@context": "http://schema.org",
         "@type": "Offer",
         "availability": "https://schema.org/InStock",
-        "availabilityStarts": "2020-11-21T06:21:26.573Z",
+        "availabilityStarts": "2022-11-30T14:32:19.207Z",
         "itemCondition": "https://schema.org/NewCondition",
         "offeredBy": "Coles",
-        "price": "2.75",
+        "price": "5.90",
         "priceCurrency": "AUD",
         "seller": {
           "@type": "Organization",
@@ -45,8 +51,8 @@
     ]
   },
   "sameAs": [
-    "https://shop.coles.com.au/a/sunnybank-hills/product/stret-kitchen-thai-gren-curry"
+    "https://shop.coles.com.au/a/national/product/stret-kitchen-thai-gren-curry"
   ],
   "sku": "3777874",
-  "updatedAt": "2020-11-21T06:21:26.573Z"
+  "updatedAt": "2022-11-30T14:32:19.207Z"
 }
