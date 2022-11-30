@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "250g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.70 per 100G"
+    }
+  ],
+  "brand": "Coles Finest",
+  "createdAt": "2022-11-29T23:27:01.342Z",
+  "description": "Coles Finest St.Remy Brandy Cream",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/8/3/2835206.jpg",
+  "name": "St.Remy Brandy Cream",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 4.25,
+    "lowPrice": 4.25,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-29T23:27:01.341Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "4.25",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/brandy-cream-2835206p-1"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/brandy-cream-2835206p-1"
+  ],
+  "sku": "2835206",
+  "updatedAt": "2022-11-29T23:27:01.341Z"
+}

@@ -1,0 +1,66 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "480kJ",
+      "carbohydrateContent": "11.3g",
+      "dietary_fibre": "3.4g",
+      "fatContent": "6.3g",
+      "name": "nutrition",
+      "proteinContent": "3.7g",
+      "saturatedFatContent": "3.1g",
+      "servingSize": "100 g",
+      "sodiumContent": "240mg",
+      "sugarContent": "0.4g"
+    }
+  ],
+  "aggregateRating": {
+    "@context": "http://schema.org",
+    "@type": "AggregateRating",
+    "ratingCount": 68,
+    "ratingValue": 4.67647058823529
+  },
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Patties"
+  },
+  "createdAt": "2022-11-29T22:59:09.968Z",
+  "description": "<p>Patties Party Pies Classic Beef is made with delicious beef in a rich gravy sauce, wrapped in a golden-brown flaky pastry. <br/><br/>- No added preservatives or artificial colours.</p>",
+  "gtin13": "9311008931144",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/072390.jpg",
+  "name": "Patties Party Pies Frozen 24 Pack",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 15.5,
+    "lowPrice": 15.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/OutOfStock",
+        "availabilityStarts": "2022-11-29T22:59:09.966Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 15.5,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/72390/patties-party-pies-frozen"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/72390/patties-party-pies-frozen"
+  ],
+  "sku": "72390",
+  "updatedAt": "2022-11-29T22:59:09.966Z"
+}

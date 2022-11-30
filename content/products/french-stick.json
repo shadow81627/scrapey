@@ -1,0 +1,54 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "<strong>INGREDIENTS:</strong> <strong>Wheat</strong> Flour, Water, Yeast, Iodised Salt, <strong>Wheat</strong> Gluten, Vegetable Oil, Yellow Pea Flour, Vitamins [Thiamin, Folic Acid]."
+    },
+    {
+      "name": "Allergen",
+      "value": "May Contain Pine, May Contain SULPHITES, May Contain Walnut, May Contain EGG, May Contain CEREALS CONTAINING GLUTEN, May Contain MILK, May Contain SOY, May Contain Cashew, May Contain Macadamia Nuts, May Contain SESAME, May Contain Hazelnuts, May Contain Brazil Nuts, May Contain Almonds, May Contain Lupin, May Contain PEANUTS, Contains Gluten, May Contain Pistachios, Contains Wheat, May Contain TREE NUTS, May Contain Pecan"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "5.0"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.65 per 1Ea"
+    }
+  ],
+  "brand": "Coles Bakery",
+  "createdAt": "2022-11-29T23:51:04.628Z",
+  "description": "Perfectly baked French Stick with a thin crispy crust. It can be served as a sandwich bread, a bread for dipping, or as a bread to accompany a meal.",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/6/2/4/6242840.jpg",
+  "name": "French Stick",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 1.65,
+    "lowPrice": 1.65,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-29T23:51:04.627Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "1.65",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-bakery-baguette-white-baked-in-store-6242840p"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/coles-bakery-baguette-white-baked-in-store-6242840p"
+  ],
+  "sku": "6242840",
+  "updatedAt": "2022-11-29T23:51:04.627Z"
+}

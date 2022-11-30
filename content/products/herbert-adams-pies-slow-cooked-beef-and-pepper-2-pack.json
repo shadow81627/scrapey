@@ -1,0 +1,66 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "2160kJ",
+      "carbohydrateContent": "49.3g",
+      "dietary_fibre": "4.8g",
+      "fatContent": "26.7g",
+      "name": "nutrition",
+      "proteinContent": "19.2g",
+      "saturatedFatContent": "13.2g",
+      "servingSize": "100 g",
+      "sodiumContent": "950mg",
+      "sugarContent": "1.8g"
+    }
+  ],
+  "aggregateRating": {
+    "@context": "http://schema.org",
+    "@type": "AggregateRating",
+    "ratingCount": 33,
+    "ratingValue": 4.78787878787879
+  },
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Herbert Adams"
+  },
+  "createdAt": "2022-11-29T22:58:24.895Z",
+  "description": "Succulent pieces of 8 hour slow-cooked beef with a twist of cracked pepper, encased in our signature flaky pastry.",
+  "gtin13": "9311008003469",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/786291.jpg",
+  "name": "Herbert Adams Pies Slow Cooked Beef & Pepper 2 Pack",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 6.8,
+    "lowPrice": 6.8,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-29T22:58:24.893Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 6.8,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/786291/herbert-adams-pies-slow-cooked-beef-pepper"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/786291/herbert-adams-pies-slow-cooked-beef-pepper"
+  ],
+  "sku": "786291",
+  "updatedAt": "2022-11-29T22:58:24.893Z"
+}

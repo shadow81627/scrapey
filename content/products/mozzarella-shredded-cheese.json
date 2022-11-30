@@ -1,0 +1,58 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "<strong>INGREDIENTS:</strong> Mozzarella Cheese [<strong>Milk</strong>, Salt, Culture (<strong>Milk</strong>), Enzyme (Vegetarian Rennet)], Anticaking Agent (460), Preservative (200)."
+    },
+    {
+      "name": "Allergen",
+      "value": "Contains MILK"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "28.0"
+    },
+    {
+      "name": "Size",
+      "value": "700g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$12.14 per 1Kg"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2022-11-29T23:39:37.514Z",
+  "description": "STRENGTH INDICATOR: 1 VERY MILD Soft & Stretchy cheese with a very mild flavour. Perfect for baking.",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/1/4/1/1413334.jpg",
+  "name": "Mozzarella Shredded Cheese",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 8.5,
+    "lowPrice": 8.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-29T23:39:37.513Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "8.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-cheese-australian-mozzarella-shredded"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/coles-cheese-australian-mozzarella-shredded"
+  ],
+  "sku": "1413334",
+  "updatedAt": "2022-11-29T23:39:37.513Z"
+}

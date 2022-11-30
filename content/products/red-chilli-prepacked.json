@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "50g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$76.00 per 1Kg"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2022-11-29T23:40:44.593Z",
+  "description": "HEAT RATING: 3 USAGE: Perfect in Mexican cooking, including spicy sauces and meat marinades. This chilli is also used in Tobasco Sauce. STORAGE: To extend the life of chillies, gently pull out the stem and store in a sealed container in the fridge",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/1/5/0/1501635.jpg",
+  "name": "Red Chilli Prepacked",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3.8,
+    "lowPrice": 3.8,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-29T23:40:44.592Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "3.80",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-fresh-chillies---red-prepacked"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/coles-fresh-chillies---red-prepacked"
+  ],
+  "sku": "1501635",
+  "updatedAt": "2022-11-29T23:40:44.592Z"
+}

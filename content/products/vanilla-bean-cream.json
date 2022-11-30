@@ -1,0 +1,58 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "<p><strong>INGREDIENTS:</strong> <strong>Cream</strong>, <strong>Milk</strong>, Sugar, Modified Starch (1442), Vanilla Bean Paste (1.9%), Acidity Regulator (330).</p>"
+    },
+    {
+      "name": "Allergen",
+      "value": "Contains MILK"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "10.0"
+    },
+    {
+      "name": "Size",
+      "value": "250g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.70 per 100G"
+    }
+  ],
+  "brand": "Coles Finest",
+  "createdAt": "2022-11-29T23:22:21.861Z",
+  "description": "Rich cream blended with real vanilla bean paste.The perfect accompaniment to Christmas puddings and festive desserts.",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/8/3/2835170.jpg",
+  "name": "Vanilla Bean Cream",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 4.25,
+    "lowPrice": 4.25,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-29T23:22:21.860Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "4.25",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-vanilla-double-cream"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/coles-vanilla-double-cream"
+  ],
+  "sku": "2835170",
+  "updatedAt": "2022-11-29T23:22:21.860Z"
+}

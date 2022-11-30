@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "250g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$2.00 per 100G"
+    }
+  ],
+  "brand": "Oz Group",
+  "createdAt": "2022-11-29T22:57:37.760Z",
+  "description": "Oz Group Australian Frozen Blueberries",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/9/2/3928754.jpg",
+  "name": "Australian Frozen Blueberries",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 5,
+    "lowPrice": 5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-29T22:57:37.759Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "5.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/frozen-blueberries"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/frozen-blueberries"
+  ],
+  "sku": "3928754",
+  "updatedAt": "2022-11-29T22:57:37.759Z"
+}
