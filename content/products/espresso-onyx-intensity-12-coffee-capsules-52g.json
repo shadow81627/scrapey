@@ -1,0 +1,58 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Contains",
+      "value": "Ground coffee in capsules"
+    },
+    {
+      "name": "Allergen",
+      "value": "Contains Caffeine"
+    },
+    {
+      "name": "Size",
+      "value": "10 pack"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.70 per 1Ea"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Produced in France from imported coffee beans"
+    }
+  ],
+  "brand": "L'OR",
+  "createdAt": "2022-11-30T21:39:34.021Z",
+  "description": "L'OR Espresso Onyx Intensity 12 Coffee Capsules 52g",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/9/5/2951058.jpg",
+  "name": "Espresso Onyx Intensity 12 Coffee Capsules 52g",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 7,
+    "lowPrice": 7,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-30T21:39:34.020Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "7.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/lor-espresso-onyx-capsules"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/lor-espresso-onyx-capsules"
+  ],
+  "sku": "2951058",
+  "updatedAt": "2022-11-30T21:39:34.020Z"
+}

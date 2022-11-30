@@ -1,0 +1,51 @@
+{
+  "@type": "Product",
+  "additionalProperty": [],
+  "aggregateRating": {
+    "@context": "http://schema.org",
+    "@type": "AggregateRating",
+    "ratingCount": 269,
+    "ratingValue": 3.84386617100372
+  },
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Plantitude"
+  },
+  "createdAt": "2022-11-30T20:58:16.590Z",
+  "gtin13": "9339687171064",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/092235.jpg",
+  "name": "Plantitude Chicken Free Crumbed Tenders Chicken Free Crumbed Tenders 300g",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 6,
+    "lowPrice": 6,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-30T20:58:16.589Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 6,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/92235/plantitude-chicken-free-crumbed-tenders-chicken-free-crumbed-tenders"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/92235/plantitude-chicken-free-crumbed-tenders-chicken-free-crumbed-tenders"
+  ],
+  "sku": "92235",
+  "updatedAt": "2022-11-30T20:58:16.589Z"
+}

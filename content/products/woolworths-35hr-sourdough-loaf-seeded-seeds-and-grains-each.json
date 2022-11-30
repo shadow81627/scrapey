@@ -1,0 +1,66 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "905.00kJ",
+      "carbohydrateContent": "32.50g",
+      "dietary_fibre": "2.80g",
+      "fatContent": "4.80g",
+      "name": "nutrition",
+      "proteinContent": "8.80g",
+      "saturatedFatContent": "0.80g",
+      "servingSize": "100 g",
+      "sodiumContent": "319.00mg",
+      "sugarContent": "2.10g"
+    }
+  ],
+  "aggregateRating": {
+    "@context": "http://schema.org",
+    "@type": "AggregateRating",
+    "ratingCount": 132,
+    "ratingValue": 4.68939393939394
+  },
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Woolworths"
+  },
+  "createdAt": "2022-11-30T21:10:06.483Z",
+  "description": "Proudly made with Australian wheat flour, this sourdough bread recipe has been created by an expert artisan baker. Each 35 hour recipe loaf begins with a traditional culture, is slowly fermented then rested before being fully baked on stone giving a distinctive flavour and light open internal texture. Finished in our in-store ovens for a crisp crust.",
+  "gtin13": "0284749000006",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/363951.jpg",
+  "name": "Woolworths 35hr Sourdough Loaf Seeded Seeds And Grains Each",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 6,
+    "lowPrice": 6,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-30T21:10:06.481Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 6,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/363951/woolworths-35hr-sourdough-loaf-seeded-seeds-and-grains"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/363951/woolworths-35hr-sourdough-loaf-seeded-seeds-and-grains"
+  ],
+  "sku": "363951",
+  "updatedAt": "2022-11-30T21:10:06.481Z"
+}

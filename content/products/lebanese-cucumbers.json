@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "Approx. 140g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$3.90 per 1Kg"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2022-11-30T23:13:50.828Z",
+  "description": "Lebanese Cucumbers are shorter in length than Continental Cucumbers and have thinner skin and soft seeds",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/4/5/7/4575208.jpg",
+  "name": "Lebanese Cucumbers",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 0.55,
+    "lowPrice": 0.55,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-30T23:13:50.828Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "0.55",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/cucumber-lebanese-loose"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/cucumber-lebanese-loose"
+  ],
+  "sku": "4575208",
+  "updatedAt": "2022-11-30T23:13:50.828Z"
+}

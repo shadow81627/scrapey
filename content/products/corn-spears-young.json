@@ -1,0 +1,54 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "<strong>INGREDIENTS:</strong> Baby Corn (55%), Water, Salt."
+    },
+    {
+      "name": "Size",
+      "value": "410g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$2.44 per 1Kg"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Product of Thailand"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2022-11-30T21:31:37.319Z",
+  "description": "Coles Corn Spears Young 410 gram a great addition to a stir fry slice in half for quick cooking",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/8/7/0/8701042.jpg",
+  "name": "Corn Spears Young",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 1,
+    "lowPrice": 1,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-30T21:31:37.319Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "1.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-corn-spears-young"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/coles-corn-spears-young"
+  ],
+  "sku": "8701042",
+  "updatedAt": "2022-11-30T21:31:37.319Z"
+}

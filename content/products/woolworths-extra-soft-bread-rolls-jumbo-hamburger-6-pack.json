@@ -1,0 +1,66 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "1040.00kJ",
+      "carbohydrateContent": "42.40g",
+      "dietary_fibre": "3.00g",
+      "fatContent": "3.80g",
+      "name": "nutrition",
+      "proteinContent": "9.20g",
+      "saturatedFatContent": "0.90g",
+      "servingSize": "100 g",
+      "sodiumContent": "323.00mg",
+      "sugarContent": "0.90g"
+    }
+  ],
+  "aggregateRating": {
+    "@context": "http://schema.org",
+    "@type": "AggregateRating",
+    "ratingCount": 21,
+    "ratingValue": 4.71428571428571
+  },
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Woolworths"
+  },
+  "createdAt": "2022-11-30T21:08:29.320Z",
+  "description": "<p></p>",
+  "gtin13": "0280081000001",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/201252.jpg",
+  "name": "Woolworths Extra Soft Bread Rolls Jumbo Hamburger 6 Pack",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2.85,
+    "lowPrice": 2.85,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-30T21:08:29.319Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 2.85,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/201252/woolworths-extra-soft-bread-rolls-jumbo-hamburger"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/201252/woolworths-extra-soft-bread-rolls-jumbo-hamburger"
+  ],
+  "sku": "201252",
+  "updatedAt": "2022-11-30T21:08:29.319Z"
+}

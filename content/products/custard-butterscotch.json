@@ -1,0 +1,62 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Milk, Skim Milk, Sugar, Thickener (1442) (from maize), Milk Solids, Flavours, Stabiliser (412. 407), Colour (160a), Caramelised Sugar."
+    },
+    {
+      "name": "Contains",
+      "value": "Milk."
+    },
+    {
+      "name": "Allergen",
+      "value": "Contains Milk"
+    },
+    {
+      "name": "Dietary",
+      "value": "Source of Calcium, No Preservatives"
+    },
+    {
+      "name": "Size",
+      "value": "1 kg"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.40 per 100G"
+    }
+  ],
+  "brand": "Pauls",
+  "createdAt": "2022-11-30T22:15:27.571Z",
+  "description": "Pauls Custard Butterscotch",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/1/5/8/1583403.jpg",
+  "name": "Custard Butterscotch",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 4,
+    "lowPrice": 4,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-30T22:15:27.570Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "4.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/pauls-custard-butterscotch"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/pauls-custard-butterscotch"
+  ],
+  "sku": "1583403",
+  "updatedAt": "2022-11-30T22:15:27.570Z"
+}

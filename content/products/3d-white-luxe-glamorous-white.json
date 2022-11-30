@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "95g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$9.47 per 100G"
+    }
+  ],
+  "brand": "Oral B",
+  "createdAt": "2022-11-30T21:41:50.556Z",
+  "description": "Oral B 3D White Luxe Glamorous White",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/1/3/3130487.jpg",
+  "name": "3D White Luxe Glamorous White",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 9,
+    "lowPrice": 9,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-30T21:41:50.555Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "9.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/oral-b-3d-white-luxe-glamorous-white"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/oral-b-3d-white-luxe-glamorous-white"
+  ],
+  "sku": "3130487",
+  "updatedAt": "2022-11-30T21:41:50.555Z"
+}

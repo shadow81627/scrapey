@@ -1,0 +1,50 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "335mL"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.81 per 100mL"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Made in Indonesia from Imported ingredients"
+    }
+  ],
+  "brand": "ABC",
+  "createdAt": "2022-11-30T20:54:40.533Z",
+  "description": "ABC Original Chilli Sauce",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/4/2/5422202.jpg",
+  "name": "Original Chilli Sauce",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2.7,
+    "lowPrice": 2.7,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-30T20:54:40.532Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "2.70",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/abc-sauce-chilli-sambal-asli"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/abc-sauce-chilli-sambal-asli"
+  ],
+  "sku": "5422202",
+  "updatedAt": "2022-11-30T20:54:40.532Z"
+}

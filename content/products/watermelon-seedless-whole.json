@@ -3,38 +3,32 @@
   "additionalProperty": [
     {
       "name": "Size",
-      "value": "approx. 7.5kg"
+      "value": "approx. 8kg"
     },
     {
       "name": "Unit Price",
-      "value": "$2.00 per 1Kg"
+      "value": "$3.90 per 1Kg"
     }
   ],
   "brand": "Coles",
   "createdAt": "2020-10-12T05:22:04.000Z",
   "description": "Coles Watermelon Seedless Whole",
-  "image": {
-    "@type": "ImageObject",
-    "height": 300,
-    "mime": "image/jpeg",
-    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/4/2/0/4205264.jpg",
-    "width": 300
-  },
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/4/2/0/4205264.jpg",
   "name": "Watermelon Seedless Whole",
   "offers": {
     "@type": "AggregateOffer",
-    "highPrice": 15,
-    "lowPrice": 15,
+    "highPrice": 31.2,
+    "lowPrice": 31.2,
     "offerCount": 1,
     "offers": [
       {
         "@context": "http://schema.org",
         "@type": "Offer",
         "availability": "https://schema.org/InStock",
-        "availabilityStarts": "2020-11-15T05:28:17.627Z",
+        "availabilityStarts": "2022-11-30T20:56:55.805Z",
         "itemCondition": "https://schema.org/NewCondition",
         "offeredBy": "Coles",
-        "price": "15.00",
+        "price": "31.20",
         "priceCurrency": "AUD",
         "seller": {
           "@type": "Organization",
@@ -45,8 +39,8 @@
     ]
   },
   "sameAs": [
-    "https://shop.coles.com.au/a/sunnybank-hills/product/watermelon-seedless-cut"
+    "https://shop.coles.com.au/a/national/product/watermelon-seedless-cut"
   ],
   "sku": "4205264",
-  "updatedAt": "2020-11-15T05:28:17.627Z"
+  "updatedAt": "2022-11-30T20:56:55.805Z"
 }

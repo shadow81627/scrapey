@@ -1,0 +1,58 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Cheddar Cheese (Pasteurised Milk, Salt, Non-Animal Rennet, Cultures, Mineral Salt (509)), Natural Smoke (Min 5%)."
+    },
+    {
+      "name": "Allergen",
+      "value": "Contains Milk"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "116.0"
+    },
+    {
+      "name": "Size",
+      "value": "approx.200g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$57.00 per 1Kg"
+    }
+  ],
+  "brand": "King Island Dairy",
+  "createdAt": "2022-11-30T23:17:40.114Z",
+  "description": "King Island Dairy Smoked Cheddar Cheese",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/7/0/2700080.jpg",
+  "name": "Smoked Cheddar Cheese",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 11.4,
+    "lowPrice": 11.4,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-30T23:17:40.113Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "11.40",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/king-island-smoked-cheddar"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/king-island-smoked-cheddar"
+  ],
+  "sku": "2700080",
+  "updatedAt": "2022-11-30T23:17:40.113Z"
+}

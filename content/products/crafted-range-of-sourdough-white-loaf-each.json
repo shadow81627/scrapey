@@ -1,0 +1,66 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "1040.00kJ",
+      "carbohydrateContent": "44.90g",
+      "dietary_fibre": "4.40g",
+      "fatContent": "2.10g",
+      "name": "nutrition",
+      "proteinContent": "9.80g",
+      "saturatedFatContent": "1.00g",
+      "servingSize": "100 g",
+      "sodiumContent": "540.00mg",
+      "sugarContent": "3.00g"
+    }
+  ],
+  "aggregateRating": {
+    "@context": "http://schema.org",
+    "@type": "AggregateRating",
+    "ratingCount": 225,
+    "ratingValue": 4.20444444444444
+  },
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Crafted Range"
+  },
+  "createdAt": "2022-11-30T21:11:24.357Z",
+  "description": "A classic white vienna sourdough that won Silver at the 2021 Sydney Royal Fine Food Awards.<br/><br/> Proudly made with Australian wheat flour, this sourdough bread recipe has been crafted by an expert artisan baker. Using time honoured methods, the 40 hour recipe begins with a traditional culture, is slowly fermented and then hand shaped and rested before being fully baked on stone. <br/><br/> Finished in our in-store ovens, these loaves have an intense sourdough flavour, with a perfect crust and wonderful open texture.<div><br/><br/><a href=?https://www.woolworths.com.au/shop/discover/our-brands/woolworths-range/sourdough?icmpid=sm-vurl-sourdough\"target=\"_blank\"><b>Click here</b><a/> to find out more<p/>",
+  "gtin13": "0286265000003",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/097077.jpg",
+  "name": "Crafted Range Of Sourdough White Loaf Each",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 7,
+    "lowPrice": 7,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-30T21:11:24.356Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 7,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/97077/crafted-range-of-sourdough-white-loaf"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/97077/crafted-range-of-sourdough-white-loaf"
+  ],
+  "sku": "97077",
+  "updatedAt": "2022-11-30T21:11:24.356Z"
+}

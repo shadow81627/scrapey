@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "1kg"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$2.20 per 1Kg"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2022-11-30T21:29:20.654Z",
+  "description": "Originating in Afghanistan, carrots were originally white and purple in colouring, they mutated to orange through cross pollination. Carrots are best stored in the veg crisper in your refrigerator",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/9/0/0/9006560.jpg",
+  "name": "Carrots Prepacked",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2.2,
+    "lowPrice": 2.2,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-30T21:29:20.653Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "2.20",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/carrots-prepacked"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/carrots-prepacked"
+  ],
+  "sku": "9006560",
+  "updatedAt": "2022-11-30T21:29:20.653Z"
+}

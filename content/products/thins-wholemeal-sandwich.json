@@ -2,39 +2,53 @@
   "@type": "Product",
   "additionalProperty": [
     {
+      "name": "Ingredients",
+      "value": "Wholemeal Wheat Flour (42%), Water, Wheat Flour, Baker's Yeast, Wheat Gluten, Vegetable Gums (466, 415), Soy Flour, Vinegar, Canola Oil, Iodised Salt, Sugar, Dextrose, Fermented Wheat Flour, Emulsifiers (481, 471, 472e), Vitamins (Thiamin, Folic Acid)."
+    },
+    {
+      "name": "Contains",
+      "value": "Wheat, Gluten, Soy. May Be Present: Other Cereals (Barley, Oats, Rye), Sesame."
+    },
+    {
+      "name": "Allergen",
+      "value": "May Be Present Barley, May Be Present Oats, May Be Present Rye, May Be Present Sesame, Contains Gluten, Contains Soy, Contains Wheat"
+    },
+    {
+      "name": "Dietary",
+      "value": "No Preservatives, No Artificial Flavours or Colours"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "6.0"
+    },
+    {
       "name": "Size",
       "value": "240g"
     },
     {
       "name": "Unit Price",
-      "value": "$1.46 per 100G"
+      "value": "$1.25 per 100G"
     }
   ],
   "brand": "Tip Top",
   "createdAt": "2020-10-12T05:22:04.000Z",
   "description": "Tip Top Thins Wholemeal Sandwich",
-  "image": {
-    "@type": "ImageObject",
-    "height": 300,
-    "mime": "image/jpeg",
-    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/9/1/2917060.jpg",
-    "width": 300
-  },
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/9/1/2917060.jpg",
   "name": "Thins Wholemeal Sandwich",
   "offers": {
     "@type": "AggregateOffer",
-    "highPrice": 3.5,
-    "lowPrice": 3.5,
+    "highPrice": 3,
+    "lowPrice": 3,
     "offerCount": 1,
     "offers": [
       {
         "@context": "http://schema.org",
         "@type": "Offer",
         "availability": "https://schema.org/InStock",
-        "availabilityStarts": "2020-11-15T11:26:07.640Z",
+        "availabilityStarts": "2022-11-30T21:16:40.228Z",
         "itemCondition": "https://schema.org/NewCondition",
         "offeredBy": "Coles",
-        "price": "3.50",
+        "price": "3.00",
         "priceCurrency": "AUD",
         "seller": {
           "@type": "Organization",
@@ -45,8 +59,8 @@
     ]
   },
   "sameAs": [
-    "https://shop.coles.com.au/a/sunnybank-hills/product/tip-top-sandwich-thins-wholemeal"
+    "https://shop.coles.com.au/a/national/product/tip-top-sandwich-thins-wholemeal"
   ],
   "sku": "2917060",
-  "updatedAt": "2020-11-15T11:26:07.640Z"
+  "updatedAt": "2022-11-30T21:16:40.228Z"
 }

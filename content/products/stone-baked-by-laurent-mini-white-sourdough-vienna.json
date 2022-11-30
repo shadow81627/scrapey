@@ -6,39 +6,37 @@
       "value": "INGREDIENTS: Wheat Flour, Water, Salt, Malt [Barley, Malted Barley], Wheat Bran, Enzyme, Yeast, Vitamins [Folic Acid, Thiamin]."
     },
     {
+      "name": "Allergen",
+      "value": "Contains Barley, Contains CEREALS CONTAINING GLUTEN, Contains Wheat"
+    },
+    {
       "name": "Servings Per Pack",
       "value": "3.5"
     },
     {
       "name": "Unit Price",
-      "value": "$2.75 per 1Ea"
+      "value": "$2.85 per 1Ea"
     }
   ],
   "brand": "Coles Bakery",
   "createdAt": "2020-11-15T12:30:20.000Z",
-  "description": "Due to the short shelf life of the product it is not available for delivery before 2pm.",
-  "image": {
-    "@type": "ImageObject",
-    "height": 300,
-    "mime": "image/jpeg",
-    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/6/7/3678668.jpg",
-    "width": 300
-  },
+  "description": "Coles Bakery Stone Baked By Laurent Mini White Sourdough Vienna",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/6/7/3678668.jpg",
   "name": "Stone Baked By Laurent Mini White Sourdough Vienna",
   "offers": {
     "@type": "AggregateOffer",
-    "highPrice": 2.75,
-    "lowPrice": 2.75,
+    "highPrice": 2.85,
+    "lowPrice": 2.85,
     "offerCount": 1,
     "offers": [
       {
         "@context": "http://schema.org",
         "@type": "Offer",
         "availability": "https://schema.org/InStock",
-        "availabilityStarts": "2020-11-21T06:17:05.843Z",
+        "availabilityStarts": "2022-11-30T20:57:37.852Z",
         "itemCondition": "https://schema.org/NewCondition",
         "offeredBy": "Coles",
-        "price": "2.75",
+        "price": "2.85",
         "priceCurrency": "AUD",
         "seller": {
           "@type": "Organization",
@@ -49,8 +47,8 @@
     ]
   },
   "sameAs": [
-    "https://shop.coles.com.au/a/sunnybank-hills/product/stonebaked-by-laurent-mini-white-sourdough"
+    "https://shop.coles.com.au/a/national/product/stonebaked-by-laurent-mini-white-sourdough"
   ],
   "sku": "3678668",
-  "updatedAt": "2020-11-21T06:17:05.843Z"
+  "updatedAt": "2022-11-30T20:57:37.852Z"
 }

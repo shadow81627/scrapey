@@ -1,0 +1,50 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "400mL"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.75 per 100mL"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Product of Australia"
+    }
+  ],
+  "brand": "Connoisseur",
+  "createdAt": "2022-11-30T21:49:18.683Z",
+  "description": "Connoisseur Ice Cream Cookies & Cream 4 Pack",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/0/1/5019323.jpg",
+  "name": "Ice Cream Cookies & Cream 4 Pack",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 7,
+    "lowPrice": 7,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/OutOfStock",
+        "availabilityStarts": "2022-11-30T21:49:18.682Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "7.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/cookies-cream-4pk"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/cookies-cream-4pk"
+  ],
+  "sku": "5019323",
+  "updatedAt": "2022-11-30T21:49:18.682Z"
+}

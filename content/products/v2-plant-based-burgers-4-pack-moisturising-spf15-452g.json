@@ -1,0 +1,60 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "1080.00kJ",
+      "carbohydrateContent": "6.60g",
+      "dietary_fibre": "5.80g",
+      "fatContent": "16.50g",
+      "name": "nutrition",
+      "proteinContent": "20.00g",
+      "saturatedFatContent": "6.80g",
+      "servingSize": "100 g",
+      "sodiumContent": "333.00mg",
+      "sugarContent": "1.10g"
+    }
+  ],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "V2"
+  },
+  "createdAt": "2022-11-30T21:01:12.482Z",
+  "description": "Our juicy v2burger patties are your one-stop shop for a mouth-watering plant-based burger makeover.<br><br>Our v2burger patties deliver on the flavour you love, with none of the cow. Easy to cook and perfect for your favourite flavour combos, these patties are about to become your new go-to. Cook your v2burger until crisp on the outside but tender and juicy on the inside for a crowd-pleaser plant-based burger.<br><br>Cooks like meat, tastes like meat<br><br>No Artificial Preservatives Colours or Flavours<br><br>Good source of Fibre<br><br>Plant Based<br><br>No Genetic Modification<br><br>Developed and Made in Australia",
+  "gtin13": "9356418000028",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/116675.jpg",
+  "name": "V2 Plant Based Burgers 4 Pack Moisturising Spf15 452g",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 9,
+    "lowPrice": 9,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-11-30T21:01:12.482Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 9,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/116675/v2-plant-based-burgers"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/116675/v2-plant-based-burgers"
+  ],
+  "sku": "116675",
+  "updatedAt": "2022-11-30T21:01:12.482Z"
+}

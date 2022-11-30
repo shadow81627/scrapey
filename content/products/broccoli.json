@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "approx. 340g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$8.90 per 1Kg"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2022-11-30T21:53:36.734Z",
+  "description": "Coles Broccoli",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/4/0/7/407755.jpg",
+  "name": "Broccoli",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3.03,
+    "lowPrice": 3.03,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-11-30T21:53:36.733Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "3.03",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/broccoli-loose"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/broccoli-loose"
+  ],
+  "sku": "407755",
+  "updatedAt": "2022-11-30T21:53:36.733Z"
+}
