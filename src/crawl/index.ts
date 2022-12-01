@@ -53,6 +53,8 @@ async function fetchCrawlUrls({
       pathname: Not(Like('%/wprm_print/%')),
     }).andWhere({
       pathname: Not(Like('%/comment-page-%'))
+    }).andWhere({
+      pathname: Not(Like('%printrecipe%'))
     })
     .andWhere(
       new Brackets((qb) => {
@@ -86,7 +88,7 @@ type MySubject = {
   await AppDataSource.initialize();
   const connection = AppDataSource;
   const pool = Pool(() => spawn<Crawler>(new Worker('./crawl.ts')), {
-    size: 1,
+    size: 4,
   });
   const $tasks = new Subject<MySubject>();
   $tasks.subscribe({
