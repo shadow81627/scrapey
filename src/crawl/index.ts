@@ -28,6 +28,7 @@ const allowedHosts = [
   'healthyhappylife.com',
   'shelikesfood.com',
   'helloveggie.co',
+  'mayihavethatrecipe.com',
 ];
 
 async function fetchCrawlUrls({
