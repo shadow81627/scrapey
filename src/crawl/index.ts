@@ -19,6 +19,7 @@ const allowedHosts = [
   'thekitchn.com',
   'veganricha.com',
   'itdoesnttastelikechicken.com',
+  'minimalistbaker.com',
 ];
 
 async function fetchCrawlUrls({
