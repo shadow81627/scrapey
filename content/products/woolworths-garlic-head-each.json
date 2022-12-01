@@ -1,40 +1,48 @@
 {
   "@type": "Product",
-  "additionalProperty": [],
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "-",
+      "carbohydrateContent": "-",
+      "dietary_fibre": "-",
+      "fatContent": "-",
+      "name": "nutrition",
+      "proteinContent": "-",
+      "saturatedFatContent": "-",
+      "servingSize": "100 g",
+      "sodiumContent": "-",
+      "sugarContent": "-"
+    }
+  ],
   "brand": {
     "@context": "http://schema.org",
     "@type": "Organization",
-    "name": "woolworths"
+    "name": "Woolworths"
   },
   "createdAt": "2020-10-12T05:22:04.000Z",
-  "description": "Bulb made up of segments called cloves, covered by a papery shell. The most common varieties of garlic contain 10 cloves (or segments) with white skin. Other varieties have pink or purple skin and larger cloves. As a rule, the smaller the clove, the stronger the taste. It is a member of the allium family that also includes onions, chives, shallots, spring onions and leeks.What to look forLook for firm well-shaped cloves. Buy in small amounts and break off the cloves only when needed. Garlic dries out once detached. bulb of garlic has had its roots trimmed, one at a time. Garlic is never labelled since it sheds its skin if a label is applied to it.AvailabilityAll year.StoreKeep in a cool dry place away from the sunlight. Avoid placing in plastic bags, or storing in the refrigerator or everything in the refrigerator will end up tasting of garlic. Avoid storing next to ginger as ginger dehydrates garlic.How to prepareSeparate cloves from bulbs, remove papery skin unless roasting when skin can be left on. Cut bulbs in half crosswise and brush with oil to roast. To remove skin, press the clove under the flat side of a knife and the skin will come off easily. Chop the garlic very finely or crush it with the side of a knife. Alternatively, use a garlic crusher.Ways to eatGarlic can be eaten raw or cooked. Raw garlic produces a strong, pungent flavour while cooking gives a more mellow flavour. The longer garlic is cooked, the milder and sweeter the flavour. It's usually used in small amounts, 2-3 cloves to a dish. Garlic burns easily, so take care when frying or sautéing. It can be used in vegetable dishes, meats, soups, dips, stir fries, braises and stews. Add whole unpeeled cloves into a roasting pan with meat or vegetables. Cut a whole head in half horizontally and roast in a little olive oil. When cooked, serve as it is, or squeeze the roasted flesh out and serve on crostini or fresh bread.Cooking MethodsRoast, braise, stew, stir fry.",
+  "description": "<div>Bulb made up of segments called cloves, covered by a papery shell. The most common varieties of garlic contain 10 cloves (or segments) with white skin. Other varieties have pink or purple skin and larger cloves. As a rule, the smaller the clove, the stronger the taste. <br>It is a member of the allium family that also includes onions, chives, shallots, spring onions and leeks.<br><br><strong><em>What to look for</em></strong></div><div>Look for firm well-shaped cloves. Buy in small amounts and break off the cloves only when needed. Garlic dries out once detached. bulb of garlic has had its roots trimmed, one at a time. Garlic is never labelled since it sheds its skin if a label is applied to it.<br><br></div><div><strong><em>Availability</em></strong></div><div>All year.<br><br></div><div><strong><em>Store</em></strong></div><div>Keep in a cool dry place away from the sunlight. Avoid placing in plastic bags, or storing in the refrigerator or everything in the refrigerator will end up tasting of garlic. Avoid storing next to ginger as ginger dehydrates garlic.<br><br></div><div><strong><em>How to prepare</em></strong></div><div>Separate cloves from bulbs, remove papery skin unless roasting when skin can be left on. Cut bulbs in half crosswise and brush with oil to roast. To remove skin, press the clove under the flat side of a knife and the skin will come off easily. Chop the garlic very finely or crush it with the side of a knife. Alternatively, use a garlic crusher.<br><br></div><div><strong><em>Ways to eat</em></strong></div><div>Garlic can be eaten raw or cooked. Raw garlic produces a strong, pungent flavour while cooking gives a more mellow flavour. The longer garlic is cooked, the milder and sweeter the flavour. It's usually used in small amounts, 2-3 cloves to a dish. Garlic burns easily, so take care when frying or sautéing. It can be used in vegetable dishes, meats, soups, dips, stir fries, braises and stews. Add whole unpeeled cloves into a roasting pan with meat or vegetables. Cut a whole head in half horizontally and roast in a little olive oil. When cooked, serve as it is, or squeeze the roasted flesh out and serve on crostini or fresh bread.<br><br></div><div><strong><em>Cooking Methods</em></strong></div><div>Roast, braise, stew, stir fry.<br><br></div>",
   "gtin13": "0260139000009",
-  "image": {
-    "@type": "ImageObject",
-    "height": 1200,
-    "mime": "image/jpeg",
-    "url": "https://cdn0.woolworths.media/content/wowproductimages/large/713429.jpg",
-    "width": 1200
-  },
-  "name": "Woolworths Garlic Head each",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/713429.jpg",
+  "name": "Woolworths Garlic Head Each",
   "offers": {
     "@type": "AggregateOffer",
-    "highPrice": 1,
-    "lowPrice": 1,
+    "highPrice": 1.45,
+    "lowPrice": 1.45,
     "offerCount": 1,
     "offers": [
       {
         "@context": "http://schema.org",
         "@type": "Offer",
         "availability": "http://schema.org/InStock",
-        "availabilityStarts": "2020-11-21T10:06:50.580Z",
+        "availabilityStarts": "2022-12-01T04:31:17.103Z",
         "itemCondition": "http://schema.org/NewCondition",
         "offeredBy": "Woolworths",
         "potentialAction": {
           "@context": "http://schema.org",
           "@type": "BuyAction"
         },
-        "price": 1,
+        "price": 1.45,
         "priceCurrency": "AUD",
         "seller": {
           "@type": "Organization",
@@ -48,5 +56,5 @@
     "https://woolworths.com.au/shop/productdetails/713429/woolworths-garlic-head"
   ],
   "sku": "713429",
-  "updatedAt": "2020-11-21T10:06:50.580Z"
+  "updatedAt": "2022-12-01T04:31:17.103Z"
 }

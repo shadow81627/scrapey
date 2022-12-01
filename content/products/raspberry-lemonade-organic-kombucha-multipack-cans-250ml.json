@@ -7,34 +7,32 @@
     },
     {
       "name": "Unit Price",
-      "value": "$6.00 per 1L"
+      "value": "$8.75 per 1L"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Made in Australia"
     }
   ],
   "brand": "Remedy",
   "createdAt": "2020-10-12T05:22:04.000Z",
   "description": "Remedy Raspberry Lemonade Organic Kombucha Multipack Cans 250ml",
-  "image": {
-    "@type": "ImageObject",
-    "height": 300,
-    "mime": "image/jpeg",
-    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/2/7/3277667.jpg",
-    "width": 300
-  },
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/2/7/3277667.jpg",
   "name": "Raspberry Lemonade Organic Kombucha Multipack Cans 250ml",
   "offers": {
     "@type": "AggregateOffer",
-    "highPrice": 6,
-    "lowPrice": 6,
+    "highPrice": 8.75,
+    "lowPrice": 8.75,
     "offerCount": 1,
     "offers": [
       {
         "@context": "http://schema.org",
         "@type": "Offer",
         "availability": "https://schema.org/InStock",
-        "availabilityStarts": "2020-11-15T04:52:36.463Z",
+        "availabilityStarts": "2022-12-01T04:38:52.390Z",
         "itemCondition": "https://schema.org/NewCondition",
         "offeredBy": "Coles",
-        "price": "6.00",
+        "price": "8.75",
         "priceCurrency": "AUD",
         "seller": {
           "@type": "Organization",
@@ -45,8 +43,8 @@
     ]
   },
   "sameAs": [
-    "https://shop.coles.com.au/a/richmond-south/product/remedy-kombucha-4x250ml-drinks-raspberry-lemonade"
+    "https://shop.coles.com.au/a/national/product/remedy-kombucha-4x250ml-drinks-raspberry-lemonade"
   ],
   "sku": "3277667",
-  "updatedAt": "2020-11-15T04:52:36.463Z"
+  "updatedAt": "2022-12-01T04:38:52.390Z"
 }

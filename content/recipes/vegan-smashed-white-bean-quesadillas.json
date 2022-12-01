@@ -1,0 +1,81 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1",
+    "ratingValue": "5"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Oh My Veggies"
+  },
+  "cookTime": "PT10M",
+  "createdAt": "2022-12-01T04:35:46.724Z",
+  "datePublished": "2016-09-22T09:36:56+00:00",
+  "description": "There&#39;s no actual queso in these dairy-free quesadillas, but with spicy white beans, creamy avocado slices, and fresh cilantro, you&#39;re not likely to miss it!",
+  "image": [
+    "https://ohmyveggies.com/wp-content/uploads/2016/09/vegan-smashed-white-bean-quesadillas-2.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2016/09/vegan-smashed-white-bean-quesadillas-2-500x400.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2016/09/vegan-smashed-white-bean-quesadillas-2-500x375.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2016/09/vegan-smashed-white-bean-quesadillas-2-480x270.jpg"
+  ],
+  "keywords": "dairy-free quesadillas, Vegan Quesadillas, Vegan Smashed White Bean Quesadillas",
+  "name": "Vegan Smashed White Bean Quesadillas",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "100 kcal",
+    "carbohydrateContent": "9 g",
+    "fatContent": "8 g",
+    "fiberContent": "4 g",
+    "proteinContent": "2 g",
+    "saturatedFatContent": "1 g",
+    "servingSize": "1 serving",
+    "sodiumContent": "180 mg",
+    "sugarContent": "2 g",
+    "unsaturatedFatContent": "6 g"
+  },
+  "prepTime": "PT10M",
+  "recipeCategory": "Appetizer",
+  "recipeCuisine": "American",
+  "recipeIngredient": [
+    "1 15-ounce can cannellini beans, drained and rinsed",
+    "1 tablespoon cayenne pepper hot sauce (or more, for extra heat)",
+    "1/2 teaspoon ground cumin",
+    "Salt and pepper to taste",
+    "2 medium (8-inch flour tortillas)",
+    "1/2 ripe avocado (sliced)",
+    "1/4 cup diced red onion (about 1/4 of a medium onion)",
+    "1/4 cup diced tomato (about 1 small Roma tomato)",
+    "2 tablespoons fresh cilantro",
+    "Olive or vegetable oil (for grilling)",
+    "Salsa or additional hot sauce (for serving)"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Place cannellini beans into a medium bowl and mash with a fork or potato masher, leaving the mixture as chunky as you like. Stir in hot sauce and cumin, then season with salt and pepper to taste."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Divide bean mixture among tortillas, spreading in an even layer over each. Divide avocado slices over half of each tortilla, then sprinkle with tomato, onion, cilantro, and optionally a bit more hot sauce, salt and pepper. Fold tortillas closed."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Lightly oil the bottom of a large skillet and place over medium heat. Arrange quesadillas in the skillet, and if your skillet has a lid, use it to cover them, as this will help the fillings get nice and warm. Cook until crisp and lightly browned on bottoms, about 4 minutes. Gently flip and cook about 4 minutes more, until browned on opposite sides."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Remove quesadillas from the skillet and slice, if desired. Serve with salsa, hot sauce, or your favorite quesadilla toppings."
+    }
+  ],
+  "recipeYield": "2",
+  "sameAs": [
+    "https://ohmyveggies.com/vegan-smashed-white-bean-quesadillas"
+  ],
+  "suitableForDiet": [
+    "https://schema.org/VeganDiet",
+    "https://schema.org/VegetarianDiet"
+  ],
+  "totalTime": "PT20M",
+  "updatedAt": "2022-12-01T04:35:46.723Z"
+}

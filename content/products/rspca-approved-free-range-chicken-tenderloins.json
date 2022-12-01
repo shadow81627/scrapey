@@ -1,0 +1,50 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Free Range RSPCA Approved Chicken (100%) (Chicken Tenderloin)."
+    },
+    {
+      "name": "Size",
+      "value": "approx. 600g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$20.00 per 1Kg"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2022-12-01T04:44:03.642Z",
+  "description": "Coles RSPCA Approved Free Range Chicken Tenderloins",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/2/2/3228785.jpg",
+  "name": "RSPCA Approved Free Range Chicken Tenderloins",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 12,
+    "lowPrice": 12,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-01T04:44:03.641Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "12.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-rspca-free-range-chicken-tenderloins"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/coles-rspca-free-range-chicken-tenderloins"
+  ],
+  "sku": "3228785",
+  "updatedAt": "2022-12-01T04:44:03.641Z"
+}

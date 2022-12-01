@@ -1,0 +1,76 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1",
+    "ratingValue": "5"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Oh My Veggies"
+  },
+  "createdAt": "2022-12-01T04:25:39.583Z",
+  "datePublished": "2019-12-23T06:00:09+00:00",
+  "description": "This vegan cheese ball uses cashews as a creamy base, and adds cranberries and chopped pecans for delicious flavor and satisfying crunch. Perfect for the holidays!",
+  "image": [
+    "https://ohmyveggies.com/wp-content/uploads/2015/12/vegan-cheese-ball-4.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2015/12/vegan-cheese-ball-4-500x400.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2015/12/vegan-cheese-ball-4-500x375.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2015/12/vegan-cheese-ball-4-480x270.jpg"
+  ],
+  "keywords": "Vegan Cheese Ball, Vegan Cheeseball",
+  "name": "Vegan Cheese Ball",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "287 kcal",
+    "carbohydrateContent": "21 g",
+    "fatContent": "23 g",
+    "fiberContent": "2 g",
+    "proteinContent": "5 g",
+    "saturatedFatContent": "8 g",
+    "servingSize": "1 serving",
+    "sodiumContent": "76 mg",
+    "sugarContent": "12 g",
+    "unsaturatedFatContent": "13 g"
+  },
+  "prepTime": "PT30M",
+  "recipeCategory": "Appetizer",
+  "recipeCuisine": "American",
+  "recipeIngredient": [
+    "1 1/2 cups raw cashews (soaked in water 4–8 hours, drained and rinsed)",
+    "1/4 cup coconut oil (melted)",
+    "2 tbsp lemon juice",
+    "1 1/2 tbsp water",
+    "1/4 tsp salt",
+    "1 cup sweetened dried cranberries (divided)",
+    "1/2 cup pecans (chopped )"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Place the cashews, coconut oil, lemon juice, water, and salt into the bowl of a food processor fitted with an S-blade. Blend until smooth, stopping to scrape down sides of bowl as needed. Add 3/4 cup dried cranberries. Process just until cranberries are finely chopped and incorporated into the mixture. This should take about 15 to 30 seconds, depending on your food processor."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Transfer the cashew mixture to a sealed container and refrigerate 3 to 4 hours, until it's firm enough to shape."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Stir the pecans and remaining 1/4 cup of cranberries together in a small bowl. Remove the cashew mixture from the refrigerator and use your hands to shape it into a ball. Press the pecans and cranberries into the surface of your cheeseball, rolling it in the mixture if you'd like."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Transfer the finished cheeseball to a serving plate and serve immediately, or place in an airtight container and chill until ready to serve."
+    }
+  ],
+  "recipeYield": "8",
+  "sameAs": [
+    "https://ohmyveggies.com/cranberry-and-pecan-vegan-cheeseball"
+  ],
+  "suitableForDiet": [
+    "https://schema.org/VeganDiet",
+    "https://schema.org/VegetarianDiet"
+  ],
+  "totalTime": "PT210M",
+  "updatedAt": "2022-12-01T04:25:39.580Z"
+}
