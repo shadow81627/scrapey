@@ -1,0 +1,58 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "<strong>INGREDIENTS:</strong> Pasteurised Cream (<strong>Milk</strong>), Thickeners (407, 412)."
+    },
+    {
+      "name": "Allergen",
+      "value": "Contains MILK"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "30.0"
+    },
+    {
+      "name": "Size",
+      "value": "600mL"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.70 per 100mL"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2022-12-01T08:50:35.108Z",
+  "description": "Made with Australian Milk 600mL",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/4/6/246962.jpg",
+  "name": "Thickened Cream",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 4.2,
+    "lowPrice": 4.2,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-01T08:50:35.106Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "4.20",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-cream-thickened-246962p"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/coles-cream-thickened-246962p"
+  ],
+  "sku": "246962",
+  "updatedAt": "2022-12-01T08:50:35.106Z"
+}

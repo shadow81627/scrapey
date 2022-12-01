@@ -1,0 +1,83 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "2",
+    "ratingValue": "5"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Sophia DeSantis"
+  },
+  "cookTime": "PT15M",
+  "createdAt": "2022-12-01T08:57:52.299Z",
+  "datePublished": "2015-06-09T21:22:51+00:00",
+  "description": "Your favorite pizza gone light! Still keeping all it's flavor, this Thai pizza is stacked with veggies and smothered in a light and creamy peanut sauce. Less calories but all the taste!",
+  "image": [
+    "https://www.veggiesdontbite.com/wp-content/uploads/2015/06/light-thai-chickpea-pizza-39-1.jpg",
+    "https://www.veggiesdontbite.com/wp-content/uploads/2015/06/light-thai-chickpea-pizza-39-1-500x500.jpg",
+    "https://www.veggiesdontbite.com/wp-content/uploads/2015/06/light-thai-chickpea-pizza-39-1-500x375.jpg",
+    "https://www.veggiesdontbite.com/wp-content/uploads/2015/06/light-thai-chickpea-pizza-39-1-480x270.jpg"
+  ],
+  "keywords": "potato pizza crust, vegan pizza",
+  "name": "Thai Chickpea and Veggie Pizza",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "468 kcal",
+    "carbohydrateContent": "14 g",
+    "fiberContent": "4 g",
+    "proteinContent": "2 g",
+    "servingSize": "1 serving",
+    "sodiumContent": "57 mg",
+    "sugarContent": "8 g"
+  },
+  "prepTime": "PT20M",
+  "recipeCategory": "Main Course",
+  "recipeCuisine": "Thai",
+  "recipeIngredient": [
+    "Your favorite pizza crust (I used this one by The Vegan 8)",
+    "Light & Creamy Peanut Sauce",
+    "1/2 can chickpeas",
+    "1/2 cup carrots (sliced into matchsticks)",
+    "1/2 cup zucchini (sliced into matchsticks)",
+    "1/2 cup red peppers (sliced into matchsticks)",
+    "2 green onions (sliced)"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Wash and slice all veggies. Wash and drain chickpeas. Set aside."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "If you haven’t made peanut sauce, make it now."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Prepare you crust, whichever one you choose to use or take out a store bought crust of choice."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "While preparing crust, also roast the carrots, red peppers, zucchini and chickpeas on a parchment lined cookie sheet at 350°F (180°C) just to soften them a bit. About 5-10 minutes, depending on how thin you cut them."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Build your pizza by generously coating the pizza crust with the peanut sauce. Add chickpeas and gently press down to keep them in place. Add the carrots, zucchini and red peppers. Sprinkle with sliced green onions."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Bake according to pizza crust directions, or until your chickpeas get crispy on the outside."
+    }
+  ],
+  "recipeYield": "1",
+  "sameAs": [
+    "https://veggiesdontbite.com/thai-chickpea-and-veggie-pizza"
+  ],
+  "suitableForDiet": [
+    "https://schema.org/GlutenFreeDiet",
+    "https://schema.org/VeganDiet",
+    "https://schema.org/VegetarianDiet"
+  ],
+  "totalTime": "PT35M",
+  "updatedAt": "2022-12-01T08:57:52.294Z"
+}

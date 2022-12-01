@@ -1,0 +1,66 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Milk, Sugar, Cream, Milk Solids, Thickener (1442) (From Tapioca), Cocoa (1.6%), Stabilisers (407, 452, 412, 415, 410), Flavours."
+    },
+    {
+      "name": "Contains",
+      "value": "Milk."
+    },
+    {
+      "name": "Allergen",
+      "value": "Contains Milk"
+    },
+    {
+      "name": "Dietary",
+      "value": "Source of Calcium, No Preservatives"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "9.0"
+    },
+    {
+      "name": "Size",
+      "value": "900g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.72 per 100G"
+    }
+  ],
+  "brand": "Pauls",
+  "createdAt": "2022-12-01T08:59:54.408Z",
+  "description": "Pauls Rich Chocolate Double Thick Custard",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/7/1/4/7146230.jpg",
+  "name": "Rich Chocolate Double Thick Custard",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 6.5,
+    "lowPrice": 6.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-01T08:59:54.407Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "6.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/pauls-custard-double-thick-chocolate"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/pauls-custard-double-thick-chocolate"
+  ],
+  "sku": "7146230",
+  "updatedAt": "2022-12-01T08:59:54.407Z"
+}

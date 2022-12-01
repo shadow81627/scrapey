@@ -1,0 +1,66 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Milk, Sugar, Milk Solids, Thickener (1442) (From Tapioca), Cream Stabilisers (412, 415, 407, 410, 452), Flavours, Colour (160a)."
+    },
+    {
+      "name": "Contains",
+      "value": "Milk."
+    },
+    {
+      "name": "Allergen",
+      "value": "Contains Milk"
+    },
+    {
+      "name": "Dietary",
+      "value": "Source of Calcium, No Preservatives"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "9.0"
+    },
+    {
+      "name": "Size",
+      "value": "900g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.72 per 100G"
+    }
+  ],
+  "brand": "Pauls",
+  "createdAt": "2022-12-01T08:57:27.062Z",
+  "description": "Pauls French Vanilla Double Thick Custard",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/7/1/4/7146241.jpg",
+  "name": "French Vanilla Double Thick Custard",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 6.5,
+    "lowPrice": 6.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-01T08:57:27.061Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "6.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/pauls-custard-double-thickvanilla"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/pauls-custard-double-thickvanilla"
+  ],
+  "sku": "7146241",
+  "updatedAt": "2022-12-01T08:57:27.061Z"
+}

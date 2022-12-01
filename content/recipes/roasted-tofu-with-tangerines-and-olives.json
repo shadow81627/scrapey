@@ -1,0 +1,72 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1",
+    "ratingValue": "5"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Oh My Veggies"
+  },
+  "cookTime": "PT40M",
+  "createdAt": "2022-12-01T08:52:23.898Z",
+  "datePublished": "2019-12-27T06:00:02+00:00",
+  "description": "A Mediterranean-style dish with roasted tofu, tangerines, and olives. Make it a meal by serving over couscous or brown rice.",
+  "image": [
+    "https://ohmyveggies.com/wp-content/uploads/2011/12/roasted_tofu_with_tangerines_and_olives1.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2011/12/roasted_tofu_with_tangerines_and_olives1-500x400.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2011/12/roasted_tofu_with_tangerines_and_olives1-500x375.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2011/12/roasted_tofu_with_tangerines_and_olives1-480x270.jpg"
+  ],
+  "keywords": "roasted tofu, Roasted Tofu with Tangerines and Olives",
+  "name": "Roasted Tofu with Tangerines and Olives",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "197 kcal",
+    "carbohydrateContent": "31 g",
+    "fatContent": "6 g",
+    "fiberContent": "2 g",
+    "proteinContent": "8 g",
+    "saturatedFatContent": "1 g",
+    "servingSize": "1 serving",
+    "sodiumContent": "459 mg",
+    "sugarContent": "27 g",
+    "unsaturatedFatContent": "4 g"
+  },
+  "prepTime": "PT10M",
+  "recipeCategory": "Main Course",
+  "recipeCuisine": "American",
+  "recipeIngredient": [
+    "1/4 cup tangerine juice",
+    "1/4 cup honey",
+    "cooking spray or oil mister",
+    "1 14 oz package extra-firm tofu, pressed for 30 minutes and sliced into 8 pieces (I use the Tofu Xpress)",
+    "salt and freshly ground pepper",
+    "3/4 cup pitted olives",
+    "3 tangerines (unpeeled and quartered)"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Preheat oven to 400°F. Whisk together tangerine juice and honey."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Spray a casserole dish with cooking spray or mister. Lay tofu slices into the dish and coat with half of honey and juice mixture. Season with salt and pepper. Add tangerines and olives to dish and roast 20 minutes."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Turn tofu slices over and coat with remaining honey and juice mixture. Return to oven for 20 more minutes or until olives are shriveled and tangerines are browned on edges."
+    }
+  ],
+  "recipeYield": "4",
+  "sameAs": [
+    "https://ohmyveggies.com/roasted-tofu-with-tangerines-and-olives"
+  ],
+  "suitableForDiet": [
+    "https://schema.org/VegetarianDiet"
+  ],
+  "totalTime": "PT50M",
+  "updatedAt": "2022-12-01T08:52:23.897Z"
+}

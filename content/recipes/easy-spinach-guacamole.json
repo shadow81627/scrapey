@@ -1,0 +1,78 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "2",
+    "ratingValue": "5"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Linda & Alex"
+  },
+  "cookTime": "PT5M",
+  "createdAt": "2022-12-01T08:53:45.495Z",
+  "datePublished": "2015-10-12T12:18:30+00:00",
+  "description": "This easy guacamole recipe is made with the addition of spinach for extra vitamins.",
+  "image": [
+    "https://www.veganosity.com/wp-content/uploads/2015/10/molcajete-guacamole-8-1.jpg",
+    "https://www.veganosity.com/wp-content/uploads/2015/10/molcajete-guacamole-8-1-500x500.jpg",
+    "https://www.veganosity.com/wp-content/uploads/2015/10/molcajete-guacamole-8-1-500x375.jpg",
+    "https://www.veganosity.com/wp-content/uploads/2015/10/molcajete-guacamole-8-1-480x270.jpg"
+  ],
+  "keywords": "guacamole with spinach, spinach gaucamole",
+  "name": "Easy Spinach Guacamole",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "94 kcal",
+    "carbohydrateContent": "7 g",
+    "fatContent": "7 g",
+    "fiberContent": "4 g",
+    "proteinContent": "2 g",
+    "saturatedFatContent": "1 g",
+    "servingSize": "2 tbsp",
+    "sodiumContent": "155 mg",
+    "sugarContent": "2 g",
+    "unsaturatedFatContent": "6 g"
+  },
+  "prepTime": "PT25M",
+  "recipeCategory": "Appetizer",
+  "recipeCuisine": "Mexican",
+  "recipeIngredient": [
+    "2 avocados (Cut in half, remove the seed, and scoop out the fruit)",
+    "1 poblano chili pepper (roasted)",
+    "1 clove garlic (mashed in the molcajete or a large mixing bowl)",
+    "1/2 teaspoon sea salt",
+    "1 small red onion (finely chopped)",
+    "1 cup spinach leaves (finely chopped)",
+    "1 small tomato (seeds removed and finely chopped)",
+    "1 cup cilantro leaves (finely chopped)",
+    "2 tablespoons lime juice"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Roast the pepper over an open flame on a gas stove or in a 400°F oven until the skin is blistered and blackened. Put on a plate and cover with a bowl and let it steam for twenty minutes. Scrape off the blackened skin, cut in half, remove the seeds, and finely chop."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Grind the garlic and sea salt in the molcajete or mince with a knife."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Break down the avocado in the molcajete or mash with a fork or a potato masher in a large bowl. Add the onion, spinach, tomato, cilantro, and poblano pepper and squeeze the lime juice on top. Mix the ingredients together until well combined."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Enjoy!"
+    }
+  ],
+  "recipeYield": "8",
+  "sameAs": [
+    "https://veganosity.com/spinach-guacamole-made-in-a-molcajete"
+  ],
+  "suitableForDiet": [
+    "https://schema.org/VeganDiet"
+  ],
+  "totalTime": "PT30M",
+  "updatedAt": "2022-12-01T08:53:45.493Z"
+}

@@ -1,0 +1,80 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1",
+    "ratingValue": "5"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Sophia DeSantis"
+  },
+  "cookTime": "PT35M",
+  "createdAt": "2022-12-01T08:44:51.643Z",
+  "datePublished": "2019-08-12T12:00:44+00:00",
+  "description": "This vegan meatball sub is the ultimate comfort food! It&#x27;s filled with protein, has hidden veggies and is easy to freeze and pull out for those busy nights!",
+  "image": [
+    "https://www.veggiesdontbite.com/wp-content/uploads/2019/08/vegan-meatball-sub-sandwich-12.jpg",
+    "https://www.veggiesdontbite.com/wp-content/uploads/2019/08/vegan-meatball-sub-sandwich-12-500x500.jpg",
+    "https://www.veggiesdontbite.com/wp-content/uploads/2019/08/vegan-meatball-sub-sandwich-12-500x375.jpg",
+    "https://www.veggiesdontbite.com/wp-content/uploads/2019/08/vegan-meatball-sub-sandwich-12-480x270.jpg"
+  ],
+  "keywords": "Healthy Meatball Sub, vegan sandwich",
+  "name": "Vegan Meatball Sub Sandwich",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "454 kcal",
+    "carbohydrateContent": "68 g",
+    "fatContent": "14 g",
+    "fiberContent": "16 g",
+    "proteinContent": "23 g",
+    "saturatedFatContent": "1 g",
+    "servingSize": "1 serving",
+    "sodiumContent": "1155 mg",
+    "sugarContent": "12 g"
+  },
+  "prepTime": "PT25M",
+  "recipeCategory": "Main Course",
+  "recipeCuisine": "Italian",
+  "recipeIngredient": [
+    "vegan meatballs recipe (, you may have a few left over)",
+    "2 cups marinara (, homemade or store bought)",
+    "2 cups chopped kale",
+    "a drizzle of your favorite oil for sauteing veggies (,or veggie broth if not using oil)",
+    "1 teaspoon chopped garlic",
+    "5 hot dog buns or sub sandwich rolls (, gluten free if needed)",
+    "vegan parmesan",
+    "store bought vegan cheese",
+    "vegan cream sauce",
+    "vegan cheese sauce"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Saute kale and garlic in a pan using oil or veggie broth until wilted. Add marinara and cook until warmed throughout."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Assemble sandwiches by toasting buns and placing 3 beanballs in each bun."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Top with marinara/kale mixture and any other toppings you like!"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Devour!"
+    }
+  ],
+  "recipeYield": "5",
+  "sameAs": [
+    "https://veggiesdontbite.com/2014/07/21/vegan-beanball-sub-with-sauteed-kale-marinara"
+  ],
+  "suitableForDiet": [
+    "https://schema.org/GlutenFreeDiet",
+    "https://schema.org/VeganDiet",
+    "https://schema.org/VegetarianDiet"
+  ],
+  "totalTime": "PT60M",
+  "updatedAt": "2022-12-01T08:44:51.642Z"
+}

@@ -1,0 +1,66 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "298kJ",
+      "carbohydrateContent": "3.9g",
+      "dietary_fibre": "1.8g",
+      "fatContent": "5.40g",
+      "name": "nutrition",
+      "proteinContent": "1.1g",
+      "saturatedFatContent": "&lt;1g",
+      "servingSize": "100 g",
+      "sodiumContent": "51mg",
+      "sugarContent": "3.5g"
+    }
+  ],
+  "aggregateRating": {
+    "@context": "http://schema.org",
+    "@type": "AggregateRating",
+    "ratingCount": 487,
+    "ratingValue": 4.50102669404517
+  },
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Woolworths"
+  },
+  "createdAt": "2022-12-01T08:59:43.067Z",
+  "description": "Woolworths Semi Dried Tomatoes Marinated to perfection in Mediterranean Herbs are Juicy and tender and are perfect for making a delicious Antipasti Platter.<div><br><br> <a href=\"https://www.woolworths.com.au/shop/recipedetail/3273/antipasti-platter\" target=\"_blank\">See our favourite recipe here </a></div>",
+  "gtin13": "0272497000003",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/477040.jpg",
+  "name": "Woolworths Semi Dried Tomatoes Mediterranean Herbs Per Kg",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 26,
+    "lowPrice": 26,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-12-01T08:59:43.065Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 26,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/477040/woolworths-semi-dried-tomatoes-mediterranean-herbs"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/477040/woolworths-semi-dried-tomatoes-mediterranean-herbs"
+  ],
+  "sku": "477040",
+  "updatedAt": "2022-12-01T08:59:43.065Z"
+}
