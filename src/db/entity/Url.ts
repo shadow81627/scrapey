@@ -123,6 +123,7 @@ export class Url {
         'icmpid',
         'citrusAdId',
         'bvstate',
+        '_gl',
       ],
     });
   }

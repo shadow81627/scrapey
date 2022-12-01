@@ -33,11 +33,11 @@ import deleteBudgetBytesCommentUrls from './deleteBudgetBytesCommentUrls';
   responses.incorrectUrlIds = await incorrectUrlIds();
   responses.deleteDuplicateUrls = await deleteDuplicateUrls();
   responses.resetRedirectedColesUrls = await resetRedirectedColesUrls();
-  await countUrlSearch();
   responses.imageUrls = await imageUrls();
   responses.probeImages = await probeImages();
-  responses.urlsMissingUrls = await urlsMissingUrls();
+  // responses.urlsMissingUrls = await urlsMissingUrls();
   // responses.gitTimeStamps = await gitTimeStamps();
+  await countUrlSearch();
 
   console.table(responses);
 
