@@ -15,6 +15,7 @@ const allowedHosts = [
   'woolworths.com.au',
   'budgetbytes.com',
   'connoisseurusveg.com',
+  'ohmyveggies.com',
 ];
 
 async function fetchCrawlUrls({
