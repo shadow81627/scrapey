@@ -17,6 +17,7 @@ const disallowedHosts = [
   'woolworthsrewards.com.au',
   'mobile.woolworths.com.au',
   'woolworthsatwork.com.au',
+  'ad.doubleclick.net',
 ];
 export default async function crawl(
   url: string,
