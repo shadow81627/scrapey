@@ -18,6 +18,7 @@ const allowedHosts = [
   'ohmyveggies.com',
   'thekitchn.com',
   'veganricha.com',
+  'itdoesnttastelikechicken.com',
 ];
 
 async function fetchCrawlUrls({
