@@ -17,6 +17,7 @@ const allowedHosts = [
   'connoisseurusveg.com',
   'ohmyveggies.com',
   'thekitchn.com',
+  'veganricha.com',
 ];
 
 async function fetchCrawlUrls({
