@@ -22,6 +22,10 @@ const disallowedHosts = [
   'tumblr.com',
   'reddit.com',
   'linkedin.com',
+  '1.bp.blogspot.com',
+  '2.bp.blogspot.com',
+  '3.bp.blogspot.com',
+  'aax-us-east.amazon-adsystem.com',
 ];
 export default async function crawl(
   url: string,
