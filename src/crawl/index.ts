@@ -29,6 +29,7 @@ const allowedHosts = [
   'shelikesfood.com',
   'helloveggie.co',
   'mayihavethatrecipe.com',
+  'veggieinspiredjourney.com',
 ];
 
 async function fetchCrawlUrls({
