@@ -1,6 +1,5 @@
 import { promises as fsPromises } from 'fs';
 const { readFile } = fsPromises;
-import fs from 'fs';
 import path from 'path';
 import _ from 'lodash';
 import slugify from 'slugify';
