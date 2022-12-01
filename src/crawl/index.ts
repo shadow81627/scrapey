@@ -23,6 +23,7 @@ const allowedHosts = [
   'avirtualvegan.com',
   'heynutritionlady.com',
   'veggiesdontbite.com',
+  'mydarlingvegan.com',
 ];
 
 async function fetchCrawlUrls({
