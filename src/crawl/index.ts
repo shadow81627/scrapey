@@ -27,6 +27,7 @@ const allowedHosts = [
   'kblog.lunchboxbunch.com',
   'healthyhappylife.com',
   'shelikesfood.com',
+  'helloveggie.co',
 ];
 
 async function fetchCrawlUrls({
