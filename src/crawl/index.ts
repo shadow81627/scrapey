@@ -21,6 +21,7 @@ const allowedHosts = [
   'itdoesnttastelikechicken.com',
   'minimalistbaker.com',
   'avirtualvegan.com',
+  'heynutritionlady.com',
 ];
 
 async function fetchCrawlUrls({
