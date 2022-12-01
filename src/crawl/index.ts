@@ -24,6 +24,8 @@ const allowedHosts = [
   'heynutritionlady.com',
   'veggiesdontbite.com',
   'mydarlingvegan.com',
+  'kblog.lunchboxbunch.com',
+  'healthyhappylife.com',
 ];
 
 async function fetchCrawlUrls({
