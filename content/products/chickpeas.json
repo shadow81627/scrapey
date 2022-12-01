@@ -1,0 +1,50 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "400g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$4.75 per 1Kg"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Made in Italy"
+    }
+  ],
+  "brand": "Annalisa",
+  "createdAt": "2022-12-01T12:55:58.753Z",
+  "description": "Annalisa Chickpeas, carefully harvested and processed,are tasty protagonists of soups, broths and stews. 100% selected legumes",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/4/9/1/491467.jpg",
+  "name": "Chickpeas",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 1.9,
+    "lowPrice": 1.9,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-01T12:55:58.752Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "1.90",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/annalisa-beans-chick-peas"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/annalisa-beans-chick-peas"
+  ],
+  "sku": "491467",
+  "updatedAt": "2022-12-01T12:55:58.752Z"
+}

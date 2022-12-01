@@ -1,0 +1,52 @@
+{
+  "@type": "Product",
+  "additionalProperty": [],
+  "aggregateRating": {
+    "@context": "http://schema.org",
+    "@type": "AggregateRating",
+    "ratingCount": 7,
+    "ratingValue": 4.57142857142857
+  },
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Olay"
+  },
+  "createdAt": "2022-12-01T12:48:19.566Z",
+  "description": "Olay Moisturising Lotion Sensitive with coconut & castor seed oil offers all day hydration.<BR><BR><p>Formulated with coconut and castor seed oil for all day hydration to improve and maintain youthful skin.</p><p>Its formula:</p><p>- Is designed to be light. non-greasy and quickly absorbed into skin.</p><p>- Quickly replenishes essential moisture. </p><p>- Is dermatologist tested. </p><p>- Does not have fragrance & colorants.</p><p>Results:</p><p>Olay moisturising lotion has been shown to: </p><p>- Significantly boost skin hydration.</p><p>- Leave skin soft and smooth.</p><p>Olay moisturising lotion is part of the special care range. For younger looking skin, also use:</p><p>- Olay cleanser. </p><p>- Olay purifying toner. </p><p>Light & non-greasy.</p><BR><BR>Formulated specifically for sensitive, delicate skin, Olay Moisturising Lotion actively hydrates and maintains the skin's natural moisture balance.<BR><BR>Olay Moisturising Lotion for Sensitive Skin is dermatologically tested, hypo-allergenic, colour and fragrance free.<BR><BR>Non-greasy and fast absorbing.",
+  "gtin13": "9300618556502",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/004722.jpg",
+  "name": "Olay Moisturising Lotion For Sensitive Skin Care 150ml",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 13,
+    "lowPrice": 13,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-12-01T12:48:19.563Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 13,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/4722/olay-moisturising-lotion-for-sensitive-skin"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/4722/olay-moisturising-lotion-for-sensitive-skin"
+  ],
+  "sku": "4722",
+  "updatedAt": "2022-12-01T12:48:19.563Z"
+}

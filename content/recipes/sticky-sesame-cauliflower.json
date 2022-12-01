@@ -2,79 +2,149 @@
   "@type": "Recipe",
   "aggregateRating": {
     "@type": "AggregateRating",
-    "ratingCount": "19",
-    "ratingValue": "4.79"
+    "ratingCount": "66",
+    "ratingValue": "4.88"
   },
   "author": {
     "@type": "Person",
-    "name": "Alissa"
+    "name": "Yup, it's Vegan"
   },
-  "cookTime": "PT20M",
+  "cookTime": "PT30M",
   "createdAt": "2022-11-29T22:46:26.000Z",
-  "datePublished": "2015-08-20T09:32:24+00:00",
-  "description": "This vegan sticky sesame cauliflower is batter dipped and baked (instead of fried!) before being drenched in a sweet and spicy sesame sauce and served over a bed of rice.",
+  "datePublished": "2017-01-07T17:10:33+00:00",
+  "description": "Battered, baked, and smothered in a sweet and spicy sesame sauce, this sticky sesame cauliflower is sure to be enjoyed by everyone!",
   "image": [
-    "https://www.connoisseurusveg.com/wp-content/uploads/2015/08/sticky-sesme-cauliflower-1.jpg"
+    "https://yupitsvegan.com/wp-content/uploads/2017/01/sticky-sesame-cauliflower-vegan-square.jpg"
   ],
-  "keywords": "baked, cauliflower",
+  "keywords": "sticky sesame cauliflower",
+  "mentions": [
+    {
+      "@id": "https://yupitsvegan.com/tag/high-vegetable/#id",
+      "@type": "http://schema.org/Thing",
+      "description": "In everyday usage, a vegetable is any part of a plant that is consumed by humans as food as part of a savory meal. The term vegetable is somewhat arbitrary, and largely defined through culinary and cultural tradition. It normally excludes other food derived from plants such as fruits, nuts and cereal grains, but includes...",
+      "name": "vegetable",
+      "sameAs": [
+        "http://ko.dbpedia.org/resource/채소",
+        "http://wikidata.dbpedia.org/resource/Q11004",
+        "http://eu.dbpedia.org/resource/Barazki",
+        "http://purl.obolibrary.org/obo/FOODON_00002141",
+        "http://pl.dbpedia.org/resource/Warzywa",
+        "http://fr.dbpedia.org/resource/Légume",
+        "https://en.wikipedia.org/wiki/Vegetable",
+        "http://de.dbpedia.org/resource/Gemüse",
+        "http://el.dbpedia.org/resource/Λαχανικό",
+        "http://rdf.freebase.com/ns/m.0f4s2w",
+        "http://nl.dbpedia.org/resource/Groente",
+        "http://cs.dbpedia.org/resource/Zelenina",
+        "http://es.dbpedia.org/resource/Verdura",
+        "http://www.wikidata.org/entity/Q11004",
+        "http://dbpedia.org/resource/Vegetable",
+        "http://d-nb.info/gnd/4020069-3",
+        "http://it.dbpedia.org/resource/Verdura",
+        "http://ja.dbpedia.org/resource/野菜",
+        "http://id.dbpedia.org/resource/Sayuran",
+        "https://knowledge.cafemedia.com/food/entity/fruit_vegetable"
+      ]
+    },
+    {
+      "@id": "https://yupitsvegan.com/tag/nuts-and-seeds/#id",
+      "@type": "http://schema.org/Thing",
+      "description": "A nut is a fruit composed of a hard shell and a seed, which is generally edible. In a general context, however, a wide variety of dried seeds are called nuts, but in a botanical context, there is an additional requirement that the shell does not open to release the seed (indehiscent). The translation of...",
+      "name": "tree nut",
+      "sameAs": [
+        "http://wikidata.dbpedia.org/resource/Q11009",
+        "http://pl.dbpedia.org/resource/Orzechy_(bakalie)",
+        "http://www.wikidata.org/entity/Q11009",
+        "http://id.dbpedia.org/resource/Buah_geluk",
+        "http://nl.dbpedia.org/resource/Noot_(plantaardig)",
+        "http://d-nb.info/gnd/4042827-8",
+        "http://fr.dbpedia.org/resource/Fruit_à_coque",
+        "http://rdf.freebase.com/ns/m.01lbxg",
+        "http://dbpedia.org/resource/Nut_(fruit)",
+        "http://ja.dbpedia.org/resource/種実類",
+        "http://yago-knowledge.org/resource/Nut_(fruit)",
+        "http://purl.obolibrary.org/obo/FOODON_03301354",
+        "http://pt.dbpedia.org/resource/Noz",
+        "http://cs.dbpedia.org/resource/Oříšek",
+        "http://ko.dbpedia.org/resource/견과",
+        "http://de.dbpedia.org/resource/Nussfrucht",
+        "https://en.wikipedia.org/wiki/Nut_(fruit)",
+        "http://es.dbpedia.org/resource/Nuez_(fruto)",
+        "http://el.dbpedia.org/resource/Κάρυο_(βοτανική)",
+        "https://knowledge.cafemedia.com/food/entity/tree_nut"
+      ]
+    }
+  ],
   "name": "Sticky Sesame Cauliflower",
-  "prepTime": "PT10M",
-  "recipeCategory": "Entree",
-  "recipeCuisine": "American",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "449 kcal",
+    "carbohydrateContent": "78 g",
+    "fatContent": "9 g",
+    "fiberContent": "8 g",
+    "proteinContent": "16 g",
+    "saturatedFatContent": "1 g",
+    "servingSize": "1 half recipe",
+    "sodiumContent": "964 mg",
+    "sugarContent": "27 g",
+    "unsaturatedFatContent": "7 g"
+  },
+  "prepTime": "PT15M",
+  "recipeCategory": "appetizers",
+  "recipeCuisine": "gluten-free",
   "recipeIngredient": [
-    "1-2 tbsp. vegetable oil",
-    "1 1/4 cups unflavored soy or almond milk",
-    "1 cup whole wheat flour",
-    "1/2 tsp. salt",
-    "1/2 tsp. baking powder",
-    "1 large cauliflower crown (broken into florets)",
-    "1/2 cup soy sauce",
-    "1/2 cup maple syrup",
-    "1/4 cup rice vinegar",
-    "2 tsp. sesame oil",
-    "2 tsp. fresh grated ginger",
-    "2 garlic cloves (minced)",
-    "1 tsp. sriracha",
-    "1 tbsp. cornstarch",
-    "1/4 cup cold water",
-    "2 scallions (chopped)",
-    "toasted sesame seeds",
-    "cooked rice (for serving)"
+    "1 cup all-purpose gluten-free flour",
+    "1/2 teaspoon garlic powder",
+    "1/4 teaspoon salt",
+    "1 cup water (plus more as needed)",
+    "1 small head of cauliflower (cut into florets (scant 4 cups of florets)",
+    "2 and 1/2 teaspoons toasted sesame oil (divided)",
+    "1/2 inch ginger (minced or grated)",
+    "2-3 cloves garlic (to taste), minced or grated)",
+    "3 and 1/2 tablespoons agave nectar (or less, to taste)",
+    "2 and 1/2 tablespoons soy sauce",
+    "1 teaspoon rice vinegar",
+    "2 tablespoons tomato paste",
+    "1 teaspoon chili paste like sriracha",
+    "battered cauliflower (above)",
+    "sticky sesame sauce (above)",
+    "toasted sesame seeds (for serving)",
+    "chopped green onions (for serving)"
   ],
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "text": "Preheat oven to 450° (preheating is crucial here, so don't skip it). Use about 1 tablespoon of vegetable oil to coat the bottom of a large roasting pan or oven-safe skillet."
+      "text": "Preheat the oven to 425 degrees Fahrenheit and prepare two large baking sheets lined with parchment paper."
     },
     {
       "@type": "HowToStep",
-      "text": "Stir milk, flour, salt and baking powder together in small bowl. Dip cauliflower florets in mixture to coat, shaking off any excess batter. Arrange in a single layer in roasting pan or skillet."
+      "text": "In a mixing bowl, stir together the flour, garlic powder, and salt. Add 1 cup of water and stir. Continue adding water 1 tablespoon at a time until a pancake batter-esque consistency is reached. You want batter that is thick enough to stay on a cauliflower floret but thin enough that you can easily shake off the excess. I usually need another couple of tablespoons of additional water."
     },
     {
       "@type": "HowToStep",
-      "text": "Bake 10 minutes."
+      "text": "One by one, dip the cauliflower florets into the batter, gently shake off extra batter, and place them onto the baking sheet. Leave plenty of space between florets on the baking sheet so that they can get crispy. You may not be able to quite fit a whole head of cauliflower on two baking sheets."
     },
     {
       "@type": "HowToStep",
-      "text": "While cauliflower bakes, combine soy sauce, maple syrup, rice vinegar, sesame oil, ginger, garlic and sriracha in a small saucepan. Place over medium heat and bring to a simmer. Allow to simmer for 10 minutes. Stir cornstarch and water together in a small container until cornstarch is fully dissolved. Add to soy sauce mixture and stir to blend. Bring the sauce back up to a simmer and let it cook until it thickens. Remove from heat."
+      "text": "Bake the battered cauliflower for 20 minutes, rotate the position of the trays, and then bake for another 5-10 more minutes or until crispy and browned."
     },
     {
       "@type": "HowToStep",
-      "text": "Remove cauliflower from oven and flip. Lightly brush florets with remaining tablespoon of oil. Return to oven and bake 5 minutes more, until they begin to sizzle and lightly crisp."
+      "text": "Meanwhile, heat two teaspoons of the sesame oil in a small saucepan. Add the garlic and ginger and saute over medium-low heat, stirring frequently, for about 60-90 seconds, or until the garlic and ginger are softened and fragrant."
     },
     {
       "@type": "HowToStep",
-      "text": "Remove from oven and pour sauce over florets. Return to oven and bake 3-4 minutes more, just until sauce becomes very sticky and coasts florets."
+      "text": "Add the rest of the sauce ingredients and stir well. Continue cooking on medium-low heat, stirring frequently, for about 5 minutes, or until the sauce is bubbling and thickened slightly. Turn the heat to low and leave on the burner, stirring occasionally to keep from sticking. Stir in the remaining sesame oil just before mixing with the cauliflower. (I do this to make sure there's a nice noticeable sesame flavor)."
     },
     {
       "@type": "HowToStep",
-      "text": "Serve over rice and sprinkle with sesame seeds and scallions."
+      "text": "Once the cauliflower is done baking, use a spatula to gently mix it together with the sauce in a bowl or the saucepan if large enough. Spread it back out on the baking sheets, and return it to the oven for just 2-4 minutes, to thicken the sauce onto the cauliflower. Watch it carefully, as the sticky sesame sauce can burn quickly. Remove from the oven and serve immediately, sprinkled with sesame seeds and chopped green onions if desired."
     }
   ],
-  "recipeYield": "4",
+  "recipeYield": "2",
   "sameAs": [
-    "https://connoisseurusveg.com/sticky-sesame-cauliflower/comment-page-1"
+    "https://yupitsvegan.com/sticky-sesame-cauliflower"
   ],
-  "totalTime": "PT30M",
-  "updatedAt": "2022-11-30T22:59:53.434Z"
+  "totalTime": "PT45M",
+  "updatedAt": "2022-12-01T12:46:10.279Z"
 }

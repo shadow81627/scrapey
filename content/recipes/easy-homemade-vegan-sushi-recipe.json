@@ -1,0 +1,78 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "3",
+    "ratingValue": "5"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Sophia DeSantis"
+  },
+  "cookTime": "PT30M",
+  "createdAt": "2022-12-01T12:54:32.379Z",
+  "datePublished": "2022-07-02T10:00:00+00:00",
+  "description": "This homemade vegan sushi recipe will have you making your favorite delicious rolls at home in no time! The step by step directions make it easy to follow without any fancy tools.",
+  "image": [
+    "https://www.veggiesdontbite.com/wp-content/uploads/2020/05/vegan-veggie-sushi-rolls-34.jpg",
+    "https://www.veggiesdontbite.com/wp-content/uploads/2020/05/vegan-veggie-sushi-rolls-34-500x500.jpg",
+    "https://www.veggiesdontbite.com/wp-content/uploads/2020/05/vegan-veggie-sushi-rolls-34-500x375.jpg",
+    "https://www.veggiesdontbite.com/wp-content/uploads/2020/05/vegan-veggie-sushi-rolls-34-480x270.jpg"
+  ],
+  "keywords": "easy sushi, how to make sushi",
+  "name": "Easy Homemade Vegan Sushi Recipe",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "278 kcal",
+    "carbohydrateContent": "55 g",
+    "fatContent": "3 g",
+    "fiberContent": "6 g",
+    "proteinContent": "7 g",
+    "saturatedFatContent": "1 g",
+    "servingSize": "1 serving",
+    "sodiumContent": "813 mg",
+    "sugarContent": "7 g"
+  },
+  "prepTime": "PT20M",
+  "recipeCategory": "Appetizer",
+  "recipeCuisine": "Asian",
+  "recipeIngredient": [
+    "4 Seaweed/Nori sheets or thinly sliced cucumber",
+    "4 cups cooked sushi rice (see note)",
+    "2 tablespoons rice vinegar",
+    "1 tablespoons sugar",
+    "1 teaspoon sea salt",
+    "1 cup Shitake mushrooms",
+    "1 tablespoon Tamari (, soy sauce for non gluten-free)",
+    "1 cup sweet potato cut into matchsticks",
+    "6 slices avocado",
+    "6 slices cucumber (matchstick style)",
+    "6 slices carrot (matchstick style)",
+    "6 slices green onion (matchstick style)",
+    "Tamari (, soy sauce for non gluten-free)",
+    "wasabi",
+    "fresh pickled ginger",
+    "Creamy Peanut Sauce"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Mix vinegar, sugar and salt in a bowl and heat on the stove or the microwave until the sugar is dissolved."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add the mixture to the cooked rice and mix well."
+    }
+  ],
+  "recipeYield": "4",
+  "sameAs": [
+    "https://veggiesdontbite.com/homemade-vegan-sushi-recipes"
+  ],
+  "suitableForDiet": [
+    "https://schema.org/GlutenFreeDiet",
+    "https://schema.org/VeganDiet",
+    "https://schema.org/VegetarianDiet"
+  ],
+  "totalTime": "PT50M",
+  "updatedAt": "2022-12-01T12:54:32.377Z"
+}

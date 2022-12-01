@@ -1,0 +1,168 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "10",
+    "ratingValue": "4.91"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Shannon @ Yup, it's Vegan"
+  },
+  "cookTime": "PT30M",
+  "createdAt": "2022-12-01T12:30:50.974Z",
+  "datePublished": "2020-01-08T20:30:09+00:00",
+  "description": "Hearty and spicy chickpea turmeric stew, made with nutrient-packed sweet potatoes and fragrant fresh turmeric! Gluten-free, vegan recipe.",
+  "image": [
+    "https://yupitsvegan.com/wp-content/uploads/2015/01/chickpea-turmeric-stew-square.jpg",
+    "https://yupitsvegan.com/wp-content/uploads/2015/01/chickpea-turmeric-stew-square-500x500.jpg",
+    "https://yupitsvegan.com/wp-content/uploads/2015/01/chickpea-turmeric-stew-square-500x375.jpg",
+    "https://yupitsvegan.com/wp-content/uploads/2015/01/chickpea-turmeric-stew-square-480x270.jpg"
+  ],
+  "keywords": "chickpea stew, chickpea turmeric stew",
+  "mentions": [
+    {
+      "@id": "https://yupitsvegan.com/tag/high-vegetable/#id",
+      "@type": "http://schema.org/Thing",
+      "description": "In everyday usage, a vegetable is any part of a plant that is consumed by humans as food as part of a savory meal. The term vegetable is somewhat arbitrary, and largely defined through culinary and cultural tradition. It normally excludes other food derived from plants such as fruits, nuts and cereal grains, but includes...",
+      "name": "vegetable",
+      "sameAs": [
+        "http://ko.dbpedia.org/resource/채소",
+        "http://wikidata.dbpedia.org/resource/Q11004",
+        "http://eu.dbpedia.org/resource/Barazki",
+        "http://purl.obolibrary.org/obo/FOODON_00002141",
+        "http://pl.dbpedia.org/resource/Warzywa",
+        "http://fr.dbpedia.org/resource/Légume",
+        "https://en.wikipedia.org/wiki/Vegetable",
+        "http://de.dbpedia.org/resource/Gemüse",
+        "http://el.dbpedia.org/resource/Λαχανικό",
+        "http://rdf.freebase.com/ns/m.0f4s2w",
+        "http://nl.dbpedia.org/resource/Groente",
+        "http://cs.dbpedia.org/resource/Zelenina",
+        "http://es.dbpedia.org/resource/Verdura",
+        "http://www.wikidata.org/entity/Q11004",
+        "http://dbpedia.org/resource/Vegetable",
+        "http://d-nb.info/gnd/4020069-3",
+        "http://it.dbpedia.org/resource/Verdura",
+        "http://ja.dbpedia.org/resource/野菜",
+        "http://id.dbpedia.org/resource/Sayuran",
+        "https://knowledge.cafemedia.com/food/entity/fruit_vegetable"
+      ]
+    },
+    {
+      "@id": "https://yupitsvegan.com/tag/tropical-fruit/#id",
+      "@type": "http://schema.org/Thing",
+      "description": "This list of culinary fruits contains the names of some fruits that are considered edible in some cuisines. The word \"fruit\" is used in several different ways. The definition of fruit for these lists is a culinary fruit, i.e. \"Any sweet, edible part of a plant that resembles fruit, even if it does not develop...",
+      "name": "tropical fruit",
+      "sameAs": [
+        "http://dbpedia.org/resource/List_of_culinary_fruits",
+        "http://pt.dbpedia.org/resource/Lista_de_frutas",
+        "http://de.dbpedia.org/resource/Liste_der_Obstarten",
+        "http://www.wikidata.org/entity/Q497975",
+        "https://en.wikipedia.org/wiki/List_of_culinary_fruits",
+        "http://id.dbpedia.org/resource/Daftar_buah",
+        "http://purl.obolibrary.org/obo/FOODON_03305237",
+        "http://nl.dbpedia.org/resource/Lijst_van_fruit",
+        "http://wikidata.dbpedia.org/resource/Q497975",
+        "http://pl.dbpedia.org/resource/Owoce_jadalne",
+        "http://fr.dbpedia.org/resource/Liste_de_fruits_comestibles",
+        "https://knowledge.cafemedia.com/food/entity/tropical_fruit"
+      ]
+    },
+    {
+      "@id": "https://yupitsvegan.com/category/soup/#id",
+      "@type": "http://schema.org/Thing",
+      "description": "From creamy chowders, to spicy tortilla soup, to Asian-inspired noodle soup, every plant-based and vegan soup you could ever want in one place!",
+      "name": "soup",
+      "sameAs": [
+        "http://ko.dbpedia.org/resource/수프",
+        "http://d-nb.info/gnd/4058643-1",
+        "http://eu.dbpedia.org/resource/Zopa",
+        "http://pl.dbpedia.org/resource/Zupa",
+        "http://www.wikidata.org/entity/Q41415",
+        "http://de.dbpedia.org/resource/Suppe",
+        "http://purl.obolibrary.org/obo/FOODON_03304925",
+        "http://id.dbpedia.org/resource/Sup",
+        "http://dbpedia.org/resource/Soup",
+        "http://es.dbpedia.org/resource/Sopa",
+        "http://ja.dbpedia.org/resource/スープ",
+        "http://yago-knowledge.org/resource/Cold_Soup",
+        "http://wikidata.dbpedia.org/resource/Q41415",
+        "https://en.wikipedia.org/wiki/Soup",
+        "http://it.dbpedia.org/resource/Minestra",
+        "http://el.dbpedia.org/resource/Σούπα",
+        "http://cs.dbpedia.org/resource/Polévka",
+        "http://rdf.freebase.com/ns/m.01z1m1x",
+        "http://fr.dbpedia.org/resource/Soupe",
+        "http://nl.dbpedia.org/resource/Soep_(voedsel)",
+        "http://pt.dbpedia.org/resource/Sopa",
+        "https://knowledge.cafemedia.com/food/entity/soup"
+      ]
+    }
+  ],
+  "name": "Chickpea Turmeric Stew",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "306 kcal",
+    "carbohydrateContent": "38 g",
+    "fatContent": "15 g",
+    "fiberContent": "7 g",
+    "proteinContent": "7 g",
+    "saturatedFatContent": "9 g",
+    "servingSize": "1 fourth recipe",
+    "sodiumContent": "586 mg",
+    "sugarContent": "11 g"
+  },
+  "prepTime": "PT10M",
+  "recipeCategory": "Soup",
+  "recipeCuisine": "dairy-free",
+  "recipeIngredient": [
+    "1 tbsp vegetable oil (or use coconut oil)",
+    "1/2 yellow or white onion (diced (or use 1 shallot)",
+    "1 to 2 serrano or jalapeno peppers (finely chopped (use 2 if you like it spicy)",
+    "3 cloves garlic (minced)",
+    "1 tbsp minced fresh ginger",
+    "1 and 1/2 tbsp minced fresh turmeric root (about 3 inches) (or use 1 and 1/2 tsp. dried turmeric, added along with the curry powder)",
+    "1/2 tbsp mild curry powder",
+    "1 and 1/2 cups full-fat coconut milk (equal to 1 14-oz. can)",
+    "1 cup water",
+    "1/2 cup 100% pineapple juice",
+    "2 tsp soy sauce (or tamari or liquid aminos)",
+    "1 medium to small potato (cubed)",
+    "1 medium to small sweet potato (cubed)",
+    "1 and 1/2 cups cooked chickpeas (rinsed and drained (equal to a standard can)",
+    "2 tbsp freshly-squeezed lime juice"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "In a saucepan, heat a small drizzle of neutral oil (I used grapeseed oil) over medium heat. When the oil is shimmering, add the shallot with a sprinkle of salt, and stir. Cook for about 2 minutes, or until starting to soften."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add the pepper, garlic, turmeric, and ginger with another sprinkle of salt, and stir. Cook for 5-7 more minutes, stirring occasionally, or until the shallot is soft. Add the curry powder and cook for 1 more minute, stirring frequently."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Stir in the coconut milk, water, pineapple juice, soy sauce, and cubed potatoes and sweet potatoes, along with another fat pinch of salt. Bring the mixture to a gentle boil."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Once the mixture boils, reduce the heat to a steady simmer and cover the pan. Cook, stirring occasionally, for 15-20 minutes or until the potatoes are cooked through."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "If desired, use the back of your spoon to mash up some of the potatoes to thicken the stew slightly. Stir in the cooked chickpeas and lime juice and let simmer partially covered for 5-10 more minutes."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Season to taste with salt and additional lime juice. Serve hot, with rice and fresh herbs if desired. (Mine is topped with cilantro)."
+    }
+  ],
+  "recipeYield": "4",
+  "sameAs": [
+    "https://yupitsvegan.com/chickpea-turmeric-stew"
+  ],
+  "totalTime": "PT40M",
+  "updatedAt": "2022-12-01T12:30:50.973Z"
+}

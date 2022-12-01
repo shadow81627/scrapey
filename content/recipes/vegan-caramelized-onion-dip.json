@@ -1,0 +1,109 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "19",
+    "ratingValue": "4.9"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Sam Turnbull • It Doesn't Taste Like Chicken"
+  },
+  "cookTime": "PT25M",
+  "createdAt": "2022-12-01T12:36:45.115Z",
+  "datePublished": "2017-09-24T09:24:51+00:00",
+  "description": "Just like the traditional recipe but made dairy-free. Perfect appetizer for a special occasion, BBQs, game nights, friend hangs, or holidays.",
+  "image": [
+    "https://itdoesnttastelikechicken.com/wp-content/uploads/2017/09/vegan-caramelized-onion-dip-dairy-free-chip-french.jpg",
+    "https://itdoesnttastelikechicken.com/wp-content/uploads/2017/09/vegan-caramelized-onion-dip-dairy-free-chip-french-500x500.jpg",
+    "https://itdoesnttastelikechicken.com/wp-content/uploads/2017/09/vegan-caramelized-onion-dip-dairy-free-chip-french-500x375.jpg",
+    "https://itdoesnttastelikechicken.com/wp-content/uploads/2017/09/vegan-caramelized-onion-dip-dairy-free-chip-french-480x270.jpg"
+  ],
+  "mentions": [
+    {
+      "@id": "https://itdoesnttastelikechicken.com/tag/dip/#id",
+      "@type": "http://schema.org/Thing",
+      "description": "",
+      "name": "dip",
+      "sameAs": [
+        "https://en.wikipedia.org/wiki/Dip",
+        "http://purl.obolibrary.org/obo/FOODON_03317145",
+        "http://www.wikidata.org/entity/Q233382",
+        "http://dbpedia.org/resource/Dip",
+        "https://knowledge.cafemedia.com/food/entity/dip"
+      ]
+    },
+    {
+      "@id": "https://itdoesnttastelikechicken.com/tag/onion/#id",
+      "@type": "http://schema.org/Thing",
+      "description": "The onion (Allium cepa L., from Latin cepa \"onion\"), also known as the bulb onion or common onion, is a vegetable and is the most widely cultivated species of the genus Allium. This genus also contains several other species variously referred to as onions and cultivated for food, such as the Japanese bunching onion (Allium...",
+      "name": "onion",
+      "sameAs": [
+        "http://yago-knowledge.org/resource/Allium_cepa",
+        "http://pt.dbpedia.org/resource/Cebola",
+        "http://id.dbpedia.org/resource/Bawang_bombai",
+        "http://purl.obolibrary.org/obo/FOODON_03316397",
+        "http://ja.dbpedia.org/resource/タマネギ",
+        "http://el.dbpedia.org/resource/Κρεμμύδι",
+        "https://en.wikipedia.org/wiki/Onion",
+        "http://cs.dbpedia.org/resource/Cibule_kuchyňská",
+        "http://fr.dbpedia.org/resource/Oignon",
+        "http://rdf.freebase.com/ns/m.0dj75",
+        "http://d-nb.info/gnd/4073850-4",
+        "http://ko.dbpedia.org/resource/양파",
+        "http://www.wikidata.org/entity/Q23485",
+        "http://de.dbpedia.org/resource/Zwiebel",
+        "http://it.dbpedia.org/resource/Allium_cepa",
+        "http://es.dbpedia.org/resource/Allium_cepa",
+        "http://pl.dbpedia.org/resource/Cebula_zwyczajna",
+        "http://dbpedia.org/resource/Onion",
+        "http://lod.geospecies.org/ses/yGCph",
+        "http://nl.dbpedia.org/resource/Ui_(plant)",
+        "http://eu.dbpedia.org/resource/Tipula",
+        "http://wikidata.dbpedia.org/resource/Q23485",
+        "https://knowledge.cafemedia.com/food/entity/onion"
+      ]
+    }
+  ],
+  "name": "Vegan Caramelized Onion Dip",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "121 kcal",
+    "carbohydrateContent": "4 g",
+    "fatContent": "11 g",
+    "fiberContent": "1 g",
+    "proteinContent": "1 g",
+    "saturatedFatContent": "1 g",
+    "servingSize": "1 (for 1/8th of the dip)",
+    "sodiumContent": "154 mg",
+    "sugarContent": "1 g"
+  },
+  "prepTime": "PT10M",
+  "recipeCategory": "Appetizer",
+  "recipeCuisine": "American",
+  "recipeIngredient": [
+    "1 tablespoon olive oil",
+    "2 yellow onions, (chopped)",
+    "2 cloves garlic, (minced)",
+    "1/4 teaspoon white sugar",
+    "1/4 teaspoon salt",
+    "1/2 cup silken or soft tofu",
+    "1/2 cup vegan mayonnaise"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Heat the olive oil in a saucepan over medium heat, then add the onions and garlic. Cover and cook for about 15 minutes stirring every now and then and adjusting heat as needed to make sure they don't burn. Remove the lid and stir in the sugar and salt. Cook uncovered, stirring as needed until the onions have caramelized, another 5 - 10 minutes."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Use an immersion blender, food processor, or blender to combine the silken tofu and vegan mayonnaise. Set aside a spoonful of the caramelized onions to use as garnish (optional), then add the remaining onions and pulse a few times or stir to incorporate. Chill in the fridge in an air-tight container for several hours or overnight to thicken. Serve with chips or veggies for dipping."
+    }
+  ],
+  "recipeYield": "8",
+  "sameAs": [
+    "https://itdoesnttastelikechicken.com/vegan-caramelized-onion-dip"
+  ],
+  "totalTime": "PT35M",
+  "updatedAt": "2022-12-01T12:36:45.113Z"
+}

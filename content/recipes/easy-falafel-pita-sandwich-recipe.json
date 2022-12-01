@@ -1,0 +1,83 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "2",
+    "ratingValue": "5"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Sophia DeSantis"
+  },
+  "cookTime": "PT20M",
+  "createdAt": "2022-12-01T12:51:05.383Z",
+  "datePublished": "2022-08-18T10:00:00+00:00",
+  "description": "This falafel sandwich recipe is a great way to mix up your meals while keeping them healthy. Filled with protein, super easy to make and customizable for the whole family!",
+  "image": [
+    "https://www.veggiesdontbite.com/wp-content/uploads/2020/04/vegan-gluten-free-falafel-sandwich-FI.jpg",
+    "https://www.veggiesdontbite.com/wp-content/uploads/2020/04/vegan-gluten-free-falafel-sandwich-FI-500x500.jpg",
+    "https://www.veggiesdontbite.com/wp-content/uploads/2020/04/vegan-gluten-free-falafel-sandwich-FI-500x375.jpg",
+    "https://www.veggiesdontbite.com/wp-content/uploads/2020/04/vegan-gluten-free-falafel-sandwich-FI-480x270.jpg"
+  ],
+  "keywords": "easy sandwich idea, vegetarian sandwich",
+  "name": "Easy Falafel Pita Sandwich Recipe",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "372 kcal",
+    "carbohydrateContent": "58 g",
+    "fatContent": "9 g",
+    "fiberContent": "13 g",
+    "proteinContent": "17 g",
+    "servingSize": "1 serving",
+    "sodiumContent": "735 mg",
+    "sugarContent": "7 g"
+  },
+  "prepTime": "PT35M",
+  "recipeCategory": "Main Course",
+  "recipeCuisine": "Mediterranean",
+  "recipeIngredient": [
+    "1 recipe Vegan Gluten-Free Falafel (you will have a few extra falafel)",
+    "6 pita bread, flatbread, or other bread of choice (you can use lettuce leaves too)",
+    "1 1/4 cups vegan tzatziki (, or tahini sauce (make about half the recipe)",
+    "Cucumber",
+    "Lettuce",
+    "Red onion",
+    "Tomatoes",
+    "Dill",
+    "Parsley",
+    "Lemon"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Make the falafel."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Prep all your toppings of choice."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Build the sandwiches by placing 3 falafel into each pita bread (or bread of choice)."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Top with about 2 tablespoons sauce."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add the other toppings and enjoy!"
+    }
+  ],
+  "recipeYield": "6",
+  "sameAs": [
+    "https://veggiesdontbite.com/falafel-sandwich-recipe"
+  ],
+  "suitableForDiet": [
+    "https://schema.org/GlutenFreeDiet",
+    "https://schema.org/VeganDiet",
+    "https://schema.org/VegetarianDiet"
+  ],
+  "totalTime": "PT55M",
+  "updatedAt": "2022-12-01T12:51:05.382Z"
+}

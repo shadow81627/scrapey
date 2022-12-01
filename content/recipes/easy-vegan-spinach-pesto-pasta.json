@@ -1,0 +1,149 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "18",
+    "ratingValue": "4.95"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Yup, it's Vegan"
+  },
+  "cookTime": "PT20M",
+  "createdAt": "2022-12-01T12:49:34.728Z",
+  "datePublished": "2016-04-16T09:32:12+00:00",
+  "description": "Easy vegan spinach pesto pasta, made with a fresh pesto full of spinach with hints of basil and lemon. Healthy recipe that comes together in about 30 minutes.",
+  "image": [
+    "https://yupitsvegan.com/wp-content/uploads/2016/04/vegan-spinach-pesto-pasta-basil-cashew-2.jpg"
+  ],
+  "keywords": "spinach pesto pasta, vegan spinach pesto",
+  "mentions": [
+    {
+      "@id": "https://yupitsvegan.com/tag/high-vegetable/#id",
+      "@type": "http://schema.org/Thing",
+      "description": "In everyday usage, a vegetable is any part of a plant that is consumed by humans as food as part of a savory meal. The term vegetable is somewhat arbitrary, and largely defined through culinary and cultural tradition. It normally excludes other food derived from plants such as fruits, nuts and cereal grains, but includes...",
+      "name": "vegetable",
+      "sameAs": [
+        "http://ko.dbpedia.org/resource/채소",
+        "http://wikidata.dbpedia.org/resource/Q11004",
+        "http://eu.dbpedia.org/resource/Barazki",
+        "http://purl.obolibrary.org/obo/FOODON_00002141",
+        "http://pl.dbpedia.org/resource/Warzywa",
+        "http://fr.dbpedia.org/resource/Légume",
+        "https://en.wikipedia.org/wiki/Vegetable",
+        "http://de.dbpedia.org/resource/Gemüse",
+        "http://el.dbpedia.org/resource/Λαχανικό",
+        "http://rdf.freebase.com/ns/m.0f4s2w",
+        "http://nl.dbpedia.org/resource/Groente",
+        "http://cs.dbpedia.org/resource/Zelenina",
+        "http://es.dbpedia.org/resource/Verdura",
+        "http://www.wikidata.org/entity/Q11004",
+        "http://dbpedia.org/resource/Vegetable",
+        "http://d-nb.info/gnd/4020069-3",
+        "http://it.dbpedia.org/resource/Verdura",
+        "http://ja.dbpedia.org/resource/野菜",
+        "http://id.dbpedia.org/resource/Sayuran",
+        "https://knowledge.cafemedia.com/food/entity/fruit_vegetable"
+      ]
+    },
+    {
+      "@id": "https://yupitsvegan.com/tag/nuts-and-seeds/#id",
+      "@type": "http://schema.org/Thing",
+      "description": "A nut is a fruit composed of a hard shell and a seed, which is generally edible. In a general context, however, a wide variety of dried seeds are called nuts, but in a botanical context, there is an additional requirement that the shell does not open to release the seed (indehiscent). The translation of...",
+      "name": "tree nut",
+      "sameAs": [
+        "http://wikidata.dbpedia.org/resource/Q11009",
+        "http://pl.dbpedia.org/resource/Orzechy_(bakalie)",
+        "http://www.wikidata.org/entity/Q11009",
+        "http://id.dbpedia.org/resource/Buah_geluk",
+        "http://nl.dbpedia.org/resource/Noot_(plantaardig)",
+        "http://d-nb.info/gnd/4042827-8",
+        "http://fr.dbpedia.org/resource/Fruit_à_coque",
+        "http://rdf.freebase.com/ns/m.01lbxg",
+        "http://dbpedia.org/resource/Nut_(fruit)",
+        "http://ja.dbpedia.org/resource/種実類",
+        "http://yago-knowledge.org/resource/Nut_(fruit)",
+        "http://purl.obolibrary.org/obo/FOODON_03301354",
+        "http://pt.dbpedia.org/resource/Noz",
+        "http://cs.dbpedia.org/resource/Oříšek",
+        "http://ko.dbpedia.org/resource/견과",
+        "http://de.dbpedia.org/resource/Nussfrucht",
+        "https://en.wikipedia.org/wiki/Nut_(fruit)",
+        "http://es.dbpedia.org/resource/Nuez_(fruto)",
+        "http://el.dbpedia.org/resource/Κάρυο_(βοτανική)",
+        "https://knowledge.cafemedia.com/food/entity/tree_nut"
+      ]
+    },
+    {
+      "@id": "https://yupitsvegan.com/tag/pasta/#id",
+      "@type": "http://schema.org/Thing",
+      "description": "Pasta (Italian pronunciation: ) is a staple food of traditional Italian cuisine, with the first reference dating to 1154 in Sicily. It is also commonly used to refer to the variety of pasta dishes. Typically, pasta is a noodle made from an unleavened dough of a durum wheat flour mixed with water or eggs and...",
+      "name": "pasta",
+      "sameAs": [
+        "http://el.dbpedia.org/resource/Ζυμαρικό",
+        "http://rdf.freebase.com/ns/m.05z55",
+        "http://ko.dbpedia.org/resource/파스타",
+        "http://pt.dbpedia.org/resource/Massa_alimentícia",
+        "http://it.dbpedia.org/resource/Pasta",
+        "http://es.dbpedia.org/resource/Pasta",
+        "http://pl.dbpedia.org/resource/Makaron",
+        "https://en.wikipedia.org/wiki/Pasta",
+        "http://nl.dbpedia.org/resource/Pasta_(deegwaar)",
+        "http://wikidata.dbpedia.org/resource/Q178",
+        "http://fr.dbpedia.org/resource/Pâtes_alimentaires",
+        "http://www.wikidata.org/entity/Q178",
+        "http://de.dbpedia.org/resource/Pasta",
+        "http://ja.dbpedia.org/resource/パスタ",
+        "http://purl.obolibrary.org/obo/FOODON_03306347",
+        "http://cs.dbpedia.org/resource/Těstoviny",
+        "http://id.dbpedia.org/resource/Pasta",
+        "http://eu.dbpedia.org/resource/Pasta_(orea)",
+        "http://dbpedia.org/resource/Pasta",
+        "https://knowledge.cafemedia.com/food/entity/pasta"
+      ]
+    }
+  ],
+  "name": "Easy Vegan Spinach Pesto Pasta",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "395 kcal",
+    "carbohydrateContent": "64 g",
+    "fatContent": "11 g",
+    "fiberContent": "5 g",
+    "proteinContent": "14 g",
+    "saturatedFatContent": "1 g",
+    "servingSize": "1 third recipe",
+    "sodiumContent": "444 mg",
+    "sugarContent": "5 g",
+    "unsaturatedFatContent": "7 g"
+  },
+  "prepTime": "PT10M",
+  "recipeCategory": "dinner",
+  "recipeCuisine": "vegan",
+  "recipeIngredient": [
+    "1/2 cup raw cashews (you could also try toasted pine nuts, walnuts, etc.)",
+    "6 cups loosely packed spinach leaves (6 oz.)",
+    "1 small bunch basil (0.75 oz.) thick stems removed)",
+    "1/4 cup plain, unsweetened non-dairy milk",
+    "1/2 lemon (juiced)",
+    "1/2 tsp salt (scant)",
+    "pepper (to taste)",
+    "8 oz pasta of choice (I used shells)",
+    "1 tsp olive oil",
+    "1/2 yellow onion (or 1 shallot), diced)",
+    "2 cloves garlic (minced)",
+    "1/2 cup reserved pasta water"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Bring a pot of generously salted water to a boil, and cook your pasta according to package directions. Drain it, reserving 1/2 cup of the cooking water. Do not rinse."
+    }
+  ],
+  "recipeYield": "3",
+  "sameAs": [
+    "https://yupitsvegan.com/vegan-spinach-pesto-pasta"
+  ],
+  "totalTime": "PT30M",
+  "updatedAt": "2022-12-01T12:49:34.725Z"
+}

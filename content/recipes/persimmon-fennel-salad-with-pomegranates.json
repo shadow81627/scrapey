@@ -1,0 +1,82 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "5",
+    "reviewCount": "3"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Vicky & Ruth"
+  },
+  "cookingMethod": "Raw",
+  "createdAt": "2022-12-01T12:30:30.697Z",
+  "datePublished": "2017-11-14",
+  "description": "This Persimmon Fennel Salad with Pomegranate seeds and hazelnuts is a guaranteed crowd pleaser, with a wonderful balance of sweet and savory.",
+  "image": {
+    "@type": "ImageObject",
+    "height": 936,
+    "url": "https://mayihavethatrecipe.com/wp-content/uploads/2017/11/Persimmon-Fennel-Salad-with-Pomegranates-9.jpg",
+    "width": 620
+  },
+  "name": "Persimmon Fennel Salad with Pomegranates",
+  "nutrition": {
+    "@type": "nutritionInformation",
+    "calories": "151 calories",
+    "carbohydrateContent": "24.5",
+    "cholesterolContent": "0",
+    "fatContent": "6.5",
+    "fiberContent": "5",
+    "proteinContent": "2",
+    "saturatedFatContent": ".8",
+    "servingSize": "1 cup",
+    "sodiumContent": "637",
+    "sugarContent": "18",
+    "transFatContent": "0",
+    "unsaturatedFatContent": "13"
+  },
+  "prepTime": "PT15M",
+  "recipeCategory": "Salad",
+  "recipeCuisine": "vegan Indian",
+  "recipeIngredient": [
+    "1 large fennel bulb, sliced (see note)",
+    "1 pomegranate, seeded (about 1 cup of pomegranate seeds) (check out our video!)",
+    "2 Fuyu Persimmons, peeled and sliced (another video!)",
+    "1/4 cup toasted hazelnuts, chopped",
+    "2 tbsp freshly squeezed lemon juice",
+    "1 tbsp whole grain mustard",
+    "1 tbsp brown mustard",
+    "1 tbsp maple syrup",
+    "1 tbsp extra virgin olive oil",
+    "1/2 tsp salt"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Combine all the salad ingredients in a bowl or large serving plater"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "To prepare the dressing, whisk all the dressing ingredients together until well combined. Pour over salad right before serving and toss well"
+    }
+  ],
+  "recipeYield": "4",
+  "sameAs": [
+    "https://mayihavethatrecipe.com/persimmon-fennel-salad"
+  ],
+  "totalTime": "PT15M",
+  "updatedAt": "2022-12-01T12:30:30.695Z",
+  "url": "https://mayihavethatrecipe.com/persimmon-fennel-salad/",
+  "video": {
+    "@context": "http://schema.org",
+    "@type": "VideoObject",
+    "contentUrl": "https://www.youtube.com/watch?v=TF9zlnudc1g",
+    "description": "One easy way to peel and remove the seeds of a pomegranate",
+    "embedUrl": "https://www.youtube.com/embed/TF9zlnudc1g?feature=oembed",
+    "name": "How to peel a pomegranate",
+    "thumbnailUrl": [
+      "https://i.ytimg.com/vi/TF9zlnudc1g/hqdefault.jpg"
+    ],
+    "uploadDate": "2019-12-12"
+  }
+}

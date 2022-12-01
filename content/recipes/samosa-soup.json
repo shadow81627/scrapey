@@ -1,0 +1,179 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "3",
+    "ratingValue": "5"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Yup, it's Vegan"
+  },
+  "cookTime": "PT40M",
+  "createdAt": "2022-12-01T12:56:10.981Z",
+  "datePublished": "2014-09-16T07:00:02+00:00",
+  "description": "This recipe skips the frying and turns potatoes into a hearty, fragrant samosa soup. Gluten-free, grain-free, and vegan.",
+  "image": [
+    "https://yupitsvegan.com/wp-content/uploads/2014/09/samosa_soup_vegan_1.jpg"
+  ],
+  "keywords": "samosa soup",
+  "mentions": [
+    {
+      "@id": "https://yupitsvegan.com/tag/high-vegetable/#id",
+      "@type": "http://schema.org/Thing",
+      "description": "In everyday usage, a vegetable is any part of a plant that is consumed by humans as food as part of a savory meal. The term vegetable is somewhat arbitrary, and largely defined through culinary and cultural tradition. It normally excludes other food derived from plants such as fruits, nuts and cereal grains, but includes...",
+      "name": "vegetable",
+      "sameAs": [
+        "http://ko.dbpedia.org/resource/채소",
+        "http://wikidata.dbpedia.org/resource/Q11004",
+        "http://eu.dbpedia.org/resource/Barazki",
+        "http://purl.obolibrary.org/obo/FOODON_00002141",
+        "http://pl.dbpedia.org/resource/Warzywa",
+        "http://fr.dbpedia.org/resource/Légume",
+        "https://en.wikipedia.org/wiki/Vegetable",
+        "http://de.dbpedia.org/resource/Gemüse",
+        "http://el.dbpedia.org/resource/Λαχανικό",
+        "http://rdf.freebase.com/ns/m.0f4s2w",
+        "http://nl.dbpedia.org/resource/Groente",
+        "http://cs.dbpedia.org/resource/Zelenina",
+        "http://es.dbpedia.org/resource/Verdura",
+        "http://www.wikidata.org/entity/Q11004",
+        "http://dbpedia.org/resource/Vegetable",
+        "http://d-nb.info/gnd/4020069-3",
+        "http://it.dbpedia.org/resource/Verdura",
+        "http://ja.dbpedia.org/resource/野菜",
+        "http://id.dbpedia.org/resource/Sayuran",
+        "https://knowledge.cafemedia.com/food/entity/fruit_vegetable"
+      ]
+    },
+    {
+      "@id": "https://yupitsvegan.com/tag/legumes/#id",
+      "@type": "http://schema.org/Thing",
+      "description": "A legume (/ˈlɛɡjuːm/ or /ˌləˈɡjuːm/) is a plant or fruit/seed in the family Fabaceae (or Leguminosae). Legumes are grown agriculturally, primarily for their grain seed called pulse, for livestock forage and silage, and as soil-enhancing green manure. Well-known legumes include alfalfa, clover, peas, beans, lentils, lupin bean, mesquite, carob, soybeans, peanuts, and tamarind. Legumes are...",
+      "name": "legume",
+      "sameAs": [
+        "http://el.dbpedia.org/resource/Όσπρια",
+        "http://cs.dbpedia.org/resource/Luštěnina",
+        "https://en.wikipedia.org/wiki/Legume",
+        "http://rdf.freebase.com/ns/m.01sfdb",
+        "http://wikidata.dbpedia.org/resource/Q145909",
+        "http://pt.dbpedia.org/resource/Legume",
+        "http://www.wikidata.org/entity/Q145909",
+        "http://ja.dbpedia.org/resource/豆果",
+        "http://fr.dbpedia.org/resource/Gousse",
+        "http://eu.dbpedia.org/resource/Lekale",
+        "http://dbpedia.org/resource/Legume",
+        "http://es.dbpedia.org/resource/Legumbre",
+        "http://yago-knowledge.org/resource/Pulse_(legume)",
+        "http://pl.dbpedia.org/resource/Rośliny_strączkowe",
+        "http://purl.obolibrary.org/obo/FOODON_00001264",
+        "http://nl.dbpedia.org/resource/Peul_(vrucht)",
+        "http://de.dbpedia.org/resource/Hülsenfrucht",
+        "http://it.dbpedia.org/resource/Baccello",
+        "http://d-nb.info/gnd/4020803-5",
+        "http://rdf.freebase.com/ns/m.0bqsk",
+        "https://knowledge.cafemedia.com/food/entity/legume"
+      ]
+    },
+    {
+      "@id": "https://yupitsvegan.com/category/soup/#id",
+      "@type": "http://schema.org/Thing",
+      "description": "From creamy chowders, to spicy tortilla soup, to Asian-inspired noodle soup, every plant-based and vegan soup you could ever want in one place!",
+      "name": "soup",
+      "sameAs": [
+        "http://ko.dbpedia.org/resource/수프",
+        "http://d-nb.info/gnd/4058643-1",
+        "http://eu.dbpedia.org/resource/Zopa",
+        "http://pl.dbpedia.org/resource/Zupa",
+        "http://www.wikidata.org/entity/Q41415",
+        "http://de.dbpedia.org/resource/Suppe",
+        "http://purl.obolibrary.org/obo/FOODON_03304925",
+        "http://id.dbpedia.org/resource/Sup",
+        "http://dbpedia.org/resource/Soup",
+        "http://es.dbpedia.org/resource/Sopa",
+        "http://ja.dbpedia.org/resource/スープ",
+        "http://yago-knowledge.org/resource/Cold_Soup",
+        "http://wikidata.dbpedia.org/resource/Q41415",
+        "https://en.wikipedia.org/wiki/Soup",
+        "http://it.dbpedia.org/resource/Minestra",
+        "http://el.dbpedia.org/resource/Σούπα",
+        "http://cs.dbpedia.org/resource/Polévka",
+        "http://rdf.freebase.com/ns/m.01z1m1x",
+        "http://fr.dbpedia.org/resource/Soupe",
+        "http://nl.dbpedia.org/resource/Soep_(voedsel)",
+        "http://pt.dbpedia.org/resource/Sopa",
+        "https://knowledge.cafemedia.com/food/entity/soup"
+      ]
+    }
+  ],
+  "name": "Samosa Soup",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "241 kcal",
+    "carbohydrateContent": "51 g",
+    "fatContent": "2 g",
+    "fiberContent": "5 g",
+    "proteinContent": "7 g",
+    "saturatedFatContent": "1 g",
+    "servingSize": "1 bowl",
+    "sodiumContent": "643 mg",
+    "sugarContent": "3 g"
+  },
+  "prepTime": "PT15M",
+  "recipeCategory": "Soup",
+  "recipeCuisine": "gluten-free",
+  "recipeIngredient": [
+    "5 medium potatoes (skins intact, scrubbed and roughly chopped)",
+    "1/2 tsp coconut oil",
+    "2 green chilis (finely chopped)",
+    "3 cloves garlic (minced)",
+    "1/2 white or yellow onion (diced)",
+    "1 tsp cumin seeds",
+    "1 tsp coriander seeds",
+    "1/4 tsp fennel seeds",
+    "1/4 tsp turmeric",
+    "3/4 tsp salt",
+    "1/4 tsp cayenne pepper",
+    "3 cups low-sodium vegetable broth (or salted broth and reduce the salt above)",
+    "1/3 cup coconut milk (optional)",
+    "1/2 lime (juiced)",
+    "1/2 cup cooked green peas, chickpeas, or mung beans (or more)",
+    "fresh cilantro, tamarind chutney, or other chutney of choice (optional, for serving)"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "In a large saucepan, add the potatoes along with water to cover them by a few inches. Bring to a boil, and cook until the potatoes are fork tender. Rinse and drain the cooked potatoes."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Meanwhile, warm the coconut oil over medium heat in a skillet. Add the chilis, garlic, and onion, and stir. Cook for 2-3 minutes, until softened slightly."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add all of the ingredients for the spice blend, and stir. Continue stirring frequently, cooking at medium heat for about 2 more minutes, until the spices are fragrant and slightly browned."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Remove from the heat, and remove the mixture from the pan immediately. Add to a blender or food processor, and blend until mostly smooth."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add the cooked potatoes to the blender, along with as much of the water or broth as needed to blend. Blend until smooth (or leave slightly chunky if you prefer)."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Transfer the mixture to the saucepan, add the rest of the water or broth, the (optional) cocnout milk, and the lime juice. Bring to a gentle boil, then reduce to a simmer."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Simmer for 10-15 minutes, or until the flavors have come together to your liking. Stir in the cooked beans and adjust seasoning as desired. Serve hot, topped with fresh cilantro, and chutney (if using/available)."
+    }
+  ],
+  "recipeYield": "3",
+  "sameAs": [
+    "https://yupitsvegan.com/samosa-soup"
+  ],
+  "totalTime": "PT55M",
+  "updatedAt": "2022-12-01T12:56:10.979Z"
+}

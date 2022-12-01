@@ -1,40 +1,55 @@
 {
   "@type": "Product",
-  "additionalProperty": [],
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "-",
+      "carbohydrateContent": "-",
+      "dietary_fibre": "-",
+      "fatContent": "-",
+      "name": "nutrition",
+      "proteinContent": "-",
+      "saturatedFatContent": "-",
+      "servingSize": "100 g",
+      "sodiumContent": "-",
+      "sugarContent": "-"
+    }
+  ],
   "aggregateRating": {
     "@context": "http://schema.org",
     "@type": "AggregateRating",
-    "ratingCount": 567,
-    "ratingValue": 4.53
+    "ratingCount": 635,
+    "ratingValue": 4.53070866141732
   },
   "brand": {
     "@context": "http://schema.org",
     "@type": "Organization",
-    "name": "woolworths"
+    "name": "Woolworths"
   },
   "createdAt": "2020-11-25T21:33:46.000Z",
   "description": "Woolworths Select Smoked Paprika add to spaghetti bolognaise for a smoky flavour.",
   "gtin13": "9300633928476",
-  "image": {
-    "@type": "ImageObject",
-    "height": 1200,
-    "mime": "image/jpeg",
-    "url": "https://cdn0.woolworths.media/content/wowproductimages/large/251131.jpg",
-    "width": 1200
-  },
-  "name": "Woolworths Paprika Smoked 30g",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/251131.jpg",
+  "name": "Woolworths Paprika Smoked 30G",
   "offers": {
     "@type": "AggregateOffer",
-    "highPrice": 0,
-    "lowPrice": 0,
+    "highPrice": 2,
+    "lowPrice": 2,
     "offerCount": 1,
     "offers": [
       {
         "@context": "http://schema.org",
         "@type": "Offer",
-        "availabilityStarts": "2020-11-22T05:57:59.930Z",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-12-01T12:29:46.475Z",
+        "itemCondition": "http://schema.org/NewCondition",
         "offeredBy": "Woolworths",
-        "price": "",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 2,
+        "priceCurrency": "AUD",
         "seller": {
           "@type": "Organization",
           "name": "Woolworths"
@@ -47,5 +62,5 @@
     "https://woolworths.com.au/shop/productdetails/251131/woolworths-paprika-smoked"
   ],
   "sku": "251131",
-  "updatedAt": "2020-11-22T05:57:59.930Z"
+  "updatedAt": "2022-12-01T12:29:46.476Z"
 }
