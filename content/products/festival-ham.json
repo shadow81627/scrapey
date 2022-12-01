@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "approx. 3.75kg"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$10.00 per 1Kg"
+    }
+  ],
+  "brand": "Bertocchi",
+  "createdAt": "2022-12-01T05:23:12.702Z",
+  "description": "Indicated price based on approx. weight. Weight may vary between 3.65kg to 3.85kg.",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/7/7/7/7776002.jpg",
+  "name": "Festival Ham",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 37.5,
+    "lowPrice": 37.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-01T05:23:12.702Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "37.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/bertocchi-festival-ham"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/bertocchi-festival-ham"
+  ],
+  "sku": "7776002",
+  "updatedAt": "2022-12-01T05:23:12.702Z"
+}

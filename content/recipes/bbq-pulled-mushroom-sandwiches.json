@@ -1,0 +1,84 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1",
+    "ratingValue": "5"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Oh My Veggies"
+  },
+  "cookTime": "PT20M",
+  "createdAt": "2022-12-01T04:46:52.802Z",
+  "datePublished": "2017-07-05T08:00:26+00:00",
+  "description": "Thinly sliced cremini mushrooms are simmered in tangy barbecue sauce and stuffed into buns to make these vegan pulled mushroom sandwiches.",
+  "image": [
+    "https://ohmyveggies.com/wp-content/uploads/2017/06/barbecue-pulled-mushroom-sandwiches-2.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2017/06/barbecue-pulled-mushroom-sandwiches-2-500x500.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2017/06/barbecue-pulled-mushroom-sandwiches-2-500x375.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2017/06/barbecue-pulled-mushroom-sandwiches-2-480x270.jpg"
+  ],
+  "keywords": "BBQ Pulled Mushroom Sandwiches, vegan pulled mushroom sandwiches",
+  "name": "BBQ Pulled Mushroom Sandwiches",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "366 kcal",
+    "carbohydrateContent": "50 g",
+    "fatContent": "15 g",
+    "fiberContent": "3 g",
+    "proteinContent": "10 g",
+    "saturatedFatContent": "2 g",
+    "servingSize": "1 serving",
+    "sodiumContent": "870 mg",
+    "sugarContent": "24 g",
+    "unsaturatedFatContent": "12 g"
+  },
+  "prepTime": "PT10M",
+  "recipeCategory": "Main Course",
+  "recipeCuisine": "American",
+  "recipeIngredient": [
+    "1/2 cup water",
+    "1/4 cup tomato paste",
+    "1/4 cup molasses",
+    "2 tablespoons apple cider vinegar",
+    "2 tablespoons soy sauce",
+    "1 teaspoon liquid smoke",
+    "1 teaspoon paprika",
+    "1/4 cup olive oil",
+    "1 1/4 pounds cremini mushrooms (cleaned and sliced very thin)",
+    "1 small onion (diced)",
+    "3 garlic cloves (minced)",
+    "Salt and pepper to taste",
+    "4 burger buns or sandwich rolls",
+    "Lettuce (tomato, coleslaw, or toppings of choice)"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "In a small bowl, stir together the water, tomato paste, molasses, apple cider vinegar, soy sauce, liquid smoke, and paprika. Set aside."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Coat the bottom of a large skillet with oil and place it over medium heat. When the oil is hot, add the mushrooms in an even layer. Cook for about 5 minutes, flip, and then cook 5 minutes more, until browned in spots. Add the onion and sauté with the mushrooms for about 5 minutes, until very tender. Add the garlic and sauté 1 minute more, until very fragrant."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add the tomato paste mixture to the skillet and stir to coat the mushrooms. Bring the sauce to a simmer and allow to cook for about 5 minutes, until it thickens up a bit and the mushrooms are very tender. You can add a bit more water if the sauce gets too thick. Season with salt and pepper to taste."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Stuff the mushroom mixture into buns and top with toppings of choice. Serve."
+    }
+  ],
+  "recipeYield": "4",
+  "sameAs": [
+    "https://ohmyveggies.com/bbq-pulled-mushroom-sandwiches"
+  ],
+  "suitableForDiet": [
+    "https://schema.org/VeganDiet",
+    "https://schema.org/VegetarianDiet"
+  ],
+  "totalTime": "PT30M",
+  "updatedAt": "2022-12-01T04:46:52.798Z"
+}

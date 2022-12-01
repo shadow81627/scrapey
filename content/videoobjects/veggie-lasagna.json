@@ -1,0 +1,20 @@
+{
+  "@type": "VideoObject",
+  "contentUrl": "https://cdn.jwplayer.com/manifests/9xcebKcE.m3u8",
+  "createdAt": "2022-12-01T05:28:59.590Z",
+  "description": "Easy Vegan Vegetable Lsagna",
+  "duration": "PT2M11S",
+  "embedUrl": "https://www.veganricha.com/vegan-resources/",
+  "name": "Veggie Lasagna",
+  "potentialAction": {
+    "@type": "SeekToAction",
+    "startOffset-input": "required name=seek_to_second_number",
+    "target": "https://www.veganricha.com/vegan-resources/?jw_start={seek_to_second_number}"
+  },
+  "sameAs": [
+    "https://veganricha.com/2012/01/vegan-resources.html"
+  ],
+  "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/9xcebKcE/poster.jpg?width=720",
+  "updatedAt": "2022-12-01T05:28:59.589Z",
+  "uploadDate": "2017-08-04T17:42:39.000Z"
+}
