@@ -88,7 +88,7 @@ type MySubject = {
     //   await paginatedCrawl();
     // }
   }
-  const perPage = (cpuCount * 2) / allowedHosts.length;
+  const perPage = Math.round((cpuCount * 2) / allowedHosts.length);
   let page = 1;
   async function paginatedCrawl(): Promise<void> {
     const [urls, total] = await fetchCrawlUrls({ page, perPage });
