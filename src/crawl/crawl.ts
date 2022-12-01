@@ -26,6 +26,7 @@ const disallowedHosts = [
   '2.bp.blogspot.com',
   '3.bp.blogspot.com',
   'aax-us-east.amazon-adsystem.com',
+  'api.whatsapp.com',
 ];
 export default async function crawl(
   url: string,
