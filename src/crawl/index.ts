@@ -1,5 +1,5 @@
 import 'reflect-metadata';
-import { Brackets, In, IsNull, Like, Not, Raw } from 'typeorm';
+import { Brackets, In, IsNull, Like, Not, Raw, SelectQueryBuilder } from 'typeorm';
 import { Url } from '../db/entity/Url';
 import { Pool, spawn, Worker } from 'threads';
 import os from 'os';
@@ -23,8 +23,9 @@ async function fetchCrawlUrls({
 }): Promise<[Url[], number]> {
   const skip = perPage * page - perPage;
   const connection = AppDataSource;
-  const defaultQuery = connection
-    .getRepository(Url)
+  function defaultQuery(): SelectQueryBuilder<Url> {
+    return connection
+      .getRepository(Url)
     .createQueryBuilder('url')
     .where({
       crawledAt: IsNull(),
@@ -42,12 +43,13 @@ async function fetchCrawlUrls({
         });
       }),
     );
-  const total = await defaultQuery
+  }
+  const total = await defaultQuery()
     .andWhere({ hostname: In(allowedHosts) })
     .getCount();
   let urls: Url[] = [];
   for (const hostname of allowedHosts) {
-    const results = await defaultQuery
+    const results = await defaultQuery()
       .andWhere({ hostname })
       .orderBy('createdAt', 'ASC')
       .take(perPage)
