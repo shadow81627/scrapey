@@ -78,7 +78,7 @@ async function loadDB(filename: string) {
               // // TODO: remove url string from imageObject before merge
               //     connection.manager.merge(Image, image, imageObject);
               // }
-          if (!url.crawledAt) {
+          if (!url.crawledAt && false) {
             await probeImage(image);
           }
           await connection.manager.save(image);
