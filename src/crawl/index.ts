@@ -1,5 +1,5 @@
 import 'reflect-metadata';
-import { In, IsNull, Like, Not, Raw } from 'typeorm';
+import { Brackets, In, IsNull, Like, Not, Raw } from 'typeorm';
 import { Url } from '../db/entity/Url';
 import { Pool, spawn, Worker } from 'threads';
 import os from 'os';
@@ -23,48 +23,36 @@ async function fetchCrawlUrls({
 }): Promise<[Url[], number]> {
   const skip = perPage * page - perPage;
   const connection = AppDataSource;
-  const defaultWhere = {
-    crawledAt: IsNull(),
-    image: IsNull(),
-    pathname: Not(Like('%.jpg')),
-  };
-  const total = await connection.manager.count(Url, {
-    where: [
-      {
-        ...defaultWhere,
-        hostname: In(allowedHosts),
-        canonical: IsNull(),
-      },
-      {
-        ...defaultWhere,
-        hostname: In(allowedHosts),
-        canonical: Raw('canonicalId'),
-      },
-    ],
-  });
+  const defaultQuery = connection
+    .getRepository(Url)
+    .createQueryBuilder('url')
+    .where({
+      crawledAt: IsNull(),
+      image: IsNull(),
+      pathname: Not(Like('%.jpg')),
+    }).andWhere({
+      pathname: Not(Like('%/wprm_print/%')),
+    }).andWhere({
+      pathname: Not(Like('%/comment-page-%'))
+    })
+    .andWhere(
+      new Brackets((qb) => {
+        qb.where({ canonical: IsNull() }).orWhere({
+          canonical: Raw('canonicalId'),
+        });
+      }),
+    );
+  const total = await defaultQuery
+    .andWhere({ hostname: In(allowedHosts) })
+    .getCount();
   let urls: Url[] = [];
   for (const hostname of allowedHosts) {
-    const results = await connection.manager.find(Url, {
-      where: [
-        {
-          ...defaultWhere,
-          hostname,
-          canonical: IsNull(),
-        },
-        {
-          ...defaultWhere,
-          hostname,
-          canonical: Raw('canonicalId'),
-        },
-      ],
-      order: {
-        dated: {
-          updatedAt: 'ASC',
-        },
-      },
-      take: perPage,
-      skip,
-    });
+    const results = await defaultQuery
+      .andWhere({ hostname })
+      .orderBy('createdAt', 'ASC')
+      .take(perPage)
+      .skip(skip)
+      .getMany();
     urls = shuffle([...urls, ...results]);
   }
   return [urls, total];
