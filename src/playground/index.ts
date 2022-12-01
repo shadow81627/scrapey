@@ -6,10 +6,11 @@ import incorrectUrlIds from './incorrectUrlId';
 import resetRedirectedColesUrls from './resetRedirectedColesUrls';
 import countUrlSearch from './countUrlSearch';
 // import gitTimeStamps from './gitTimeStamps';
-import urlsMissingUrls from './urlsMissingUrls';
+// import urlsMissingUrls from './urlsMissingUrls';
 import probeImages from './probeImages';
 import imageUrls from './imageUrls';
 import deleteBudgetBytesCommentUrls from './deleteBudgetBytesCommentUrls';
+import diet from './diet';
 
 (async () => {
   await AppDataSource.initialize();
@@ -37,6 +38,7 @@ import deleteBudgetBytesCommentUrls from './deleteBudgetBytesCommentUrls';
   responses.probeImages = await probeImages();
   // responses.urlsMissingUrls = await urlsMissingUrls();
   // responses.gitTimeStamps = await gitTimeStamps();
+  await diet();
   await countUrlSearch();
 
   console.table(responses);
