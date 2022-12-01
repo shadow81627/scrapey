@@ -1,0 +1,70 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Garlic 96%, Sugar, Salt, Food Acid (Citric), Thickener (Xanthan Gum (contains Soy))."
+    },
+    {
+      "name": "Contains",
+      "value": "Contains Soy. May contain Peanuts."
+    },
+    {
+      "name": "Allergen",
+      "value": "Contains Soy"
+    },
+    {
+      "name": "Dietary",
+      "value": "No Preservatives"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "34.0"
+    },
+    {
+      "name": "Size",
+      "value": "170g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.15 per 10G"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Made in Country Australia"
+    }
+  ],
+  "brand": "MasterFoods",
+  "createdAt": "2022-12-01T02:45:42.169Z",
+  "description": "MasterFoods Finely Crushed Garlic",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/6/0/2/6027101.jpg",
+  "name": "Finely Crushed Garlic",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2.5,
+    "lowPrice": 2.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-01T02:45:42.169Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "2.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/masterfoods-garlic-freshly-crushed"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/masterfoods-garlic-freshly-crushed"
+  ],
+  "sku": "6027101",
+  "updatedAt": "2022-12-01T02:45:42.169Z"
+}

@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "6 pack"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.60 per 100Ea"
+    }
+  ],
+  "brand": "Quilton",
+  "createdAt": "2022-12-01T01:52:49.802Z",
+  "description": "Our original 3 Ply is where it all began. The most popular, most recognised and most loved toilet tissue in Australia is available in larger packs with our famous easy-carry Love Handle",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/0/5/3055257.jpg",
+  "name": "White Toilet Tissue",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 6.5,
+    "lowPrice": 6.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-01T01:52:49.801Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "6.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/quilton-white-toilet-tissue"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/quilton-white-toilet-tissue"
+  ],
+  "sku": "3055257",
+  "updatedAt": "2022-12-01T01:52:49.801Z"
+}

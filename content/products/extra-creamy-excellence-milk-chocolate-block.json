@@ -27,7 +27,7 @@
     },
     {
       "name": "Unit Price",
-      "value": "$2.70 per 100G"
+      "value": "$5.00 per 100G"
     },
     {
       "name": "Country Of Origin",
@@ -37,28 +37,22 @@
   "brand": "Lindt",
   "createdAt": "2020-11-15T12:30:20.000Z",
   "description": "Lindt Extra Creamy Excellence Milk Chocolate Block",
-  "image": {
-    "@type": "ImageObject",
-    "height": 300,
-    "mime": "image/jpeg",
-    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/7/1/5/7152448.jpg",
-    "width": 300
-  },
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/7/1/5/7152448.jpg",
   "name": "Extra Creamy Excellence Milk Chocolate Block",
   "offers": {
     "@type": "AggregateOffer",
-    "highPrice": 2.7,
-    "lowPrice": 2.7,
+    "highPrice": 5,
+    "lowPrice": 5,
     "offerCount": 1,
     "offers": [
       {
         "@context": "http://schema.org",
         "@type": "Offer",
         "availability": "https://schema.org/InStock",
-        "availabilityStarts": "2020-11-15T11:00:29.248Z",
+        "availabilityStarts": "2022-12-01T00:34:15.895Z",
         "itemCondition": "https://schema.org/NewCondition",
         "offeredBy": "Coles",
-        "price": "2.70",
+        "price": "5.00",
         "priceCurrency": "AUD",
         "seller": {
           "@type": "Organization",
@@ -69,8 +63,8 @@
     ]
   },
   "sameAs": [
-    "https://shop.coles.com.au/a/sunnybank-hills/product/lindt-excellence--chocolate-milk-extra-creamy"
+    "https://shop.coles.com.au/a/national/product/lindt-excellence--chocolate-milk-extra-creamy"
   ],
   "sku": "7152448",
-  "updatedAt": "2020-11-15T11:00:29.248Z"
+  "updatedAt": "2022-12-01T00:34:15.895Z"
 }

@@ -2,64 +2,71 @@
   "@type": "Recipe",
   "cookTime": "PT100M",
   "createdAt": "2022-11-26T02:43:04.000Z",
-  "datePublished": "2021-03-10",
+  "datePublished": "2022-09-26",
   "description": "Try our easy to follow Beef, Barley & Turnip Soup recipe. Absolutely delicious with the best ingredients from Woolworths.",
-  "image": {
-    "@type": "ImageObject",
-    "height": 1300,
-    "mime": "image/png",
-    "url": "https://foodhub.scene7.com/is/image/woolworthsltdprod/0806_beefbarleyturnipsoup?wid=1300&hei=1300&fmt=png-alpha",
-    "width": 1300
-  },
-  "keywords": "Beef, Barley & Turnip Soup",
+  "image": [
+    "https://foodhub.scene7.com/is/image/woolworthsltdprod/0806_beefbarleyturnipsoup:Square-1300x1300"
+  ],
+  "keywords": "Soup,Low saturated fat,Seafood free,Tree nut free,Egg free,Winter,Low sugar,Sesame free,Beef,High protein,High fibre,Soy free,Wheat free,Low fat,Dairy free,Peanut free",
   "name": "Beef, Barley & Turnip Soup Recipe | Woolworths",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "267 calories",
+    "carbohydrateContent": "28.7 g",
+    "fatContent": "6.2 g",
+    "fiberContent": "6.2 g",
+    "proteinContent": "23.5 g",
+    "saturatedFatContent": "2.0 g",
+    "sodiumContent": "932 millig",
+    "sugarContent": "5.0 g"
+  },
   "prepTime": "PT15M",
-  "recipeCategory": "entrees",
-  "recipeCuisine": "british",
+  "recipeCategory": "Entrees",
+  "recipeCuisine": "British",
   "recipeId": "1876",
   "recipeIngredient": [
     "2 dried bay leaves",
-    "2 carrots",
-    "1 large onion",
-    "2 tbs parsley",
-    "2 turnips",
+    "2 carrots, chopped",
+    "1 large onion, chopped",
+    "2 tbs parsley, chopped",
+    "2 turnips, peeled and diced",
     "4 cup beef stock",
-    "1 pinch pepper",
+    "1 pinch pepper (for seasoning)",
     "1 cup pearl barley",
-    "500 g beef",
+    "500g beef, diced",
     "1 tbs oil",
     "2 stick celery",
     "2 garlic cloves",
-    "1 pinch sea salt ground"
+    "1 pinch sea salt ground (to taste)"
   ],
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Add turnip and cook, uncovered for a further 30 minutes until tender, adding more water if too thick. Stir through parsley and ladle into bowls to serve."
+      "HowToTip": {},
+      "text": "Season beef with salt and pepper. Heat oil in large saucepan over medium-high heat and when hot, cook beef in batches until well browned. Remove meat using a slotted spoon and set aside."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Add turnip and cook, uncovered for a further 30 minutes until tender, adding more water if too thick. Stir through parsley and ladle into bowls to serve."
+      "HowToTip": {},
+      "text": "Add onion, carrot, celery and garlic. Cook, stirring frequently, for about 5 minutes until golden. Add stock and 2 cups of water, stirring well to scrape juices from the base of the pan."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Add turnip and cook, uncovered for a further 30 minutes until tender, adding more water if too thick. Stir through parsley and ladle into bowls to serve."
+      "HowToTip": {},
+      "text": "Return meat to pan with barley and bay leaves and bring to the boil. Reduce heat and simmer, partly covered for 1 hour."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
+      "HowToTip": {},
       "text": "Add turnip and cook, uncovered for a further 30 minutes until tender, adding more water if too thick. Stir through parsley and ladle into bowls to serve."
     }
   ],
   "recipeNameId": "beef-barley-and-turnip-soup",
   "recipeYield": "6",
   "sameAs": [
-    "https://woolworths.com.au/shop/find-recipes/turnip-soup-recipe"
+    "https://woolworths.com.au/shop/recipes/beef-barley-and-turnip-soup"
   ],
   "totalTime": "PT115M",
-  "updatedAt": "2022-11-26T02:26:50.329Z",
+  "updatedAt": "2022-12-01T02:07:22.717Z",
   "url": "https://www.woolworths.com.au/shop/recipes/beef-barley-and-turnip-soup"
 }

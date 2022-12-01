@@ -3,7 +3,11 @@
   "additionalProperty": [
     {
       "name": "Ingredients",
-      "value": "Purse seine caught skipjack *tuna* (Katsuwonus pelamis) (56%) water sunflower oil vinegar lemon juice mustard powder sugar spices (contains chilli celery) parsley food acid (citric) salt.*Contains fish.**May contain wheat*"
+      "value": "Purse seine caught skipjack *tuna* (Katsuwonus pelamis) (fish) (56%), water, vegetable oil, vinegar, salt, mustard powder, sugar, spices (contains chilli, celery), parsley, lemon juice, food acid (citric). *Contains fish.*</hgxml>"
+    },
+    {
+      "name": "Allergen",
+      "value": "May Contain Soybean, May Contain Egg, May Contain Crustacea, May Contain Milk, Contains Fish, May Contain Wheat, May Contain Sesame Seeds"
     },
     {
       "name": "Servings Per Pack",
@@ -15,7 +19,7 @@
     },
     {
       "name": "Unit Price",
-      "value": "$12.11 per 1Kg"
+      "value": "$14.21 per 1Kg"
     },
     {
       "name": "Country Of Origin",
@@ -24,29 +28,23 @@
   ],
   "brand": "John West",
   "createdAt": "2020-11-15T04:05:36.000Z",
-  "description": "John West Tempters Zesty Vinaigrette Tuna",
-  "image": {
-    "@type": "ImageObject",
-    "height": 300,
-    "mime": "image/jpeg",
-    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/6/0/4/6044097.jpg",
-    "width": 300
-  },
+  "description": "Flaked tuna marinated in vinegar and lemon juice.",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/6/0/4/6044097.jpg",
   "name": "Tempters Zesty Vinaigrette Tuna",
   "offers": {
     "@type": "AggregateOffer",
-    "highPrice": 1.15,
-    "lowPrice": 1.15,
+    "highPrice": 1.35,
+    "lowPrice": 1.35,
     "offerCount": 1,
     "offers": [
       {
         "@context": "http://schema.org",
         "@type": "Offer",
         "availability": "https://schema.org/InStock",
-        "availabilityStarts": "2020-11-15T05:08:41.635Z",
+        "availabilityStarts": "2022-12-01T00:26:24.996Z",
         "itemCondition": "https://schema.org/NewCondition",
         "offeredBy": "Coles",
-        "price": "1.15",
+        "price": "1.35",
         "priceCurrency": "AUD",
         "seller": {
           "@type": "Organization",
@@ -57,8 +55,8 @@
     ]
   },
   "sameAs": [
-    "https://shop.coles.com.au/a/richmond-south/product/john-west-tempters-tuna-zesty-vinaigrette"
+    "https://shop.coles.com.au/a/national/product/john-west-tempters-tuna-zesty-vinaigrette"
   ],
   "sku": "6044097",
-  "updatedAt": "2020-11-15T05:08:41.635Z"
+  "updatedAt": "2022-12-01T00:26:24.996Z"
 }

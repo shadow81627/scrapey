@@ -1,0 +1,54 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "<p><strong>INGREDIENTS:</strong> <strong>Salmon&nbsp;</strong>(<em>Salmo Salar</em>)</p>"
+    },
+    {
+      "name": "Allergen",
+      "value": "Contains FISH"
+    },
+    {
+      "name": "Size",
+      "value": "approx. 200g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$33.00 per 1Kg"
+    }
+  ],
+  "brand": "Coles Deli",
+  "createdAt": "2022-12-01T02:11:24.581Z",
+  "description": "Coles Deli Fresh Tasmanian Salmon Portions Skin On",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/8/1/0/8106800.jpg",
+  "name": "Fresh Tasmanian Salmon Portions Skin On",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 6.6,
+    "lowPrice": 6.6,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-01T02:11:24.580Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "6.60",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-deli-fresh-skin-on-atlantic-salmon-filets"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/coles-deli-fresh-skin-on-atlantic-salmon-filets"
+  ],
+  "sku": "8106800",
+  "updatedAt": "2022-12-01T02:11:24.580Z"
+}

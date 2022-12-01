@@ -3,15 +3,19 @@
   "additionalProperty": [
     {
       "name": "Ingredients",
-      "value": "Durum Wheat Semolina."
+      "value": "Durum Wheat Semolina (Gluten)."
+    },
+    {
+      "name": "Contains",
+      "value": "Wheat (Gluten)"
     },
     {
       "name": "Allergen",
-      "value": "May Be Present Egg, May Be Present Soy"
+      "value": "May Be Present Soy, Contains Gluten, Contains Wheat, May Be Present Egg"
     },
     {
       "name": "Dietary",
-      "value": "No Preservatives, No Artificial Flavours or Colours"
+      "value": "No Added Sugars, No Preservatives"
     },
     {
       "name": "Servings Per Pack",
@@ -19,7 +23,7 @@
     },
     {
       "name": "Warning",
-      "value": "Product does not contain egg as an ingredient."
+      "value": "May contain traces of egg and soy. Product does not contain egg as an ingredient."
     },
     {
       "name": "Size",
@@ -27,34 +31,28 @@
     },
     {
       "name": "Unit Price",
-      "value": "$0.39 per 100G"
+      "value": "$0.48 per 100G"
     }
   ],
   "brand": "San Remo",
   "createdAt": "2020-11-15T04:05:36.000Z",
-  "description": "San Remo Trivelle Family Pack contains no artificial colourings, flavourings or preservatives. Cooks in 11minutes.",
-  "image": {
-    "@type": "ImageObject",
-    "height": 300,
-    "mime": "image/jpeg",
-    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/6/0/8/6080170.jpg",
-    "width": 300
-  },
+  "description": "San Remo Trivelle Pasta No 17",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/6/0/8/6080170.jpg",
   "name": "Trivelle Pasta No 17",
   "offers": {
     "@type": "AggregateOffer",
-    "highPrice": 2.9,
-    "lowPrice": 2.9,
+    "highPrice": 3.6,
+    "lowPrice": 3.6,
     "offerCount": 1,
     "offers": [
       {
         "@context": "http://schema.org",
         "@type": "Offer",
         "availability": "https://schema.org/InStock",
-        "availabilityStarts": "2020-11-15T09:43:45.534Z",
+        "availabilityStarts": "2022-12-01T00:22:03.250Z",
         "itemCondition": "https://schema.org/NewCondition",
         "offeredBy": "Coles",
-        "price": "2.90",
+        "price": "3.60",
         "priceCurrency": "AUD",
         "seller": {
           "@type": "Organization",
@@ -65,8 +63,8 @@
     ]
   },
   "sameAs": [
-    "https://shop.coles.com.au/a/sunnybank-hills/product/san-remo-pasta-trivelle-no-17"
+    "https://shop.coles.com.au/a/national/product/san-remo-pasta-trivelle-no-17"
   ],
   "sku": "6080170",
-  "updatedAt": "2020-11-15T09:43:45.534Z"
+  "updatedAt": "2022-12-01T00:22:03.250Z"
 }

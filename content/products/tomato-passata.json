@@ -1,0 +1,58 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Tomatoes 99.5%, Salt."
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "7.0"
+    },
+    {
+      "name": "Size",
+      "value": "700g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.61 per 100G"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Made in Italy"
+    }
+  ],
+  "brand": "Mutti",
+  "createdAt": "2022-12-01T03:09:46.716Z",
+  "description": "Mutti Tomato Passata",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/1/8/0/1809266.jpg",
+  "name": "Tomato Passata",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 4.25,
+    "lowPrice": 4.25,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-01T03:09:46.715Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "4.25",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/mutti-tomato-passata"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/mutti-tomato-passata"
+  ],
+  "sku": "1809266",
+  "updatedAt": "2022-12-01T03:09:46.715Z"
+}

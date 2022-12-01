@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "1 bunch"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$5.20 per 1Ea"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2022-12-01T00:37:43.594Z",
+  "description": "Celery has a fresh, earthy taste and can be enjoyed raw in salads or as a dipping vegetable, or cooked in stir-fry or slow baked recipes",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/4/8/4/4845732.jpg",
+  "name": "Celery",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 5.2,
+    "lowPrice": 5.2,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-01T00:37:43.594Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "5.20",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/celery-bunch"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/celery-bunch"
+  ],
+  "sku": "4845732",
+  "updatedAt": "2022-12-01T00:37:43.594Z"
+}

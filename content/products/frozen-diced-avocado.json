@@ -1,0 +1,58 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "INGREDIENTS: Avocado, Key Lime Juice."
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "4.0"
+    },
+    {
+      "name": "Size",
+      "value": "300g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$13.33 per 1Kg"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Packed in Canada"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2022-12-01T00:49:52.349Z",
+  "description": "Try It, Love it Or Your Money Back. Coles Brand Frozen Avocado Diced 300 Gram",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/2/3/3230903.jpg",
+  "name": "Frozen Diced Avocado",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 4,
+    "lowPrice": 4,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-01T00:49:52.349Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "4.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-frozen-avocado-dices"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/coles-frozen-avocado-dices"
+  ],
+  "sku": "3230903",
+  "updatedAt": "2022-12-01T00:49:52.349Z"
+}

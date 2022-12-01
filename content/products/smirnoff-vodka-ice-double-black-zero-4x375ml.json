@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Smirnoff"
+  },
+  "createdAt": "2022-12-01T03:21:10.161Z",
+  "description": "<strong>Alcohol %: </strong>6.5<br><strong>Standard Drinks: </strong>1.9<br><strong>Country Of Origin: </strong>Australia",
+  "gtin13": "9310495079032",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/645211.jpg",
+  "name": "Smirnoff Vodka Ice Double Black Zero 4x375mL",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 23,
+    "lowPrice": 23,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-12-01T03:21:10.159Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 23,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/645211/smirnoff-vodka-ice-double-black-zero"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/645211/smirnoff-vodka-ice-double-black-zero"
+  ],
+  "sku": "645211",
+  "updatedAt": "2022-12-01T03:21:10.159Z"
+}

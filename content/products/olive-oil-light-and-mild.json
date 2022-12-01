@@ -1,0 +1,50 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "1L"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.80 per 100mL"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Product of Spain"
+    }
+  ],
+  "brand": "La Espanola",
+  "createdAt": "2022-12-01T01:47:01.866Z",
+  "description": "La Espanola Mild and light olive oil Olive Oil Composed of Refined Olive Oils and Virgin Olive Oils.",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/8/4/5847020.jpg",
+  "name": "Olive Oil Light & Mild",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 18,
+    "lowPrice": 18,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-01T01:47:01.866Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "18.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/la-espanola-olive-oil-mild-light-5847020p"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/la-espanola-olive-oil-mild-light-5847020p"
+  ],
+  "sku": "5847020",
+  "updatedAt": "2022-12-01T01:47:01.866Z"
+}

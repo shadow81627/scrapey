@@ -1,0 +1,62 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Milk, Cream (from Milk), Milk Solids, Salt, Vegetable Gum (Locust Bean), Starter Culture."
+    },
+    {
+      "name": "Contains",
+      "value": "Milk. Contains Milk Solids 40%."
+    },
+    {
+      "name": "Allergen",
+      "value": "Contains Milk"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "10.0"
+    },
+    {
+      "name": "Size",
+      "value": "250g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$22.80 per 1Kg"
+    }
+  ],
+  "brand": "Philadelphia",
+  "createdAt": "2022-12-01T02:12:24.623Z",
+  "description": "The Original Philadelphia Cream Cheese is made fresh and creamy, perfect as a spread or as an ingredient in some of your favourite desserts.",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/1/9/2/192502.jpg",
+  "name": "Regular Cream Cheese Block",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 5.7,
+    "lowPrice": 5.7,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-01T02:12:24.622Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "5.70",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/kraft-philadelphia-cheese-cream-block"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/kraft-philadelphia-cheese-cream-block"
+  ],
+  "sku": "192502",
+  "updatedAt": "2022-12-01T02:12:24.622Z"
+}

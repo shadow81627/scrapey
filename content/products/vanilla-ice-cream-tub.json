@@ -1,0 +1,58 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "<strong>INGREDIENTS:</strong> Frozen Dessert [Water, Liquid Sugar (Sugar, Water), Cream (<strong>Milk</strong>) (14%), <strong>Milk</strong> Solids, Maltodextrin, Emulsifier (471 (Palm Oil**)), Thickeners (410, 412, 407), Natural Flavouring, Natural Colour (Carotene (Palm Oil**))]."
+    },
+    {
+      "name": "Allergen",
+      "value": "May Be Present Brazil Nuts, May Be Present Cashew, May Be Present Hazelnuts, May Be Present Pine, May be Present: wheat, almond, Brazil nut, cashew, hazelnut, macadamia, other tree nuts, milk, soy, May Be Present Pistachios, May Be Present EGG, Contains MILK, May Be Present Macadamia Nuts, May Be Present PEANUTS, May Be Present Pecan, May Be Present Walnut"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "20.0"
+    },
+    {
+      "name": "Size",
+      "value": "2L"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$2.00 per 1L"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2022-12-01T02:57:11.775Z",
+  "description": "Coles Reduced Fat Ice Cream Contains 60% less fat than Coles regular 1 Litre Ice Cream.",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/0/7/207971.jpg",
+  "name": "Vanilla Ice Cream Tub",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 4,
+    "lowPrice": 4,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-01T02:57:11.774Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "4.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-ice-cream-vanilla"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/coles-ice-cream-vanilla"
+  ],
+  "sku": "207971",
+  "updatedAt": "2022-12-01T02:57:11.774Z"
+}

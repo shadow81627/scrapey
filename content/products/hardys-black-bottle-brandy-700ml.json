@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Hardys"
+  },
+  "createdAt": "2022-12-01T03:29:44.179Z",
+  "description": "For a traditional style brandy, Black Bottle is distilled using the double pot process, and aged for over two years in oak casks to give it a smooth, rich character with hints of vanilla flavour.<br><br><strong>Spirit Type: </strong>Brandy<br><strong>Alcohol %: </strong>37.1<br><strong>Standard Drinks: </strong>20.4<br><strong>Country Of Origin: </strong>Australia",
+  "gtin13": "9311043060106",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/076226.jpg",
+  "name": "Hardys Black Bottle Brandy 700mL",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 40,
+    "lowPrice": 40,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/OutOfStock",
+        "availabilityStarts": "2022-12-01T03:29:44.178Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 40,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/76226/hardys-black-bottle-brandy"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/76226/hardys-black-bottle-brandy"
+  ],
+  "sku": "76226",
+  "updatedAt": "2022-12-01T03:29:44.179Z"
+}

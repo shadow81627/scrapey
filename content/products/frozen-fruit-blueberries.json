@@ -1,0 +1,58 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "INGREDIENTS: Blueberries(100%)."
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "3.0"
+    },
+    {
+      "name": "Size",
+      "value": "500g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$12.40 per 1Kg"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Product of Chile"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2022-12-01T01:47:22.163Z",
+  "description": "* SOURCE OF FIBRE FOR HEALTHY DIGESTION* SOURCE OF VITAMIN C. VITAMIN C SUPPORTS A HEALTHY IMMUNE SYSTEMAUSTRALIAN DIETARY GUIDELINES RECOMMEND 2 SERVES OF FRUIT PER DAY. 1 SERVE OF FRUIT IS EQUAL TO APPROXIMATELY 150G OF FRUIT.",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/6/1/1/6110023.jpg",
+  "name": "Frozen Fruit Blueberries",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 6.2,
+    "lowPrice": 6.2,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-01T01:47:22.162Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "6.20",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-fruit-blueberry-frozen"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/coles-fruit-blueberry-frozen"
+  ],
+  "sku": "6110023",
+  "updatedAt": "2022-12-01T01:47:22.162Z"
+}

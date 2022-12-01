@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "approx. 250g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$31.00 per 1kg"
+    }
+  ],
+  "brand": "Coles Deli",
+  "createdAt": "2022-12-01T01:20:50.289Z",
+  "description": "The Dutch smoked cheese is a soft and creamy cheese which is being smoked at the end of the ripening. This gives the cheese a very characteristic taste. Pairing suggestions. The Dutch Chenin blanc, The Dutch Rose, Swinckels superior pilsener.",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/6/1/2/6120912.jpg",
+  "name": "Delre Dutch Smoked Cheese",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 7.75,
+    "lowPrice": 7.75,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-01T01:20:50.289Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "7.75",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/delre-cheese-smoked-dutch"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/delre-cheese-smoked-dutch"
+  ],
+  "sku": "6120912",
+  "updatedAt": "2022-12-01T01:20:50.289Z"
+}

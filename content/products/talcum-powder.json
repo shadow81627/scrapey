@@ -1,0 +1,58 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "<p><strong>INGREDIENTS:</strong> Talc, Fragrance, Tocopheryl Acetate, Aloe Barbadensis Leaf Extract.</p>"
+    },
+    {
+      "name": "Warning",
+      "value": "Cosmetic Warnings: Avoid contact with the delicate eye area Do not apply to irritated or damaged skin, stop if irritation persists For external use only"
+    },
+    {
+      "name": "Size",
+      "value": "200g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.00 per 100G"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Made in Malaysia"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2022-12-01T01:52:30.018Z",
+  "description": "Coles Talcum Powder has been specially formulated with soothing Aloe Vera and Vitamin E. The soft and velvety texture will gently absorb excess moisture while leaving your skin feeling smooth and refreshed.",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/6/8/3/6834861.jpg",
+  "name": "Talcum Powder",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2,
+    "lowPrice": 2,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-01T01:52:30.018Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "2.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-powder-talcum"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/coles-powder-talcum"
+  ],
+  "sku": "6834861",
+  "updatedAt": "2022-12-01T01:52:30.018Z"
+}

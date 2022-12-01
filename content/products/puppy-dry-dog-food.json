@@ -1,0 +1,54 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Meat & meat by-product (poultry); wheat and/or rice; sorghum and/or barley and/or corn; cereal protein; natural flavour (chicken); vitamins & minerals; beet pulp; salt; sodium tripolyphosphate; antioxidants; fish oil; vegetable oil; colostrum."
+    },
+    {
+      "name": "Contains",
+      "value": "Kibble"
+    },
+    {
+      "name": "Size",
+      "value": "3kg"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.70 per 100G"
+    }
+  ],
+  "brand": "Optimum",
+  "createdAt": "2022-12-01T01:35:18.804Z",
+  "description": "Optimum Puppy Dry Dog Food",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/8/9/9/8997583.jpg",
+  "name": "Puppy Dry Dog Food",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 21,
+    "lowPrice": 21,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-01T01:35:18.803Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "21.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/optimum-puppy-dog-food-dry"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/optimum-puppy-dog-food-dry"
+  ],
+  "sku": "8997583",
+  "updatedAt": "2022-12-01T01:35:18.803Z"
+}

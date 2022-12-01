@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "approx 140g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$4.50 per 1Kg"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2022-12-01T01:25:33.398Z",
+  "description": "Creme Gold potatoes have yellow smooth skin and cream coloured flesh, they are ideal for mashing, roasting or chipping. Potatoes are best stored in a cool dark space to prevent greening.",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/1/1/8/1182162.jpg",
+  "name": "Creme Gold Washed Potatoes Loose",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 0.63,
+    "lowPrice": 0.63,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-01T01:25:33.397Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "0.63",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/potatoes-creme-gold-loose"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/potatoes-creme-gold-loose"
+  ],
+  "sku": "1182162",
+  "updatedAt": "2022-12-01T01:25:33.397Z"
+}

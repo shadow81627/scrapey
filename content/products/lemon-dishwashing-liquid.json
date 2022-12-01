@@ -1,0 +1,50 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Water Sodium Laureth Sulphate Cocamidopropyl Betaine Sodium Xylenesulfonate Poloxamer 188 Fragrance Tetrasodium EDTA DMDM Hydantoin Methylchloroisothiazolinone Methylisothiazolinone CI 59040 CI 42090"
+    },
+    {
+      "name": "Size",
+      "value": "400mL"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.38 per 100mL"
+    }
+  ],
+  "brand": "Morning Fresh",
+  "createdAt": "2022-12-01T00:48:52.924Z",
+  "description": "Morning Fresh Lemon Dishwashing Liquid",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/2/2/2225395.jpg",
+  "name": "Lemon Dishwashing Liquid",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 5.5,
+    "lowPrice": 5.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-01T00:48:52.924Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "5.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/morning-fresh-lemon-dishwashing-liquid"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/morning-fresh-lemon-dishwashing-liquid"
+  ],
+  "sku": "2225395",
+  "updatedAt": "2022-12-01T00:48:52.924Z"
+}

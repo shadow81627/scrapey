@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Cupio"
+  },
+  "createdAt": "2022-12-01T03:27:39.922Z",
+  "description": "Cupio (v.) to desire, to long for. A vibrant sparkling Rosé with an expressive bouquet of rose petals and wild strawberries. Pinot Noir grapes harvested in the dark of the night create this dry, soft wine with lively bubbles that add lift and balance.",
+  "gtin13": "9311043839368",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/807164.jpg",
+  "name": "Cupio Dry Sparkling Rose 750mL",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 15,
+    "lowPrice": 15,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/OutOfStock",
+        "availabilityStarts": "2022-12-01T03:27:39.921Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 15,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/807164/cupio-dry-sparkling-rose"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/807164/cupio-dry-sparkling-rose"
+  ],
+  "sku": "807164",
+  "updatedAt": "2022-12-01T03:27:39.921Z"
+}

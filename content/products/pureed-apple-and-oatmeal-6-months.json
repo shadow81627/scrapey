@@ -1,0 +1,62 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Apple Puree (62%), Water, Oatmeal (7%) (Contains Traces of Wheat), Cinnamon Flavour."
+    },
+    {
+      "name": "Allergen",
+      "value": "Contains Gluten, Contains Wheat, Contains Oats"
+    },
+    {
+      "name": "Dietary",
+      "value": "No Added Sugars, No Preservatives"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "2.0"
+    },
+    {
+      "name": "Size",
+      "value": "170g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.88 per 100G"
+    }
+  ],
+  "brand": "Heinz",
+  "createdAt": "2022-12-01T02:01:57.889Z",
+  "description": "Heinz Pureed Apple & Oatmeal 6+ Months",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/8/7/7/8771988.jpg",
+  "name": "Pureed Apple & Oatmeal 6+ Months",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 1.5,
+    "lowPrice": 1.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-01T02:01:57.888Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "1.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/heinz-6-months--apple-and-oatmeal-baby-food"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/heinz-6-months--apple-and-oatmeal-baby-food"
+  ],
+  "sku": "8771988",
+  "updatedAt": "2022-12-01T02:01:57.888Z"
+}

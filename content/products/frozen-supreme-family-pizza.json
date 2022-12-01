@@ -1,0 +1,54 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Wheat Flour, Water, Mozzarella Cheese (Milk, Salt, Non Animal Rennet, Starter Culture), Processed Ham (11%) (Pork, Water, Potato Starch, Salt, Soy Protein, Pork Protein, Mineral Salts (450, 451, 508), Thickener (407a), Antioxidant (316), Hydrolysed Vegetable Protein, Fermented Rice, Preservative (250)), Tomato Paste, Capsicum (2.5%), Mushrooms (2.0%), Onions (1.5%), Flavours (Sugar, Salt, Natural Flavour, Thickener (415), Garlic Powder, Soybean Oil)), Vegetable Shortening, Canola Oil, Yeast, Salt, Soy Flour, Ascorbic Acid, Enzyme (Wheat)."
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "4.0"
+    },
+    {
+      "name": "Size",
+      "value": "500g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.50 per 100G"
+    }
+  ],
+  "brand": "McCain",
+  "createdAt": "2022-12-01T01:41:19.890Z",
+  "description": "A traditional family pizza topped with rich napoli sauce, mozzarella cheese, ham, capsicum and mushrooms.",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/5/1/251124.jpg",
+  "name": "Frozen Supreme Family Pizza",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 7.5,
+    "lowPrice": 7.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-01T01:41:19.890Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "7.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/mccain-pizza-family-supreme-frozen"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/mccain-pizza-family-supreme-frozen"
+  ],
+  "sku": "251124",
+  "updatedAt": "2022-12-01T01:41:19.890Z"
+}

@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "500g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$26.00 per 1Kg"
+    }
+  ],
+  "brand": "Tibaldi",
+  "createdAt": "2022-12-01T01:43:39.593Z",
+  "description": "Tibaldi Authentic Ham Off The Bone",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/6/1/2610341.jpg",
+  "name": "Authentic Ham Off The Bone",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 13,
+    "lowPrice": 13,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-01T01:43:39.593Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "13.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/tibaldi-authentic-ham-off-the-bone"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/tibaldi-authentic-ham-off-the-bone"
+  ],
+  "sku": "2610341",
+  "updatedAt": "2022-12-01T01:43:39.593Z"
+}

@@ -1,0 +1,42 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Unit Price",
+      "value": "$4.55 per 1ea"
+    }
+  ],
+  "brand": "Decor",
+  "createdAt": "2022-12-01T00:41:27.407Z",
+  "description": "Decor Microsafe Oblong Container 900mL",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/4/3/9/4396661.jpg",
+  "name": "Microsafe Oblong Container 900mL",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 4.55,
+    "lowPrice": 4.55,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-01T00:41:27.406Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "4.55",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/decor-microsafe-container-oblong-with-grid-4396661p"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/decor-microsafe-container-oblong-with-grid-4396661p"
+  ],
+  "sku": "4396661",
+  "updatedAt": "2022-12-01T00:41:27.406Z"
+}

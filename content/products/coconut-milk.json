@@ -2,12 +2,20 @@
   "@type": "Product",
   "additionalProperty": [
     {
+      "name": "Ingredients",
+      "value": "Coconut Extract (53%), Water."
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "5.0"
+    },
+    {
       "name": "Size",
       "value": "400mL"
     },
     {
       "name": "Unit Price",
-      "value": "$0.38 per 100mL"
+      "value": "$0.46 per 100mL"
     },
     {
       "name": "Country Of Origin",
@@ -16,29 +24,23 @@
   ],
   "brand": "TCC",
   "createdAt": "2020-10-12T05:22:04.000Z",
-  "description": "TCC Coconut Milk",
-  "image": {
-    "@type": "ImageObject",
-    "height": 300,
-    "mime": "image/jpeg",
-    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/2/5/5252521.jpg",
-    "width": 300
-  },
+  "description": "The creamy texture of TCC Premium Coconut Milk is ideal to use in curries, cakes, desserts and drinks.",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/2/5/5252521.jpg",
   "name": "Coconut Milk",
   "offers": {
     "@type": "AggregateOffer",
-    "highPrice": 1.5,
-    "lowPrice": 1.5,
+    "highPrice": 1.85,
+    "lowPrice": 1.85,
     "offerCount": 1,
     "offers": [
       {
         "@context": "http://schema.org",
         "@type": "Offer",
         "availability": "https://schema.org/InStock",
-        "availabilityStarts": "2020-11-15T05:26:37.412Z",
+        "availabilityStarts": "2022-12-01T03:55:03.575Z",
         "itemCondition": "https://schema.org/NewCondition",
         "offeredBy": "Coles",
-        "price": "1.50",
+        "price": "1.85",
         "priceCurrency": "AUD",
         "seller": {
           "@type": "Organization",
@@ -49,8 +51,8 @@
     ]
   },
   "sameAs": [
-    "https://shop.coles.com.au/a/sunnybank-hills/product/tcc-milk-coconut?adId=display_7_rnIKHE2tVmtphVoq8OcS1HgygxMzM1MTE3UA%3D%3D"
+    "https://shop.coles.com.au/a/national/product/tcc-milk-coconut"
   ],
   "sku": "5252521",
-  "updatedAt": "2020-11-15T05:26:37.412Z"
+  "updatedAt": "2022-12-01T03:55:03.575Z"
 }

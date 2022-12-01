@@ -1,0 +1,50 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Refer to www.henkel.com.au for full information"
+    },
+    {
+      "name": "Size",
+      "value": "3 pack"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$6.00 per 100G"
+    }
+  ],
+  "brand": "Bref",
+  "createdAt": "2022-12-01T03:13:49.368Z",
+  "description": "Bref Power Active Juicy Lemon Toilet Cleaner",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/4/7/3476040.jpg",
+  "name": "Power Active Juicy Lemon Toilet Cleaner",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 9,
+    "lowPrice": 9,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-01T03:13:49.366Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "9.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/bref-power-active-toilet-cleaner-triple-pack-lemon"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/bref-power-active-toilet-cleaner-triple-pack-lemon"
+  ],
+  "sku": "3476040",
+  "updatedAt": "2022-12-01T03:13:49.366Z"
+}

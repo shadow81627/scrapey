@@ -1,0 +1,50 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Contains",
+      "value": "80 Wipes"
+    },
+    {
+      "name": "Size",
+      "value": "1 pack"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$6.25 per 100Ea"
+    }
+  ],
+  "brand": "Rascal And Friends",
+  "createdAt": "2022-12-01T02:35:28.362Z",
+  "description": "Rascal And Friends Sensitive 80 Wipes",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/5/0/3505932.jpg",
+  "name": "Sensitive 80 Wipes",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 5,
+    "lowPrice": 5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-01T02:35:28.362Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "5.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/rascal-and-friends-sensitive-wipes"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/rascal-and-friends-sensitive-wipes"
+  ],
+  "sku": "3505932",
+  "updatedAt": "2022-12-01T02:35:28.362Z"
+}

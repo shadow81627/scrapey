@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Unit Price",
+      "value": "$2.20 per 1Ea"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Product of Mixed Origin"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2022-12-01T03:16:14.331Z",
+  "description": "Suddenly trendy and super versatile, Hass Avocado is not only great for taco Tuesday, its perfect for salad, pizza, desserts and of course the for the house deposit savvy, smashed avo on sourdough - at home!",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/9/0/5900530.jpg",
+  "name": "Hass Avocados",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2.2,
+    "lowPrice": 2.2,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-01T03:16:14.330Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "2.20",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/avocado-hass"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/avocado-hass"
+  ],
+  "sku": "5900530",
+  "updatedAt": "2022-12-01T03:16:14.330Z"
+}

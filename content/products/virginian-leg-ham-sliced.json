@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "approx. 100g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$20.00 per 1Kg"
+    }
+  ],
+  "brand": "Don",
+  "createdAt": "2022-12-01T02:48:35.506Z",
+  "description": "Don Deli Ham is a perfect choice for sandwiches, made with tender pork leg meat and delicately flavoured to suit everyone's palate!",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/0/5/3052929.jpg",
+  "name": "Virginian Leg Ham Sliced",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2,
+    "lowPrice": 2,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-01T02:48:35.506Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "2.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/don-virginian-ham"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/don-virginian-ham"
+  ],
+  "sku": "3052929",
+  "updatedAt": "2022-12-01T02:48:35.506Z"
+}

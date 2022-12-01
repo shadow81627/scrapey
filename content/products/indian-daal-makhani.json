@@ -1,0 +1,62 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "<p> Water, Black Lentils (22%), <strong>Cream</strong>, Tomato Paste, Onion Paste [Onion, Sunflower Oil], <strong>Butterfat</strong> (3.7%), <strong>Milk</strong> Fat(3.7%), Red Kidney Beans (3%), Sunflower Oil, Spices (Garlic, Ginger, Red Chilli, Cumin, Fenugreek), Salt, Garam Masala (<strong>Soy</strong>)</p>"
+    },
+    {
+      "name": "Allergen",
+      "value": "Contains SOY, Contains MILK"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "3.0"
+    },
+    {
+      "name": "Size",
+      "value": "300g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.00 per 100G"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Product of Mixed Origin"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2022-12-01T01:27:57.296Z",
+  "description": "Black lentils prepared in a creamy tomato sauce with ginger, garlic and Indian spice mix",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/2/6/3265282.jpg",
+  "name": "Indian Daal Makhani",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3,
+    "lowPrice": 3,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-01T01:27:57.295Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "3.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-indian-ready-to-eat-meal-dhal-makhani"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/coles-indian-ready-to-eat-meal-dhal-makhani"
+  ],
+  "sku": "3265282",
+  "updatedAt": "2022-12-01T01:27:57.295Z"
+}

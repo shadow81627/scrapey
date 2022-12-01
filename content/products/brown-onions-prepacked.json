@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "1kg"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$3.70 per 1Kg"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2022-12-01T03:37:12.035Z",
+  "description": "Brown onions have a brown or almost yellow papery skin and creamy flesh. They have a strong flavour and are excellent for cooking which is why they are the most widely used onion. With a pungent aroma and strong flavour, its an excellent all-round onion.",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/4/8/0/4803991.jpg",
+  "name": "Brown Onions Prepacked",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3.7,
+    "lowPrice": 3.7,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-01T03:37:12.034Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "3.70",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/onions-brown-prepacked-4803991p"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/onions-brown-prepacked-4803991p"
+  ],
+  "sku": "4803991",
+  "updatedAt": "2022-12-01T03:37:12.034Z"
+}

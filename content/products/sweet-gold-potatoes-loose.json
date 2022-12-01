@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "Approx. 350g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$2.00 per 1Kg"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2022-12-01T03:01:28.867Z",
+  "description": "Gold Sweet Potatoes have a red to gold skin and bright orange flesh, they are delicious alternative to standard potato. Sweet Potatoes are best stored in a cool, dry space.",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/4/1/9/4199503.jpg",
+  "name": "Sweet Gold Potatoes Loose",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 0.7,
+    "lowPrice": 0.7,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-01T03:01:28.866Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "0.70",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/potatoes-sweet-gold-loose"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/potatoes-sweet-gold-loose"
+  ],
+  "sku": "4199503",
+  "updatedAt": "2022-12-01T03:01:28.866Z"
+}

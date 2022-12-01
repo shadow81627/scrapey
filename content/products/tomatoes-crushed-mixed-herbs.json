@@ -1,0 +1,58 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "INGREDIENTS: Tomatoes 99% (Tomato, Tomato Juice), Oregano, Basil, Marjoram, Salt, Thyme, Garlic, Food Acid (Citric Acid)."
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "2.0"
+    },
+    {
+      "name": "Size",
+      "value": "400g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$3.00 per 1Kg"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Made in Italy"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2022-12-01T02:45:21.404Z",
+  "description": "Coles Canned tomatoes a great easy staple to have on hand in the pantry with so many uses for all the meal dishes you create",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/8/6/7/8675678.jpg",
+  "name": "Tomatoes Crushed Mixed Herbs",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 1.2,
+    "lowPrice": 1.2,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-01T02:45:21.403Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "1.20",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-tomatoes-crushed-with-mixed-herbs"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/coles-tomatoes-crushed-with-mixed-herbs"
+  ],
+  "sku": "8675678",
+  "updatedAt": "2022-12-01T02:45:21.403Z"
+}

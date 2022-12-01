@@ -1,0 +1,54 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "INGREDIENTS: Wheat Flour, Crumble (15%) (Wheat Flour, Sugar, Vegetable Fats and Oils, Emulsifiers (322 Soy, 471, 492), Antioxidants (307, 307b, 320), Dextrose, Salt, Natural Flavour, Natural Colour (160a), Water, Apple Pieces (12%) (Conc. Apple Puree, Invert Sugar, Sugar, Glycerol, Citrus Fibre, Malic Acid, Pectin (440), Natural Flavour) Cinnamon Flavoured Pieces (Sugar, Vegetable Fats, Milk Solids, Cinnamon Ground, Emulsifiers (322 Soy, 492)), Custard (4%) (Sugar, Thickeners (1414, Stabilisers (339, 450, 516), Vegetable Gum (401), Sucrose), Full Cream Milk Powder, Whey Powder, Food Acid (E331), Salt, Natural Colours (160a, 101), Natural Flavour), Sugar, Vegetable Oil, Dusting Sugar (Dextrose, Maize Starch, Interesterifed Palm Oil), Yeast, Wheat Gluten, Iodised Salt, Vitamins (Thiamine, Folic Acid)."
+    },
+    {
+      "name": "Allergen",
+      "value": "Contains SOY, Contains MILK, Contains CEREALS CONTAINING GLUTEN, Contains Wheat"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "8.0"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$4.25 per 1Ea"
+    }
+  ],
+  "brand": "Coles Bakery",
+  "createdAt": "2022-12-01T01:42:40.027Z",
+  "description": "Delicious sweet pastries, perfect size treat to share and conveniently packed for people on the go.",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/5/7/3575654.jpg",
+  "name": "Apple Crumble Log",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 4.25,
+    "lowPrice": 4.25,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-01T01:42:40.026Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "4.25",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-bakery-pull-apart-apple-crumble"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/coles-bakery-pull-apart-apple-crumble"
+  ],
+  "sku": "3575654",
+  "updatedAt": "2022-12-01T01:42:40.026Z"
+}

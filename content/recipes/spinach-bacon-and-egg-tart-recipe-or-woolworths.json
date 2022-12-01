@@ -1,58 +1,70 @@
 {
   "@type": "Recipe",
+  "author": {
+    "@type": "Person",
+    "name": "Fresh Ideas"
+  },
   "cookTime": "PT60M",
   "createdAt": "2022-11-24T03:17:47.000Z",
-  "datePublished": "2021-03-10",
+  "datePublished": "2022-09-26",
   "description": "Try our easy to follow Spinach, Bacon & Egg Tart recipe. Absolutely delicious with the best ingredients from Woolworths.",
-  "image": {
-    "@type": "ImageObject",
-    "height": 1300,
-    "mime": "image/png",
-    "url": "https://foodhub.scene7.com/is/image/woolworthsltdprod/1910-spinach-bacon-and-egg-tart-v1?wid=1300&hei=1300&fmt=png-alpha",
-    "width": 1300
-  },
-  "keywords": "Spinach, Bacon & Egg Tart",
+  "image": [
+    "https://foodhub.scene7.com/is/image/woolworthsltdprod/1910-spinach-bacon-and-egg-tart-v1:Square-1300x1300"
+  ],
+  "keywords": "Savoury pie & tart,Seafood free,Tree nut free,Egg,Low sugar,Sesame free,Discovery Garden,High protein,High fibre,Tomato,Spinach,Peanut free",
   "name": "Spinach, Bacon & Egg Tart Recipe | Woolworths",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "590 calories",
+    "carbohydrateContent": "35.8 g",
+    "fatContent": "36.5 g",
+    "fiberContent": "8.3 g",
+    "proteinContent": "25.0 g",
+    "saturatedFatContent": "17.7 g",
+    "sodiumContent": "888 millig",
+    "sugarContent": "6.1 g",
+    "transFatContent": "1.8 g"
+  },
   "prepTime": "PT10M",
-  "recipeCategory": "entrees",
-  "recipeCuisine": "european",
+  "recipeCategory": "Entrees",
+  "recipeCuisine": "French",
   "recipeId": "9768",
   "recipeIngredient": [
-    "1 brown onion, halved",
-    "1 bunch English spinach",
+    "1 brown onion, halved (thinly sliced)",
+    "1 bunch English spinach (chopped)",
     "2 tsp thyme leaves",
     "0.5 cup finely grated parmesan",
-    "60 g rocket leaves",
+    "60g rocket leaves (to serve)",
     "1 tbs olive oil",
-    "8 free range eggs",
-    "250 g light cream cheese",
-    "5 cocktail truss tomatoes",
-    "3 rashers streaky bacon",
-    "2 sheets Woolworths frozen shortcrust pastry"
+    "8 free range eggs (lightly whisked)",
+    "250g light cream cheese",
+    "5 cocktail truss tomatoes (halved)",
+    "3 rashers streaky bacon, finely sliced",
+    "2 sheets Woolworths frozen shortcrust pastry (thawed)"
   ],
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Beat cream cheese with a spatula until smooth. Gradually add egg, stirring until combined. Season and pour into pastry case. Top with spinach mixture and tomato. Scatter over parmesan. Place tin onto heated tray. Bake for 30-35 minutes or until golden and filling is set. Cool for 10 minutes then cut into pieces. Serve with rocket."
+      "HowToTip": {},
+      "text": "Heat oil in a frying pan over medium heat. Add onion, bacon and thyme and fry for 10 minutes or until onion is soft and bacon is golden. Add spinach and stir for 1-2 minutes or until just wilted. Set aside to cool."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Beat cream cheese with a spatula until smooth. Gradually add egg, stirring until combined. Season and pour into pastry case. Top with spinach mixture and tomato. Scatter over parmesan. Place tin onto heated tray. Bake for 30-35 minutes or until golden and filling is set. Cool for 10 minutes then cut into pieces. Serve with rocket."
+      "HowToTip": {},
+      "text": "Meanwhile, preheat oven to 190°C. Place a baking tray in the oven to preheat. Grease a 20x30cm baking tin and line with baking paper. Press pastry into tin, joining and trimming to fit. Prick base with a fork and par-cook for 10 minutes."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
+      "HowToTip": {},
       "text": "Beat cream cheese with a spatula until smooth. Gradually add egg, stirring until combined. Season and pour into pastry case. Top with spinach mixture and tomato. Scatter over parmesan. Place tin onto heated tray. Bake for 30-35 minutes or until golden and filling is set. Cool for 10 minutes then cut into pieces. Serve with rocket."
     }
   ],
   "recipeNameId": "spinach-bacon-and-egg-tart",
   "recipeYield": "6",
   "sameAs": [
-    "https://woolworths.com.au/shop/find-recipes/egg-and-bacon-tart"
+    "https://woolworths.com.au/shop/recipes/spinach-bacon-and-egg-tart"
   ],
   "totalTime": "PT70M",
-  "updatedAt": "2022-11-24T17:05:25.983Z",
+  "updatedAt": "2022-12-01T00:38:23.968Z",
   "url": "https://www.woolworths.com.au/shop/recipes/spinach-bacon-and-egg-tart"
 }

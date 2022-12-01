@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Southern Comfort"
+  },
+  "createdAt": "2022-12-01T03:32:44.862Z",
+  "description": "Southern Comfort is a tantalising fusion of peach, spices and Bourbon with a unique flavour that captures the essence of the American South. Traditionally enjoyed with cola, you can also drink it straight or with lemonade. Sold here in a 1 litre bottle.<br><br><strong>Spirit Type: </strong>American Whiskey<br><strong>Varietal: </strong>Whiskey Liqueurs<br><strong>Alcohol %: </strong>30<br><strong>Standard Drinks: </strong>24<br><strong>Country Of Origin: </strong>USA",
+  "gtin13": "88544017869",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/027353.jpg",
+  "name": "Southern Comfort Bourbon 1L",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 65,
+    "lowPrice": 65,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-12-01T03:32:44.861Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 65,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/27353/southern-comfort-bourbon"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/27353/southern-comfort-bourbon"
+  ],
+  "sku": "27353",
+  "updatedAt": "2022-12-01T03:32:44.862Z"
+}

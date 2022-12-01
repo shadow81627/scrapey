@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "The Glenlivet"
+  },
+  "createdAt": "2022-12-01T03:23:51.066Z",
+  "description": "Beautifully elegant, Glenlivet Scotch 12 rewards the discerning Scotch lover with subtle complexity made up of smokey, clover and honey flavours. A quality 12 year old from one of the world's most recognisable Scotch Whiskies.<br><br><strong>Spirit Type: </strong>Whisky<br><strong>Varietal: </strong>Single Malt Whisky<br><strong>Alcohol %: </strong>40<br><strong>Standard Drinks: </strong>22<br><strong>Country Of Origin: </strong>Scotland",
+  "gtin13": "87000006782",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/093651.jpg",
+  "name": "The Glenlivet Scotch 12 Year Old 12 Year Old 700mL",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 91,
+    "lowPrice": 91,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-12-01T03:23:51.065Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 91,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/93651/the-glenlivet-scotch-12-year-old-12-year-old"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/93651/the-glenlivet-scotch-12-year-old-12-year-old"
+  ],
+  "sku": "93651",
+  "updatedAt": "2022-12-01T03:23:51.065Z"
+}

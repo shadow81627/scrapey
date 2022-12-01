@@ -1,66 +1,77 @@
 {
   "@type": "Recipe",
+  "author": {
+    "@type": "Person",
+    "name": "Fresh Ideas"
+  },
   "cookTime": "PT55M",
   "createdAt": "2022-11-24T22:03:11.000Z",
-  "datePublished": "2021-03-10",
+  "datePublished": "2022-09-26",
   "description": "Try our easy to follow Beef Rib Ragu recipe. Absolutely delicious with the best ingredients from Woolworths.",
-  "image": {
-    "@type": "ImageObject",
-    "height": 1300,
-    "mime": "image/png",
-    "url": "https://foodhub.scene7.com/is/image/woolworthsltdprod/1607-beefribragu?wid=1300&hei=1300&fmt=png-alpha",
-    "width": 1300
-  },
-  "keywords": "Beef Rib Ragu",
+  "image": [
+    "https://foodhub.scene7.com/is/image/woolworthsltdprod/1607-beefribragu:Square-1300x1300"
+  ],
+  "keywords": "Ragu,High fibre,High protein,Winter,Low sugar,Beef,Pressure cooker",
   "name": "Beef Rib Ragu Recipe | Woolworths",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "1310 calories",
+    "carbohydrateContent": "44.5 g",
+    "fatContent": "66.5 g",
+    "fiberContent": "6.5 g",
+    "proteinContent": "128 g",
+    "saturatedFatContent": "23.8 g",
+    "sodiumContent": "1540 millig",
+    "sugarContent": "7.0 g"
+  },
   "prepTime": "PT10M",
-  "recipeCategory": "mains",
-  "recipeCuisine": "european",
+  "recipeCategory": "Mains",
+  "recipeCuisine": "Italian",
   "recipeId": "4657",
   "recipeIngredient": [
-    "2 cloves garlic",
+    "2 cloves garlic, crushed",
     "2 bay leaves",
     "1 cinnamon stick",
-    "1 carrot",
-    "1 brown onion",
-    "2 tsp flat-leaf parsley",
+    "1 carrot, chopped",
+    "1 brown onion, chopped",
+    "2 tsp flat-leaf parsley (to serve)",
     "2 cup beef stock",
-    "0.5 cup parmesan",
-    "100 g prosciutto",
+    "0.5 cup parmesan, shaved (to serve)",
+    "100g prosciutto, chopped",
     "1 tbs olive oil",
     "0.25 cup tomato paste",
-    "2 kg beef spare ribs",
+    "2kg beef spare ribs",
     "2 pkt pappardelle",
     "0.5 cup dry red wine"
   ],
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Meanwhile, cook pasta following packet instructions. Place in a serving bowl and toss with ragu. Serve topped with parmesan and parsley."
+      "HowToTip": {},
+      "text": "Heat oil in a pan over medium-high heat. Cook ribs, in batches, for 10 minutes or until well browned. Transfer to a bowl."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Meanwhile, cook pasta following packet instructions. Place in a serving bowl and toss with ragu. Serve topped with parmesan and parsley."
+      "HowToTip": {},
+      "text": "Add prosciutto, onion, carrot, garlic, bay leaves and cinnamon stick to pan. Cook, stirring frequently, for 10 minutes or until vegetables have softened. Transfer to pressure cooker. Stir in wine and tomato paste. Add ribs and any juices to cooker and pour over stock. Cover with lid and lock. Cook on high pressure for 35 minutes."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Meanwhile, cook pasta following packet instructions. Place in a serving bowl and toss with ragu. Serve topped with parmesan and parsley."
+      "HowToTip": {},
+      "text": "Open cooker. Remove and discard bay leaves and cinnamon stick. Transfer the ribs to a bowl. Strain liquid through a fine sieve into a bowl. Shred meat and add to bowl with sauce. Skim any fat from the surface."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
+      "HowToTip": {},
       "text": "Meanwhile, cook pasta following packet instructions. Place in a serving bowl and toss with ragu. Serve topped with parmesan and parsley."
     }
   ],
   "recipeNameId": "beef-rib-ragu",
   "recipeYield": "6",
   "sameAs": [
-    "https://woolworths.com.au/shop/find-recipes/beef-rib-sauce"
+    "https://woolworths.com.au/shop/recipes/beef-rib-ragu"
   ],
   "totalTime": "PT65M",
-  "updatedAt": "2022-11-24T15:59:14.835Z",
+  "updatedAt": "2022-12-01T02:13:08.606Z",
   "url": "https://www.woolworths.com.au/shop/recipes/beef-rib-ragu"
 }

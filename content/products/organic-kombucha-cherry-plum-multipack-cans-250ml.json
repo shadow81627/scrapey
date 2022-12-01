@@ -1,0 +1,50 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "4 pack"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$8.75 per 1Ea"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Made in Australia"
+    }
+  ],
+  "brand": "Remedy",
+  "createdAt": "2022-12-01T01:16:29.737Z",
+  "description": "Remedy Organic Kombucha Cherry Plum Multipack Cans 250mL",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/2/7/3277656.jpg",
+  "name": "Organic Kombucha Cherry Plum Multipack Cans 250mL",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 8.75,
+    "lowPrice": 8.75,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-01T01:16:29.736Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "8.75",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/remedy-kombucha-4x250ml-drinks-cherry-plum"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/remedy-kombucha-4x250ml-drinks-cherry-plum"
+  ],
+  "sku": "3277656",
+  "updatedAt": "2022-12-01T01:16:29.736Z"
+}

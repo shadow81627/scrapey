@@ -1,0 +1,66 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Vegetable Oil."
+    },
+    {
+      "name": "Contains",
+      "value": "0"
+    },
+    {
+      "name": "Allergen",
+      "value": "May Be Present Soy"
+    },
+    {
+      "name": "Dietary",
+      "value": "Cholesterol free, Omega 3"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "50.0"
+    },
+    {
+      "name": "Size",
+      "value": "750mL"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.73 per 100mL"
+    }
+  ],
+  "brand": "Crisco",
+  "createdAt": "2022-12-01T03:43:51.741Z",
+  "description": "Crisco Blended Vegetable Oil",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/1/2/6/126745.jpg",
+  "name": "Blended Vegetable Oil",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 5.5,
+    "lowPrice": 5.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-01T03:43:51.739Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "5.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/crisco-vegetable-oil-blended"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/crisco-vegetable-oil-blended"
+  ],
+  "sku": "126745",
+  "updatedAt": "2022-12-01T03:43:51.740Z"
+}

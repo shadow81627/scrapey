@@ -1,0 +1,54 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "<strong>INGREDIENTS:</strong> Sow Stall Australian Free Pork (80%), Water, Acidity Regulator (325, 262), Mineral Salts (451, 450), Salt, Sugar, Dextrose, Antioxidant (316), Preservative (250)."
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "4.0"
+    },
+    {
+      "name": "Size",
+      "value": "375g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$17.33 per 1Kg"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2022-12-01T03:00:05.230Z",
+  "description": "Sow Stall Free",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/9/8/5986922.jpg",
+  "name": "BUTCHER HAM STEAKS",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 6.5,
+    "lowPrice": 6.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-01T03:00:05.229Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "6.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-butcher-ham-steaks"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/coles-butcher-ham-steaks"
+  ],
+  "sku": "5986922",
+  "updatedAt": "2022-12-01T03:00:05.229Z"
+}

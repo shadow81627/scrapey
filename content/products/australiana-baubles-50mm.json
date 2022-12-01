@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "6 pack"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.33 per 1Ea"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2022-12-01T03:53:41.222Z",
+  "description": "Coles Australiana Baubles 50mm",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/3/6/5362950.jpg",
+  "name": "Australiana Baubles 50mm",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 8,
+    "lowPrice": 8,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-01T03:53:41.221Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "8.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/6-pack-50mm"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/6-pack-50mm"
+  ],
+  "sku": "5362950",
+  "updatedAt": "2022-12-01T03:53:41.221Z"
+}
