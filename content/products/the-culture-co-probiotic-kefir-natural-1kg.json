@@ -1,0 +1,59 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "500kJ",
+      "carbohydrateContent": "7.2g",
+      "dietary_fibre": "0",
+      "fatContent": "7g",
+      "name": "nutrition",
+      "proteinContent": "7g",
+      "saturatedFatContent": "4.6g",
+      "servingSize": "100 g",
+      "sodiumContent": "84mg",
+      "sugarContent": "7.2g"
+    }
+  ],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "The Culture Co."
+  },
+  "createdAt": "2022-12-01T07:01:01.028Z",
+  "description": "The Culture Co Probiotic Kefir Yogurt.  Get a good gut feeling with a unique blend of 13 strains of live cultures, including the probiotic BB12 scientifically proven to deliver gut health benefits.<BR><BR>Gut health is essential to immune health, and one of the best ways to optimise your gut health is through diet. Supporting your diet with probiotics can help support gut health. The Culture Co’s Probiotic Kefir Yoghurt comes with a billion probiotics in every serve. It’s tangy, smooth & delicious & delivers a daily dose that does you good.<BR><BR>Tangy and delicious probiotic kefir yoghurt with 13 strains of live cultures<BR><BR>Good for your gut - Packed with over 1 billion probiotics per serve proven to deliver a gut health benefit<BR><BR>Promotes healthy digestion and healthy muscles and bones<BR><BR>Available in plain or blueberry<BR><BR>Available in the 1kg pack size- a great option for breakfast, as part of a smoothie or a healthy snack simply on its own<BR><BR>Free from artificials, colours and preservatives.<BR><BR>Made in Victoria, Australia",
+  "gtin13": "9300658407901",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/617253.jpg",
+  "name": "The Culture Co. Probiotic Kefir Natural 1Kg",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": null,
+    "lowPrice": null,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/OutOfStock",
+        "availabilityStarts": "2022-12-01T07:01:01.026Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/617253/the-culture-co-probiotic-kefir-natural"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/617253/the-culture-co-probiotic-kefir-natural"
+  ],
+  "sku": "617253",
+  "updatedAt": "2022-12-01T07:01:01.026Z"
+}

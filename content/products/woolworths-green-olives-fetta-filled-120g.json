@@ -3,50 +3,51 @@
   "additionalProperty": [
     {
       "@type": "NutritionInformation",
-      "calories": "Approx. 697kJ",
-      "carbohydrateContent": "Approx. 3.2g",
-      "fatContent": "Approx. 16.3g",
+      "calories": "Approx.261kJ",
+      "carbohydrateContent": "&lt;1g",
+      "dietary_fibre": "-",
+      "fatContent": "Approx.6.4g",
       "name": "nutrition",
-      "proteinContent": "Approx. 2.3g",
-      "saturatedFatContent": "Approx. 4.9g",
+      "proteinContent": "&lt;1g",
+      "saturatedFatContent": "Approx.1.3g",
       "servingSize": "100 g",
-      "sodiumContent": "Approx. 891mg",
-      "sugarContent": "<1g"
+      "sodiumContent": "Approx.375mg",
+      "sugarContent": "&lt;1g"
     }
   ],
+  "aggregateRating": {
+    "@context": "http://schema.org",
+    "@type": "AggregateRating",
+    "ratingCount": 265,
+    "ratingValue": 4.40754716981132
+  },
   "brand": {
     "@context": "http://schema.org",
     "@type": "Organization",
-    "name": "woolworths"
+    "name": "Woolworths"
   },
   "createdAt": "2020-11-25T21:33:46.000Z",
   "gtin13": "9339687097661",
-  "image": {
-    "@type": "ImageObject",
-    "height": 1200,
-    "mime": "image/jpeg",
-    "url": "https://cdn0.woolworths.media/content/wowproductimages/large/039761.jpg",
-    "width": 1200
-  },
-  "name": "Woolworths Green Olives Fetta Filled 120g",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/039761.jpg",
+  "name": "Woolworths Green Olives Fetta Filled 120G",
   "offers": {
     "@type": "AggregateOffer",
-    "highPrice": 3.5,
-    "lowPrice": 3.5,
+    "highPrice": 4,
+    "lowPrice": 4,
     "offerCount": 1,
     "offers": [
       {
         "@context": "http://schema.org",
         "@type": "Offer",
         "availability": "http://schema.org/InStock",
-        "availabilityStarts": "2020-11-22T05:26:48.731Z",
+        "availabilityStarts": "2022-12-01T07:23:03.757Z",
         "itemCondition": "http://schema.org/NewCondition",
         "offeredBy": "Woolworths",
         "potentialAction": {
           "@context": "http://schema.org",
           "@type": "BuyAction"
         },
-        "price": 3.5,
+        "price": 4,
         "priceCurrency": "AUD",
         "seller": {
           "@type": "Organization",
@@ -60,5 +61,5 @@
     "https://woolworths.com.au/shop/productdetails/39761/woolworths-green-olives-fetta-filled"
   ],
   "sku": "39761",
-  "updatedAt": "2020-11-22T05:26:48.731Z"
+  "updatedAt": "2022-12-01T07:23:03.757Z"
 }

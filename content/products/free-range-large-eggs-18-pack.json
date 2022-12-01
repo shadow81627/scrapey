@@ -1,0 +1,58 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Shell Eggs"
+    },
+    {
+      "name": "Allergen",
+      "value": "Contains Egg"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "9.0"
+    },
+    {
+      "name": "Size",
+      "value": "900g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.05 per 100G"
+    }
+  ],
+  "brand": "Sunny Queen",
+  "createdAt": "2022-12-01T08:37:01.689Z",
+  "description": "Sunny Queen Free Range Large Eggs 18 pack",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/8/9/5/8953577.jpg",
+  "name": "Free Range Large Eggs 18 pack",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 9.45,
+    "lowPrice": 9.45,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-01T08:37:01.689Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "9.45",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/sunny-queen-farms-eggs-free-range-18-pack"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/sunny-queen-farms-eggs-free-range-18-pack"
+  ],
+  "sku": "8953577",
+  "updatedAt": "2022-12-01T08:37:01.689Z"
+}

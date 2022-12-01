@@ -1,0 +1,69 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1",
+    "ratingValue": "5"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Oh My Veggies"
+  },
+  "cookTime": "PT300M",
+  "createdAt": "2022-12-01T08:05:29.896Z",
+  "datePublished": "2018-09-14T06:00:06+00:00",
+  "description": "Homemade fruit leather made with fresh raspberries and peaches.",
+  "image": [
+    "https://ohmyveggies.com/wp-content/uploads/2011/09/raspberry_peach_fruit_leather_rolls.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2011/09/raspberry_peach_fruit_leather_rolls-500x367.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2011/09/raspberry_peach_fruit_leather_rolls-480x270.jpg"
+  ],
+  "keywords": "fruit leather recipe, how to make fruit leather, Raspberry Peach Fruit Leather, vegan candy",
+  "name": "Raspberry Peach Fruit Leather",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "251 kcal",
+    "carbohydrateContent": "60 g",
+    "fatContent": "2 g",
+    "fiberContent": "16 g",
+    "proteinContent": "5 g",
+    "saturatedFatContent": "1 g",
+    "servingSize": "1 serving",
+    "sodiumContent": "2 mg",
+    "sugarContent": "43 g",
+    "unsaturatedFatContent": "2 g"
+  },
+  "prepTime": "PT10M",
+  "recipeCategory": "Dessert",
+  "recipeCuisine": "American",
+  "recipeIngredient": [
+    "cooking spray or oil mister",
+    "2 ripe peaches (pitted and cut into large chunks)",
+    "6 oz. raspberries",
+    "1 tbsp. agave nectar or honey (more if the peaches or raspberries are on the tart side)"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Preheat oven to 175 degrees. Coat a rimmed baking sheet with cooking spray."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add all ingredients to food processor or blender and process until smooth. For seedless fruit leather, strain mixture through sieve. (I happen to love raspberry seeds!)"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Spread fruit evenly (this is really important!) onto baking sheet. Bake until fruit leather is dry, but still flexible. This is about 5 hours in my oven, but the cook time can vary, so keep an eye on your fruit leather as it cooks. Allow to cool and cut into strips using a pizza cutter or kitchen shears. Wrap each piece in wax paper and store in an airtight container or zip-top bag."
+    }
+  ],
+  "recipeYield": "1",
+  "sameAs": [
+    "https://ohmyveggies.com/raspberry-peach-fruit-leather"
+  ],
+  "suitableForDiet": [
+    "https://schema.org/VeganDiet",
+    "https://schema.org/VegetarianDiet"
+  ],
+  "totalTime": "PT310M",
+  "updatedAt": "2022-12-01T08:05:29.893Z"
+}

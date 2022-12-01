@@ -1,0 +1,80 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1",
+    "ratingValue": "5"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Sarah McMinn"
+  },
+  "cookTime": "PT40M",
+  "createdAt": "2022-12-01T07:58:41.944Z",
+  "datePublished": "2022-04-04T09:00:00+00:00",
+  "description": "This vegan breakfast casserole is completely eggless and gluten-free! Perfect for Christmas breakfast or whenever you&#39;re craving something hearty and savory, this casserole recipe is simply delicious and loaded with fresh vegetables like broccoli, mushrooms, and juicy tomatoes.",
+  "image": [
+    "https://www.mydarlingvegan.com/wp-content/uploads/2021/10/Vegan-Breakfast-Casserole-5.jpg",
+    "https://www.mydarlingvegan.com/wp-content/uploads/2021/10/Vegan-Breakfast-Casserole-5-500x500.jpg",
+    "https://www.mydarlingvegan.com/wp-content/uploads/2021/10/Vegan-Breakfast-Casserole-5-500x375.jpg",
+    "https://www.mydarlingvegan.com/wp-content/uploads/2021/10/Vegan-Breakfast-Casserole-5-480x270.jpg"
+  ],
+  "keywords": "vegan casserole breakfast, vegan broccoli casserole, vegan egg bake",
+  "name": "Vegan Breakfast Casserole",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "147 kcal",
+    "carbohydrateContent": "20 g",
+    "fatContent": "4 g",
+    "fiberContent": "4 g",
+    "proteinContent": "8 g",
+    "saturatedFatContent": "1 g",
+    "servingSize": "1 serving",
+    "sodiumContent": "322 mg",
+    "sugarContent": "4 g",
+    "unsaturatedFatContent": "3 g"
+  },
+  "prepTime": "PT20M",
+  "recipeCategory": "Breakfast",
+  "recipeCuisine": "American",
+  "recipeIngredient": [
+    "1/2 white onion, (chopped)",
+    "1 1/2 cup broccoli florets, (chopped)",
+    "1 1/2 cup button mushrooms, (sliced)",
+    "1/2 cup cherry tomatoes, (sliced)",
+    "2 cups chickpea flour",
+    "2 1/2 cup water",
+    "1 tablespoon olive oil",
+    "2 teaspoons Italian seasoning",
+    "1-2 teaspoons salt",
+    "1/4 teaspoon ground pepper"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Preheat the oven to 350F and oil a 9x7inch baking dish."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Chop the onion and broccoli and slice the mushrooms and cherry tomatoes. Add the chopped vegetables to the prepared baking dish, spreading them evenly along the bottom."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "In a bowl add the chickpea flour, water, Italian seasoning, salt, and black pepper. Mix well until smooth. Pour the chickpea flour mixture on top of the veggies."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Bake for 35-45 minutes until edges are golden and the top feels mostly set. Let cool for 10-15 minutes before serving."
+    }
+  ],
+  "recipeYield": "8",
+  "sameAs": [
+    "https://mydarlingvegan.com/vegan-breakfast-casserole"
+  ],
+  "suitableForDiet": [
+    "https://schema.org/GlutenFreeDiet",
+    "https://schema.org/VeganDiet"
+  ],
+  "totalTime": "PT60M",
+  "updatedAt": "2022-12-01T07:58:41.943Z"
+}

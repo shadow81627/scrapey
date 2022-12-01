@@ -1,0 +1,69 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "2",
+    "ratingValue": "5"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Oh My Veggies"
+  },
+  "createdAt": "2022-12-01T08:18:19.853Z",
+  "datePublished": "2016-08-08T08:40:57+00:00",
+  "description": "A simple and fresh summer salad filled with cucumber, peaches and fresh corn and finished with a honey and apple cider vinegar dressing.",
+  "image": [
+    "https://ohmyveggies.com/wp-content/uploads/2016/08/Cucumber_peach_corn_salad3.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2016/08/Cucumber_peach_corn_salad3-500x400.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2016/08/Cucumber_peach_corn_salad3-500x375.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2016/08/Cucumber_peach_corn_salad3-480x270.jpg"
+  ],
+  "keywords": "Cucumber, Peach and Corn Salad, vegan salad, vegetarian salad",
+  "name": "Cucumber, Peach and Corn Salad",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "225 kcal",
+    "carbohydrateContent": "22 g",
+    "fatContent": "15 g",
+    "fiberContent": "4 g",
+    "proteinContent": "5 g",
+    "saturatedFatContent": "2 g",
+    "servingSize": "1 serving",
+    "sodiumContent": "9 mg",
+    "sugarContent": "14 g",
+    "transFatContent": "1 g",
+    "unsaturatedFatContent": "12 g"
+  },
+  "prepTime": "PT15M",
+  "recipeCategory": "Main Course",
+  "recipeCuisine": "American",
+  "recipeIngredient": [
+    "2 medium cucumbers (peeled, halved lengthwise and sliced)",
+    "3 small peaches (sliced)",
+    "2 medium ears corn (kernels removed)",
+    "1/2 cup thinly sliced green onion",
+    "1/4 cup chopped fresh mint",
+    "1/4 cup sliced almonds",
+    "1/4 cup olive oil",
+    "1 1/2 tablespoons honey",
+    "1 1/2 tablespoons apple cider vinegar",
+    "1 clove garlic (minced)",
+    "Salt and pepper (to taste)"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "In a large bowl, add the cucumber, peaches, corn kernels, green onion, mint and almonds. Toss to combine."
+    }
+  ],
+  "recipeYield": "6",
+  "sameAs": [
+    "https://ohmyveggies.com/cucumber-peach-and-corn-salad"
+  ],
+  "suitableForDiet": [
+    "https://schema.org/VeganDiet",
+    "https://schema.org/VegetarianDiet"
+  ],
+  "totalTime": "PT15M",
+  "updatedAt": "2022-12-01T08:18:19.852Z"
+}

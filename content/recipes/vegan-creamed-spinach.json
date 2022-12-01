@@ -1,101 +1,75 @@
 {
   "@type": "Recipe",
-  "aggregateRating": {
-    "@type": "AggregateRating",
-    "ratingCount": "10",
-    "ratingValue": "5"
-  },
   "author": {
     "@type": "Person",
-    "name": "Alissa Saenz"
+    "name": "Sarah McMinn"
   },
-  "cookTime": "PT15M",
+  "cookTime": "PT5M",
   "createdAt": "2022-11-29T09:04:31.000Z",
-  "datePublished": "2020-11-11T09:41:14+00:00",
-  "description": "You&#039;d never guess this luscious creamed spinach was totally vegan! Loaded with flavor, easy to make, and totally free from dairy, it makes a great side for everything from holidays to weeknight dinners.",
+  "datePublished": "2021-12-23T08:36:24+00:00",
+  "description": "This vegan creamed spinach recipe is gluten-free, healthy, and so easy to make! Make this recipe with either frozen or fresh spinach, garlic, onion, and dairy-free butter for the best recipe for creamed spinach.",
   "image": [
-    "https://www.connoisseurusveg.com/wp-content/uploads/2020/11/vegan-creamed-spinach-9-of-12.jpg",
-    "https://www.connoisseurusveg.com/wp-content/uploads/2020/11/vegan-creamed-spinach-9-of-12-500x500.jpg",
-    "https://www.connoisseurusveg.com/wp-content/uploads/2020/11/vegan-creamed-spinach-9-of-12-500x375.jpg",
-    "https://www.connoisseurusveg.com/wp-content/uploads/2020/11/vegan-creamed-spinach-9-of-12-480x270.jpg"
+    "https://www.mydarlingvegan.com/wp-content/uploads/2021/11/Creamed-Spinach-6.jpg",
+    "https://www.mydarlingvegan.com/wp-content/uploads/2021/11/Creamed-Spinach-6-500x500.jpg",
+    "https://www.mydarlingvegan.com/wp-content/uploads/2021/11/Creamed-Spinach-6-500x375.jpg",
+    "https://www.mydarlingvegan.com/wp-content/uploads/2021/11/Creamed-Spinach-6-480x270.jpg"
   ],
-  "keywords": "dairy free recipes, vegan side dishes",
+  "keywords": "recipe for creamed spinach, easy creamed spinach recipe, creamed spinach best recipe",
   "name": "Vegan Creamed Spinach",
   "nutrition": {
     "@type": "NutritionInformation",
-    "calories": "161 kcal",
-    "carbohydrateContent": "8.9 g",
-    "fatContent": "13.6 g",
-    "fiberContent": "2.5 g",
-    "proteinContent": "3.4 g",
-    "saturatedFatContent": "9.7 g",
-    "servingSize": "0.5 cup",
-    "sodiumContent": "317 mg",
-    "sugarContent": "2.1 g"
+    "calories": "241 kcal",
+    "carbohydrateContent": "14 g",
+    "fatContent": "20 g",
+    "fiberContent": "8 g",
+    "proteinContent": "9 g",
+    "saturatedFatContent": "6 g",
+    "servingSize": "1 serving",
+    "sodiumContent": "548 mg",
+    "sugarContent": "3 g",
+    "transFatContent": "1 g",
+    "unsaturatedFatContent": "2 g"
   },
-  "prepTime": "PT15M",
-  "recipeCategory": "Side",
+  "prepTime": "PT5M",
+  "recipeCategory": "Side Dish",
   "recipeCuisine": "American",
   "recipeIngredient": [
-    "2 tablespoons vegan butter",
-    "1 small onion, (finely diced)",
-    "3 garlic cloves, (minced)",
-    "3 tablespoons all-purpose flour",
-    "1 cup full-fat coconut milk (from a can)",
-    "1/4 cup vegetable broth",
-    "1 teaspoon white wine vinegar",
-    "12 ounces fresh spinach, (very finely chopped)",
-    "Pinch nutmeg",
-    "Pinch cayenne pepper or crushed red pepper flakes",
-    "Salt and pepper, (to taste)",
-    "Chopped scallions or chives (for serving, optional)"
+    "28 ounces spinach (fresh)",
+    "1 White onion (diced)",
+    "4 Garlic cloves (minced)",
+    "2 Tablespoons vegan butter",
+    "1 1/2 Cup Vegan cream",
+    "1/2 Cup unsweetened plant based milk",
+    "2-3 Tablespoons nutritional yeast",
+    "1/2 Teaspoon salt",
+    "Pinch of pepper and nutmeg"
   ],
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "text": "Melt the butter in a large skillet over medium heat."
+      "text": "In a nonstick skillet, melt butter over medium-high heat and add the onion. Sauté until softened and translucent, about 2-3 minutes. Then add garlic and cook for a few seconds until fragrant, stirring constantly."
     },
     {
       "@type": "HowToStep",
-      "text": "Once the butter is melted and bubbling, add the onion. Cook the onion for about 5 minutes, stirring occasionally, until soft and translucent."
+      "text": "Add the vegan cream, milk, nutritional yeast, salt, pepper, and nutmeg. Stir until well combined. Bring to a low simmer and cook for a few minutes. The sauce should thicken slightly as it cooks."
     },
     {
       "@type": "HowToStep",
-      "text": "Stir in the garlic. Continue cooking and stirring until the garlic becomes very fragrant, about 1 minute."
+      "text": "Add the spinach into cream sauce until evenly combined, cooking for an additional minute or so until the spinach is wilted all the way through."
     },
     {
       "@type": "HowToStep",
-      "text": "Begin sprinkling in the flour, a bit at a time, stirring between each addition to form a paste that coats the onions."
-    },
-    {
-      "@type": "HowToStep",
-      "text": "Once all of the flour has been added, begin stirring in the coconut milk, a bit at a time. Continue until all of the coconut milk has been added and incorporated with the flour."
-    },
-    {
-      "@type": "HowToStep",
-      "text": "Stir in the broth and vinegar."
-    },
-    {
-      "@type": "HowToStep",
-      "text": "Begin stirring in the spinach, a handful at a time. Let each handful wilt before adding the next. Stir in the nutmeg and cayenne pepper or red pepper flakes."
-    },
-    {
-      "@type": "HowToStep",
-      "text": "Bring the liquid to a boil, lower the heat and let the mixture simmer for 7 to 8 minutes, until the sauce is thick and the spinach is tender."
-    },
-    {
-      "@type": "HowToStep",
-      "text": "Remove the skillet from heat and season the mixture with salt and pepper to taste."
-    },
-    {
-      "@type": "HowToStep",
-      "text": "Divide onto plates and serve. Optionally top each serving with scallions or chives."
+      "text": "Taste and adjust seasoning, if necessary. (If the spinach seems a little watery, cook over medium-low heat for a few minutes until any excess liquid evaporates.)"
     }
   ],
   "recipeYield": "6",
   "sameAs": [
-    "https://connoisseurusveg.com/vegan-creamed-spinach"
+    "https://mydarlingvegan.com/vegan-creamed-spinach"
   ],
-  "totalTime": "PT30M",
-  "updatedAt": "2022-11-29T06:25:53.605Z"
+  "suitableForDiet": [
+    "https://schema.org/GlutenFreeDiet",
+    "https://schema.org/VeganDiet"
+  ],
+  "totalTime": "PT10M",
+  "updatedAt": "2022-12-01T08:12:42.712Z"
 }

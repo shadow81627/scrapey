@@ -6,34 +6,28 @@
     "@type": "Organization"
   },
   "createdAt": "2020-10-12T05:22:04.000Z",
-  "description": "Round sour fruit, slightly smaller than a lemon and green in colour. Great in dressings, desserts and drinks.",
+  "description": "Round sour fruit, slightly smaller than a lemon and green in colour. <br>Great in dressings, desserts and drinks.",
   "gtin13": "0264048000006",
-  "image": {
-    "@type": "ImageObject",
-    "height": 1200,
-    "mime": "image/jpeg",
-    "url": "https://cdn0.woolworths.media/content/wowproductimages/large/245902.jpg",
-    "width": 1200
-  },
-  "name": "Lime Fresh each",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/245902.jpg",
+  "name": "Lime Fresh Each",
   "offers": {
     "@type": "AggregateOffer",
-    "highPrice": 0.79,
-    "lowPrice": 0.79,
+    "highPrice": 1.52,
+    "lowPrice": 1.52,
     "offerCount": 1,
     "offers": [
       {
         "@context": "http://schema.org",
         "@type": "Offer",
         "availability": "http://schema.org/InStock",
-        "availabilityStarts": "2020-11-22T05:25:02.820Z",
+        "availabilityStarts": "2022-12-01T06:34:45.882Z",
         "itemCondition": "http://schema.org/NewCondition",
         "offeredBy": "Woolworths",
         "potentialAction": {
           "@context": "http://schema.org",
           "@type": "BuyAction"
         },
-        "price": 0.79,
+        "price": 1.52,
         "priceCurrency": "AUD",
         "seller": {
           "@type": "Organization",
@@ -47,5 +41,5 @@
     "https://woolworths.com.au/shop/productdetails/245902/lime-fresh"
   ],
   "sku": "245902",
-  "updatedAt": "2020-11-22T05:25:02.820Z"
+  "updatedAt": "2022-12-01T06:34:45.882Z"
 }

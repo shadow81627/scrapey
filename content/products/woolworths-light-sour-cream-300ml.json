@@ -3,22 +3,23 @@
   "additionalProperty": [
     {
       "@type": "NutritionInformation",
-      "calories": "Approx. 807kJ",
-      "carbohydrateContent": "Approx. 3.1g",
-      "fatContent": "Approx. 19.1g",
+      "calories": "Approx.229kJ",
+      "carbohydrateContent": "&lt;1g",
+      "dietary_fibre": "-",
+      "fatContent": "Approx.5.4g",
       "name": "nutrition",
-      "proteinContent": "Approx. 2.8g",
-      "saturatedFatContent": "Approx. 13.1g",
+      "proteinContent": "&lt;1g",
+      "saturatedFatContent": "Approx.3.5g",
       "servingSize": "100 g",
-      "sodiumContent": "Approx. 31mg",
-      "sugarContent": "Approx. 2.8g"
+      "sodiumContent": "Approx.10mg",
+      "sugarContent": "&lt;1g"
     }
   ],
   "aggregateRating": {
     "@context": "http://schema.org",
     "@type": "AggregateRating",
-    "ratingCount": 774,
-    "ratingValue": 4.34
+    "ratingCount": 723,
+    "ratingValue": 4.69986168741355
   },
   "brand": {
     "@context": "http://schema.org",
@@ -26,46 +27,40 @@
     "name": "Woolworths"
   },
   "createdAt": "2020-11-25T21:33:46.000Z",
-  "description": "40% less fat1\n1 Contains 40% less fat the Woolworths Sour Cream.\n\nWoolworths Light Sour Cream, made with fresh cream, delicious in a wrap",
-  "gtin13": "9300633901028",
-  "image": {
-    "@type": "ImageObject",
-    "height": 1200,
-    "mime": "image/jpeg",
-    "url": "https://cdn0.woolworths.media/content/wowproductimages/large/205663.jpg",
-    "width": 1200
-  },
-  "name": "Woolworths Light Sour Cream 300ML",
+  "description": "Light (1) sour cream \n(1) Contains 45% less fat than Woolworths Sour Cream",
+  "gtin13": "9339687256600",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/205663.jpg",
+  "name": "Woolworths Light Sour Cream 300mL",
   "offers": {
     "@type": "AggregateOffer",
-    "highPrice": 2.1,
-    "lowPrice": 2.1,
+    "highPrice": 3.25,
+    "lowPrice": 3.25,
     "offerCount": 1,
     "offers": [
       {
         "@context": "http://schema.org",
         "@type": "Offer",
         "availability": "http://schema.org/InStock",
-        "availabilityStarts": "2020-11-22T05:26:06.256Z",
+        "availabilityStarts": "2022-12-01T06:28:53.064Z",
         "itemCondition": "http://schema.org/NewCondition",
         "offeredBy": "Woolworths",
         "potentialAction": {
           "@context": "http://schema.org",
           "@type": "BuyAction"
         },
-        "price": 2.1,
+        "price": 3.25,
         "priceCurrency": "AUD",
         "seller": {
           "@type": "Organization",
           "name": "Woolworths"
         },
-        "url": "https://woolworths.com.au/shop/productdetails/205663/woolworths-light-sour-cream?reviewPageNumber=9"
+        "url": "https://woolworths.com.au/shop/productdetails/205663/woolworths-light-sour-cream"
       }
     ]
   },
   "sameAs": [
-    "https://woolworths.com.au/shop/productdetails/205663/woolworths-light-sour-cream?reviewPageNumber=9"
+    "https://woolworths.com.au/shop/productdetails/205663/woolworths-light-sour-cream"
   ],
   "sku": "205663",
-  "updatedAt": "2020-11-22T05:26:06.256Z"
+  "updatedAt": "2022-12-01T06:28:53.064Z"
 }

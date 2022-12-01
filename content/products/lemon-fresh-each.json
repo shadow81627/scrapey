@@ -1,39 +1,47 @@
 {
   "@type": "Product",
-  "additionalProperty": [],
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "-",
+      "carbohydrateContent": "-",
+      "dietary_fibre": "-",
+      "fatContent": "-",
+      "name": "nutrition",
+      "proteinContent": "-",
+      "saturatedFatContent": "-",
+      "servingSize": "100 g",
+      "sodiumContent": "-",
+      "sugarContent": "-"
+    }
+  ],
   "brand": {
     "@context": "http://schema.org",
     "@type": "Organization"
   },
   "createdAt": "2020-11-25T21:33:46.000Z",
-  "description": "This product varies by state. Please review the product packaging for specific details when you receive this product, including nutritional information and country of origin, before consuming.AllergenAs this product varies by state, please review the product packaging when you receive your order for allergen information to determine whether this product is suitable for you before consuming, particularly if you suffer from a food allergy or intolerance.",
+  "description": "<div><em>This product varies by state. Please review the product packaging for specific details when you receive this product, including nutritional information and country of origin, before consuming.<br><br></em><strong>Allergen<br><br></strong><em>As this product varies by state, please review the product packaging when you receive your order for allergen information to determine whether this product is suitable for you before consuming, particularly if you suffer from a food allergy or intolerance.</em></div>",
   "gtin13": "0266462000006",
-  "image": {
-    "@type": "ImageObject",
-    "height": 1200,
-    "mime": "image/jpeg",
-    "url": "https://cdn0.woolworths.media/content/wowproductimages/large/259514.jpg",
-    "width": 1200
-  },
-  "name": "Lemon Fresh each",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/259514.jpg",
+  "name": "Lemon Fresh Each",
   "offers": {
     "@type": "AggregateOffer",
-    "highPrice": 1.68,
-    "lowPrice": 1.68,
+    "highPrice": 1.21,
+    "lowPrice": 1.21,
     "offerCount": 1,
     "offers": [
       {
         "@context": "http://schema.org",
         "@type": "Offer",
         "availability": "http://schema.org/InStock",
-        "availabilityStarts": "2020-11-22T06:41:36.051Z",
+        "availabilityStarts": "2022-12-01T08:03:31.025Z",
         "itemCondition": "http://schema.org/NewCondition",
         "offeredBy": "Woolworths",
         "potentialAction": {
           "@context": "http://schema.org",
           "@type": "BuyAction"
         },
-        "price": 1.68,
+        "price": 1.21,
         "priceCurrency": "AUD",
         "seller": {
           "@type": "Organization",
@@ -47,5 +55,5 @@
     "https://woolworths.com.au/shop/productdetails/259514/lemon-fresh"
   ],
   "sku": "259514",
-  "updatedAt": "2020-11-22T06:41:36.051Z"
+  "updatedAt": "2022-12-01T08:03:31.025Z"
 }

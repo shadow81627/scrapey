@@ -1,0 +1,97 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1",
+    "ratingValue": "5"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Oh My Veggies"
+  },
+  "cookTime": "PT30M",
+  "createdAt": "2022-12-01T07:21:56.010Z",
+  "datePublished": "2022-10-11T08:58:56+00:00",
+  "description": "This vegan gumbo is packed with fresh veggies and plenty of Creole flavor, and it's ready in just 30 minutes!",
+  "image": [
+    "https://ohmyveggies.com/wp-content/uploads/2022/10/Vegan-Gumbo-1200px-square.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2022/10/Vegan-Gumbo-1200px-square-500x500.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2022/10/Vegan-Gumbo-1200px-square-500x375.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2022/10/Vegan-Gumbo-1200px-square-480x270.jpg"
+  ],
+  "keywords": "gumbo recipe, how to make gumbo, vegan gumbo, Vegetarian Gumbo",
+  "name": "Vegan Gumbo",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "325 kcal",
+    "carbohydrateContent": "51 g",
+    "fatContent": "10 g",
+    "fiberContent": "10 g",
+    "proteinContent": "10 g",
+    "saturatedFatContent": "3 g",
+    "servingSize": "1 serving",
+    "sodiumContent": "840 mg",
+    "sugarContent": "6 g",
+    "transFatContent": "0.1 g",
+    "unsaturatedFatContent": "7 g"
+  },
+  "prepTime": "PT20M",
+  "recipeCategory": "Main Course",
+  "recipeCuisine": "American",
+  "recipeIngredient": [
+    "1/4 cup vegan butter",
+    "1 onion (sliced thick)",
+    "4 stalks celery (sliced thick)",
+    "2 green peppers (sliced)",
+    "2 cloves garlic (minced)",
+    "1/4 cup flour",
+    "2 tablespoons creole seasoning",
+    "3 cups vegetable broth",
+    "1 lb potatoes (peeled and cubed)",
+    "1 can red kidney beans (rinsed and drained)",
+    "1 bay leaf",
+    "Salt and pepper to taste"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "image": "https://ohmyveggies.com/wp-content/uploads/2022/10/vegan-gumbo-2-of-17.jpg",
+      "text": "In a large stockpot, melt the butter over medium heat, then add the onion, celery, green peppers and cook, stirring frequently, until veggies start to soften"
+    },
+    {
+      "@type": "HowToStep",
+      "image": "https://ohmyveggies.com/wp-content/uploads/2022/10/vegan-gumbo-3-of-17.jpg",
+      "text": "Add the garlic and cook one additional minute, then sprinkle the flour, creole seasoning over the veggies and stir"
+    },
+    {
+      "@type": "HowToStep",
+      "image": "https://ohmyveggies.com/wp-content/uploads/2022/10/vegan-gumbo-4-of-17.jpg",
+      "text": "Gradually stir in the vegetable broth."
+    },
+    {
+      "@type": "HowToStep",
+      "image": "https://ohmyveggies.com/wp-content/uploads/2022/10/vegan-gumbo-5-of-17.jpg",
+      "text": "Then add in the potatoes and kidney beans and bay leaf"
+    },
+    {
+      "@type": "HowToStep",
+      "image": "https://ohmyveggies.com/wp-content/uploads/2022/10/vegan-gumbo-6-of-17.jpg",
+      "text": "Bring mixture to a simmer, cover, and cook for 30 minutes"
+    },
+    {
+      "@type": "HowToStep",
+      "image": "https://ohmyveggies.com/wp-content/uploads/2022/10/vegan-gumbo-14-of-17.jpg",
+      "text": "Add salt and pepper to taste, serve warm with rice"
+    }
+  ],
+  "recipeYield": "4",
+  "sameAs": [
+    "https://ohmyveggies.com/vegan-gumbo"
+  ],
+  "suitableForDiet": [
+    "https://schema.org/VeganDiet",
+    "https://schema.org/VegetarianDiet"
+  ],
+  "totalTime": "PT50M",
+  "updatedAt": "2022-12-01T07:21:56.009Z"
+}

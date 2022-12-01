@@ -1,0 +1,131 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "151",
+    "ratingValue": "4.99"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Sam Turnbull • It Doesn't Taste Like Chicken"
+  },
+  "cookTime": "PT40M",
+  "createdAt": "2022-12-01T07:13:34.006Z",
+  "datePublished": "2015-07-17T19:01:56+00:00",
+  "description": "This Tofu Bolognese recipe is to die for. Quick, easy, healthy, vegetarian, vegan, gluten-free, hearty, and lick the bowl scrumptious. Just like traditional bolognese but better!Inspired by The Sexy Vegan Cookbook",
+  "image": [
+    "https://itdoesnttastelikechicken.com/wp-content/uploads/2015/07/Tofu-Bolognese.jpg",
+    "https://itdoesnttastelikechicken.com/wp-content/uploads/2015/07/Tofu-Bolognese-500x500.jpg",
+    "https://itdoesnttastelikechicken.com/wp-content/uploads/2015/07/Tofu-Bolognese-500x375.jpg",
+    "https://itdoesnttastelikechicken.com/wp-content/uploads/2015/07/Tofu-Bolognese-480x270.jpg"
+  ],
+  "mentions": [
+    {
+      "@id": "https://itdoesnttastelikechicken.com/tag/pasta/#id",
+      "@type": "http://schema.org/Thing",
+      "description": "Pasta (Italian pronunciation: ) is a staple food of traditional Italian cuisine, with the first reference dating to 1154 in Sicily. It is also commonly used to refer to the variety of pasta dishes. Typically, pasta is a noodle made from an unleavened dough of a durum wheat flour mixed with water or eggs and...",
+      "name": "pasta",
+      "sameAs": [
+        "http://el.dbpedia.org/resource/Ζυμαρικό",
+        "http://rdf.freebase.com/ns/m.05z55",
+        "http://ko.dbpedia.org/resource/파스타",
+        "http://pt.dbpedia.org/resource/Massa_alimentícia",
+        "http://it.dbpedia.org/resource/Pasta",
+        "http://es.dbpedia.org/resource/Pasta",
+        "http://pl.dbpedia.org/resource/Makaron",
+        "https://en.wikipedia.org/wiki/Pasta",
+        "http://nl.dbpedia.org/resource/Pasta_(deegwaar)",
+        "http://wikidata.dbpedia.org/resource/Q178",
+        "http://fr.dbpedia.org/resource/Pâtes_alimentaires",
+        "http://www.wikidata.org/entity/Q178",
+        "http://de.dbpedia.org/resource/Pasta",
+        "http://ja.dbpedia.org/resource/パスタ",
+        "http://purl.obolibrary.org/obo/FOODON_03306347",
+        "http://cs.dbpedia.org/resource/Těstoviny",
+        "http://id.dbpedia.org/resource/Pasta",
+        "http://eu.dbpedia.org/resource/Pasta_(orea)",
+        "http://dbpedia.org/resource/Pasta",
+        "https://knowledge.cafemedia.com/food/entity/pasta"
+      ]
+    },
+    {
+      "@id": "https://itdoesnttastelikechicken.com/tag/tofu/#id",
+      "@type": "http://schema.org/Thing",
+      "description": "Tofu, also known as bean curd, is a food made by coagulating soy milk and then pressing the resulting curds into soft white blocks. It is a component in East Asian and Southeast Asian cuisines. Tofu can be soft, firm, or extra firm. Tofu has a subtle flavor and can be used in savory and...",
+      "name": "bean curd",
+      "sameAs": [
+        "http://el.dbpedia.org/resource/Τόφου",
+        "http://es.dbpedia.org/resource/Tofu",
+        "http://dbpedia.org/resource/Tofu",
+        "http://id.dbpedia.org/resource/Tahu",
+        "http://www.wikidata.org/entity/Q177378",
+        "http://rdf.freebase.com/ns/m.07s28",
+        "http://purl.obolibrary.org/obo/FOODON_03301839",
+        "http://pl.dbpedia.org/resource/Tofu",
+        "http://wikidata.dbpedia.org/resource/Q177378",
+        "http://fr.dbpedia.org/resource/Tofu",
+        "http://ko.dbpedia.org/resource/두부",
+        "http://d-nb.info/gnd/4060337-4",
+        "https://en.wikipedia.org/wiki/Tofu",
+        "http://cs.dbpedia.org/resource/Tofu",
+        "http://nl.dbpedia.org/resource/Tofoe",
+        "http://de.dbpedia.org/resource/Tofu",
+        "http://ja.dbpedia.org/resource/豆腐",
+        "http://it.dbpedia.org/resource/Tōfu",
+        "http://eu.dbpedia.org/resource/Tofu",
+        "http://pt.dbpedia.org/resource/Tofu",
+        "https://knowledge.cafemedia.com/food/entity/bean_curd"
+      ]
+    }
+  ],
+  "name": "Tofu Bolognese",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "515 kcal",
+    "carbohydrateContent": "96 g",
+    "fatContent": "5 g",
+    "fiberContent": "7 g",
+    "proteinContent": "19 g",
+    "servingSize": "1 serving",
+    "sodiumContent": "1230 mg",
+    "sugarContent": "10 g"
+  },
+  "prepTime": "PT5M",
+  "recipeCategory": "Main Course",
+  "recipeCuisine": "Italian",
+  "recipeIngredient": [
+    "2 tablespoons nutritional yeast",
+    "1 tablespoon soy sauce (gluten-free if preferred) )",
+    "1 tablespoon olive oil",
+    "1 teaspoon chili powder",
+    "1/2 teaspoon garlic powder",
+    "1/4 teaspoon liquid smoke",
+    "1 block (350g) extra-firm tofu, (drained (no need to press it)",
+    "3 cups tomato sauce (700ml jar or homemade)",
+    "1 pound spaghetti or pasta of choice (gluten-free if preferred)"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Preheat your oven to 350F (180C). Line with parchment paper or lightly grease a large baking sheet."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Mix the nutritional yeast, soy sauce, olive oil chili powder, garlic powder, and liquid smoke together in a large bowl. It will make a brown paste-like texture."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Crumble the block of tofu with your fingers into the bowl along with the seasoning. Mix the tofu crumbles with the seasoning making sure all of the tofu is evenly coated. Spread the tofu crumbles evenly over the pan. Bake for 35 to 45 minutes, stopping to stir the tofu every now and then. Keep a close eye on it towards the end so that it doesn't burn. You want the tofu to be nice and browned. The smaller crumbles will be darker than the larger crumbles, and that's ok because it will provide a variety of texture."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "In the meantime heat the tomato sauce, and cook pasta according to package directions. Stir the tofu into the sauce, and heat through. If you find the sauce is too thick, stir in a bit of water until desired consistency is reached. Serve over hot pasta with a sprinkle of Parmegan."
+    }
+  ],
+  "recipeYield": "4",
+  "sameAs": [
+    "https://itdoesnttastelikechicken.com/tofu-bolognese"
+  ],
+  "totalTime": "PT45M",
+  "updatedAt": "2022-12-01T07:13:34.005Z"
+}

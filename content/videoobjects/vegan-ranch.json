@@ -1,0 +1,20 @@
+{
+  "@type": "VideoObject",
+  "contentUrl": "https://cdn.jwplayer.com/manifests/9XrjxSYe.m3u8",
+  "createdAt": "2022-12-01T06:01:11.152Z",
+  "description": "Easy Vegan Ranch Dressing or Dip",
+  "duration": "PT0M58S",
+  "embedUrl": "https://yupitsvegan.com/about/press",
+  "name": "Vegan Ranch",
+  "potentialAction": {
+    "@type": "SeekToAction",
+    "startOffset-input": "required name=seek_to_second_number",
+    "target": "https://yupitsvegan.com/about/press?jw_start={seek_to_second_number}"
+  },
+  "sameAs": [
+    "https://yupitsvegan.com/about/press"
+  ],
+  "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/9XrjxSYe/poster.jpg?width=720",
+  "updatedAt": "2022-12-01T06:01:11.151Z",
+  "uploadDate": "2019-06-10T12:39:58.000Z"
+}

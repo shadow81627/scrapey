@@ -1,0 +1,152 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1",
+    "ratingValue": "5"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Yup, it's Vegan"
+  },
+  "cookTime": "PT45M",
+  "createdAt": "2022-12-01T05:38:04.678Z",
+  "datePublished": "2015-04-16T07:00:14+00:00",
+  "description": "Easy vegan spinach artichoke falafel, baked instead of fried and made totally gluten- and grain-free!",
+  "image": [
+    "https://yupitsvegan.com/wp-content/uploads/2015/05/baked-vegan-spinach-artichoke-falafel-2.jpg"
+  ],
+  "keywords": "spinach artichoke falafel",
+  "mentions": [
+    {
+      "@id": "https://yupitsvegan.com/tag/high-vegetable/#id",
+      "@type": "http://schema.org/Thing",
+      "description": "In everyday usage, a vegetable is any part of a plant that is consumed by humans as food as part of a savory meal. The term vegetable is somewhat arbitrary, and largely defined through culinary and cultural tradition. It normally excludes other food derived from plants such as fruits, nuts and cereal grains, but includes...",
+      "name": "vegetable",
+      "sameAs": [
+        "http://ko.dbpedia.org/resource/채소",
+        "http://wikidata.dbpedia.org/resource/Q11004",
+        "http://eu.dbpedia.org/resource/Barazki",
+        "http://purl.obolibrary.org/obo/FOODON_00002141",
+        "http://pl.dbpedia.org/resource/Warzywa",
+        "http://fr.dbpedia.org/resource/Légume",
+        "https://en.wikipedia.org/wiki/Vegetable",
+        "http://de.dbpedia.org/resource/Gemüse",
+        "http://el.dbpedia.org/resource/Λαχανικό",
+        "http://rdf.freebase.com/ns/m.0f4s2w",
+        "http://nl.dbpedia.org/resource/Groente",
+        "http://cs.dbpedia.org/resource/Zelenina",
+        "http://es.dbpedia.org/resource/Verdura",
+        "http://www.wikidata.org/entity/Q11004",
+        "http://dbpedia.org/resource/Vegetable",
+        "http://d-nb.info/gnd/4020069-3",
+        "http://it.dbpedia.org/resource/Verdura",
+        "http://ja.dbpedia.org/resource/野菜",
+        "http://id.dbpedia.org/resource/Sayuran",
+        "https://knowledge.cafemedia.com/food/entity/fruit_vegetable"
+      ]
+    },
+    {
+      "@id": "https://yupitsvegan.com/tag/legumes/#id",
+      "@type": "http://schema.org/Thing",
+      "description": "A legume (/ˈlɛɡjuːm/ or /ˌləˈɡjuːm/) is a plant or fruit/seed in the family Fabaceae (or Leguminosae). Legumes are grown agriculturally, primarily for their grain seed called pulse, for livestock forage and silage, and as soil-enhancing green manure. Well-known legumes include alfalfa, clover, peas, beans, lentils, lupin bean, mesquite, carob, soybeans, peanuts, and tamarind. Legumes are...",
+      "name": "legume",
+      "sameAs": [
+        "http://el.dbpedia.org/resource/Όσπρια",
+        "http://cs.dbpedia.org/resource/Luštěnina",
+        "https://en.wikipedia.org/wiki/Legume",
+        "http://rdf.freebase.com/ns/m.01sfdb",
+        "http://wikidata.dbpedia.org/resource/Q145909",
+        "http://pt.dbpedia.org/resource/Legume",
+        "http://www.wikidata.org/entity/Q145909",
+        "http://ja.dbpedia.org/resource/豆果",
+        "http://fr.dbpedia.org/resource/Gousse",
+        "http://eu.dbpedia.org/resource/Lekale",
+        "http://dbpedia.org/resource/Legume",
+        "http://es.dbpedia.org/resource/Legumbre",
+        "http://yago-knowledge.org/resource/Pulse_(legume)",
+        "http://pl.dbpedia.org/resource/Rośliny_strączkowe",
+        "http://purl.obolibrary.org/obo/FOODON_00001264",
+        "http://nl.dbpedia.org/resource/Peul_(vrucht)",
+        "http://de.dbpedia.org/resource/Hülsenfrucht",
+        "http://it.dbpedia.org/resource/Baccello",
+        "http://d-nb.info/gnd/4020803-5",
+        "http://rdf.freebase.com/ns/m.0bqsk",
+        "https://knowledge.cafemedia.com/food/entity/legume"
+      ]
+    }
+  ],
+  "name": "Spinach Artichoke Falafel",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "73 kcal",
+    "carbohydrateContent": "11 g",
+    "fatContent": "2 g",
+    "fiberContent": "4 g",
+    "proteinContent": "4 g",
+    "servingSize": "2 falafels",
+    "sodiumContent": "240 mg",
+    "sugarContent": "1 g"
+  },
+  "prepTime": "PT15M",
+  "recipeCategory": "Side Dish",
+  "recipeCuisine": "gluten-free",
+  "recipeIngredient": [
+    "4 cups baby spinach leaves (loosely packed)",
+    "2 shallots (chopped)",
+    "3 cloves garlic (chopped)",
+    "1/3 cup freshly parsley (loosely packed)",
+    "8 oz artichoke hearts (this is the drained weight from a 14 oz. can), rinsed, drained, and patted dry)",
+    "3 cups cooked chickpeas (equal to two standard cans)",
+    "3 tbsp tahini",
+    "1 tbsp freshly-squeezed lemon juice",
+    "2 and 1/2 tsp ground cumin",
+    "2 tsp ground coriander",
+    "1/2 tsp paprika (regular or smoked)",
+    "1/4 tsp dried oregano",
+    "1/8 tsp cayenne pepper",
+    "1 pinch ground black pepper",
+    "1/2 tsp salt (plus more to taste)",
+    "1/4 cup chickpea flour (plus more as needed)"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Preheat the oven to 350 degrees Fahrenheit. Line two baking sheets with parchment paper or a Silpat-type liner, and spray lightly with oil."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add the spinach, shallots, garlic, and parsley to a blender or food processor, and combine until smooth - about as smooth as you can get it."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add the artichoke hearts, tahini, lemon juice, and spices, and blend to incorporate."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add the chickpeas and chickpea flour. Pulse until the chickpeas reach a very crumbly (but not smooth) texture."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "If the mixture is still too thin to shape into a ball, stir in more chickpea flour as needed. Avoid using the blender to add it so that you don't break up the chickpeas too much more."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Scooping 2-3 tablespoons at a time of the chickpea mixture, form into round shapes and place on the baking sheet, then flatten slightly. Repeat until the whole mixture is used. I filled up both of my small baking sheets."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Bake for 20-25 minutes, or until firm enough to flip over. Bake for another 20-25 minutes on the other side, until browned and slightly crispy on the outside."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "For ease of removing from the baking sheet, let cool for a few minutes first."
+    }
+  ],
+  "recipeYield": "36",
+  "sameAs": [
+    "https://yupitsvegan.com/2015/04/16/baked-spinach-artichoke-falafel"
+  ],
+  "totalTime": "PT60M",
+  "updatedAt": "2022-12-01T05:38:04.677Z"
+}

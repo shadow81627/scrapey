@@ -1,0 +1,131 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "13",
+    "ratingValue": "4.93"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Yup, it's Vegan"
+  },
+  "cookTime": "PT20M",
+  "createdAt": "2022-12-01T05:35:53.410Z",
+  "datePublished": "2015-02-26T17:50:39+00:00",
+  "description": "Luscious BBQ pulled sweet potato sandwiches, served with all the fixin's for a vegetarian and vegan barbecue treat.",
+  "image": [
+    "https://yupitsvegan.com/wp-content/uploads/2015/02/bbq_pulled_sweet_potato_sandwiches_4.jpg"
+  ],
+  "keywords": "bbq pulled sweet potato, sweet potato sandwiches",
+  "mentions": [
+    {
+      "@id": "https://yupitsvegan.com/tag/high-vegetable/#id",
+      "@type": "http://schema.org/Thing",
+      "description": "In everyday usage, a vegetable is any part of a plant that is consumed by humans as food as part of a savory meal. The term vegetable is somewhat arbitrary, and largely defined through culinary and cultural tradition. It normally excludes other food derived from plants such as fruits, nuts and cereal grains, but includes...",
+      "name": "vegetable",
+      "sameAs": [
+        "http://ko.dbpedia.org/resource/채소",
+        "http://wikidata.dbpedia.org/resource/Q11004",
+        "http://eu.dbpedia.org/resource/Barazki",
+        "http://purl.obolibrary.org/obo/FOODON_00002141",
+        "http://pl.dbpedia.org/resource/Warzywa",
+        "http://fr.dbpedia.org/resource/Légume",
+        "https://en.wikipedia.org/wiki/Vegetable",
+        "http://de.dbpedia.org/resource/Gemüse",
+        "http://el.dbpedia.org/resource/Λαχανικό",
+        "http://rdf.freebase.com/ns/m.0f4s2w",
+        "http://nl.dbpedia.org/resource/Groente",
+        "http://cs.dbpedia.org/resource/Zelenina",
+        "http://es.dbpedia.org/resource/Verdura",
+        "http://www.wikidata.org/entity/Q11004",
+        "http://dbpedia.org/resource/Vegetable",
+        "http://d-nb.info/gnd/4020069-3",
+        "http://it.dbpedia.org/resource/Verdura",
+        "http://ja.dbpedia.org/resource/野菜",
+        "http://id.dbpedia.org/resource/Sayuran",
+        "https://knowledge.cafemedia.com/food/entity/fruit_vegetable"
+      ]
+    },
+    {
+      "@id": "https://yupitsvegan.com/tag/sandwich/#id",
+      "@type": "http://schema.org/Thing",
+      "description": "A sandwich is a food item consisting of one or more types of food, such as vegetables, sliced cheese or meat, placed on or between slices of bread, or more generally any dish wherein two or more pieces of bread serve as a container or wrapper for some other food. The sandwich was originally a...",
+      "name": "sandwich",
+      "sameAs": [
+        "http://cs.dbpedia.org/resource/Sendvič",
+        "https://en.wikipedia.org/wiki/Sandwich",
+        "http://ja.dbpedia.org/resource/サンドイッチ",
+        "http://id.dbpedia.org/resource/Roti_lapis",
+        "http://de.dbpedia.org/resource/Sandwich",
+        "http://fr.dbpedia.org/resource/Sandwich",
+        "http://wikidata.dbpedia.org/resource/Q28803",
+        "http://dbpedia.org/resource/Sandwich",
+        "http://el.dbpedia.org/resource/Σάντουιτς",
+        "http://nl.dbpedia.org/resource/Sandwich_(gerecht)",
+        "http://es.dbpedia.org/resource/Sándwich",
+        "http://www.wikidata.org/entity/Q28803",
+        "http://rdf.freebase.com/ns/m.0l515",
+        "http://ko.dbpedia.org/resource/샌드위치",
+        "http://purl.obolibrary.org/obo/FOODON_03301906",
+        "http://eu.dbpedia.org/resource/Ogitarteko",
+        "http://it.dbpedia.org/resource/Sandwich",
+        "http://pl.dbpedia.org/resource/Kanapka",
+        "http://pt.dbpedia.org/resource/Sanduíche",
+        "https://knowledge.cafemedia.com/food/entity/sandwich"
+      ]
+    }
+  ],
+  "name": "BBQ Pulled Sweet Potato Sandwiches",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "339 kcal",
+    "carbohydrateContent": "53 g",
+    "fatContent": "10 g",
+    "fiberContent": "9 g",
+    "proteinContent": "12 g",
+    "saturatedFatContent": "1 g",
+    "servingSize": "1 sandwich",
+    "sodiumContent": "438 mg",
+    "sugarContent": "7 g",
+    "unsaturatedFatContent": "6 g"
+  },
+  "prepTime": "PT10M",
+  "recipeCategory": "lunch",
+  "recipeCuisine": "vegan",
+  "recipeIngredient": [
+    "2 and 1/2 cups shredded sweet potato (about 1 large or 2 medium potatoes)",
+    "1 tsp olive oil",
+    "salt and pepper (to taste)",
+    "1/2 cup BBQ sauce (scant)",
+    "4 sprouted grain sandwich buns (or other sandwich rolls of choice)",
+    "other toppings of choice"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Shred the sweet potato (feel free to leave on the peel) using a cheese grater. I shredded mine straight into a measuring pitcher and it came out to 2.5 cups. If you have much more or less, just adjust the amount of BBQ sauce a little bit."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Heat the oil over medium-high heat in a large, deep skillet. When hot, add the shredded sweet potato and quickly stir to distribute the oil. Sprinkle with salt."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Cook for 4-5 minutes, stirring and flipping the sweet potato several times, until lightly browned."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Once the sweet potato is starting to dry out and is browned in several places, add the BBQ sauce and stir. Reduce the heat to medium-low and cook for 10-15 minutes, stirring occasionally, or until the sweet potato is cooked to your preference. I like mine just a little bit al dente."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Serve a big scoop of the BBQ pulled sweet potato on a toasted bun with toppings of choice. We had ours with a generous spread of cultured cashew cream cheese sprinkled with black pepper, and simple coleslaw."
+    }
+  ],
+  "recipeYield": "4",
+  "sameAs": [
+    "https://yupitsvegan.com/2015/02/26/bbq-pulled-sweet-potato-sandwiches"
+  ],
+  "totalTime": "PT30M",
+  "updatedAt": "2022-12-01T05:35:53.409Z"
+}

@@ -1,0 +1,20 @@
+{
+  "@type": "VideoObject",
+  "contentUrl": "https://cdn.jwplayer.com/manifests/jnWev8C4.m3u8",
+  "createdAt": "2022-12-01T06:10:23.533Z",
+  "description": "Basic Homemade Seitan for Any Purpose!",
+  "duration": "PT1M0S",
+  "embedUrl": "https://yupitsvegan.com/work",
+  "name": "Basic Homemade Seitan",
+  "potentialAction": {
+    "@type": "SeekToAction",
+    "startOffset-input": "required name=seek_to_second_number",
+    "target": "https://yupitsvegan.com/work?jw_start={seek_to_second_number}"
+  },
+  "sameAs": [
+    "https://yupitsvegan.com/work"
+  ],
+  "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/jnWev8C4/poster.jpg?width=720",
+  "updatedAt": "2022-12-01T06:10:23.532Z",
+  "uploadDate": "2020-06-03T21:13:18.000Z"
+}

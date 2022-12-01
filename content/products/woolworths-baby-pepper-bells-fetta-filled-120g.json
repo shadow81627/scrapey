@@ -1,0 +1,65 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "Approx.246kJ",
+      "carbohydrateContent": "Approx.2.1g",
+      "dietary_fibre": "-",
+      "fatContent": "Approx.5.3g",
+      "name": "nutrition",
+      "proteinContent": "&lt;1g",
+      "saturatedFatContent": "Approx.2.1g",
+      "servingSize": "100 g",
+      "sodiumContent": "Approx.79mg",
+      "sugarContent": "Approx.1.3g"
+    }
+  ],
+  "aggregateRating": {
+    "@context": "http://schema.org",
+    "@type": "AggregateRating",
+    "ratingCount": 536,
+    "ratingValue": 3.90298507462687
+  },
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Woolworths"
+  },
+  "createdAt": "2022-12-01T07:13:59.636Z",
+  "gtin13": "9339687097708",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/040143.jpg",
+  "name": "Woolworths Baby Pepper Bells Fetta Filled 120G",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 4,
+    "lowPrice": 4,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/OutOfStock",
+        "availabilityStarts": "2022-12-01T07:13:59.632Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 4,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/40143/woolworths-baby-pepper-bells-fetta-filled"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/40143/woolworths-baby-pepper-bells-fetta-filled"
+  ],
+  "sku": "40143",
+  "updatedAt": "2022-12-01T07:13:59.632Z"
+}

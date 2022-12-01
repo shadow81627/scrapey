@@ -1,0 +1,75 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "2",
+    "ratingValue": "5"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Sophia DeSantis"
+  },
+  "cookTime": "PT5M",
+  "createdAt": "2022-12-01T05:58:25.551Z",
+  "datePublished": "2018-09-27T01:00:55+00:00",
+  "description": "The vegan tempeh sandwich that encompasses fall and all its flavors! Smoky tempeh, sweet apples and spicy arugula, a perfect dipper for those winter soups.",
+  "image": [
+    "https://www.veggiesdontbite.com/wp-content/uploads/2014/10/vegan-apple-arugula-smoky-tempeh-sandwich-29.jpg",
+    "https://www.veggiesdontbite.com/wp-content/uploads/2014/10/vegan-apple-arugula-smoky-tempeh-sandwich-29-500x500.jpg",
+    "https://www.veggiesdontbite.com/wp-content/uploads/2014/10/vegan-apple-arugula-smoky-tempeh-sandwich-29-500x375.jpg",
+    "https://www.veggiesdontbite.com/wp-content/uploads/2014/10/vegan-apple-arugula-smoky-tempeh-sandwich-29-480x270.jpg"
+  ],
+  "keywords": "vegan club sandwich, vegan tempeh sandwich",
+  "name": "Apple, Arugula and Smoky Tempeh Sandwich",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "205 kcal",
+    "carbohydrateContent": "37 g",
+    "fatContent": "3 g",
+    "fiberContent": "6 g",
+    "proteinContent": "9 g",
+    "saturatedFatContent": "1 g",
+    "servingSize": "1 serving",
+    "sodiumContent": "241 mg",
+    "sugarContent": "13 g"
+  },
+  "prepTime": "PT15M",
+  "recipeCategory": "Main Course",
+  "recipeCuisine": "American",
+  "recipeIngredient": [
+    "16 smoky tempeh strips (, either prepackaged or make your own(see notes)",
+    "2 red apples (, sliced into thin rounds)",
+    "20 arugula leaves (, add more or less for your preference)",
+    "8 slices your favorite bread (, gluten free if needed)",
+    "6 tablespoons Caramelized Onion Aioli (or use store bought mayo for easy option)"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "If using prepackaged smoky tempeh strips, then cook them in a toaster or regular oven or in a pan on the stove until crisp. If making your own, then see notes on the options I have."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Toast bread, then smooth aioli on 4 of the slices."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Divide tempeh, apple slices and arugula between the 4 slices of bread. Top with the rest of the bread slices."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Dig in!"
+    }
+  ],
+  "recipeYield": "4",
+  "sameAs": [
+    "https://veggiesdontbite.com/2014/10/16/smoky-tempeh-apple-and-arugula-sandwich"
+  ],
+  "suitableForDiet": [
+    "https://schema.org/GlutenFreeDiet",
+    "https://schema.org/VeganDiet",
+    "https://schema.org/VegetarianDiet"
+  ],
+  "totalTime": "PT20M",
+  "updatedAt": "2022-12-01T05:58:25.550Z"
+}

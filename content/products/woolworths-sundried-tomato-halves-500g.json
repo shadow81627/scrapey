@@ -1,0 +1,66 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "193.00kJ",
+      "carbohydrateContent": "2.50g",
+      "dietary_fibre": "1.70g",
+      "fatContent": "3.30g",
+      "name": "nutrition",
+      "proteinContent": "0.90g",
+      "saturatedFatContent": "0.30g",
+      "servingSize": "100 g",
+      "sodiumContent": "162.00mg",
+      "sugarContent": "1.80g"
+    }
+  ],
+  "aggregateRating": {
+    "@context": "http://schema.org",
+    "@type": "AggregateRating",
+    "ratingCount": 1081,
+    "ratingValue": 4.3413506012951
+  },
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Woolworths"
+  },
+  "createdAt": "2022-12-01T07:03:39.025Z",
+  "description": "Woolworths",
+  "gtin13": "9300633612009",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/520727.jpg",
+  "name": "Woolworths Sundried Tomato Halves 500G",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 4.5,
+    "lowPrice": 4.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-12-01T07:03:39.024Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 4.5,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/520727/woolworths-sundried-tomato-halves"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/520727/woolworths-sundried-tomato-halves"
+  ],
+  "sku": "520727",
+  "updatedAt": "2022-12-01T07:03:39.024Z"
+}

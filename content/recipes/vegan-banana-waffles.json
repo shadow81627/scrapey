@@ -2,54 +2,105 @@
   "@type": "Recipe",
   "aggregateRating": {
     "@type": "AggregateRating",
-    "ratingCount": "3",
+    "ratingCount": "13",
     "ratingValue": "5"
   },
   "author": {
     "@type": "Person",
-    "name": "Alissa"
+    "name": "Katie Trant"
   },
-  "cookTime": "PT10M",
+  "cookTime": "PT20M",
   "createdAt": "2022-11-29T15:31:55.075Z",
-  "datePublished": "2013-11-16T12:00:00+00:00",
-  "description": "These vegan banana waffles are made with whole grains and extra ripe bananas for a sweet treat that tastes like banana bread, in waffle form!",
+  "datePublished": "2021-02-11T18:40:29+00:00",
+  "description": "Vegan Banana Waffles! This vegan waffle recipe is easy to make and super healthy. Made with whole wheat flour, brown bananas, and flax seeds, these are perfect to keep frozen and pop into the toaster on a busy morning.&nbsp;",
   "image": [
-    "https://www.connoisseurusveg.com/wp-content/uploads/2013/11/top-front1.jpg"
+    "https://www.heynutritionlady.com/wp-content/uploads/2014/11/vegan_banana_waffles.jpg",
+    "https://www.heynutritionlady.com/wp-content/uploads/2014/11/vegan_banana_waffles-500x453.jpg",
+    "https://www.heynutritionlady.com/wp-content/uploads/2014/11/vegan_banana_waffles-500x375.jpg",
+    "https://www.heynutritionlady.com/wp-content/uploads/2014/11/vegan_banana_waffles-480x270.jpg"
   ],
-  "keywords": "bananas, waffles",
+  "keywords": "vegan banana waffles, vegan waffle recipe",
   "name": "Vegan Banana Waffles",
-  "prepTime": "PT5M",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "236 kcal",
+    "carbohydrateContent": "29 g",
+    "fatContent": "11 g",
+    "fiberContent": "2 g",
+    "proteinContent": "4 g",
+    "saturatedFatContent": "8 g",
+    "servingSize": "1 serving",
+    "sodiumContent": "165 mg",
+    "sugarContent": "9 g"
+  },
+  "prepTime": "PT10M",
   "recipeCategory": "Breakfast",
   "recipeCuisine": "American",
   "recipeIngredient": [
-    "3 ripe bananas (mashed)",
-    "2 1/4 cups non-dairy milk of choice",
-    "1/4 cup coconut oil",
-    "2 tsp. vanilla extract",
-    "1 cup all purpose flour",
-    "1 cup whole wheat flour",
-    "1 1/2 tbsp. baking powder",
-    "1/4 tsp. salt",
-    "2 tsp. ground cinnamon"
+    "2 Tbsp flax seeds (whole flax seeds or ground both work fine here)",
+    "4 Tbsp warm water",
+    "1 cup whole grain flour (whole wheat, spelt, and rye flour are great)",
+    "1/2 cup all purpose flour",
+    "2 Tbsp brown sugar",
+    "2 tsp baking powder",
+    "1/2 tsp sea salt",
+    "1/2 tsp ground cinnamon",
+    "1 cup mashed banana (approx 2 brown bananas)",
+    "1/3 cup melted coconut oil",
+    "1 cup oat milk (or plant-based milk of choice)",
+    "1/2 tsp vanilla extract",
+    "coconut oil for the waffle iron"
   ],
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "text": "Preheat waffle iron and spray with nonstick cooking spray."
+      "text": "Combine ground flax and warm water in a small bowl, and let it sit for about 10 minutes to form a gel."
     },
     {
       "@type": "HowToStep",
-      "text": "In large mixing bowl, mix bananas, milk, oil and vanilla. Add in dry ingredients and mix until blended."
+      "text": "Turn on your waffle iron to heat up."
     },
     {
       "@type": "HowToStep",
-      "text": "Drop 1/4 cupfuls of batter (adjust if necessary, based on waffle iron size) into waffle iron and cook according to manufacturer's directions."
+      "text": "In a large bowl, whisk together mashed banana, melted coconut oil, sugar, almond milk, vanilla extract. Add the flax mixture, and mix well."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add the flour, baking powder, salt, and cinnamon. Mix well."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Brush your waffle iron with a bit of coconut oil on the top and bottom. Spoon about 1/4 cup of waffle batter into each square - this will vary depending on the size of your waffle iron."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Close, and cook until your waffle iron indicates the waffles are done - just a couple of minutes each."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Remove waffles from the iron and onto a wire wrack to cool."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Repeat with remaining batter."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Once waffles are cool, place them in a plastic freezer bag separated by squares of parchment or freezer paper."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "To reheat, simply pop your waffles into the toaster for a couple of minutes."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Serve with sliced banana, maple syrup, and cocoa nibs if you like."
     }
   ],
-  "recipeYield": "12",
+  "recipeYield": "8",
   "sameAs": [
-    "https://connoisseurusveg.com/banana-bread-waffles"
+    "https://heynutritionlady.com/banana-flax-freezer-waffles-vegan"
   ],
-  "totalTime": "PT15M",
-  "updatedAt": "2022-11-29T15:31:55.075Z"
+  "totalTime": "PT30M",
+  "updatedAt": "2022-12-01T08:34:45.795Z"
 }

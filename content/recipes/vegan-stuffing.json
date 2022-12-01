@@ -1,0 +1,93 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1",
+    "ratingValue": "5"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Oh My Veggies"
+  },
+  "cookTime": "PT45M",
+  "createdAt": "2022-12-01T06:49:44.472Z",
+  "datePublished": "2021-04-21T08:27:10+00:00",
+  "description": "The yummiest vegan stuffing! Loaded with flavor from crusty bread, fresh veggies and herbs, and vegan sausage. This stuffing is perfect for Christmas or Thanksgiving dinner. Serve with vegan gravy for a true feast!",
+  "image": [
+    "https://ohmyveggies.com/wp-content/uploads/2021/04/Gluten-free-Vegan-Stuffing-1200px-square.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2021/04/Gluten-free-Vegan-Stuffing-1200px-square-500x500.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2021/04/Gluten-free-Vegan-Stuffing-1200px-square-500x375.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2021/04/Gluten-free-Vegan-Stuffing-1200px-square-480x270.jpg"
+  ],
+  "keywords": "gluten-free vegan stuffing",
+  "name": "Vegan Stuffing",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "333 kcal",
+    "carbohydrateContent": "49 g",
+    "fatContent": "9 g",
+    "fiberContent": "4 g",
+    "proteinContent": "14 g",
+    "saturatedFatContent": "2 g",
+    "servingSize": "1 serving",
+    "sodiumContent": "433 mg",
+    "sugarContent": "3 g",
+    "transFatContent": "1 g"
+  },
+  "prepTime": "PT15M",
+  "recipeCategory": "Side Dish",
+  "recipeCuisine": "American",
+  "recipeIngredient": [
+    "1 lb bread (gluten-free if desired)",
+    "1/4 cup vegan butter",
+    "3 gloves garlic (minced)",
+    "1 large onion (diced)",
+    "1 large carrot (peeled and sliced)",
+    "2 cups chestnut mushrooms (finely chopped)",
+    "1 cup celery (chopped)",
+    "1 tbsp sage",
+    "1 tsp ground cumin",
+    "1/4 cup apple cider vinegar",
+    "1 cup water (or veggie broth)",
+    "1/2 tsp sea salt",
+    "1/2 cup plant-based milk (such as almond milk)",
+    "1 cup vegan sausage (diced, optional)"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Preheat the oven to 180 degrees C / 350 degrees F and line 2-3 baking trays with parchment paper."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Cut sliced bread up into small cubes and arrange it over the baking trays in single layers. Bake in the preheated oven for around 10 minutes, making sure not to leave it for too long as it will start to burn. When ready, transfer it to a large mixing bowl."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Meanwhile, melt the butter in a non-stick pan. Once melted, add the garlic, onion and carrot. Cook for around 5 minutes, until fragrant and the carrot starts to soften."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add the mushrooms and celery. Start cooking, and after 2 minutes add the sage, cumin, apple cider vinegar and water. Cook for a further 3-4 minutes, until the vegetables soften fully."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add the vegetables to the mixing bowl with the bread, also adding the salt and the plant based milk. Make sure not to add too much of the plant based milk, as this could make the bread too soggy. Stir together really well, then add the vegan sausage and stir once more."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Transfer to a rectangular baking dish or a casserole dish – you may need more than one. Bake at 180 degrees C (350 F) for 40-45 minutes, until golden brown on top."
+    }
+  ],
+  "recipeYield": "8",
+  "sameAs": [
+    "https://ohmyveggies.com/easy-vegan-stuffing"
+  ],
+  "suitableForDiet": [
+    "https://schema.org/GlutenFreeDiet",
+    "https://schema.org/VeganDiet",
+    "https://schema.org/VegetarianDiet"
+  ],
+  "totalTime": "PT60M",
+  "updatedAt": "2022-12-01T06:49:44.463Z"
+}

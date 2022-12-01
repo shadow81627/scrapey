@@ -1,0 +1,84 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "3",
+    "ratingValue": "5"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Sophia DeSantis"
+  },
+  "cookTime": "PT40M",
+  "createdAt": "2022-12-01T05:36:15.109Z",
+  "datePublished": "2015-05-07T04:00:44+00:00",
+  "description": "A power bowl for the gods. Loads of veggies and protein smothered in the most delicious sauce you've ever had. One bowl, one fully healthy meal. Easy and delicious!",
+  "image": [
+    "https://www.veggiesdontbite.com/wp-content/uploads/2015/05/barbeque-tahini-power-bowl-94-1.jpg",
+    "https://www.veggiesdontbite.com/wp-content/uploads/2015/05/barbeque-tahini-power-bowl-94-1-500x500.jpg",
+    "https://www.veggiesdontbite.com/wp-content/uploads/2015/05/barbeque-tahini-power-bowl-94-1-500x375.jpg",
+    "https://www.veggiesdontbite.com/wp-content/uploads/2015/05/barbeque-tahini-power-bowl-94-1-480x270.jpg"
+  ],
+  "keywords": "power bowl, tahini sauce",
+  "name": "BBQ Tahini Power Bowl",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "1167 kcal",
+    "carbohydrateContent": "223 g",
+    "fatContent": "20 g",
+    "fiberContent": "22 g",
+    "proteinContent": "27 g",
+    "saturatedFatContent": "3 g",
+    "servingSize": "1 serving",
+    "sodiumContent": "124 mg",
+    "sugarContent": "8 g"
+  },
+  "prepTime": "PT15M",
+  "recipeCategory": "Main Course",
+  "recipeCuisine": "American",
+  "recipeIngredient": [
+    "2 cups beans (I used a sprouted bean mix)",
+    "2 cups brown rice",
+    "4 cups veggie broth (to boil rice) (can sub water)",
+    "1 bunch kale (swiss chard or spinach (or a mix)",
+    "2 spring onions",
+    "24 ounces purple potatoes (or any potato you prefer)",
+    "1 avocado",
+    "lemon pepper (to taste)",
+    "veggie broth (or your favorite oil if you use oil to roast veggies)",
+    "BBQ Tahini Sauce"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Preheat oven to 400°F (200°C). Wash and cut potatoes into small wedge pieces. Drizzle with veggie broth (or oil), salt and lemon pepper. Bake on a parchment lined cookie sheet for 20-25 minutes until crispy."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Wash and coarsely chop kale/chard/spinach. Wash and chop spring onion. Saute all in a large pan with a little veggie broth (or oil if you are using it), salt and lemon pepper until greens are just wilted. Remove from heat when they begin to turn bright green."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Cook rice with veggie broth or water according to package directions. Cook beans according to package directions if they are not cooked."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Make sauce according to recipe."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Arrange meal by putting it all into a bowl, in a side by side fashion. Place about 1/4 cup BBQ Tahini Sauce into center, you may use more or less sauce for your preference."
+    }
+  ],
+  "recipeYield": "2",
+  "sameAs": [
+    "https://veggiesdontbite.com/bbq-tahini-power-bowl"
+  ],
+  "suitableForDiet": [
+    "https://schema.org/GlutenFreeDiet",
+    "https://schema.org/VeganDiet",
+    "https://schema.org/VegetarianDiet"
+  ],
+  "totalTime": "PT55M",
+  "updatedAt": "2022-12-01T05:36:15.109Z"
+}
