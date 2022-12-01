@@ -19,6 +19,9 @@ const disallowedHosts = [
   'woolworthsatwork.com.au',
   'ad.doubleclick.net',
   'pr.ybp.yahoo.com',
+  'tumblr.com',
+  'reddit.com',
+  'linkedin.com',
 ];
 export default async function crawl(
   url: string,
@@ -90,7 +93,7 @@ export default async function crawl(
       .get()
       .filter(Boolean)
       .filter((link) => !disallowedHosts.includes(new URL(link).hostname))
-      .filter(link => !link.match(/^https:\/\/budgetbytes.com\/.+?\/comment-page-\d/))
+      .filter(link => !link.match(/\/.+?\/comment-page-\d/))
       .filter(
         (link) =>
           !link.startsWith('https://woolworths.com.au/shop/printrecipe'),
