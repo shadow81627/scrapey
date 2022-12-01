@@ -7,7 +7,7 @@ export default async function colesNationalReplaceUrls(): Promise<string> {
   const links = await connection
     .getRepository(Url)
     .createQueryBuilder('url')
-    .where({ pathname: Like('/a/%/%') })
+    .where({ pathname: Like('/a/%/%'), hostname: 'shop.coles.com.au' })
     .andWhere({
       pathname: Not(Like('/a/a-national/%')),
     })
