@@ -1,0 +1,54 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Allergen",
+      "value": "Contains EGG"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "6.0"
+    },
+    {
+      "name": "Size",
+      "value": "600g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.75 per 100G"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2022-12-01T10:06:12.435Z",
+  "description": "When Coles Brand says Free Range, it means: a maximum of 10,000 hens per hectare outdoors",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/9/4/5/9453456.jpg",
+  "name": "Eggs Free Range 12 pack",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 4.5,
+    "lowPrice": 4.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-01T10:06:12.434Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "4.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-eggs-free-range-12-pack-9453456p"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/coles-eggs-free-range-12-pack-9453456p"
+  ],
+  "sku": "9453456",
+  "updatedAt": "2022-12-01T10:06:12.434Z"
+}

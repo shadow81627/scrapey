@@ -1,0 +1,64 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1",
+    "ratingValue": "5"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Oh My Veggies"
+  },
+  "cookTime": "PT30M",
+  "createdAt": "2022-12-01T10:08:59.818Z",
+  "datePublished": "2012-06-15T06:55:35+00:00",
+  "description": "This easy overnight oatmeal is loaded with flavor from fresh peaches and crystallized ginger. And it only takes a few simple ingredients to throw together.",
+  "image": [
+    "https://ohmyveggies.com/wp-content/uploads/2012/06/ginger_peach_overnight_oatmeal1.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2012/06/ginger_peach_overnight_oatmeal1-500x400.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2012/06/ginger_peach_overnight_oatmeal1-500x375.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2012/06/ginger_peach_overnight_oatmeal1-480x270.jpg"
+  ],
+  "keywords": "overnight oatmeal",
+  "name": "Ginger-Peach Overnight Oatmeal",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "80 kcal",
+    "carbohydrateContent": "14 g",
+    "fatContent": "2 g",
+    "fiberContent": "2 g",
+    "proteinContent": "2 g",
+    "saturatedFatContent": "1 g",
+    "servingSize": "1 serving",
+    "sodiumContent": "84 mg",
+    "sugarContent": "7 g"
+  },
+  "recipeCategory": "Breakfast",
+  "recipeCuisine": "American",
+  "recipeIngredient": [
+    "1 peach (ripe, diced)",
+    "1/2 cup oatmeal",
+    "1/2 cup almond milk (I use vanilla)",
+    "tsp crystallized ginger (minced)"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Stir together the diced peach, oatmeal, almond milk, and crystallized ginger in a resealable container."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Refrigerate overnight; stir and then eat the next morning."
+    }
+  ],
+  "recipeYield": "2",
+  "sameAs": [
+    "https://ohmyveggies.com/ginger-peach-overnight-oatmeal"
+  ],
+  "suitableForDiet": [
+    "https://schema.org/VeganDiet",
+    "https://schema.org/VegetarianDiet"
+  ],
+  "totalTime": "PT30M",
+  "updatedAt": "2022-12-01T10:08:59.817Z"
+}

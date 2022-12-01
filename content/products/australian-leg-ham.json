@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "approx. 5kg"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$8.00 per 1Kg"
+    }
+  ],
+  "brand": "Dandy",
+  "createdAt": "2022-12-01T09:25:01.755Z",
+  "description": "Dandy Australian Leg Ham",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/3/5/3358420.jpg",
+  "name": "Australian Leg Ham",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 40,
+    "lowPrice": 40,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-01T09:25:01.755Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "40.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/dandy-half-leg-ham"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/dandy-half-leg-ham"
+  ],
+  "sku": "3358420",
+  "updatedAt": "2022-12-01T09:25:01.755Z"
+}

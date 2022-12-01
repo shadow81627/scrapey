@@ -1,0 +1,175 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "2",
+    "ratingValue": "5"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Sam Turnbull • It Doesn't Taste Like Chicken"
+  },
+  "cookTime": "PT25M",
+  "createdAt": "2022-12-01T09:34:01.934Z",
+  "datePublished": "2015-07-28T16:15:48+00:00",
+  "description": "Inspired by my own recipe for Creamy Coconut Garlic Mushrooms",
+  "image": [
+    "https://itdoesnttastelikechicken.com/wp-content/uploads/2015/07/Coconut-Musrhoom-Puffs.jpg",
+    "https://itdoesnttastelikechicken.com/wp-content/uploads/2015/07/Coconut-Musrhoom-Puffs-500x500.jpg",
+    "https://itdoesnttastelikechicken.com/wp-content/uploads/2015/07/Coconut-Musrhoom-Puffs-500x375.jpg",
+    "https://itdoesnttastelikechicken.com/wp-content/uploads/2015/07/Coconut-Musrhoom-Puffs-480x270.jpg"
+  ],
+  "mentions": [
+    {
+      "@id": "https://itdoesnttastelikechicken.com/tag/coconut/#id",
+      "@type": "http://schema.org/Thing",
+      "description": "The coconut tree (Cocos nucifera) is a member of the family Arecaceae (palm family) and the only species of the genus Cocos. The term coconut can refer to the entire coconut palm, the seed, or the fruit, which, botanically, is a drupe, not a nut. The spelling cocoanut is an archaic form of the word....",
+      "name": "coconut",
+      "sameAs": [
+        "http://de.dbpedia.org/resource/Kokospalme",
+        "http://id.dbpedia.org/resource/Kelapa",
+        "http://eu.dbpedia.org/resource/Kokondo",
+        "http://ko.dbpedia.org/resource/코코넛",
+        "http://nl.dbpedia.org/resource/Kokospalm",
+        "http://ja.dbpedia.org/resource/ココナッツ",
+        "http://pl.dbpedia.org/resource/Kokos_właściwy",
+        "https://en.wikipedia.org/wiki/Coconut",
+        "http://pt.dbpedia.org/resource/Coqueiro",
+        "http://d-nb.info/gnd/4125533-1",
+        "http://yago-knowledge.org/resource/Cocos_(genus)",
+        "http://it.dbpedia.org/resource/Cocos_nucifera",
+        "http://yago-knowledge.org/resource/Cocos_(plant)",
+        "http://es.dbpedia.org/resource/Cocos_nucifera",
+        "http://cs.dbpedia.org/resource/Kokosovník_ořechoplodý",
+        "http://el.dbpedia.org/resource/Κοκοφοίνικας",
+        "http://wikidata.dbpedia.org/resource/Q13187",
+        "http://yago-knowledge.org/resource/Cocos_nucifera",
+        "http://dbpedia.org/resource/Coconut",
+        "http://purl.obolibrary.org/obo/FOODON_03411536",
+        "http://www.wikidata.org/entity/Q13187",
+        "http://rdf.freebase.com/ns/m.0djtd",
+        "http://fr.dbpedia.org/resource/Cocos_nucifera",
+        "https://knowledge.cafemedia.com/food/entity/coconut_palm"
+      ]
+    },
+    {
+      "@id": "https://itdoesnttastelikechicken.com/tag/garlic/#id",
+      "@type": "http://schema.org/Thing",
+      "description": "Allium sativum, commonly known as garlic, is a species in the onion genus, Allium. Its close relatives include the onion, shallot, leek, chive, and rakkyo. With a history of over 7,000 years of human consumption and use, garlic is native to central Asia, and has long been a staple in the Mediterranean region, as well...",
+      "name": "softneck garlic",
+      "sameAs": [
+        "http://www.wikidata.org/entity/Q23400",
+        "http://rdf.freebase.com/ns/m.0dbrl",
+        "http://es.dbpedia.org/resource/Allium_sativum",
+        "http://yago-knowledge.org/resource/Allium_sativum",
+        "http://cs.dbpedia.org/resource/Česnek_kuchyňský",
+        "http://id.dbpedia.org/resource/Bawang_putih",
+        "http://it.dbpedia.org/resource/Allium_sativum",
+        "http://wikidata.dbpedia.org/resource/Q23400",
+        "http://fr.dbpedia.org/resource/Ail_cultivé",
+        "http://ko.dbpedia.org/resource/마늘",
+        "http://nl.dbpedia.org/resource/Knoflook",
+        "http://pt.dbpedia.org/resource/Alho",
+        "http://d-nb.info/gnd/4031311-6",
+        "http://ja.dbpedia.org/resource/ニンニク",
+        "http://lod.geospecies.org/ses/Ktmfq",
+        "https://en.wikipedia.org/wiki/Garlic",
+        "http://el.dbpedia.org/resource/Σκόρδο",
+        "http://eu.dbpedia.org/resource/Baratxuri",
+        "http://dbpedia.org/resource/Garlic",
+        "http://purl.obolibrary.org/obo/FOODON_00001895",
+        "http://pl.dbpedia.org/resource/Czosnek_pospolity",
+        "http://eunis.eea.europa.eu/species/189214",
+        "http://de.dbpedia.org/resource/Knoblauch",
+        "https://knowledge.cafemedia.com/food/entity/garlic"
+      ]
+    },
+    {
+      "@id": "https://itdoesnttastelikechicken.com/tag/mushroom/#id",
+      "@type": "http://schema.org/Thing",
+      "description": "A mushroom (or toadstool) is the fleshy, spore-bearing fruiting body of a fungus, typically produced above ground on soil or on its food source. The standard for the name \"mushroom\" is the cultivated white button mushroom, Agaricus bisporus; hence the word \"mushroom\" is most often applied to those fungi (Basidiomycota, Agaricomycetes) that have a stem...",
+      "name": "mushroom",
+      "sameAs": [
+        "https://en.wikipedia.org/wiki/Mushroom",
+        "http://de.dbpedia.org/resource/Fruchtkörper",
+        "http://fr.dbpedia.org/resource/Champignon",
+        "http://nl.dbpedia.org/resource/Paddenstoel_(schimmel)",
+        "http://www.wikidata.org/entity/Q83093",
+        "http://rdf.freebase.com/ns/m.052sf",
+        "http://eu.dbpedia.org/resource/Ziza",
+        "http://ja.dbpedia.org/resource/キノコ",
+        "http://pt.dbpedia.org/resource/Cogumelo",
+        "http://ko.dbpedia.org/resource/버섯",
+        "http://wikidata.dbpedia.org/resource/Q83093",
+        "http://id.dbpedia.org/resource/Jamur",
+        "http://dbpedia.org/resource/Mushroom",
+        "http://el.dbpedia.org/resource/Μανιτάρι",
+        "http://pl.dbpedia.org/resource/Owocnik",
+        "http://es.dbpedia.org/resource/Seta",
+        "http://it.dbpedia.org/resource/Fungo_epigeo",
+        "http://purl.obolibrary.org/obo/FOODON_00001287",
+        "https://knowledge.cafemedia.com/food/entity/mushroom"
+      ]
+    }
+  ],
+  "name": "Coconut Mushroom Puffs",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "77 kcal",
+    "carbohydrateContent": "5 g",
+    "fatContent": "5 g",
+    "proteinContent": "1 g",
+    "saturatedFatContent": "1 g",
+    "servingSize": "1 serving",
+    "sodiumContent": "51 mg"
+  },
+  "prepTime": "PT20M",
+  "recipeCategory": "Appetizer",
+  "recipeCuisine": "American",
+  "recipeIngredient": [
+    "1/2 cup full-fat coconut milk (the kind in a can)",
+    "2 teaspoons corn starch",
+    "1 tablespoons oil (coconut or vegetable)",
+    "16 oz mushrooms, (sliced)",
+    "4 cloves garlic, (minced)",
+    "1 tablespoon nutritional yeast",
+    "1/2 teaspoon dried thyme",
+    "1/2 teaspoon dired oregano",
+    "1/4 teaspoon salt",
+    "1/8 teaspoon pepper",
+    "1 puff pastry, (thawed (check ingredients to make sure it is vegan)",
+    "2 tablespoons chopped chives, cilantro, or parsley (for garnish)"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Preheat the over to 400F (200C)."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Mix together the coconut milk and corn starch and set aside."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Heat the coconut oil in a pan over medium high heat. When it's hot, add the mushrooms and garlic. Sauté the mushrooms for about 5 minutes until they soften and begin to release their juices. Stir in the coconut milk mixture, nutritional yeast, thyme, oregano, salt and pepper. Reduce heat to a simmer. Continue to cook for about another 5 minutes, until the sauce thickens a bit. Remove from heat."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Lightly flour a clean work surface and use a rolling pin to roll out the puff pastry to a rectangle that's about 9\" x 12\". Use a long knife to cut the puff pastry into 24 squares. that's 3 cuts down the longest direction, and 5 cuts across the shortest direction."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Push each puff pastry square into the mini cupcake pan, so that the edges of the puff pastry, come up the sides forming a little cup to hold the mushroom mixture. If any of your squares are a little too small, just use your rolling pin to roll it out a little more. Divide the mushroom mixture evenly among the cups."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Bake for 25 - 30 minutes, rotating the pan once until the edges of the puff pastry are golden. To remove them, use a knife to pop them out of the pan. Finely chop chives, cilantro, or parsley, and sprinkle on the mushroom puffs for garnish."
+    }
+  ],
+  "recipeYield": "24",
+  "sameAs": [
+    "https://itdoesnttastelikechicken.com/coconut-mushroom-puffs"
+  ],
+  "totalTime": "PT45M",
+  "updatedAt": "2022-12-01T09:34:01.933Z"
+}

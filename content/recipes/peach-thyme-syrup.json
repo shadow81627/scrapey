@@ -1,0 +1,72 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1",
+    "ratingValue": "5"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Oh My Veggies"
+  },
+  "cookTime": "PT30M",
+  "createdAt": "2022-12-01T09:38:20.892Z",
+  "datePublished": "2018-08-27T07:51:25+00:00",
+  "description": "A sweet, herbal syrup made with fresh summer peaches. It's perfect for adding to sparkling water, lemonade, or iced tea!",
+  "image": [
+    "https://ohmyveggies.com/wp-content/uploads/2013/07/peach_thyme_syrup_recipe.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2013/07/peach_thyme_syrup_recipe-500x400.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2013/07/peach_thyme_syrup_recipe-500x375.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2013/07/peach_thyme_syrup_recipe-480x270.jpg"
+  ],
+  "keywords": "Peach Thyme Syrup, syrup for drinks",
+  "name": "Peach Thyme Syrup",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "563 kcal",
+    "carbohydrateContent": "143 g",
+    "fatContent": "1 g",
+    "fiberContent": "7 g",
+    "proteinContent": "4 g",
+    "saturatedFatContent": "1 g",
+    "servingSize": "1 serving",
+    "sodiumContent": "1 mg",
+    "sugarContent": "138 g",
+    "unsaturatedFatContent": "2 g"
+  },
+  "prepTime": "PT5M",
+  "recipeCategory": "Drinks",
+  "recipeCuisine": "American",
+  "recipeIngredient": [
+    "3 large peaches (pitted and diced (mine were about 20 ounces before dicing)",
+    "1/2 cup white sugar (organic for vegan-friendly)",
+    "A few sprigs of thyme"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Combine all the ingredients in a large saucepan. Bring to a boil, then reduce heat to low and cook for 30 minutes."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Every few minutes, stir the pot with a wooden spoon and use it to smash the peaches a little bit."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Strain the syrup into a bowl using a fine mesh sieve and discard the solids."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Transfer the syrup to a bottle or jar and refrigerate for up to a week."
+    }
+  ],
+  "recipeYield": "1",
+  "sameAs": [
+    "https://ohmyveggies.com/iced-tea"
+  ],
+  "suitableForDiet": [
+    "https://schema.org/VegetarianDiet"
+  ],
+  "totalTime": "PT35M",
+  "updatedAt": "2022-12-01T09:38:20.891Z"
+}

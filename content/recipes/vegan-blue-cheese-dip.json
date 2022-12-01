@@ -1,0 +1,127 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "22",
+    "ratingValue": "5"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Sam Turnbull • It Doesn't Taste Like Chicken"
+  },
+  "createdAt": "2022-12-01T10:27:22.709Z",
+  "datePublished": "2017-02-15T10:29:24+00:00",
+  "description": "Only 6 ingredients and takes less than 5 minutes to make. Perfect to pair with buffalo cauliflower or vegan chicken wings.&nbsp;",
+  "image": [
+    "https://itdoesnttastelikechicken.com/wp-content/uploads/2017/02/vegan-blue-cheese-dip-recipe-easy-dressing-homemade-quick.jpg",
+    "https://itdoesnttastelikechicken.com/wp-content/uploads/2017/02/vegan-blue-cheese-dip-recipe-easy-dressing-homemade-quick-500x500.jpg",
+    "https://itdoesnttastelikechicken.com/wp-content/uploads/2017/02/vegan-blue-cheese-dip-recipe-easy-dressing-homemade-quick-500x375.jpg",
+    "https://itdoesnttastelikechicken.com/wp-content/uploads/2017/02/vegan-blue-cheese-dip-recipe-easy-dressing-homemade-quick-480x270.jpg"
+  ],
+  "mentions": [
+    {
+      "@id": "https://itdoesnttastelikechicken.com/tag/blue-cheese/#id",
+      "@type": "http://schema.org/Thing",
+      "description": "Blue cheese is a general classification of cheeses that have had cultures of the mold Penicillium added so that the final product is spotted or veined throughout with blue, or blue-grey mold and carries a distinct smell, either from that or various specially cultivated bacteria. Some blue cheeses are injected with spores before the curds...",
+      "name": "blue cheese",
+      "sameAs": [
+        "https://en.wikipedia.org/wiki/Blue_cheese",
+        "http://dbpedia.org/resource/Blue_cheese",
+        "http://nl.dbpedia.org/resource/Blauwschimmelkaas",
+        "http://fr.dbpedia.org/resource/Fromage_à_pâte_persillée",
+        "http://www.wikidata.org/entity/Q746471",
+        "http://it.dbpedia.org/resource/Erborinatura",
+        "http://purl.obolibrary.org/obo/FOODON_00001065",
+        "http://rdf.freebase.com/ns/m.03qp04",
+        "http://wikidata.dbpedia.org/resource/Q746471",
+        "http://es.dbpedia.org/resource/Queso_azul",
+        "http://el.dbpedia.org/resource/Μπλε_τυρί",
+        "http://de.dbpedia.org/resource/Blauschimmelkäse",
+        "http://pt.dbpedia.org/resource/Queijo_azul",
+        "http://ja.dbpedia.org/resource/ブルーチーズ",
+        "http://ko.dbpedia.org/resource/블루_치즈",
+        "http://pl.dbpedia.org/resource/Niebieski_ser",
+        "http://eu.dbpedia.org/resource/Gazta_urdin",
+        "https://knowledge.cafemedia.com/food/entity/blue_cheese"
+      ]
+    },
+    {
+      "@id": "https://itdoesnttastelikechicken.com/tag/dip/#id",
+      "@type": "http://schema.org/Thing",
+      "description": "",
+      "name": "dip",
+      "sameAs": [
+        "https://en.wikipedia.org/wiki/Dip",
+        "http://purl.obolibrary.org/obo/FOODON_03317145",
+        "http://www.wikidata.org/entity/Q233382",
+        "http://dbpedia.org/resource/Dip",
+        "https://knowledge.cafemedia.com/food/entity/dip"
+      ]
+    },
+    {
+      "@id": "https://itdoesnttastelikechicken.com/tag/tofu/#id",
+      "@type": "http://schema.org/Thing",
+      "description": "Tofu, also known as bean curd, is a food made by coagulating soy milk and then pressing the resulting curds into soft white blocks. It is a component in East Asian and Southeast Asian cuisines. Tofu can be soft, firm, or extra firm. Tofu has a subtle flavor and can be used in savory and...",
+      "name": "bean curd",
+      "sameAs": [
+        "http://el.dbpedia.org/resource/Τόφου",
+        "http://es.dbpedia.org/resource/Tofu",
+        "http://dbpedia.org/resource/Tofu",
+        "http://id.dbpedia.org/resource/Tahu",
+        "http://www.wikidata.org/entity/Q177378",
+        "http://rdf.freebase.com/ns/m.07s28",
+        "http://purl.obolibrary.org/obo/FOODON_03301839",
+        "http://pl.dbpedia.org/resource/Tofu",
+        "http://wikidata.dbpedia.org/resource/Q177378",
+        "http://fr.dbpedia.org/resource/Tofu",
+        "http://ko.dbpedia.org/resource/두부",
+        "http://d-nb.info/gnd/4060337-4",
+        "https://en.wikipedia.org/wiki/Tofu",
+        "http://cs.dbpedia.org/resource/Tofu",
+        "http://nl.dbpedia.org/resource/Tofoe",
+        "http://de.dbpedia.org/resource/Tofu",
+        "http://ja.dbpedia.org/resource/豆腐",
+        "http://it.dbpedia.org/resource/Tōfu",
+        "http://eu.dbpedia.org/resource/Tofu",
+        "http://pt.dbpedia.org/resource/Tofu",
+        "https://knowledge.cafemedia.com/food/entity/bean_curd"
+      ]
+    }
+  ],
+  "name": "Vegan Blue Cheese Dip",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "196 kcal",
+    "carbohydrateContent": "3 g",
+    "fatContent": "19 g",
+    "fiberContent": "1 g",
+    "proteinContent": "1 g",
+    "saturatedFatContent": "2 g",
+    "servingSize": "1 serving (recipe makes 8 servings)",
+    "sodiumContent": "240 mg",
+    "sugarContent": "1 g"
+  },
+  "prepTime": "PT5M",
+  "recipeCategory": "Side Dish",
+  "recipeCuisine": "American",
+  "recipeIngredient": [
+    "1 cup vegan mayonaise",
+    "1 1/2 tablespoons apple cider vinegar",
+    "1 tablespoon white miso paste",
+    "1/2 teaspoon onion powder",
+    "1/4 teaspoon dill",
+    "1/4 block medium or firm tofu (about 85g), (crumbled)"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Add everything but the tofu to a bowl and stir well to combine. Once mixed, add in the tofu crumbles, and give it another stir to mix in. Enjoy!"
+    }
+  ],
+  "recipeYield": "8",
+  "sameAs": [
+    "https://itdoesnttastelikechicken.com/2017/02/15/vegan-blue-cheese-dip"
+  ],
+  "totalTime": "PT5M",
+  "updatedAt": "2022-12-01T10:27:22.708Z"
+}

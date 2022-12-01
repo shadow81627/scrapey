@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "350g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$2.43 per 100G"
+    }
+  ],
+  "brand": "Old El Paso",
+  "createdAt": "2022-12-01T09:08:00.638Z",
+  "description": "Old El Paso Hard 'N Soft Taco Kit Mild",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/2/9/5293041.jpg",
+  "name": "Hard 'N Soft Taco Kit Mild",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 8.5,
+    "lowPrice": 8.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-01T09:08:00.637Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "8.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/old-el-paso-taco-kit-hard-n-soft"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/old-el-paso-taco-kit-hard-n-soft"
+  ],
+  "sku": "5293041",
+  "updatedAt": "2022-12-01T09:08:00.637Z"
+}

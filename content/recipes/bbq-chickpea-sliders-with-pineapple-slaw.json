@@ -1,0 +1,82 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1",
+    "ratingValue": "5"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Sophia DeSantis"
+  },
+  "cookTime": "PT10M",
+  "createdAt": "2022-12-01T09:32:36.417Z",
+  "datePublished": "2017-10-09T01:00:41+00:00",
+  "description": "Easy, fun and kid friendly, these BBQ sliders are the perfect dinner for a crazy day. They are filled with protein, flavorful and have amazing texture.",
+  "image": [
+    "https://www.veggiesdontbite.com/wp-content/uploads/2017/10/vegan-bbq-chickpea-sliders-pineapple-slaw-33-1.jpg",
+    "https://www.veggiesdontbite.com/wp-content/uploads/2017/10/vegan-bbq-chickpea-sliders-pineapple-slaw-33-1-500x500.jpg",
+    "https://www.veggiesdontbite.com/wp-content/uploads/2017/10/vegan-bbq-chickpea-sliders-pineapple-slaw-33-1-500x375.jpg",
+    "https://www.veggiesdontbite.com/wp-content/uploads/2017/10/vegan-bbq-chickpea-sliders-pineapple-slaw-33-1-480x270.jpg"
+  ],
+  "keywords": "vegan bbq burger, vegan slider",
+  "name": "BBQ Chickpea Sliders with Pineapple Slaw",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "607 kcal",
+    "carbohydrateContent": "106 g",
+    "fatContent": "14 g",
+    "fiberContent": "13 g",
+    "proteinContent": "20 g",
+    "saturatedFatContent": "2 g",
+    "servingSize": "1 serving",
+    "sodiumContent": "1298 mg",
+    "sugarContent": "31 g"
+  },
+  "prepTime": "PT15M",
+  "recipeCategory": "Main Course",
+  "recipeCuisine": "American",
+  "recipeIngredient": [
+    "15 ounces canned chickpeas (, rinsed and drained (1 can)",
+    "1/2 cup BBQ sauce",
+    "1/2 tsp garlic powder",
+    "1/4 tsp chili powder",
+    "sea salt (, to taste)",
+    "12 slider buns (, gluten-free if needed)",
+    "1 cup Pineapple Slaw ( (see recipe below)",
+    "Roasted sunflower seeds (, for serving (optional)",
+    "1/2 ripe avocado (, mashed)",
+    "1/3 cup crushed pineapple (, drained)",
+    "2 tbsp cilantro leaves (, torn)",
+    "1/2 tbsp agave",
+    "1 lime (, juiced)",
+    "1/2 tsp apple cider vinegar",
+    "2 cups purple cabbage (, shredded)",
+    "sea salt and pepper (, to taste)"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Combine the mashed avocado, pineapple, cilantro, agave, lime juice and apple cider vinegar in a mixing bowl."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Whisk to combine, adding a bit of water to thin as necessary."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Once you have a nice creamy dressing, stir in the cabbage, toss to thoroughly combine and season with salt and pepper to taste."
+    }
+  ],
+  "recipeYield": "4",
+  "sameAs": [
+    "https://veggiesdontbite.com/bbq-chickpea-sliders-pineapple-slaw"
+  ],
+  "suitableForDiet": [
+    "https://schema.org/GlutenFreeDiet",
+    "https://schema.org/VeganDiet",
+    "https://schema.org/VegetarianDiet"
+  ],
+  "totalTime": "PT25M",
+  "updatedAt": "2022-12-01T09:32:36.416Z"
+}
