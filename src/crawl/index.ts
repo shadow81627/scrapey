@@ -16,6 +16,7 @@ const allowedHosts = [
   'budgetbytes.com',
   'connoisseurusveg.com',
   'ohmyveggies.com',
+  'thekitchn.com',
 ];
 
 async function fetchCrawlUrls({
