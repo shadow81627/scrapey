@@ -31,6 +31,7 @@ const allowedHosts = [
   'mayihavethatrecipe.com',
   'veggieinspiredjourney.com',
   'veganosity.com',
+  'yupitsvegan.com',
 ];
 
 async function fetchCrawlUrls({
