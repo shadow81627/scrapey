@@ -1,0 +1,134 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1",
+    "ratingValue": "5"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Yup, it's Vegan"
+  },
+  "createdAt": "2022-12-01T12:03:53.453Z",
+  "datePublished": "2015-04-10T07:00:40+00:00",
+  "description": "Simple carrot and ginger hummus spring rolls. Vegan, gluten-free recipe that can easily be customized with seasonal vegetables and flavors.",
+  "image": [
+    "https://yupitsvegan.com/wp-content/uploads/2015/04/rainbow_carrot_ginger_hummus_spring_rolls_vegan_5.jpg"
+  ],
+  "keywords": "hummus spring rolls",
+  "mentions": [
+    {
+      "@id": "https://yupitsvegan.com/tag/high-vegetable/#id",
+      "@type": "http://schema.org/Thing",
+      "description": "In everyday usage, a vegetable is any part of a plant that is consumed by humans as food as part of a savory meal. The term vegetable is somewhat arbitrary, and largely defined through culinary and cultural tradition. It normally excludes other food derived from plants such as fruits, nuts and cereal grains, but includes...",
+      "name": "vegetable",
+      "sameAs": [
+        "http://ko.dbpedia.org/resource/채소",
+        "http://wikidata.dbpedia.org/resource/Q11004",
+        "http://eu.dbpedia.org/resource/Barazki",
+        "http://purl.obolibrary.org/obo/FOODON_00002141",
+        "http://pl.dbpedia.org/resource/Warzywa",
+        "http://fr.dbpedia.org/resource/Légume",
+        "https://en.wikipedia.org/wiki/Vegetable",
+        "http://de.dbpedia.org/resource/Gemüse",
+        "http://el.dbpedia.org/resource/Λαχανικό",
+        "http://rdf.freebase.com/ns/m.0f4s2w",
+        "http://nl.dbpedia.org/resource/Groente",
+        "http://cs.dbpedia.org/resource/Zelenina",
+        "http://es.dbpedia.org/resource/Verdura",
+        "http://www.wikidata.org/entity/Q11004",
+        "http://dbpedia.org/resource/Vegetable",
+        "http://d-nb.info/gnd/4020069-3",
+        "http://it.dbpedia.org/resource/Verdura",
+        "http://ja.dbpedia.org/resource/野菜",
+        "http://id.dbpedia.org/resource/Sayuran",
+        "https://knowledge.cafemedia.com/food/entity/fruit_vegetable"
+      ]
+    },
+    {
+      "@id": "https://yupitsvegan.com/tag/legumes/#id",
+      "@type": "http://schema.org/Thing",
+      "description": "A legume (/ˈlɛɡjuːm/ or /ˌləˈɡjuːm/) is a plant or fruit/seed in the family Fabaceae (or Leguminosae). Legumes are grown agriculturally, primarily for their grain seed called pulse, for livestock forage and silage, and as soil-enhancing green manure. Well-known legumes include alfalfa, clover, peas, beans, lentils, lupin bean, mesquite, carob, soybeans, peanuts, and tamarind. Legumes are...",
+      "name": "legume",
+      "sameAs": [
+        "http://el.dbpedia.org/resource/Όσπρια",
+        "http://cs.dbpedia.org/resource/Luštěnina",
+        "https://en.wikipedia.org/wiki/Legume",
+        "http://rdf.freebase.com/ns/m.01sfdb",
+        "http://wikidata.dbpedia.org/resource/Q145909",
+        "http://pt.dbpedia.org/resource/Legume",
+        "http://www.wikidata.org/entity/Q145909",
+        "http://ja.dbpedia.org/resource/豆果",
+        "http://fr.dbpedia.org/resource/Gousse",
+        "http://eu.dbpedia.org/resource/Lekale",
+        "http://dbpedia.org/resource/Legume",
+        "http://es.dbpedia.org/resource/Legumbre",
+        "http://yago-knowledge.org/resource/Pulse_(legume)",
+        "http://pl.dbpedia.org/resource/Rośliny_strączkowe",
+        "http://purl.obolibrary.org/obo/FOODON_00001264",
+        "http://nl.dbpedia.org/resource/Peul_(vrucht)",
+        "http://de.dbpedia.org/resource/Hülsenfrucht",
+        "http://it.dbpedia.org/resource/Baccello",
+        "http://d-nb.info/gnd/4020803-5",
+        "http://rdf.freebase.com/ns/m.0bqsk",
+        "https://knowledge.cafemedia.com/food/entity/legume"
+      ]
+    }
+  ],
+  "name": "Carrot Ginger Hummus Spring Rolls",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "100 kcal",
+    "carbohydrateContent": "19 g",
+    "fiberContent": "2 g",
+    "servingSize": "2 spring rolls",
+    "sodiumContent": "49 mg",
+    "sugarContent": "2 g"
+  },
+  "prepTime": "PT20M",
+  "recipeCategory": "Side Dish",
+  "recipeCuisine": "gluten-free",
+  "recipeIngredient": [
+    "2 medium beets (peeled, scrubbed and shredded)",
+    "1 lime (juiced)",
+    "16 rice paper sheets",
+    "1/2 recipe harvest carrot and ginger hummus",
+    "1/2 head cabbage (shredded)",
+    "1 bunch mint leaves",
+    "1 bunch cilantro (roughly chopped)",
+    "toasted sesame seeds (optional)",
+    "peanut sauce of choice (optional)"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Add the shredded beets to a small bowl with the lime juice and let them sit while you do the rest of the prep."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Fill a wide, shallow bowl with water (or run your tap on low) and gently wet a spring roll paper. You want to get the entire thing wet, while keeping it in/under the water for as short a time as you can. Transfer it to a clean, flat surface."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Working quickly, spread hummus onto the middle of the roll, and add beets, cabbage, a couple of mint leaves, and a handful of chopped cilantro. Sprinkle sesame seeds and/or drizzle peanut sauce if desired."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Fold the bottom and sides of the rice paper over the filling, and then roll it up all the way and seal it shut. Move it to a plate or other serving vessel."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Repeat to make the remaining spring rolls. Serve with peanut sauce if desired."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Once the rolls have firmed up and dried a little bit (so that they don't stick together) you can transfer any leftovers to a sealed container where they will keep for a few days."
+    }
+  ],
+  "recipeYield": "16",
+  "sameAs": [
+    "https://yupitsvegan.com/carrot-ginger-hummus-spring-rolls"
+  ],
+  "totalTime": "PT20M",
+  "updatedAt": "2022-12-01T12:03:53.451Z"
+}

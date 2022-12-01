@@ -1,0 +1,77 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "3",
+    "ratingValue": "5"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Melanie McDonald"
+  },
+  "createdAt": "2022-12-01T12:09:21.351Z",
+  "datePublished": "2022-08-05T00:18:29+00:00",
+  "description": "A simple Almond Milk recipe which requires just 2 ingredients. This versatile nut milk is easy to make and just the right balance of nutty and creamy!",
+  "image": [
+    "https://avirtualvegan.com/wp-content/uploads/2022/08/Almond-Milk-HERO-A-Virtual-Vegan-1.jpg",
+    "https://avirtualvegan.com/wp-content/uploads/2022/08/Almond-Milk-HERO-A-Virtual-Vegan-1-500x500.jpg",
+    "https://avirtualvegan.com/wp-content/uploads/2022/08/Almond-Milk-HERO-A-Virtual-Vegan-1-500x375.jpg",
+    "https://avirtualvegan.com/wp-content/uploads/2022/08/Almond-Milk-HERO-A-Virtual-Vegan-1-480x270.jpg"
+  ],
+  "keywords": "almond milk, almond milk recipe, how to make almond milk, plant milk",
+  "name": "Almond Milk Recipe",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "62 kcal",
+    "carbohydrateContent": "2.4 g",
+    "fatContent": "5.4 g",
+    "fiberContent": "2 g",
+    "proteinContent": "2.2 g",
+    "saturatedFatContent": "0.4 g",
+    "servingSize": "1 cup",
+    "sodiumContent": "8 mg",
+    "sugarContent": "0.4 g",
+    "unsaturatedFatContent": "4.8 g"
+  },
+  "prepTime": "PT6M",
+  "recipeCategory": "Any",
+  "recipeCuisine": "vegan",
+  "recipeIngredient": [
+    "1 cup (143 grams) raw almonds",
+    "4 cups (960 ml) water (, (Use less to make the milk thicker and creamier)",
+    "1 pinch sea salt",
+    "1 to 2 tablespoons maple syrup"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Place the almonds in a bowl and cover with plenty of cold water. Soak for at least 6 hours or overnight. Or if in a hurry, cover in boiling water and soak for 1 hour."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Drain the almonds and add them to a blender along with any optional add-ins and 4 cups of fresh water."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Blend for at least 2 minutes to really get the most out of your almonds. The liquid in the blender should be milky and opaque when you've finished."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Strain through a nut milk bag into a bowl or jug, squeezing well to get every last drop out. If using cheesecloth, fold it so it is several layers thick and lay it in a sieve."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Pour the milk into clean bottles or jars, close the lids, and store in the fridge."
+    }
+  ],
+  "recipeYield": "4",
+  "sameAs": [
+    "https://avirtualvegan.com/almond-milk-recipe"
+  ],
+  "suitableForDiet": [
+    "https://schema.org/GlutenFreeDiet",
+    "https://schema.org/VeganDiet"
+  ],
+  "totalTime": "PT486M",
+  "updatedAt": "2022-12-01T12:09:21.350Z"
+}

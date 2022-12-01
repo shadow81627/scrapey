@@ -1,0 +1,84 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "26",
+    "ratingValue": "4.85"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Oh My Veggies"
+  },
+  "cookTime": "PT45M",
+  "createdAt": "2022-12-01T12:22:29.378Z",
+  "datePublished": "2015-01-18T10:00:29+00:00",
+  "description": "Don't throw away those vegetable scraps! Use them to make your own delicious vegetable broth instead. It's easy and it's so much cheaper than buying broth at the grocery store.",
+  "image": [
+    "https://ohmyveggies.com/wp-content/uploads/2013/01/vegetable_broth_recipe.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2013/01/vegetable_broth_recipe-450x500.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2013/01/vegetable_broth_recipe-450x375.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2013/01/vegetable_broth_recipe-450x270.jpg"
+  ],
+  "keywords": "how to make vegetable stock, vegetable broth recipe, vegetable stock recipe",
+  "name": "Basic Vegetable Broth",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "55 kcal",
+    "carbohydrateContent": "8 g",
+    "fatContent": "2 g",
+    "fiberContent": "2 g",
+    "proteinContent": "1 g",
+    "saturatedFatContent": "1 g",
+    "servingSize": "1 serving",
+    "sodiumContent": "55 mg",
+    "sugarContent": "3 g"
+  },
+  "prepTime": "PT10M",
+  "recipeCategory": "Soup",
+  "recipeCuisine": "American",
+  "recipeIngredient": [
+    "1 tablespoon olive oil",
+    "5 cloves garlic (minced)",
+    "2 onions (large, chopped)",
+    "3 ribs celery (chopped)",
+    "3 carrots (chopped)",
+    "8 cups water",
+    "frozen vegetable scraps (2-3 cups is a good amount)",
+    "2 bay leaves",
+    "parsley (a few sprigs)",
+    "thyme (a few sprigs)",
+    "salt and pepper (to taste, omit if you are making stock)"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Heat the olive oil in a large Dutch oven or stockpot over medium heat."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add the garlic, onions, celery, and carrots. Cook until softened, about 5 minutes, stirring often."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add the water, frozen vegetable scraps, bay leaves, parsley, and thyme. Reduce heat to low and simmer, partially covered, for 45 minutes."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Pour the broth through a fine mesh strainer into a large heat-proof bowl or pot; discard solids."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Once the broth has cooled, transfer it to airtight plastic containers or freezer bags and store it in the freezer. (I usually freeze it in 2-cup portions so I don't have to thaw all the broth every time I use it.)"
+    }
+  ],
+  "recipeYield": "6",
+  "sameAs": [
+    "https://ohmyveggies.com/how-to-make-vegetable-broth-with-kitchen-scraps"
+  ],
+  "suitableForDiet": [
+    "https://schema.org/VeganDiet",
+    "https://schema.org/VegetarianDiet"
+  ],
+  "totalTime": "PT55M",
+  "updatedAt": "2022-12-01T12:22:29.378Z"
+}

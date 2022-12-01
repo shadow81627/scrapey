@@ -1,0 +1,20 @@
+{
+  "@type": "VideoObject",
+  "contentUrl": "https://cdn.jwplayer.com/manifests/7K6t5tnR.m3u8",
+  "createdAt": "2022-12-01T11:59:36.903Z",
+  "description": "A healthy vegan mac & cheese filled with vegetables",
+  "duration": "PT1M1S",
+  "embedUrl": "https://www.mydarlingvegan.com/4-week-vegan-meal-plan",
+  "name": "Healthy Mac & Cheese",
+  "potentialAction": {
+    "@type": "SeekToAction",
+    "startOffset-input": "required name=seek_to_second_number",
+    "target": "https://www.mydarlingvegan.com/4-week-vegan-meal-plan?jw_start={seek_to_second_number}"
+  },
+  "sameAs": [
+    "https://mydarlingvegan.com/4-week-vegan-meal-plan"
+  ],
+  "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/7K6t5tnR/poster.jpg?width=720",
+  "updatedAt": "2022-12-01T11:59:36.903Z",
+  "uploadDate": "2017-07-12T18:24:54.000Z"
+}

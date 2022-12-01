@@ -3,51 +3,46 @@
   "additionalProperty": [
     {
       "@type": "NutritionInformation",
-      "calories": "179kJ",
-      "carbohydrateContent": "10.5g",
-      "fatContent": "0g",
+      "calories": "Approx.478kJ",
+      "carbohydrateContent": "Approx.28.1g",
+      "dietary_fibre": "Approx.0g",
+      "fatContent": "Approx.0g",
       "name": "nutrition",
-      "proteinContent": "0g",
-      "saturatedFatContent": "0g",
+      "proteinContent": "Approx.0g",
+      "saturatedFatContent": "Approx.0g",
       "servingSize": "100 g",
-      "sodiumContent": "11mg",
-      "sugarContent": "10.5g"
+      "sodiumContent": "Approx.28mg",
+      "sugarContent": "Approx.28.1g"
     }
   ],
   "brand": {
     "@context": "http://schema.org",
     "@type": "Organization",
-    "name": "ceda"
+    "name": "Ceda"
   },
   "createdAt": "2020-11-25T21:33:46.000Z",
-  "description": "Pineapple Soft Drink with a great Creaming Soda taste",
+  "description": "Tru Blu Soft Drinks have established an Australian tradition which is unsurpassed. The extensive range of flavours means that there is a Tru Blu soft drink to suit any taste and occasion. Now that’s not just refreshing…it’s Refreshingly Australian!",
   "gtin13": "9345905007640",
-  "image": {
-    "@type": "ImageObject",
-    "height": 1200,
-    "mime": "image/jpeg",
-    "url": "https://cdn0.woolworths.media/content/wowproductimages/large/082116.jpg",
-    "width": 1200
-  },
-  "name": "Ceda Creaming Soda Pineapple 1.25l",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/082116.jpg",
+  "name": "Ceda Creaming Soda Pineapple 1.25L",
   "offers": {
     "@type": "AggregateOffer",
-    "highPrice": 1.55,
-    "lowPrice": 1.55,
+    "highPrice": null,
+    "lowPrice": null,
     "offerCount": 1,
     "offers": [
       {
         "@context": "http://schema.org",
         "@type": "Offer",
-        "availability": "http://schema.org/InStock",
-        "availabilityStarts": "2020-11-22T05:27:28.778Z",
+        "availability": "http://schema.org/OutOfStock",
+        "availabilityStarts": "2022-12-01T11:04:42.198Z",
         "itemCondition": "http://schema.org/NewCondition",
         "offeredBy": "Woolworths",
         "potentialAction": {
           "@context": "http://schema.org",
           "@type": "BuyAction"
         },
-        "price": 1.55,
+        "price": "$1.55",
         "priceCurrency": "AUD",
         "seller": {
           "@type": "Organization",
@@ -61,5 +56,5 @@
     "https://woolworths.com.au/shop/productdetails/82116/ceda-creaming-soda-pineapple"
   ],
   "sku": "82116",
-  "updatedAt": "2020-11-22T05:27:28.778Z"
+  "updatedAt": "2022-12-01T11:04:42.198Z"
 }

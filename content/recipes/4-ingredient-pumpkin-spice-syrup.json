@@ -1,0 +1,102 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "35",
+    "ratingValue": "4.98"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Sam Turnbull • It Doesn't Taste Like Chicken"
+  },
+  "cookTime": "PT3M",
+  "createdAt": "2022-12-01T12:02:46.932Z",
+  "datePublished": "2016-10-20T10:33:31+00:00",
+  "description": "This syrup is super quick and easy to make. Stir it into coffee for an instant pumpkin spice latte, or drizzle it over pancakes, waffles, french toast, porridge, into a cocktail, hot chocolate, or anywhere your heart desires!",
+  "image": [
+    "https://itdoesnttastelikechicken.com/wp-content/uploads/2016/10/4-Ingredient-Pumpkin-Spice-Syrup-Vegan-Easy-Quick-Latte-Coffee-starbucks.jpg",
+    "https://itdoesnttastelikechicken.com/wp-content/uploads/2016/10/4-Ingredient-Pumpkin-Spice-Syrup-Vegan-Easy-Quick-Latte-Coffee-starbucks-500x500.jpg",
+    "https://itdoesnttastelikechicken.com/wp-content/uploads/2016/10/4-Ingredient-Pumpkin-Spice-Syrup-Vegan-Easy-Quick-Latte-Coffee-starbucks-500x375.jpg",
+    "https://itdoesnttastelikechicken.com/wp-content/uploads/2016/10/4-Ingredient-Pumpkin-Spice-Syrup-Vegan-Easy-Quick-Latte-Coffee-starbucks-480x270.jpg"
+  ],
+  "mentions": [
+    {
+      "@id": "https://itdoesnttastelikechicken.com/tag/coffee/#id",
+      "@type": "http://schema.org/Thing",
+      "description": "Coffee is a brewed drink prepared from roasted coffee beans, which are the seeds of berries from the Coffea plant. The genus Coffea is native to tropical Africa, Madagascar, and the Comoros, Mauritius and Réunion in the Indian Ocean. The plant was exported from Africa to countries around the world and coffee plants are now...",
+      "name": "coffee",
+      "sameAs": [
+        "http://it.dbpedia.org/resource/Caffè",
+        "http://nl.dbpedia.org/resource/Koffie",
+        "http://purl.obolibrary.org/obo/FOODON_03400845",
+        "http://rdf.freebase.com/ns/m.02vqfm",
+        "http://pl.dbpedia.org/resource/Kawa",
+        "http://data.nytimes.com/67140753958360064000",
+        "http://yago-knowledge.org/resource/Health_effects_of_coffee",
+        "http://de.dbpedia.org/resource/Kaffee",
+        "http://cs.dbpedia.org/resource/Káva",
+        "http://wikidata.dbpedia.org/resource/Q8486",
+        "https://en.wikipedia.org/wiki/Coffee",
+        "http://fr.dbpedia.org/resource/Café",
+        "http://es.dbpedia.org/resource/Café",
+        "http://el.dbpedia.org/resource/Καφές",
+        "http://www.wikidata.org/entity/Q8486",
+        "http://d-nb.info/gnd/4029189-3",
+        "http://dbpedia.org/resource/Coffee",
+        "http://pt.dbpedia.org/resource/Café",
+        "http://ja.dbpedia.org/resource/コーヒー",
+        "http://ko.dbpedia.org/resource/커피",
+        "http://id.dbpedia.org/resource/Kopi",
+        "http://eu.dbpedia.org/resource/Kafe",
+        "https://knowledge.cafemedia.com/food/entity/coffee"
+      ]
+    },
+    {
+      "@id": "https://itdoesnttastelikechicken.com/tag/pumpkin/#id",
+      "@type": "http://schema.org/Thing",
+      "description": "A pumpkin is a cultivar of a squash plant, most commonly of Cucurbita pepo, that is round, with smooth, slightly ribbed skin, and deep yellow to orange coloration. The thick shell contains the seeds and pulp. Some exceptionally large cultivars of squash with similar appearance have also been derived from Cucurbita maxima. Specific cultivars of...",
+      "name": "pumpkin",
+      "sameAs": [
+        "http://nl.dbpedia.org/resource/Pompoen",
+        "http://fr.dbpedia.org/resource/Citrouille",
+        "https://en.wikipedia.org/wiki/Pumpkin",
+        "http://es.dbpedia.org/resource/Calabaza_gigante",
+        "http://dbpedia.org/resource/Pumpkin",
+        "http://it.dbpedia.org/resource/Zucca",
+        "http://purl.obolibrary.org/obo/FOODON_00002180",
+        "http://rdf.freebase.com/ns/m.05zsy",
+        "http://id.dbpedia.org/resource/Waluh",
+        "http://www.wikidata.org/entity/Q165308",
+        "http://wikidata.dbpedia.org/resource/Q165308",
+        "https://knowledge.cafemedia.com/food/entity/pumpkin"
+      ]
+    }
+  ],
+  "name": "4 Ingredient Pumpkin Spice Syrup",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "56 kcal",
+    "servingSize": "1 serving"
+  },
+  "prepTime": "PT2M",
+  "recipeCategory": "Drinks",
+  "recipeCuisine": "American",
+  "recipeIngredient": [
+    "3/4 Cup Water",
+    "3/4 Cup Brown Sugar",
+    "1/4 Cup Pumpkin Purée",
+    "2 Teaspoons Pumpkin Pie Spice"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Add everything to a small pot, whisk together and bring to a simmer for about 3 minutes. Pour the syrup through a fine mesh strainer, or a nut milk bag. (You may want to let it cool first if using a nut milk bag). This strains out the pulpiness and leaves you with perfect syrup."
+    }
+  ],
+  "recipeYield": "8",
+  "sameAs": [
+    "https://itdoesnttastelikechicken.com/2016/10/20/4-ingredient-pumpkin-spice-syrup"
+  ],
+  "totalTime": "PT5M",
+  "updatedAt": "2022-12-01T12:02:46.931Z"
+}

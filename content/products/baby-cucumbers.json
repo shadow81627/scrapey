@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "250g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$18.00 per 1Kg"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2022-12-01T11:22:12.253Z",
+  "description": "Quakes are extra crunchy with a crisp, mild skin that's offset by a refreshing, cleansing flavour. They're a quick getaway on a long day. Their adorable, snackable size makes them a delicious go-to for rumbling stomachs and hungry little hands",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/4/5/7/4578148.jpg",
+  "name": "Baby Cucumbers",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 4.5,
+    "lowPrice": 4.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-01T11:22:12.253Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "4.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/qukes-baby-prepacked"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/qukes-baby-prepacked"
+  ],
+  "sku": "4578148",
+  "updatedAt": "2022-12-01T11:22:12.253Z"
+}

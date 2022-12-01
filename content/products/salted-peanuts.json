@@ -1,0 +1,62 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Peanuts, Vegetable Oil, Salt."
+    },
+    {
+      "name": "Contains",
+      "value": "Peanuts."
+    },
+    {
+      "name": "Allergen",
+      "value": "May Be Present Sesame Seeds, May Be Present Soy, May Be Present Milk, May Be Present Tree Nuts, May Be Present Gluten, Contains Peanuts"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "12.5"
+    },
+    {
+      "name": "Size",
+      "value": "375g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.80 per 100G"
+    }
+  ],
+  "brand": "Nobby's",
+  "createdAt": "2022-12-01T11:45:21.488Z",
+  "description": "Nobby's Salted Peanuts",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/1/6/9/169828.jpg",
+  "name": "Salted Peanuts",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3,
+    "lowPrice": 3,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-01T11:45:21.488Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "3.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/nobbys-nuts-peanuts-salted"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/nobbys-nuts-peanuts-salted"
+  ],
+  "sku": "169828",
+  "updatedAt": "2022-12-01T11:45:21.488Z"
+}

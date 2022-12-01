@@ -1,0 +1,129 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "4",
+    "ratingValue": "5"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Yup, it's Vegan"
+  },
+  "cookTime": "PT15M",
+  "createdAt": "2022-12-01T11:19:47.293Z",
+  "datePublished": "2020-06-28T17:38:17+00:00",
+  "description": "These funky vegan kimchi quesadillas are the perfect savory bite and fast to whip up!",
+  "image": [
+    "https://yupitsvegan.com/wp-content/uploads/2020/06/kimchi-quesadillas-vegan-square.jpg",
+    "https://yupitsvegan.com/wp-content/uploads/2020/06/kimchi-quesadillas-vegan-square-500x500.jpg",
+    "https://yupitsvegan.com/wp-content/uploads/2020/06/kimchi-quesadillas-vegan-square-500x375.jpg",
+    "https://yupitsvegan.com/wp-content/uploads/2020/06/kimchi-quesadillas-vegan-square-480x270.jpg"
+  ],
+  "keywords": "kimchi quesadillas",
+  "mentions": [
+    {
+      "@id": "https://yupitsvegan.com/tag/high-vegetable/#id",
+      "@type": "http://schema.org/Thing",
+      "description": "In everyday usage, a vegetable is any part of a plant that is consumed by humans as food as part of a savory meal. The term vegetable is somewhat arbitrary, and largely defined through culinary and cultural tradition. It normally excludes other food derived from plants such as fruits, nuts and cereal grains, but includes...",
+      "name": "vegetable",
+      "sameAs": [
+        "http://ko.dbpedia.org/resource/채소",
+        "http://wikidata.dbpedia.org/resource/Q11004",
+        "http://eu.dbpedia.org/resource/Barazki",
+        "http://purl.obolibrary.org/obo/FOODON_00002141",
+        "http://pl.dbpedia.org/resource/Warzywa",
+        "http://fr.dbpedia.org/resource/Légume",
+        "https://en.wikipedia.org/wiki/Vegetable",
+        "http://de.dbpedia.org/resource/Gemüse",
+        "http://el.dbpedia.org/resource/Λαχανικό",
+        "http://rdf.freebase.com/ns/m.0f4s2w",
+        "http://nl.dbpedia.org/resource/Groente",
+        "http://cs.dbpedia.org/resource/Zelenina",
+        "http://es.dbpedia.org/resource/Verdura",
+        "http://www.wikidata.org/entity/Q11004",
+        "http://dbpedia.org/resource/Vegetable",
+        "http://d-nb.info/gnd/4020069-3",
+        "http://it.dbpedia.org/resource/Verdura",
+        "http://ja.dbpedia.org/resource/野菜",
+        "http://id.dbpedia.org/resource/Sayuran",
+        "https://knowledge.cafemedia.com/food/entity/fruit_vegetable"
+      ]
+    },
+    {
+      "@id": "https://yupitsvegan.com/tag/legumes/#id",
+      "@type": "http://schema.org/Thing",
+      "description": "A legume (/ˈlɛɡjuːm/ or /ˌləˈɡjuːm/) is a plant or fruit/seed in the family Fabaceae (or Leguminosae). Legumes are grown agriculturally, primarily for their grain seed called pulse, for livestock forage and silage, and as soil-enhancing green manure. Well-known legumes include alfalfa, clover, peas, beans, lentils, lupin bean, mesquite, carob, soybeans, peanuts, and tamarind. Legumes are...",
+      "name": "legume",
+      "sameAs": [
+        "http://el.dbpedia.org/resource/Όσπρια",
+        "http://cs.dbpedia.org/resource/Luštěnina",
+        "https://en.wikipedia.org/wiki/Legume",
+        "http://rdf.freebase.com/ns/m.01sfdb",
+        "http://wikidata.dbpedia.org/resource/Q145909",
+        "http://pt.dbpedia.org/resource/Legume",
+        "http://www.wikidata.org/entity/Q145909",
+        "http://ja.dbpedia.org/resource/豆果",
+        "http://fr.dbpedia.org/resource/Gousse",
+        "http://eu.dbpedia.org/resource/Lekale",
+        "http://dbpedia.org/resource/Legume",
+        "http://es.dbpedia.org/resource/Legumbre",
+        "http://yago-knowledge.org/resource/Pulse_(legume)",
+        "http://pl.dbpedia.org/resource/Rośliny_strączkowe",
+        "http://purl.obolibrary.org/obo/FOODON_00001264",
+        "http://nl.dbpedia.org/resource/Peul_(vrucht)",
+        "http://de.dbpedia.org/resource/Hülsenfrucht",
+        "http://it.dbpedia.org/resource/Baccello",
+        "http://d-nb.info/gnd/4020803-5",
+        "http://rdf.freebase.com/ns/m.0bqsk",
+        "https://knowledge.cafemedia.com/food/entity/legume"
+      ]
+    }
+  ],
+  "name": "Kimchi Quesadillas",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "422 kcal",
+    "carbohydrateContent": "56 g",
+    "fatContent": "16 g",
+    "fiberContent": "12 g",
+    "proteinContent": "14 g",
+    "saturatedFatContent": "1 g",
+    "servingSize": "1 quesadilla",
+    "sodiumContent": "815 mg",
+    "sugarContent": "9 g",
+    "unsaturatedFatContent": "9 g"
+  },
+  "prepTime": "PT15M",
+  "recipeCategory": "dinner",
+  "recipeCuisine": "dairy-free",
+  "recipeIngredient": [
+    "1 bell pepper (thinly sliced)",
+    "1 poblano pepper (thinly sliced (or use a second bell pepper)",
+    "1 red onion (thinly sliced)",
+    "1/2 tsp cumin",
+    "1/4 tsp paprika",
+    "1/8 tsp black pepper",
+    "1 cup refried black beans (about half of a can)",
+    "4 oz kimchi (about 3/4 cup) (check label for fish sauce)",
+    "2 flour tortillas",
+    "2 tsp vegetable oil",
+    "scallions and sesame seeds (optional, for serving)",
+    "vegan chipotle mayonnaise (optional, for serving)"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Warm the oil in a skillet over medium heat. When the oil is hot, add the sliced peppers and onion and stir. Continue to cook, stirring only occasionally, until the vegetables are slightly browned and softened a bit, about 5-6 minutes."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add the cumin, paprika, black pepper, and salt to taste, and stir well to combine. Reduce the heat to medium-low and continue cooking until the onion is soft, about 2-4 minutes more."
+    }
+  ],
+  "recipeYield": "2",
+  "sameAs": [
+    "https://yupitsvegan.com/kimchi-quesadillas-vegan"
+  ],
+  "totalTime": "PT30M",
+  "updatedAt": "2022-12-01T11:19:47.291Z"
+}

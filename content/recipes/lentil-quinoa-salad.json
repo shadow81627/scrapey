@@ -1,0 +1,78 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "2",
+    "ratingValue": "5"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Sophia DeSantis"
+  },
+  "createdAt": "2022-12-01T12:13:34.235Z",
+  "datePublished": "2020-05-25T13:45:22+00:00",
+  "description": "This recipe has it all: protein, iron, veggies and the health benefits of quinoa. So easy to put together and a great spring dish!",
+  "image": [
+    "https://www.veggiesdontbite.com/wp-content/uploads/2020/07/vegan-lentil-quinoa-salad-FI.jpg",
+    "https://www.veggiesdontbite.com/wp-content/uploads/2020/07/vegan-lentil-quinoa-salad-FI-500x500.jpg",
+    "https://www.veggiesdontbite.com/wp-content/uploads/2020/07/vegan-lentil-quinoa-salad-FI-500x375.jpg",
+    "https://www.veggiesdontbite.com/wp-content/uploads/2020/07/vegan-lentil-quinoa-salad-FI-480x270.jpg"
+  ],
+  "keywords": "easy lentil salad, salad with lentils",
+  "name": "Lentil Quinoa Salad",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "440 kcal",
+    "carbohydrateContent": "67 g",
+    "fatContent": "11 g",
+    "fiberContent": "14 g",
+    "proteinContent": "21 g",
+    "saturatedFatContent": "2 g",
+    "servingSize": "1 serving",
+    "sodiumContent": "899 mg",
+    "sugarContent": "5 g"
+  },
+  "prepTime": "PT25M",
+  "recipeCategory": "Main Course",
+  "recipeCuisine": "Mediterranean",
+  "recipeIngredient": [
+    "4 cups cooked quinoa (, use frozen for a fast version (about 1 1/4 cups dry quinoa)",
+    "1 cup roasted peppers (, chopped (red, yellow or a mix, roast your own or use jarred for fast version)",
+    "2 cups fresh spinach (, chopped)",
+    "2 cups cooked lentils (I use Trader Joe's precooked refrigerated lentils for a fast version)",
+    "1 tablespoon lemon juice (, add more for extra tang if preferred)",
+    "1 tablespoon balsamic vinegar",
+    "3/4-1 teaspoon sea salt (, taste and add more if needed)",
+    "1/2 teaspoon ground ground black pepper",
+    "1/2 cup vegan feta (, optional but recommended)"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Mix all ingredients in a bowl. Place in the fridge to chill. Best served cold but it can also be eaten warm."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "If cooking quinoa or lentils day of, once cooked mix spinach in with both while they are warm. It will wilt the spinach a little bit."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "If using jarred peppers and they are jarred with oil, rinse a little or dab with paper towels if you prefer no oil."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Serve alone or as a side!"
+    }
+  ],
+  "recipeYield": "4",
+  "sameAs": [
+    "https://veggiesdontbite.com/lentil-quinoa-salad-my-guest-post-on-cooking-quinoa"
+  ],
+  "suitableForDiet": [
+    "https://schema.org/GlutenFreeDiet",
+    "https://schema.org/VeganDiet",
+    "https://schema.org/VegetarianDiet"
+  ],
+  "totalTime": "PT25M",
+  "updatedAt": "2022-12-01T12:13:34.234Z"
+}

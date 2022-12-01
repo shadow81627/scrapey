@@ -3,15 +3,15 @@
   "additionalProperty": [
     {
       "name": "Ingredients",
-      "value": "Wheat Flour, Water, Raising Agents (450, 500), lodised Salt, Dextrose, Preservatives (282, 234), Vitamins (Thiamin, Folic Acid)., Wheat Flour, Water, Raising Agents (500, 450), Iodised Salt, Dextrose, Preservatives (282, 234), Vitamins (Thiamin, Folate)"
+      "value": "Wheat Flour, Water, Raising Agents (450,500), Iodised Salt, Dextrose, Preservatives (282,234), Vitamins (Thiamin, Folic Acid)."
     },
     {
       "name": "Contains",
-      "value": "Gluten Cereals."
+      "value": "Gluten Cereals"
     },
     {
       "name": "Allergen",
-      "value": "Contains Cereals, Contains Gluten"
+      "value": "Contains Gluten, Contains Cereals"
     },
     {
       "name": "Dietary",
@@ -27,34 +27,28 @@
     },
     {
       "name": "Unit Price",
-      "value": "$0.31 per 1Ea"
+      "value": "$0.67 per 1Ea"
     }
   ],
   "brand": "Golden",
   "createdAt": "2020-11-15T12:30:20.000Z",
-  "description": "Golden 6 Crumpets contains no artificial colours or flavours and low in sugar.",
-  "image": {
-    "@type": "ImageObject",
-    "height": 300,
-    "mime": "image/jpeg",
-    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/3/2/332383.jpg",
-    "width": 300
-  },
+  "description": "Golden Round Crumpets",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/3/2/332383.jpg",
   "name": "Round Crumpets",
   "offers": {
     "@type": "AggregateOffer",
-    "highPrice": 1.85,
-    "lowPrice": 1.85,
+    "highPrice": 4,
+    "lowPrice": 4,
     "offerCount": 1,
     "offers": [
       {
         "@context": "http://schema.org",
         "@type": "Offer",
         "availability": "https://schema.org/InStock",
-        "availabilityStarts": "2020-11-15T11:31:28.771Z",
+        "availabilityStarts": "2022-12-01T11:35:23.758Z",
         "itemCondition": "https://schema.org/NewCondition",
         "offeredBy": "Coles",
-        "price": "1.85",
+        "price": "4.00",
         "priceCurrency": "AUD",
         "seller": {
           "@type": "Organization",
@@ -65,8 +59,8 @@
     ]
   },
   "sameAs": [
-    "https://shop.coles.com.au/a/national/product/golden-crumpets-rounds?adId=display_WsZBaLOaw55lLaLuCoT5QZfQ_PszMzIzODNQ"
+    "https://shop.coles.com.au/a/national/product/golden-crumpets-rounds"
   ],
   "sku": "332383",
-  "updatedAt": "2020-11-15T11:31:28.771Z"
+  "updatedAt": "2022-12-01T11:35:23.759Z"
 }
