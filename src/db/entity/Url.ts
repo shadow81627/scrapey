@@ -124,6 +124,7 @@ export class Url {
         'citrusAdId',
         'bvstate',
         '_gl',
+        'fbclid',
       ],
     });
   }
