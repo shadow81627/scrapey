@@ -56,6 +56,12 @@ async function fetchCrawlUrls({
     }).andWhere({
       pathname: Not(Like('%printrecipe%'))
     })
+    .andWhere({
+      pathname: Not(Like('%.mp3'))
+    })
+    .andWhere({
+      pathname: Not(Like('/wp-content/%'))
+    })
     .andWhere(
       new Brackets((qb) => {
         qb.where({ canonical: IsNull() }).orWhere({
