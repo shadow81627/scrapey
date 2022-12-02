@@ -1,0 +1,72 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "2",
+    "ratingValue": "4.5"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Oh My Veggies"
+  },
+  "cookTime": "PT15M",
+  "createdAt": "2022-12-02T04:05:47.929Z",
+  "datePublished": "2020-07-27T06:00:31+00:00",
+  "description": "A simple summer pasta salad made with orzo, grape tomatoes, fresh corn, and green beans.",
+  "image": [
+    "https://ohmyveggies.com/wp-content/uploads/2013/06/summer_orzo_salad_recipe.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2013/06/summer_orzo_salad_recipe-500x400.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2013/06/summer_orzo_salad_recipe-500x375.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2013/06/summer_orzo_salad_recipe-480x270.jpg"
+  ],
+  "keywords": "orzo salad, Simple Vegan Summer Orzo Salad, Vegan Orzo Salad, vegan salad recipe",
+  "name": "Simple Vegan Summer Orzo Salad",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "299 kcal",
+    "carbohydrateContent": "55 g",
+    "fatContent": "5 g",
+    "fiberContent": "4 g",
+    "proteinContent": "10 g",
+    "saturatedFatContent": "1 g",
+    "servingSize": "1 serving",
+    "sodiumContent": "17 mg",
+    "sugarContent": "6 g",
+    "transFatContent": "1 g",
+    "unsaturatedFatContent": "4 g"
+  },
+  "prepTime": "PT10M",
+  "recipeCategory": "Main Course",
+  "recipeCuisine": "American",
+  "recipeIngredient": [
+    "8 oz orzo",
+    "1 cup green beans (trimmed)",
+    "2 ears corn (kernels removed)",
+    "2 cloves garlic (minced)",
+    "1 cup grape or cherry tomatoes (halved)",
+    "1 tbsp olive oil",
+    "2 tbsp white wine vinegar",
+    "1/4 cup torn basil leaves",
+    "salt and pepper (to taste)"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Cook orzo according to package. Two minutes before cooking time is done, add green beans to pot. Drain in a fine mesh colander and rinse with cold water."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Transfer orzo and green beans to a large bowl. Stir in remaining ingredients and season with salt and pepper to taste."
+    }
+  ],
+  "recipeYield": "4",
+  "sameAs": [
+    "https://ohmyveggies.com/simple-vegan-summer-orzo-salad"
+  ],
+  "suitableForDiet": [
+    "https://schema.org/VeganDiet",
+    "https://schema.org/VegetarianDiet"
+  ],
+  "totalTime": "PT25M",
+  "updatedAt": "2022-12-02T04:05:47.928Z"
+}

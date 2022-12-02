@@ -1,0 +1,54 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Warning",
+      "value": "Household Warnings: CAUTION KEEP OUT OF REACH OF CHILDREN"
+    },
+    {
+      "name": "Size",
+      "value": "2L"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.75 per 1L"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Made in Australia"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2022-12-01T23:55:00.317Z",
+  "description": "Coles Laundry Liquid Lemon Fresh 2L. Perfect for hot and cold washes with a refreshing lemon scent to keep garments smelling great!",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/4/4/8/4484725.jpg",
+  "name": "Laundry Liquid Lemon Fresh",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 1.5,
+    "lowPrice": 1.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-01T23:55:00.305Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "1.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-smart-buy-laundry-liquid"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/coles-smart-buy-laundry-liquid"
+  ],
+  "sku": "4484725",
+  "updatedAt": "2022-12-01T23:55:00.305Z"
+}

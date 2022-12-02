@@ -1,0 +1,145 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "2",
+    "ratingValue": "4.5"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Yup, it's Vegan"
+  },
+  "cookTime": "PT15M",
+  "createdAt": "2022-12-02T01:22:15.075Z",
+  "datePublished": "2014-03-22T07:00:06+00:00",
+  "description": "Dairy-free coconut butter chocolate chip cookies. No butter, margarine or oil here - these are cookies made with coconut butter! Naturally-sweetened too, these cookies are crispy on the edges and ultra chewy in the middle. A crowd-pleasing recipe.",
+  "image": [
+    "https://yupitsvegan.com/wp-content/uploads/2014/03/coconut_butter_chocolate_chip_cookies_1.jpg"
+  ],
+  "keywords": "coconut butter chocolate chip cookies",
+  "mentions": [
+    {
+      "@id": "https://yupitsvegan.com/tag/chocolate/#id",
+      "@type": "http://schema.org/Thing",
+      "description": "Chocolate /ˈtʃɒkᵊlᵻt/ is a typically sweet, usually brown, food preparation of Theobroma cacao seeds, roasted and ground, often flavored, as with vanilla. It is made in the form of a liquid, paste, or in a block, or used as a flavoring ingredient in other foods. Cacao has been cultivated by many cultures for at least...",
+      "name": "chocolate",
+      "sameAs": [
+        "http://purl.obolibrary.org/obo/FOODON_03307240",
+        "http://wikidata.dbpedia.org/resource/Q195",
+        "http://ja.dbpedia.org/resource/チョコレート",
+        "https://en.wikipedia.org/wiki/Chocolate",
+        "http://de.dbpedia.org/resource/Schokolade",
+        "http://pt.dbpedia.org/resource/Chocolate",
+        "http://id.dbpedia.org/resource/Cokelat",
+        "http://fr.dbpedia.org/resource/Chocolat",
+        "http://it.dbpedia.org/resource/Cioccolato",
+        "http://cs.dbpedia.org/resource/Čokoláda",
+        "http://pl.dbpedia.org/resource/Czekolada",
+        "http://el.dbpedia.org/resource/Σοκολάτα",
+        "http://es.dbpedia.org/resource/Chocolate",
+        "http://rdf.freebase.com/ns/m.020vl",
+        "http://dbpedia.org/resource/Chocolate",
+        "http://d-nb.info/gnd/4053168-5",
+        "http://ko.dbpedia.org/resource/초콜릿",
+        "http://www.wikidata.org/entity/Q195",
+        "http://nl.dbpedia.org/resource/Chocolade",
+        "http://eu.dbpedia.org/resource/Txokolate",
+        "https://knowledge.cafemedia.com/food/entity/chocolate"
+      ]
+    },
+    {
+      "@id": "https://yupitsvegan.com/category/desserts/#id",
+      "@type": "http://schema.org/Thing",
+      "description": "Dessert (/dᵻˈzɜːrt/) is a course that concludes a main meal. The course usually consists of sweet foods and beverages, such as dessert wine or liqueurs, but may include coffee, cheeses, nuts, or other savory items. In some parts of the world, such as much of central and western Africa, there is no tradition of a...",
+      "name": "sweet dish",
+      "sameAs": [
+        "http://es.dbpedia.org/resource/Postre",
+        "http://dbpedia.org/resource/Dessert",
+        "http://ko.dbpedia.org/resource/후식",
+        "http://fr.dbpedia.org/resource/Dessert",
+        "http://de.dbpedia.org/resource/Dessert",
+        "http://id.dbpedia.org/resource/Hidangan_penutup",
+        "http://ja.dbpedia.org/resource/デザート",
+        "http://nl.dbpedia.org/resource/Nagerecht",
+        "http://pt.dbpedia.org/resource/Sobremesa",
+        "http://d-nb.info/gnd/4011539-2",
+        "http://purl.obolibrary.org/obo/FOODON_03316299",
+        "http://pl.dbpedia.org/resource/Deser",
+        "http://cs.dbpedia.org/resource/Dezert",
+        "http://eu.dbpedia.org/resource/Azkenburu",
+        "http://www.wikidata.org/entity/Q182940",
+        "https://en.wikipedia.org/wiki/Dessert",
+        "http://it.dbpedia.org/resource/Dessert",
+        "http://rdf.freebase.com/ns/m.0270h",
+        "http://wikidata.dbpedia.org/resource/Q182940",
+        "https://knowledge.cafemedia.com/food/entity/sweet_dish"
+      ]
+    }
+  ],
+  "name": "Coconut Butter Chocolate Chip Cookies",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "160 kcal",
+    "carbohydrateContent": "20 g",
+    "fatContent": "8 g",
+    "fiberContent": "1 g",
+    "proteinContent": "1 g",
+    "saturatedFatContent": "1 g",
+    "servingSize": "1 cookie",
+    "sodiumContent": "102 mg",
+    "sugarContent": "10 g"
+  },
+  "prepTime": "PT20M",
+  "recipeCategory": "Dessert",
+  "recipeCuisine": "oil-free",
+  "recipeIngredient": [
+    "1/2 cup coconut sugar (or brown sugar)",
+    "1 tsp molasses (optional)",
+    "1/4 cup brown rice syrup (see notes for substitutions)",
+    "2/3 cup unsweetened coconut butter (see notes for how to make your own)",
+    "1/4 cup plain, unsweetened non-dairy milk",
+    "4 tsp tapioca starch (or cornstarch)",
+    "2 tsp vanilla extract",
+    "1 cup all-purpose flour",
+    "1/4 cup whole wheat pastry flour (or additional AP flour; do not use regular whole wheat)",
+    "1/2 tsp baking soda",
+    "1/2 tsp salt",
+    "1/2 cup dairy-free chocolate chips (or a few more, to your taste)"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Preheat the oven to 350 degrees Fahrenheit and prepare a baking sheet lined with parchment paper or a Silpat or other sillicone liner."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "In a nonreactive bowl, combine the coconut sugar, (optional) molasses, brown rice syrup, coconut butter, milk, tapioca flour, cornstarch, and vanilla. Use a fork and mix aggressively until the mixture is thoroughly combined. Continue stirring for another 90-120 seconds (and be ready for sore arms)."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "In a separate, smaller bowl, sift together the flours, baking soda, and salt. Add them to the wet mixture and stir until completely combined. This dough is rather stiff and sticky, so this will be somewhat difficult, but it will work - don't be tempted to add more liquid."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Fold the chocolate chips into the dough. Form the dough into balls about two tablespoons in size and place them at least an inch apart on the baking sheet. Flatten them slightly."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Bake for about 12 minutes, or until the edges feel firm and a little crisp or you see any browning. The centers will still be very soft at this point."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "(Optional step for chewier cookies) at the 10-minute mark, remove the baking sheet from the oven and, working quickly, press down gently on the cookies with a spatula or your fingers to give them a flat shape. Return to the oven."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Let cool on the baking sheet for at least 10 minutes (they will continue to get chewier until they reach room temperature). Gently remove with a spatula and enjoy."
+    }
+  ],
+  "recipeYield": "18",
+  "sameAs": [
+    "https://yupitsvegan.com/coconut-butter-chocolate-chip-cookies"
+  ],
+  "totalTime": "PT35M",
+  "updatedAt": "2022-12-02T01:22:15.073Z"
+}

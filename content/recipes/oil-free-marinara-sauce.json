@@ -1,0 +1,98 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "5",
+    "ratingValue": "5"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Yup, it's Vegan"
+  },
+  "cookTime": "PT25M",
+  "createdAt": "2022-12-02T00:30:16.441Z",
+  "datePublished": "2019-07-15T21:22:36+00:00",
+  "description": "Wonder no more about whether delicious oil-free marinara is possible! This fat-free tomato sauce uses the powers of white wine to infuse garlic flavor into the tomatoes, sans oil. Recipe is easily doubled or halved!",
+  "image": [
+    "https://yupitsvegan.com/wp-content/uploads/2019/07/oil-free-marinara-tomato-sauce-square.jpg",
+    "https://yupitsvegan.com/wp-content/uploads/2019/07/oil-free-marinara-tomato-sauce-square-500x500.jpg",
+    "https://yupitsvegan.com/wp-content/uploads/2019/07/oil-free-marinara-tomato-sauce-square-500x375.jpg",
+    "https://yupitsvegan.com/wp-content/uploads/2019/07/oil-free-marinara-tomato-sauce-square-480x270.jpg"
+  ],
+  "keywords": "oil-free marinara, oil-free tomato sauce",
+  "mentions": [
+    {
+      "@id": "https://yupitsvegan.com/tag/pasta/#id",
+      "@type": "http://schema.org/Thing",
+      "description": "Pasta (Italian pronunciation: ) is a staple food of traditional Italian cuisine, with the first reference dating to 1154 in Sicily. It is also commonly used to refer to the variety of pasta dishes. Typically, pasta is a noodle made from an unleavened dough of a durum wheat flour mixed with water or eggs and...",
+      "name": "pasta",
+      "sameAs": [
+        "http://el.dbpedia.org/resource/Ζυμαρικό",
+        "http://rdf.freebase.com/ns/m.05z55",
+        "http://ko.dbpedia.org/resource/파스타",
+        "http://pt.dbpedia.org/resource/Massa_alimentícia",
+        "http://it.dbpedia.org/resource/Pasta",
+        "http://es.dbpedia.org/resource/Pasta",
+        "http://pl.dbpedia.org/resource/Makaron",
+        "https://en.wikipedia.org/wiki/Pasta",
+        "http://nl.dbpedia.org/resource/Pasta_(deegwaar)",
+        "http://wikidata.dbpedia.org/resource/Q178",
+        "http://fr.dbpedia.org/resource/Pâtes_alimentaires",
+        "http://www.wikidata.org/entity/Q178",
+        "http://de.dbpedia.org/resource/Pasta",
+        "http://ja.dbpedia.org/resource/パスタ",
+        "http://purl.obolibrary.org/obo/FOODON_03306347",
+        "http://cs.dbpedia.org/resource/Těstoviny",
+        "http://id.dbpedia.org/resource/Pasta",
+        "http://eu.dbpedia.org/resource/Pasta_(orea)",
+        "http://dbpedia.org/resource/Pasta",
+        "https://knowledge.cafemedia.com/food/entity/pasta"
+      ]
+    }
+  ],
+  "name": "Oil-Free Marinara Sauce",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "48 kcal",
+    "carbohydrateContent": "10 g",
+    "fiberContent": "5 g",
+    "proteinContent": "2 g",
+    "servingSize": "1 half cup",
+    "sugarContent": "6 g"
+  },
+  "prepTime": "PT10M",
+  "recipeCategory": "Sauce",
+  "recipeCuisine": "gluten-free",
+  "recipeIngredient": [
+    "4 cloves garlic (minced)",
+    "2 tbsp dry white wine (or as needed to soak garlic)",
+    "70 oz tomato puree (see note)",
+    "1 large spring fresh basil (optional)",
+    "1 tsp soy sauce (optional)",
+    "1/2 tsp salt (or to taste)"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Add the minced garlic to a small bowl and cover with the white wine. Let sit for 15 minutes (or covered in the fridge for up to 24 hours for even better flavor) while you prep the rest of the recipe."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Heat your nonstick pan on medium-low heat. When warm, add the white wine and garlic mixture (it will bubble quite a bit), then immediately add the tomato puree."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Stir well, scraping any wine solids from the bottom of the pan. If using the fresh basil, gently bruise or tear it and then add it to the pan. Continue to simmer for about 15 to 20 minutes, stirring occasionally, until the tomatoes have thickened and turned a richer red color, and the garlic is softened."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Remove the basil from the pan and discard, if using. Stir in the optional soy sauce if using, and season to taste with salt."
+    }
+  ],
+  "recipeYield": "4",
+  "sameAs": [
+    "https://yupitsvegan.com/oil-free-marinara-sauce"
+  ],
+  "totalTime": "PT50M",
+  "updatedAt": "2022-12-02T00:30:16.440Z"
+}

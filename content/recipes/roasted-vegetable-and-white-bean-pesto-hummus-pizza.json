@@ -1,0 +1,82 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1",
+    "ratingValue": "5"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Oh My Veggies"
+  },
+  "cookTime": "PT20M",
+  "createdAt": "2022-12-02T05:48:22.419Z",
+  "datePublished": "2015-01-07T09:25:00+00:00",
+  "description": "This vegan pizza is flavorful and hearty, with a layer of creamy white bean pesto hummus topped with roasted broccoli, mushrooms and zucchini. It's as easy to make as it is healthy, and takes just 30 minutes to prepare.",
+  "image": [
+    "https://ohmyveggies.com/wp-content/uploads/2015/01/roasted_vegetable_and_white_bean_pesto_hummus_pizza.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2015/01/roasted_vegetable_and_white_bean_pesto_hummus_pizza-500x400.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2015/01/roasted_vegetable_and_white_bean_pesto_hummus_pizza-500x375.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2015/01/roasted_vegetable_and_white_bean_pesto_hummus_pizza-480x270.jpg"
+  ],
+  "keywords": "Roasted Vegetable and White Bean Pesto Hummus Pizza, vegan pizza",
+  "name": "Roasted Vegetable and White Bean Pesto Hummus Pizza",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "314 kcal",
+    "carbohydrateContent": "42 g",
+    "cholesterolContent": "1 mg",
+    "fatContent": "14 g",
+    "fiberContent": "3 g",
+    "proteinContent": "9 g",
+    "saturatedFatContent": "2 g",
+    "servingSize": "1 slice",
+    "sodiumContent": "755 mg",
+    "sugarContent": "7 g",
+    "unsaturatedFatContent": "6 g"
+  },
+  "prepTime": "PT10M",
+  "recipeCategory": "Main Course",
+  "recipeCuisine": "American",
+  "recipeIngredient": [
+    "1 pound pizza dough (store-bought or homemade)",
+    "3 tablespoons olive oil (divided)",
+    "2 cups sliced white button mushrooms",
+    "2 cups sliced zucchini (about 1 medium)",
+    "2 cups broccoli florets (about 1 crown)",
+    "1/4 teaspoon salt",
+    "1/4 teaspoon black pepper",
+    "1 14-ounce can cannellini beans, rinsed and drained (or 1 3/4 cup cooked)",
+    "1/4 cup prepared pesto (make sure it's dairy-free if you're vegan)",
+    "2 tablespoons lemon juice",
+    "Salt to taste"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Preheat the oven to 400o. Place a pizza stone or baking sheet in the oven to preheat."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Place veggies in a roasting pan with 2 tablespoons of olive oil, salt and pepper. Toss a few times until the veggies are evenly coated."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "On lightly floured surface, roll the pizza dough into a 12- to 14-inch circle. Brush the top with the remaining 1 tablespoon of olive oil. Carefully transfer the dough to the preheated pizza stone or baking sheet."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Place the veggies and pizza crust in the oven. Bake the pizza crust until lightly browned, about 15-20 minutes. Bake the veggies until slightly tender and browned in spots, about 20 minutes, tossing 1-2 times during baking."
+    }
+  ],
+  "recipeYield": "6",
+  "sameAs": [
+    "https://ohmyveggies.com/roasted-vegetable-and-white-bean-pesto-hummus-pizza"
+  ],
+  "suitableForDiet": [
+    "https://schema.org/VeganDiet",
+    "https://schema.org/VegetarianDiet"
+  ],
+  "totalTime": "PT30M",
+  "updatedAt": "2022-12-02T05:48:22.417Z"
+}

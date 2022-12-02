@@ -1,0 +1,74 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1",
+    "ratingValue": "5"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Oh My Veggies"
+  },
+  "createdAt": "2022-12-02T04:34:58.723Z",
+  "datePublished": "2019-08-14T06:00:47+00:00",
+  "description": "This Simple Greek Salad is tasty, fresh, quick to prepare, and bursting with flavors—a staple recipe of Mediterranean cuisine.",
+  "image": [
+    "https://ohmyveggies.com/wp-content/uploads/2019/07/greek-salad-1_-scaled.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2019/07/greek-salad-1_-500x500.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2019/07/greek-salad-1_-500x375.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2019/07/greek-salad-1_-480x270.jpg"
+  ],
+  "keywords": "greek salad recipe, Simple Greek Salad, vegetarian salad recipe",
+  "name": "Simple Greek Salad",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "169 kcal",
+    "carbohydrateContent": "10 g",
+    "cholesterolContent": "45 mg",
+    "fatContent": "12 g",
+    "fiberContent": "2 g",
+    "proteinContent": "8 g",
+    "saturatedFatContent": "8 g",
+    "servingSize": "1 serving",
+    "sodiumContent": "564 mg",
+    "sugarContent": "6 g",
+    "unsaturatedFatContent": "4 g"
+  },
+  "prepTime": "PT10M",
+  "recipeCategory": "Main Course",
+  "recipeCuisine": "American",
+  "recipeIngredient": [
+    "1 English cucumber (sliced)",
+    "1 onion (cut into thin slices)",
+    "1 cup cherry tomatoes",
+    "1 bell pepper (cut into thin cubes)",
+    "300 g feta cheese (cut into cubes)",
+    "1 lemon",
+    "1 tsp dried oregano",
+    "1 tsp olive oil",
+    "salt and pepper"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "In a bowl, mix all ingredients together except lemon, oregano, and olive oil."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "In another bowl, pour the juice of one lemon, the olive oil, and the oregano. Salt and pepper to taste."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Pour the vinaigrette over the salad and refrigerate for 30 minutes."
+    }
+  ],
+  "recipeYield": "6",
+  "sameAs": [
+    "https://ohmyveggies.com/simple-greek-salad"
+  ],
+  "suitableForDiet": [
+    "https://schema.org/VegetarianDiet"
+  ],
+  "totalTime": "PT10M",
+  "updatedAt": "2022-12-02T04:34:58.722Z"
+}

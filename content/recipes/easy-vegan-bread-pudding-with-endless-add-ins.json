@@ -1,0 +1,120 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "10",
+    "ratingValue": "5"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Sam Turnbull • It Doesn't Taste Like Chicken"
+  },
+  "cookTime": "PT35M",
+  "createdAt": "2022-12-02T04:30:22.506Z",
+  "datePublished": "2016-12-13T10:56:37+00:00",
+  "description": "Make these individual servings, then everyone can choose to customise how they like, nuts, berries, raisins, coconut, chocolate, options are endless! Pop in the oven and bake. Great for a fun brunch or dessert.&nbsp;",
+  "image": [
+    "https://itdoesnttastelikechicken.com/wp-content/uploads/2016/12/Easy-Vegan-Bread-Pudding-endless-add-ins-diy-dairy-egg-free-berries-raisins-nuts.jpg",
+    "https://itdoesnttastelikechicken.com/wp-content/uploads/2016/12/Easy-Vegan-Bread-Pudding-endless-add-ins-diy-dairy-egg-free-berries-raisins-nuts-500x500.jpg",
+    "https://itdoesnttastelikechicken.com/wp-content/uploads/2016/12/Easy-Vegan-Bread-Pudding-endless-add-ins-diy-dairy-egg-free-berries-raisins-nuts-500x375.jpg",
+    "https://itdoesnttastelikechicken.com/wp-content/uploads/2016/12/Easy-Vegan-Bread-Pudding-endless-add-ins-diy-dairy-egg-free-berries-raisins-nuts-480x270.jpg"
+  ],
+  "mentions": [
+    {
+      "@id": "https://itdoesnttastelikechicken.com/tag/bread/#id",
+      "@type": "http://schema.org/Thing",
+      "description": "Bread is a staple food prepared from a dough of flour and water, usually by baking. Throughout recorded history it has been popular around the world and is one of the oldest artificial foods, having been of importance since the dawn of agriculture.",
+      "name": "bread",
+      "sameAs": [
+        "http://eu.dbpedia.org/resource/Ogi_integral",
+        "http://nl.dbpedia.org/resource/Volkorenbrood",
+        "http://dbpedia.org/resource/Brown_bread",
+        "https://en.wikipedia.org/wiki/Brown_bread",
+        "http://fr.dbpedia.org/resource/Pain_complet",
+        "http://purl.obolibrary.org/obo/FOODON_03315751",
+        "http://es.dbpedia.org/resource/Pan_integral",
+        "http://www.wikidata.org/entity/Q940999",
+        "http://wikidata.dbpedia.org/resource/Q940999",
+        "http://rdf.freebase.com/ns/m.09728",
+        "http://de.dbpedia.org/resource/Vollkornbrot",
+        "http://rdf.freebase.com/ns/m.02pb9jl",
+        "https://knowledge.cafemedia.com/food/entity/brown_bread"
+      ]
+    },
+    {
+      "@id": "https://itdoesnttastelikechicken.com/tag/breakfast/#id",
+      "@type": "http://schema.org/Thing",
+      "description": "Breakfast is the first meal of a day, most often eaten in the early morning before undertaking the day's work. Some believe it to be the most important meal of the day, however there is little scientific evidence to back up this point. Among English speakers, \"breakfast\" can be used to refer to this meal...",
+      "name": "breakfast",
+      "sameAs": [
+        "http://wikidata.dbpedia.org/resource/Q80973",
+        "http://rdf.freebase.com/ns/m.0hz4q",
+        "http://fr.dbpedia.org/resource/Déjeuner",
+        "http://www.wikidata.org/entity/Q80973",
+        "http://id.dbpedia.org/resource/Sarapan",
+        "https://en.wikipedia.org/wiki/Breakfast",
+        "http://ko.dbpedia.org/resource/아침밥",
+        "http://ja.dbpedia.org/resource/朝食",
+        "http://pt.dbpedia.org/resource/Desjejum",
+        "http://d-nb.info/gnd/4018736-6",
+        "http://it.dbpedia.org/resource/Colazione",
+        "http://es.dbpedia.org/resource/Desayuno",
+        "http://cs.dbpedia.org/resource/Snídaně",
+        "http://de.dbpedia.org/resource/Frühstück",
+        "http://pl.dbpedia.org/resource/Śniadanie",
+        "http://dbpedia.org/resource/Breakfast",
+        "http://purl.obolibrary.org/obo/FOODON_00002386",
+        "http://nl.dbpedia.org/resource/Ontbijt",
+        "http://eu.dbpedia.org/resource/Gosari",
+        "https://knowledge.cafemedia.com/food/entity/breakfast_food"
+      ]
+    }
+  ],
+  "name": "Easy Vegan Bread Pudding (with endless add-ins!)",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "285 kcal",
+    "servingSize": "1 serving"
+  },
+  "prepTime": "PT10M",
+  "recipeCategory": "Dessert",
+  "recipeCuisine": "American",
+  "recipeIngredient": [
+    "1 baguette",
+    "2 cups plant-based milk (such as soy or almond)",
+    "2 cups full-fat coconut milk",
+    "3/4 cup brown sugar",
+    "3 tablespoons cornstarch",
+    "2 teaspoons vanilla extract",
+    "1 teaspoon cinnamon",
+    "dried fruit (raisins, chopped apricots, chopped dates, coconut flakes)",
+    "chopped nuts (pecans, cashews, peanuts, walnuts, almonds)",
+    "fresh fruit (strawberry slices, raspberries, blueberries, blackberries, banana slices)",
+    "vegan chocolate chips",
+    "Soy, almond, or coconut cream (for pouring on top once the vegan bread pudding is baked)"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Preheat your oven to 350F (180C)."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Cut the baguette into small cubes and divide the bread cubes evenly among the Meal Mugs. You can now add up to 1/4 cup of optional add-ins per mug that you would like baked into the bread pudding."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add all of the remaining vegan bread pudding ingredients to a blender and mix well. If you don't have a blender you can add everything to a bowl and whisk well, making sure the cornstarch is well mixed. Divide the batter evenly among the mugs."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Bake the bread puddings for 28 to 35 minutes until you can see that there is still a bit of liquid around the bread, but not too much. Less baking time will make wetter bread pudding, longer baking will make a drier bread pudding. Remove from oven then add any toppings you desire, and enjoy!"
+    }
+  ],
+  "recipeYield": "6",
+  "sameAs": [
+    "https://itdoesnttastelikechicken.com/easy-vegan-bread-pudding-with-endless-add-ins"
+  ],
+  "totalTime": "PT45M",
+  "updatedAt": "2022-12-02T04:30:22.505Z"
+}

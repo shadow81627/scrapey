@@ -1,0 +1,69 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1",
+    "ratingValue": "5"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Oh My Veggies"
+  },
+  "createdAt": "2022-12-01T22:56:41.590Z",
+  "datePublished": "2011-09-22T18:27:38+00:00",
+  "description": "Popsicles made with fresh peaches and ginger-flavored syrup. These can be made with the Zoku Quick Pop Maker or regular popsicle molds.",
+  "image": [
+    "https://ohmyveggies.com/wp-content/uploads/2011/09/ginger_peach_popsicles_close.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2011/09/ginger_peach_popsicles_close-500x389.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2011/09/ginger_peach_popsicles_close-500x375.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2011/09/ginger_peach_popsicles_close-480x270.jpg"
+  ],
+  "keywords": "fruit popsicles recipe, Ginger Peach Popsicles, how to make popsicles",
+  "name": "Ginger Peach Popsicles",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "78 kcal",
+    "carbohydrateContent": "20 g",
+    "fatContent": "1 g",
+    "fiberContent": "1 g",
+    "proteinContent": "1 g",
+    "saturatedFatContent": "1 g",
+    "servingSize": "1 serving",
+    "sodiumContent": "2 mg",
+    "sugarContent": "17 g",
+    "unsaturatedFatContent": "2 g"
+  },
+  "prepTime": "PT30M",
+  "recipeCategory": "Dessert",
+  "recipeCuisine": "American",
+  "recipeIngredient": [
+    "2 oz. fresh ginger root (peeled and sliced into thick coins)",
+    "1/2 c. water",
+    "1/3 c. white sugar (organic for vegan-friendly)",
+    "2 ripe peaches (pitted and cut into chunks)"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Combine ginger, water, and sugar in small saucepan over medium heat. Bring to a simmer and reduce heat to low. Allow syrup to simmer for 10 minutes, stirring occasionally. Remove from heat and cool."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Strain syrup through sieve into blender; discard ginger (you can eat it too if you want!). Add peaches to blender and blend until smooth."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Pour mixture into popsicle molds and freeze until solid (about 7 minutes in the Zoku Quick Pop Maker)."
+    }
+  ],
+  "recipeYield": "6",
+  "sameAs": [
+    "https://ohmyveggies.com/recipe-ginger-peach-popsicles"
+  ],
+  "suitableForDiet": [
+    "https://schema.org/VeganDiet",
+    "https://schema.org/VegetarianDiet"
+  ],
+  "totalTime": "PT40M",
+  "updatedAt": "2022-12-01T22:56:41.589Z"
+}

@@ -1,0 +1,50 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "1L"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.20 per 1L"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Made in Australia"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2022-12-02T00:06:15.816Z",
+  "description": "Coles Dishwashing Liquid Lemon, 1L. A refreshing lemon scent to clean your dishes from grime and grease while leaving them smelling great!",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/7/9/8/7983914.jpg",
+  "name": "Dishwashing Liquid Lemon",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 1.2,
+    "lowPrice": 1.2,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-02T00:06:15.815Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "1.20",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-smart-buy-dishwashing-liquid-lemon"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/coles-smart-buy-dishwashing-liquid-lemon"
+  ],
+  "sku": "7983914",
+  "updatedAt": "2022-12-02T00:06:15.815Z"
+}

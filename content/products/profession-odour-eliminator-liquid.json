@@ -1,0 +1,50 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Please visit our Website for details"
+    },
+    {
+      "name": "Size",
+      "value": "1.8L"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$13.89 per 1L"
+    }
+  ],
+  "brand": "Dynamo",
+  "createdAt": "2022-12-02T02:17:40.189Z",
+  "description": "Dynamo Profession Odour Eliminator Liquid",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/7/7/3774355.jpg",
+  "name": "Profession Odour Eliminator Liquid",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 25,
+    "lowPrice": 25,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-02T02:17:40.187Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "25.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/dynamo-prof-l-liquid-odour-eliminator"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/dynamo-prof-l-liquid-odour-eliminator"
+  ],
+  "sku": "3774355",
+  "updatedAt": "2022-12-02T02:17:40.187Z"
+}

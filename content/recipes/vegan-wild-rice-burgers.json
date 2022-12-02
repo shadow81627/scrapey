@@ -1,0 +1,157 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "4",
+    "ratingValue": "5"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Yup, it's Vegan"
+  },
+  "cookTime": "PT45M",
+  "createdAt": "2022-12-02T04:09:13.251Z",
+  "datePublished": "2017-08-05T06:23:12+00:00",
+  "description": "Vegan wild rice burgers: egg-free, dairy-free veggie burgers made from a hearty blend of brown and wild rice with cannellini or navy beans. These patties are gluten-free if using a GF bun or other serving option.",
+  "image": [
+    "https://yupitsvegan.com/wp-content/uploads/2017/08/wild-rice-burgers-vegan-veggie-white-bean-square.jpg"
+  ],
+  "keywords": "healthy wild rice burgers, vegan wild rice burgers",
+  "mentions": [
+    {
+      "@id": "https://yupitsvegan.com/tag/grains/#id",
+      "@type": "http://schema.org/Thing",
+      "description": "Grains are small, hard, dry seeds, with or without attached hulls or fruit layers, harvested for human or animal consumption. Agronomists also call the plants producing such seeds \"grain crops\". The two main types of commercial grain crops are cereals such as wheat and rye, and legumes such as beans and soybeans. Ubiquity of grain...",
+      "name": "grain",
+      "sameAs": [
+        "https://en.wikipedia.org/wiki/Grain",
+        "http://purl.obolibrary.org/obo/FOODON_03311095",
+        "http://rdf.freebase.com/ns/m.0ch47tv",
+        "http://wikidata.dbpedia.org/resource/Q2995529",
+        "http://www.wikidata.org/entity/Q2995529",
+        "http://dbpedia.org/resource/Grain",
+        "https://knowledge.cafemedia.com/food/entity/grain"
+      ]
+    },
+    {
+      "@id": "https://yupitsvegan.com/tag/legumes/#id",
+      "@type": "http://schema.org/Thing",
+      "description": "A legume (/ˈlɛɡjuːm/ or /ˌləˈɡjuːm/) is a plant or fruit/seed in the family Fabaceae (or Leguminosae). Legumes are grown agriculturally, primarily for their grain seed called pulse, for livestock forage and silage, and as soil-enhancing green manure. Well-known legumes include alfalfa, clover, peas, beans, lentils, lupin bean, mesquite, carob, soybeans, peanuts, and tamarind. Legumes are...",
+      "name": "legume",
+      "sameAs": [
+        "http://el.dbpedia.org/resource/Όσπρια",
+        "http://cs.dbpedia.org/resource/Luštěnina",
+        "https://en.wikipedia.org/wiki/Legume",
+        "http://rdf.freebase.com/ns/m.01sfdb",
+        "http://wikidata.dbpedia.org/resource/Q145909",
+        "http://pt.dbpedia.org/resource/Legume",
+        "http://www.wikidata.org/entity/Q145909",
+        "http://ja.dbpedia.org/resource/豆果",
+        "http://fr.dbpedia.org/resource/Gousse",
+        "http://eu.dbpedia.org/resource/Lekale",
+        "http://dbpedia.org/resource/Legume",
+        "http://es.dbpedia.org/resource/Legumbre",
+        "http://yago-knowledge.org/resource/Pulse_(legume)",
+        "http://pl.dbpedia.org/resource/Rośliny_strączkowe",
+        "http://purl.obolibrary.org/obo/FOODON_00001264",
+        "http://nl.dbpedia.org/resource/Peul_(vrucht)",
+        "http://de.dbpedia.org/resource/Hülsenfrucht",
+        "http://it.dbpedia.org/resource/Baccello",
+        "http://d-nb.info/gnd/4020803-5",
+        "http://rdf.freebase.com/ns/m.0bqsk",
+        "https://knowledge.cafemedia.com/food/entity/legume"
+      ]
+    },
+    {
+      "@id": "https://yupitsvegan.com/tag/sandwich/#id",
+      "@type": "http://schema.org/Thing",
+      "description": "A sandwich is a food item consisting of one or more types of food, such as vegetables, sliced cheese or meat, placed on or between slices of bread, or more generally any dish wherein two or more pieces of bread serve as a container or wrapper for some other food. The sandwich was originally a...",
+      "name": "sandwich",
+      "sameAs": [
+        "http://cs.dbpedia.org/resource/Sendvič",
+        "https://en.wikipedia.org/wiki/Sandwich",
+        "http://ja.dbpedia.org/resource/サンドイッチ",
+        "http://id.dbpedia.org/resource/Roti_lapis",
+        "http://de.dbpedia.org/resource/Sandwich",
+        "http://fr.dbpedia.org/resource/Sandwich",
+        "http://wikidata.dbpedia.org/resource/Q28803",
+        "http://dbpedia.org/resource/Sandwich",
+        "http://el.dbpedia.org/resource/Σάντουιτς",
+        "http://nl.dbpedia.org/resource/Sandwich_(gerecht)",
+        "http://es.dbpedia.org/resource/Sándwich",
+        "http://www.wikidata.org/entity/Q28803",
+        "http://rdf.freebase.com/ns/m.0l515",
+        "http://ko.dbpedia.org/resource/샌드위치",
+        "http://purl.obolibrary.org/obo/FOODON_03301906",
+        "http://eu.dbpedia.org/resource/Ogitarteko",
+        "http://it.dbpedia.org/resource/Sandwich",
+        "http://pl.dbpedia.org/resource/Kanapka",
+        "http://pt.dbpedia.org/resource/Sanduíche",
+        "https://knowledge.cafemedia.com/food/entity/sandwich"
+      ]
+    }
+  ],
+  "name": "Vegan Wild Rice Burgers",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "402 kcal",
+    "carbohydrateContent": "63 g",
+    "fatContent": "12 g",
+    "fiberContent": "13 g",
+    "proteinContent": "15 g",
+    "saturatedFatContent": "1 g",
+    "servingSize": "1 wild rice burger with bun",
+    "sodiumContent": "313 mg",
+    "sugarContent": "2 g",
+    "unsaturatedFatContent": "7 g"
+  },
+  "prepTime": "PT15M",
+  "recipeCategory": "lunch",
+  "recipeCuisine": "gluten-free",
+  "recipeIngredient": [
+    "1 can white beans (liquid reserved (cannellini, navy, great Northern, etc.) (or use home-cooked beans; see notes)",
+    "2 tbsp olive oil (divided)",
+    "1 onion (diced)",
+    "3 stalks celery (thinly sliced)",
+    "2 cloves garlic (minced)",
+    "1/2 tsp paprika",
+    "1/4 tsp ground black pepper",
+    "1/4 tsp ground cumin",
+    "1/4 tsp dried oregano",
+    "1 tbsp almond butter (or use peanut butter, cashew butter, or tahini or tomato paste for nut-free)",
+    "1 cup cooked brown rice",
+    "1 cup cooked wild rice (see notes)",
+    "6 burger buns of choice (toasted if desired)",
+    "2 large tomatoes (thickly sliced)",
+    "sliced red onion",
+    "ketchup, vegan mayo, or other condiments of choice"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Preheat the oven to 350 degrees Fahrenheit and lightly spray or grease a baking sheet. Drain the canned beans, reserving a couple of tablespoons of the bean liquid. Spread out the cooked beans in a single layer on the baking sheet. Bake for about 20 minutes, or until the beans are splitting open and starting to crisp. Remove from the oven."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Meanwhile, heat about 1 tbsp olive oil in a skillet (preferably nonstick). Add the onion and celery and a pinch of salt. Cook, stirring occasionally, for about 4-6 minutes or until translucent and softened. Add the garlic and cook for 60 seconds more. Add the paprika, black pepper, cumin, and oregano and stir; cook for 30 seconds and then remove from the heat."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Use a spatula to transfer the saute mixture to a food processor, and add the roasted white beans and almond butter. Pulse the mixture, stopping to scrape down the sides as needed, until a doughy consistency is formed with the added ingredients broken down into small pieces. Add the brown rice and pulse a few more times."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Transfer the mixture to a bowl, season to taste with salt and pepper, and stir in the wild rice. If the mixture is too dry to shape into patties, add the reserved bean cooking liquid a couple of teaspoons at a time to bring it together. Shape into approximately 6 patties sized to the buns you are using."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add the remaining 1 tbsp olive oil to the skillet over medium heat. When hot, add shaped patties, leaving plenty of room between them. (You may need to cook in multiple batches). Cook for about 5 minutes per side, until browned and crisp. Serve hot with toppings of choice. Leftovers can be reheated carefully in the oven."
+    }
+  ],
+  "recipeYield": "6",
+  "sameAs": [
+    "https://yupitsvegan.com/vegan-wild-rice-burgers"
+  ],
+  "totalTime": "PT60M",
+  "updatedAt": "2022-12-02T04:09:13.249Z"
+}

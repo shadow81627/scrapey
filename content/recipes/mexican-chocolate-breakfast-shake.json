@@ -1,0 +1,67 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "4",
+    "ratingValue": "4.75"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Oh My Veggies"
+  },
+  "createdAt": "2022-12-02T05:15:54.787Z",
+  "datePublished": "2017-05-09T10:40:42+00:00",
+  "description": "An easy, healthy (and Mexican chocolatey!) alternative to the typical breakfast shake.",
+  "image": [
+    "https://ohmyveggies.com/wp-content/uploads/2012/05/mexican_chocolate_breakfast_shake_recipe.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2012/05/mexican_chocolate_breakfast_shake_recipe-500x400.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2012/05/mexican_chocolate_breakfast_shake_recipe-500x375.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2012/05/mexican_chocolate_breakfast_shake_recipe-480x270.jpg"
+  ],
+  "keywords": "Breakfast Shake, chocolate shake recipe, Mexican Chocolate Breakfast Shake",
+  "name": "Mexican Chocolate Breakfast Shake",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "1097 kcal",
+    "carbohydrateContent": "90 g",
+    "fatContent": "74 g",
+    "fiberContent": "27 g",
+    "proteinContent": "38 g",
+    "saturatedFatContent": "6 g",
+    "servingSize": "1 serving",
+    "sodiumContent": "6 mg",
+    "sugarContent": "21 g",
+    "transFatContent": "1 g",
+    "unsaturatedFatContent": "63 g"
+  },
+  "prepTime": "PT10M",
+  "recipeCategory": "Breakfast",
+  "recipeCuisine": "American",
+  "recipeIngredient": [
+    "1/2 cup old-fashioned oats",
+    "1 cup almond (soy or coconut milk)",
+    "1 tablespoon unsweetened cocoa powder",
+    "1 teaspoon ground cinnamon",
+    "Agave nectar (honey, maple syrup or other sweetener, to taste (optional)",
+    "1 small banana (cut into pieces and frozen overnight in a freezer bag)"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Combine the oats, milk, cocoa powder, cinnamon and sweetener in a resealable bowl. Stir together, cover and refrigerate overnight."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add the banana and oat mixture to a blender and blend until completely smooth. If the shake is too thick, add more milk for a thinner consistency; if it's not sweet enough, add more sweetener."
+    }
+  ],
+  "recipeYield": "1",
+  "sameAs": [
+    "https://ohmyveggies.com/chocolate-breakfast-shake"
+  ],
+  "suitableForDiet": [
+    "https://schema.org/VegetarianDiet"
+  ],
+  "totalTime": "PT10M",
+  "updatedAt": "2022-12-02T05:15:54.787Z"
+}

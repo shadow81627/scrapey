@@ -1,0 +1,72 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1",
+    "ratingValue": "5"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Sophia DeSantis"
+  },
+  "cookTime": "PT25M",
+  "createdAt": "2022-12-02T04:49:28.924Z",
+  "datePublished": "2020-12-10T12:30:00+00:00",
+  "description": "This vegan BLT with avocado is amplified in flavor with homemade portobello mushroom bacon and amazing saucy spread! Easy and delicious.",
+  "image": [
+    "https://www.veggiesdontbite.com/wp-content/uploads/2020/11/vegan-BLT-sandwich-25.jpg",
+    "https://www.veggiesdontbite.com/wp-content/uploads/2020/11/vegan-BLT-sandwich-25-500x500.jpg",
+    "https://www.veggiesdontbite.com/wp-content/uploads/2020/11/vegan-BLT-sandwich-25-500x375.jpg",
+    "https://www.veggiesdontbite.com/wp-content/uploads/2020/11/vegan-BLT-sandwich-25-480x270.jpg"
+  ],
+  "keywords": "easy veggie sandwich, healthy blt",
+  "name": "The Ultimate Vegan BLT with Avocado",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "206 kcal",
+    "carbohydrateContent": "41 g",
+    "fatContent": "3 g",
+    "fiberContent": "5 g",
+    "proteinContent": "8 g",
+    "saturatedFatContent": "1 g",
+    "servingSize": "1 serving",
+    "sodiumContent": "831 mg",
+    "sugarContent": "13 g"
+  },
+  "prepTime": "PT10M",
+  "recipeCategory": "Main Course",
+  "recipeCuisine": "American",
+  "recipeIngredient": [
+    "1 recipe Portobello bacon (, see note)",
+    "2 tomatoes (, sliced)",
+    "4 pieces of lettuce",
+    "8 slices bread of choice (, gluten-free if needed)",
+    "Sliced avocado (, optional)",
+    "Garlic Aioli (, or another spread (optional) )"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Spread the aioli on the slices of bread, I like to get both sides."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Build the sandwich with the rest of the ingredients."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Serve!"
+    }
+  ],
+  "recipeYield": "4",
+  "sameAs": [
+    "https://veggiesdontbite.com/blta-the-vegan-way"
+  ],
+  "suitableForDiet": [
+    "https://schema.org/GlutenFreeDiet",
+    "https://schema.org/VeganDiet",
+    "https://schema.org/VegetarianDiet"
+  ],
+  "totalTime": "PT15M",
+  "updatedAt": "2022-12-02T04:49:28.923Z"
+}

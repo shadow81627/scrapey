@@ -1,0 +1,80 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "3",
+    "ratingValue": "4.67"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Sophia DeSantis"
+  },
+  "createdAt": "2022-12-02T08:44:03.969Z",
+  "datePublished": "2014-08-29T06:00:25+00:00",
+  "description": "Quick and easy no bake protein energy balls are filled with all of the best wholesome ingredients. Easy to customize and the perfect go to treat.",
+  "image": [
+    "https://www.veggiesdontbite.com/wp-content/uploads/2014/08/raw-superfood-bars-balls-13-1.jpg",
+    "https://www.veggiesdontbite.com/wp-content/uploads/2014/08/raw-superfood-bars-balls-13-1-500x500.jpg",
+    "https://www.veggiesdontbite.com/wp-content/uploads/2014/08/raw-superfood-bars-balls-13-1-500x375.jpg",
+    "https://www.veggiesdontbite.com/wp-content/uploads/2014/08/raw-superfood-bars-balls-13-1-480x270.jpg"
+  ],
+  "keywords": "energy balls, superfood bars",
+  "name": "No Bake Protein Energy Balls",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "225 kcal",
+    "carbohydrateContent": "27 g",
+    "fatContent": "11 g",
+    "fiberContent": "4 g",
+    "proteinContent": "6 g",
+    "saturatedFatContent": "1 g",
+    "servingSize": "1 serving",
+    "sodiumContent": "2 mg",
+    "sugarContent": "13 g"
+  },
+  "prepTime": "PT15M",
+  "recipeCategory": "Snack",
+  "recipeCuisine": "American",
+  "recipeIngredient": [
+    "2 cups rolled oats (, gluten free if needed)",
+    "1/2 cup pumpkin seeds",
+    "1 cup hemp seeds",
+    "1/2 cup cacao nibs",
+    "1 cup pecans (, any nut works or leave out for nut free)",
+    "1/2 cups goji berries",
+    "2 1/2 cups dates",
+    "1 teaspoon vanilla extract",
+    "pinch sea salt",
+    "1/2 - 3/4 cup water",
+    "1/2 cup unsweetened shredded coconut"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Place oats, pumpkin seeds, hemp seeds, cacao nibs, and pecans in a large bowl. Place goji berries in a small bowl and fill with warm water. Allow to soak for 5 minutes or until they soften a bit. Once slightly soft, drain water and place berries into the bowl with the rest of the ingredients."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Place dates, vanilla extract, salt and water in a food processor. Mix until partially smooth and partially chunky. This is similar to my date paste recipe but not as smooth and has a tad less water."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Put into the bowl with the rest of the ingredients. Using your hands, mix everything together well until you get a dough like consistency."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "You can either press into a parchment lined baking pan to make bars or roll into 1 inch balls. Roll the balls in shredded coconut until covered if desired."
+    }
+  ],
+  "recipeYield": "30",
+  "sameAs": [
+    "https://veggiesdontbite.com/raw-superfood-balls-bars"
+  ],
+  "suitableForDiet": [
+    "https://schema.org/GlutenFreeDiet",
+    "https://schema.org/VeganDiet",
+    "https://schema.org/VegetarianDiet"
+  ],
+  "totalTime": "PT15M",
+  "updatedAt": "2022-12-02T08:44:03.968Z"
+}

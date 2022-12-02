@@ -1,0 +1,214 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "11",
+    "ratingValue": "5"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Sam Turnbull • It Doesn't Taste Like Chicken"
+  },
+  "cookTime": "PT90M",
+  "createdAt": "2022-12-02T07:15:08.553Z",
+  "datePublished": "2017-01-05T09:18:29+00:00",
+  "description": "This Vegan Loaded Baked Potato has lLmiddle, layered with BBQ beans, and easy to prepare dairy free nacho cheese. So delicious!&nbsp;",
+  "image": [
+    "https://itdoesnttastelikechicken.com/wp-content/uploads/2017/01/loaded-vegan-baked-potato-black-beans-bbq-nacho-cheese-sauce-dairy-free-easy.jpg",
+    "https://itdoesnttastelikechicken.com/wp-content/uploads/2017/01/loaded-vegan-baked-potato-black-beans-bbq-nacho-cheese-sauce-dairy-free-easy-500x500.jpg",
+    "https://itdoesnttastelikechicken.com/wp-content/uploads/2017/01/loaded-vegan-baked-potato-black-beans-bbq-nacho-cheese-sauce-dairy-free-easy-500x375.jpg",
+    "https://itdoesnttastelikechicken.com/wp-content/uploads/2017/01/loaded-vegan-baked-potato-black-beans-bbq-nacho-cheese-sauce-dairy-free-easy-480x270.jpg"
+  ],
+  "mentions": [
+    {
+      "@id": "https://itdoesnttastelikechicken.com/tag/beans/#id",
+      "@type": "http://schema.org/Thing",
+      "description": "Bean is a common name for large seeds of several genera of the flowering plant family Fabaceae (also known as Leguminosae) which are used for human or animal food.",
+      "name": "bean",
+      "sameAs": [
+        "http://rdf.freebase.com/ns/m.01fp9",
+        "http://el.dbpedia.org/resource/Φασόλι",
+        "http://dbpedia.org/resource/Bean",
+        "http://ko.dbpedia.org/resource/콩",
+        "http://fr.dbpedia.org/resource/Haricot_(homonymie)",
+        "https://en.wikipedia.org/wiki/Bean",
+        "http://de.dbpedia.org/resource/Bohne",
+        "http://ja.dbpedia.org/resource/豆",
+        "http://purl.obolibrary.org/obo/FOODON_00002753",
+        "http://wikidata.dbpedia.org/resource/Q379813",
+        "http://www.wikidata.org/entity/Q379813",
+        "http://nl.dbpedia.org/resource/Boon",
+        "http://id.dbpedia.org/resource/Kacang-kacangan",
+        "https://knowledge.cafemedia.com/food/entity/bean"
+      ]
+    },
+    {
+      "@id": "https://itdoesnttastelikechicken.com/tag/cheese/#id",
+      "@type": "http://schema.org/Thing",
+      "description": "Cheese is a food derived from milk that is produced in a wide range of flavors, textures, and forms by coagulation of the milk protein casein. It comprises proteins and fat from milk, usually the milk of cows, buffalo, goats, or sheep. During production, the milk is usually acidified, and adding the enzyme rennet causes...",
+      "name": "cheese",
+      "sameAs": [
+        "http://ja.dbpedia.org/resource/チーズ",
+        "http://it.dbpedia.org/resource/Formaggio",
+        "http://cs.dbpedia.org/resource/Sýr",
+        "http://rdf.freebase.com/ns/m.01nkt",
+        "http://www.wikidata.org/entity/Q10943",
+        "http://es.dbpedia.org/resource/Queso",
+        "http://el.dbpedia.org/resource/Τυρί",
+        "http://dbpedia.org/resource/Cheese",
+        "http://pt.dbpedia.org/resource/Queijo",
+        "http://eu.dbpedia.org/resource/Gazta",
+        "http://id.dbpedia.org/resource/Keju",
+        "https://en.wikipedia.org/wiki/Cheese",
+        "http://pl.dbpedia.org/resource/Ser",
+        "http://d-nb.info/gnd/4029176-5",
+        "http://nl.dbpedia.org/resource/Kaas",
+        "http://wikidata.dbpedia.org/resource/Q10943",
+        "http://de.dbpedia.org/resource/Käse",
+        "http://ko.dbpedia.org/resource/치즈",
+        "http://fr.dbpedia.org/resource/Fromage",
+        "http://purl.obolibrary.org/obo/FOODON_03307846",
+        "https://knowledge.cafemedia.com/food/entity/cheese"
+      ]
+    },
+    {
+      "@id": "https://itdoesnttastelikechicken.com/tag/nacho/#id",
+      "@type": "http://schema.org/Thing",
+      "description": "Nachos are a Tex-Mex dish from northern Mexico. The dish is composed of tortilla chips (totopos) covered with cheese or cheese-based sauce, and is often served as a snack. More elaborate versions add more ingredients and can be served as a main dish. First created in about 1943 by Ignacio \"Nacho\" Anaya, the original nachos...",
+      "name": "nachos",
+      "sameAs": [
+        "http://wikidata.dbpedia.org/resource/Q466430",
+        "http://yago-knowledge.org/resource/Nachos",
+        "http://ko.dbpedia.org/resource/나초",
+        "http://rdf.freebase.com/ns/m.01yjq3",
+        "http://es.dbpedia.org/resource/Nachos",
+        "http://eu.dbpedia.org/resource/Nachos",
+        "http://fr.dbpedia.org/resource/Nachos",
+        "http://pl.dbpedia.org/resource/Nachos",
+        "http://www.wikidata.org/entity/Q466430",
+        "http://cs.dbpedia.org/resource/Nachos",
+        "http://purl.obolibrary.org/obo/FOODON_00002533",
+        "http://nl.dbpedia.org/resource/Nacho's",
+        "http://pt.dbpedia.org/resource/Nachos",
+        "http://it.dbpedia.org/resource/Nachos",
+        "https://en.wikipedia.org/wiki/Nachos",
+        "http://dbpedia.org/resource/Nachos",
+        "http://ja.dbpedia.org/resource/ナチョス",
+        "http://id.dbpedia.org/resource/Nacho",
+        "http://de.dbpedia.org/resource/Nachos",
+        "https://knowledge.cafemedia.com/food/entity/nachos"
+      ]
+    },
+    {
+      "@id": "https://itdoesnttastelikechicken.com/tag/potato/#id",
+      "@type": "http://schema.org/Thing",
+      "description": "The potato is a starchy, tuberous crop from the perennial nightshade Solanum tuberosum. The word \"potato\" may refer either to the plant itself or to the edible tuber. In the Andes, where the species is indigenous, there are some other closely related cultivated potato species. Potatoes were introduced outside the Andes region approximately four centuries...",
+      "name": "potato",
+      "sameAs": [
+        "http://eu.dbpedia.org/resource/Patata",
+        "http://de.dbpedia.org/resource/Kartoffel",
+        "http://es.dbpedia.org/resource/Solanum_tuberosum",
+        "http://pl.dbpedia.org/resource/Ziemniak",
+        "http://yago-knowledge.org/resource/Blue_potato",
+        "http://purl.obolibrary.org/obo/FOODON_03306854",
+        "http://el.dbpedia.org/resource/Πατάτα",
+        "http://pt.dbpedia.org/resource/Batata",
+        "http://rdf.freebase.com/ns/m.05vtc",
+        "http://wikidata.dbpedia.org/resource/Q10998",
+        "http://ko.dbpedia.org/resource/감자",
+        "http://lod.geospecies.org/ses/9YcAF",
+        "http://fr.dbpedia.org/resource/Pomme_de_terre",
+        "http://nl.dbpedia.org/resource/Aardappel",
+        "http://d-nb.info/gnd/4029804-8",
+        "https://en.wikipedia.org/wiki/Potato",
+        "http://dbpedia.org/resource/Potato",
+        "http://www.wikidata.org/entity/Q10998",
+        "http://it.dbpedia.org/resource/Solanum_tuberosum",
+        "http://id.dbpedia.org/resource/Kentang",
+        "http://ja.dbpedia.org/resource/ジャガイモ",
+        "http://yago-knowledge.org/resource/Solanum_tuberosum",
+        "http://cs.dbpedia.org/resource/Lilek_brambor",
+        "http://eunis.eea.europa.eu/species/184915",
+        "https://knowledge.cafemedia.com/food/entity/potato"
+      ]
+    },
+    {
+      "@id": "https://itdoesnttastelikechicken.com/tag/potatoes/#id",
+      "@type": "http://schema.org/Thing",
+      "description": "The potato is a starchy, tuberous crop from the perennial nightshade Solanum tuberosum. The word \"potato\" may refer either to the plant itself or to the edible tuber. In the Andes, where the species is indigenous, there are some other closely related cultivated potato species. Potatoes were introduced outside the Andes region approximately four centuries...",
+      "name": "potato",
+      "sameAs": [
+        "http://eu.dbpedia.org/resource/Patata",
+        "http://de.dbpedia.org/resource/Kartoffel",
+        "http://es.dbpedia.org/resource/Solanum_tuberosum",
+        "http://pl.dbpedia.org/resource/Ziemniak",
+        "http://yago-knowledge.org/resource/Blue_potato",
+        "http://purl.obolibrary.org/obo/FOODON_03306854",
+        "http://el.dbpedia.org/resource/Πατάτα",
+        "http://pt.dbpedia.org/resource/Batata",
+        "http://rdf.freebase.com/ns/m.05vtc",
+        "http://wikidata.dbpedia.org/resource/Q10998",
+        "http://ko.dbpedia.org/resource/감자",
+        "http://lod.geospecies.org/ses/9YcAF",
+        "http://fr.dbpedia.org/resource/Pomme_de_terre",
+        "http://nl.dbpedia.org/resource/Aardappel",
+        "http://d-nb.info/gnd/4029804-8",
+        "https://en.wikipedia.org/wiki/Potato",
+        "http://dbpedia.org/resource/Potato",
+        "http://www.wikidata.org/entity/Q10998",
+        "http://it.dbpedia.org/resource/Solanum_tuberosum",
+        "http://id.dbpedia.org/resource/Kentang",
+        "http://ja.dbpedia.org/resource/ジャガイモ",
+        "http://yago-knowledge.org/resource/Solanum_tuberosum",
+        "http://cs.dbpedia.org/resource/Lilek_brambor",
+        "http://eunis.eea.europa.eu/species/184915",
+        "https://knowledge.cafemedia.com/food/entity/potato"
+      ]
+    }
+  ],
+  "name": "Loaded Vegan Baked Potato",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "482 kcal",
+    "servingSize": "1 serving"
+  },
+  "prepTime": "PT10M",
+  "recipeCategory": "Main Course",
+  "recipeCuisine": "American",
+  "recipeIngredient": [
+    "4 russet potatoes",
+    "1 tablespoon olive oil, divided (optional)",
+    "1 19 oz can black beans or kidney beans (2 cups), (drained and rinsed)",
+    "1/2 cup vegan BBQ sauce",
+    "1 batch Melty Stretchy Gooey Vegan Nacho Cheese, (hot)",
+    "1 small handful of chives, (chopped)"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "OVEN: Preheat your oven to 425F (220C).AIR FRYER: Preheat your air-fryer to 400F (200C)."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Pierce the potatoes all over with a fork so steam can escape. Optionally, you can lightly rub the potatoes with a bit of olive oil over the skin. OVEN: Place the potatoes on a baking tray and bake 45 - 60 minutes or until the skin is crisp and the potato is fork-tender.AIR FRYER: Place the potatoes in a single layer in the air fryer and bake 35 - 48 minutes or until the skin is crisp and the potato is fork-tender."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Cut a slit down the middle of the potato, (careful, it's hot!), then using a towel or oven mitts, push the ends towards each other and the potato will pop open nicely. Fluff the insides with a fork."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "In the meantime, prepare the Melty Stretchy Gooey Vegan Nacho Cheese according to directions. Then prepare the beans by adding them to a saucepan along with the BBQ sauce. Bring to a simmer and cook for about 5 minutes until the sauce thickens and the beans are heated through."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "When everything is cooked and ready, assemble by dividing the BBQ beans among the potatoes, topping with the melty nacho cheese, and finally adding a sprinkle of chives."
+    }
+  ],
+  "recipeYield": "4",
+  "sameAs": [
+    "https://itdoesnttastelikechicken.com/vegan-loaded-baked-potato"
+  ],
+  "totalTime": "PT100M",
+  "updatedAt": "2022-12-02T07:15:08.550Z"
+}

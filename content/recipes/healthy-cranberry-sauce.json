@@ -1,0 +1,75 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "2",
+    "ratingValue": "5"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Sophia DeSantis"
+  },
+  "cookTime": "PT10M",
+  "createdAt": "2022-12-02T06:03:27.967Z",
+  "datePublished": "2020-10-05T12:00:00+00:00",
+  "description": "This healthy cranberry sauce recipe is made with only 4 whole food ingredients, uses orange juice and maple syrup to sweeten and is so easy!",
+  "image": [
+    "https://www.veggiesdontbite.com/wp-content/uploads/2020/09/healthy-cranberry-sauce-37.jpg",
+    "https://www.veggiesdontbite.com/wp-content/uploads/2020/09/healthy-cranberry-sauce-37-500x500.jpg",
+    "https://www.veggiesdontbite.com/wp-content/uploads/2020/09/healthy-cranberry-sauce-37-500x375.jpg",
+    "https://www.veggiesdontbite.com/wp-content/uploads/2020/09/healthy-cranberry-sauce-37-480x270.jpg"
+  ],
+  "keywords": "healthy cranberry sauce, no sugar cranberry sauce",
+  "name": "Healthy Cranberry Sauce",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "72 kcal",
+    "carbohydrateContent": "18 g",
+    "fatContent": "1 g",
+    "fiberContent": "3 g",
+    "proteinContent": "1 g",
+    "saturatedFatContent": "1 g",
+    "servingSize": "1 serving",
+    "sodiumContent": "4 mg",
+    "sugarContent": "12 g"
+  },
+  "prepTime": "PT5M",
+  "recipeCategory": "Sauce",
+  "recipeCuisine": "American",
+  "recipeIngredient": [
+    "12 ounces fresh or frozen fresh cranberries (see note)",
+    "1/2 cup water",
+    "1/2 cup fresh squeezed orange juice",
+    "1/4 - 1/2 cup maple syrup (, adjust for the level of sweet or tart you prefer)",
+    "1 teaspoon orange zest (, add more if you want extra orange flavor)"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Put all ingredients except the zest into a pot and bring to a boil over medium high heat. About 5 minutes."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Reduce to medium low and simmer for about 10 minutes until the cranberries have burst and the mixture thickens. If it gets too thick just add some water to thin it out."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Remove from heat and stir in the orange zest."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Serve as you want!"
+    }
+  ],
+  "recipeYield": "6",
+  "sameAs": [
+    "https://veggiesdontbite.com/healthy-cranberry-sauce"
+  ],
+  "suitableForDiet": [
+    "https://schema.org/GlutenFreeDiet",
+    "https://schema.org/VeganDiet",
+    "https://schema.org/VegetarianDiet"
+  ],
+  "totalTime": "PT15M",
+  "updatedAt": "2022-12-02T06:03:27.966Z"
+}

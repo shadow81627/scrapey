@@ -1,0 +1,20 @@
+{
+  "@type": "VideoObject",
+  "contentUrl": "https://cdn.jwplayer.com/manifests/Z9z9pWoj.m3u8",
+  "createdAt": "2022-12-02T01:09:32.500Z",
+  "description": "Tasty-style video for vegan pumpkin bread sponsored by Watkins ",
+  "duration": "PT1M13S",
+  "embedUrl": "https://www.mydarlingvegan.com/vegan-curry-recipes",
+  "name": "Vegan Pumpkin Bread",
+  "potentialAction": {
+    "@type": "SeekToAction",
+    "startOffset-input": "required name=seek_to_second_number",
+    "target": "https://www.mydarlingvegan.com/vegan-curry-recipes?jw_start={seek_to_second_number}"
+  },
+  "sameAs": [
+    "https://mydarlingvegan.com/vegan-curry-recipes"
+  ],
+  "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/Z9z9pWoj/poster.jpg?width=720",
+  "updatedAt": "2022-12-02T01:24:59.900Z",
+  "uploadDate": "2019-11-21T19:10:33.000Z"
+}

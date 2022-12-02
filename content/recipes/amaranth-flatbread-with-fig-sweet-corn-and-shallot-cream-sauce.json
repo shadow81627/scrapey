@@ -1,0 +1,104 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1",
+    "ratingValue": "5"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Yup, it's Vegan"
+  },
+  "cookTime": "PT30M",
+  "createdAt": "2022-12-02T08:13:05.389Z",
+  "datePublished": "2014-08-04T07:00:58+00:00",
+  "description": "A beautiful summery pizza made on crispy amaranth flatbread, topped with a creamy shallot sauce, fresh basil, Mission figs, and juicy summer corn.",
+  "image": [
+    "https://yupitsvegan.com/wp-content/uploads/2014/08/amaranth_flatbread_fig_corn_shallot_cream_sauce_6.jpg"
+  ],
+  "keywords": "amaranth flatbread",
+  "mentions": [
+    {
+      "@id": "https://yupitsvegan.com/tag/grains/#id",
+      "@type": "http://schema.org/Thing",
+      "description": "Grains are small, hard, dry seeds, with or without attached hulls or fruit layers, harvested for human or animal consumption. Agronomists also call the plants producing such seeds \"grain crops\". The two main types of commercial grain crops are cereals such as wheat and rye, and legumes such as beans and soybeans. Ubiquity of grain...",
+      "name": "grain",
+      "sameAs": [
+        "https://en.wikipedia.org/wiki/Grain",
+        "http://purl.obolibrary.org/obo/FOODON_03311095",
+        "http://rdf.freebase.com/ns/m.0ch47tv",
+        "http://wikidata.dbpedia.org/resource/Q2995529",
+        "http://www.wikidata.org/entity/Q2995529",
+        "http://dbpedia.org/resource/Grain",
+        "https://knowledge.cafemedia.com/food/entity/grain"
+      ]
+    }
+  ],
+  "name": "Amaranth Flatbread with Fig, Sweet Corn, and Shallot Cream Sauce",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "210 kcal",
+    "carbohydrateContent": "41 g",
+    "fatContent": "3 g",
+    "fiberContent": "6 g",
+    "proteinContent": "7 g",
+    "saturatedFatContent": "1 g",
+    "servingSize": "1 slice",
+    "sodiumContent": "425 mg",
+    "sugarContent": "9 g",
+    "unsaturatedFatContent": "2 g"
+  },
+  "prepTime": "PT15M",
+  "recipeCategory": "Main Course",
+  "recipeCuisine": "vegan",
+  "recipeIngredient": [
+    "1 cup warm water",
+    "1 tbsp coconut sugar (or other sugar)",
+    "2 and 1/4 tsp active dry yeast (1 packet / scant 1 tbsp)",
+    "1 cup amaranth flour (or additional whole wheat flour)",
+    "1 and 1/2 cups whole wheat flour (plus more for kneading)",
+    "3/4 tsp salt",
+    "1/4 cup raw cashews (soaked overnight)",
+    "2 cloves garlic (minced)",
+    "1 shallot (diced)",
+    "1 tsp lemon juice",
+    "1/2 tsp salt",
+    "2 tbsp tapioca starch",
+    "12 fresh black mission figs (sliced)",
+    "1 cup cooked corn kernels",
+    "1/4 cup fresh basil leaves (thinly sliced)",
+    "salt and freshly ground black pepper (to taste)"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Stir together the water, sugar, and yeast. Set aside for a few minutes until it starts to get foamy (this is to verify that the yeast is working)."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "In a bowl, use a fork to stir together the amaranth flour, whole wheat flour, and salt until fully combined. Pour in the yeast mixture. Stir everything together until a homogeneous dough is formed. It will seem pretty sticky."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Cover the bowl with a damp towel and let rest for 10 minutes."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Either continue in the bowl or transfer to a floured surface. Knead the dough, working in additional whole wheat flour whenever it starts to stick, until the dough is smooth and a little stretchy. 4-6 minutes. Though it won't be as elastic as 100% wheat dough, you should still be able to see formed strands of gluten throughout it."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Cover the dough with a damp towel and set in a warm place to rise for 60-90 minutes, or until approximately doubled in size."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Punch down the dough, divide in half, and transfer to a sealed container or Ziploc bag in the fridge, until ready to use. The dough will keep in the refrigerator for up to 3 days before using."
+    }
+  ],
+  "recipeYield": "2",
+  "sameAs": [
+    "https://yupitsvegan.com/amaranth-flatbread-fig-corn-shallot"
+  ],
+  "totalTime": "PT120M",
+  "updatedAt": "2022-12-02T08:13:05.386Z"
+}

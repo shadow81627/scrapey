@@ -1,0 +1,84 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "5",
+    "reviewCount": "2"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "She Likes Food"
+  },
+  "cookTime": "PT50M",
+  "createdAt": "2022-12-02T06:06:52.936Z",
+  "datePublished": "2018-02-15",
+  "description": "A really flavorful and filling lentil soup!",
+  "image": [
+    "https://www.shelikesfood.com/wp-content/uploads/2018/02/Curried-Lentil-Quinoa-Soup-1085-225x225.jpg",
+    "https://www.shelikesfood.com/wp-content/uploads/2018/02/Curried-Lentil-Quinoa-Soup-1085-260x195.jpg",
+    "https://www.shelikesfood.com/wp-content/uploads/2018/02/Curried-Lentil-Quinoa-Soup-1085-320x180.jpg",
+    "https://www.shelikesfood.com/wp-content/uploads/2018/02/Curried-Lentil-Quinoa-Soup-1085.jpg"
+  ],
+  "name": "Curried Lentil Quinoa Soup",
+  "nutrition": {
+    "@type": "nutritionInformation",
+    "calories": "135 calories",
+    "carbohydrateContent": "29 g",
+    "cholesterolContent": "0 mg",
+    "fatContent": "2 g",
+    "fiberContent": "9 g",
+    "proteinContent": "8 g",
+    "servingSize": "1/6 of the soup",
+    "sugarContent": "5 g"
+  },
+  "prepTime": "PT15M",
+  "recipeCategory": "Soup",
+  "recipeIngredient": [
+    "1 teaspoon olive oil",
+    "1/2 yellow onion, diced",
+    "2 cups diced carrots, about 2 large carrots",
+    "1 1/2 cups diced celery",
+    "2 cloves garlic, minced",
+    "1/2 teaspoon fresh grated ginger, or 1 teaspoon ground ginger",
+    "1 cup uncooked lentils, rinsed",
+    "1/2 cup uncooked quinoa, rinsed",
+    "1 1/2 teaspoons curry powder",
+    "1/4 teaspoon ground coriander (optional)",
+    "1 teaspoon salt",
+    "1/4 teaspoon black pepper",
+    "5-6 cups vegetable broth, I like to use low sodium*"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Heat a large pot over medium heat. Add the olive oil, onion, carrots and celery and cook until softened, about 7 minutes."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add in the garlic and fresh ginger and cook for another 2 minutes. Add the remaining ingredients, stir until combined, cover with a lid and simmer soup until vegetables, lentils and quinoa are all cooked through, 30-40 minutes."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Enjoy soup hot or refrigerate up to 4 days."
+    }
+  ],
+  "recipeYield": "6",
+  "sameAs": [
+    "https://shelikesfood.com/curried-lentil-quinoa-soup"
+  ],
+  "totalTime": "PT1H5M",
+  "updatedAt": "2022-12-02T06:06:52.935Z",
+  "url": "https://www.shelikesfood.com/curried-lentil-quinoa-soup/",
+  "video": {
+    "@context": "http://schema.org",
+    "@type": "VideoObject",
+    "contentUrl": "https://www.youtube.com/watch?v=SQ2Efv6W6i8",
+    "description": "This Curried Lentil Quinoa Soup is so hearty and comforting!  It's packed with lentils, quinoa and delicious curry powder!  It's easy to make and perfect for lunch or dinner!  Gluten free, vegan too!\n\nGet the recipe here: https://www.shelikesfood.com/curried-lentil-quinoa-soup/",
+    "embedUrl": "https://www.youtube.com/embed/SQ2Efv6W6i8?feature=oembed",
+    "name": "How to make Curried Lentil Quinoa Soup",
+    "thumbnailUrl": [
+      "https://i.ytimg.com/vi/SQ2Efv6W6i8/hqdefault.jpg"
+    ],
+    "uploadDate": "2018-03-29"
+  }
+}

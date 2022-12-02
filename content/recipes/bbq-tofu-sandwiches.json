@@ -1,0 +1,105 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "3",
+    "ratingValue": "5"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Yup, it's Vegan"
+  },
+  "cookTime": "PT10M",
+  "createdAt": "2022-12-02T04:27:18.961Z",
+  "datePublished": "2015-10-23T07:00:14+00:00",
+  "description": "These easy and delectable vegan BBQ tofu sandwiches are a fantastic vegetarian sandwich option and made with pantry staples.",
+  "image": [
+    "https://yupitsvegan.com/wp-content/uploads/2015/10/vegan-artichoke-mac-and-cheese-cook-the-pantry-2.jpg"
+  ],
+  "keywords": "bbq tofu sandwiches",
+  "mentions": [
+    {
+      "@id": "https://yupitsvegan.com/tag/sandwich/#id",
+      "@type": "http://schema.org/Thing",
+      "description": "A sandwich is a food item consisting of one or more types of food, such as vegetables, sliced cheese or meat, placed on or between slices of bread, or more generally any dish wherein two or more pieces of bread serve as a container or wrapper for some other food. The sandwich was originally a...",
+      "name": "sandwich",
+      "sameAs": [
+        "http://cs.dbpedia.org/resource/Sendvič",
+        "https://en.wikipedia.org/wiki/Sandwich",
+        "http://ja.dbpedia.org/resource/サンドイッチ",
+        "http://id.dbpedia.org/resource/Roti_lapis",
+        "http://de.dbpedia.org/resource/Sandwich",
+        "http://fr.dbpedia.org/resource/Sandwich",
+        "http://wikidata.dbpedia.org/resource/Q28803",
+        "http://dbpedia.org/resource/Sandwich",
+        "http://el.dbpedia.org/resource/Σάντουιτς",
+        "http://nl.dbpedia.org/resource/Sandwich_(gerecht)",
+        "http://es.dbpedia.org/resource/Sándwich",
+        "http://www.wikidata.org/entity/Q28803",
+        "http://rdf.freebase.com/ns/m.0l515",
+        "http://ko.dbpedia.org/resource/샌드위치",
+        "http://purl.obolibrary.org/obo/FOODON_03301906",
+        "http://eu.dbpedia.org/resource/Ogitarteko",
+        "http://it.dbpedia.org/resource/Sandwich",
+        "http://pl.dbpedia.org/resource/Kanapka",
+        "http://pt.dbpedia.org/resource/Sanduíche",
+        "https://knowledge.cafemedia.com/food/entity/sandwich"
+      ]
+    }
+  ],
+  "name": "BBQ Tofu Sandwiches",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "379 kcal",
+    "carbohydrateContent": "51 g",
+    "fatContent": "10 g",
+    "fiberContent": "10 g",
+    "proteinContent": "21 g",
+    "saturatedFatContent": "1 g",
+    "servingSize": "1 sandwich",
+    "sodiumContent": "796 mg",
+    "sugarContent": "9 g",
+    "unsaturatedFatContent": "8 g"
+  },
+  "prepTime": "PT20M",
+  "recipeCategory": "Main Course",
+  "recipeCuisine": "vegan",
+  "recipeIngredient": [
+    "16 oz extra-firm tofu (drained)",
+    "1 tbsp olive oil",
+    "4 oz chopped green chiles (drained)",
+    "1 cup barbecue sauce (I used homemade)",
+    "1 tbsp tamari or soy sauce",
+    "2 tsp prepared mustard",
+    "1/2 tsp smoked paprika",
+    "1/2 tsp liquid smoke",
+    "1/2 tsp onion powder",
+    "salt and pepper (to taste)",
+    "4 sandwich rolls (split and toasted (I used Trader Joe's whole wheat sandwich buns)",
+    "other toppings for serving as desired (such as cabbage slaw, chopped green onion, or lettuce)"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Wrap the drained tofu in a clean kitchen towel and place on a cutting board. Use a heavy object to press the tofu for at least 20 minutes, then slice into slabs. Prepare a plate lined with paper towels."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Heat the olive oil in a large skillet. When hot, place the slabs of tofu into the skillet, and cook until browned and crisp on the bottom, 3-5 minutes. Gently flip and continue cooking until the other side is also crisp, 3-5 more minutes, then transfer to the paper towel-lined plate to absorb any excess oil."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "When the tofu has cooled, slice into thick matchstick shapes. Add to a saucepan along with the rest of the ingredients, and cook over medium-low heat until heated through and the tofu has absorbed some of the barbecue sauce."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Adjust seasoning to taste, and serve hot on toasted sandwich rolls with other toppings of choice."
+    }
+  ],
+  "recipeYield": "4",
+  "sameAs": [
+    "https://yupitsvegan.com/bbq-tofu-sandwiches"
+  ],
+  "totalTime": "PT35M",
+  "updatedAt": "2022-12-02T04:27:18.960Z"
+}

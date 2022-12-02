@@ -1,0 +1,121 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "15",
+    "ratingValue": "4.74"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Yup, it's Vegan"
+  },
+  "createdAt": "2022-12-02T04:03:26.430Z",
+  "datePublished": "2017-09-23T07:36:39+00:00",
+  "description": "Vegan mayonnaise with no added oil that comes together in just a few minutes, and stays emulsified thanks to cashews and aquafaba.",
+  "image": [
+    "https://yupitsvegan.com/wp-content/uploads/2017/09/oil-free-vegan-mayonnaise-soy-free-square-2.jpg"
+  ],
+  "keywords": "cashew mayo, healthy vegan mayonnaise, oil-free vegan mayo",
+  "mentions": [
+    {
+      "@id": "https://yupitsvegan.com/tag/nuts-and-seeds/#id",
+      "@type": "http://schema.org/Thing",
+      "description": "A nut is a fruit composed of a hard shell and a seed, which is generally edible. In a general context, however, a wide variety of dried seeds are called nuts, but in a botanical context, there is an additional requirement that the shell does not open to release the seed (indehiscent). The translation of...",
+      "name": "tree nut",
+      "sameAs": [
+        "http://wikidata.dbpedia.org/resource/Q11009",
+        "http://pl.dbpedia.org/resource/Orzechy_(bakalie)",
+        "http://www.wikidata.org/entity/Q11009",
+        "http://id.dbpedia.org/resource/Buah_geluk",
+        "http://nl.dbpedia.org/resource/Noot_(plantaardig)",
+        "http://d-nb.info/gnd/4042827-8",
+        "http://fr.dbpedia.org/resource/Fruit_à_coque",
+        "http://rdf.freebase.com/ns/m.01lbxg",
+        "http://dbpedia.org/resource/Nut_(fruit)",
+        "http://ja.dbpedia.org/resource/種実類",
+        "http://yago-knowledge.org/resource/Nut_(fruit)",
+        "http://purl.obolibrary.org/obo/FOODON_03301354",
+        "http://pt.dbpedia.org/resource/Noz",
+        "http://cs.dbpedia.org/resource/Oříšek",
+        "http://ko.dbpedia.org/resource/견과",
+        "http://de.dbpedia.org/resource/Nussfrucht",
+        "https://en.wikipedia.org/wiki/Nut_(fruit)",
+        "http://es.dbpedia.org/resource/Nuez_(fruto)",
+        "http://el.dbpedia.org/resource/Κάρυο_(βοτανική)",
+        "https://knowledge.cafemedia.com/food/entity/tree_nut"
+      ]
+    },
+    {
+      "@id": "https://yupitsvegan.com/tag/sandwich/#id",
+      "@type": "http://schema.org/Thing",
+      "description": "A sandwich is a food item consisting of one or more types of food, such as vegetables, sliced cheese or meat, placed on or between slices of bread, or more generally any dish wherein two or more pieces of bread serve as a container or wrapper for some other food. The sandwich was originally a...",
+      "name": "sandwich",
+      "sameAs": [
+        "http://cs.dbpedia.org/resource/Sendvič",
+        "https://en.wikipedia.org/wiki/Sandwich",
+        "http://ja.dbpedia.org/resource/サンドイッチ",
+        "http://id.dbpedia.org/resource/Roti_lapis",
+        "http://de.dbpedia.org/resource/Sandwich",
+        "http://fr.dbpedia.org/resource/Sandwich",
+        "http://wikidata.dbpedia.org/resource/Q28803",
+        "http://dbpedia.org/resource/Sandwich",
+        "http://el.dbpedia.org/resource/Σάντουιτς",
+        "http://nl.dbpedia.org/resource/Sandwich_(gerecht)",
+        "http://es.dbpedia.org/resource/Sándwich",
+        "http://www.wikidata.org/entity/Q28803",
+        "http://rdf.freebase.com/ns/m.0l515",
+        "http://ko.dbpedia.org/resource/샌드위치",
+        "http://purl.obolibrary.org/obo/FOODON_03301906",
+        "http://eu.dbpedia.org/resource/Ogitarteko",
+        "http://it.dbpedia.org/resource/Sandwich",
+        "http://pl.dbpedia.org/resource/Kanapka",
+        "http://pt.dbpedia.org/resource/Sanduíche",
+        "https://knowledge.cafemedia.com/food/entity/sandwich"
+      ]
+    }
+  ],
+  "name": "Easy Oil-free Vegan Mayonnaise",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "59 kcal",
+    "carbohydrateContent": "4 g",
+    "fatContent": "4 g",
+    "proteinContent": "2 g",
+    "saturatedFatContent": "1 g",
+    "servingSize": "2 tablespoons",
+    "sodiumContent": "77 mg",
+    "sugarContent": "1 g",
+    "unsaturatedFatContent": "3 g"
+  },
+  "prepTime": "PT15M",
+  "recipeCategory": "basics",
+  "recipeCuisine": "dairy-free",
+  "recipeIngredient": [
+    "1 cup raw cashews (soaked overnight or in hot water for 2 hours)",
+    "1/4 cup aquafaba",
+    "1/4 cup water",
+    "1 tbsp fresh lemon juice",
+    "1 tsp agave nectar (or brown rice syrup)",
+    "1 tsp prepared yellow mustard",
+    "2 tsp white vinegar (or rice vinegar)",
+    "1/8 tsp onion powder",
+    "1/4 tsp black salt (kala namak) (optional)",
+    "3/8 tsp salt (quantity may vary; see notes)"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Drain the soaked cashews and add them to a blender. (I use either my Ninja or my Magic Bullet for this recipe). Pulse a few times to break the cashews into crumbles. Add the aquafaba and water and blend. Add the rest of the ingredients except for the regular salt, and blend until completely smooth."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Taste for seasoning and add salt to taste; I used 3/8 tsp when making this with liquid from 365 brand canned chickpeas. Add more lemon to taste if desired. Store your oil-free vegan mayonnaise in an airtight container in the refrigerator; it lasts around a week or more."
+    }
+  ],
+  "recipeYield": "1",
+  "sameAs": [
+    "https://yupitsvegan.com/oil-free-vegan-mayonnaise"
+  ],
+  "totalTime": "PT15M",
+  "updatedAt": "2022-12-02T04:03:26.429Z"
+}

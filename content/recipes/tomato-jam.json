@@ -1,0 +1,70 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1",
+    "ratingValue": "5"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Oh My Veggies"
+  },
+  "cookTime": "PT45M",
+  "createdAt": "2022-12-02T06:39:31.485Z",
+  "datePublished": "2017-09-06T08:00:00+00:00",
+  "description": "This tomato jam packs both sweet and savory flavors and is made with juicy summer tomatoes and a hint of thyme.",
+  "image": [
+    "https://ohmyveggies.com/wp-content/uploads/2017/09/Tomato-Jam_.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2017/09/Tomato-Jam_-500x500.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2017/09/Tomato-Jam_-500x375.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2017/09/Tomato-Jam_-480x270.jpg"
+  ],
+  "keywords": "savory jam recipe, Tomato Jam",
+  "name": "Tomato Jam",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "37 kcal",
+    "carbohydrateContent": "9 g",
+    "fatContent": "1 g",
+    "fiberContent": "1 g",
+    "proteinContent": "1 g",
+    "saturatedFatContent": "1 g",
+    "servingSize": "1 serving",
+    "sodiumContent": "311 mg",
+    "sugarContent": "6 g",
+    "unsaturatedFatContent": "2 g"
+  },
+  "prepTime": "PT5M",
+  "recipeCategory": "Side Dish",
+  "recipeCuisine": "American",
+  "recipeIngredient": [
+    "1 1/2 pounds grape or cherry tomatoes (about 2 pints)",
+    "3 tablespoons minced shallot (about 1 small shallot)",
+    "1 teaspoon minced garlic (1-2 cloves)",
+    "1/4 cup coconut sugar (or organic cane/brown sugar)",
+    "1/3 cup white wine vinegar",
+    "2 tablespoons water",
+    "1 teaspoon salt",
+    "1 teaspoon dried thyme"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "In a medium saucepan, combine the tomatoes, minced shallot, minced garlic, coconut sugar, vinegar, water, and salt. Bring the mixture to a low boil for about 5 minutes. Reduce to a simmer and cook for about 30-45 minutes, stirring intermittently, until it has reduced to a thick jam-like consistency."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Stir in the dried thyme then set aside to cool completely. Transfer the jam to a sealed jar or container and store in the refrigerator for up to 1 week."
+    }
+  ],
+  "recipeYield": "8",
+  "sameAs": [
+    "https://ohmyveggies.com/tomato-jam"
+  ],
+  "suitableForDiet": [
+    "https://schema.org/VeganDiet",
+    "https://schema.org/VegetarianDiet"
+  ],
+  "totalTime": "PT60M",
+  "updatedAt": "2022-12-02T06:39:31.484Z"
+}

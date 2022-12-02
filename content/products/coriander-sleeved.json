@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "1 bunch"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$3.20 per 1Ea"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2022-12-02T01:28:58.600Z",
+  "description": "Commonly used in Indian, Latin or Spanish or Thai dishes. STORAGE: To prolong the life of fresh herbs, wrap them loosely in a damp paper towel and store the bundle in a container in the fridge",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/4/5/7/4575321.jpg",
+  "name": "Coriander Sleeved",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3.2,
+    "lowPrice": 3.2,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-02T01:28:58.599Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "3.20",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/herbs-coriander-sleeved-4575321p"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/herbs-coriander-sleeved-4575321p"
+  ],
+  "sku": "4575321",
+  "updatedAt": "2022-12-02T01:28:58.599Z"
+}

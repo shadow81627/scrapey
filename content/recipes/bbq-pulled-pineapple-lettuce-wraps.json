@@ -1,0 +1,99 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1",
+    "ratingValue": "5"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Yup, it's Vegan"
+  },
+  "cookTime": "PT15M",
+  "createdAt": "2022-12-02T02:13:36.763Z",
+  "datePublished": "2019-08-17T18:43:35+00:00",
+  "description": "This BBQ pulled pineapple is a flavor explosion, but low on calories and fat, making it the perfect light appetizer. Serve it in lettuce cups for a delectable little treat.",
+  "image": [
+    "https://yupitsvegan.com/wp-content/uploads/2019/08/bbq-pulled-pineapple-lettuce-wraps-square.jpg",
+    "https://yupitsvegan.com/wp-content/uploads/2019/08/bbq-pulled-pineapple-lettuce-wraps-square-500x500.jpg",
+    "https://yupitsvegan.com/wp-content/uploads/2019/08/bbq-pulled-pineapple-lettuce-wraps-square-500x375.jpg",
+    "https://yupitsvegan.com/wp-content/uploads/2019/08/bbq-pulled-pineapple-lettuce-wraps-square-480x270.jpg"
+  ],
+  "keywords": "BBQ pulled pineapple",
+  "mentions": [
+    {
+      "@id": "https://yupitsvegan.com/tag/tropical-fruit/#id",
+      "@type": "http://schema.org/Thing",
+      "description": "This list of culinary fruits contains the names of some fruits that are considered edible in some cuisines. The word \"fruit\" is used in several different ways. The definition of fruit for these lists is a culinary fruit, i.e. \"Any sweet, edible part of a plant that resembles fruit, even if it does not develop...",
+      "name": "tropical fruit",
+      "sameAs": [
+        "http://dbpedia.org/resource/List_of_culinary_fruits",
+        "http://pt.dbpedia.org/resource/Lista_de_frutas",
+        "http://de.dbpedia.org/resource/Liste_der_Obstarten",
+        "http://www.wikidata.org/entity/Q497975",
+        "https://en.wikipedia.org/wiki/List_of_culinary_fruits",
+        "http://id.dbpedia.org/resource/Daftar_buah",
+        "http://purl.obolibrary.org/obo/FOODON_03305237",
+        "http://nl.dbpedia.org/resource/Lijst_van_fruit",
+        "http://wikidata.dbpedia.org/resource/Q497975",
+        "http://pl.dbpedia.org/resource/Owoce_jadalne",
+        "http://fr.dbpedia.org/resource/Liste_de_fruits_comestibles",
+        "https://knowledge.cafemedia.com/food/entity/tropical_fruit"
+      ]
+    }
+  ],
+  "name": "BBQ Pulled Pineapple Lettuce Wraps",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "27 kcal",
+    "carbohydrateContent": "5 g",
+    "fiberContent": "1 g",
+    "proteinContent": "1 g",
+    "servingSize": "1 lettuce wrap",
+    "sodiumContent": "41 mg",
+    "sugarContent": "4 g"
+  },
+  "prepTime": "PT15M",
+  "recipeCategory": "Appetizer",
+  "recipeCuisine": "American",
+  "recipeIngredient": [
+    "12 oz fresh pineapple pieces (with its juices)",
+    "1 tbsp vegetable oil",
+    "1/2 white or yellow onion (thinly sliced)",
+    "3 cloves garlic (minced)",
+    "2 tbsp tomato paste",
+    "2 tsp molasses",
+    "2 tsp soy sauce",
+    "1 tsp apple cider vinegar",
+    "1 tsp liquid smoke",
+    "3/4 tsp paprika (smoked or hot, or a combination)",
+    "1/8 tsp ground black pepper",
+    "1 head butter lettuce (separated into leaves)",
+    "1/4 head purple cabbage (shredded (or something else crunchy for texture)",
+    "green tomato salsa (or other salsa or hot sauce, to taste)"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Use your hands to pull apart the pineapple into \"shreds\". Keep the juices."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "In a skillet, heat the oil. Add the sliced onion with a pinch of salt, and cook over medium heat, stirring frequently, until softened, 4-6 minutes. Add the garlic and cook for 60 seconds more, until fragrant. Add the pineapple and pineapple juices, and stir to combine."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add the rest of the BBQ pulled pineapple ingredients and stir well. Cook over medium-low heat, stirring occasionally, until the sauce is thickened onto the pineapple (see step-by-step photos), about 10 more minutes."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Serve warm in lettuce wraps by adding a big spoonful of the pulled pineapple into a piece of lettuce, and topping with a little bit of salsa and red cabbage to taste."
+    }
+  ],
+  "recipeYield": "12",
+  "sameAs": [
+    "https://yupitsvegan.com/bbq-pulled-pineapple-lettuce-wraps"
+  ],
+  "totalTime": "PT30M",
+  "updatedAt": "2022-12-02T02:13:36.762Z"
+}

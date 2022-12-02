@@ -1,0 +1,141 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "5",
+    "ratingValue": "5"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Yup, it's Vegan"
+  },
+  "cookTime": "PT30M",
+  "createdAt": "2022-12-02T00:20:26.567Z",
+  "datePublished": "2019-10-12T09:01:00+00:00",
+  "description": "Decadent yet nutritious, this creamy curried cauliflower chowder is an easy weeknight soup option that packs in the veggies and is made with mostly pantry ingredients.",
+  "image": [
+    "https://yupitsvegan.com/wp-content/uploads/2019/10/curried-cauliflower-chowder-square.jpg",
+    "https://yupitsvegan.com/wp-content/uploads/2019/10/curried-cauliflower-chowder-square-500x500.jpg",
+    "https://yupitsvegan.com/wp-content/uploads/2019/10/curried-cauliflower-chowder-square-500x375.jpg",
+    "https://yupitsvegan.com/wp-content/uploads/2019/10/curried-cauliflower-chowder-square-480x270.jpg"
+  ],
+  "keywords": "cauliflower chowder, curried cauliflower soup",
+  "mentions": [
+    {
+      "@id": "https://yupitsvegan.com/tag/high-vegetable/#id",
+      "@type": "http://schema.org/Thing",
+      "description": "In everyday usage, a vegetable is any part of a plant that is consumed by humans as food as part of a savory meal. The term vegetable is somewhat arbitrary, and largely defined through culinary and cultural tradition. It normally excludes other food derived from plants such as fruits, nuts and cereal grains, but includes...",
+      "name": "vegetable",
+      "sameAs": [
+        "http://ko.dbpedia.org/resource/채소",
+        "http://wikidata.dbpedia.org/resource/Q11004",
+        "http://eu.dbpedia.org/resource/Barazki",
+        "http://purl.obolibrary.org/obo/FOODON_00002141",
+        "http://pl.dbpedia.org/resource/Warzywa",
+        "http://fr.dbpedia.org/resource/Légume",
+        "https://en.wikipedia.org/wiki/Vegetable",
+        "http://de.dbpedia.org/resource/Gemüse",
+        "http://el.dbpedia.org/resource/Λαχανικό",
+        "http://rdf.freebase.com/ns/m.0f4s2w",
+        "http://nl.dbpedia.org/resource/Groente",
+        "http://cs.dbpedia.org/resource/Zelenina",
+        "http://es.dbpedia.org/resource/Verdura",
+        "http://www.wikidata.org/entity/Q11004",
+        "http://dbpedia.org/resource/Vegetable",
+        "http://d-nb.info/gnd/4020069-3",
+        "http://it.dbpedia.org/resource/Verdura",
+        "http://ja.dbpedia.org/resource/野菜",
+        "http://id.dbpedia.org/resource/Sayuran",
+        "https://knowledge.cafemedia.com/food/entity/fruit_vegetable"
+      ]
+    },
+    {
+      "@id": "https://yupitsvegan.com/category/soup/#id",
+      "@type": "http://schema.org/Thing",
+      "description": "From creamy chowders, to spicy tortilla soup, to Asian-inspired noodle soup, every plant-based and vegan soup you could ever want in one place!",
+      "name": "soup",
+      "sameAs": [
+        "http://ko.dbpedia.org/resource/수프",
+        "http://d-nb.info/gnd/4058643-1",
+        "http://eu.dbpedia.org/resource/Zopa",
+        "http://pl.dbpedia.org/resource/Zupa",
+        "http://www.wikidata.org/entity/Q41415",
+        "http://de.dbpedia.org/resource/Suppe",
+        "http://purl.obolibrary.org/obo/FOODON_03304925",
+        "http://id.dbpedia.org/resource/Sup",
+        "http://dbpedia.org/resource/Soup",
+        "http://es.dbpedia.org/resource/Sopa",
+        "http://ja.dbpedia.org/resource/スープ",
+        "http://yago-knowledge.org/resource/Cold_Soup",
+        "http://wikidata.dbpedia.org/resource/Q41415",
+        "https://en.wikipedia.org/wiki/Soup",
+        "http://it.dbpedia.org/resource/Minestra",
+        "http://el.dbpedia.org/resource/Σούπα",
+        "http://cs.dbpedia.org/resource/Polévka",
+        "http://rdf.freebase.com/ns/m.01z1m1x",
+        "http://fr.dbpedia.org/resource/Soupe",
+        "http://nl.dbpedia.org/resource/Soep_(voedsel)",
+        "http://pt.dbpedia.org/resource/Sopa",
+        "https://knowledge.cafemedia.com/food/entity/soup"
+      ]
+    }
+  ],
+  "name": "Curried Cauliflower Chowder",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "326 kcal",
+    "carbohydrateContent": "39 g",
+    "fatContent": "17 g",
+    "fiberContent": "7 g",
+    "proteinContent": "7 g",
+    "saturatedFatContent": "12 g",
+    "servingSize": "1 pint",
+    "sodiumContent": "172 mg",
+    "sugarContent": "9 g",
+    "unsaturatedFatContent": "3 g"
+  },
+  "prepTime": "PT15M",
+  "recipeCategory": "Soup",
+  "recipeCuisine": "American",
+  "recipeIngredient": [
+    "2 tsp oil",
+    "1 yellow or white onion (or use 2 shallots) diced)",
+    "3 medium red potatoes (about 12 oz.) diced)",
+    "2 carrots (peeled and diced)",
+    "2 ribs celery (optional) diced)",
+    "4 cloves garlic (minced)",
+    "1 tbsp minced or grated ginger",
+    "1 tbsp curry powder",
+    "1 can full-fat coconut milk (13.5 oz.)",
+    "1 head cauliflower (cut into bite-size pieces)",
+    "1 tbsp soy sauce (gluten-free if needed)",
+    "1 and 1/2 cups water",
+    "2 tbsp lime juice",
+    "salt (to taste (I used about 1 tsp)",
+    "chopped fresh cilantro (optional) for garnish)"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Heat the oil in a stock pot over medium heat. Add the onions and a pinch of salt. Cook for 3-5 minutes, until softened. Add the potato, carrot and celery and stir well. Continue cooking for another 4-6 minutes, until the celery begins to soften."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Stir in the garlic, ginger, and curry powder; cook for about 60 seconds or until fragrant. Add the coconut milk, cauliflower, soy sauce, and water. Bring the mixture to a boil, then reduce to a simmer and cover with a lid. Cook, stirring occasionally until the cauliflower and potatoes are tender, about 15-20 minutes."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Using an immersion blender, partially puree the soup according to preference. Or, transfer about 2 cups of the soup to a blender or food processor, blend until smooth, and return to the pot."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Stir in the lime juice, and season to taste with additional lime juice and salt. Garnish with cilantro if desired."
+    }
+  ],
+  "recipeYield": "2",
+  "sameAs": [
+    "https://yupitsvegan.com/curried-cauliflower-chowder"
+  ],
+  "totalTime": "PT45M",
+  "updatedAt": "2022-12-02T00:20:26.566Z"
+}

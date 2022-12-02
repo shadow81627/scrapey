@@ -1,0 +1,122 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "2",
+    "ratingValue": "5"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Yup, it's Vegan"
+  },
+  "cookTime": "PT60M",
+  "createdAt": "2022-12-02T06:54:47.640Z",
+  "datePublished": "2019-10-06T08:52:34+00:00",
+  "description": "This carrot hummus features slow-roasted carrots blended with ginger and smoked paprika for a unique, flavorful twist on classic hummus.",
+  "image": [
+    "https://yupitsvegan.com/wp-content/uploads/2019/10/ginger-roasted-carrot-hummus-2.jpg",
+    "https://yupitsvegan.com/wp-content/uploads/2019/10/ginger-roasted-carrot-hummus-2-500x500.jpg",
+    "https://yupitsvegan.com/wp-content/uploads/2019/10/ginger-roasted-carrot-hummus-2-500x375.jpg",
+    "https://yupitsvegan.com/wp-content/uploads/2019/10/ginger-roasted-carrot-hummus-2-480x270.jpg"
+  ],
+  "keywords": "carrot and ginger hummus, roasted carrot hummus",
+  "mentions": [
+    {
+      "@id": "https://yupitsvegan.com/tag/legumes/#id",
+      "@type": "http://schema.org/Thing",
+      "description": "A legume (/ˈlɛɡjuːm/ or /ˌləˈɡjuːm/) is a plant or fruit/seed in the family Fabaceae (or Leguminosae). Legumes are grown agriculturally, primarily for their grain seed called pulse, for livestock forage and silage, and as soil-enhancing green manure. Well-known legumes include alfalfa, clover, peas, beans, lentils, lupin bean, mesquite, carob, soybeans, peanuts, and tamarind. Legumes are...",
+      "name": "legume",
+      "sameAs": [
+        "http://el.dbpedia.org/resource/Όσπρια",
+        "http://cs.dbpedia.org/resource/Luštěnina",
+        "https://en.wikipedia.org/wiki/Legume",
+        "http://rdf.freebase.com/ns/m.01sfdb",
+        "http://wikidata.dbpedia.org/resource/Q145909",
+        "http://pt.dbpedia.org/resource/Legume",
+        "http://www.wikidata.org/entity/Q145909",
+        "http://ja.dbpedia.org/resource/豆果",
+        "http://fr.dbpedia.org/resource/Gousse",
+        "http://eu.dbpedia.org/resource/Lekale",
+        "http://dbpedia.org/resource/Legume",
+        "http://es.dbpedia.org/resource/Legumbre",
+        "http://yago-knowledge.org/resource/Pulse_(legume)",
+        "http://pl.dbpedia.org/resource/Rośliny_strączkowe",
+        "http://purl.obolibrary.org/obo/FOODON_00001264",
+        "http://nl.dbpedia.org/resource/Peul_(vrucht)",
+        "http://de.dbpedia.org/resource/Hülsenfrucht",
+        "http://it.dbpedia.org/resource/Baccello",
+        "http://d-nb.info/gnd/4020803-5",
+        "http://rdf.freebase.com/ns/m.0bqsk",
+        "https://knowledge.cafemedia.com/food/entity/legume"
+      ]
+    }
+  ],
+  "name": "Harvest Ginger and Roasted Carrot Hummus",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "189 kcal",
+    "carbohydrateContent": "29 g",
+    "fatContent": "6 g",
+    "fiberContent": "8 g",
+    "proteinContent": "8 g",
+    "servingSize": "1 half cup",
+    "sodiumContent": "500 mg",
+    "sugarContent": "6 g",
+    "unsaturatedFatContent": "3 g"
+  },
+  "prepTime": "PT10M",
+  "recipeCategory": "Appetizer",
+  "recipeCuisine": "American",
+  "recipeIngredient": [
+    "5 to 6 medium carrots",
+    "1 clove garlic (minced)",
+    "2 and 1/2 tbsp tahini",
+    "2 tsp minced ginger",
+    "3 tbsp tbsp freshly-squeezed lemon juice (plus more to taste)",
+    "1 tbsp rice vinegar",
+    "3 cups cooked chickpeas (equal to two 15 oz. cans)",
+    "2 tbsp warm water (plus more as needed)",
+    "3/4 tsp ground cumin",
+    "1 tsp smoked paprika (scant)",
+    "1/4 tsp cayenne pepper (optional, to taste)",
+    "1 pinch ground black pepper",
+    "salt (to taste; will vary depending on whether you use canned chickpeas)",
+    "chopped fresh cilantro (optional) for serving)"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Preheat the oven to 350 degrees Fahrenheit. Pierce any thicker carrots with a sharp knife. Place the carrots on a lined baking sheet or in a lined roasting pan, and lightly spray or rub them with oil."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Roast the carrots for about 45 to 60 minutes, flipping/stirring halfway through, or until completely tender."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "In a food processor or blender, add the garlic, tahini, ginger, lemon juice, and rice vinegar, and blend until the mixture is as smooth as possible (it may be difficult to get it very smooth right now if you have a large food processor)."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Once the carrots are cool enough to handle, peel them if desired and roughly chop them. Add them to the food processor and continue blending."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Once the carrots are incorporated, add the chickpeas and warm water. Blend until the mixture is completely smooth, adding more water a tablespoon at a time as needed."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Blend in all of the spices, and taste for salt and additional lemon juice to your preference."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Serve garnished with fresh cilantro."
+    }
+  ],
+  "recipeYield": "3",
+  "sameAs": [
+    "https://yupitsvegan.com/2015/03/17/harvest-carrot-and-ginger-hummus"
+  ],
+  "totalTime": "PT70M",
+  "updatedAt": "2022-12-02T06:54:47.639Z"
+}

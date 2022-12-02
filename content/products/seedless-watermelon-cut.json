@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "approx 1.99 kg"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$3.90 per 1Kg"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2022-12-02T01:05:41.934Z",
+  "description": "Coles Seedless Watermelon Cut",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/7/5/0/7508229.jpg",
+  "name": "Seedless Watermelon Cut",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 7.76,
+    "lowPrice": 7.76,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-02T01:05:41.934Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "7.76",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/watermelon-seedless-whole"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/watermelon-seedless-whole"
+  ],
+  "sku": "7508229",
+  "updatedAt": "2022-12-02T01:05:41.934Z"
+}

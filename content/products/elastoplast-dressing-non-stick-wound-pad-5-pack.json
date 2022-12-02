@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Elastoplast"
+  },
+  "createdAt": "2022-12-01T23:33:28.607Z",
+  "description": "Absorbs and protects wounds•Air permeable, absorbent and ideal for larger wounds•Non-woven material is kind to sensitive skin•Individual sterile wrapping",
+  "gtin13": "9316928001496",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/005934.jpg",
+  "name": "Elastoplast Dressing Non Stick Wound Pad 5 Pack",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 6.4,
+    "lowPrice": 6.4,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-12-01T23:33:28.606Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 6.4,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/5934/elastoplast-dressing-non-stick-wound-pad"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/5934/elastoplast-dressing-non-stick-wound-pad"
+  ],
+  "sku": "5934",
+  "updatedAt": "2022-12-01T23:33:28.606Z"
+}

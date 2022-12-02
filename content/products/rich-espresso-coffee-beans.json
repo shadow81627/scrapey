@@ -1,0 +1,54 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Allergen",
+      "value": "Contains Caffeine"
+    },
+    {
+      "name": "Size",
+      "value": "1kg"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$3.20 per 100G"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Product of Mixed Origin"
+    }
+  ],
+  "brand": "Grinders",
+  "createdAt": "2022-12-02T05:35:00.822Z",
+  "description": "Grinders Rich Espresso Coffee Beans",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/5/1/3516065.jpg",
+  "name": "Rich Espresso Coffee Beans",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 32,
+    "lowPrice": 32,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-02T05:35:00.821Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "32.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/grinders-rich-espresso-coffee-beans"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/grinders-rich-espresso-coffee-beans"
+  ],
+  "sku": "3516065",
+  "updatedAt": "2022-12-02T05:35:00.821Z"
+}

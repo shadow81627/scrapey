@@ -1,0 +1,130 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1",
+    "ratingValue": "5"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Yup, it's Vegan"
+  },
+  "cookTime": "PT45M",
+  "createdAt": "2022-12-02T07:13:41.713Z",
+  "datePublished": "2014-12-28T07:00:48+00:00",
+  "description": "Impress your dinner guests with this caramelized onion fettuccine with smoked cherry tomatoes and pickled raisins. This pasta is fully flavored and goes great with a big hunk of vegan garlic bread. Nut-free and soy-free vegetarian recipe.",
+  "image": [
+    "https://yupitsvegan.com/wp-content/uploads/2014/12/caramelized_onion_fettuccine_smoked_cherry_tomatoes_pickled_raisins_1.jpg"
+  ],
+  "keywords": "caramelized onion fettucine",
+  "mentions": [
+    {
+      "@id": "https://yupitsvegan.com/tag/grains/#id",
+      "@type": "http://schema.org/Thing",
+      "description": "Grains are small, hard, dry seeds, with or without attached hulls or fruit layers, harvested for human or animal consumption. Agronomists also call the plants producing such seeds \"grain crops\". The two main types of commercial grain crops are cereals such as wheat and rye, and legumes such as beans and soybeans. Ubiquity of grain...",
+      "name": "grain",
+      "sameAs": [
+        "https://en.wikipedia.org/wiki/Grain",
+        "http://purl.obolibrary.org/obo/FOODON_03311095",
+        "http://rdf.freebase.com/ns/m.0ch47tv",
+        "http://wikidata.dbpedia.org/resource/Q2995529",
+        "http://www.wikidata.org/entity/Q2995529",
+        "http://dbpedia.org/resource/Grain",
+        "https://knowledge.cafemedia.com/food/entity/grain"
+      ]
+    },
+    {
+      "@id": "https://yupitsvegan.com/tag/pasta/#id",
+      "@type": "http://schema.org/Thing",
+      "description": "Pasta (Italian pronunciation: ) is a staple food of traditional Italian cuisine, with the first reference dating to 1154 in Sicily. It is also commonly used to refer to the variety of pasta dishes. Typically, pasta is a noodle made from an unleavened dough of a durum wheat flour mixed with water or eggs and...",
+      "name": "pasta",
+      "sameAs": [
+        "http://el.dbpedia.org/resource/Ζυμαρικό",
+        "http://rdf.freebase.com/ns/m.05z55",
+        "http://ko.dbpedia.org/resource/파스타",
+        "http://pt.dbpedia.org/resource/Massa_alimentícia",
+        "http://it.dbpedia.org/resource/Pasta",
+        "http://es.dbpedia.org/resource/Pasta",
+        "http://pl.dbpedia.org/resource/Makaron",
+        "https://en.wikipedia.org/wiki/Pasta",
+        "http://nl.dbpedia.org/resource/Pasta_(deegwaar)",
+        "http://wikidata.dbpedia.org/resource/Q178",
+        "http://fr.dbpedia.org/resource/Pâtes_alimentaires",
+        "http://www.wikidata.org/entity/Q178",
+        "http://de.dbpedia.org/resource/Pasta",
+        "http://ja.dbpedia.org/resource/パスタ",
+        "http://purl.obolibrary.org/obo/FOODON_03306347",
+        "http://cs.dbpedia.org/resource/Těstoviny",
+        "http://id.dbpedia.org/resource/Pasta",
+        "http://eu.dbpedia.org/resource/Pasta_(orea)",
+        "http://dbpedia.org/resource/Pasta",
+        "https://knowledge.cafemedia.com/food/entity/pasta"
+      ]
+    }
+  ],
+  "name": "Caramelized Onion Fettuccine with Smoked Cherry Tomatoes and Pickled Raisins",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "316 kcal",
+    "carbohydrateContent": "59 g",
+    "fatContent": "5 g",
+    "fiberContent": "5 g",
+    "proteinContent": "9 g",
+    "servingSize": "1 fourth recipe",
+    "sodiumContent": "15 mg",
+    "sugarContent": "8 g",
+    "unsaturatedFatContent": "2 g"
+  },
+  "prepTime": "PT20M",
+  "recipeCategory": "Main Course",
+  "recipeCuisine": "nut-free",
+  "recipeIngredient": [
+    "1 and 1/2 cups cherry tomatoes",
+    "1 tbsp olive oil",
+    "2 yellow onions (thinly sliced)",
+    "4 cloves garlic (minced)",
+    "1 tbsp white wine (any wine will do, but I recommend Sauvignon blanc)",
+    "1 tbsp water",
+    "1/4 tsp mustard seeds",
+    "1/4 tsp fennel seeds",
+    "1/4 tsp dried thyme",
+    "2 tbsp water",
+    "2 tbsp white vinegar",
+    "1/2 lemon (juiced (or additional 1 tbsp white vinegar)",
+    "2/3 cup raisins",
+    "1/3 tsp salt (or to taste)",
+    "caramelized onions (above)",
+    "cherry tomatoes (above)",
+    "1/4 cup white wine",
+    "1/8 tsp liquid smoke (if not smoking the cherry tomatoes)",
+    "8 oz dry fettuccine",
+    "pickled raisins (above)",
+    "salt, pepper, and red pepper flakes (to taste)",
+    "extra virgin olive oil (for serving)",
+    "fresh parsley (for serving, optional)"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Use a very sharp knife to poke a hole in every cherry tomato (this is so that they don't explode)."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Place the tomatoes on a sheet of aluminum foil. Roll the edges up around them to form a mostly-closed vessel with a small opening at the top. The exact shape is not important, as long as the tomatoes can't fall out."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "SMOKER OPTION: Place the foil vessel directly onto the rack of a heated wood smoker. Smoke for 20-40 minutes, depending on preference for amount of smokiness."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "OVEN OPTION: Preheat the oven to 350 degrees Fahrenheit. Place the foil vessel on a baking sheet and cook for 30-45 minutes, or until tomatoes are soft, juicy and shrunken slightly. Try to check them every 5 minutes starting from the 30 minute mark."
+    }
+  ],
+  "recipeYield": "4",
+  "sameAs": [
+    "https://yupitsvegan.com/caramelized-onion-fettuccine-raisins-tomatoes"
+  ],
+  "totalTime": "PT65M",
+  "updatedAt": "2022-12-02T07:13:41.711Z"
+}

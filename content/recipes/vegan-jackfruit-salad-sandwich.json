@@ -1,0 +1,101 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "14",
+    "ratingValue": "5"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Sam Turnbull • It Doesn't Taste Like Chicken"
+  },
+  "createdAt": "2022-12-02T06:29:19.493Z",
+  "datePublished": "2021-03-17T05:00:50+00:00",
+  "description": "Just 10 ingredients and 10 minutes to make. Jackfruit is the perfect vegan sub for tuna or chicken. And best yet this tastes even better made ahead of time, making it perfect for meal prep.",
+  "image": [
+    "https://itdoesnttastelikechicken.com/wp-content/uploads/2021/03/vegan-jackfruit-salad-sandwich-tuna-chicken-no-chickpeas-easy.jpg",
+    "https://itdoesnttastelikechicken.com/wp-content/uploads/2021/03/vegan-jackfruit-salad-sandwich-tuna-chicken-no-chickpeas-easy-500x500.jpg",
+    "https://itdoesnttastelikechicken.com/wp-content/uploads/2021/03/vegan-jackfruit-salad-sandwich-tuna-chicken-no-chickpeas-easy-500x375.jpg",
+    "https://itdoesnttastelikechicken.com/wp-content/uploads/2021/03/vegan-jackfruit-salad-sandwich-tuna-chicken-no-chickpeas-easy-480x270.jpg"
+  ],
+  "keywords": "chicken, easy, jackfruit, salad, sandwich, tuna, vegan",
+  "mentions": [
+    {
+      "@id": "https://itdoesnttastelikechicken.com/tag/jackfruit/#id",
+      "@type": "http://schema.org/Thing",
+      "description": "The jackfruit (Artocarpus heterophyllus), also known as jack tree, jakfruit, or sometimes simply jack or jak, is a species of tree in the fig, mulberry and breadfruit family (Moraceae). It is native to parts of South and Southeast Asia and is believed to have originated in the southwestern rain forests of the Western Ghats in...",
+      "name": "jackfruit",
+      "sameAs": [
+        "http://www.wikidata.org/entity/Q45757",
+        "http://id.dbpedia.org/resource/Nangka",
+        "http://fr.dbpedia.org/resource/Jacquier",
+        "http://de.dbpedia.org/resource/Jackfruchtbaum",
+        "http://it.dbpedia.org/resource/Artocarpus_heterophyllus",
+        "http://es.dbpedia.org/resource/Artocarpus_heterophyllus",
+        "http://pt.dbpedia.org/resource/Artocarpus_heterophyllus",
+        "http://pl.dbpedia.org/resource/Chlebowiec_różnolistny",
+        "https://en.wikipedia.org/wiki/Jackfruit",
+        "http://rdf.freebase.com/ns/m.01xcwm",
+        "http://ja.dbpedia.org/resource/パラミツ",
+        "http://nl.dbpedia.org/resource/Nangka",
+        "http://cs.dbpedia.org/resource/Jackfruit",
+        "http://wikidata.dbpedia.org/resource/Q45757",
+        "http://yago-knowledge.org/resource/Artocarpus_heterophyllus",
+        "http://dbpedia.org/resource/Jackfruit",
+        "http://ko.dbpedia.org/resource/잭프루트",
+        "http://purl.obolibrary.org/obo/FOODON_00003087",
+        "https://knowledge.cafemedia.com/food/entity/jackfruit"
+      ]
+    }
+  ],
+  "name": "Vegan Jackfruit Salad Sandwich",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "231 kcal",
+    "carbohydrateContent": "37 g",
+    "fatContent": "9 g",
+    "fiberContent": "2 g",
+    "proteinContent": "1 g",
+    "saturatedFatContent": "1 g",
+    "servingSize": "1 serving (recipe makes 4 servings)",
+    "sodiumContent": "356 mg",
+    "sugarContent": "1 g"
+  },
+  "prepTime": "PT10M",
+  "recipeCategory": "Main Course",
+  "recipeCuisine": "American",
+  "recipeIngredient": [
+    "1 can (20 oz) young green jackfruit in brine or in water, (drained, rinsed, and patted dry)",
+    "1/4 cup vegan mayonnaise",
+    "1 tablespoon dijon mustard",
+    "1 tablespoon capers, (chopped)",
+    "1 teaspoon caper brine (the liquid in the jar of capers)",
+    "2 ribs celery, (chopped)",
+    "1/4 cup red onion, (finely chopped)",
+    "1/2 teaspoon dried dill (or 1 teaspoon fresh dill)",
+    "1/4 teaspoon black pepper",
+    "1/4 teaspoon salt",
+    "8 slices bread (check to make sure it's vegan)",
+    "4 lettuce leaves, or any other toppings you desire (optional)"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Drain and rinse the jackfruit and pat it dry with a clean towel. Make sure to dry as much water as possible so that the salad isn't soggy. Add the jackfruit to a large bowl and use a potato masher to mash the jackfruit until it is broken up and looks shredded. Sometimes jackfruit can be quite tender while sometimes it can be tougher, so if you have a tougher jackfruit it might take a bit of strength mash. If you prefer you can first chop the jackfruit as directed in this post before mashing it to make it a bit easier to mash."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add all of the remaining jackfruit salad ingredients to the bowl along with the mashed jackfruit and stir well to combine."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "To make vegan jackfruit salad sandwiches: toast the bread if desired. Layer 4 slices of bread with a lettuce leaf (if using) and then follow with a generous serving of the vegan jackfruit salad. Top with the remaining slices of bread and serve."
+    }
+  ],
+  "recipeYield": "4",
+  "sameAs": [
+    "https://itdoesnttastelikechicken.com/vegan-jackfruit-salad-sandwich"
+  ],
+  "totalTime": "PT10M",
+  "updatedAt": "2022-12-02T06:29:19.492Z"
+}

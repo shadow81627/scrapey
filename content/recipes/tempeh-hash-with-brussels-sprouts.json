@@ -1,0 +1,82 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "6",
+    "ratingValue": "4.67"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Oh My Veggies"
+  },
+  "cookTime": "PT25M",
+  "createdAt": "2022-12-02T00:12:52.622Z",
+  "datePublished": "2016-10-13T09:50:53+00:00",
+  "description": "This protein-packed hash is the perfect way to start the day.",
+  "image": [
+    "https://ohmyveggies.com/wp-content/uploads/2018/02/Brussel-Tempeh-Hash-_-2-600x400.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2018/02/Brussel-Tempeh-Hash-_-2-600x400-500x400.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2018/02/Brussel-Tempeh-Hash-_-2-600x400-500x375.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2018/02/Brussel-Tempeh-Hash-_-2-600x400-480x270.jpg"
+  ],
+  "keywords": "protein-packed hash, Tempeh Hash, Tempeh Hash with Brussels Sprouts",
+  "name": "Tempeh Hash with Brussels Sprouts",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "371 kcal",
+    "carbohydrateContent": "58 g",
+    "fatContent": "10 g",
+    "fiberContent": "8 g",
+    "proteinContent": "18 g",
+    "saturatedFatContent": "2 g",
+    "servingSize": "1 serving",
+    "sodiumContent": "79 mg",
+    "sugarContent": "13 g",
+    "unsaturatedFatContent": "7 g"
+  },
+  "prepTime": "PT15M",
+  "recipeCategory": "Breakfast",
+  "recipeCuisine": "American",
+  "recipeIngredient": [
+    "1 tablespoon olive oil",
+    "8 ounces tempeh (crumbled)",
+    "2 tablespoons tamari",
+    "1 tablespoon dijon mustard",
+    "2 teaspoons maple syrup",
+    "1/2 teaspoon dried oregano",
+    "1/2 teaspoon garlic powder",
+    "1/2 teaspoon smoked paprika",
+    "Pinch of cayenne (optional)",
+    "3 cups 1-inch diced yukon potatoes",
+    "1 cup diced shallot (about 2 shallots)",
+    "2 cups shredded brussels sprouts"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "In a large skillet, warm the olive oil over medium heat. Add the tempeh and cook for 5-7 minutes, until golden brown."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Meanwhile, in a small bowl, whisk together the tamari, maple syrup, mustard, oregano, garlic powder smoked paprika, and cayenne. When the tempeh is done, add it to the bowl and stir until it's evenly coated. Set aside."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add the diced potatoes to the skillet with a pinch of salt and pepper. Cook for 10-15 minutes, stirring occasionally, until the potatoes are golden brown and tender. Transfer to a plate and set aside."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "In the same skillet, add the shallot with a pinch of salt and cook for 3 minutes, until translucent. Then add the brussels sprouts and continue to cook for 5 more minutes. Add the potatoes and the tempeh back to the skillet and stir everything together. Cook until heated through and serve."
+    }
+  ],
+  "recipeYield": "4",
+  "sameAs": [
+    "https://ohmyveggies.com/tempeh-hash-with-brussels-sprouts"
+  ],
+  "suitableForDiet": [
+    "https://schema.org/VeganDiet",
+    "https://schema.org/VegetarianDiet"
+  ],
+  "totalTime": "PT40M",
+  "updatedAt": "2022-12-02T00:12:52.621Z"
+}

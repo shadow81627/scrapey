@@ -1,0 +1,125 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "2",
+    "ratingValue": "5"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Yup, it's Vegan"
+  },
+  "cookTime": "PT15M",
+  "createdAt": "2022-12-02T07:28:12.854Z",
+  "datePublished": "2014-10-13T07:00:10+00:00",
+  "description": "Spicy basil noodles, inspired by Thai drunken noodles but made vegan and with more easily-found ingredients.",
+  "image": [
+    "https://yupitsvegan.com/wp-content/uploads/2014/10/vegan_spicy_basil_noodles_4.jpg"
+  ],
+  "keywords": "spicy basil noodles",
+  "mentions": [
+    {
+      "@id": "https://yupitsvegan.com/tag/high-vegetable/#id",
+      "@type": "http://schema.org/Thing",
+      "description": "In everyday usage, a vegetable is any part of a plant that is consumed by humans as food as part of a savory meal. The term vegetable is somewhat arbitrary, and largely defined through culinary and cultural tradition. It normally excludes other food derived from plants such as fruits, nuts and cereal grains, but includes...",
+      "name": "vegetable",
+      "sameAs": [
+        "http://ko.dbpedia.org/resource/채소",
+        "http://wikidata.dbpedia.org/resource/Q11004",
+        "http://eu.dbpedia.org/resource/Barazki",
+        "http://purl.obolibrary.org/obo/FOODON_00002141",
+        "http://pl.dbpedia.org/resource/Warzywa",
+        "http://fr.dbpedia.org/resource/Légume",
+        "https://en.wikipedia.org/wiki/Vegetable",
+        "http://de.dbpedia.org/resource/Gemüse",
+        "http://el.dbpedia.org/resource/Λαχανικό",
+        "http://rdf.freebase.com/ns/m.0f4s2w",
+        "http://nl.dbpedia.org/resource/Groente",
+        "http://cs.dbpedia.org/resource/Zelenina",
+        "http://es.dbpedia.org/resource/Verdura",
+        "http://www.wikidata.org/entity/Q11004",
+        "http://dbpedia.org/resource/Vegetable",
+        "http://d-nb.info/gnd/4020069-3",
+        "http://it.dbpedia.org/resource/Verdura",
+        "http://ja.dbpedia.org/resource/野菜",
+        "http://id.dbpedia.org/resource/Sayuran",
+        "https://knowledge.cafemedia.com/food/entity/fruit_vegetable"
+      ]
+    }
+  ],
+  "name": "Spicy Basil Noodles (Vegan Drunken Noodles)",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "252 kcal",
+    "carbohydrateContent": "41 g",
+    "fatContent": "9 g",
+    "fiberContent": "6 g",
+    "proteinContent": "5 g",
+    "saturatedFatContent": "1 g",
+    "servingSize": "1 fourth recipe",
+    "sodiumContent": "785 mg",
+    "sugarContent": "14 g",
+    "unsaturatedFatContent": "6 g"
+  },
+  "prepTime": "PT15M",
+  "recipeCategory": "Main Course",
+  "recipeCuisine": "gluten-free",
+  "recipeIngredient": [
+    "2 shallots (diced)",
+    "3 cloves garlic (minced)",
+    "2 red chili peppers (diced (plus more to taste)",
+    "3 tbsp soy sauce",
+    "2 and 1/2 tsp coconut sugar (plus more to taste)",
+    "1 tbsp lime juice",
+    "1/2 tsp tamarind extract (optional but recommended)",
+    "1/4 tsp ground white pepper (to taste; or black pepper)",
+    "1 tbsp vegetable oil (I used grapeseed oil)",
+    "1/2 white or yellow onion (quartered)",
+    "8 cherry tomatoes (quartered)",
+    "2 cups trimmed snap peas (halved)",
+    "1 bell pepper (cut into small strips)",
+    "1 zucchini (sliced into quarter moons)",
+    "14 oz. stir-fry noodles (cooked (unless packaging directs otherwise)",
+    "1 cup Thai basil leaves (loosely-packed (see notes for substitution), roughly chopped (measure before chopping)"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Use a blender or a mortar and pestle to blend or mash the shallots, garlic, and chilis into a paste."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Whisk together the soy sauce, coconut sugar, lime juice, tamarind paste, and white pepper, and set aside."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "In a large frying pan, heat some oil over medium-high heat. Add the paste from step 1, and cook for 1-2 minutes, stirring frequently, until the mixture has softened and thickened slightly."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add the pieces of onion and tomato and cook for another 2-3 minutes, until the onion is slightly soft."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add the sauce ingredients, green beans, bell pepper, and zucchini, and stir. Partially cover the pan and cook for about 5 minutes, or until the vegetables are crisp-tender. Stir occasionally."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add the noodles, stir, and cook for about 2 more minutes, still over medium-high heat, until the noodles are hot and coated in sauce."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Turn off the heat and stir in the basil leaves. Partially cover the pan and let the basil wilt, about 1 minute."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Serve immediately."
+    }
+  ],
+  "recipeYield": "3",
+  "sameAs": [
+    "https://yupitsvegan.com/spicy-basil-noodles"
+  ],
+  "totalTime": "PT30M",
+  "updatedAt": "2022-12-02T07:28:12.852Z"
+}

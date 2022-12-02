@@ -1,0 +1,86 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1",
+    "ratingValue": "5"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Oh My Veggies"
+  },
+  "cookTime": "PT8M",
+  "createdAt": "2022-12-02T06:23:49.550Z",
+  "datePublished": "2018-12-22T06:00:08+00:00",
+  "description": "This Vegetarian Mushroom Gravy recipe is perfect served over mashed potatoes or homemade biscuits. And you won&#039;t believe how simple it is to throw together.",
+  "image": [
+    "https://ohmyveggies.com/wp-content/uploads/2018/12/mushroom-gravy-1-1-scaled.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2018/12/mushroom-gravy-1-1-500x500.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2018/12/mushroom-gravy-1-1-500x375.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2018/12/mushroom-gravy-1-1-480x270.jpg"
+  ],
+  "keywords": "mushroom gravy, vegetarian gravy",
+  "name": "Vegetarian Mushroom Gravy",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "126 kcal",
+    "carbohydrateContent": "15 g",
+    "fatContent": "7 g",
+    "fiberContent": "1 g",
+    "proteinContent": "2 g",
+    "saturatedFatContent": "6 g",
+    "servingSize": "1 serving",
+    "sodiumContent": "1209 mg",
+    "sugarContent": "2 g"
+  },
+  "prepTime": "PT10M",
+  "recipeCategory": "Sauce",
+  "recipeCuisine": "American",
+  "recipeIngredient": [
+    "3 cups vegetable broth",
+    "1 cup Porcini mushrooms",
+    "2 tbsp soy sauce",
+    "2 tbsp coconut oil",
+    "1/4 cup fresh cream",
+    "1/4 cup cornstarch (or other starch + 1/4 cup water)"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "In a saucepan, sauté mushroom for 10 minutes."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add broth, fresh cream, and soy sauce."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Bring to boiling point, then simmer over medium-low heat for 5 minutes."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add the coconut oil and mix well."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Dissolve the starch in water, then add to the sauce. Mix well."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Remove from the heat."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Mix in a blender, or use a hand blender, to achieve the desired texture."
+    }
+  ],
+  "recipeYield": "4",
+  "sameAs": [
+    "https://ohmyveggies.com/vegetarian-mushroom-gravy"
+  ],
+  "suitableForDiet": [
+    "https://schema.org/VegetarianDiet"
+  ],
+  "totalTime": "PT18M",
+  "updatedAt": "2022-12-02T06:23:49.549Z"
+}

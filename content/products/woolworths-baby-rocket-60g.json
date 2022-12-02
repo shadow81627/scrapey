@@ -3,16 +3,16 @@
   "additionalProperty": [
     {
       "@type": "NutritionInformation",
-      "calories": "-",
-      "carbohydrateContent": "-",
-      "dietary_fibre": "3.0g",
-      "fatContent": "-",
+      "calories": "74.00kJ",
+      "carbohydrateContent": "1.60g",
+      "dietary_fibre": "2.20g",
+      "fatContent": "0.60g",
       "name": "nutrition",
-      "proteinContent": "-",
-      "saturatedFatContent": "-",
+      "proteinContent": "1.30g",
+      "saturatedFatContent": "0.60g",
       "servingSize": "100 g",
-      "sodiumContent": "-",
-      "sugarContent": "-"
+      "sodiumContent": "10.00mg",
+      "sugarContent": "1.60g"
     }
   ],
   "aggregateRating": {
@@ -27,15 +27,9 @@
     "name": "Woolworths"
   },
   "createdAt": "2020-11-25T21:33:46.000Z",
-  "description": "This product varies by state. Please review the product packaging for specific details when you receive this product, including nutritional information and country of origin, before consuming.AllergenAs this product varies by state, please review the product packaging when you receive your order for allergen information to determine whether this product is suitable for you before consuming, particularly if you suffer from a food allergy or intolerance.",
+  "description": "<div><em>This product varies by state. Please review the product packaging for specific details when you receive this product, including nutritional information and country of origin, before consuming.<br><br></em><strong>Allergen<br><br></strong><em>As this product varies by state, please review the product packaging when you receive your order for allergen information to determine whether this product is suitable for you before consuming, particularly if you suffer from a food allergy or intolerance.</em></div>",
   "gtin13": "9300633442194",
-  "image": {
-    "@type": "ImageObject",
-    "height": 1200,
-    "mime": "image/jpeg",
-    "url": "https://cdn0.woolworths.media/content/wowproductimages/large/380580.jpg",
-    "width": 1200
-  },
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/380580.jpg",
   "name": "Woolworths Baby Rocket 60g",
   "offers": {
     "@type": "AggregateOffer",
@@ -47,7 +41,7 @@
         "@context": "http://schema.org",
         "@type": "Offer",
         "availability": "http://schema.org/InStock",
-        "availabilityStarts": "2022-11-23T21:58:29.449Z",
+        "availabilityStarts": "2022-12-01T23:13:54.973Z",
         "itemCondition": "http://schema.org/NewCondition",
         "offeredBy": "Woolworths",
         "potentialAction": {
@@ -68,5 +62,5 @@
     "https://woolworths.com.au/shop/productdetails/380580/woolworths-baby-rocket-salad-bag"
   ],
   "sku": "380580",
-  "updatedAt": "2022-11-23T21:58:29.449Z"
+  "updatedAt": "2022-12-01T23:13:54.973Z"
 }

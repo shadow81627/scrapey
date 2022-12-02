@@ -1,0 +1,54 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Allergen",
+      "value": "Contains EGG"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "6.0"
+    },
+    {
+      "name": "Size",
+      "value": "800g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.68 per 100G"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2022-12-01T22:47:20.430Z",
+  "description": "When Coles Brand says Free Range, it means: a maximum of 10,000 hens per hectare outdoors",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/1/0/3/1034234.jpg",
+  "name": "Jumbo Free Range Eggs 12Pack",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 5.4,
+    "lowPrice": 5.4,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-01T22:47:20.424Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "5.40",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-eggs-free-range-jumbo-12-pack"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/coles-eggs-free-range-jumbo-12-pack"
+  ],
+  "sku": "1034234",
+  "updatedAt": "2022-12-01T22:47:20.424Z"
+}

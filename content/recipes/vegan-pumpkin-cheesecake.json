@@ -1,90 +1,97 @@
 {
   "@type": "Recipe",
-  "aggregateRating": {
-    "@type": "AggregateRating",
-    "ratingCount": "6",
-    "ratingValue": "3.67"
-  },
   "author": {
     "@type": "Person",
-    "name": "Sarah McMinn"
+    "name": "She Likes Food"
   },
-  "cookTime": "PT60M",
+  "cookingMethod": "No Bake",
   "createdAt": "2022-12-01T12:40:48.057Z",
-  "datePublished": "2017-10-30T07:00:48+00:00",
-  "description": "Rich and creamy vegan Pumpkin Cheesecake made with a gingersnap crust and topped with toasted pecans for the perfect vegan Thanksgiving dessert.",
+  "datePublished": "2020-11-12",
+  "description": "This Vegan Pumpkin Cheesecake is creamy, full of flavor and so easy to make!  It tastes just like regular cheesecake but is made with cashews and contains no dairy!",
   "image": [
-    "https://www.mydarlingvegan.com/wp-content/uploads/2017/10/Pumpkin-Cheesecake5.jpg",
-    "https://www.mydarlingvegan.com/wp-content/uploads/2017/10/Pumpkin-Cheesecake5-500x500.jpg",
-    "https://www.mydarlingvegan.com/wp-content/uploads/2017/10/Pumpkin-Cheesecake5-500x375.jpg",
-    "https://www.mydarlingvegan.com/wp-content/uploads/2017/10/Pumpkin-Cheesecake5-480x270.jpg"
+    "https://www.shelikesfood.com/wp-content/uploads/2020/11/vegan-pumpkin-cheesecake-9600-225x225.jpg",
+    "https://www.shelikesfood.com/wp-content/uploads/2020/11/vegan-pumpkin-cheesecake-9600-260x195.jpg",
+    "https://www.shelikesfood.com/wp-content/uploads/2020/11/vegan-pumpkin-cheesecake-9600-320x180.jpg",
+    "https://www.shelikesfood.com/wp-content/uploads/2020/11/vegan-pumpkin-cheesecake-9600.jpg"
   ],
   "keywords": "Vegan Pumpkin Cheesecake",
   "name": "Vegan Pumpkin Cheesecake",
   "nutrition": {
-    "@type": "NutritionInformation",
-    "calories": "399 kcal",
-    "carbohydrateContent": "44 g",
-    "fatContent": "24 g",
-    "fiberContent": "4 g",
-    "proteinContent": "6 g",
-    "saturatedFatContent": "7 g",
-    "servingSize": "1 serving",
-    "sodiumContent": "384 mg",
-    "sugarContent": "27 g"
+    "@type": "nutritionInformation",
+    "calories": "428 calories",
+    "carbohydrateContent": "38.8 g",
+    "cholesterolContent": "0 mg",
+    "fatContent": "29.5 g",
+    "fiberContent": "2.9 g",
+    "proteinContent": "6.7 g",
+    "saturatedFatContent": "11 g",
+    "servingSize": "1 slice",
+    "sodiumContent": "78.8 mg",
+    "sugarContent": "26.7 g",
+    "transFatContent": "0 g"
   },
-  "prepTime": "PT30M",
+  "prepTime": "PT20M",
   "recipeCategory": "Dessert",
-  "recipeCuisine": "Vegan",
+  "recipeCuisine": "American",
   "recipeIngredient": [
-    "2 cups vegan gingersnaps",
-    "6 tbsp vegan butter, (melted)",
-    "24 ounces vegan cream cheese, (3 (8 oz) tubs)",
-    "1 1/4 cup granulated sugar",
-    "1 (15 ounce) can pumpkin puree",
-    "12 ounces extra firm silken tofu",
-    "1/4 cup vegan sour cream",
-    "2 tbsp all-purpose flour",
-    "1 tsp vanilla extract",
-    "1 tsp ground cinnamon",
-    "1/4 tsp ground ginger",
-    "1/8 tsp ground nutmeg",
-    "1/8 tsp ground cloves"
+    "1 cup walnuts",
+    "2 cups pitted dates",
+    "1 pinch salt",
+    "2 cups raw cashews, soaked overnight or boiled for 20 minutes",
+    "1 (15 ounce) can pure pumpkin puree",
+    "3/4 cup coconut milk",
+    "3/4 cup coconut sugar",
+    "1/3 cup pure maple syrup",
+    "1/4 cup melted coconut oil, use refined for no coconut taste",
+    "2 tablespoons fresh lemon juice",
+    "1 tablespoon vanilla extract",
+    "1 teaspoon ground cinnamon",
+    "1/2 teaspoon ground ginger",
+    "1/2 teaspoon ground cloves",
+    "1/2 teaspoon ground nutmeg",
+    "1/4 teaspoon salt"
   ],
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "text": "Preheat the oven to 350 degrees F. Line a 9\" springform cake pan with parchment paper and spray the bottoms and sides thoroughly. Set aside."
+      "text": "Add the walnuts, dates and pinch of salt to a food processor and blend until mixture is broken down and will stick together in your fingers, 1-2 minutes."
     },
     {
       "@type": "HowToStep",
-      "text": "To make the crust, pulse the gingersnap cookies in a food processor to a uniform crumb. Once cookies are broken down, slowly add melted butter and process until well combined. The crust should stick together when pressed between your fingers. Transfer crust onto the prepared cake pan, evenly pressing the crust down around the bottom of the pan with your fingers, and set aside."
+      "text": "Place a circle of parchment paper in the bottom of a 9 inch springform pan (you can use a smaller one if you want the cheesecake to be taller). Pour the crust mixture into the pan and press down in an even layer with your fingers or the bottom of a glass."
     },
     {
       "@type": "HowToStep",
-      "text": "Clean out your food processor and then combine cream cheese and granulated sugar, blending until smooth and well combined."
+      "text": "Add all of the cheesecake filling ingredients to a high powered blender and blend until creamy, about 1 minute."
     },
     {
       "@type": "HowToStep",
-      "text": "Add pumpkin, tofu, and sour cream and blend again, scraping down the sides as necessary. Add flour, spices, and vanilla and blend until combined."
+      "text": "Pour the filling into the pan and smooth the top with a spoon or spatula. Cover the pan with plastic wrap and freeze for at least 6 hours, overnight is best."
     },
     {
       "@type": "HowToStep",
-      "text": "Pour cheesecake batter into prepared pan. Place on a baking sheet in the lower rack of your oven. Add 1/2\" of water to the baking sheet to give it steam. This will allow the cheesecake to bake uniformly."
-    },
-    {
-      "@type": "HowToStep",
-      "text": "Bake for 60-75 minutes. Check for doneness after 60. The cheesecake will be wobbly, but start pulling away from the sides and cracking a little on the top when it's done. Remove from oven and let cool for 60 minutes before putting in the refrigerator to chill for at least 4 hours."
-    },
-    {
-      "@type": "HowToStep",
-      "text": "Serve chilled with pecans or coconut whipped cream."
+      "text": "Let cheesecake thaw for about 15 minutes before cutting. Top with whipped cream and candied walnuts, if desired."
     }
   ],
-  "recipeYield": "12",
+  "recipeYield": "10",
   "sameAs": [
-    "https://mydarlingvegan.com/vegan-pumpkin-cheesecake"
+    "https://shelikesfood.com/no-bake-vegan-pumpkin-cheesecake"
   ],
-  "totalTime": "PT90M",
-  "updatedAt": "2022-12-01T12:40:48.055Z"
+  "suitableForDiet": "VeganDiet",
+  "totalTime": "PT-463880H30M34S",
+  "updatedAt": "2022-12-02T07:29:43.438Z",
+  "url": "https://www.shelikesfood.com/no-bake-vegan-pumpkin-cheesecake/",
+  "video": {
+    "@context": "http://schema.org",
+    "@type": "VideoObject",
+    "contentUrl": "https://www.youtube.com/watch?v=gh47D8d6qa4",
+    "description": "How to make the best No Bake Vegan Pumpkin Cheesecake is so flavorful and creamy!  It's the perfect dessert for your holiday table!  It's also vegan and gluten free!  \n\nGet the recipe here:https://www.shelikesfood.com/no-bake-vegan-pumpkin-cheesecake/",
+    "duration": "PT1M",
+    "embedUrl": "https://www.youtube.com/embed/gh47D8d6qa4?feature=oembed",
+    "name": "No Bake Vegan Pumpkin Cheesecake",
+    "thumbnailUrl": [
+      "https://i.ytimg.com/vi/gh47D8d6qa4/hqdefault.jpg"
+    ],
+    "uploadDate": "2017-11-18"
+  }
 }

@@ -1,0 +1,111 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1",
+    "ratingValue": "5"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Yup, it's Vegan"
+  },
+  "cookTime": "PT60M",
+  "createdAt": "2022-12-02T00:57:55.907Z",
+  "datePublished": "2015-09-01T14:00:12+00:00",
+  "description": "Decadent roasted eggplant risotto, layered with the flavors of tomato, fresh basil, and capers, and finished with a touch of creamy coconut milk. Vegan and gluten-free recipe.",
+  "image": [
+    "https://yupitsvegan.com/wp-content/uploads/2015/08/roasted-eggplant-risotto-capers-basil-tomatoes-vegan-3.jpg"
+  ],
+  "keywords": "Roasted Eggplant Risotto",
+  "mentions": [
+    {
+      "@id": "https://yupitsvegan.com/tag/grains/#id",
+      "@type": "http://schema.org/Thing",
+      "description": "Grains are small, hard, dry seeds, with or without attached hulls or fruit layers, harvested for human or animal consumption. Agronomists also call the plants producing such seeds \"grain crops\". The two main types of commercial grain crops are cereals such as wheat and rye, and legumes such as beans and soybeans. Ubiquity of grain...",
+      "name": "grain",
+      "sameAs": [
+        "https://en.wikipedia.org/wiki/Grain",
+        "http://purl.obolibrary.org/obo/FOODON_03311095",
+        "http://rdf.freebase.com/ns/m.0ch47tv",
+        "http://wikidata.dbpedia.org/resource/Q2995529",
+        "http://www.wikidata.org/entity/Q2995529",
+        "http://dbpedia.org/resource/Grain",
+        "https://knowledge.cafemedia.com/food/entity/grain"
+      ]
+    }
+  ],
+  "name": "Roasted Eggplant Risotto with Capers and Basil",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "378 kcal",
+    "carbohydrateContent": "76 g",
+    "fatContent": "4 g",
+    "fiberContent": "6 g",
+    "proteinContent": "8 g",
+    "saturatedFatContent": "2 g",
+    "servingSize": "1 fifth recipe",
+    "sodiumContent": "205 mg",
+    "sugarContent": "8 g",
+    "unsaturatedFatContent": "1 g"
+  },
+  "prepTime": "PT15M",
+  "recipeCategory": "dinner",
+  "recipeCuisine": "vegan",
+  "recipeIngredient": [
+    "1 large eggplant",
+    "2 cups short- or medium-grain white rice (such as Arborio)",
+    "4 cups low-sodium vegetable broth (plus more as needed, room temperature or warm)",
+    "1 tsp olive oil",
+    "1 white or yellow onion (finely chopped)",
+    "4 cloves of garlic (minced)",
+    "2 cups diced tomatoes (for me, this was 4 Roma tomatoes - no need to peel or de-seed)",
+    "1 cup white wine (see notes)",
+    "1 tsp dried oregano",
+    "1/4 tsp ground black pepper (plus more to taste)",
+    "2 to 4 tbsp capers (to taste; drained of any liquid)",
+    "1 tbsp freshly squeezed lemon juice (plus more for serving)",
+    "1/3 to 1/2 cups full-fat coconut milk (to taste)",
+    "1/4 cup loosely packed chopped fresh basil (plus more for serving)",
+    "salt to taste"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Preheat the oven to 400 degrees Fahrenheit. Slice the eggplant in half lengthwise and place on a foil- or parchment-lined baking sheet. Bake for 35-45 minutes, or until the peel is somewhat blistered and the flesh is very soft. Once cool enough to handle, scoop out the eggplant flesh and finely chop it. My eggplant yielded about 4.5 cups after roasting."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "In a large bowl, combine the rice with 4 cups of vegetable stock, and stir it vigorously to wash the starch out of the rice. Pour into a colander, making sure to reserve the starchy broth - this is the liquid that will be used for cooking the risotto. Let the rice drain in the colander for 5-10 minutes."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "In a large saucepan, heat olive oil over medium heat until shimmering. Add the chopped onion and a pinch of salt and cook, stirring occasionally, until the onion is softened, about 5 minutes. Stir in the minced garlic and cook for about 1 more minute until fragrant."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Stir in the drained rice and cook for about 3-4 minutes, stirring occasionally, or until the rice starts to take on a nutty and toasty aroma."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add the diced tomatoes and eggplant along with the wine and another pinch of salt, and stir to combine everything. Cook until the wine is absorbed."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add the oregano and pepper and 1 cup of the reserved vegetable stock and stir. Thereafter, stir the risotto frequently and add 1/2 cup of stock whenever the liquid is absorbed. Stop adding it once the rice is al dente (cooked through, but with a slight bite or chew to it). You may need additional vegetable stock beyond what you used for rinsing the rice."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Stir in the capers, lemon juice, coconut milk, and fresh basil. Season with salt to taste - due to the richness of the coconut milk, this recipe typically needs a lot of salt added (depending on how salty your broth or stock is)."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Serve hot with additional fresh basil, a squeeze of lemon juice, and of course, a glass of white wine :)."
+    }
+  ],
+  "recipeYield": "5",
+  "sameAs": [
+    "https://yupitsvegan.com/2015/09/01/roasted-eggplant-risotto"
+  ],
+  "totalTime": "PT75M",
+  "updatedAt": "2022-12-02T00:57:55.907Z"
+}

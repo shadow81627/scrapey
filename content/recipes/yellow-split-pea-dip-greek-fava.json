@@ -1,0 +1,77 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "3",
+    "ratingValue": "5"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Sophia DeSantis"
+  },
+  "cookTime": "PT30M",
+  "createdAt": "2022-12-02T07:11:48.785Z",
+  "datePublished": "2016-03-30T14:20:10+00:00",
+  "description": "Switch up your hummus routine with this protein filled yellow split pea dip. It's called \"Fava\" in Greek, and the perfect way to get your healthy snacking on!",
+  "image": [
+    "https://www.veggiesdontbite.com/wp-content/uploads/2016/03/split-yellow-pea-dip-fava-20-1.jpg",
+    "https://www.veggiesdontbite.com/wp-content/uploads/2016/03/split-yellow-pea-dip-fava-20-1-500x500.jpg",
+    "https://www.veggiesdontbite.com/wp-content/uploads/2016/03/split-yellow-pea-dip-fava-20-1-500x375.jpg",
+    "https://www.veggiesdontbite.com/wp-content/uploads/2016/03/split-yellow-pea-dip-fava-20-1-480x270.jpg"
+  ],
+  "keywords": "pea dip, pea hummus",
+  "name": "Yellow Split Pea Dip (Greek Fava)",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "405 kcal",
+    "carbohydrateContent": "75 g",
+    "fatContent": "1 g",
+    "fiberContent": "26 g",
+    "proteinContent": "25 g",
+    "servingSize": "1 serving",
+    "sodiumContent": "500 mg",
+    "sugarContent": "17 g"
+  },
+  "prepTime": "PT10M",
+  "recipeCategory": "Appetizer",
+  "recipeCuisine": "Mediterranean",
+  "recipeIngredient": [
+    "1 cup yellow split peas",
+    "1 medium sweet onion (about 3 inches, chopped)",
+    "1 cups veggie broth plus 1/4 cup for sautéing (, low sodium if needed)",
+    "1 1/4 cups water",
+    "1-2 teaspoons Himalayan pink salt (see note)",
+    "pinch of ground black pepper (see note)",
+    "2 – 4 tablespoons fresh lemon juice (see note)",
+    "3 tablespoons chopped parsley"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Wash and strain the split peas. Peel and chop the onion."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "In a pot, pour the 1/4 cup veggie broth and sauté the onion until soft. Add split peas and stir for a couple of minutes. Add the 1 cup broth, water, and salt and pepper to taste."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Bring to a boil and simmer over very low heat until split peas are totally soft, about 30 minutes. Check periodically to see if more water is needed."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Remove from stove and use an immersion blender to smooth it out. You can also allow to cool and pour into a food processor or blender. Add lemon juice, stir to incorporate and top with parsley to serve. Use as a dip or on a sandwich! Or just eat with a spoon!"
+    }
+  ],
+  "recipeYield": "2",
+  "sameAs": [
+    "https://veggiesdontbite.com/yellow-split-pea-dip-greek-fava"
+  ],
+  "suitableForDiet": [
+    "https://schema.org/GlutenFreeDiet",
+    "https://schema.org/VeganDiet",
+    "https://schema.org/VegetarianDiet"
+  ],
+  "totalTime": "PT40M",
+  "updatedAt": "2022-12-02T07:11:48.784Z"
+}

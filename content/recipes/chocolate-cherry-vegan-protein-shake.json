@@ -1,0 +1,71 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1",
+    "ratingValue": "5"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Oh My Veggies"
+  },
+  "cookTime": "PT5M",
+  "createdAt": "2022-12-02T05:22:33.949Z",
+  "datePublished": "2014-09-11T08:00:00+00:00",
+  "description": "A vegan cherry-chocolate shake that doubles as a protein-packed green smoothie.",
+  "image": [
+    "https://ohmyveggies.com/wp-content/uploads/2014/08/Cherry-Chocolate-Vegan-Protein-Shake-3.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2014/08/Cherry-Chocolate-Vegan-Protein-Shake-3-500x401.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2014/08/Cherry-Chocolate-Vegan-Protein-Shake-3-500x375.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2014/08/Cherry-Chocolate-Vegan-Protein-Shake-3-480x270.jpg"
+  ],
+  "keywords": "Chocolate-Cherry Vegan Protein Shake, protein shake recipe, vegan chocolate shake, vegan protein shake",
+  "name": "Chocolate-Cherry Vegan Protein Shake",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "454 kcal",
+    "carbohydrateContent": "65 g",
+    "cholesterolContent": "21 mg",
+    "fatContent": "18 g",
+    "fiberContent": "10 g",
+    "proteinContent": "14 g",
+    "saturatedFatContent": "4 g",
+    "servingSize": "1 serving",
+    "sodiumContent": "102 mg",
+    "sugarContent": "40 g",
+    "transFatContent": "1 g",
+    "unsaturatedFatContent": "13 g"
+  },
+  "prepTime": "PT5M",
+  "recipeCategory": "Breakfast",
+  "recipeCuisine": "American",
+  "recipeIngredient": [
+    "1 cup chocolate coconut milk ice cream (or any chocolate-flavored non-dairy ice cream)",
+    "1 1/2 cups frozen cherries",
+    "1 cup packed baby kale",
+    "1/2 cup chocolate soy milk",
+    "1 frozen banana (peeled and chopped)",
+    "2 tablespoons nut butter (peanut or almond work best)",
+    "2 tablespoons chia seeds"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Place the coconut milk ice cream in a blender, then add the cherries and baby kale. Add the soy milk, chopped banana, nut butter, and chia seeds. Blend until smooth and the greens are no longer visible. If the shake is too thick, pour in a little more soy milk, or you can also wait until the ice cream melts before using if you prefer a thinner smoothie."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Divide between two large glasses and serve."
+    }
+  ],
+  "recipeYield": "2",
+  "sameAs": [
+    "https://ohmyveggies.com/chocolate-cherry-vegan-protein-shake"
+  ],
+  "suitableForDiet": [
+    "https://schema.org/VeganDiet",
+    "https://schema.org/VegetarianDiet"
+  ],
+  "totalTime": "PT10M",
+  "updatedAt": "2022-12-02T05:22:33.949Z"
+}

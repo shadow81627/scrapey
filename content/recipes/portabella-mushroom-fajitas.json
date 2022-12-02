@@ -1,0 +1,78 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "3",
+    "ratingValue": "5"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Oh My Veggies"
+  },
+  "cookTime": "PT15M",
+  "createdAt": "2022-12-01T23:15:21.501Z",
+  "datePublished": "2016-03-14T09:44:38+00:00",
+  "description": "Meaty mushrooms make the perfect filling for veggie fajitas.",
+  "image": [
+    "https://ohmyveggies.com/wp-content/uploads/2016/03/Portabella-Mushroom-Fajitas-_1.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2016/03/Portabella-Mushroom-Fajitas-_1-500x500.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2016/03/Portabella-Mushroom-Fajitas-_1-500x375.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2016/03/Portabella-Mushroom-Fajitas-_1-480x270.jpg"
+  ],
+  "keywords": "Portabella Mushroom Fajitas, vegetarian fajitas, veggie fajitas",
+  "name": "Portabella Mushroom Fajitas",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "381 kcal",
+    "carbohydrateContent": "63 g",
+    "fatContent": "10 g",
+    "fiberContent": "6 g",
+    "proteinContent": "11 g",
+    "saturatedFatContent": "2 g",
+    "servingSize": "1 serving",
+    "sodiumContent": "637 mg",
+    "sugarContent": "15 g",
+    "transFatContent": "1 g",
+    "unsaturatedFatContent": "8 g"
+  },
+  "prepTime": "PT15M",
+  "recipeCategory": "Main Course",
+  "recipeCuisine": "American",
+  "recipeIngredient": [
+    "2 tablespoons tamari (or soy sauce)",
+    "1 tablespoon olive oil",
+    "Juice of 3 limes",
+    "1/4 cup chopped cilantro",
+    "1 teaspoon ground cumin",
+    "1/2 teaspoon chipotle powder",
+    "1/2 teaspoon garlic powder",
+    "4 large portabella mushroom caps (sliced into 1/2-inch strips)",
+    "3 bell peppers (any color you choose, cored and sliced)",
+    "1 large onion (halved and sliced)",
+    "12 medium tortillas (warmed)",
+    "Salsa (shredded cheese, Greek yogurt or sour cream, and/or guacamole, for serving)"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "In a large shallow bowl, whisk together the tamari, olive oil, lime juice, cilantro, cumin, chipotle powder and garlic powder. Add the sliced mushrooms and stir until evenly coated. Allow to marinate at room temperature for 10 minutes, then add the sliced onion and peppers to the bowl and stir everything together."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Warm a large skillet over medium heat. Add the marinated vegetables to the skillet and cook for about 7 minutes, until tender. (Depending on the size of your skillet, you may have to cook them in two separate batches.) Remove from heat."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Serve the cooked vegetables warm with tortillas, guacamole and other desired toppings (such as salsa, Greek yogurt, shredded cheese). Leftovers can be stored in an airtight container in the refrigerator for up to 2 days."
+    }
+  ],
+  "recipeYield": "4",
+  "sameAs": [
+    "https://ohmyveggies.com/portabella-mushroom-fajitas"
+  ],
+  "suitableForDiet": [
+    "https://schema.org/VegetarianDiet"
+  ],
+  "totalTime": "PT30M",
+  "updatedAt": "2022-12-01T23:15:21.500Z"
+}

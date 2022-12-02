@@ -1,0 +1,165 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1",
+    "ratingValue": "5"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Yup, it's Vegan"
+  },
+  "cookTime": "PT25M",
+  "createdAt": "2022-12-02T07:59:24.760Z",
+  "datePublished": "2016-09-01T12:46:17+00:00",
+  "description": "Simple baked falafel are crumbled over a bed of vegetables, avocado, olives and greens, and served with a sundried tomato tahini dressing for a hearty lunch bowl.",
+  "image": [
+    "https://yupitsvegan.com/wp-content/uploads/2016/09/vegan-baked-falafel-salad-bowl-6.jpg"
+  ],
+  "keywords": "falafel salad",
+  "mentions": [
+    {
+      "@id": "https://yupitsvegan.com/tag/grains/#id",
+      "@type": "http://schema.org/Thing",
+      "description": "Grains are small, hard, dry seeds, with or without attached hulls or fruit layers, harvested for human or animal consumption. Agronomists also call the plants producing such seeds \"grain crops\". The two main types of commercial grain crops are cereals such as wheat and rye, and legumes such as beans and soybeans. Ubiquity of grain...",
+      "name": "grain",
+      "sameAs": [
+        "https://en.wikipedia.org/wiki/Grain",
+        "http://purl.obolibrary.org/obo/FOODON_03311095",
+        "http://rdf.freebase.com/ns/m.0ch47tv",
+        "http://wikidata.dbpedia.org/resource/Q2995529",
+        "http://www.wikidata.org/entity/Q2995529",
+        "http://dbpedia.org/resource/Grain",
+        "https://knowledge.cafemedia.com/food/entity/grain"
+      ]
+    },
+    {
+      "@id": "https://yupitsvegan.com/tag/legumes/#id",
+      "@type": "http://schema.org/Thing",
+      "description": "A legume (/ˈlɛɡjuːm/ or /ˌləˈɡjuːm/) is a plant or fruit/seed in the family Fabaceae (or Leguminosae). Legumes are grown agriculturally, primarily for their grain seed called pulse, for livestock forage and silage, and as soil-enhancing green manure. Well-known legumes include alfalfa, clover, peas, beans, lentils, lupin bean, mesquite, carob, soybeans, peanuts, and tamarind. Legumes are...",
+      "name": "legume",
+      "sameAs": [
+        "http://el.dbpedia.org/resource/Όσπρια",
+        "http://cs.dbpedia.org/resource/Luštěnina",
+        "https://en.wikipedia.org/wiki/Legume",
+        "http://rdf.freebase.com/ns/m.01sfdb",
+        "http://wikidata.dbpedia.org/resource/Q145909",
+        "http://pt.dbpedia.org/resource/Legume",
+        "http://www.wikidata.org/entity/Q145909",
+        "http://ja.dbpedia.org/resource/豆果",
+        "http://fr.dbpedia.org/resource/Gousse",
+        "http://eu.dbpedia.org/resource/Lekale",
+        "http://dbpedia.org/resource/Legume",
+        "http://es.dbpedia.org/resource/Legumbre",
+        "http://yago-knowledge.org/resource/Pulse_(legume)",
+        "http://pl.dbpedia.org/resource/Rośliny_strączkowe",
+        "http://purl.obolibrary.org/obo/FOODON_00001264",
+        "http://nl.dbpedia.org/resource/Peul_(vrucht)",
+        "http://de.dbpedia.org/resource/Hülsenfrucht",
+        "http://it.dbpedia.org/resource/Baccello",
+        "http://d-nb.info/gnd/4020803-5",
+        "http://rdf.freebase.com/ns/m.0bqsk",
+        "https://knowledge.cafemedia.com/food/entity/legume"
+      ]
+    },
+    {
+      "@id": "https://yupitsvegan.com/category/salad/#id",
+      "@type": "http://schema.org/Thing",
+      "description": "A salad is a dish consisting of small pieces of food, which may be mixed with a sauce or salad dressing. They are typically served cold. Salads can incorporate a variety of foods including vegetables, fruits, cheese, cooked meat, eggs, grains and nuts. Most salads are served cold, although some, such as south German potato...",
+      "name": "salad dressing",
+      "sameAs": [
+        "http://eu.dbpedia.org/resource/Entsalada",
+        "http://www.wikidata.org/entity/Q9266",
+        "http://ja.dbpedia.org/resource/サラダ",
+        "https://en.wikipedia.org/wiki/Salad",
+        "http://de.dbpedia.org/resource/Salat_(Gericht)",
+        "http://el.dbpedia.org/resource/Σαλάτα",
+        "http://es.dbpedia.org/resource/Ensalada",
+        "http://nl.dbpedia.org/resource/Salade",
+        "http://pt.dbpedia.org/resource/Salada",
+        "http://cs.dbpedia.org/resource/Salát_(pokrm)",
+        "http://ko.dbpedia.org/resource/샐러드",
+        "http://rdf.freebase.com/ns/m.0grw1",
+        "http://d-nb.info/gnd/4051351-8",
+        "http://pl.dbpedia.org/resource/Sałatka",
+        "http://fr.dbpedia.org/resource/Salade_(mets)",
+        "http://wikidata.dbpedia.org/resource/Q9266",
+        "http://yago-knowledge.org/resource/Garden_salad",
+        "http://id.dbpedia.org/resource/Selada_(hidangan)",
+        "http://purl.obolibrary.org/obo/FOODON_00001290",
+        "http://dbpedia.org/resource/Salad",
+        "http://it.dbpedia.org/resource/Insalata",
+        "https://knowledge.cafemedia.com/food/entity/salad_dressing"
+      ]
+    }
+  ],
+  "name": "Easy Baked Falafel Salad Bowl",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "118 kcal",
+    "carbohydrateContent": "16 g",
+    "fatContent": "4 g",
+    "fiberContent": "4 g",
+    "proteinContent": "5 g",
+    "servingSize": "3 falafels",
+    "sodiumContent": "4 mg",
+    "sugarContent": "2 g",
+    "unsaturatedFatContent": "1 g"
+  },
+  "prepTime": "PT10M",
+  "recipeCategory": "lunch",
+  "recipeCuisine": "gluten-free",
+  "recipeIngredient": [
+    "1/4 of a medium onion (roughly chopped (any color is fine)",
+    "4 cloves garlic (roughly chopped)",
+    "1 tbsp tahini",
+    "1 tbsp olive oil (plus more for greasing the pan)",
+    "1/2 cup loosely-packed fresh cilantro and/or parsley (feel free to use both the leaves and stems)",
+    "1/2 tsp ground cumin",
+    "generous pinches of salt and pepper",
+    "3 cups cooked chickpeas",
+    "1/3 cup Bob's Red Mill quick oats (plus more as needed (see notes)",
+    "5 to 8 baked falafel balls (see recipe above)",
+    "several big handfuls of mixed greens",
+    "5-6 cherry tomatoes (sliced)",
+    "1/2 of an avocado (diced (it's sliced in my pictures, but diced actually works better)",
+    "small handful of olives (I used a mixture of green and Kalamata), pitted and sliced)",
+    "dressing and other toppings of choice"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Preheat the oven to 375 degrees Fahrenheit. Lightly grease a baking sheet with olive oil."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "In a food processor, combine the onion, garlic, tahini, olive oil, cilantro, cumin, salt and pepper. Blend until fairly smooth, stopping to scrape down the sides if needed."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add the cooked chickpeas and 1/3 cup of oats to the food processor. Pulse a little bit at a time, until the chickpeas and oats are broken up into small chunks and incorporated, but not smooth."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Transfer the mixture to a bowl. Stir in more quick oats as needed to get the mixture dry and thick enough to roll into balls. One by one, roll the falafel mix into small balls and place on the greased baking sheet. Optionally, you can flatten it into more of a disk shape if that better suits the way you'll be using the baked falafel."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Bake for 15 minutes without opening the oven door. Take the pan out of the oven. Try to be very careful here; the baked falafel is still quite delicate at this stage. Use a spatula to dislodge each falafel ball from the baking sheet and flip it onto its other side. It's important to use a spatula and move the falafel from the bottom using a sideways motion. If you pull upward on it, it's likely that part of it will stay stuck to the baking sheet."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Return the baking sheet to the oven and cook for about 15 minutes more, or until lightly browned on both sides and slightly crisp on the outside (but still soft on the inside). If you keep baking it longer after this, it will get even crunchier, but also more crumbly."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Once cooled, baked falafel will store in an airtight container in the fridge for about a week."
+    }
+  ],
+  "recipeYield": "30",
+  "sameAs": [
+    "https://yupitsvegan.com/easy-baked-falafel"
+  ],
+  "totalTime": "PT35M",
+  "updatedAt": "2022-12-02T07:59:24.758Z"
+}

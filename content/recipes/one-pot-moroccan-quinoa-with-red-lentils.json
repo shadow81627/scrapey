@@ -1,0 +1,184 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "5",
+    "ratingValue": "5"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Yup, it's Vegan"
+  },
+  "cookTime": "PT35M",
+  "createdAt": "2022-12-02T08:24:07.157Z",
+  "datePublished": "2016-04-25T17:37:46+00:00",
+  "description": "Hearty, healthy, amazingly flavorful one pot Moroccan quinoa with red lentils. The lentils, quinoa, and vegetables all cook together in one pan, and the dish is finished with notes of citrus, herbs, and toasted almond. Vegan, gluten-free, soy-free recipe.",
+  "image": [
+    "https://yupitsvegan.com/wp-content/uploads/2016/04/one-pot-moroccan-quinoa-vegan-healthy-easy-2.jpg"
+  ],
+  "keywords": "one pot Moroccan quinoa, quinoa with red lentils",
+  "mentions": [
+    {
+      "@id": "https://yupitsvegan.com/tag/citrus/#id",
+      "@type": "http://schema.org/Thing",
+      "description": "Citrus is a genus of flowering trees and shrubs in the rue family, Rutaceae. Plants in the genus produce citrus fruits, including important crops like oranges, lemons, grapefruit, and limes. The most recent research indicates an origin in Australia, New Caledonia and New Guinea. Some researchers believe that the origin is in the part of...",
+      "name": "citrus fruit",
+      "sameAs": [
+        "http://es.dbpedia.org/resource/Citrus",
+        "http://el.dbpedia.org/resource/Κίτρος",
+        "http://id.dbpedia.org/resource/Jeruk",
+        "http://d-nb.info/gnd/4139287-5",
+        "http://purl.obolibrary.org/obo/FOODON_03305742",
+        "http://www.wikidata.org/entity/Q81513",
+        "http://pt.dbpedia.org/resource/Citrus",
+        "https://en.wikipedia.org/wiki/Citrus",
+        "http://wikidata.dbpedia.org/resource/Q81513",
+        "http://de.dbpedia.org/resource/Zitruspflanzen",
+        "http://nl.dbpedia.org/resource/Citrusvrucht",
+        "http://rdf.freebase.com/ns/m.0dqb5",
+        "http://dbpedia.org/resource/Citrus",
+        "http://ja.dbpedia.org/resource/ミカン属",
+        "http://eu.dbpedia.org/resource/Garrazki",
+        "http://cs.dbpedia.org/resource/Citrus",
+        "http://it.dbpedia.org/resource/Citrus",
+        "http://pl.dbpedia.org/resource/Cytrus",
+        "http://ko.dbpedia.org/resource/귤속",
+        "http://fr.dbpedia.org/resource/Citrus",
+        "https://knowledge.cafemedia.com/food/entity/citrus_juice"
+      ]
+    },
+    {
+      "@id": "https://yupitsvegan.com/tag/grains/#id",
+      "@type": "http://schema.org/Thing",
+      "description": "Grains are small, hard, dry seeds, with or without attached hulls or fruit layers, harvested for human or animal consumption. Agronomists also call the plants producing such seeds \"grain crops\". The two main types of commercial grain crops are cereals such as wheat and rye, and legumes such as beans and soybeans. Ubiquity of grain...",
+      "name": "grain",
+      "sameAs": [
+        "https://en.wikipedia.org/wiki/Grain",
+        "http://purl.obolibrary.org/obo/FOODON_03311095",
+        "http://rdf.freebase.com/ns/m.0ch47tv",
+        "http://wikidata.dbpedia.org/resource/Q2995529",
+        "http://www.wikidata.org/entity/Q2995529",
+        "http://dbpedia.org/resource/Grain",
+        "https://knowledge.cafemedia.com/food/entity/grain"
+      ]
+    },
+    {
+      "@id": "https://yupitsvegan.com/tag/high-vegetable/#id",
+      "@type": "http://schema.org/Thing",
+      "description": "In everyday usage, a vegetable is any part of a plant that is consumed by humans as food as part of a savory meal. The term vegetable is somewhat arbitrary, and largely defined through culinary and cultural tradition. It normally excludes other food derived from plants such as fruits, nuts and cereal grains, but includes...",
+      "name": "vegetable",
+      "sameAs": [
+        "http://ko.dbpedia.org/resource/채소",
+        "http://wikidata.dbpedia.org/resource/Q11004",
+        "http://eu.dbpedia.org/resource/Barazki",
+        "http://purl.obolibrary.org/obo/FOODON_00002141",
+        "http://pl.dbpedia.org/resource/Warzywa",
+        "http://fr.dbpedia.org/resource/Légume",
+        "https://en.wikipedia.org/wiki/Vegetable",
+        "http://de.dbpedia.org/resource/Gemüse",
+        "http://el.dbpedia.org/resource/Λαχανικό",
+        "http://rdf.freebase.com/ns/m.0f4s2w",
+        "http://nl.dbpedia.org/resource/Groente",
+        "http://cs.dbpedia.org/resource/Zelenina",
+        "http://es.dbpedia.org/resource/Verdura",
+        "http://www.wikidata.org/entity/Q11004",
+        "http://dbpedia.org/resource/Vegetable",
+        "http://d-nb.info/gnd/4020069-3",
+        "http://it.dbpedia.org/resource/Verdura",
+        "http://ja.dbpedia.org/resource/野菜",
+        "http://id.dbpedia.org/resource/Sayuran",
+        "https://knowledge.cafemedia.com/food/entity/fruit_vegetable"
+      ]
+    },
+    {
+      "@id": "https://yupitsvegan.com/tag/legumes/#id",
+      "@type": "http://schema.org/Thing",
+      "description": "A legume (/ˈlɛɡjuːm/ or /ˌləˈɡjuːm/) is a plant or fruit/seed in the family Fabaceae (or Leguminosae). Legumes are grown agriculturally, primarily for their grain seed called pulse, for livestock forage and silage, and as soil-enhancing green manure. Well-known legumes include alfalfa, clover, peas, beans, lentils, lupin bean, mesquite, carob, soybeans, peanuts, and tamarind. Legumes are...",
+      "name": "legume",
+      "sameAs": [
+        "http://el.dbpedia.org/resource/Όσπρια",
+        "http://cs.dbpedia.org/resource/Luštěnina",
+        "https://en.wikipedia.org/wiki/Legume",
+        "http://rdf.freebase.com/ns/m.01sfdb",
+        "http://wikidata.dbpedia.org/resource/Q145909",
+        "http://pt.dbpedia.org/resource/Legume",
+        "http://www.wikidata.org/entity/Q145909",
+        "http://ja.dbpedia.org/resource/豆果",
+        "http://fr.dbpedia.org/resource/Gousse",
+        "http://eu.dbpedia.org/resource/Lekale",
+        "http://dbpedia.org/resource/Legume",
+        "http://es.dbpedia.org/resource/Legumbre",
+        "http://yago-knowledge.org/resource/Pulse_(legume)",
+        "http://pl.dbpedia.org/resource/Rośliny_strączkowe",
+        "http://purl.obolibrary.org/obo/FOODON_00001264",
+        "http://nl.dbpedia.org/resource/Peul_(vrucht)",
+        "http://de.dbpedia.org/resource/Hülsenfrucht",
+        "http://it.dbpedia.org/resource/Baccello",
+        "http://d-nb.info/gnd/4020803-5",
+        "http://rdf.freebase.com/ns/m.0bqsk",
+        "https://knowledge.cafemedia.com/food/entity/legume"
+      ]
+    }
+  ],
+  "name": "One Pot Moroccan Quinoa with Red Lentils",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "397 kcal",
+    "carbohydrateContent": "69 g",
+    "fatContent": "7 g",
+    "fiberContent": "11 g",
+    "proteinContent": "14 g",
+    "saturatedFatContent": "1 g",
+    "servingSize": "1 fourth recipe",
+    "sodiumContent": "568 mg",
+    "sugarContent": "8 g",
+    "unsaturatedFatContent": "5 g"
+  },
+  "prepTime": "PT10M",
+  "recipeCategory": "dinner",
+  "recipeCuisine": "gluten-free",
+  "recipeIngredient": [
+    "1/8 tsp fennel seeds",
+    "1/4 tsp red pepper flakes",
+    "1/4 tsp whole cloves",
+    "1/2 tsp cumin seeds",
+    "1/2 tsp coriander seeds",
+    "1/2 tsp whole allspice berries",
+    "1 tsp sesame seeds",
+    "1/8 tsp ground black pepper",
+    "1/8 tsp ground ginger",
+    "1/4 tsp ground cinnamon",
+    "1 tsp olive oil",
+    "2 carrots (peeled and diced)",
+    "5 to 6 small red potatoes (scrubbed and diced)",
+    "1/2 red onion (diced)",
+    "1 bell pepper (seeded and diced)",
+    "3 cloves garlic (minced)",
+    "1 tbsp Moroccan spice blend (see above) or ras el hanout)",
+    "1/3 cup un-cooked red lentils",
+    "1 cup un-cooked quinoa (rinsed)",
+    "1/4 tsp cayenne pepper (reduce to 1/8 tsp. for less spicy)",
+    "3 cups low-sodium vegetable broth",
+    "3/4 tsp salt or to taste (use less if your broth is salty)",
+    "1/2 cup freshly-squeezed orange juice (about 1 orange)",
+    "1/4 cup freshly-squeezed lemon juice (about 1 lemon)",
+    "1/4 cup loosely-packed chopped fresh cilantro (or mint, or a combination)",
+    "1/4 cup chopped toasted almonds"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Toast all of the whole spices (fennel seeds through allspice berries) over medium heat in a dry skillet, stirring frequently, until fragrant."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Grind them in a spice grinder or with a mortar and pestle. Mix in the rest of the spices and set aside."
+    }
+  ],
+  "recipeYield": "4",
+  "sameAs": [
+    "https://yupitsvegan.com/one-pot-moroccan-quinoa"
+  ],
+  "totalTime": "PT45M",
+  "updatedAt": "2022-12-02T08:24:07.156Z"
+}

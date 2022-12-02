@@ -2,74 +2,72 @@
   "@type": "Recipe",
   "aggregateRating": {
     "@type": "AggregateRating",
-    "ratingCount": "130",
-    "ratingValue": "4.96"
+    "ratingCount": "1",
+    "ratingValue": "5"
   },
   "author": {
     "@type": "Person",
-    "name": "Minimalist Baker"
+    "name": "Oh My Veggies"
   },
+  "cookTime": "PT5M",
   "createdAt": "2022-12-01T11:13:32.053Z",
-  "datePublished": "2015-01-26T22:54:25+00:00",
-  "description": "Simple homemade almond milk that's creamy, delicious, and entirely customizable! Perfect for cereal, baking, and drinking straight alongside baked goods.",
+  "datePublished": "2017-05-27T09:00:00+00:00",
+  "description": "Making your own almond milk is easier than you think! We&#39;ll show you how to do it with just two ingredients and a handful of simple steps.",
   "image": [
-    "https://minimalistbaker.com/wp-content/uploads/2015/01/how-to-make-almond-milk-SQUARE.jpg"
+    "https://ohmyveggies.com/wp-content/uploads/2017/05/how-to-make-almond-milk-3.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2017/05/how-to-make-almond-milk-3-500x500.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2017/05/how-to-make-almond-milk-3-500x375.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2017/05/how-to-make-almond-milk-3-480x270.jpg"
   ],
-  "keywords": "almond milk",
+  "keywords": "almond milk at home, homemade almond milk, how to make almond milk",
   "name": "How to Make Almond Milk",
   "nutrition": {
     "@type": "NutritionInformation",
-    "calories": "31 kcal",
-    "carbohydrateContent": "1.2 g",
-    "fatContent": "2.7 g",
-    "fiberContent": "0.7 g",
-    "proteinContent": "1.1 g",
-    "saturatedFatContent": "0.2 g",
-    "servingSize": "1 half-cup serving",
-    "sodiumContent": "4 mg",
-    "sugarContent": "0.2 g",
-    "unsaturatedFatContent": "2.4 g"
+    "calories": "822 kcal",
+    "carbohydrateContent": "31 g",
+    "fatContent": "71 g",
+    "fiberContent": "17 g",
+    "proteinContent": "30 g",
+    "saturatedFatContent": "5 g",
+    "servingSize": "1 serving",
+    "sodiumContent": "25 mg",
+    "sugarContent": "6 g",
+    "transFatContent": "1 g",
+    "unsaturatedFatContent": "61 g"
   },
-  "prepTime": "PT10M",
-  "recipeCategory": "Beverage",
-  "recipeCuisine": "Gluten-Free",
+  "prepTime": "PT5M",
+  "recipeCategory": "Drinks",
+  "recipeCuisine": "American",
   "recipeIngredient": [
-    "1 cup raw almonds (soaked overnight in cool water // or 1-2 hours in very hot water)",
-    "5 cups filtered water (less to thicken, more to thin)",
-    "1 pinch sea salt",
-    "2 whole dates (optional // pitted // or other sweetener of choice // omit for unsweetened)",
-    "1 tsp vanilla extract (optional // or sub 1 vanilla bean, scraped per 1 tsp extract // omit for plain)",
-    "2 Tbsp cocoa powder (optional // for \"chocolate milk\")",
-    "1/2 cup berries (optional // for \"berry milk\")"
+    "1 cup raw almonds (NOT roasted)",
+    "2-3 cups water"
   ],
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "text": "Add your soaked almonds, water, salt, and any additional add-ins (optional) to a high-speed blender and blend until creamy and smooth. Keep it running for at least 1-2 minutes so you get the most out of your almonds."
+      "image": "https://ohmyveggies.com/wp-content/uploads/2017/05/how-to-make-almond-milk.jpg",
+      "text": "Start by soaking your almonds. Put them in a bowl, cover with a few inches of water, and soak them for 4-8 hours. You can leave them overnight if you wish."
     },
     {
       "@type": "HowToStep",
-      "text": "Strain using a nut milk bag or my favorite trick - a thin dish towel. Simply lay a clean dish towel over a mixing bowl, pour over the almond milk, carefully gather the corners, and lift up. Then squeeze until all of the liquid is extracted. Discard pulp, or save for adding to baked goods (especially crackers). Find more ways to use almond pulp here."
+      "image": "https://ohmyveggies.com/wp-content/uploads/2017/05/how-to-make-almond-milk-2.jpg",
+      "text": "Place the almonds into the blender, and add some water. I like to use about 3 cups of water for every cup of almonds. But you may wish to use less for a thicker consistency - start with 2 cups of water and adjust from there. Blend well."
     },
     {
       "@type": "HowToStep",
-      "text": "Transfer milk to a jar or covered bottle and refrigerate. Will keep for up to 4-5 days, though best when fresh. Shake well before drinking, as it tends to separate."
+      "image": "https://ohmyveggies.com/wp-content/uploads/2017/05/how-to-make-almond-milk-4.jpg",
+      "text": "Use a nut milk bag to strain the almond milk mixture. Set the bag over a large bowl and pour the almond milk into the bag. Then squeeze it over the bowl. You will get a creamy almond milk!"
     }
   ],
-  "recipeYield": "10",
+  "recipeYield": "1",
   "sameAs": [
-    "https://minimalistbaker.com/how-to-make-almond-milk"
+    "https://ohmyveggies.com/how-to-make-almond-milk"
+  ],
+  "suitableForDiet": [
+    "https://schema.org/GlutenFreeDiet",
+    "https://schema.org/VeganDiet",
+    "https://schema.org/VegetarianDiet"
   ],
   "totalTime": "PT10M",
-  "updatedAt": "2022-12-01T11:13:32.052Z",
-  "video": {
-    "@type": "VideoObject",
-    "contentUrl": "https://www.youtube.com/watch?v=LbVRbh4X5Pc",
-    "description": "Simple homemade almond milk that's creamy, delicious, and entirely customizable! Perfect for cereal, baking, and drinking straight alongside baked goods.\n\nFull Recipe: https://minimalistbaker.com/how-to-make-almond-milk/\n \nFOLLOW US!\nBlog: http://minimalistbaker.com/\nInstagram: https://instagram.com/minimalistbaker/\nTwitter: https://twitter.com/minimalistbaker\nFacebook: https://www.facebook.com/MinimalistBaker",
-    "duration": "PT54S",
-    "embedUrl": "https://www.youtube.com/embed/LbVRbh4X5Pc?feature=oembed",
-    "name": "How to Make Almond Milk | Minimalist Baker Recipes",
-    "thumbnailUrl": "https://i.ytimg.com/vi/LbVRbh4X5Pc/hqdefault.jpg",
-    "uploadDate": "2018-08-17T17:22:48+00:00"
-  }
+  "updatedAt": "2022-12-02T00:17:17.952Z"
 }

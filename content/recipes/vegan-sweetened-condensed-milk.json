@@ -1,0 +1,130 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "3",
+    "ratingValue": "5"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Yup, it's Vegan"
+  },
+  "cookTime": "PT75M",
+  "createdAt": "2022-12-02T03:32:56.548Z",
+  "datePublished": "2017-04-30T19:50:18+00:00",
+  "description": "Vegan sweetened condensed milk made with just 3 ingredients! A thick and slightly caramelized sauce that's perfect for drizzling on pretty much anything sweet.",
+  "image": [
+    "https://yupitsvegan.com/wp-content/uploads/2017/04/vegan-sweetened-condensed-milk-square.jpg"
+  ],
+  "keywords": "dairy-free condensed milk, vegan sweetened condensed milk",
+  "mentions": [
+    {
+      "@id": "https://yupitsvegan.com/tag/nuts-and-seeds/#id",
+      "@type": "http://schema.org/Thing",
+      "description": "A nut is a fruit composed of a hard shell and a seed, which is generally edible. In a general context, however, a wide variety of dried seeds are called nuts, but in a botanical context, there is an additional requirement that the shell does not open to release the seed (indehiscent). The translation of...",
+      "name": "tree nut",
+      "sameAs": [
+        "http://wikidata.dbpedia.org/resource/Q11009",
+        "http://pl.dbpedia.org/resource/Orzechy_(bakalie)",
+        "http://www.wikidata.org/entity/Q11009",
+        "http://id.dbpedia.org/resource/Buah_geluk",
+        "http://nl.dbpedia.org/resource/Noot_(plantaardig)",
+        "http://d-nb.info/gnd/4042827-8",
+        "http://fr.dbpedia.org/resource/Fruit_à_coque",
+        "http://rdf.freebase.com/ns/m.01lbxg",
+        "http://dbpedia.org/resource/Nut_(fruit)",
+        "http://ja.dbpedia.org/resource/種実類",
+        "http://yago-knowledge.org/resource/Nut_(fruit)",
+        "http://purl.obolibrary.org/obo/FOODON_03301354",
+        "http://pt.dbpedia.org/resource/Noz",
+        "http://cs.dbpedia.org/resource/Oříšek",
+        "http://ko.dbpedia.org/resource/견과",
+        "http://de.dbpedia.org/resource/Nussfrucht",
+        "https://en.wikipedia.org/wiki/Nut_(fruit)",
+        "http://es.dbpedia.org/resource/Nuez_(fruto)",
+        "http://el.dbpedia.org/resource/Κάρυο_(βοτανική)",
+        "https://knowledge.cafemedia.com/food/entity/tree_nut"
+      ]
+    },
+    {
+      "@id": "https://yupitsvegan.com/category/desserts/#id",
+      "@type": "http://schema.org/Thing",
+      "description": "Dessert (/dᵻˈzɜːrt/) is a course that concludes a main meal. The course usually consists of sweet foods and beverages, such as dessert wine or liqueurs, but may include coffee, cheeses, nuts, or other savory items. In some parts of the world, such as much of central and western Africa, there is no tradition of a...",
+      "name": "sweet dish",
+      "sameAs": [
+        "http://es.dbpedia.org/resource/Postre",
+        "http://dbpedia.org/resource/Dessert",
+        "http://ko.dbpedia.org/resource/후식",
+        "http://fr.dbpedia.org/resource/Dessert",
+        "http://de.dbpedia.org/resource/Dessert",
+        "http://id.dbpedia.org/resource/Hidangan_penutup",
+        "http://ja.dbpedia.org/resource/デザート",
+        "http://nl.dbpedia.org/resource/Nagerecht",
+        "http://pt.dbpedia.org/resource/Sobremesa",
+        "http://d-nb.info/gnd/4011539-2",
+        "http://purl.obolibrary.org/obo/FOODON_03316299",
+        "http://pl.dbpedia.org/resource/Deser",
+        "http://cs.dbpedia.org/resource/Dezert",
+        "http://eu.dbpedia.org/resource/Azkenburu",
+        "http://www.wikidata.org/entity/Q182940",
+        "https://en.wikipedia.org/wiki/Dessert",
+        "http://it.dbpedia.org/resource/Dessert",
+        "http://rdf.freebase.com/ns/m.0270h",
+        "http://wikidata.dbpedia.org/resource/Q182940",
+        "https://knowledge.cafemedia.com/food/entity/sweet_dish"
+      ]
+    }
+  ],
+  "name": "Vegan Sweetened Condensed Milk",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "116 kcal",
+    "carbohydrateContent": "12 g",
+    "fatContent": "8 g",
+    "fiberContent": "1 g",
+    "proteinContent": "1 g",
+    "saturatedFatContent": "1 g",
+    "servingSize": "2 tablespoons",
+    "sodiumContent": "5 mg",
+    "sugarContent": "11 g",
+    "unsaturatedFatContent": "7 g"
+  },
+  "prepTime": "PT10M",
+  "recipeCategory": "basics",
+  "recipeCuisine": "gluten-free",
+  "recipeIngredient": [
+    "1 cup roasted macadamia nuts (or use raw or roasted cashews or almonds)",
+    "3 cups water",
+    "1/2 cup cane sugar (or coconut sugar)",
+    "1/4 tsp vanilla extract (optional)",
+    "Nut milk bag or cheesecloth"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Add the macadamia nuts and water to a blender. (My usual food processor cannot accommodate this amount of liquid, so I have to use a blender for this - if you have a high end food processor you may be able to use it). Blend the mixture as smooth as you can get it."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Prepare either a nut milk bag (or 4 layers of cheesecloth) positioned over a bowl or small pitcher. Carefully pour the mixture from the blender into the nut milk bag (or layered cheesecloth). Gather the edges together and then squeeze as much liquid out of the bag as you possibly can. Put some muscle into it! *Pulp can be saved and stirred into oatmeal, quick breads, energy bars, etc.*"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Pour 1 and 1/2 cups of the milk into a saucepan (preferably one with a thick bottom); reserve the pulp and excess milk for another use. Bring to a boil, stirring occasionally. Reduce to a simmer and stir in the sugar. Continue stirring until the sugar is dissolved."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Reduce the heat to low, and continue cooking, stirring occasionally (and taking care to scrape around the bottom of the pan when you do), until the mixture is reduced by half; about 60 minutes. (See the notes for more detailed information about this step). Stir in the vanilla, if using."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "The sweetened condensed milk will thicken further as it cools. Let it come to room temperature, then store it in the fridge for up to a week or so."
+    }
+  ],
+  "recipeYield": "1",
+  "sameAs": [
+    "https://yupitsvegan.com/vegan-sweetened-condensed-milk"
+  ],
+  "totalTime": "PT85M",
+  "updatedAt": "2022-12-02T03:32:56.547Z"
+}

@@ -1,0 +1,75 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1",
+    "ratingValue": "5"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Oh My Veggies"
+  },
+  "cookTime": "PT75M",
+  "createdAt": "2022-12-02T06:20:14.220Z",
+  "datePublished": "2019-03-01T06:00:18+00:00",
+  "description": "I hate wasting perfectly good vegetables to make mushroom stock—using kitchen scraps is a cheaper, less wasteful alternative!",
+  "image": [
+    "https://ohmyveggies.com/wp-content/uploads/2013/02/mushroom_stock_from_kitchen_scraps_recipe.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2013/02/mushroom_stock_from_kitchen_scraps_recipe-500x400.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2013/02/mushroom_stock_from_kitchen_scraps_recipe-500x375.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2013/02/mushroom_stock_from_kitchen_scraps_recipe-480x270.jpg"
+  ],
+  "keywords": "how to make mushroom stock, how to make vegetable stock, Kitchen Scrap Mushroom Stock",
+  "name": "Kitchen Scrap Mushroom Stock",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "70 kcal",
+    "carbohydrateContent": "14 g",
+    "fatContent": "1 g",
+    "fiberContent": "4 g",
+    "proteinContent": "5 g",
+    "saturatedFatContent": "1 g",
+    "servingSize": "1 serving",
+    "sodiumContent": "69 mg",
+    "sugarContent": "1 g",
+    "unsaturatedFatContent": "2 g"
+  },
+  "recipeCategory": "Sauces, Dips &amp; Dressings",
+  "recipeCuisine": "American",
+  "recipeIngredient": [
+    "2 cup frozen mushroom stems",
+    "2 cup frozen vegetable scraps (onion and shallot skins, carrot and celery trimmings, etc.)",
+    "3 sprigs parsley",
+    "1 garlic clove (minced)",
+    "1 bay leaf",
+    "8 cup water"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Combine all ingredients in large Dutch oven or stock pot."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Bring to a boil, then reduce heat to low. Simmer partially covered for 45 minutes; remove lid and simmer uncovered for 30 minutes more."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Allow stock to cool, then pour through a fine mesh strainer into a bowl. Press vegetable scraps against the strainer with a wooden spoon in order to extract as much stock as possible."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Discard solids and store stock in a plastic container or freezer bag."
+    }
+  ],
+  "recipeYield": "4",
+  "sameAs": [
+    "https://ohmyveggies.com/how-to-make-mushroom-stock-from-kitchen-scraps"
+  ],
+  "suitableForDiet": [
+    "https://schema.org/VeganDiet",
+    "https://schema.org/VegetarianDiet"
+  ],
+  "totalTime": "PT75M",
+  "updatedAt": "2022-12-02T06:20:14.219Z"
+}

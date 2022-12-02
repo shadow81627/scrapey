@@ -1,0 +1,119 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "2",
+    "ratingValue": "5"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Yup, it's Vegan"
+  },
+  "createdAt": "2022-12-02T04:35:23.464Z",
+  "datePublished": "2019-06-21T13:35:18+00:00",
+  "description": "Healthy smoothies that taste JUST like strawberry lemonade, but with no added sugar or sweetener! Take advantage of those fresh spring/summer strawberries to make this refreshing beverage. Plan ahead to leave time for your berries to freeze.",
+  "image": [
+    "https://yupitsvegan.com/wp-content/uploads/2019/06/strawberry-lemonade-smoothies-1.jpg",
+    "https://yupitsvegan.com/wp-content/uploads/2019/06/strawberry-lemonade-smoothies-1-500x500.jpg",
+    "https://yupitsvegan.com/wp-content/uploads/2019/06/strawberry-lemonade-smoothies-1-500x375.jpg",
+    "https://yupitsvegan.com/wp-content/uploads/2019/06/strawberry-lemonade-smoothies-1-480x270.jpg"
+  ],
+  "keywords": "strawberry lemonade smoothies",
+  "mentions": [
+    {
+      "@id": "https://yupitsvegan.com/tag/citrus/#id",
+      "@type": "http://schema.org/Thing",
+      "description": "Citrus is a genus of flowering trees and shrubs in the rue family, Rutaceae. Plants in the genus produce citrus fruits, including important crops like oranges, lemons, grapefruit, and limes. The most recent research indicates an origin in Australia, New Caledonia and New Guinea. Some researchers believe that the origin is in the part of...",
+      "name": "citrus fruit",
+      "sameAs": [
+        "http://es.dbpedia.org/resource/Citrus",
+        "http://el.dbpedia.org/resource/Κίτρος",
+        "http://id.dbpedia.org/resource/Jeruk",
+        "http://d-nb.info/gnd/4139287-5",
+        "http://purl.obolibrary.org/obo/FOODON_03305742",
+        "http://www.wikidata.org/entity/Q81513",
+        "http://pt.dbpedia.org/resource/Citrus",
+        "https://en.wikipedia.org/wiki/Citrus",
+        "http://wikidata.dbpedia.org/resource/Q81513",
+        "http://de.dbpedia.org/resource/Zitruspflanzen",
+        "http://nl.dbpedia.org/resource/Citrusvrucht",
+        "http://rdf.freebase.com/ns/m.0dqb5",
+        "http://dbpedia.org/resource/Citrus",
+        "http://ja.dbpedia.org/resource/ミカン属",
+        "http://eu.dbpedia.org/resource/Garrazki",
+        "http://cs.dbpedia.org/resource/Citrus",
+        "http://it.dbpedia.org/resource/Citrus",
+        "http://pl.dbpedia.org/resource/Cytrus",
+        "http://ko.dbpedia.org/resource/귤속",
+        "http://fr.dbpedia.org/resource/Citrus",
+        "https://knowledge.cafemedia.com/food/entity/citrus_juice"
+      ]
+    },
+    {
+      "@id": "https://yupitsvegan.com/tag/high-vegetable/#id",
+      "@type": "http://schema.org/Thing",
+      "description": "In everyday usage, a vegetable is any part of a plant that is consumed by humans as food as part of a savory meal. The term vegetable is somewhat arbitrary, and largely defined through culinary and cultural tradition. It normally excludes other food derived from plants such as fruits, nuts and cereal grains, but includes...",
+      "name": "vegetable",
+      "sameAs": [
+        "http://ko.dbpedia.org/resource/채소",
+        "http://wikidata.dbpedia.org/resource/Q11004",
+        "http://eu.dbpedia.org/resource/Barazki",
+        "http://purl.obolibrary.org/obo/FOODON_00002141",
+        "http://pl.dbpedia.org/resource/Warzywa",
+        "http://fr.dbpedia.org/resource/Légume",
+        "https://en.wikipedia.org/wiki/Vegetable",
+        "http://de.dbpedia.org/resource/Gemüse",
+        "http://el.dbpedia.org/resource/Λαχανικό",
+        "http://rdf.freebase.com/ns/m.0f4s2w",
+        "http://nl.dbpedia.org/resource/Groente",
+        "http://cs.dbpedia.org/resource/Zelenina",
+        "http://es.dbpedia.org/resource/Verdura",
+        "http://www.wikidata.org/entity/Q11004",
+        "http://dbpedia.org/resource/Vegetable",
+        "http://d-nb.info/gnd/4020069-3",
+        "http://it.dbpedia.org/resource/Verdura",
+        "http://ja.dbpedia.org/resource/野菜",
+        "http://id.dbpedia.org/resource/Sayuran",
+        "https://knowledge.cafemedia.com/food/entity/fruit_vegetable"
+      ]
+    }
+  ],
+  "name": "Strawberry Lemonade Smoothies",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "137 kcal",
+    "carbohydrateContent": "34 g",
+    "fatContent": "1 g",
+    "fiberContent": "7 g",
+    "proteinContent": "3 g",
+    "servingSize": "1 half recipe",
+    "sodiumContent": "4 mg",
+    "sugarContent": "19 g"
+  },
+  "prepTime": "PT15M",
+  "recipeCategory": "beverages",
+  "recipeCuisine": "American",
+  "recipeIngredient": [
+    "1 lb fresh strawberries (trimmed)",
+    "1 tsp lemon zest",
+    "1 lemon (peel and seeds removed)",
+    "1 ripe banana",
+    "1 small pinch of salt"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Trim the leafy part off of the strawberries. Grate 1 tsp of zest from the lemon and set aside. Slice off the lemon peel and remove the seeds and pith (the white papery stuff). Peel, and then slice or mash the ripe banana. Set the lemon flesh, strawberries, and banana in the freezer for at least 2 hours to firm up."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add the frozen fruits and the lemon zest, plus a pinch of salt, to your blender, along with ice cubes to preference. (Note: do NOT omit the lemon zest, it's essential for that \"strawberry lemonade\" flavor). Blend until smooth and enjoy immediately."
+    }
+  ],
+  "recipeYield": "2",
+  "sameAs": [
+    "https://yupitsvegan.com/strawberry-lemonade-smoothies"
+  ],
+  "totalTime": "PT15M",
+  "updatedAt": "2022-12-02T04:35:23.463Z"
+}

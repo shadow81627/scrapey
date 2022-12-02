@@ -1,0 +1,115 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "3",
+    "ratingValue": "5"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Yup, it's Vegan"
+  },
+  "cookTime": "PT75M",
+  "createdAt": "2022-12-02T07:33:33.910Z",
+  "datePublished": "2016-12-10T08:41:08+00:00",
+  "description": "Delicious vegan baked mac and cheese, made from real food ingredients with a luscious roasted red pepper cheese sauce. Vegan recipe that can easily be soy-free, gluten-free, and oil-free.",
+  "image": [
+    "https://yupitsvegan.com/wp-content/uploads/2016/12/vegan-baked-mac-and-cheese-gluten-free-12.jpg"
+  ],
+  "keywords": "vegan baked mac and cheese",
+  "mentions": [
+    {
+      "@id": "https://yupitsvegan.com/tag/nuts-and-seeds/#id",
+      "@type": "http://schema.org/Thing",
+      "description": "A nut is a fruit composed of a hard shell and a seed, which is generally edible. In a general context, however, a wide variety of dried seeds are called nuts, but in a botanical context, there is an additional requirement that the shell does not open to release the seed (indehiscent). The translation of...",
+      "name": "tree nut",
+      "sameAs": [
+        "http://wikidata.dbpedia.org/resource/Q11009",
+        "http://pl.dbpedia.org/resource/Orzechy_(bakalie)",
+        "http://www.wikidata.org/entity/Q11009",
+        "http://id.dbpedia.org/resource/Buah_geluk",
+        "http://nl.dbpedia.org/resource/Noot_(plantaardig)",
+        "http://d-nb.info/gnd/4042827-8",
+        "http://fr.dbpedia.org/resource/Fruit_à_coque",
+        "http://rdf.freebase.com/ns/m.01lbxg",
+        "http://dbpedia.org/resource/Nut_(fruit)",
+        "http://ja.dbpedia.org/resource/種実類",
+        "http://yago-knowledge.org/resource/Nut_(fruit)",
+        "http://purl.obolibrary.org/obo/FOODON_03301354",
+        "http://pt.dbpedia.org/resource/Noz",
+        "http://cs.dbpedia.org/resource/Oříšek",
+        "http://ko.dbpedia.org/resource/견과",
+        "http://de.dbpedia.org/resource/Nussfrucht",
+        "https://en.wikipedia.org/wiki/Nut_(fruit)",
+        "http://es.dbpedia.org/resource/Nuez_(fruto)",
+        "http://el.dbpedia.org/resource/Κάρυο_(βοτανική)",
+        "https://knowledge.cafemedia.com/food/entity/tree_nut"
+      ]
+    }
+  ],
+  "name": "Ultimate Vegan Baked Mac and Cheese",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "480 kcal",
+    "carbohydrateContent": "85 g",
+    "fatContent": "11 g",
+    "fiberContent": "7 g",
+    "proteinContent": "13 g",
+    "saturatedFatContent": "1 g",
+    "servingSize": "1 sixth recipe",
+    "sodiumContent": "443 mg",
+    "sugarContent": "4 g",
+    "unsaturatedFatContent": "5 g"
+  },
+  "prepTime": "PT20M",
+  "recipeCategory": "dinner",
+  "recipeCuisine": "gluten-free",
+  "recipeIngredient": [
+    "1 large red bell pepper",
+    "1 head of garlic",
+    "1 small yellow onion (115g)",
+    "3 medium red potatoes (400g)",
+    "3/4 cup raw cashews (soaked in water overnight or in boiling hot water for 1 hour)",
+    "1/2 tsp paprika (regular, not smoked)",
+    "1/4 tsp ground turmeric (optional, for color)",
+    "1 and 1/2 tbsp white or yellow miso",
+    "2 tbsp nutritional yeast (plus more to taste)",
+    "1 tbsp olive oil (optional, but recommended, for texture)",
+    "1 tsp of freshly-squeezed lemon juice (plus more to taste)",
+    "3/4 tsp salt (or to taste; you may want to reduce if omitting the oil)",
+    "16 oz. pasta of choice (see notes if using gluten-free)",
+    "olive oil",
+    "1/4 cup sliced sundried tomatoes (optional, as a mix-in)",
+    "1/4 cup Panko-style breadcrumbs (gluten-free if needed)",
+    "1/4 cup almond flour (or use another flour)",
+    "1/4 cup finely-chopped fresh parsley (optional)",
+    "1/4 tsp garlic powder",
+    "1/4 tsp salt",
+    "1/8 tsp ground white or black pepper",
+    "1/2 tbsp nutritional yeast"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Preheat the oven to 350 degrees. Add the bell pepper whole to an oven-safe baking dish. Slice off the tops of the cloves of garlic, leaving the head intact; lightly grease the exposed parts with oil or oil spray and wrap the head of garlic in foil. Add it to the baking dish."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Bake, rotating the red pepper occasionally, until the pepper is collapsed and browned on the outside, and the garlic is completely tender, about 45 minutes. You can leave the oven on at this point, since the baked mac and cheese will go back in at 350 after you assemble it. Ocne cool enough to handle, pull the skin off of the red pepper, cut it open, and remove the stem and seeds."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Meanwhile, cut the onion and potatoes in half and add them to a saucepan with water to cover. Bring to a boil, and cook until the potatoes are tender, about 15 minutes (depending on the size and age of your potatoes). The peels should come off easily from the potatoes at this point. If you have a high-speed blender you can also leave the skins on. Strain out the potato and onion from the water."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add the cashews to a blender or food processor and process into a paste (if using a food processor you will need to scrape down the sides). Add the roasted red pepper and garlic and combine as best you can. Finally, add the potato, onion, and the rest of the sauce ingredients, and blend until very smooth, scraping down the sides as needed. If using a food processor this may take a couple of minutes. Adjust seasoning to your taste, especially the salt, lemon juice, and nutritional yeast."
+    }
+  ],
+  "recipeYield": "6",
+  "sameAs": [
+    "https://yupitsvegan.com/vegan-baked-mac-and-cheese"
+  ],
+  "totalTime": "PT95M",
+  "updatedAt": "2022-12-02T07:33:33.908Z"
+}

@@ -3,19 +3,15 @@
   "additionalProperty": [
     {
       "name": "Ingredients",
-      "value": "Rice (88%), Soy Sauce (Soy, Rice, Salt), Sugar, Yeast Extract, Dried Seaweed (0.5%), Caramelised Sugar Syrup, Salt, Natural Flavours, Vegetable Oil, Mineral Salt (Potassium Chloride), Food Acid (Citric Acid)."
+      "value": "Rice (88%), Soy Sauce (Soy, Rice, Salt), Sugar, Yeast Extract, Dried Seaweed (0.5%), Caramelised Sugar Syrup, Salt, Natural Flavours, Rice Bran Oil, Mineral Salt (Potassium Chloride), Food Acid (Citric Acid)."
     },
     {
       "name": "Contains",
-      "value": "Soybeans or Soybean products."
+      "value": "Soy."
     },
     {
       "name": "Allergen",
-      "value": "May Be Present Sesame Seeds, Contains Milk, May Be Present Sesame, Contains Soy, Contains Wheat"
-    },
-    {
-      "name": "Dietary",
-      "value": "98% Fat Free, No Preservatives, No Artificial Flavours or Colours"
+      "value": "Contains Soy"
     },
     {
       "name": "Servings Per Pack",
@@ -27,38 +23,32 @@
     },
     {
       "name": "Unit Price",
-      "value": "$1.78 per 100G"
+      "value": "$2.56 per 100G"
     },
     {
       "name": "Country Of Origin",
-      "value": "Made in Cambodia"
+      "value": "Made in Thailand"
     }
   ],
   "brand": "Sakata",
   "createdAt": "2020-11-15T12:30:20.000Z",
-  "description": "Sakata Rice Crackers Seaweed is gluten-free and contains natural colours & flavours. Made with real seaweed.",
-  "image": {
-    "@type": "ImageObject",
-    "height": 300,
-    "mime": "image/jpeg",
-    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/6/9/8/6982406.jpg",
-    "width": 300
-  },
+  "description": "Sakata Seaweed Rice Crackers",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/6/9/8/6982406.jpg",
   "name": "Seaweed Rice Crackers",
   "offers": {
     "@type": "AggregateOffer",
-    "highPrice": 1.6,
-    "lowPrice": 1.6,
+    "highPrice": 2.3,
+    "lowPrice": 2.3,
     "offerCount": 1,
     "offers": [
       {
         "@context": "http://schema.org",
         "@type": "Offer",
         "availability": "https://schema.org/InStock",
-        "availabilityStarts": "2020-11-15T09:22:53.743Z",
+        "availabilityStarts": "2022-12-01T23:09:52.014Z",
         "itemCondition": "https://schema.org/NewCondition",
         "offeredBy": "Coles",
-        "price": "1.60",
+        "price": "2.30",
         "priceCurrency": "AUD",
         "seller": {
           "@type": "Organization",
@@ -72,5 +62,5 @@
     "https://shop.coles.com.au/a/national/product/sakata-rice-crackers-seaweed"
   ],
   "sku": "6982406",
-  "updatedAt": "2020-11-15T09:22:53.743Z"
+  "updatedAt": "2022-12-01T23:09:52.014Z"
 }

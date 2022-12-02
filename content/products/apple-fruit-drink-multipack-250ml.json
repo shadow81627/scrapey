@@ -1,0 +1,54 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "<strong>INGREDIENTS:</strong> Water, Reconstituted Apple Juice ;(35%), Sugar, ;Food Acid (Citric Acid), Natural Flavour, Natural Sweetener ;(960)."
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "1.0"
+    },
+    {
+      "name": "Size",
+      "value": "6 Pack"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$2.00 per 1L"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2022-12-02T05:50:18.004Z",
+  "description": "35% Fruit Juice No Artificial Sweeteners",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/5/3/2535574.jpg",
+  "name": "Apple Fruit Drink Multipack 250mL",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3,
+    "lowPrice": 3,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-02T05:50:18.003Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "3.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-apple-fruit-drink-2535574p"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/coles-apple-fruit-drink-2535574p"
+  ],
+  "sku": "2535574",
+  "updatedAt": "2022-12-02T05:50:18.003Z"
+}

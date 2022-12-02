@@ -1,0 +1,78 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "3",
+    "ratingValue": "5"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Oh My Veggies"
+  },
+  "cookTime": "PT12M",
+  "createdAt": "2022-12-02T07:33:55.427Z",
+  "datePublished": "2021-04-20T10:59:10+00:00",
+  "description": "These Banana Oatmeal Cookies are flavorful, soft, chewy, and naturally sweetened with banana. They make a perfect breakfast, snack or dessert alike.",
+  "image": [
+    "https://ohmyveggies.com/wp-content/uploads/2021/04/Vegan-Banana-Oatmeal-Cookies-1200px-square.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2021/04/Vegan-Banana-Oatmeal-Cookies-1200px-square-500x500.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2021/04/Vegan-Banana-Oatmeal-Cookies-1200px-square-500x375.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2021/04/Vegan-Banana-Oatmeal-Cookies-1200px-square-480x270.jpg"
+  ],
+  "keywords": "oatmeal cookies recipe, vegan banana oatmeal cookies, Vegan cookies recipe",
+  "name": "Vegan Banana Oatmeal Cookies",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "91 kcal",
+    "carbohydrateContent": "14 g",
+    "fatContent": "4 g",
+    "fiberContent": "2 g",
+    "proteinContent": "2 g",
+    "saturatedFatContent": "1 g",
+    "servingSize": "1 serving",
+    "sodiumContent": "64 mg",
+    "sugarContent": "4 g"
+  },
+  "prepTime": "PT5M",
+  "recipeCategory": "Breakfast",
+  "recipeCuisine": "American",
+  "recipeIngredient": [
+    "1.5 cups gluten-free oats",
+    "1/2 tsp baking powder",
+    "1/2 tsp baking soda",
+    "1/2 tsp ground cinnamon",
+    "2 tbsp chopped nuts (I used almonds)",
+    "2 medium bananas (mashed)",
+    "1 tbsp apple cider vinegar",
+    "1/4 cup vegan chocolate chips"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Preheat the oven to 350 degrees F/180 degrees C."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add the oats, baking powder, baking soda and cinnamon to a large mixing bowl and whisk together."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add the bananas, apple cider vinegar and stir until all the ingredients are well-combined. Then, fold in the chocolate chips."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Roll the dough into cookie shapes and arrange them on a sheet of parchment paper on a baking sheet. Bake in the oven for 10-12 minutes."
+    }
+  ],
+  "recipeYield": "12",
+  "sameAs": [
+    "https://ohmyveggies.com/banana-oatmeal-cookies"
+  ],
+  "suitableForDiet": [
+    "https://schema.org/GlutenFreeDiet",
+    "https://schema.org/VeganDiet",
+    "https://schema.org/VegetarianDiet"
+  ],
+  "totalTime": "PT17M",
+  "updatedAt": "2022-12-02T07:33:55.426Z"
+}

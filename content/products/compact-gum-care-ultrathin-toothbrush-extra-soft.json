@@ -1,0 +1,50 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Warning",
+      "value": "Not intended for children 3 years and under. Replace brush every 3 months."
+    },
+    {
+      "name": "Size",
+      "value": "1 pack"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$4.00 per 1Ea"
+    }
+  ],
+  "brand": "Oral-B",
+  "createdAt": "2022-12-02T06:56:39.715Z",
+  "description": "Oral-B Compact Gum Care Ultrathin Toothbrush Extra Soft",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/8/6/2868759.jpg",
+  "name": "Compact Gum Care Ultrathin Toothbrush Extra Soft",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 4,
+    "lowPrice": 4,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-02T06:56:39.715Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "4.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/oral-b-compact-gum-care-brush"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/oral-b-compact-gum-care-brush"
+  ],
+  "sku": "2868759",
+  "updatedAt": "2022-12-02T06:56:39.715Z"
+}

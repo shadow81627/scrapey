@@ -1,0 +1,50 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "175g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$2.46 per 100G"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Made in Australia"
+    }
+  ],
+  "brand": "French Fries",
+  "createdAt": "2022-12-02T01:57:17.068Z",
+  "description": "French Fries Original Potato Chips",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/7/1/1/7117775.jpg",
+  "name": "Original Potato Chips",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 4.3,
+    "lowPrice": 4.3,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-02T01:57:17.068Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "4.30",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/french-fries-potato-chips-original-7117775p"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/french-fries-potato-chips-original-7117775p"
+  ],
+  "sku": "7117775",
+  "updatedAt": "2022-12-02T01:57:17.068Z"
+}

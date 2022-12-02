@@ -1,0 +1,66 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1",
+    "ratingValue": "5"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Oh My Veggies"
+  },
+  "createdAt": "2022-12-02T04:55:52.869Z",
+  "datePublished": "2020-04-24T06:00:24+00:00",
+  "description": "A bright, effervescent sparkling lemonade made with Meyer lemons. Just sweet enough to take the edge off the tartness.",
+  "image": [
+    "https://ohmyveggies.com/wp-content/uploads/2012/04/sparkling_meyer_lemonade.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2012/04/sparkling_meyer_lemonade-500x367.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2012/04/sparkling_meyer_lemonade-480x270.jpg"
+  ],
+  "keywords": "sparkling lemonade, Sparkling Meyer Lemonade",
+  "name": "Lightly Sweetened Sparkling Meyer Lemonade",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "70 kcal",
+    "carbohydrateContent": "17 g",
+    "fatContent": "1 g",
+    "fiberContent": "1 g",
+    "proteinContent": "1 g",
+    "saturatedFatContent": "1 g",
+    "servingSize": "1 serving",
+    "sodiumContent": "59 mg",
+    "sugarContent": "15 g",
+    "unsaturatedFatContent": "1 g"
+  },
+  "prepTime": "PT5M",
+  "recipeCategory": "Drinks",
+  "recipeCuisine": "American",
+  "recipeIngredient": [
+    "1/4 cup Meyer lemon juice (about 4-5 lemons)",
+    "3 tbsp agave nectar",
+    "3 1/2 cup sparkling water"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Combine all ingredients in a resealable bottle."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Close bottle and shake until well-combined. Let lemonade sit for a few minutes before opening (and open carefully!)."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add ice cubes, additional agave nectar, and lemon slices when serving if desired."
+    }
+  ],
+  "recipeYield": "3",
+  "sameAs": [
+    "https://ohmyveggies.com/lightly-sweetened-sparkling-meyer-lemonade"
+  ],
+  "suitableForDiet": [
+    "https://schema.org/VegetarianDiet"
+  ],
+  "totalTime": "PT5M",
+  "updatedAt": "2022-12-02T04:55:52.869Z"
+}

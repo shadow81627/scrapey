@@ -1,0 +1,141 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1",
+    "ratingValue": "5"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Yup, it's Vegan"
+  },
+  "cookTime": "PT15M",
+  "createdAt": "2022-12-02T03:46:45.470Z",
+  "datePublished": "2015-12-30T13:53:13+00:00",
+  "description": "This easy BBQ chickpea pizza packs in a ton of flavor with minimal hands-on effort. Baked with savory red onions and topped with ripe avocado and herbs, it's a lovely balance of roasted and fresh.",
+  "image": [
+    "https://yupitsvegan.com/wp-content/uploads/2015/12/bbq-chickpea-pizza-1.jpg"
+  ],
+  "keywords": "bbq chickpea pizza",
+  "mentions": [
+    {
+      "@id": "https://yupitsvegan.com/tag/baking/#id",
+      "@type": "http://schema.org/Thing",
+      "description": "Baking is a method of cooking food that uses prolonged dry heat, normally in an oven, but also in hot ashes, or on hot stones. The most common baked item is bread but many other types of foods are baked. Heat is gradually transferred \"from the surface of cakes, cookies, and breads to their centre....",
+      "name": "baked good",
+      "sameAs": [
+        "http://dbpedia.org/resource/Baking",
+        "http://purl.obolibrary.org/obo/FOODON_03311631",
+        "http://ko.dbpedia.org/resource/베이킹",
+        "http://nl.dbpedia.org/resource/Bakken",
+        "http://www.wikidata.org/entity/Q720398",
+        "http://de.dbpedia.org/resource/Backen",
+        "http://wikidata.dbpedia.org/resource/Q720398",
+        "http://pl.dbpedia.org/resource/Pieczenie",
+        "http://ja.dbpedia.org/resource/焼く_(調理)",
+        "http://es.dbpedia.org/resource/Horneado",
+        "http://rdf.freebase.com/ns/m.0dv34",
+        "https://en.wikipedia.org/wiki/Baking",
+        "https://knowledge.cafemedia.com/food/entity/baked_good"
+      ]
+    },
+    {
+      "@id": "https://yupitsvegan.com/tag/legumes/#id",
+      "@type": "http://schema.org/Thing",
+      "description": "A legume (/ˈlɛɡjuːm/ or /ˌləˈɡjuːm/) is a plant or fruit/seed in the family Fabaceae (or Leguminosae). Legumes are grown agriculturally, primarily for their grain seed called pulse, for livestock forage and silage, and as soil-enhancing green manure. Well-known legumes include alfalfa, clover, peas, beans, lentils, lupin bean, mesquite, carob, soybeans, peanuts, and tamarind. Legumes are...",
+      "name": "legume",
+      "sameAs": [
+        "http://el.dbpedia.org/resource/Όσπρια",
+        "http://cs.dbpedia.org/resource/Luštěnina",
+        "https://en.wikipedia.org/wiki/Legume",
+        "http://rdf.freebase.com/ns/m.01sfdb",
+        "http://wikidata.dbpedia.org/resource/Q145909",
+        "http://pt.dbpedia.org/resource/Legume",
+        "http://www.wikidata.org/entity/Q145909",
+        "http://ja.dbpedia.org/resource/豆果",
+        "http://fr.dbpedia.org/resource/Gousse",
+        "http://eu.dbpedia.org/resource/Lekale",
+        "http://dbpedia.org/resource/Legume",
+        "http://es.dbpedia.org/resource/Legumbre",
+        "http://yago-knowledge.org/resource/Pulse_(legume)",
+        "http://pl.dbpedia.org/resource/Rośliny_strączkowe",
+        "http://purl.obolibrary.org/obo/FOODON_00001264",
+        "http://nl.dbpedia.org/resource/Peul_(vrucht)",
+        "http://de.dbpedia.org/resource/Hülsenfrucht",
+        "http://it.dbpedia.org/resource/Baccello",
+        "http://d-nb.info/gnd/4020803-5",
+        "http://rdf.freebase.com/ns/m.0bqsk",
+        "https://knowledge.cafemedia.com/food/entity/legume"
+      ]
+    }
+  ],
+  "name": "BBQ Chickpea Pizza",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "301 kcal",
+    "carbohydrateContent": "51 g",
+    "fatContent": "6 g",
+    "fiberContent": "10 g",
+    "proteinContent": "12 g",
+    "servingSize": "1 fourth pizza",
+    "sodiumContent": "417 mg",
+    "sugarContent": "8 g",
+    "unsaturatedFatContent": "2 g"
+  },
+  "prepTime": "PT10M",
+  "recipeCategory": "pizza",
+  "recipeCuisine": "BBQ",
+  "recipeIngredient": [
+    "1 half recipe whole wheat pizza dough (prepared up to but not including the baking step (or pizza dough of choice)",
+    "flour (for dusting (I use rice flour for dusting pizzas)",
+    "1/3 cup BBQ sauce of choice",
+    "1 and 1/2 cups cooked chickpeas (equal to one drained can)",
+    "1/4 red onion (thinly sliced)",
+    "garlic almond butter sauce (for serving (optional, recipe below)",
+    "1/2 avocado (chopped, for serving)",
+    "fresh cilantro and/or green onions (chopped, for serving)",
+    "2 tbsp unsweetened almond butter",
+    "1 small clove garlic (grated)",
+    "1 tsp soy sauce",
+    "1/2 tsp sriracha or other chili sauce",
+    "1 tsp rice vinegar",
+    "2 tbsp warm water",
+    "salt and pepper (to taste)"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Preheat the oven to 500 degrees Fahrenheit (if needed, adjust temperature according to the pizza dough you're using). If using, also preheat a large cast iron skillet. Otherwise, prepare a piece of parchment paper to fit a large baking sheet."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Shape your pizza dough into a ball, flouring it lightly."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Generously flour the prepared parchment paper (off of the baking sheet) or a pizza peel, and roll out the ball of dough onto the surface at approximately 1/4 inch thick in the shape of your choosing. Use a fork to lightly puncture the surface of the dough several times throughout the middle (leave space around the edges)."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Spread BBQ sauce on the dough enough to coat the surface, leaving about an inch around the edges for the crust. Scatter the thinly sliced red onion evenly onto the spreaded sauce, and finally, add chickpeas. Press the chickpeas gently onto the dough using your hands or a spatula."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Slide the prepared pizza from the pizza peel onto the preheated skillet, or if using the parchment paper method, simply transfer onto the baking sheet."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Bake for 12-15 minutes, or until the crust is golden brown."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Let the cooked pizza rest for 5 minutes after being removed from the oven, then add the rest of the toppings: drizzle lightly with the garlic almond butter sauce (if using), then sprinkle with chopped fresh avocado and herbs. Serve with additional BBQ sauce if desired."
+    }
+  ],
+  "recipeYield": "1",
+  "sameAs": [
+    "https://yupitsvegan.com/bbq-chickpea-pizza"
+  ],
+  "totalTime": "PT25M",
+  "updatedAt": "2022-12-02T07:48:32.883Z"
+}

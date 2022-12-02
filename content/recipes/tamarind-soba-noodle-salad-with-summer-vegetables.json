@@ -1,0 +1,156 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1",
+    "ratingValue": "5"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Yup, it's Vegan"
+  },
+  "cookTime": "PT15M",
+  "createdAt": "2022-12-02T06:35:03.906Z",
+  "datePublished": "2014-09-08T07:00:05+00:00",
+  "description": "This tamarind soba noodle salad can be eaten warm or chilled, and mixed with whatever vegetables are in season. Vegan recipe with gluten-free optional.",
+  "image": [
+    "https://yupitsvegan.com/wp-content/uploads/2014/09/tamarind_soba_noodle_salad_summer_vegetables_2.jpg"
+  ],
+  "keywords": "Tamarind Soba Noodle Salad",
+  "mentions": [
+    {
+      "@id": "https://yupitsvegan.com/tag/high-vegetable/#id",
+      "@type": "http://schema.org/Thing",
+      "description": "In everyday usage, a vegetable is any part of a plant that is consumed by humans as food as part of a savory meal. The term vegetable is somewhat arbitrary, and largely defined through culinary and cultural tradition. It normally excludes other food derived from plants such as fruits, nuts and cereal grains, but includes...",
+      "name": "vegetable",
+      "sameAs": [
+        "http://ko.dbpedia.org/resource/채소",
+        "http://wikidata.dbpedia.org/resource/Q11004",
+        "http://eu.dbpedia.org/resource/Barazki",
+        "http://purl.obolibrary.org/obo/FOODON_00002141",
+        "http://pl.dbpedia.org/resource/Warzywa",
+        "http://fr.dbpedia.org/resource/Légume",
+        "https://en.wikipedia.org/wiki/Vegetable",
+        "http://de.dbpedia.org/resource/Gemüse",
+        "http://el.dbpedia.org/resource/Λαχανικό",
+        "http://rdf.freebase.com/ns/m.0f4s2w",
+        "http://nl.dbpedia.org/resource/Groente",
+        "http://cs.dbpedia.org/resource/Zelenina",
+        "http://es.dbpedia.org/resource/Verdura",
+        "http://www.wikidata.org/entity/Q11004",
+        "http://dbpedia.org/resource/Vegetable",
+        "http://d-nb.info/gnd/4020069-3",
+        "http://it.dbpedia.org/resource/Verdura",
+        "http://ja.dbpedia.org/resource/野菜",
+        "http://id.dbpedia.org/resource/Sayuran",
+        "https://knowledge.cafemedia.com/food/entity/fruit_vegetable"
+      ]
+    },
+    {
+      "@id": "https://yupitsvegan.com/tag/legumes/#id",
+      "@type": "http://schema.org/Thing",
+      "description": "A legume (/ˈlɛɡjuːm/ or /ˌləˈɡjuːm/) is a plant or fruit/seed in the family Fabaceae (or Leguminosae). Legumes are grown agriculturally, primarily for their grain seed called pulse, for livestock forage and silage, and as soil-enhancing green manure. Well-known legumes include alfalfa, clover, peas, beans, lentils, lupin bean, mesquite, carob, soybeans, peanuts, and tamarind. Legumes are...",
+      "name": "legume",
+      "sameAs": [
+        "http://el.dbpedia.org/resource/Όσπρια",
+        "http://cs.dbpedia.org/resource/Luštěnina",
+        "https://en.wikipedia.org/wiki/Legume",
+        "http://rdf.freebase.com/ns/m.01sfdb",
+        "http://wikidata.dbpedia.org/resource/Q145909",
+        "http://pt.dbpedia.org/resource/Legume",
+        "http://www.wikidata.org/entity/Q145909",
+        "http://ja.dbpedia.org/resource/豆果",
+        "http://fr.dbpedia.org/resource/Gousse",
+        "http://eu.dbpedia.org/resource/Lekale",
+        "http://dbpedia.org/resource/Legume",
+        "http://es.dbpedia.org/resource/Legumbre",
+        "http://yago-knowledge.org/resource/Pulse_(legume)",
+        "http://pl.dbpedia.org/resource/Rośliny_strączkowe",
+        "http://purl.obolibrary.org/obo/FOODON_00001264",
+        "http://nl.dbpedia.org/resource/Peul_(vrucht)",
+        "http://de.dbpedia.org/resource/Hülsenfrucht",
+        "http://it.dbpedia.org/resource/Baccello",
+        "http://d-nb.info/gnd/4020803-5",
+        "http://rdf.freebase.com/ns/m.0bqsk",
+        "https://knowledge.cafemedia.com/food/entity/legume"
+      ]
+    },
+    {
+      "@id": "https://yupitsvegan.com/category/salad/#id",
+      "@type": "http://schema.org/Thing",
+      "description": "A salad is a dish consisting of small pieces of food, which may be mixed with a sauce or salad dressing. They are typically served cold. Salads can incorporate a variety of foods including vegetables, fruits, cheese, cooked meat, eggs, grains and nuts. Most salads are served cold, although some, such as south German potato...",
+      "name": "salad dressing",
+      "sameAs": [
+        "http://eu.dbpedia.org/resource/Entsalada",
+        "http://www.wikidata.org/entity/Q9266",
+        "http://ja.dbpedia.org/resource/サラダ",
+        "https://en.wikipedia.org/wiki/Salad",
+        "http://de.dbpedia.org/resource/Salat_(Gericht)",
+        "http://el.dbpedia.org/resource/Σαλάτα",
+        "http://es.dbpedia.org/resource/Ensalada",
+        "http://nl.dbpedia.org/resource/Salade",
+        "http://pt.dbpedia.org/resource/Salada",
+        "http://cs.dbpedia.org/resource/Salát_(pokrm)",
+        "http://ko.dbpedia.org/resource/샐러드",
+        "http://rdf.freebase.com/ns/m.0grw1",
+        "http://d-nb.info/gnd/4051351-8",
+        "http://pl.dbpedia.org/resource/Sałatka",
+        "http://fr.dbpedia.org/resource/Salade_(mets)",
+        "http://wikidata.dbpedia.org/resource/Q9266",
+        "http://yago-knowledge.org/resource/Garden_salad",
+        "http://id.dbpedia.org/resource/Selada_(hidangan)",
+        "http://purl.obolibrary.org/obo/FOODON_00001290",
+        "http://dbpedia.org/resource/Salad",
+        "http://it.dbpedia.org/resource/Insalata",
+        "https://knowledge.cafemedia.com/food/entity/salad_dressing"
+      ]
+    }
+  ],
+  "name": "Tamarind Soba Noodle Salad with Summer Vegetables",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "392 kcal",
+    "carbohydrateContent": "70 g",
+    "fatContent": "6 g",
+    "fiberContent": "7 g",
+    "proteinContent": "11 g",
+    "saturatedFatContent": "1 g",
+    "servingSize": "1 fourth recipe",
+    "sodiumContent": "147 mg",
+    "sugarContent": "10 g",
+    "unsaturatedFatContent": "5 g"
+  },
+  "prepTime": "PT15M",
+  "recipeCategory": "Main Course",
+  "recipeCuisine": "gluten-free",
+  "recipeIngredient": [
+    "1 tbsp tamarind paste",
+    "2 tbsp natural peanut butter",
+    "1 and 1/2 tbsp coconut sugar (or brown sugar)",
+    "2 cloves garlic (minced)",
+    "1 red chili (seeded and finely chopped (spicy - use less to taste)",
+    "1 tsp soy sauce (or tamari for gluten-free)",
+    "squeeze of fresh lime juice (optional)",
+    "1/4 cup warm water",
+    "10 oz. dry soba noodles",
+    "1 tsp sesame oil (or neutral oil of choice, such as refined coconut oil)",
+    "1 red bell pepper (cut into strips)",
+    "2 carrots (peeled and cut into matchsticks)",
+    "tamarind sauce (see above)",
+    "3 green onions (sliced)",
+    "1 head kohlrabi (peeled and cut into matchsticks)",
+    "sesame seeds and cilantro (for garnish)"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Cook the soba noodles according to package instructions, completing the other recipe steps in the meantime. Rinse and drain the noodles once done cooking. Gently toss them with a bit of sesame or other oil to keep them from sticking."
+    }
+  ],
+  "recipeYield": "4",
+  "sameAs": [
+    "https://yupitsvegan.com/tamarind-soba-noodle-salad"
+  ],
+  "totalTime": "PT30M",
+  "updatedAt": "2022-12-02T06:35:03.904Z"
+}

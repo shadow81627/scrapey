@@ -1,0 +1,191 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "3",
+    "ratingValue": "5"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Sam Turnbull • It Doesn't Taste Like Chicken"
+  },
+  "cookTime": "PT10M",
+  "createdAt": "2022-12-02T01:52:13.483Z",
+  "datePublished": "2017-02-05T10:24:07+00:00",
+  "description": "This Valentine's Day gift recipe is so incredibly easy, just melt dairy-free chocolate chips, pour into a mold or onto parchment paper, then top with your favourite dried fruit and nuts.&nbsp;",
+  "image": [
+    "https://itdoesnttastelikechicken.com/wp-content/uploads/2017/02/Easy-Fruit-Nut-Vegan-Chocolates-recipe-homemade-bark-dairy-free-valentines-day.jpg",
+    "https://itdoesnttastelikechicken.com/wp-content/uploads/2017/02/Easy-Fruit-Nut-Vegan-Chocolates-recipe-homemade-bark-dairy-free-valentines-day-500x500.jpg",
+    "https://itdoesnttastelikechicken.com/wp-content/uploads/2017/02/Easy-Fruit-Nut-Vegan-Chocolates-recipe-homemade-bark-dairy-free-valentines-day-500x375.jpg",
+    "https://itdoesnttastelikechicken.com/wp-content/uploads/2017/02/Easy-Fruit-Nut-Vegan-Chocolates-recipe-homemade-bark-dairy-free-valentines-day-480x270.jpg"
+  ],
+  "mentions": [
+    {
+      "@id": "https://itdoesnttastelikechicken.com/tag/berries/#id",
+      "@type": "http://schema.org/Thing",
+      "description": "In everyday language, a berry is a small, pulpy and often edible fruit. Berries are usually juicy, rounded, brightly colored, sweet or sour, and do not have a stone or pit, although many pips or seeds may be present. Common examples are strawberries, raspberries, blueberries; and red- and blackcurrants. In Britain, soft fruit is a...",
+      "name": "berry",
+      "sameAs": [
+        "http://ja.dbpedia.org/resource/ベリー",
+        "http://rdf.freebase.com/ns/m.0dxb5",
+        "http://purl.obolibrary.org/obo/FOODON_03302118",
+        "http://dbpedia.org/resource/Berry",
+        "http://wikidata.dbpedia.org/resource/Q16128920",
+        "https://en.wikipedia.org/wiki/Berry",
+        "http://www.wikidata.org/entity/Q16128920",
+        "https://knowledge.cafemedia.com/food/entity/berry"
+      ]
+    },
+    {
+      "@id": "https://itdoesnttastelikechicken.com/tag/chocolate/#id",
+      "@type": "http://schema.org/Thing",
+      "description": "Chocolate /ˈtʃɒkᵊlᵻt/ is a typically sweet, usually brown, food preparation of Theobroma cacao seeds, roasted and ground, often flavored, as with vanilla. It is made in the form of a liquid, paste, or in a block, or used as a flavoring ingredient in other foods. Cacao has been cultivated by many cultures for at least...",
+      "name": "chocolate",
+      "sameAs": [
+        "http://purl.obolibrary.org/obo/FOODON_03307240",
+        "http://wikidata.dbpedia.org/resource/Q195",
+        "http://ja.dbpedia.org/resource/チョコレート",
+        "https://en.wikipedia.org/wiki/Chocolate",
+        "http://de.dbpedia.org/resource/Schokolade",
+        "http://pt.dbpedia.org/resource/Chocolate",
+        "http://id.dbpedia.org/resource/Cokelat",
+        "http://fr.dbpedia.org/resource/Chocolat",
+        "http://it.dbpedia.org/resource/Cioccolato",
+        "http://cs.dbpedia.org/resource/Čokoláda",
+        "http://pl.dbpedia.org/resource/Czekolada",
+        "http://el.dbpedia.org/resource/Σοκολάτα",
+        "http://es.dbpedia.org/resource/Chocolate",
+        "http://rdf.freebase.com/ns/m.020vl",
+        "http://dbpedia.org/resource/Chocolate",
+        "http://d-nb.info/gnd/4053168-5",
+        "http://ko.dbpedia.org/resource/초콜릿",
+        "http://www.wikidata.org/entity/Q195",
+        "http://nl.dbpedia.org/resource/Chocolade",
+        "http://eu.dbpedia.org/resource/Txokolate",
+        "https://knowledge.cafemedia.com/food/entity/chocolate"
+      ]
+    },
+    {
+      "@id": "https://itdoesnttastelikechicken.com/tag/fruit/#id",
+      "@type": "http://schema.org/Thing",
+      "description": "In botany, a fruit is the seed-bearing structure in flowering plants (also known as angiosperms) formed from the ovary after flowering. Fruits are the means by which angiosperms disseminate seeds. Edible fruits, in particular, have propagated with the movements of humans and animals in a symbiotic relationship as a means for seed dispersal and nutrition;...",
+      "name": "fruit",
+      "sameAs": [
+        "http://rdf.freebase.com/ns/m.02xwb",
+        "http://pt.dbpedia.org/resource/Fruto",
+        "http://cs.dbpedia.org/resource/Plod_(botanika)",
+        "https://en.wikipedia.org/wiki/Fruit",
+        "http://dbpedia.org/resource/Fruit",
+        "http://es.dbpedia.org/resource/Fruto",
+        "http://de.dbpedia.org/resource/Frucht",
+        "http://fr.dbpedia.org/resource/Fruit_(botanique)",
+        "http://nl.dbpedia.org/resource/Vrucht_(plant)",
+        "http://d-nb.info/gnd/4130857-8",
+        "http://ja.dbpedia.org/resource/果実",
+        "http://eu.dbpedia.org/resource/Fruitu",
+        "http://wikidata.dbpedia.org/resource/Q1364",
+        "http://id.dbpedia.org/resource/Buah",
+        "http://purl.obolibrary.org/obo/FOODON_03301141",
+        "http://rdf.freebase.com/ns/m.0fp_scn",
+        "http://pl.dbpedia.org/resource/Owoc",
+        "http://el.dbpedia.org/resource/Καρπός",
+        "http://www.wikidata.org/entity/Q1364",
+        "http://it.dbpedia.org/resource/Frutto",
+        "http://ko.dbpedia.org/resource/열매",
+        "https://knowledge.cafemedia.com/food/entity/fruit"
+      ]
+    },
+    {
+      "@id": "https://itdoesnttastelikechicken.com/tag/fruit-nut/#id",
+      "@type": "http://schema.org/Thing",
+      "description": "In botany, a fruit is the seed-bearing structure in flowering plants (also known as angiosperms) formed from the ovary after flowering. Fruits are the means by which angiosperms disseminate seeds. Edible fruits, in particular, have propagated with the movements of humans and animals in a symbiotic relationship as a means for seed dispersal and nutrition;...",
+      "name": "fruit",
+      "sameAs": [
+        "http://rdf.freebase.com/ns/m.02xwb",
+        "http://pt.dbpedia.org/resource/Fruto",
+        "http://cs.dbpedia.org/resource/Plod_(botanika)",
+        "https://en.wikipedia.org/wiki/Fruit",
+        "http://dbpedia.org/resource/Fruit",
+        "http://es.dbpedia.org/resource/Fruto",
+        "http://de.dbpedia.org/resource/Frucht",
+        "http://fr.dbpedia.org/resource/Fruit_(botanique)",
+        "http://nl.dbpedia.org/resource/Vrucht_(plant)",
+        "http://d-nb.info/gnd/4130857-8",
+        "http://ja.dbpedia.org/resource/果実",
+        "http://eu.dbpedia.org/resource/Fruitu",
+        "http://wikidata.dbpedia.org/resource/Q1364",
+        "http://id.dbpedia.org/resource/Buah",
+        "http://purl.obolibrary.org/obo/FOODON_03301141",
+        "http://rdf.freebase.com/ns/m.0fp_scn",
+        "http://pl.dbpedia.org/resource/Owoc",
+        "http://el.dbpedia.org/resource/Καρπός",
+        "http://www.wikidata.org/entity/Q1364",
+        "http://it.dbpedia.org/resource/Frutto",
+        "http://ko.dbpedia.org/resource/열매",
+        "https://knowledge.cafemedia.com/food/entity/fruit"
+      ]
+    },
+    {
+      "@id": "https://itdoesnttastelikechicken.com/tag/strawberry/#id",
+      "@type": "http://schema.org/Thing",
+      "description": "The garden strawberry (or simply strawberry; Fragaria × ananassa) is a widely grown hybrid species of the genus Fragaria (collectively known as the strawberries). It is cultivated worldwide for its fruit. The fruit (which is not a botanical berry, but an aggregate accessory fruit) is widely appreciated for its characteristic aroma, bright red color, juicy...",
+      "name": "strawberry",
+      "sameAs": [
+        "http://yago-knowledge.org/resource/Strawberries",
+        "http://wikidata.dbpedia.org/resource/Q13158",
+        "http://www.wikidata.org/entity/Q14458220",
+        "https://en.wikipedia.org/wiki/Strawberry",
+        "http://es.dbpedia.org/resource/Fragaria_×_ananassa",
+        "http://de.dbpedia.org/resource/Gartenerdbeere",
+        "http://it.dbpedia.org/resource/Fragola-ananas",
+        "http://pl.dbpedia.org/resource/Truskawka",
+        "http://cs.dbpedia.org/resource/Jahodník_velkoplodý",
+        "http://dbpedia.org/resource/Strawberry",
+        "http://el.dbpedia.org/resource/Φράουλα",
+        "http://yago-knowledge.org/resource/Fragaria_×_ananassa",
+        "http://www.wikidata.org/entity/Q13158",
+        "http://rdf.freebase.com/ns/m.07fbm7",
+        "http://ja.dbpedia.org/resource/イチゴ",
+        "http://ko.dbpedia.org/resource/딸기",
+        "http://purl.obolibrary.org/obo/FOODON_03304356",
+        "http://eu.dbpedia.org/resource/Baratze-marrubi",
+        "http://id.dbpedia.org/resource/Stroberi_kebun",
+        "http://fr.dbpedia.org/resource/Fragaria_×ananassa",
+        "https://knowledge.cafemedia.com/food/entity/strawberry"
+      ]
+    }
+  ],
+  "name": "Easy Fruit & Nut Vegan Chocolates",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "75 kcal",
+    "servingSize": "1 serving"
+  },
+  "prepTime": "PT60M",
+  "recipeCategory": "Dessert",
+  "recipeCuisine": "American",
+  "recipeIngredient": [
+    "2 Cups Vegan Chocolate Chips",
+    "Assorted dried nuts and fruits,"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Melt the chocolate chips in a double boiler. Alternatively, you could melt the chocolate in a microwave. Just be sure to do it in small bursts so the chocolate doesn’t burn."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Once melted, pour the chocolate into the candy molds, then lightly press your toppings on top of the melted chocolate. For chocolate bark, line a baking sheet with parchment paper, then pour the chocolate onto that. Spread it with a spatula so that it is about 1/4 inch thick. Lightly press your toppings of choice onto the melted chocolate."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Pop your chocolates in the fridge to set for 30 minutes to an hour. Once set, pop them out of the molds, or for the chocolate bark, just peel off the parchment paper and break into pieces. Store in an airtight container in the cupboard for up to a month (probably longer)."
+    }
+  ],
+  "recipeYield": "4",
+  "sameAs": [
+    "https://itdoesnttastelikechicken.com/2017/02/05/easy-fruit-nut-vegan-chocolates"
+  ],
+  "totalTime": "PT70M",
+  "updatedAt": "2022-12-02T01:52:13.483Z"
+}

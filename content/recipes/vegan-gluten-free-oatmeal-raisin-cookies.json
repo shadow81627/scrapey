@@ -1,0 +1,90 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "3",
+    "ratingValue": "5"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Sophia DeSantis"
+  },
+  "cookTime": "PT20M",
+  "createdAt": "2022-12-02T06:28:29.174Z",
+  "datePublished": "2020-08-01T12:30:00+00:00",
+  "description": "These vegan oatmeal raisin cookies are made with whole food ingredients, are gluten-free and taste like decadence. They will win over any cookie lover!",
+  "image": [
+    "https://www.veggiesdontbite.com/wp-content/uploads/2020/07/vegan-gluten-free-oatmeal-raisin-cookies-54.jpg",
+    "https://www.veggiesdontbite.com/wp-content/uploads/2020/07/vegan-gluten-free-oatmeal-raisin-cookies-54-500x500.jpg",
+    "https://www.veggiesdontbite.com/wp-content/uploads/2020/07/vegan-gluten-free-oatmeal-raisin-cookies-54-500x375.jpg",
+    "https://www.veggiesdontbite.com/wp-content/uploads/2020/07/vegan-gluten-free-oatmeal-raisin-cookies-54-480x270.jpg"
+  ],
+  "keywords": "cookies with oats, healthy vegan cookies",
+  "name": "Vegan Gluten-Free Oatmeal Raisin Cookies",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "171 kcal",
+    "carbohydrateContent": "27 g",
+    "fatContent": "7 g",
+    "fiberContent": "2 g",
+    "proteinContent": "3 g",
+    "saturatedFatContent": "1 g",
+    "servingSize": "1 serving",
+    "sodiumContent": "60 mg",
+    "sugarContent": "14 g"
+  },
+  "prepTime": "PT5M",
+  "recipeCategory": "Dessert",
+  "recipeCuisine": "American",
+  "recipeIngredient": [
+    "3/4 cups rolled oats (, gluten-free if needed (1 cup for softer cookie version, see notes)",
+    "3/4 cup fine grain almond flour (1 cup for softer cookie version, see notes)",
+    "1/2 cup coconut sugar (leave out for softer cookie version, see notes)",
+    "1 teaspoon cinnamon",
+    "1/2 teaspoon baking powder",
+    "1/4 teaspoon sea salt",
+    "1/2 cup maple syrup",
+    "1/4 cup apple sauce (1/2 cup for softer cookie version, see notes)",
+    "1/4 cup almond butter",
+    "1 teaspoon molasses",
+    "1/2 cup raisins",
+    "1/2 cup chopped pecans (, optional)"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Preheat oven to 350F/180C"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Mix oats, almond flour, sugar, cinnamon, baking powder and salt in a large bowl."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add the maple syrup, apple sauce, almond butter, and molasses and mix well."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add the raisins and pecans if using. Mix until combined."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Drop spoonfuls onto a parchment lined cookie sheet. Press down to slightly flatten the cookie if you want."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Bake for 20-23 minutes or until golden brown and crisp at the edges. Cookies will harden a bit more as they cool."
+    }
+  ],
+  "recipeYield": "12",
+  "sameAs": [
+    "https://veggiesdontbite.com/oatmeal-raisin-pecan-cookies"
+  ],
+  "suitableForDiet": [
+    "https://schema.org/GlutenFreeDiet",
+    "https://schema.org/VeganDiet",
+    "https://schema.org/VegetarianDiet"
+  ],
+  "totalTime": "PT25M",
+  "updatedAt": "2022-12-02T06:28:29.173Z"
+}

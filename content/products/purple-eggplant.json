@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "approx. 500g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$8.90 per 1Kg"
+    }
+  ],
+  "brand": "Fresh",
+  "createdAt": "2022-12-02T01:44:29.792Z",
+  "description": "Cooked Eggplant has a soft, creamy texture and mild taste. Its a delicious addition to pasta sauces, or curries.",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/4/5/8/4583206.jpg",
+  "name": "Purple Eggplant",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 4.45,
+    "lowPrice": 4.45,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-02T01:44:29.791Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "4.45",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/eggplant-purple-loose"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/eggplant-purple-loose"
+  ],
+  "sku": "4583206",
+  "updatedAt": "2022-12-02T01:44:29.791Z"
+}

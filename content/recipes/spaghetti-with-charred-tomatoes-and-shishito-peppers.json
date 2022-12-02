@@ -1,0 +1,82 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "2",
+    "ratingValue": "5"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Sophia DeSantis"
+  },
+  "cookTime": "PT45M",
+  "createdAt": "2022-12-02T06:47:10.067Z",
+  "datePublished": "2016-08-11T12:00:02+00:00",
+  "description": "Amazing food doesn't need to be complicated. Simple fresh ingredients come together for a delicious punch of flavor in this spaghetti with charred tomatoes!",
+  "image": [
+    "https://www.veggiesdontbite.com/wp-content/uploads/2016/08/vegan-spaghetti-charred-tomatoes-shishito-peppers-86-2.jpg",
+    "https://www.veggiesdontbite.com/wp-content/uploads/2016/08/vegan-spaghetti-charred-tomatoes-shishito-peppers-86-2-500x500.jpg",
+    "https://www.veggiesdontbite.com/wp-content/uploads/2016/08/vegan-spaghetti-charred-tomatoes-shishito-peppers-86-2-500x375.jpg",
+    "https://www.veggiesdontbite.com/wp-content/uploads/2016/08/vegan-spaghetti-charred-tomatoes-shishito-peppers-86-2-480x270.jpg"
+  ],
+  "keywords": "spaghetti with tomatoes, vegan pasta",
+  "name": "Spaghetti with Charred Tomatoes and Shishito Peppers",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "508 kcal",
+    "carbohydrateContent": "104 g",
+    "fatContent": "2 g",
+    "fiberContent": "7 g",
+    "proteinContent": "19 g",
+    "servingSize": "1 serving",
+    "sodiumContent": "629 mg",
+    "sugarContent": "13 g"
+  },
+  "prepTime": "PT10M",
+  "recipeCategory": "Main Course",
+  "recipeCuisine": "Italian",
+  "recipeIngredient": [
+    "8 cups cherry or grape tomatoes",
+    "3 cups shishito peppers",
+    "10 cloves fresh garlic",
+    "1 loosely packed cup basil",
+    "1 teaspoon Himalayan pink salt",
+    "dash of ground black pepper",
+    "drizzle of veggie broth or your favorite roasting oil if you use oil (, low sodium if needed)",
+    "16 ounces spaghetti (I use NOW Foods gluten free spaghetti)",
+    "Hemp Almond Parmesan (optional for topping)"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Preheat oven to 375°F (190°C). Wash tomatoes, peppers and basil."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Place in a large bowl with garlic and add salt, pepper and broth or oil. Mix well to coat."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Place on a parchment lined cookie sheet and bake for about 45 minutes or until they begin to char. Start checking at 35 minutes as oven temps can vary."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "While the veggies are roasting, cook spaghetti according to package directions. Make Hemp Almond Parmesan if using."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "When veggies are done, mix in with spaghetti and top with Hemp Almond Parmesan. Devour."
+    }
+  ],
+  "recipeYield": "4",
+  "sameAs": [
+    "https://veggiesdontbite.com/spaghetti-charred-tomatoes-shishito-peppers"
+  ],
+  "suitableForDiet": [
+    "https://schema.org/GlutenFreeDiet",
+    "https://schema.org/VeganDiet",
+    "https://schema.org/VegetarianDiet"
+  ],
+  "totalTime": "PT55M",
+  "updatedAt": "2022-12-02T06:47:10.066Z"
+}

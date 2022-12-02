@@ -1,0 +1,122 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "60",
+    "ratingValue": "4.92"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Sam Turnbull • It Doesn't Taste Like Chicken"
+  },
+  "cookTime": "PT15M",
+  "createdAt": "2022-12-02T03:49:44.340Z",
+  "datePublished": "2017-12-27T09:00:16+00:00",
+  "description": "This easy vegan pasta takes just 15 minutes to make! Vegetarian ragu recipe is hearty, rich, slightly smoky, and makes for the perfect weeknight meal.&nbsp;",
+  "image": [
+    "https://itdoesnttastelikechicken.com/wp-content/uploads/2017/12/the-best-ever-lentil-ragu-vegan-pasta.jpg",
+    "https://itdoesnttastelikechicken.com/wp-content/uploads/2017/12/the-best-ever-lentil-ragu-vegan-pasta-500x500.jpg",
+    "https://itdoesnttastelikechicken.com/wp-content/uploads/2017/12/the-best-ever-lentil-ragu-vegan-pasta-500x375.jpg",
+    "https://itdoesnttastelikechicken.com/wp-content/uploads/2017/12/the-best-ever-lentil-ragu-vegan-pasta-480x270.jpg"
+  ],
+  "mentions": [
+    {
+      "@id": "https://itdoesnttastelikechicken.com/tag/beans/#id",
+      "@type": "http://schema.org/Thing",
+      "description": "Bean is a common name for large seeds of several genera of the flowering plant family Fabaceae (also known as Leguminosae) which are used for human or animal food.",
+      "name": "bean",
+      "sameAs": [
+        "http://rdf.freebase.com/ns/m.01fp9",
+        "http://el.dbpedia.org/resource/Φασόλι",
+        "http://dbpedia.org/resource/Bean",
+        "http://ko.dbpedia.org/resource/콩",
+        "http://fr.dbpedia.org/resource/Haricot_(homonymie)",
+        "https://en.wikipedia.org/wiki/Bean",
+        "http://de.dbpedia.org/resource/Bohne",
+        "http://ja.dbpedia.org/resource/豆",
+        "http://purl.obolibrary.org/obo/FOODON_00002753",
+        "http://wikidata.dbpedia.org/resource/Q379813",
+        "http://www.wikidata.org/entity/Q379813",
+        "http://nl.dbpedia.org/resource/Boon",
+        "http://id.dbpedia.org/resource/Kacang-kacangan",
+        "https://knowledge.cafemedia.com/food/entity/bean"
+      ]
+    },
+    {
+      "@id": "https://itdoesnttastelikechicken.com/tag/pasta/#id",
+      "@type": "http://schema.org/Thing",
+      "description": "Pasta (Italian pronunciation: ) is a staple food of traditional Italian cuisine, with the first reference dating to 1154 in Sicily. It is also commonly used to refer to the variety of pasta dishes. Typically, pasta is a noodle made from an unleavened dough of a durum wheat flour mixed with water or eggs and...",
+      "name": "pasta",
+      "sameAs": [
+        "http://el.dbpedia.org/resource/Ζυμαρικό",
+        "http://rdf.freebase.com/ns/m.05z55",
+        "http://ko.dbpedia.org/resource/파스타",
+        "http://pt.dbpedia.org/resource/Massa_alimentícia",
+        "http://it.dbpedia.org/resource/Pasta",
+        "http://es.dbpedia.org/resource/Pasta",
+        "http://pl.dbpedia.org/resource/Makaron",
+        "https://en.wikipedia.org/wiki/Pasta",
+        "http://nl.dbpedia.org/resource/Pasta_(deegwaar)",
+        "http://wikidata.dbpedia.org/resource/Q178",
+        "http://fr.dbpedia.org/resource/Pâtes_alimentaires",
+        "http://www.wikidata.org/entity/Q178",
+        "http://de.dbpedia.org/resource/Pasta",
+        "http://ja.dbpedia.org/resource/パスタ",
+        "http://purl.obolibrary.org/obo/FOODON_03306347",
+        "http://cs.dbpedia.org/resource/Těstoviny",
+        "http://id.dbpedia.org/resource/Pasta",
+        "http://eu.dbpedia.org/resource/Pasta_(orea)",
+        "http://dbpedia.org/resource/Pasta",
+        "https://knowledge.cafemedia.com/food/entity/pasta"
+      ]
+    }
+  ],
+  "name": "The Best Ever Lentil Ragu!",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "651 kcal",
+    "carbohydrateContent": "108 g",
+    "fatContent": "11 g",
+    "fiberContent": "18 g",
+    "proteinContent": "28 g",
+    "saturatedFatContent": "1 g",
+    "servingSize": "1 serving",
+    "sodiumContent": "539 mg",
+    "sugarContent": "6 g"
+  },
+  "recipeCategory": "Main Course",
+  "recipeCuisine": "Italian",
+  "recipeIngredient": [
+    "1 650ml jar tomato sauce (or 3 cups homemade tomato sauce)",
+    "1 1/2 cups vegetable broth",
+    "1 cup red lentils",
+    "1/2 cup chopped walnuts",
+    "1/4 cup nutritional yeast",
+    "2 teaspoons soy sauce (gluten-free if preferred)",
+    "2 teaspoons brown sugar",
+    "1 teaspoon chili powder",
+    "1/4 teaspoon liquid smoke",
+    "400 g spaghetti or pasta of choice (gluten-free if preferred)",
+    "Parmegan (optional)"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Bring a large pot of water to a boil and cook the pasta according to package directions."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add the tomato sauce, vegetable broth, and lentils to a large skillet or saucepan. Cover and bring to a simmer stirring gently every now and then. Simmer covered for about 10 minutes until the lentils are tender."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Finish the sauce by stirring in the walnuts and all of the seasonings. You can either toss the hot pasta with the sauce, or spoon the sauce over top of the pasta. Garnish with Parmegan if desired."
+    }
+  ],
+  "recipeYield": "4",
+  "sameAs": [
+    "https://itdoesnttastelikechicken.com/the-best-ever-lentil-ragu"
+  ],
+  "totalTime": "PT15M",
+  "updatedAt": "2022-12-02T03:49:44.337Z"
+}

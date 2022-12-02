@@ -1,0 +1,76 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "2",
+    "ratingValue": "4.5"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Linda & Alex"
+  },
+  "cookTime": "PT10M",
+  "createdAt": "2022-12-02T05:58:37.048Z",
+  "datePublished": "2017-05-17T12:32:40+00:00",
+  "description": "An easy and flavorful burger made from classic hummus.",
+  "image": [
+    "https://cdn.veganosity.com/wp-content/uploads/2017/05/Meditteranean-Hummus-Burgers-3.jpg"
+  ],
+  "keywords": "burger, hummus, Mediterranean",
+  "name": "Mediterranean Hummus Burger",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "478 kcal",
+    "carbohydrateContent": "65 g",
+    "fatContent": "16 g",
+    "fiberContent": "10 g",
+    "proteinContent": "17 g",
+    "saturatedFatContent": "2 g",
+    "servingSize": "1 serving",
+    "sodiumContent": "874 mg",
+    "sugarContent": "8 g"
+  },
+  "prepTime": "PT10M",
+  "recipeCategory": "Main Course",
+  "recipeCuisine": "American",
+  "recipeIngredient": [
+    "15 ounce garbanzo beans",
+    "2 garlic cloves (chopped)",
+    "Juice from 1 small lemon",
+    "1/3 cup oat flour",
+    "1/3 cup bread crumbs",
+    "2 tablespoon tahini",
+    "3 tablespoon reserved bean juice",
+    "1 teaspoon ground sea salt",
+    "2 tablespoon extra-virgin olive oil",
+    "4 hamburger buns",
+    "Chopped kalamata olives",
+    "Mashed avocado",
+    "Spinach",
+    "tomatoes"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Drain (reserve the liquid, it’s your egg replacer) and rinse the garbanzo beans and place in a food processor. Add the garlic, lemon juice, oat flour, bread crumbs, tahini, bean juice, and salt and process for approximately 30 seconds or until you get a thick and sticky mixture. Divide into 2 and form the mixture into large patties."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Refrigerate for an hour to allow them to set."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Heat the olive oil in a medium iron skillet on medium-high heat. When the oil is hot add the burgers and cover. Sear for approximately 4 to 5 minutes per side, or until they’re golden brown and heated through to the center."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Double the recipe to make four large burgers."
+    }
+  ],
+  "recipeYield": "4",
+  "sameAs": [
+    "https://veganosity.com/mediterranean-hummus-burgers"
+  ],
+  "totalTime": "PT20M",
+  "updatedAt": "2022-12-02T05:58:37.046Z"
+}

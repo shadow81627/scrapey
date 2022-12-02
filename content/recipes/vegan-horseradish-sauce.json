@@ -1,0 +1,67 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1",
+    "ratingValue": "5"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Oh My Veggies"
+  },
+  "createdAt": "2022-12-02T05:54:51.110Z",
+  "datePublished": "2021-10-29T11:39:32+00:00",
+  "image": [
+    "https://ohmyveggies.com/wp-content/uploads/2022/02/Vegan-horseradish-sauce-recipe.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2022/02/Vegan-horseradish-sauce-recipe-500x500.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2022/02/Vegan-horseradish-sauce-recipe-500x375.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2022/02/Vegan-horseradish-sauce-recipe-480x270.jpg"
+  ],
+  "keywords": "earth of maria, Horseradish, to move",
+  "name": "Vegan Horseradish Sauce",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "190 kcal",
+    "carbohydrateContent": "4 g",
+    "fatContent": "18 g",
+    "fiberContent": "1 g",
+    "proteinContent": "1 g",
+    "saturatedFatContent": "2 g",
+    "servingSize": "1 serving",
+    "sodiumContent": "379 mg",
+    "sugarContent": "1 g",
+    "unsaturatedFatContent": "2 g"
+  },
+  "prepTime": "PT10M",
+  "recipeCategory": "Sauce",
+  "recipeCuisine": "Vegan",
+  "recipeIngredient": [
+    "1/4 cup horseradish (grated (see recipe notes)",
+    "1 tsp maple syrup",
+    "2 tbsp lemon juice",
+    "2 tbsp mustard",
+    "1 cup vegan mayonnaise",
+    "1/2 tsp salt (or to taste)",
+    "1/2 tsp black pepper (or to taste)"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Add the grated horseradish, maple syrup, lemon juice, mustard, vegan mayonnaise, salt and black pepper to a mixing bowl. Mix together well, and adjust the ingredients to your personal preference. For instance, for a stronger flavor, add more grated horseradish. Add extra lemon juice for more tanginess, and maple syrup for a more mellow flavor."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Whip it for a few seconds using a handheld mixer. This will help you achieve a fluffier texture. Then, serve immediately or transfer to a jar to store."
+    }
+  ],
+  "recipeYield": "8",
+  "sameAs": [
+    "https://ohmyveggies.com/vegan-horseradish-sauce"
+  ],
+  "suitableForDiet": [
+    "https://schema.org/VeganDiet",
+    "https://schema.org/VegetarianDiet"
+  ],
+  "totalTime": "PT10M",
+  "updatedAt": "2022-12-02T05:54:51.110Z"
+}

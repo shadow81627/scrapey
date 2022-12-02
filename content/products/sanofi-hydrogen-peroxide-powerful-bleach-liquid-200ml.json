@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Sanofi"
+  },
+  "createdAt": "2022-12-02T00:28:27.180Z",
+  "description": "<p> Multi Purpose liquid Can be used as an antiseptic for minor cuts and abrasions Cleanse minor skin wounds and scratches<BR><BR>Sanofi Hydrogen Peroxide solution 3 BP is a multipurpose liquid that can be used as an antiseptic for minor cuts and abrasions and cleanse minor skin wounds and scratches<BR><BR>Cleanse minor skin wounds scratches or abrasions<BR><BR>Antiseptic for minor cuts and abrasions<BR><BR>Support wound healing</p>",
+  "gtin13": "9300655602835",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/029411.jpg",
+  "name": "Sanofi Hydrogen Peroxide Powerful Bleach Liquid 200ml",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 4.1,
+    "lowPrice": 4.1,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-12-02T00:28:27.179Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 4.1,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/29411/sanofi-hydrogen-peroxide"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/29411/sanofi-hydrogen-peroxide"
+  ],
+  "sku": "29411",
+  "updatedAt": "2022-12-02T00:28:27.179Z"
+}

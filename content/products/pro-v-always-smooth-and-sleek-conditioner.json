@@ -1,0 +1,50 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Water, Stearyl Alcohol, Behentrimonium Chloride, Cetyl Alcohol, Bis-Aminopropyl Dimethicone, Fragrance, Isopropyl Alcohol, Benzyl Alcohol, Disodium EDTA, Panthenol, Panthenyl Ethyl Ether, Histidine, Citric Acid, Methylchloroisothiazolinone, Methylisothiazolinone"
+    },
+    {
+      "name": "Size",
+      "value": "900mL"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.06 per 100mL"
+    }
+  ],
+  "brand": "Pantene",
+  "createdAt": "2022-12-02T06:55:55.718Z",
+  "description": "Pantene Pro-V Always Smooth & Sleek Conditioner",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/2/9/2290455.jpg",
+  "name": "Pro-V Always Smooth & Sleek Conditioner",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 9.5,
+    "lowPrice": 9.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-02T06:55:55.718Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "9.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/pantene-always-smooth-conditioner"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/pantene-always-smooth-conditioner"
+  ],
+  "sku": "2290455",
+  "updatedAt": "2022-12-02T06:55:55.718Z"
+}

@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "1 bunch"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$3.20 per 1Ea"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2022-12-02T01:47:07.156Z",
+  "description": "Continental Parsley is also known as Flat Leaf Parsley, it adds fresh flavours to salads, eggs, pasta or soup. STORAGE: To prolong the life of fresh herbs, wrap them loosely in a damp paper towel and store the bundle in a container in the fridge",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/4/5/7/4575161.jpg",
+  "name": "Continental Parsley Sleeved",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3.2,
+    "lowPrice": 3.2,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-02T01:47:07.155Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "3.20",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/herbs-parsley-continental-sleeved"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/herbs-parsley-continental-sleeved"
+  ],
+  "sku": "4575161",
+  "updatedAt": "2022-12-02T01:47:07.155Z"
+}

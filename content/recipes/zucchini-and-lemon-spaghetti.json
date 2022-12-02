@@ -1,0 +1,76 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "2",
+    "ratingValue": "5"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Oh My Veggies"
+  },
+  "cookTime": "PT20M",
+  "createdAt": "2022-12-02T08:49:09.360Z",
+  "datePublished": "2013-04-08T08:12:45+00:00",
+  "description": "A simple pasta dish flavored with lemon zest, garlic, and fresh herbs.",
+  "image": [
+    "https://ohmyveggies.com/wp-content/uploads/2013/04/zucchini_and_lemon_spaghetti_recipe.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2013/04/zucchini_and_lemon_spaghetti_recipe-500x400.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2013/04/zucchini_and_lemon_spaghetti_recipe-500x375.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2013/04/zucchini_and_lemon_spaghetti_recipe-480x270.jpg"
+  ],
+  "keywords": "pasta recipe, Zucchini and Lemon Spaghetti",
+  "name": "Zucchini and Lemon Spaghetti",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "819 kcal",
+    "carbohydrateContent": "85 g",
+    "cholesterolContent": "61 mg",
+    "fatContent": "40 g",
+    "fiberContent": "6 g",
+    "proteinContent": "29 g",
+    "saturatedFatContent": "15 g",
+    "servingSize": "1 serving",
+    "sodiumContent": "893 mg",
+    "sugarContent": "10 g",
+    "unsaturatedFatContent": "24 g"
+  },
+  "prepTime": "PT5M",
+  "recipeCategory": "Main Course",
+  "recipeCuisine": "American",
+  "recipeIngredient": [
+    "7 oz. dried spaghetti (I used whole wheat)",
+    "3 tbsp. olive oil (plus more for drizzling)",
+    "2 medium zucchini (thinly sliced lengthwise)",
+    "3 cloves garlic (finely chopped)",
+    "1 1/2 tsp. fresh sage (chopped)",
+    "1 1/2 tsp. fresh rosemary (chopped)",
+    "2 tbsp. grated Parmesan or Pecorino Romano cheese (plus more for serving (optional)",
+    "4 oz. feta cheese (crumbled (optional)",
+    "zest of 1/2 lemon",
+    "sea salt and black pepper (to taste)"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "First cook the spaghetti (check the package for specific instructions) by bringing a large saucepan of water to a boil, adding a couple of large pinches of sea salt and then the spaghetti; it should take about 8-10 minutes to cook. Stir every so often so the strands of pasta don't stick together. When the pasta is just cooked (al dente), drain it in a colander, drizzle with a little olive oil and then mix to lightly coat the pasta and prevent the strands from sticking together. Set it aside."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "You can use the same saucepan to make the sauce. Pour in the 3 tablespoons of olive oil and heat over medium heat, then add the zucchini and sauté for 4-5 minutes, before adding the garlic and herbs and mixing well. Sauté for a couple more minutes, to allow all the flavors to come together and the zucchini to cook through."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Return the cooked spaghetti to the pan and heat through, then mix in the cheese and lemon zest, and season with a little sea salt (you may not need much since the feta cheese is salty) and a good grind of black pepper. Serve, with a little more grated cheese sprinkled over, if you wish."
+    }
+  ],
+  "recipeYield": "2",
+  "sameAs": [
+    "https://ohmyveggies.com/zucchini-spaghetti"
+  ],
+  "suitableForDiet": [
+    "https://schema.org/VegetarianDiet"
+  ],
+  "totalTime": "PT25M",
+  "updatedAt": "2022-12-02T08:49:09.359Z"
+}

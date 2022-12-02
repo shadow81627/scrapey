@@ -1,0 +1,155 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1",
+    "ratingValue": "5"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Shannon @ Yup, it's Vegan"
+  },
+  "cookTime": "PT15M",
+  "createdAt": "2022-12-02T02:38:50.592Z",
+  "datePublished": "2015-03-12T07:00:50+00:00",
+  "description": "Vegan pecan \"pi\" pop tarts, for Pi Day! Much less hassle than making an actual pie, but still fully adorable and delicious.",
+  "image": [
+    "https://yupitsvegan.com/wp-content/uploads/2015/03/vegan-pecan-pi-pop-tarts-2.jpg"
+  ],
+  "keywords": "pecan pi pop tarts",
+  "mentions": [
+    {
+      "@id": "https://yupitsvegan.com/tag/baking/#id",
+      "@type": "http://schema.org/Thing",
+      "description": "Baking is a method of cooking food that uses prolonged dry heat, normally in an oven, but also in hot ashes, or on hot stones. The most common baked item is bread but many other types of foods are baked. Heat is gradually transferred \"from the surface of cakes, cookies, and breads to their centre....",
+      "name": "baked good",
+      "sameAs": [
+        "http://dbpedia.org/resource/Baking",
+        "http://purl.obolibrary.org/obo/FOODON_03311631",
+        "http://ko.dbpedia.org/resource/베이킹",
+        "http://nl.dbpedia.org/resource/Bakken",
+        "http://www.wikidata.org/entity/Q720398",
+        "http://de.dbpedia.org/resource/Backen",
+        "http://wikidata.dbpedia.org/resource/Q720398",
+        "http://pl.dbpedia.org/resource/Pieczenie",
+        "http://ja.dbpedia.org/resource/焼く_(調理)",
+        "http://es.dbpedia.org/resource/Horneado",
+        "http://rdf.freebase.com/ns/m.0dv34",
+        "https://en.wikipedia.org/wiki/Baking",
+        "https://knowledge.cafemedia.com/food/entity/baked_good"
+      ]
+    },
+    {
+      "@id": "https://yupitsvegan.com/tag/nuts-and-seeds/#id",
+      "@type": "http://schema.org/Thing",
+      "description": "A nut is a fruit composed of a hard shell and a seed, which is generally edible. In a general context, however, a wide variety of dried seeds are called nuts, but in a botanical context, there is an additional requirement that the shell does not open to release the seed (indehiscent). The translation of...",
+      "name": "tree nut",
+      "sameAs": [
+        "http://wikidata.dbpedia.org/resource/Q11009",
+        "http://pl.dbpedia.org/resource/Orzechy_(bakalie)",
+        "http://www.wikidata.org/entity/Q11009",
+        "http://id.dbpedia.org/resource/Buah_geluk",
+        "http://nl.dbpedia.org/resource/Noot_(plantaardig)",
+        "http://d-nb.info/gnd/4042827-8",
+        "http://fr.dbpedia.org/resource/Fruit_à_coque",
+        "http://rdf.freebase.com/ns/m.01lbxg",
+        "http://dbpedia.org/resource/Nut_(fruit)",
+        "http://ja.dbpedia.org/resource/種実類",
+        "http://yago-knowledge.org/resource/Nut_(fruit)",
+        "http://purl.obolibrary.org/obo/FOODON_03301354",
+        "http://pt.dbpedia.org/resource/Noz",
+        "http://cs.dbpedia.org/resource/Oříšek",
+        "http://ko.dbpedia.org/resource/견과",
+        "http://de.dbpedia.org/resource/Nussfrucht",
+        "https://en.wikipedia.org/wiki/Nut_(fruit)",
+        "http://es.dbpedia.org/resource/Nuez_(fruto)",
+        "http://el.dbpedia.org/resource/Κάρυο_(βοτανική)",
+        "https://knowledge.cafemedia.com/food/entity/tree_nut"
+      ]
+    },
+    {
+      "@id": "https://yupitsvegan.com/category/desserts/#id",
+      "@type": "http://schema.org/Thing",
+      "description": "Dessert (/dᵻˈzɜːrt/) is a course that concludes a main meal. The course usually consists of sweet foods and beverages, such as dessert wine or liqueurs, but may include coffee, cheeses, nuts, or other savory items. In some parts of the world, such as much of central and western Africa, there is no tradition of a...",
+      "name": "sweet dish",
+      "sameAs": [
+        "http://es.dbpedia.org/resource/Postre",
+        "http://dbpedia.org/resource/Dessert",
+        "http://ko.dbpedia.org/resource/후식",
+        "http://fr.dbpedia.org/resource/Dessert",
+        "http://de.dbpedia.org/resource/Dessert",
+        "http://id.dbpedia.org/resource/Hidangan_penutup",
+        "http://ja.dbpedia.org/resource/デザート",
+        "http://nl.dbpedia.org/resource/Nagerecht",
+        "http://pt.dbpedia.org/resource/Sobremesa",
+        "http://d-nb.info/gnd/4011539-2",
+        "http://purl.obolibrary.org/obo/FOODON_03316299",
+        "http://pl.dbpedia.org/resource/Deser",
+        "http://cs.dbpedia.org/resource/Dezert",
+        "http://eu.dbpedia.org/resource/Azkenburu",
+        "http://www.wikidata.org/entity/Q182940",
+        "https://en.wikipedia.org/wiki/Dessert",
+        "http://it.dbpedia.org/resource/Dessert",
+        "http://rdf.freebase.com/ns/m.0270h",
+        "http://wikidata.dbpedia.org/resource/Q182940",
+        "https://knowledge.cafemedia.com/food/entity/sweet_dish"
+      ]
+    }
+  ],
+  "name": "Pecan Pi Pop Tarts",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "126 kcal",
+    "carbohydrateContent": "18 g",
+    "fatContent": "6 g",
+    "fiberContent": "1 g",
+    "proteinContent": "2 g",
+    "saturatedFatContent": "4 g",
+    "servingSize": "1 pop tart",
+    "sodiumContent": "58 mg",
+    "sugarContent": "7 g"
+  },
+  "prepTime": "PT15M",
+  "recipeCategory": "Breakfast",
+  "recipeCuisine": "American",
+  "recipeIngredient": [
+    "1/2 cup packed pitted dates (soaked in warm water for at least an hour)",
+    "1 tsp coconut oil (I use refined coconut oil)",
+    "1/4 tsp vanilla extract",
+    "1 pinch sea salt",
+    "1/4 cup toasted pecans (I buy them raw and toast them freshly for recipes)",
+    "1/2 cup + 2 tbsp all-purpose flour",
+    "1/2 cup whole wheat pastry flour",
+    "1/4 tsp salt",
+    "3 tbsp maple syrup",
+    "1 and 1/2 tsp vanilla extract",
+    "3 tbsp coconut oil (room temperature (I use refined coconut oil)",
+    "1 and 1/2 tbsp plain, unsweetened non-dairy milk",
+    "1/3 cup cane sugar",
+    "1 tsp cornstarch",
+    "1 tbsp plain, unsweetened non-dairy milk",
+    "1/3 cup coconut sugar (or use light brown sugar)",
+    "1/2 tbsp brandy",
+    "1/2 tbsp plain, unsweetened non-dairy milk"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Add the dates to a blender along with the coconut oil, vanilla extract and salt, and blend until very smooth. Add a splash of nondairy milk if needed to blend."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add half of the toasted pecans to the blender and combine until the pecans are crumbly."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add the rest of the toasted pecans and pulse just a few times to break them into smaller pieces. Set the filling aside."
+    }
+  ],
+  "recipeYield": "10",
+  "sameAs": [
+    "https://yupitsvegan.com/pecan-pi-pop-tarts"
+  ],
+  "totalTime": "PT30M",
+  "updatedAt": "2022-12-02T02:38:50.590Z"
+}

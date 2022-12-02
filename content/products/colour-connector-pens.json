@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "20 pack"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.40 per 1Ea"
+    }
+  ],
+  "brand": "Faber-Castell",
+  "createdAt": "2022-12-02T04:37:35.685Z",
+  "description": "Connector markers paint bright and strong and even have an extra playful benefit: connecting the caps provides many possibilities for games, crafts, and clean-up.",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/1/8/3/1839744.jpg",
+  "name": "Colour Connector Pens",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 8,
+    "lowPrice": 8,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-02T04:37:35.685Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "8.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/faber-castell-colour-connector-pens"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/faber-castell-colour-connector-pens"
+  ],
+  "sku": "1839744",
+  "updatedAt": "2022-12-02T04:37:35.685Z"
+}

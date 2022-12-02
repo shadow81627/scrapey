@@ -1,0 +1,241 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "6",
+    "ratingValue": "5"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Sam Turnbull • It Doesn't Taste Like Chicken"
+  },
+  "cookTime": "PT10M",
+  "createdAt": "2022-12-02T02:03:31.167Z",
+  "datePublished": "2016-07-18T15:49:53+00:00",
+  "description": "Hearty, spicy, bursting with a flavour bomb of beans, topped on hearty kale, and then drizzled with a little Chipotle Lime Dressing this is my new favourite salad. It’s like a fiesta in your mouth.&nbsp;",
+  "image": [
+    "https://itdoesnttastelikechicken.com/wp-content/uploads/2016/07/Chiptole-Black-Bean-Kale-Salad-Vegan-Recipe.jpg",
+    "https://itdoesnttastelikechicken.com/wp-content/uploads/2016/07/Chiptole-Black-Bean-Kale-Salad-Vegan-Recipe-500x500.jpg",
+    "https://itdoesnttastelikechicken.com/wp-content/uploads/2016/07/Chiptole-Black-Bean-Kale-Salad-Vegan-Recipe-500x375.jpg",
+    "https://itdoesnttastelikechicken.com/wp-content/uploads/2016/07/Chiptole-Black-Bean-Kale-Salad-Vegan-Recipe-480x270.jpg"
+  ],
+  "mentions": [
+    {
+      "@id": "https://itdoesnttastelikechicken.com/tag/beans/#id",
+      "@type": "http://schema.org/Thing",
+      "description": "Bean is a common name for large seeds of several genera of the flowering plant family Fabaceae (also known as Leguminosae) which are used for human or animal food.",
+      "name": "bean",
+      "sameAs": [
+        "http://rdf.freebase.com/ns/m.01fp9",
+        "http://el.dbpedia.org/resource/Φασόλι",
+        "http://dbpedia.org/resource/Bean",
+        "http://ko.dbpedia.org/resource/콩",
+        "http://fr.dbpedia.org/resource/Haricot_(homonymie)",
+        "https://en.wikipedia.org/wiki/Bean",
+        "http://de.dbpedia.org/resource/Bohne",
+        "http://ja.dbpedia.org/resource/豆",
+        "http://purl.obolibrary.org/obo/FOODON_00002753",
+        "http://wikidata.dbpedia.org/resource/Q379813",
+        "http://www.wikidata.org/entity/Q379813",
+        "http://nl.dbpedia.org/resource/Boon",
+        "http://id.dbpedia.org/resource/Kacang-kacangan",
+        "https://knowledge.cafemedia.com/food/entity/bean"
+      ]
+    },
+    {
+      "@id": "https://itdoesnttastelikechicken.com/tag/black-bean/#id",
+      "@type": "http://schema.org/Thing",
+      "description": "The black turtle bean is a small, shiny variety of common beans (Phaseolus vulgaris), especially popular in Latin American cuisine, though it can also be found in Cajun and Creole cuisines of south Louisiana. Black beans (and all common beans) are native to the Americas, but have been introduced around the world. They are also...",
+      "name": "black turtle bean",
+      "sameAs": [
+        "http://wikidata.dbpedia.org/resource/Q15062992",
+        "https://en.wikipedia.org/wiki/Black_turtle_bean",
+        "http://purl.obolibrary.org/obo/FOODON_00002889",
+        "http://www.wikidata.org/entity/Q15062992",
+        "http://nl.dbpedia.org/resource/Zwarte_boon",
+        "http://rdf.freebase.com/ns/m.0swm8th",
+        "http://dbpedia.org/resource/Black_turtle_bean",
+        "https://knowledge.cafemedia.com/food/entity/black_turtle_bean"
+      ]
+    },
+    {
+      "@id": "https://itdoesnttastelikechicken.com/tag/chipotle/#id",
+      "@type": "http://schema.org/Thing",
+      "description": "A chipotle (/tʃᵻˈpoʊtleɪ/, chi-POHT-lay; Spanish: ), or chilpotle, which comes from the Nahuatl word chilpoctli (meaning \"smoked chili\"), is a smoke-dried jalapeño. It is a chili used primarily in Mexican and Mexican-inspired cuisines, such as Mexican-American, Tex-Mex, and Southwestern dishes. A chipotle's heat is similar to that of the Espelette pepper, jalapeño, Guajillo chili, Hungarian...",
+      "name": "chipotle",
+      "sameAs": [
+        "http://dbpedia.org/resource/Chipotle",
+        "http://es.dbpedia.org/resource/Chile_chipotle",
+        "http://rdf.freebase.com/ns/m.02f217",
+        "http://www.wikidata.org/entity/Q860808",
+        "http://nl.dbpedia.org/resource/Chipotle",
+        "http://ja.dbpedia.org/resource/チポトレ",
+        "http://purl.obolibrary.org/obo/FOODON_00002563",
+        "http://it.dbpedia.org/resource/Chipotle",
+        "https://en.wikipedia.org/wiki/Chipotle",
+        "http://fr.dbpedia.org/resource/Chipotle",
+        "http://wikidata.dbpedia.org/resource/Q860808",
+        "http://cs.dbpedia.org/resource/Chipotle",
+        "http://pt.dbpedia.org/resource/Chipotle",
+        "https://knowledge.cafemedia.com/food/entity/chipotle"
+      ]
+    },
+    {
+      "@id": "https://itdoesnttastelikechicken.com/tag/garlic/#id",
+      "@type": "http://schema.org/Thing",
+      "description": "Allium sativum, commonly known as garlic, is a species in the onion genus, Allium. Its close relatives include the onion, shallot, leek, chive, and rakkyo. With a history of over 7,000 years of human consumption and use, garlic is native to central Asia, and has long been a staple in the Mediterranean region, as well...",
+      "name": "softneck garlic",
+      "sameAs": [
+        "http://www.wikidata.org/entity/Q23400",
+        "http://rdf.freebase.com/ns/m.0dbrl",
+        "http://es.dbpedia.org/resource/Allium_sativum",
+        "http://yago-knowledge.org/resource/Allium_sativum",
+        "http://cs.dbpedia.org/resource/Česnek_kuchyňský",
+        "http://id.dbpedia.org/resource/Bawang_putih",
+        "http://it.dbpedia.org/resource/Allium_sativum",
+        "http://wikidata.dbpedia.org/resource/Q23400",
+        "http://fr.dbpedia.org/resource/Ail_cultivé",
+        "http://ko.dbpedia.org/resource/마늘",
+        "http://nl.dbpedia.org/resource/Knoflook",
+        "http://pt.dbpedia.org/resource/Alho",
+        "http://d-nb.info/gnd/4031311-6",
+        "http://ja.dbpedia.org/resource/ニンニク",
+        "http://lod.geospecies.org/ses/Ktmfq",
+        "https://en.wikipedia.org/wiki/Garlic",
+        "http://el.dbpedia.org/resource/Σκόρδο",
+        "http://eu.dbpedia.org/resource/Baratxuri",
+        "http://dbpedia.org/resource/Garlic",
+        "http://purl.obolibrary.org/obo/FOODON_00001895",
+        "http://pl.dbpedia.org/resource/Czosnek_pospolity",
+        "http://eunis.eea.europa.eu/species/189214",
+        "http://de.dbpedia.org/resource/Knoblauch",
+        "https://knowledge.cafemedia.com/food/entity/garlic"
+      ]
+    },
+    {
+      "@id": "https://itdoesnttastelikechicken.com/tag/kale/#id",
+      "@type": "http://schema.org/Thing",
+      "description": "Kale (English IPA: /keɪl/) or leaf cabbage is a group of vegetable cultivars within the plant species Brassica oleracea. They have green or purple leaves, in which the central leaves do not form a head (as opposed to headed cabbages). Kales are considered to be closer to wild cabbage than most domesticated forms of Brassica...",
+      "name": "kale",
+      "sameAs": [
+        "http://nl.dbpedia.org/resource/Boerenkool_(groente)",
+        "http://de.dbpedia.org/resource/Grünkohl",
+        "https://en.wikipedia.org/wiki/Kale",
+        "http://cs.dbpedia.org/resource/Kadeřávek",
+        "http://pl.dbpedia.org/resource/Jarmuż",
+        "http://dbpedia.org/resource/Kale",
+        "http://fr.dbpedia.org/resource/Chou_frisé",
+        "http://ko.dbpedia.org/resource/케일_(채소)",
+        "http://d-nb.info/gnd/4257572-2",
+        "http://pt.dbpedia.org/resource/Couve-de-folhas",
+        "http://es.dbpedia.org/resource/Brassica_oleracea_var._sabellica",
+        "http://wikidata.dbpedia.org/resource/Q45989",
+        "http://purl.obolibrary.org/obo/FOODON_03304859",
+        "http://rdf.freebase.com/ns/m.02r5_b",
+        "http://www.wikidata.org/entity/Q45989",
+        "http://ja.dbpedia.org/resource/ケール",
+        "https://knowledge.cafemedia.com/food/entity/kale"
+      ]
+    },
+    {
+      "@id": "https://itdoesnttastelikechicken.com/tag/onion/#id",
+      "@type": "http://schema.org/Thing",
+      "description": "The onion (Allium cepa L., from Latin cepa \"onion\"), also known as the bulb onion or common onion, is a vegetable and is the most widely cultivated species of the genus Allium. This genus also contains several other species variously referred to as onions and cultivated for food, such as the Japanese bunching onion (Allium...",
+      "name": "onion",
+      "sameAs": [
+        "http://yago-knowledge.org/resource/Allium_cepa",
+        "http://pt.dbpedia.org/resource/Cebola",
+        "http://id.dbpedia.org/resource/Bawang_bombai",
+        "http://purl.obolibrary.org/obo/FOODON_03316397",
+        "http://ja.dbpedia.org/resource/タマネギ",
+        "http://el.dbpedia.org/resource/Κρεμμύδι",
+        "https://en.wikipedia.org/wiki/Onion",
+        "http://cs.dbpedia.org/resource/Cibule_kuchyňská",
+        "http://fr.dbpedia.org/resource/Oignon",
+        "http://rdf.freebase.com/ns/m.0dj75",
+        "http://d-nb.info/gnd/4073850-4",
+        "http://ko.dbpedia.org/resource/양파",
+        "http://www.wikidata.org/entity/Q23485",
+        "http://de.dbpedia.org/resource/Zwiebel",
+        "http://it.dbpedia.org/resource/Allium_cepa",
+        "http://es.dbpedia.org/resource/Allium_cepa",
+        "http://pl.dbpedia.org/resource/Cebula_zwyczajna",
+        "http://dbpedia.org/resource/Onion",
+        "http://lod.geospecies.org/ses/yGCph",
+        "http://nl.dbpedia.org/resource/Ui_(plant)",
+        "http://eu.dbpedia.org/resource/Tipula",
+        "http://wikidata.dbpedia.org/resource/Q23485",
+        "https://knowledge.cafemedia.com/food/entity/onion"
+      ]
+    },
+    {
+      "@id": "https://itdoesnttastelikechicken.com/tag/salad/#id",
+      "@type": "http://schema.org/Thing",
+      "description": "A salad is a dish consisting of small pieces of food, which may be mixed with a sauce or salad dressing. They are typically served cold. Salads can incorporate a variety of foods including vegetables, fruits, cheese, cooked meat, eggs, grains and nuts. Most salads are served cold, although some, such as south German potato...",
+      "name": "salad dressing",
+      "sameAs": [
+        "http://eu.dbpedia.org/resource/Entsalada",
+        "http://www.wikidata.org/entity/Q9266",
+        "http://ja.dbpedia.org/resource/サラダ",
+        "https://en.wikipedia.org/wiki/Salad",
+        "http://de.dbpedia.org/resource/Salat_(Gericht)",
+        "http://el.dbpedia.org/resource/Σαλάτα",
+        "http://es.dbpedia.org/resource/Ensalada",
+        "http://nl.dbpedia.org/resource/Salade",
+        "http://pt.dbpedia.org/resource/Salada",
+        "http://cs.dbpedia.org/resource/Salát_(pokrm)",
+        "http://ko.dbpedia.org/resource/샐러드",
+        "http://rdf.freebase.com/ns/m.0grw1",
+        "http://d-nb.info/gnd/4051351-8",
+        "http://pl.dbpedia.org/resource/Sałatka",
+        "http://fr.dbpedia.org/resource/Salade_(mets)",
+        "http://wikidata.dbpedia.org/resource/Q9266",
+        "http://yago-knowledge.org/resource/Garden_salad",
+        "http://id.dbpedia.org/resource/Selada_(hidangan)",
+        "http://purl.obolibrary.org/obo/FOODON_00001290",
+        "http://dbpedia.org/resource/Salad",
+        "http://it.dbpedia.org/resource/Insalata",
+        "https://knowledge.cafemedia.com/food/entity/salad_dressing"
+      ]
+    }
+  ],
+  "name": "Spiced Black Bean and Kale Salad with Chipotle Lime Dressing",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "229 kcal",
+    "servingSize": "1 serving"
+  },
+  "prepTime": "PT5M",
+  "recipeCategory": "Salad",
+  "recipeCuisine": "American",
+  "recipeIngredient": [
+    "1 tablespoon olive oil",
+    "1/2 an onion (, chopped)",
+    "2 cloves garlic (, minced)",
+    "1 19 oz can black beans (about 2 cups), drained and rinsed)",
+    "1 chipotle pepper in adobo sauce (, minced)",
+    "2 tablespoons tomato paste",
+    "1 teaspoon smoked paprika",
+    "1 teaspoon cumin",
+    "1 teaspoon agave",
+    "1/2 teaspoon salt",
+    "1/2 a bunch of kale (about 6 cups), shredded)",
+    "1 recipe Chipotle Lime Dressing (I used about 1/3 of the recipe)"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "To prepare the beans, heat the olive oil in a large frying pan or skillet over medium-high heat. Sauté the onions and garlic for about 5 minutes until the soften and begin to brown. Add in the black beans and all of the remaining ingredients. Stir well to combine and cook until heated through. Another 3-5 minutes."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "To assemble the salad, put the shredded kale in a large bowl and top with the prepared black beans. Drizzle on the dressing to taste. The black beans are very flavourful, so you might not need too much. Bon Appetegan!"
+    }
+  ],
+  "recipeYield": "4",
+  "sameAs": [
+    "https://itdoesnttastelikechicken.com/2016/07/18/chipotle-black-bean-kale-salad"
+  ],
+  "totalTime": "PT15M",
+  "updatedAt": "2022-12-02T03:41:19.406Z"
+}

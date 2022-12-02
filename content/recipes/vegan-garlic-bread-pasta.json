@@ -1,0 +1,109 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1",
+    "ratingValue": "5"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Yup, it's Vegan"
+  },
+  "cookTime": "PT10M",
+  "createdAt": "2022-12-02T07:23:29.392Z",
+  "datePublished": "2017-11-21T07:53:30+00:00",
+  "description": "Shirataki spaghetti is tossed with a garlic olive oil sauce and crispy toasted breadcrumbs for a quick, easy, lightened-up take on the flavors of garlic bread! Gluten-free and grain-free options.",
+  "image": [
+    "https://yupitsvegan.com/wp-content/uploads/2017/11/vegan-garlic-bread-pasta-square.jpg",
+    "https://yupitsvegan.com/wp-content/uploads/2017/11/vegan-garlic-bread-pasta-square-500x500.jpg",
+    "https://yupitsvegan.com/wp-content/uploads/2017/11/vegan-garlic-bread-pasta-square-500x375.jpg",
+    "https://yupitsvegan.com/wp-content/uploads/2017/11/vegan-garlic-bread-pasta-square-480x270.jpg"
+  ],
+  "keywords": "garlic shirataki, vegan garlic bread pasta",
+  "mentions": [
+    {
+      "@id": "https://yupitsvegan.com/tag/pasta/#id",
+      "@type": "http://schema.org/Thing",
+      "description": "Pasta (Italian pronunciation: ) is a staple food of traditional Italian cuisine, with the first reference dating to 1154 in Sicily. It is also commonly used to refer to the variety of pasta dishes. Typically, pasta is a noodle made from an unleavened dough of a durum wheat flour mixed with water or eggs and...",
+      "name": "pasta",
+      "sameAs": [
+        "http://el.dbpedia.org/resource/Ζυμαρικό",
+        "http://rdf.freebase.com/ns/m.05z55",
+        "http://ko.dbpedia.org/resource/파스타",
+        "http://pt.dbpedia.org/resource/Massa_alimentícia",
+        "http://it.dbpedia.org/resource/Pasta",
+        "http://es.dbpedia.org/resource/Pasta",
+        "http://pl.dbpedia.org/resource/Makaron",
+        "https://en.wikipedia.org/wiki/Pasta",
+        "http://nl.dbpedia.org/resource/Pasta_(deegwaar)",
+        "http://wikidata.dbpedia.org/resource/Q178",
+        "http://fr.dbpedia.org/resource/Pâtes_alimentaires",
+        "http://www.wikidata.org/entity/Q178",
+        "http://de.dbpedia.org/resource/Pasta",
+        "http://ja.dbpedia.org/resource/パスタ",
+        "http://purl.obolibrary.org/obo/FOODON_03306347",
+        "http://cs.dbpedia.org/resource/Těstoviny",
+        "http://id.dbpedia.org/resource/Pasta",
+        "http://eu.dbpedia.org/resource/Pasta_(orea)",
+        "http://dbpedia.org/resource/Pasta",
+        "https://knowledge.cafemedia.com/food/entity/pasta"
+      ]
+    }
+  ],
+  "name": "Vegan Garlic Bread Pasta",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "217 kcal",
+    "carbohydrateContent": "23 g",
+    "fatContent": "13 g",
+    "fiberContent": "6 g",
+    "proteinContent": "6 g",
+    "saturatedFatContent": "5 g",
+    "servingSize": "1 entire recipe",
+    "sugarContent": "5 g",
+    "unsaturatedFatContent": "6 g"
+  },
+  "prepTime": "PT10M",
+  "recipeCategory": "Main Course",
+  "recipeCuisine": "dairy-free",
+  "recipeIngredient": [
+    "1 package House Foods Tofu Shirataki Spaghetti",
+    "1/2 tbsp olive oil",
+    "1 tsp refined coconut oil",
+    "2 cloves garlic (minced)",
+    "2 tbsp bread crumbs",
+    "1/2 tbsp nutritional yeast",
+    "1/4 tsp salt",
+    "1/4 tsp garlic powder",
+    "1/8 tsp dried thyme",
+    "1/8 tsp dried oregano",
+    "1/8 tsp ground black pepper",
+    "1 tsp freshly-squeezed lemon juice",
+    "chopped fresh parsley and red pepper flakes (optional, for serving)",
+    "hemp seed parmesan (optional, for serving)"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Open the shirataki spaghetti package and drain and rinse the noodles well. Using kitchen shears to snip them in half or thirds. Add the spaghetti to a microwave-safe bowl and cook for 2 minutes on high. Drain the noodles again, then return them to the microwave and cook for another 3 minutes. Drain a final time if necessary, and set aside."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "In a skillet, warm the olive oil and coconut oil together over medium-low heat. Add the garlic and cook for about 3 minutes, or until fragrant and softened."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Mix together the breadcrumbs, nutritional yeast, salt, garlic powder, dried herbs, and black pepper. Turn the skillet heat up to medium and add the breadcrumbs, stirring vigorously to combine them with the garlic and oil. Continue to cook, stirring frequently, until the breadcrumbs are evenly browned throughout, 3 to 5 minutes."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add the lemon juice and the shirataki noodles to the pan and use tongs or a stirring fork to combine the breadcrumbs mixture and pasta together. Cook for 2 minutes more. Serve immediately, garnished with fresh herbs, red pepper flakes, and vegan parmesan if desired."
+    }
+  ],
+  "recipeYield": "2",
+  "sameAs": [
+    "https://yupitsvegan.com/garlic-bread-pasta"
+  ],
+  "totalTime": "PT20M",
+  "updatedAt": "2022-12-02T07:23:29.390Z"
+}

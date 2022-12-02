@@ -1,0 +1,110 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "7",
+    "ratingValue": "5"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Yup, it's Vegan"
+  },
+  "createdAt": "2022-12-02T03:15:22.848Z",
+  "datePublished": "2019-12-05T19:53:16+00:00",
+  "description": "This delectable vegan cheese ball is super flavorful, with smoky notes from whiskey and spicy notes from paprika, and would be a hit at your holiday party!",
+  "image": [
+    "https://yupitsvegan.com/wp-content/uploads/2019/12/vegan-cheese-ball-square-2.jpg",
+    "https://yupitsvegan.com/wp-content/uploads/2019/12/vegan-cheese-ball-square-2-500x500.jpg",
+    "https://yupitsvegan.com/wp-content/uploads/2019/12/vegan-cheese-ball-square-2-500x375.jpg",
+    "https://yupitsvegan.com/wp-content/uploads/2019/12/vegan-cheese-ball-square-2-480x270.jpg"
+  ],
+  "keywords": "cashew cheese ball, vegan cheese ball",
+  "mentions": [
+    {
+      "@id": "https://yupitsvegan.com/tag/nuts-and-seeds/#id",
+      "@type": "http://schema.org/Thing",
+      "description": "A nut is a fruit composed of a hard shell and a seed, which is generally edible. In a general context, however, a wide variety of dried seeds are called nuts, but in a botanical context, there is an additional requirement that the shell does not open to release the seed (indehiscent). The translation of...",
+      "name": "tree nut",
+      "sameAs": [
+        "http://wikidata.dbpedia.org/resource/Q11009",
+        "http://pl.dbpedia.org/resource/Orzechy_(bakalie)",
+        "http://www.wikidata.org/entity/Q11009",
+        "http://id.dbpedia.org/resource/Buah_geluk",
+        "http://nl.dbpedia.org/resource/Noot_(plantaardig)",
+        "http://d-nb.info/gnd/4042827-8",
+        "http://fr.dbpedia.org/resource/Fruit_à_coque",
+        "http://rdf.freebase.com/ns/m.01lbxg",
+        "http://dbpedia.org/resource/Nut_(fruit)",
+        "http://ja.dbpedia.org/resource/種実類",
+        "http://yago-knowledge.org/resource/Nut_(fruit)",
+        "http://purl.obolibrary.org/obo/FOODON_03301354",
+        "http://pt.dbpedia.org/resource/Noz",
+        "http://cs.dbpedia.org/resource/Oříšek",
+        "http://ko.dbpedia.org/resource/견과",
+        "http://de.dbpedia.org/resource/Nussfrucht",
+        "https://en.wikipedia.org/wiki/Nut_(fruit)",
+        "http://es.dbpedia.org/resource/Nuez_(fruto)",
+        "http://el.dbpedia.org/resource/Κάρυο_(βοτανική)",
+        "https://knowledge.cafemedia.com/food/entity/tree_nut"
+      ]
+    }
+  ],
+  "name": "Sharp \"Cheddar\" Vegan Cheese Ball",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "132 kcal",
+    "carbohydrateContent": "11 g",
+    "fatContent": "4 g",
+    "fiberContent": "1 g",
+    "proteinContent": "3 g",
+    "saturatedFatContent": "6 g",
+    "servingSize": "1 sixteenth recipe",
+    "sodiumContent": "155 mg",
+    "sugarContent": "1 g",
+    "unsaturatedFatContent": "4 g"
+  },
+  "prepTime": "PT20M",
+  "recipeCategory": "Appetizer",
+  "recipeCuisine": "American",
+  "recipeIngredient": [
+    "1 and 1/2 cups raw cashews (soaked)",
+    "1/2 cup melted refined coconut oil",
+    "2 tbsp sundried tomato (soaked)",
+    "2 tbsp nutritional yeast",
+    "2 tbsp yellow or white miso",
+    "1 tbsp whiskey (or use brandy, dry sherry, or omit for an alcohol-free version)",
+    "1 tbsp white vinegar",
+    "1 tsp prepared mustard",
+    "1/2 tsp salt",
+    "1/2 tsp paprika (regular or smoked - I use hot Hungarian smoked paprika)",
+    "1/8 tsp ground turmeric (optional, for color)",
+    "1/8 tsp ground black pepper",
+    "1/4 cup slivered almonds",
+    "1/4 cup dried cranberries",
+    "2 tbsp chopped fresh thyme"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Before starting, you need to soak your cashews and sundried tomatoes. Add them to a bowl and fill with cold water, and let sit overnight. If you're shorter on time, you can pour boiling/very hot water over them, cover the bowl, and let it sit for 10-15 minutes, or ideally an hour if you can."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Drain the cashews and sundried tomatoes and rinse well. Be sure your coconut oil is melted. Add the cashews, tomatoes, and oil to a blender along with the rest of the vegan cheese ball ingredients. Blend until completely smooth, which can take a few minutes depending on the blender you're using."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Taste the mixture for seasoning, and add more salt, vinegar or lemon juice as needed. Transfer the mixture to a container and place in the refrigerator for a few hours to let the coconut oil solidify and the mixture to set."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Once the cashew cheese mixture is set, you can remove it from the fridge, use your hands to gently shape it into a ball, and then roll it in the toppings of your choosing. Your completed vegan cheese ball should be kept refrigerated until 5-10 minutes before serving."
+    }
+  ],
+  "recipeYield": "16",
+  "sameAs": [
+    "https://yupitsvegan.com/vegan-cheese-ball"
+  ],
+  "totalTime": "PT320M",
+  "updatedAt": "2022-12-02T03:15:22.848Z"
+}

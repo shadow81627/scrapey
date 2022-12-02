@@ -2,104 +2,99 @@
   "@type": "Recipe",
   "aggregateRating": {
     "@type": "AggregateRating",
-    "ratingCount": "2",
+    "ratingCount": "3",
     "ratingValue": "5"
   },
   "author": {
     "@type": "Person",
-    "name": "Alissa Saenz"
+    "name": "Sophia DeSantis"
   },
-  "cookTime": "PT20M",
+  "cookTime": "PT35M",
   "createdAt": "2022-11-29T05:36:15.000Z",
-  "datePublished": "2022-09-12T09:44:11+00:00",
-  "description": "This vegan butternut squash pasta is drenched in a silky sauce made from roasted butternut squash and coconut milk. A delicious, decadent vegan dinner that&#39;s also super easy to make!",
-  "image": {
-    "@type": "ImageObject",
-    "height": 1200,
-    "mime": "image/jpeg",
-    "url": "https://www.connoisseurusveg.com/wp-content/uploads/2022/08/butternut-pasta-sq-2.jpg",
-    "width": 1200
-  },
-  "keywords": "butternut squash, pasta",
+  "datePublished": "2021-09-09T10:00:00+00:00",
+  "description": "This creamy butternut squash pasta is vegan, so easy and uses a special ingredient that cuts the overall fat. But the flavor is still unreal!",
+  "image": [
+    "https://www.veggiesdontbite.com/wp-content/uploads/2021/08/vegan-creamy-butternut-squash-pasta-48.jpg",
+    "https://www.veggiesdontbite.com/wp-content/uploads/2021/08/vegan-creamy-butternut-squash-pasta-48-500x500.jpg",
+    "https://www.veggiesdontbite.com/wp-content/uploads/2021/08/vegan-creamy-butternut-squash-pasta-48-500x375.jpg",
+    "https://www.veggiesdontbite.com/wp-content/uploads/2021/08/vegan-creamy-butternut-squash-pasta-48-480x270.jpg"
+  ],
+  "keywords": "healthy pasta recipe, low fat creamy pasta",
   "name": "Creamy Vegan Butternut Squash Pasta",
   "nutrition": {
     "@type": "NutritionInformation",
-    "calories": "490 kcal",
-    "carbohydrateContent": "82.5 g",
-    "fatContent": "12.8 g",
-    "fiberContent": "6.8 g",
-    "proteinContent": "13.7 g",
-    "saturatedFatContent": "7.1 g",
+    "calories": "142 kcal",
+    "carbohydrateContent": "25 g",
+    "cholesterolContent": "1 mg",
+    "fatContent": "3 g",
+    "fiberContent": "5 g",
+    "proteinContent": "6 g",
+    "saturatedFatContent": "1 g",
     "servingSize": "1 serving",
-    "sodiumContent": "637 mg",
-    "sugarContent": "7 g"
+    "sodiumContent": "469 mg",
+    "sugarContent": "7 g",
+    "transFatContent": "1 g",
+    "unsaturatedFatContent": "2 g"
   },
-  "prepTime": "PT20M",
-  "recipeCategory": "Entree",
-  "recipeCuisine": "American",
+  "prepTime": "PT15M",
+  "recipeCategory": "Main Course",
+  "recipeCuisine": "Italian",
   "recipeIngredient": [
-    "1 pound butternut squash, (peeled and diced (1/2 inch) (Note 1)",
-    "1 medium onion, (peeled, quartered and layers separated)",
-    "4 garlic cloves, (peeled)",
-    "1 tablespoon olive oil",
-    "12 ounces dried fettuccine pasta",
-    "1 cup unflavored and unsweetened non-dairy milk",
-    "1/2 cup full-fat coconut milk (Note 2)",
-    "1 teaspoon salt, (plus more to taste)",
-    "1/8 teaspoon ground nutmeg",
-    "Black pepper, (to taste)",
-    "1 tablespoon fresh sage leaves, (finely chopped)"
+    "429 grams butternut squash (, about 15 ounces or 3 cups chopped)",
+    "130 grams shallots (, about 4-5 or 4.5 ounces or 3/4 cups chopped)",
+    "2 cloves garlic (, medium sized (adjust for your preferred garlic flavor)",
+    "3/4 - 1 teaspoon sea salt",
+    "Drizzle of oil or broth to roast",
+    "1 1/2 - 2 cups veggie broth (, low sodium if needed (depending on how thick you want it)",
+    "1/2 - 1 cup PB2 cashew powder (, see note for other options)",
+    "1 tablespoon apple cider vinegar",
+    "12 ounces your favorite pasta (, gluten-free if needed)",
+    "Fresh thyme (, optional for added flavor or garnish (sage or rosemary would work too)",
+    "Vegan Parmesan (, optional for topping)"
   ],
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "text": "Preheat the oven to 400°F."
+      "text": "Preheat the oven to 450 F/ 230 C"
     },
     {
       "@type": "HowToStep",
-      "text": "Place the squash, onion, and garlic cloves on a baking sheet and drizzle them with the oil. Use your hands to rub the oil all over the veggies."
+      "text": "Mix the squash, shallots and garlic with 1/2 teaspoon of the salt and oil if using."
     },
     {
       "@type": "HowToStep",
-      "text": "Place the baking sheet into the oven and roast the vegetables for about 20 minutes, until the squash is tender. Keep an eye on everything and remove any onion pieces if they begin to burn."
+      "text": "Put the mixture on a parchment lined cookie sheet."
     },
     {
       "@type": "HowToStep",
-      "text": "While the veggies roast, bring a large pot of salted water to a boil. Add the pasta and cook it according to the package directions."
+      "text": "Bake for 35 minutes until the squash is cooked and brown on the edges."
     },
     {
       "@type": "HowToStep",
-      "text": "Drain the pasta into a colander, reserving about 1/2 cup of the water that you boiled it in. Return the drained pasta to the pot."
+      "text": "Meanwhile, cook the pasta according to package directions."
     },
     {
       "@type": "HowToStep",
-      "text": "When the vegetables are finished roasting place them into a blender or the bowl of a food processor fitted with an s-blade. Add the milk, coconut milk, salt, and nutmeg."
+      "text": "When the butternut squash is done, add to a blender with the broth, cashew and vinegar."
     },
     {
       "@type": "HowToStep",
-      "text": "Blend everything until smooth."
+      "text": "Blend until smooth. Add more salt as you prefer."
     },
     {
       "@type": "HowToStep",
-      "text": "Taste-test the sauce and add more salt if desired, as well as some black pepper to taste."
-    },
-    {
-      "@type": "HowToStep",
-      "text": "Pour the sauce over the pasta and add the sage. Stir everything up with a fork and thin the sauce with some of the reserved pasta water if needed."
-    },
-    {
-      "@type": "HowToStep",
-      "text": "Season the pasta with additional salt and pepper to taste, if desired."
-    },
-    {
-      "@type": "HowToStep",
-      "text": "Serve."
+      "text": "Serve mixed with pasta and thyme or parmesan!"
     }
   ],
   "recipeYield": "4",
   "sameAs": [
-    "https://connoisseurusveg.com/vegan-butternut-squash-pasta"
+    "https://veggiesdontbite.com/creamy-vegan-butternut-squash-pasta"
   ],
-  "totalTime": "PT40M",
-  "updatedAt": "2022-11-29T03:48:50.600Z"
+  "suitableForDiet": [
+    "https://schema.org/GlutenFreeDiet",
+    "https://schema.org/VeganDiet",
+    "https://schema.org/VegetarianDiet"
+  ],
+  "totalTime": "PT50M",
+  "updatedAt": "2022-12-02T05:31:41.392Z"
 }

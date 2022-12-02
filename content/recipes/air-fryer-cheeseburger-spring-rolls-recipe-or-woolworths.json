@@ -1,59 +1,62 @@
 {
   "@type": "Recipe",
+  "author": {
+    "@type": "Person",
+    "name": "Fresh Ideas"
+  },
   "cookTime": "PT30M",
   "createdAt": "2022-11-22T12:23:57.000Z",
-  "datePublished": "2021-12-15",
+  "datePublished": "2022-08-03",
   "description": "Wow your friends with this spring roll recipe inspired by the flavours of a cheeseburger. It'll make the perfect finger food for your next party. ",
-  "image": {
-    "@type": "ImageObject",
-    "height": 1300,
-    "mime": "image/png",
-    "url": "https://foodhub.scene7.com/is/image/woolworthsltdprod/2112-air-fryer-cheeseburger-spring-rolls?wid=1300&hei=1300&fmt=png-alpha",
-    "width": 1300
-  },
-  "keywords": "Air-Fryer Cheeseburger Spring Rolls",
+  "image": [
+    "https://foodhub.scene7.com/is/image/woolworthsltdprod/2112-air-fryer-cheeseburger-spring-rolls:Square-1300x1300"
+  ],
+  "keywords": "Spring rolls,Air fryer,Seafood free,Tree nut free,Egg free,Sesame free,Quick & easy,Beef,Peanut free",
   "name": "Air-Fryer Cheeseburger Spring Rolls Recipe | Woolworths",
   "prepTime": "PT20M",
-  "recipeCategory": "entrees",
-  "recipeCuisine": "australian",
+  "recipeCategory": "Snacks,Entrees",
+  "recipeCuisine": "Australian",
   "recipeId": "FID-2112-166",
   "recipeIngredient": [
-    "500 g Woolworths BBQ classic beef burgers",
-    "3 gherkins",
-    "3 tbs tomato sauce",
-    "2 tbs American mustard",
+    "500g Woolworths BBQ classic beef burgers",
+    "3 gherkins, finely chopped",
+    "3 tbs tomato sauce (save 1 tbs to serve)",
+    "2 tbs American mustard (save 1 tbs to serve)",
     "1 cup shredded pizza cheese",
-    "300 g frozen spring roll pastry",
-    "5 ml olive oil cooking spray"
+    "300g frozen spring roll pastry, thawed",
+    "5ml olive oil cooking spray"
   ],
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Spray air-fryer basket with oil. Place half of the spring rolls in basket and spray with oil. Cook for 15 minutes, turning halfway through cooking, or until golden and crisp. Repeat with remaining spring rolls. Serve spring rolls drizzled with extra tomato sauce and mustard."
+      "HowToTip": {},
+      "text": "Preheat air fryer to 180°C."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Spray air-fryer basket with oil. Place half of the spring rolls in basket and spray with oil. Cook for 15 minutes, turning halfway through cooking, or until golden and crisp. Repeat with remaining spring rolls. Serve spring rolls drizzled with extra tomato sauce and mustard."
+      "HowToTip": {},
+      "text": "Using hands, combine beef burgers, gherkins, sauce, mustard and cheese in a large bowl."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Spray air-fryer basket with oil. Place half of the spring rolls in basket and spray with oil. Cook for 15 minutes, turning halfway through cooking, or until golden and crisp. Repeat with remaining spring rolls. Serve spring rolls drizzled with extra tomato sauce and mustard."
+      "HowToTip": {
+        "tipId": "Tip",
+        "tipText": "Covering rolls with a damp tea towel prevents them drying out."
+      },
+      "text": "Place 1 pastry sheet on bench with 1 corner pointing towards you. Place 1 slightly heaped tablespoonful of mince mixture in middle of pastry. Fold corner nearest to you over filling then roll up, folding in sides to enclose filling. Transfer to a tray and cover with a damp tea towel (see Tip). Repeat with remaining pastry sheets and mince mixture to make a total of 20 spring rolls."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
+      "HowToTip": {},
       "text": "Spray air-fryer basket with oil. Place half of the spring rolls in basket and spray with oil. Cook for 15 minutes, turning halfway through cooking, or until golden and crisp. Repeat with remaining spring rolls. Serve spring rolls drizzled with extra tomato sauce and mustard."
     }
   ],
   "recipeNameId": "air-fryer-cheeseburger-spring-rolls",
-  "recipeYield": "20",
+  "recipeYield": "20 pcs",
   "sameAs": [
-    "https://woolworths.com.au/shop/find-recipes/spring-roll-sauce"
+    "https://woolworths.com.au/shop/recipes/air-fryer-cheeseburger-spring-rolls"
   ],
   "totalTime": "PT50M",
-  "updatedAt": "2022-11-25T00:33:41.282Z",
+  "updatedAt": "2022-12-02T05:03:29.859Z",
   "url": "https://www.woolworths.com.au/shop/recipes/air-fryer-cheeseburger-spring-rolls"
 }

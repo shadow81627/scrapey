@@ -1,0 +1,66 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1",
+    "ratingValue": "5"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Sophia DeSantis"
+  },
+  "createdAt": "2022-12-02T02:11:28.602Z",
+  "datePublished": "2020-02-13T12:30:57+00:00",
+  "description": "This simple healthy guacamole recipe is the perfect dip for those times you need something fast. It pairs well with almost anything and is super delicious!",
+  "image": [
+    "https://www.veggiesdontbite.com/wp-content/uploads/2020/02/healthy-guacamole-recipe-16.jpg",
+    "https://www.veggiesdontbite.com/wp-content/uploads/2020/02/healthy-guacamole-recipe-16-500x500.jpg",
+    "https://www.veggiesdontbite.com/wp-content/uploads/2020/02/healthy-guacamole-recipe-16-500x375.jpg",
+    "https://www.veggiesdontbite.com/wp-content/uploads/2020/02/healthy-guacamole-recipe-16-480x270.jpg"
+  ],
+  "keywords": "quick guacamole, simple guacamole",
+  "name": "Simple Healthy Guacamole Recipe",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "193 kcal",
+    "carbohydrateContent": "10 g",
+    "fatContent": "18 g",
+    "fiberContent": "8 g",
+    "proteinContent": "2 g",
+    "saturatedFatContent": "3 g",
+    "servingSize": "1 serving",
+    "sodiumContent": "112 mg",
+    "sugarContent": "1 g"
+  },
+  "prepTime": "PT5M",
+  "recipeCategory": "Appetizer",
+  "recipeCuisine": "Mexican",
+  "recipeIngredient": [
+    "3 ripe avocados",
+    "1/4 teaspoon sea salt",
+    "1/8 teaspoon ground black pepper",
+    "1/2 teaspoon fresh lemon juice",
+    "cilantro garnish (, optional)"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Mash avocado in a bowl. I use a fork or whisk."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add salt, pepper and lemon juice. Mix well."
+    }
+  ],
+  "recipeYield": "5",
+  "sameAs": [
+    "https://veggiesdontbite.com/guacamole-simple-yet-delicious"
+  ],
+  "suitableForDiet": [
+    "https://schema.org/GlutenFreeDiet",
+    "https://schema.org/VeganDiet",
+    "https://schema.org/VegetarianDiet"
+  ],
+  "totalTime": "PT5M",
+  "updatedAt": "2022-12-02T02:11:28.601Z"
+}

@@ -1,0 +1,109 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "4",
+    "ratingValue": "5"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Yup, it's Vegan"
+  },
+  "cookTime": "PT35M",
+  "createdAt": "2022-12-02T03:27:11.542Z",
+  "datePublished": "2017-08-31T16:52:14+00:00",
+  "description": "Easy baked orange tofu! From the authors of Frugal Vegan: \"Nearly everyone can remember getting Chinese food and ordering orange chicken. Its fluorescent, unnatural, gooey appearance almost made it look extraterrestrial. The recipe below calls on some of the same flavors from your favorite Chinese dish.\"",
+  "image": [
+    "https://yupitsvegan.com/wp-content/uploads/2017/08/orange-tofu-baked-vegan-square-1.jpg"
+  ],
+  "keywords": "orange tofu",
+  "mentions": [
+    {
+      "@id": "https://yupitsvegan.com/tag/citrus/#id",
+      "@type": "http://schema.org/Thing",
+      "description": "Citrus is a genus of flowering trees and shrubs in the rue family, Rutaceae. Plants in the genus produce citrus fruits, including important crops like oranges, lemons, grapefruit, and limes. The most recent research indicates an origin in Australia, New Caledonia and New Guinea. Some researchers believe that the origin is in the part of...",
+      "name": "citrus fruit",
+      "sameAs": [
+        "http://es.dbpedia.org/resource/Citrus",
+        "http://el.dbpedia.org/resource/Κίτρος",
+        "http://id.dbpedia.org/resource/Jeruk",
+        "http://d-nb.info/gnd/4139287-5",
+        "http://purl.obolibrary.org/obo/FOODON_03305742",
+        "http://www.wikidata.org/entity/Q81513",
+        "http://pt.dbpedia.org/resource/Citrus",
+        "https://en.wikipedia.org/wiki/Citrus",
+        "http://wikidata.dbpedia.org/resource/Q81513",
+        "http://de.dbpedia.org/resource/Zitruspflanzen",
+        "http://nl.dbpedia.org/resource/Citrusvrucht",
+        "http://rdf.freebase.com/ns/m.0dqb5",
+        "http://dbpedia.org/resource/Citrus",
+        "http://ja.dbpedia.org/resource/ミカン属",
+        "http://eu.dbpedia.org/resource/Garrazki",
+        "http://cs.dbpedia.org/resource/Citrus",
+        "http://it.dbpedia.org/resource/Citrus",
+        "http://pl.dbpedia.org/resource/Cytrus",
+        "http://ko.dbpedia.org/resource/귤속",
+        "http://fr.dbpedia.org/resource/Citrus",
+        "https://knowledge.cafemedia.com/food/entity/citrus_juice"
+      ]
+    }
+  ],
+  "name": "Orange Tofu",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "137 kcal",
+    "carbohydrateContent": "10 g",
+    "fatContent": "5 g",
+    "fiberContent": "1 g",
+    "proteinContent": "12 g",
+    "saturatedFatContent": "1 g",
+    "servingSize": "1 fourth recipe",
+    "sodiumContent": "472 mg",
+    "sugarContent": "5 g",
+    "unsaturatedFatContent": "4 g"
+  },
+  "prepTime": "PT10M",
+  "recipeCategory": "dinner",
+  "recipeCuisine": "gluten-free",
+  "recipeIngredient": [
+    "1 14-oz. package extra-firm tofu (400g)",
+    "2 and 1/2 tbsp low-sodium soy sauce or tamari (divided)",
+    "1 tbsp rice vinegar",
+    "1/4 tsp red pepper flakes",
+    "1 clove garlic (grated (or use 1/8 tsp garlic powder)",
+    "1/2 inch fresh ginger (grated (or use 1/4 tsp ground ginger)",
+    "1/2 cup freshly-squeezed orange juice",
+    "1 tsp agave nectar (or use brown rice syrup or maple syrup)",
+    "1 tsp cornstarch",
+    "2 tsp cold water",
+    "chopped green onions or scallions (optional, for serving)"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Drain the tofu and press it by either using a tofu press, or wrapping it in a clean towel and placing a heavy object on top of it. Let the tofu drain for 15 minutes."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Preheat the oven to 400 degrees Fahrenheit (204 Celsius). Line a baking sheet with parchment paper or a Silpat. Cut the pressed tofu into cubes, toss them with 1 tablespoon of the soy sauce, and arrange them evenly on the baking sheet. Bake for 30 minutes, flipping each piece halfway through."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Meanwhile, make your orange glaze by combining the remaining 1 and 1/2 tbsp soy sauce in a saucepan with the rice vinegar, red pepper flakes, grated garlic and ginger, orange juice, and agave nectar. Heat over medium-low until the mixture reaches a gentle simmer."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Whisk together the cornstarch and cold water until smooth, then add the cornstarch mixture to the saucepan. Continue to stir over medium-low heat until the glaze thickens, 3 to 5 minutes. Turn off the heat until the tofu is done cooking."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Return the heat to medium-low and remove the tofu from the oven. Add the tofu cubes to the pan and fold to coat the tofu with the sauce. Serve immediately, garnished with scallions if desired; and accompanied by rice and vegetables."
+    }
+  ],
+  "recipeYield": "4",
+  "sameAs": [
+    "https://yupitsvegan.com/orange-tofu"
+  ],
+  "totalTime": "PT60M",
+  "updatedAt": "2022-12-02T03:27:11.542Z"
+}

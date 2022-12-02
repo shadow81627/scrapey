@@ -1,0 +1,82 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "2",
+    "ratingValue": "5"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Sophia DeSantis"
+  },
+  "cookTime": "PT30M",
+  "createdAt": "2022-12-02T02:20:34.487Z",
+  "datePublished": "2022-01-06T10:00:00+00:00",
+  "description": "Learning how to cook rice perfectly and in many ways takes trial and error. But with this guide, you&#039;ll have it right every time!",
+  "image": [
+    "https://www.veggiesdontbite.com/wp-content/uploads/2020/07/how-to-cook-rice-perfect-32.jpg",
+    "https://www.veggiesdontbite.com/wp-content/uploads/2020/07/how-to-cook-rice-perfect-32-500x500.jpg",
+    "https://www.veggiesdontbite.com/wp-content/uploads/2020/07/how-to-cook-rice-perfect-32-500x375.jpg",
+    "https://www.veggiesdontbite.com/wp-content/uploads/2020/07/how-to-cook-rice-perfect-32-480x270.jpg"
+  ],
+  "keywords": "easy rice, stove top rice",
+  "name": "How to Cook Rice (Stove, IP and Slow Cooker)",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "176 kcal",
+    "carbohydrateContent": "38 g",
+    "cholesterolContent": "1 mg",
+    "fatContent": "1 g",
+    "fiberContent": "1 g",
+    "proteinContent": "3 g",
+    "saturatedFatContent": "1 g",
+    "servingSize": "1 serving",
+    "sodiumContent": "332 mg",
+    "sugarContent": "1 g",
+    "transFatContent": "1 g",
+    "unsaturatedFatContent": "2 g"
+  },
+  "prepTime": "PT2M",
+  "recipeCategory": "Main Course",
+  "recipeCuisine": "American",
+  "recipeIngredient": [
+    "1 cup uncooked rice (, rinsed)",
+    "1 1/2-2 cups veggie broth (, or water (see note)",
+    "1/2 teaspoon sea salt",
+    "1-1 1/4 cup veggie broth (, or water (see note)",
+    "1 1/4 - 1 1/2 cups veggie broth (, or water (see note)"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Mix your rice, broth/water and salt (and any other seasonings you add) in a pot."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Bring it to a boil. About 4-5 minutes."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Cover and reduce to a low simmer for 25 minutes if cooking long grain rice and about 30-35 minutes for short grain."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Turn off the heat and let it sit for 5 more minutes."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Fluff with a fork and serve!"
+    }
+  ],
+  "recipeYield": "4",
+  "sameAs": [
+    "https://veggiesdontbite.com/how-to-cook-perfect-rice-and-recipes"
+  ],
+  "suitableForDiet": [
+    "https://schema.org/GlutenFreeDiet",
+    "https://schema.org/VeganDiet",
+    "https://schema.org/VegetarianDiet"
+  ],
+  "totalTime": "PT27M",
+  "updatedAt": "2022-12-02T02:20:34.486Z"
+}

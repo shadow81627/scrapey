@@ -1,0 +1,93 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "5",
+    "reviewCount": "2"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "She Likes Food"
+  },
+  "cookingMethod": "Stovetop",
+  "cookTime": "PT10M",
+  "createdAt": "2022-12-02T01:58:01.860Z",
+  "datePublished": "2020-06-21",
+  "description": "These Guacamole Tostadas are made with delicious black bean tortillas and are perfect for lunch or dinner!",
+  "image": [
+    "https://www.shelikesfood.com/wp-content/uploads/2020/06/Guacamole-Tostadas-6870-225x225.jpg",
+    "https://www.shelikesfood.com/wp-content/uploads/2020/06/Guacamole-Tostadas-6870-260x195.jpg",
+    "https://www.shelikesfood.com/wp-content/uploads/2020/06/Guacamole-Tostadas-6870-320x180.jpg",
+    "https://www.shelikesfood.com/wp-content/uploads/2020/06/Guacamole-Tostadas-6870.jpg"
+  ],
+  "keywords": "Guacamole Tostadas",
+  "name": "Guacamole Tostadas with Black Bean Tortillas",
+  "nutrition": {
+    "@type": "nutritionInformation",
+    "calories": "114 calories",
+    "carbohydrateContent": "18.8 g",
+    "cholesterolContent": "0 mg",
+    "fatContent": "3.5 g",
+    "fiberContent": "2.7 g",
+    "proteinContent": "2.3 g",
+    "saturatedFatContent": "0.5 g",
+    "servingSize": "1 Tortilla",
+    "sodiumContent": "409.1 mg",
+    "sugarContent": "0.1 g",
+    "transFatContent": "0 g"
+  },
+  "prepTime": "PT15M",
+  "recipeCategory": "Vegetarian",
+  "recipeCuisine": "Mexican",
+  "recipeIngredient": [
+    "1 cup self rising flour",
+    "1 cup refried black beans, or pinto",
+    "2-3 tablespoons water",
+    "1/2 teaspoon ground cumin",
+    "1/2 teaspoon paprika",
+    "1/2 teaspoon garlic powder",
+    "1/4 teaspoon salt",
+    "Olive oil",
+    "Guacamole, homemade or store-bought",
+    "Optional toppings: cheese, pickled onions, jalapeños, lettuce, tomato, cilantro, salsa, hot sauce"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Add the flour and spices to a medium sized bowl and mix. Next, add the refried beans and 2-3 tablespoons water. The amount of water will depend on how watery or dry your beans are. Use a fork to start mixing the beans into the flour and then use your hands to knead the dough and form it into a ball."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Heat a pan over medium heat and add a few teaspoons of olive oil. Pinch off a little bit of the dough and form it into a ball. Place the ball between two pieces of parchment paper and press down with a large glass until you get a circle that is about 1/4 inch thick."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Place the tortilla into the hot pan and cook a few minutes each side, until browned. Remove from the skillet and let cool for a few minutes."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Top with a big spoonful of guacamole, spread over the tortilla and then top with your favorite toppings. Enjoy!"
+    }
+  ],
+  "recipeYield": "6",
+  "sameAs": [
+    "https://shelikesfood.com/guacamole-tostadas-with-black-bean-tortillas"
+  ],
+  "suitableForDiet": "VegetarianDiet",
+  "totalTime": "PT25M",
+  "updatedAt": "2022-12-02T01:58:01.859Z",
+  "url": "https://www.shelikesfood.com/guacamole-tostadas-with-black-bean-tortillas/",
+  "video": {
+    "@context": "http://schema.org",
+    "@type": "VideoObject",
+    "contentUrl": "https://mediavine-res.cloudinary.com/video/upload/t_original/v1597286527/k098hykp3wkzemvgjyto.mp4",
+    "description": "These Guacamole Tostadas are made with an easy and flavorful black bean tortilla!",
+    "duration": "PT1M",
+    "embedUrl": "https://video.mediavine.com/videos/k098hykp3wkzemvgjyto.js",
+    "name": "Guacamole Tostadas with Black Bean Tortillas",
+    "thumbnailUrl": [
+      "https://mediavine-res.cloudinary.com/video/upload/s--VrE5DedB--/c_limit,f_auto,fl_lossy,h_1080,q_auto,w_1920/v1597286527/k098hykp3wkzemvgjyto.jpg"
+    ],
+    "uploadDate": "2020-08-13"
+  }
+}
