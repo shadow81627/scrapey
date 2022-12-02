@@ -28,6 +28,10 @@ export default async function getHtml({ url }: getHtmlArgs): Promise<string> {
     waitUntil: 'networkidle0',
     defaultViewport: null,
     // proxy: { server: 'http://localhost:11111' },
+    args: [
+      '--hide-scrollbars',
+      '--mute-audio',
+      ]
   };
   const timeout = 120000; // timeout in milliseconds.
   const waitForTimeout = 15000;
@@ -42,7 +46,7 @@ export default async function getHtml({ url }: getHtmlArgs): Promise<string> {
     );
     await context.addCookies(deserializedCookies);
 
-    await page.route('**/*.{png,jpg,jpeg,mpg,mp4}', (route) => route.abort());
+    await page.route('**/*.{png,jpg,jpeg,mpg,mp4,mp3}', (route) => route.abort());
     await page.route('**/*', (route) => {
       return BLOCK_RESOURCE_TYPES.includes(route.request().resourceType())
         ? route.abort()
