@@ -1,0 +1,88 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "7",
+    "ratingValue": "5"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Sam Turnbull • It Doesn't Taste Like Chicken"
+  },
+  "cookTime": "PT30M",
+  "createdAt": "2022-12-03T04:32:56.501Z",
+  "datePublished": "2017-03-12T10:35:14+00:00",
+  "description": "It's mouth-explodingly flavourful, perfectly spiced, with a fresh squeeze of lime, and baking the tofu slowly gives it this amazing sink your teeth into chewy texture.&nbsp;",
+  "image": [
+    "https://itdoesnttastelikechicken.com/wp-content/uploads/2017/03/4-Ingredient-Jerk-Tofu-vegan-recipe-delicious-sauce-easy-chewy-baked-vegetarian-Jamaican.jpg",
+    "https://itdoesnttastelikechicken.com/wp-content/uploads/2017/03/4-Ingredient-Jerk-Tofu-vegan-recipe-delicious-sauce-easy-chewy-baked-vegetarian-Jamaican-500x500.jpg",
+    "https://itdoesnttastelikechicken.com/wp-content/uploads/2017/03/4-Ingredient-Jerk-Tofu-vegan-recipe-delicious-sauce-easy-chewy-baked-vegetarian-Jamaican-500x375.jpg",
+    "https://itdoesnttastelikechicken.com/wp-content/uploads/2017/03/4-Ingredient-Jerk-Tofu-vegan-recipe-delicious-sauce-easy-chewy-baked-vegetarian-Jamaican-480x270.jpg"
+  ],
+  "mentions": [
+    {
+      "@id": "https://itdoesnttastelikechicken.com/tag/tofu/#id",
+      "@type": "http://schema.org/Thing",
+      "description": "Tofu, also known as bean curd, is a food made by coagulating soy milk and then pressing the resulting curds into soft white blocks. It is a component in East Asian and Southeast Asian cuisines. Tofu can be soft, firm, or extra firm. Tofu has a subtle flavor and can be used in savory and...",
+      "name": "bean curd",
+      "sameAs": [
+        "http://el.dbpedia.org/resource/Τόφου",
+        "http://es.dbpedia.org/resource/Tofu",
+        "http://dbpedia.org/resource/Tofu",
+        "http://id.dbpedia.org/resource/Tahu",
+        "http://www.wikidata.org/entity/Q177378",
+        "http://rdf.freebase.com/ns/m.07s28",
+        "http://purl.obolibrary.org/obo/FOODON_03301839",
+        "http://pl.dbpedia.org/resource/Tofu",
+        "http://wikidata.dbpedia.org/resource/Q177378",
+        "http://fr.dbpedia.org/resource/Tofu",
+        "http://ko.dbpedia.org/resource/두부",
+        "http://d-nb.info/gnd/4060337-4",
+        "https://en.wikipedia.org/wiki/Tofu",
+        "http://cs.dbpedia.org/resource/Tofu",
+        "http://nl.dbpedia.org/resource/Tofoe",
+        "http://de.dbpedia.org/resource/Tofu",
+        "http://ja.dbpedia.org/resource/豆腐",
+        "http://it.dbpedia.org/resource/Tōfu",
+        "http://eu.dbpedia.org/resource/Tofu",
+        "http://pt.dbpedia.org/resource/Tofu",
+        "https://knowledge.cafemedia.com/food/entity/bean_curd"
+      ]
+    }
+  ],
+  "name": "4 Ingredient Jerk Tofu",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "119 kcal",
+    "servingSize": "1 serving"
+  },
+  "prepTime": "PT30M",
+  "recipeCategory": "Main Course",
+  "recipeCuisine": "Jamaican",
+  "recipeIngredient": [
+    "1 block (350g) extra-firm tofu, (pressed for 15-30 minutes, and cut into 1\" cubes.)",
+    "1/4 cup jerk marinade (the saucy kind), (plus more for dipping)",
+    "Handful of cilantro, (chopped)",
+    "Half a lime, (cut into wedges)"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Preheat oven to 325F (170C). Lightly grease a baking sheet or line it with parchment paper."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Toss the pressed tofu with the marinade to coat. Spread on the baking sheet. Bake for 45 minutes to an hour, tossing every now and then. 45 minutes will get you soft-chewy tofu, but for extra-chewy (how I like it), keep it in there for the full hour. Some of the tofu pieces might puff up, this is a sign of good things happening in the oven."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Once baked, brush on a little more of the marinade, or alternatively, serve it on the side as dipping sauce. Sprinkle with chopped cilantro and a squeeze of lime. Perfect served with beans & rice and coleslaw."
+    }
+  ],
+  "recipeYield": "4",
+  "sameAs": [
+    "https://itdoesnttastelikechicken.com/2017/03/12/4-ingredient-jerk-tofu"
+  ],
+  "totalTime": "PT60M",
+  "updatedAt": "2022-12-03T04:32:56.500Z"
+}

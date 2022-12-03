@@ -1,0 +1,66 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1",
+    "ratingValue": "5"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Oh My Veggies"
+  },
+  "cookTime": "PT20M",
+  "createdAt": "2022-12-03T05:10:48.204Z",
+  "datePublished": "2018-12-07T06:00:15+00:00",
+  "description": "An easy side dish that combines broccoli with tart Meyer lemon slices and garlic.",
+  "image": [
+    "https://ohmyveggies.com/wp-content/uploads/2013/12/roasted_broccoli_with_meyer_lemon_and_garlic_recipe.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2013/12/roasted_broccoli_with_meyer_lemon_and_garlic_recipe-500x400.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2013/12/roasted_broccoli_with_meyer_lemon_and_garlic_recipe-500x375.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2013/12/roasted_broccoli_with_meyer_lemon_and_garlic_recipe-480x270.jpg"
+  ],
+  "keywords": "Broccoli side dish, roasted broccoli, Roasted Broccoli with Meyer Lemon and Garlic",
+  "name": "Roasted Broccoli with Meyer Lemon and Garlic",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "104 kcal",
+    "carbohydrateContent": "8 g",
+    "fatContent": "7 g",
+    "fiberContent": "3 g",
+    "proteinContent": "3 g",
+    "saturatedFatContent": "1 g",
+    "servingSize": "1 serving",
+    "sodiumContent": "38 mg",
+    "sugarContent": "2 g",
+    "unsaturatedFatContent": "6 g"
+  },
+  "prepTime": "PT5M",
+  "recipeCategory": "Side Dish",
+  "recipeCuisine": "American",
+  "recipeIngredient": [
+    "1 pound broccoli crowns (broken into florets)",
+    "1 Meyer lemon",
+    "3 cloves garlic (sliced)",
+    "2 tablespoons olive oil",
+    "Coarsely ground salt and pepper to taste"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Preheat oven to 400oF."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Toss all of the ingredients in a bowl. Transfer to a baking sheet that's been sprayed with additional oil or lined with parchment paper. Roast for 15-20 minutes, stirring after 10 minutes, until the broccoli is tender and just beginning to brown."
+    }
+  ],
+  "recipeYield": "4",
+  "sameAs": [
+    "https://ohmyveggies.com/recipe-roasted-broccoli-with-meyer-lemon-and-garlic"
+  ],
+  "suitableForDiet": [
+    "https://schema.org/VegetarianDiet"
+  ],
+  "totalTime": "PT25M",
+  "updatedAt": "2022-12-03T05:10:48.203Z"
+}

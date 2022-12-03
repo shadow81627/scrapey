@@ -1,72 +1,82 @@
 {
   "@type": "Recipe",
+  "author": {
+    "@type": "Person",
+    "name": "Fresh Ideas"
+  },
   "cookTime": "PT35M",
   "createdAt": "2022-11-23T02:35:54.000Z",
-  "datePublished": "2021-03-10",
+  "datePublished": "2022-09-26",
   "description": "Try our easy to follow Choc Hazelnut Sponge recipe. Absolutely delicious with the best ingredients from Woolworths.",
-  "image": {
-    "@type": "ImageObject",
-    "height": 1300,
-    "mime": "image/png",
-    "url": "https://foodhub.scene7.com/is/image/woolworthsltdprod/1304_chochazelnutsponge?wid=1300&hei=1300&fmt=png-alpha",
-    "width": 1300
-  },
-  "keywords": "Choc Hazelnut Sponge",
+  "image": [
+    "https://foodhub.scene7.com/is/image/woolworthsltdprod/1304_chochazelnutsponge:Square-1300x1300"
+  ],
+  "keywords": "Sponge cake,Pescatarian,High protein,Low salt,Vegetarian,Chocolate",
   "name": "Choc Hazelnut Sponge Recipe | Woolworths",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "984 calories",
+    "carbohydrateContent": "99.4 g",
+    "fatContent": "59.0 g",
+    "proteinContent": "12.9 g",
+    "saturatedFatContent": "35.8 g",
+    "sodiumContent": "206 millig",
+    "sugarContent": "81.1 g"
+  },
   "prepTime": "PT50M",
-  "recipeCategory": "desserts",
-  "recipeCuisine": "european",
+  "recipeCategory": "Desserts",
+  "recipeCuisine": "Italian",
   "recipeId": "1200",
   "recipeIngredient": [
     "1.5 cup plain flour",
-    "400 ml pouring cream",
-    "180 g unsalted butter",
+    "400ml pouring cream",
+    "180g unsalted butter",
     "1 tsp vanilla extract",
-    "400 g dark chocolate",
+    "400g dark chocolate",
     "0.75 tsp baking soda",
     "0.75 cup buttermilk",
-    "4 eggs",
+    "4 eggs, separated",
     "2 cup caster sugar",
     "0.5 cup hazelnut meal"
   ],
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Trim tops of cakes to level, if necessary. Whip remaining cream. Place one cake layer onto a cake stand and spread with half of the chocolate ganache. Top with whipped cream. Spread remaining ganache over second cake layer and position on top of cake base. Top with chocolate curls. Serve. Note: Stir the butter and sugar until they are light and fluffy. The butter is \"creamed\" when it has almost doubled in mass and it has lightened to a yellowish-white colour."
+      "HowToTip": {},
+      "text": "Preheat oven to 180°C. Grease 2x20cm cake tins and line bases with baking paper."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Trim tops of cakes to level, if necessary. Whip remaining cream. Place one cake layer onto a cake stand and spread with half of the chocolate ganache. Top with whipped cream. Spread remaining ganache over second cake layer and position on top of cake base. Top with chocolate curls. Serve. Note: Stir the butter and sugar until they are light and fluffy. The butter is \"creamed\" when it has almost doubled in mass and it has lightened to a yellowish-white colour."
+      "HowToTip": {},
+      "text": "Sift flour and baking soda together. Grate 100g of the chocolate info the flour mixture. Stir in hazelnut meal until combined."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Trim tops of cakes to level, if necessary. Whip remaining cream. Place one cake layer onto a cake stand and spread with half of the chocolate ganache. Top with whipped cream. Spread remaining ganache over second cake layer and position on top of cake base. Top with chocolate curls. Serve. Note: Stir the butter and sugar until they are light and fluffy. The butter is \"creamed\" when it has almost doubled in mass and it has lightened to a yellowish-white colour."
+      "HowToTip": {},
+      "text": "Cream butter, half of the sugar and vanilla extract in an electric mixer for 5 minutes until very pale and fluffy. Add egg yolks, one at a time, beating well and scraping sides of bowl after each addition. Fold in flour mixture, alternately with buttermilk. Transfer to a large bowl."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Trim tops of cakes to level, if necessary. Whip remaining cream. Place one cake layer onto a cake stand and spread with half of the chocolate ganache. Top with whipped cream. Spread remaining ganache over second cake layer and position on top of cake base. Top with chocolate curls. Serve. Note: Stir the butter and sugar until they are light and fluffy. The butter is \"creamed\" when it has almost doubled in mass and it has lightened to a yellowish-white colour."
+      "HowToTip": {},
+      "text": "Clean and dry mixer bowl and beaters. Beat egg whites into cake batter. Divide mixture evenly between prepare cake tins. Bake for 30-35 mins or until cake has shrunk slightly from sides of tin and top of cake springs back when gently pressed. Cool for 20 minutes in pan, then turn out onto a wire rack to cool completely."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Trim tops of cakes to level, if necessary. Whip remaining cream. Place one cake layer onto a cake stand and spread with half of the chocolate ganache. Top with whipped cream. Spread remaining ganache over second cake layer and position on top of cake base. Top with chocolate curls. Serve. Note: Stir the butter and sugar until they are light and fluffy. The butter is \"creamed\" when it has almost doubled in mass and it has lightened to a yellowish-white colour."
+      "HowToTip": {},
+      "text": "Meanwhile, break the remaining chocolate into pieces and place in a small saucepan with 150mls of the cream. Stir over low heat until ganache is melted and smooth. Cool completely."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
+      "HowToTip": {},
       "text": "Trim tops of cakes to level, if necessary. Whip remaining cream. Place one cake layer onto a cake stand and spread with half of the chocolate ganache. Top with whipped cream. Spread remaining ganache over second cake layer and position on top of cake base. Top with chocolate curls. Serve. Note: Stir the butter and sugar until they are light and fluffy. The butter is \"creamed\" when it has almost doubled in mass and it has lightened to a yellowish-white colour."
     }
   ],
   "recipeNameId": "choc-hazelnut-sponge",
   "recipeYield": "8",
   "sameAs": [
-    "https://woolworths.com.au/shop/find-recipes/choc-sponge"
+    "https://woolworths.com.au/shop/recipes/choc-hazelnut-sponge"
   ],
   "totalTime": "PT85M",
-  "updatedAt": "2022-11-25T09:18:54.784Z",
+  "updatedAt": "2022-12-03T04:47:55.291Z",
   "url": "https://www.woolworths.com.au/shop/recipes/choc-hazelnut-sponge"
 }

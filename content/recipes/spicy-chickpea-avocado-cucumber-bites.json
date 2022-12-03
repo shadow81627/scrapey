@@ -1,0 +1,92 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "2",
+    "ratingValue": "5"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Yup, it's Vegan"
+  },
+  "cookTime": "PT10M",
+  "createdAt": "2022-12-02T14:02:27.856Z",
+  "datePublished": "2017-07-06T10:22:16+00:00",
+  "description": "Easy and refreshing spicy chickpea avocado cucumber bites. Garnish with fresh herbs and chipotle crema.&nbsp;",
+  "image": [
+    "https://yupitsvegan.com/wp-content/uploads/2017/07/spicy-chickpea-avocado-cucumber-bites-parsley-tomato-vegan-square.jpg"
+  ],
+  "keywords": "avocado cucumber bites, spicy chickpea guacamole bites",
+  "mentions": [
+    {
+      "@id": "https://yupitsvegan.com/tag/legumes/#id",
+      "@type": "http://schema.org/Thing",
+      "description": "A legume (/ˈlɛɡjuːm/ or /ˌləˈɡjuːm/) is a plant or fruit/seed in the family Fabaceae (or Leguminosae). Legumes are grown agriculturally, primarily for their grain seed called pulse, for livestock forage and silage, and as soil-enhancing green manure. Well-known legumes include alfalfa, clover, peas, beans, lentils, lupin bean, mesquite, carob, soybeans, peanuts, and tamarind. Legumes are...",
+      "name": "legume",
+      "sameAs": [
+        "http://el.dbpedia.org/resource/Όσπρια",
+        "http://cs.dbpedia.org/resource/Luštěnina",
+        "https://en.wikipedia.org/wiki/Legume",
+        "http://rdf.freebase.com/ns/m.01sfdb",
+        "http://wikidata.dbpedia.org/resource/Q145909",
+        "http://pt.dbpedia.org/resource/Legume",
+        "http://www.wikidata.org/entity/Q145909",
+        "http://ja.dbpedia.org/resource/豆果",
+        "http://fr.dbpedia.org/resource/Gousse",
+        "http://eu.dbpedia.org/resource/Lekale",
+        "http://dbpedia.org/resource/Legume",
+        "http://es.dbpedia.org/resource/Legumbre",
+        "http://yago-knowledge.org/resource/Pulse_(legume)",
+        "http://pl.dbpedia.org/resource/Rośliny_strączkowe",
+        "http://purl.obolibrary.org/obo/FOODON_00001264",
+        "http://nl.dbpedia.org/resource/Peul_(vrucht)",
+        "http://de.dbpedia.org/resource/Hülsenfrucht",
+        "http://it.dbpedia.org/resource/Baccello",
+        "http://d-nb.info/gnd/4020803-5",
+        "http://rdf.freebase.com/ns/m.0bqsk",
+        "https://knowledge.cafemedia.com/food/entity/legume"
+      ]
+    }
+  ],
+  "name": "Spicy Chickpea Avocado Cucumber Bites",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "110 kcal",
+    "carbohydrateContent": "5 g",
+    "fatContent": "10 g",
+    "proteinContent": "1 g",
+    "saturatedFatContent": "1 g",
+    "servingSize": "1 fourth recipe",
+    "sodiumContent": "37 mg",
+    "sugarContent": "1 g",
+    "unsaturatedFatContent": "9 g"
+  },
+  "prepTime": "PT15M",
+  "recipeCategory": "Appetizer",
+  "recipeCuisine": "American",
+  "recipeIngredient": [
+    "1 avocado (mashed well (or substitute about 4 oz. prepared guacamole)",
+    "1 tsp lemon or lime juice (omit if using guacamole)",
+    "salt and pepper (to taste (omit if using guacamole)",
+    "2 cucumbers (cut into thick slices)",
+    "1/2 recipe blackened chickpeas (or other spicy roasted or fried chickpeas of choice)",
+    "2 tbsp chipotle crema (optional) (or vegan chipotle mayo)",
+    "3 tbsp chopped fresh parsley or other herbs (for garnish)"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Stir the lemon or lime juice into the avocado, and season the avocado mash to taste with salt and pepper."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Onto each cucumber slice, spread a small amount of avocado mash, and press a small handful of spicy chickpeas into the avocado. If using, drizzle lightly with chipotle crema or vegan chipotle mayo. Garnish with fresh parsley."
+    }
+  ],
+  "recipeYield": "4",
+  "sameAs": [
+    "https://yupitsvegan.com/chickpea-avocado-cucumber-bites"
+  ],
+  "totalTime": "PT25M",
+  "updatedAt": "2022-12-02T14:02:27.855Z"
+}

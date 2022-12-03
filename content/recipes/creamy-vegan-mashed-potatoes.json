@@ -1,96 +1,66 @@
 {
   "@type": "Recipe",
-  "aggregateRating": {
-    "@type": "AggregateRating",
-    "ratingCount": "2",
-    "ratingValue": "5"
-  },
   "author": {
     "@type": "Person",
-    "name": "Alissa Saenz"
+    "name": "She Likes Food"
   },
-  "cookTime": "PT15M",
+  "cookingMethod": "Stove Top",
+  "cookTime": "PT25M",
   "createdAt": "2022-11-29T05:36:15.000Z",
-  "datePublished": "2021-10-08T10:11:07+00:00",
-  "description": "These easy vegan mashed potatoes are super creamy, perfectly fluffy, and absolutely delicious! Just like mom used to make...but they&#39;re totally dairy-free!",
-  "image": {
-    "@type": "ImageObject",
-    "height": 1200,
-    "mime": "image/jpeg",
-    "url": "https://www.connoisseurusveg.com/wp-content/uploads/2021/09/vegan-mashed-potatoes-sq-1-of-1.jpg",
-    "width": 1200
-  },
-  "keywords": "vegan side dishes",
+  "datePublished": "2020-11-17",
+  "description": "These Creamy Vegan Mashed Potatoes are silky smooth and classically flavored!  Perfect for your Thanksgiving table!",
+  "image": [
+    "https://www.shelikesfood.com/wp-content/uploads/2020/11/Creamy-Vegan-Mashed-Potatoes-9474-225x225.jpg",
+    "https://www.shelikesfood.com/wp-content/uploads/2020/11/Creamy-Vegan-Mashed-Potatoes-9474-260x195.jpg",
+    "https://www.shelikesfood.com/wp-content/uploads/2020/11/Creamy-Vegan-Mashed-Potatoes-9474-320x180.jpg",
+    "https://www.shelikesfood.com/wp-content/uploads/2020/11/Creamy-Vegan-Mashed-Potatoes-9474.jpg"
+  ],
+  "keywords": "Creamy Vegan Mashed Potatoes",
   "name": "Creamy Vegan Mashed Potatoes",
   "nutrition": {
-    "@type": "NutritionInformation",
-    "calories": "288 kcal",
-    "carbohydrateContent": "36.8 g",
-    "fatContent": "14.4 g",
-    "fiberContent": "5 g",
-    "proteinContent": "4.4 g",
-    "saturatedFatContent": "7.2 g",
-    "servingSize": "1 serving",
-    "sodiumContent": "518 mg",
-    "sugarContent": "3.3 g"
+    "@type": "nutritionInformation",
+    "calories": "163 calories",
+    "carbohydrateContent": "24 g",
+    "cholesterolContent": "0 mg",
+    "fatContent": "6.2 g",
+    "fiberContent": "3.7 g",
+    "proteinContent": "3.2 g",
+    "saturatedFatContent": "0.8 g",
+    "servingSize": "1 scoop",
+    "sodiumContent": "164 mg",
+    "sugarContent": "1.8 g",
+    "transFatContent": "0 g"
   },
   "prepTime": "PT20M",
-  "recipeCategory": "Side Dish",
+  "recipeCategory": "Side",
   "recipeCuisine": "American",
   "recipeIngredient": [
-    "3 pounds russet potatoes, (peeled and cut into 1 to 2 inch pieces)",
-    "1/2 cup full-fat coconut milk",
-    "5 tablespoons vegan butter",
-    "1/2 cup unflavored and unsweetened non-dairy milk (such as almond, soy or cashew), or as needed)",
-    "1 teaspoon salt, (or to taste)",
-    "Black pepper, (to taste)"
+    "8-10 cups peeled diced potatoes, Yukon gold or russet work best",
+    "4 tablespoons vegan butter, I like soy free Earth Balance",
+    "1/3 cup plain, unsweetened almond milk",
+    "1/3 cup vegan mayonnaise",
+    "Salt, black pepper and granulated garlic, to taste"
   ],
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "text": "Place the potatoes into a colander and rinse them with cold water for about 30 seconds."
+      "text": "Place cubed potatoes into a large pot and cover with cold water. Add a big pinch of salt (optional) and bring to a boil. Boil potatoes until fork tender, 20-25 minutes. Drain potatoes and add them back into the pot."
     },
     {
       "@type": "HowToStep",
-      "text": "Place the potatoes into a large pot and cover them with cold water."
+      "text": "Add in the butter, milk and mayo and mash with a potato masher or whip with an electric hand mixer."
     },
     {
       "@type": "HowToStep",
-      "text": "Place the pot over high heat and bring the water to a boil. Lower the heat and allow the potatoes to boil until easily pierced with a fork, about 15 minutes. Don't overcook the potatoes."
-    },
-    {
-      "@type": "HowToStep",
-      "text": "While the potatoes cook, combine the coconut milk and butter in a small container. Warm it up in the microwave (or alternatively in a small pot on the stove), just until the butter melts."
-    },
-    {
-      "@type": "HowToStep",
-      "text": "Place the other non-dairy milk in a separate container and heat it until warm to the touch."
-    },
-    {
-      "@type": "HowToStep",
-      "text": "Once the potatoes are done boiling, drain them into a colander and rinse them with warm water for about 30 seconds."
-    },
-    {
-      "@type": "HowToStep",
-      "text": "Return the potatoes to the pot."
-    },
-    {
-      "@type": "HowToStep",
-      "text": "Use a potato masher to mash the potatoes just until fully broken up."
-    },
-    {
-      "@type": "HowToStep",
-      "text": "Pour in the coconut milk mixture and continue mashing. Slowly begin adding the other non-dairy milk, adding just as much as needed for the potatoes to reach your desired consistency."
-    },
-    {
-      "@type": "HowToStep",
-      "text": "Season the potatoes with salt and pepper to taste."
+      "text": "Season with salt, pepper and granulated garlic, to taste and serve immediately or keep warm until ready to serve! I like to garnish mine with some fresh herbs and a drizzle of melted butter."
     }
   ],
-  "recipeYield": "6",
+  "recipeYield": "8",
   "sameAs": [
-    "https://connoisseurusveg.com/vegan-mashed-potatoes"
+    "https://shelikesfood.com/creamy-vegan-mashed-potatoes"
   ],
-  "totalTime": "PT35M",
-  "updatedAt": "2022-11-29T03:16:16.205Z"
+  "suitableForDiet": "VeganDiet",
+  "totalTime": "PT45M",
+  "updatedAt": "2022-12-02T13:53:11.079Z",
+  "url": "https://www.shelikesfood.com/creamy-vegan-mashed-potatoes/"
 }

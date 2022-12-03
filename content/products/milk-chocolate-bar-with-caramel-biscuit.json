@@ -1,0 +1,58 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Sugar, Flour (Sources Include Wheat), Glucose Syrup (Sources Include Wheat), Milk Solids, Vegetable Fat, Cocoa Butter, Cocoa Mass, Glucose, Cocoa Powder, Emulsifier (Soy Lecithin), Salt, Natural Flavour (Vanilla Extract)."
+    },
+    {
+      "name": "Contains",
+      "value": "Milk Chocolate 35%, Biscuit 33%, and Caramel 32%. Milk Chocolate contains a minimum of 25% Cocoa Solids and 22% Milk Solids."
+    },
+    {
+      "name": "Allergen",
+      "value": "Contains Soy, Contains Wheat, Contains Milk"
+    },
+    {
+      "name": "Size",
+      "value": "50g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$4.00 per 100G"
+    }
+  ],
+  "brand": "Twix",
+  "createdAt": "2022-12-02T09:23:30.735Z",
+  "description": "Twix Milk Chocolate Bar with Caramel Biscuit",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/6/0/2/6029901.jpg",
+  "name": "Milk Chocolate Bar with Caramel Biscuit",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2,
+    "lowPrice": 2,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-02T09:23:30.735Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "2.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/twix-chocolate-bar"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/twix-chocolate-bar"
+  ],
+  "sku": "6029901",
+  "updatedAt": "2022-12-02T09:23:30.735Z"
+}

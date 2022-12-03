@@ -1,0 +1,66 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Wheat flour, water and salt."
+    },
+    {
+      "name": "Allergen",
+      "value": "Contains Wheat"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "20.0"
+    },
+    {
+      "name": "Warning",
+      "value": "Contains wheat."
+    },
+    {
+      "name": "Size",
+      "value": "250g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.20 per 100G"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Made in China"
+    }
+  ],
+  "brand": "Mai Hong",
+  "createdAt": "2022-12-03T13:38:07.690Z",
+  "description": "Great for entertaining, Spring Roll Pastry for all purposes (also for samosas and peking duck).",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/9/7/5978334.jpg",
+  "name": "Frozen Spring Roll Pastry Sheets 20 pack",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3,
+    "lowPrice": 3,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-03T13:38:07.689Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "3.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/mai-hong-pastry-spring-roll-20-sheets"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/mai-hong-pastry-spring-roll-20-sheets"
+  ],
+  "sku": "5978334",
+  "updatedAt": "2022-12-03T13:38:07.689Z"
+}

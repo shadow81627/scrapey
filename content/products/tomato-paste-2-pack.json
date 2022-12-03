@@ -1,0 +1,54 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Concentrated tomato (99%), salt."
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "6.0"
+    },
+    {
+      "name": "Size",
+      "value": "280g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.25 per 100G"
+    }
+  ],
+  "brand": "Leggo's",
+  "createdAt": "2022-12-03T14:31:13.104Z",
+  "description": "Leggo's Tomato Paste 2 Pack",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/5/1/25180.jpg",
+  "name": "Tomato Paste 2 Pack",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3.5,
+    "lowPrice": 3.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-03T14:31:13.104Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "3.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/leggos-tomato-paste-25180p"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/leggos-tomato-paste-25180p"
+  ],
+  "sku": "25180",
+  "updatedAt": "2022-12-03T14:31:13.104Z"
+}

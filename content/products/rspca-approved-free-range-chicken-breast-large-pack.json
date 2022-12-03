@@ -1,0 +1,50 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Chicken Breast."
+    },
+    {
+      "name": "Size",
+      "value": "approx. 1.25kg"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$13.00 per 1Kg"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2022-12-03T04:04:42.150Z",
+  "description": "35 minutes / raised without antibiotics / free to roam",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/2/2/3227410.jpg",
+  "name": "RSPCA Approved Free Range Chicken Breast Large Pack",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 16.25,
+    "lowPrice": 16.25,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-03T04:04:42.150Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "16.25",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-rspca-free-range-chicken-breast-large-pack"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/coles-rspca-free-range-chicken-breast-large-pack"
+  ],
+  "sku": "3227410",
+  "updatedAt": "2022-12-03T04:04:42.150Z"
+}

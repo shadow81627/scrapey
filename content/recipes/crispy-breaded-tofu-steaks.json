@@ -1,0 +1,203 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "57",
+    "ratingValue": "4.86"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Sam Turnbull • It Doesn't Taste Like Chicken"
+  },
+  "cookTime": "PT10M",
+  "createdAt": "2022-12-02T15:01:57.900Z",
+  "datePublished": "2016-04-05T11:28:57+00:00",
+  "description": "Moist and tender tofu, zingy tomato marinade, with a crispy breadcrumb coating. A quick and easy recipe that is perfect for serving with potatoes and veg. Gluten free option.",
+  "image": [
+    "https://itdoesnttastelikechicken.com/wp-content/uploads/2016/04/Crispy-Breaded-Tofu-Steaks.jpg",
+    "https://itdoesnttastelikechicken.com/wp-content/uploads/2016/04/Crispy-Breaded-Tofu-Steaks-500x500.jpg",
+    "https://itdoesnttastelikechicken.com/wp-content/uploads/2016/04/Crispy-Breaded-Tofu-Steaks-500x375.jpg",
+    "https://itdoesnttastelikechicken.com/wp-content/uploads/2016/04/Crispy-Breaded-Tofu-Steaks-480x270.jpg"
+  ],
+  "mentions": [
+    {
+      "@id": "https://itdoesnttastelikechicken.com/tag/fried/#id",
+      "@type": "http://schema.org/Thing",
+      "description": "",
+      "name": "fried",
+      "sameAs": [
+        "http://pt.dbpedia.org/resource/Fried",
+        "http://de.dbpedia.org/resource/Fried",
+        "http://dbpedia.org/resource/Fried",
+        "http://www.wikidata.org/entity/Q415435",
+        "http://pl.dbpedia.org/resource/Fried",
+        "http://fr.dbpedia.org/resource/Fried_(homonymie)",
+        "http://wikidata.dbpedia.org/resource/Q415435",
+        "http://purl.obolibrary.org/obo/FOODON_03544033",
+        "https://en.wikipedia.org/wiki/Fried",
+        "https://knowledge.cafemedia.com/food/entity/fried"
+      ]
+    },
+    {
+      "@id": "https://itdoesnttastelikechicken.com/tag/garlic/#id",
+      "@type": "http://schema.org/Thing",
+      "description": "Allium sativum, commonly known as garlic, is a species in the onion genus, Allium. Its close relatives include the onion, shallot, leek, chive, and rakkyo. With a history of over 7,000 years of human consumption and use, garlic is native to central Asia, and has long been a staple in the Mediterranean region, as well...",
+      "name": "softneck garlic",
+      "sameAs": [
+        "http://www.wikidata.org/entity/Q23400",
+        "http://rdf.freebase.com/ns/m.0dbrl",
+        "http://es.dbpedia.org/resource/Allium_sativum",
+        "http://yago-knowledge.org/resource/Allium_sativum",
+        "http://cs.dbpedia.org/resource/Česnek_kuchyňský",
+        "http://id.dbpedia.org/resource/Bawang_putih",
+        "http://it.dbpedia.org/resource/Allium_sativum",
+        "http://wikidata.dbpedia.org/resource/Q23400",
+        "http://fr.dbpedia.org/resource/Ail_cultivé",
+        "http://ko.dbpedia.org/resource/마늘",
+        "http://nl.dbpedia.org/resource/Knoflook",
+        "http://pt.dbpedia.org/resource/Alho",
+        "http://d-nb.info/gnd/4031311-6",
+        "http://ja.dbpedia.org/resource/ニンニク",
+        "http://lod.geospecies.org/ses/Ktmfq",
+        "https://en.wikipedia.org/wiki/Garlic",
+        "http://el.dbpedia.org/resource/Σκόρδο",
+        "http://eu.dbpedia.org/resource/Baratxuri",
+        "http://dbpedia.org/resource/Garlic",
+        "http://purl.obolibrary.org/obo/FOODON_00001895",
+        "http://pl.dbpedia.org/resource/Czosnek_pospolity",
+        "http://eunis.eea.europa.eu/species/189214",
+        "http://de.dbpedia.org/resource/Knoblauch",
+        "https://knowledge.cafemedia.com/food/entity/garlic"
+      ]
+    },
+    {
+      "@id": "https://itdoesnttastelikechicken.com/tag/tofu/#id",
+      "@type": "http://schema.org/Thing",
+      "description": "Tofu, also known as bean curd, is a food made by coagulating soy milk and then pressing the resulting curds into soft white blocks. It is a component in East Asian and Southeast Asian cuisines. Tofu can be soft, firm, or extra firm. Tofu has a subtle flavor and can be used in savory and...",
+      "name": "bean curd",
+      "sameAs": [
+        "http://el.dbpedia.org/resource/Τόφου",
+        "http://es.dbpedia.org/resource/Tofu",
+        "http://dbpedia.org/resource/Tofu",
+        "http://id.dbpedia.org/resource/Tahu",
+        "http://www.wikidata.org/entity/Q177378",
+        "http://rdf.freebase.com/ns/m.07s28",
+        "http://purl.obolibrary.org/obo/FOODON_03301839",
+        "http://pl.dbpedia.org/resource/Tofu",
+        "http://wikidata.dbpedia.org/resource/Q177378",
+        "http://fr.dbpedia.org/resource/Tofu",
+        "http://ko.dbpedia.org/resource/두부",
+        "http://d-nb.info/gnd/4060337-4",
+        "https://en.wikipedia.org/wiki/Tofu",
+        "http://cs.dbpedia.org/resource/Tofu",
+        "http://nl.dbpedia.org/resource/Tofoe",
+        "http://de.dbpedia.org/resource/Tofu",
+        "http://ja.dbpedia.org/resource/豆腐",
+        "http://it.dbpedia.org/resource/Tōfu",
+        "http://eu.dbpedia.org/resource/Tofu",
+        "http://pt.dbpedia.org/resource/Tofu",
+        "https://knowledge.cafemedia.com/food/entity/bean_curd"
+      ]
+    },
+    {
+      "@id": "https://itdoesnttastelikechicken.com/tag/tomato/#id",
+      "@type": "http://schema.org/Thing",
+      "description": "The tomato (see ) is the edible, red fruit of Solanum lycopersicum, commonly known as a tomato plant, which belongs to the nightshade family, Solanaceae. The species originated in Central and South America. The Nahuatl (Aztec language) word tomatl gave rise to the Spanish word \"tomate\", from which the English word tomato originates.",
+      "name": "tomato",
+      "sameAs": [
+        "http://de.dbpedia.org/resource/Tomate",
+        "http://ja.dbpedia.org/resource/トマト",
+        "https://en.wikipedia.org/wiki/Tomato",
+        "http://eunis.eea.europa.eu/species/185044",
+        "http://d-nb.info/gnd/4060370-2",
+        "http://dbpedia.org/resource/Tomato",
+        "http://id.dbpedia.org/resource/Tomat",
+        "http://rdf.freebase.com/ns/m.07j87",
+        "http://cs.dbpedia.org/resource/Rajče_jedlé",
+        "http://pl.dbpedia.org/resource/Pomidor_zwyczajny",
+        "http://purl.obolibrary.org/obo/FOODON_03309573",
+        "http://ko.dbpedia.org/resource/토마토",
+        "http://www.wikidata.org/entity/Q23501",
+        "http://fr.dbpedia.org/resource/Tomate",
+        "http://lod.geospecies.org/ses/qXNFy",
+        "http://yago-knowledge.org/resource/Solanum_lycopersicum",
+        "http://es.dbpedia.org/resource/Solanum_lycopersicum",
+        "http://nl.dbpedia.org/resource/Tomaat",
+        "http://pt.dbpedia.org/resource/Tomate",
+        "http://wikidata.dbpedia.org/resource/Q23501",
+        "http://it.dbpedia.org/resource/Solanum_lycopersicum",
+        "http://el.dbpedia.org/resource/Τομάτα",
+        "https://knowledge.cafemedia.com/food/entity/green_tomato"
+      ]
+    }
+  ],
+  "name": "Crispy Breaded Tofu Steaks",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "503 kcal",
+    "carbohydrateContent": "30 g",
+    "fatContent": "31 g",
+    "fiberContent": "2 g",
+    "proteinContent": "32 g",
+    "saturatedFatContent": "4 g",
+    "servingSize": "1 serving (recipe makes 2)",
+    "sodiumContent": "837 mg",
+    "sugarContent": "11 g"
+  },
+  "prepTime": "PT15M",
+  "recipeCategory": "Main Course",
+  "recipeCuisine": "American",
+  "recipeIngredient": [
+    "1 block (350g) extra-firm tofu",
+    "4 cloves garlic",
+    "2 tablespoons tomato paste",
+    "1 tablespoon dijon mustard",
+    "1 tablespoon maple syrup",
+    "1 tablespoon soy sauce",
+    "1 tablespoon water",
+    "1/4 teaspoon black pepper",
+    "1/2 cup panko breadcrumbs, (plus more if needed *see notes (gluten-free breadcrumbs if preferred)",
+    "2 tablespoons olive oil (or enough to fry the tofu)",
+    "A side of your favourite BBQ sauce for dipping"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Drain the tofu, and cut into your steak sized pieces. I like cutting it into two large steaks by slicing the block it in half lengthwise, but you could cut it into more pieces for smaller crispier tofu."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Once cut, lay the tofu pieces on a clean dishtowel, and then wrap them up in the towel. Put a cutting board on top, and balance something heavy, such as a few cans on top of that. This is how you press the tofu to help release excess water. Let the tofu press for 10 to 30 minutes, the longer you press it, the drier and more firm the steaks will be."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "When you are ready to make your tofu steaks, mince the garlic cloves and add them to a large flat bowl that is big enough to fit one of your tofu steaks."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add the remaining sauce ingredients to the garlic bowl: the tomato paste, dijon mustard, maple syrup, soy sauce, water, and pepper, and mix together."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "In a separate dish that is also big enough to fit the tofu steak, add the breadcrumbs."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Dip the tofu steaks in the tomato paste mixture, and use a spoon or fork to help spread a thick layer of the sauce on the tofu. Now dip the sauced tofu steak into the breadcrumbs and use your hand to help pat the breadcrumbs onto the tofu. Repeat with remaining tofu pieces."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Heat the oil in a frying pan over medium heat. When hot, carefully fry the tofu pieces until they are golden brown on both sides, and heated through. About 3 to 6 minutes per side. The breading can be a little fragile and falls off easily, so I found the best technique was to use a large spatula (and not tongs) for flipping. Just be gentle when handling the tofu."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "For presentation, cut the tofu on an angle and serve with a side of your favourite BBQ sauce."
+    }
+  ],
+  "recipeYield": "2",
+  "sameAs": [
+    "https://itdoesnttastelikechicken.com/2016/04/05/crispy-breaded-tofu-steaks"
+  ],
+  "totalTime": "PT25M",
+  "updatedAt": "2022-12-02T15:01:57.897Z"
+}

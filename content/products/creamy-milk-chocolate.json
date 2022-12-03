@@ -1,0 +1,62 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "SUGAR, COCOA SOLIDS 33% (PURE COCOA BUTTER & COCOA MASS), NZ MILK POWDER, EMULSIFIER (SOY LECITHIN), VANILLA FLAVOUR]. *MINIMUM PERCENTAGE. MAY BE PRESENT: PEANUTS, TREE NUTS, GLUTEN."
+    },
+    {
+      "name": "Contains",
+      "value": "Milk, Soy"
+    },
+    {
+      "name": "Allergen",
+      "value": "May Be Present Tree Nuts, May Be Present Peanuts, Contains Soy, May Be Present Gluten, Contains Milk"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "10.0"
+    },
+    {
+      "name": "Size",
+      "value": "250g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$2.60 per 100G"
+    }
+  ],
+  "brand": "Whittaker's",
+  "createdAt": "2022-12-02T12:41:22.279Z",
+  "description": "Whittaker's Creamy Milk Chocolate",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/3/6/5365459.jpg",
+  "name": "Creamy Milk Chocolate",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 6.5,
+    "lowPrice": 6.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-02T12:41:22.278Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "6.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/whittakers-block-chocolate-milk"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/whittakers-block-chocolate-milk"
+  ],
+  "sku": "5365459",
+  "updatedAt": "2022-12-02T12:41:22.278Z"
+}

@@ -1,0 +1,66 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1",
+    "ratingValue": "5"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Sophia DeSantis"
+  },
+  "createdAt": "2022-12-02T20:35:18.869Z",
+  "datePublished": "2021-01-02T12:30:00+00:00",
+  "description": "This healthy vegan banana berry smoothie is the perfect way to start your day! Filled with nutrients and amazing flavor without added sugar.",
+  "image": [
+    "https://www.veggiesdontbite.com/wp-content/uploads/2020/12/vegan-banana-berry-smoothie-12.jpg",
+    "https://www.veggiesdontbite.com/wp-content/uploads/2020/12/vegan-banana-berry-smoothie-12-500x500.jpg",
+    "https://www.veggiesdontbite.com/wp-content/uploads/2020/12/vegan-banana-berry-smoothie-12-500x375.jpg",
+    "https://www.veggiesdontbite.com/wp-content/uploads/2020/12/vegan-banana-berry-smoothie-12-480x270.jpg"
+  ],
+  "keywords": "fruit smoothie, healthy smoothie",
+  "name": "Healthy Banana Berry Smoothie Recipe",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "366 kcal",
+    "carbohydrateContent": "60 g",
+    "fatContent": "13 g",
+    "fiberContent": "9 g",
+    "proteinContent": "9 g",
+    "saturatedFatContent": "1 g",
+    "servingSize": "1 serving",
+    "sodiumContent": "100 mg",
+    "sugarContent": "34 g"
+  },
+  "prepTime": "PT5M",
+  "recipeCategory": "Breakfast",
+  "recipeCuisine": "American",
+  "recipeIngredient": [
+    "1 frozen banana",
+    "1 cup mixed frozen berries of choice",
+    "1/2 cup dairy-free plain yogurt (, can sub with vanilla for a sweeter result)",
+    "1/2 cup dairy-free milk (, use coconut for the most creamy result)",
+    "1 tablespoon almond butter (, optional)"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Place everything into a blender."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Blend on low until thick and smooth, stop to scrape down sides along the way."
+    }
+  ],
+  "recipeYield": "1",
+  "sameAs": [
+    "https://veggiesdontbite.com/banana-berry-smoothie-bowl"
+  ],
+  "suitableForDiet": [
+    "https://schema.org/GlutenFreeDiet",
+    "https://schema.org/VeganDiet",
+    "https://schema.org/VegetarianDiet"
+  ],
+  "totalTime": "PT5M",
+  "updatedAt": "2022-12-02T20:35:18.868Z"
+}

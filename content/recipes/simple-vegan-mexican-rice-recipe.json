@@ -1,0 +1,86 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "3",
+    "ratingValue": "5"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Sophia DeSantis"
+  },
+  "cookTime": "PT35M",
+  "createdAt": "2022-12-03T00:42:35.058Z",
+  "datePublished": "2021-04-03T10:00:00+00:00",
+  "description": "This vegan Mexican rice recipe is so easy and so flavorful you&#039;ll never buy it again! Just dump in a pot and let the stove do the work!",
+  "image": [
+    "https://www.veggiesdontbite.com/wp-content/uploads/2021/03/vegan-mexican-rice-24.jpg",
+    "https://www.veggiesdontbite.com/wp-content/uploads/2021/03/vegan-mexican-rice-24-500x500.jpg",
+    "https://www.veggiesdontbite.com/wp-content/uploads/2021/03/vegan-mexican-rice-24-500x375.jpg",
+    "https://www.veggiesdontbite.com/wp-content/uploads/2021/03/vegan-mexican-rice-24-480x270.jpg"
+  ],
+  "keywords": "easy Mexican rice, healthy rice recipe",
+  "name": "Simple Vegan Mexican Rice Recipe",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "216 kcal",
+    "carbohydrateContent": "45 g",
+    "cholesterolContent": "1 mg",
+    "fatContent": "2 g",
+    "fiberContent": "4 g",
+    "proteinContent": "5 g",
+    "saturatedFatContent": "1 g",
+    "servingSize": "1 serving",
+    "sodiumContent": "485 mg",
+    "sugarContent": "3 g",
+    "transFatContent": "1 g",
+    "unsaturatedFatContent": "2 g"
+  },
+  "prepTime": "PT5M",
+  "recipeCategory": "Side Dish",
+  "recipeCuisine": "Mexican",
+  "recipeIngredient": [
+    "1 1/2 cups dried long grain brown rice",
+    "Drizzle of oil (optional)",
+    "3 cups veggie broth (low sodium if needed)",
+    "3/4 cups jarred salsa (the more flavorful the better (see note)",
+    "1/2 cup chopped carrots",
+    "1/2 cup frozen corn",
+    "1/2 cup frozen peas",
+    "1/2 - 1 teaspoon sea salt (see note)",
+    "1/4 cup chopped cilantro (optional)"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "In a pot, brown the rice with a drizzle of oil over medium heat until browned. This is optional but will up the flavor."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add everything else into the pot, bring to a boil. About 5 minutes."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Reduce to medium low and cook covered for 30-35 minutes. Check and add more broth if needed so it doesn’t burn."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Remove from heat. Let stand for 5 minutes then fluff with a fork. Add cilantro and mix in if using."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Serve with everything!"
+    }
+  ],
+  "recipeYield": "6",
+  "sameAs": [
+    "https://veggiesdontbite.com/simple-vegan-mexican-rice-recipe"
+  ],
+  "suitableForDiet": [
+    "https://schema.org/GlutenFreeDiet",
+    "https://schema.org/VeganDiet",
+    "https://schema.org/VegetarianDiet"
+  ],
+  "totalTime": "PT40M",
+  "updatedAt": "2022-12-03T00:42:35.057Z"
+}

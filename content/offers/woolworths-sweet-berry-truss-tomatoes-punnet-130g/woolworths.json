@@ -1,14 +1,21 @@
 {
   "@type": "Offer",
-  "availabilityStarts": "2020-11-22T07:46:58.476Z",
+  "availability": "http://schema.org/OutOfStock",
+  "availabilityStarts": "2022-12-02T09:06:23.025Z",
   "createdAt": "2020-11-25T21:33:46.000Z",
-  "name": "Woolworths Woolworths Sweet Berry Truss Tomatoes Punnet 130g",
+  "itemCondition": "http://schema.org/NewCondition",
+  "name": "Woolworths Woolworths Sweet Berry Truss Tomatoes Punnet 130G",
   "offeredBy": "Woolworths",
+  "potentialAction": {
+    "@context": "http://schema.org",
+    "@type": "BuyAction"
+  },
   "price": "",
+  "priceCurrency": "AUD",
   "seller": {
     "@type": "Organization",
     "name": "Woolworths"
   },
-  "updatedAt": "2020-11-22T07:46:58.589Z",
+  "updatedAt": "2022-12-02T09:06:23.063Z",
   "url": "https://woolworths.com.au/shop/productdetails/889924/woolworths-sweet-berry-truss-tomatoes-punnet"
 }

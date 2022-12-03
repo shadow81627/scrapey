@@ -1,0 +1,50 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Grains and Grain Products (Wheat, Corn and Rice); Meat and meat products( Chicken and Beef); Essential Minerals, Vitamins, Amino Acids and Flavours( including Beef, Salmon and Cheese); Legume Protein; Salmon and Tuna; Caramel and Annatto extract."
+    },
+    {
+      "name": "Size",
+      "value": "450g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.00 per 100G"
+    }
+  ],
+  "brand": "Fancy Feast",
+  "createdAt": "2022-12-03T05:23:21.647Z",
+  "description": "Fancy Feast Dry Cat Food Beef Salmon Cheese",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/0/9/5097065.jpg",
+  "name": "Dry Cat Food Beef Salmon Cheese",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 4.5,
+    "lowPrice": 4.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-03T05:23:21.646Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "4.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/fancy-feast-cat-food-roasted-selections"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/fancy-feast-cat-food-roasted-selections"
+  ],
+  "sku": "5097065",
+  "updatedAt": "2022-12-03T05:23:21.646Z"
+}

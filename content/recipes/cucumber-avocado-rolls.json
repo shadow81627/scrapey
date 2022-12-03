@@ -1,0 +1,121 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "14",
+    "ratingValue": "5"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Sam Turnbull • It Doesn't Taste Like Chicken"
+  },
+  "createdAt": "2022-12-03T11:43:55.436Z",
+  "datePublished": "2014-05-24T16:27:50+00:00",
+  "description": "A really easy, pretty, appetizer that is perfect for vegans, vegetarians, gluten-free, and healthy eating. These are like little mouth explosions!&nbsp;Inspired by Pure Ella.",
+  "image": [
+    "https://itdoesnttastelikechicken.com/wp-content/uploads/2014/05/cucumber-avocado-rolls-e1402664837287.jpg",
+    "https://itdoesnttastelikechicken.com/wp-content/uploads/2014/05/cucumber-avocado-rolls-e1402664837287-500x500.jpg",
+    "https://itdoesnttastelikechicken.com/wp-content/uploads/2014/05/cucumber-avocado-rolls-e1402664837287-500x375.jpg",
+    "https://itdoesnttastelikechicken.com/wp-content/uploads/2014/05/cucumber-avocado-rolls-e1402664837287-480x270.jpg"
+  ],
+  "mentions": [
+    {
+      "@id": "https://itdoesnttastelikechicken.com/tag/avocado/#id",
+      "@type": "http://schema.org/Thing",
+      "description": "The avocado (Persea americana) is a tree that is native to South Central Mexico, classified as a member of the flowering plant family Lauraceae. Avocado (also alligator pear) also refers to the tree's fruit, which is botanically a large berry containing a single seed.",
+      "name": "avocado",
+      "sameAs": [
+        "http://purl.obolibrary.org/obo/FOODON_03411470",
+        "http://eu.dbpedia.org/resource/Ahuakateondo",
+        "http://yago-knowledge.org/resource/Persea_americana",
+        "http://es.dbpedia.org/resource/Persea_americana",
+        "http://fr.dbpedia.org/resource/Avocatier",
+        "http://it.dbpedia.org/resource/Persea_americana",
+        "http://pt.dbpedia.org/resource/Persea_americana",
+        "http://www.wikidata.org/entity/Q37153",
+        "http://nl.dbpedia.org/resource/Avocado",
+        "http://wikidata.dbpedia.org/resource/Q37153",
+        "https://en.wikipedia.org/wiki/Avocado",
+        "http://id.dbpedia.org/resource/Apokat",
+        "http://de.dbpedia.org/resource/Avocado",
+        "http://rdf.freebase.com/ns/m.01645p",
+        "http://dbpedia.org/resource/Avocado",
+        "https://knowledge.cafemedia.com/food/entity/avocado"
+      ]
+    },
+    {
+      "@id": "https://itdoesnttastelikechicken.com/tag/cucumber/#id",
+      "@type": "http://schema.org/Thing",
+      "description": "Cucumber (Cucumis sativus) is a widely cultivated plant in the gourd family, Cucurbitaceae. It is a creeping vine that bears cucumiform fruits that are used as vegetables. There are three main varieties of cucumber: slicing, pickling, and seedless. Within these varieties, several cultivars have been created. In North America, the term \"wild cucumber\" refers to...",
+      "name": "cucumber",
+      "sameAs": [
+        "http://wikidata.dbpedia.org/resource/Q23425",
+        "http://it.dbpedia.org/resource/Cucumis_sativus",
+        "http://es.dbpedia.org/resource/Cucumis_sativus",
+        "http://yago-knowledge.org/resource/Cucumis_sativus",
+        "http://www.wikidata.org/entity/Q23425",
+        "http://ko.dbpedia.org/resource/오이",
+        "http://pt.dbpedia.org/resource/Pepino",
+        "http://pl.dbpedia.org/resource/Ogórek_siewny",
+        "http://nl.dbpedia.org/resource/Cucumis_sativus",
+        "http://ja.dbpedia.org/resource/キュウリ",
+        "http://eunis.eea.europa.eu/species/168481",
+        "http://rdf.freebase.com/ns/m.015x4r",
+        "http://eu.dbpedia.org/resource/Luzoker",
+        "http://el.dbpedia.org/resource/Αγγούρι",
+        "http://cs.dbpedia.org/resource/Okurka_setá",
+        "https://en.wikipedia.org/wiki/Cucumber",
+        "http://lod.geospecies.org/ses/whjqu",
+        "http://de.dbpedia.org/resource/Gurke",
+        "http://fr.dbpedia.org/resource/Concombre",
+        "http://purl.obolibrary.org/obo/FOODON_03301545",
+        "http://dbpedia.org/resource/Cucumber",
+        "http://id.dbpedia.org/resource/Mentimun",
+        "https://knowledge.cafemedia.com/food/entity/cucumber"
+      ]
+    }
+  ],
+  "name": "Cucumber Avocado Rolls",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "20 kcal",
+    "carbohydrateContent": "2 g",
+    "fatContent": "2 g",
+    "fiberContent": "1 g",
+    "proteinContent": "1 g",
+    "saturatedFatContent": "1 g",
+    "servingSize": "1 serving",
+    "sodiumContent": "30 mg",
+    "sugarContent": "1 g"
+  },
+  "prepTime": "PT20M",
+  "recipeCategory": "Appetizer",
+  "recipeCuisine": "American",
+  "recipeIngredient": [
+    "1 avocado",
+    "1/4 cup fresh basil",
+    "1 tablespoon nutritional yeast (optional)",
+    "2 teaspoons lime juice",
+    "1 clove garlic",
+    "1/4 teaspoon salt",
+    "1/4 teaspoon black pepper",
+    "1 English cucumber",
+    "Smoked or sweet paprika for garnish"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Add the avocado, basil, nutritional yeast, lime juice, garlic and salt in a food processor or blender. Blend until smooth stopping to scrape the sides as needed."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Use a mandoline or potato peeler to cut long thin strips from the cucumber. Take a cucumber strip and spread a thin coat of the avocado mixture along the length of the cucumber. A little goes a long way! Make sure to get some avocado all the way to the end, so it will stick the roll together. Roll it up! No toothpicks needed. Do the same with the rest of your cucumber strips. Sprinkle with a little paprika and serve right away."
+    }
+  ],
+  "recipeYield": "20",
+  "sameAs": [
+    "https://itdoesnttastelikechicken.com/cucumber-avocado-rolls"
+  ],
+  "totalTime": "PT20M",
+  "updatedAt": "2022-12-03T11:43:55.435Z"
+}

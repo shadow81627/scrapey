@@ -1,0 +1,62 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "3",
+    "ratingValue": "4.67"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Oh My Veggies"
+  },
+  "createdAt": "2022-12-02T12:25:05.436Z",
+  "datePublished": "2014-01-09T07:00:54+00:00",
+  "description": "A spicy fruit smoothie to give your metabolism a boost!",
+  "image": [
+    "https://ohmyveggies.com/wp-content/uploads/2014/01/spicy_mango_mandarin_smoothie_recipe.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2014/01/spicy_mango_mandarin_smoothie_recipe-500x500.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2014/01/spicy_mango_mandarin_smoothie_recipe-500x375.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2014/01/spicy_mango_mandarin_smoothie_recipe-480x270.jpg"
+  ],
+  "keywords": "fruit smoothie, Spicy Mango Mandarin Smoothie",
+  "name": "Spicy Mango Mandarin Smoothie",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "237 kcal",
+    "carbohydrateContent": "55 g",
+    "fatContent": "3 g",
+    "fiberContent": "5 g",
+    "proteinContent": "3 g",
+    "saturatedFatContent": "1 g",
+    "servingSize": "1 serving",
+    "sodiumContent": "248 mg",
+    "sugarContent": "49 g",
+    "unsaturatedFatContent": "2 g"
+  },
+  "prepTime": "PT5M",
+  "recipeCategory": "Breakfast",
+  "recipeCuisine": "American",
+  "recipeIngredient": [
+    "3/4 cup unsweetened almond milk",
+    "1 large Mandarin orange (peeled and seeded)",
+    "1 cup frozen mango chunks",
+    "1 tablespoon honey",
+    "1/8 teaspoon cayenne (optional, or use less for a more mild smoothie)"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Combine all of the ingredients in a blender and blend until smooth. Add more milk for a thinner smoothie, if desired."
+    }
+  ],
+  "recipeYield": "1",
+  "sameAs": [
+    "https://ohmyveggies.com/spicy-or-not-spicy-mango-mandarin-smoothie"
+  ],
+  "suitableForDiet": [
+    "https://schema.org/VeganDiet",
+    "https://schema.org/VegetarianDiet"
+  ],
+  "totalTime": "PT5M",
+  "updatedAt": "2022-12-02T12:25:05.436Z"
+}

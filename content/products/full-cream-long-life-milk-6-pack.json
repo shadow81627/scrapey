@@ -1,0 +1,58 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Pure, Natural full cream milk"
+    },
+    {
+      "name": "Allergen",
+      "value": "Contains Milk"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "1.0"
+    },
+    {
+      "name": "Size",
+      "value": "1.2L"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$5.00 per 1L"
+    }
+  ],
+  "brand": "Devondale",
+  "createdAt": "2022-12-03T02:35:20.418Z",
+  "description": "Devondale products starts with fresh Australian milk from happy, healthy, free grazing cows to bring you what we believe to be the very best in taste and quality.",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/9/8/5984520.jpg",
+  "name": "Full Cream Long Life Milk 6 pack",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 6,
+    "lowPrice": 6,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-03T02:35:20.417Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "6.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/devondale-milk-long-life-full-cream-5984520p"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/devondale-milk-long-life-full-cream-5984520p"
+  ],
+  "sku": "5984520",
+  "updatedAt": "2022-12-03T02:35:20.417Z"
+}

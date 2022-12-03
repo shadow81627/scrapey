@@ -1,0 +1,114 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "4",
+    "ratingValue": "5"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Yup, it's Vegan"
+  },
+  "cookTime": "PT50M",
+  "createdAt": "2022-12-02T23:25:17.312Z",
+  "datePublished": "2016-05-24T14:46:55+00:00",
+  "description": "Creamy, tangy, salty, savory baked almond feta, made by blending almonds with seasonings and baking until firm and crisp. Vegan, dairy-free recipe.",
+  "image": [
+    "https://yupitsvegan.com/wp-content/uploads/2016/05/vegan-almond-feta-cheese-3.jpg"
+  ],
+  "keywords": "almond feta",
+  "mentions": [
+    {
+      "@id": "https://yupitsvegan.com/tag/nuts-and-seeds/#id",
+      "@type": "http://schema.org/Thing",
+      "description": "A nut is a fruit composed of a hard shell and a seed, which is generally edible. In a general context, however, a wide variety of dried seeds are called nuts, but in a botanical context, there is an additional requirement that the shell does not open to release the seed (indehiscent). The translation of...",
+      "name": "tree nut",
+      "sameAs": [
+        "http://wikidata.dbpedia.org/resource/Q11009",
+        "http://pl.dbpedia.org/resource/Orzechy_(bakalie)",
+        "http://www.wikidata.org/entity/Q11009",
+        "http://id.dbpedia.org/resource/Buah_geluk",
+        "http://nl.dbpedia.org/resource/Noot_(plantaardig)",
+        "http://d-nb.info/gnd/4042827-8",
+        "http://fr.dbpedia.org/resource/Fruit_à_coque",
+        "http://rdf.freebase.com/ns/m.01lbxg",
+        "http://dbpedia.org/resource/Nut_(fruit)",
+        "http://ja.dbpedia.org/resource/種実類",
+        "http://yago-knowledge.org/resource/Nut_(fruit)",
+        "http://purl.obolibrary.org/obo/FOODON_03301354",
+        "http://pt.dbpedia.org/resource/Noz",
+        "http://cs.dbpedia.org/resource/Oříšek",
+        "http://ko.dbpedia.org/resource/견과",
+        "http://de.dbpedia.org/resource/Nussfrucht",
+        "https://en.wikipedia.org/wiki/Nut_(fruit)",
+        "http://es.dbpedia.org/resource/Nuez_(fruto)",
+        "http://el.dbpedia.org/resource/Κάρυο_(βοτανική)",
+        "https://knowledge.cafemedia.com/food/entity/tree_nut"
+      ]
+    }
+  ],
+  "name": "Baked Almond Feta",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "109 kcal",
+    "carbohydrateContent": "3 g",
+    "fatContent": "9 g",
+    "fiberContent": "2 g",
+    "proteinContent": "4 g",
+    "saturatedFatContent": "1 g",
+    "servingSize": "2 tablespoons",
+    "sodiumContent": "107 mg",
+    "sugarContent": "1 g"
+  },
+  "prepTime": "PT30M",
+  "recipeCategory": "sides",
+  "recipeCuisine": "gluten-free",
+  "recipeIngredient": [
+    "2 cups raw almonds",
+    "1 shallot (peeled and roughly chopped)",
+    "2 cloves garlic (peeled and roughly chopped)",
+    "2 tbsp plain (unsweetened nondairy yogurt (or substitute with 1 tb. additional lemon juice)",
+    "3 tbsp freshly-squeezed lemon juice",
+    "3/4 tsp salt (or to taste)"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Put the raw almonds in a bowl and cover them with very hot water. Let them sit for 2 hours."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Preheat the oven to 325 degrees Fahrenheit, and ready an oven-safe ceramic or glass dish and parchment paper (I used a 5-inch glass dish)."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Drain the almonds and remove the skins. The skins should pop right off of most of the almonds if you do the entire 2 hours of soaking. Be sure to save them as you can roast them for a crispy snack or add them to smoothies, etc."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add the almonds to a blender along with the shallots, garlic, yogurt, lemon juice, and salt. Add only as much filtered water as needed to blend (I had to use around 1/2 cup). Blend, stopping to stir and scrape the sides as needed, until a thick, smooth paste is formed."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Pour the mixture into cheesecloth and GENTLY squeeze out the excess liquid. You don't want to remove all of it (which you would do if you were making almond milk) - just enough so that the pulp clumps together but is still moist. Alternately, you can let it drain (without squeezing) out of the cheesecloth overnight in the refrigerator."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Transfer the pulp into the parchment paper-lined baking dish. Bake for 30 minutes, then use a toothpick or sharp knife to poke some holes in the surface to allow the heat to better penetrate the middle."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Return to the oven and bake for approximately 20 more minutes, or until the top of the almond feta is browning and slightly cracking."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Let the almond feta cool before slicing. Use it in salads, sandwiches, and more! Once cooled, store leftovers in the refrigerator in an airtight container for up to a week."
+    }
+  ],
+  "recipeYield": "2",
+  "sameAs": [
+    "https://yupitsvegan.com/2016/05/24/baked-almond-feta"
+  ],
+  "totalTime": "PT80M",
+  "updatedAt": "2022-12-02T23:25:17.311Z"
+}

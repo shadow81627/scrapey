@@ -1,0 +1,58 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "<b>INGREDIENTS:</b> <strong>Wheat</strong> Flour, Banana (25%), Sugar, <strong>Egg</strong>, Canola Oil, Humectant (422), Raising Agents (501, 450, 500), Salt, <strong>Milk</strong> Solids, Preservative (Potassium Sorbate)."
+    },
+    {
+      "name": "Allergen",
+      "value": "May Contain SOY, May Contain SESAME, Contains MILK, Contains EGG, May Contain PEANUTS, Contains CEREALS CONTAINING GLUTEN, Contains Wheat, May Contain TREE NUTS"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "9.0"
+    },
+    {
+      "name": "Size",
+      "value": "9 Pack"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.47 per 1Ea"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2022-12-02T10:08:33.441Z",
+  "description": "There's something about a delicious muffin that elevates any occasion. Coles Banana Muffins are soft and fluffy, made with real bananas. With these muffins you can enjoy a bite-size snack whether you're relaxing at home, rushing out the door or treating yourself to an afternoon snack.",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/7/2/2728964.jpg",
+  "name": "Banana Muffins",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 4.25,
+    "lowPrice": 4.25,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-02T10:08:33.440Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "4.25",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-banana-muffins-9-pack"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/coles-banana-muffins-9-pack"
+  ],
+  "sku": "2728964",
+  "updatedAt": "2022-12-02T10:08:33.440Z"
+}

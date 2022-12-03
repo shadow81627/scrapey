@@ -1,0 +1,62 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Each bottle contains the juice of: Apple (46.9%)*, Sweet Potato (35%), Pineapple (15.2%)*, Passionfruit (2.5%), Vitamin C, Food Acid (Citric Acid), Natural Flavours. *Reconstituted Juice"
+    },
+    {
+      "name": "Dietary",
+      "value": "No Added Sugars, No Preservatives, No Artificial Flavours or Colours, Source of Vitamin C"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "5.0"
+    },
+    {
+      "name": "Warning",
+      "value": "Do not purchase unless cap and neckband are intact."
+    },
+    {
+      "name": "Size",
+      "value": "1.25L"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$4.40 per 1L"
+    }
+  ],
+  "brand": "Campbell's",
+  "createdAt": "2022-12-03T02:36:31.351Z",
+  "description": "Campbell's V8 Pineapple Passion Fruit Juice",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/1/0/2107901.jpg",
+  "name": "V8 Pineapple Passion Fruit Juice",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 5.5,
+    "lowPrice": 5.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-03T02:36:31.350Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "5.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/campbells-pineapple-passion-v8-juice"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/campbells-pineapple-passion-v8-juice"
+  ],
+  "sku": "2107901",
+  "updatedAt": "2022-12-03T02:36:31.350Z"
+}

@@ -1,0 +1,74 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "reviewCount": "5"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "https://mayihavethatrecipe.com"
+  },
+  "cookTime": "PT12M",
+  "createdAt": "2022-12-02T23:17:07.722Z",
+  "datePublished": "2015-12-08",
+  "image": [
+    "https://mayihavethatrecipe.com/wp-content/uploads/2015/12/DSC_0043-e1459134365824-225x225.jpg",
+    "https://mayihavethatrecipe.com/wp-content/uploads/2015/12/DSC_0043-e1459134365824-260x195.jpg",
+    "https://mayihavethatrecipe.com/wp-content/uploads/2015/12/DSC_0043-e1459134365824-320x180.jpg",
+    "https://mayihavethatrecipe.com/wp-content/uploads/2015/12/DSC_0043-e1459134365824.jpg"
+  ],
+  "name": "Vegan Cranberry Pecan Cookies",
+  "prepTime": "PT1H10M",
+  "recipeCategory": "cookies",
+  "recipeIngredient": [
+    "1 cup Whole Wheat Pastry Flour",
+    "1 cup Old Fashioned Oats",
+    "1/2 cup + 2 tbsp dried cranberries",
+    "1/2 cup roasted salted pecans, chopped",
+    "1 tsp ground cinnamon",
+    "1 tsp baking powder",
+    "3/4 tsp baking soda",
+    "1/2 tsp salt",
+    "1/2 cup + 1 tbsp Canola Oil or grape seed oil",
+    "1/4 cup + 1 tbsp water",
+    "1/2 cup coconut sugar"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "In a bowl mix together flour, oats, cranberries, pecans, cinnamon. baking powder, baking soda and salt. Set aside"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Using a stand up mixer, mix oil, water and sugar for 3 minutes. Add flour mixture and continue mixing until well incorporated. Refrigerate for an hour"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Preheat oven to 350 F. Line a large baking sheet with parchment paper"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Using an ice cream scoop or a spoon and working with about 1 1/2 tablespoons at a time, form 18 dough balls. Place them on the lined baking sheet and carefully flatten them using the palm of your hand. Bake for 12 minutes"
+    }
+  ],
+  "recipeYield": "18",
+  "sameAs": [
+    "https://mayihavethatrecipe.com/vegan-cranberry-pecan-cookies"
+  ],
+  "totalTime": "PT1H22M",
+  "updatedAt": "2022-12-02T23:17:07.721Z",
+  "url": "https://mayihavethatrecipe.com/vegan-cranberry-pecan-cookies/",
+  "video": {
+    "@context": "http://schema.org",
+    "@type": "VideoObject",
+    "contentUrl": "https://www.youtube.com/watch?v=ueGoO1rOBgQ",
+    "description": "",
+    "embedUrl": "https://www.youtube.com/embed/ueGoO1rOBgQ?feature=oembed",
+    "name": "Gifting cookies for the holidays",
+    "thumbnailUrl": [
+      "https://i.ytimg.com/vi/ueGoO1rOBgQ/hqdefault.jpg"
+    ],
+    "uploadDate": "2015-12-08"
+  }
+}

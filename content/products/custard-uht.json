@@ -1,0 +1,58 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "<p><strong>INGREDIENTS:</strong> Full Cream <strong>Milk</strong>, Skim&nbsp;<strong>Milk</strong>, Thickeners (1442, 407), Sugar, Natural Flavours, Mineral Salt (Calcium Phosphate), Natural Colours (Beta Carotene, Annatto).</p>"
+    },
+    {
+      "name": "Allergen",
+      "value": "Contains MILK"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "5.0"
+    },
+    {
+      "name": "Size",
+      "value": "1L"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.25 per 100mL"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2022-12-03T06:10:39.189Z",
+  "description": "Coles Custard UHT 1 litre handy to have on hand when that dessert calls for custard. Delicious",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/9/4/5945459.jpg",
+  "name": "Custard Uht",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2.5,
+    "lowPrice": 2.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-03T06:10:39.188Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "2.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-custard-uht"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/coles-custard-uht"
+  ],
+  "sku": "5945459",
+  "updatedAt": "2022-12-03T06:10:39.188Z"
+}

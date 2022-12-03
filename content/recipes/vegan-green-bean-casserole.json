@@ -1,80 +1,76 @@
 {
   "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "166",
+    "ratingValue": "4.96"
+  },
   "author": {
     "@type": "Person",
-    "name": "She Likes Food"
+    "name": "Sam Turnbull • It Doesn't Taste Like Chicken"
   },
-  "cookingMethod": "Stovetop",
-  "cookTime": "PT50M",
+  "cookTime": "PT40M",
   "createdAt": "2022-12-01T12:36:00.578Z",
-  "datePublished": "2020-11-19",
-  "description": "This delicious vegan green bean casserole is made from scratch and so creamy! It's a favorite of both vegans and carnivores!",
+  "datePublished": "2014-11-16T11:12:26+00:00",
+  "description": "Creamy green beans topped with crispy fried onions.&nbsp;",
   "image": [
-    "https://www.shelikesfood.com/wp-content/uploads/2020/11/Vegan-Green-Bean-Casserole-9499-225x225.jpg",
-    "https://www.shelikesfood.com/wp-content/uploads/2020/11/Vegan-Green-Bean-Casserole-9499-260x195.jpg",
-    "https://www.shelikesfood.com/wp-content/uploads/2020/11/Vegan-Green-Bean-Casserole-9499-320x180.jpg",
-    "https://www.shelikesfood.com/wp-content/uploads/2020/11/Vegan-Green-Bean-Casserole-9499.jpg"
+    "https://itdoesnttastelikechicken.com/wp-content/uploads/2014/11/Vegan-Green-Bean-Casserole.jpg",
+    "https://itdoesnttastelikechicken.com/wp-content/uploads/2014/11/Vegan-Green-Bean-Casserole-500x500.jpg",
+    "https://itdoesnttastelikechicken.com/wp-content/uploads/2014/11/Vegan-Green-Bean-Casserole-500x375.jpg",
+    "https://itdoesnttastelikechicken.com/wp-content/uploads/2014/11/Vegan-Green-Bean-Casserole-480x270.jpg"
   ],
-  "keywords": "vegan green bean casserole",
   "name": "Vegan Green Bean Casserole",
   "nutrition": {
-    "@type": "nutritionInformation",
-    "calories": "90 calories",
-    "carbohydrateContent": "9.3 g",
-    "cholesterolContent": "0 mg",
-    "fatContent": "5.1 g",
-    "fiberContent": "1.9 g",
-    "proteinContent": "2.5 g",
-    "saturatedFatContent": "0.8 g",
-    "servingSize": "1 scoop",
-    "sodiumContent": "402.3 mg",
-    "sugarContent": "3.3 g",
-    "transFatContent": "0 g"
+    "@type": "NutritionInformation",
+    "calories": "195 kcal",
+    "carbohydrateContent": "28 g",
+    "fatContent": "6 g",
+    "fiberContent": "3 g",
+    "proteinContent": "6 g",
+    "saturatedFatContent": "4 g",
+    "servingSize": "1 serving",
+    "sodiumContent": "791 mg",
+    "sugarContent": "5 g"
   },
-  "prepTime": "PT25M",
-  "recipeCategory": "Side",
+  "prepTime": "PT20M",
+  "recipeCategory": "Side Dish",
   "recipeCuisine": "American",
   "recipeIngredient": [
-    "12 ounces fresh green beans (340 g)",
-    "1 teaspoon olive oil",
-    "1/2 large yellow onion, diced",
-    "1 tablespoon vegan butter",
-    "1 1/2 cups thinly sliced mushrooms, I used baby Bella",
-    "1 teaspoon fresh thyme leaves",
-    "1/4 cup vegan butter",
-    "1/4 cup flour",
-    "2 cloves garlic, minced",
-    "1 teaspoon dijon mustard",
-    "2 tablespoons nutritional yeast",
-    "1 1/2 cups plain, plant based milk, I like almond milk",
-    "1 1/2 cups vegetabe broth",
-    "1 cup crispy fried onions, or more if you like",
-    "Salt and pepper"
+    "1 large white onion, (sliced into thin rings)",
+    "1 cup non-dairy milk (such as soy or almond)",
+    "1 cup all-purpose flour (gluten-free if preferred)",
+    "1 teaspoon salt",
+    "1 pinch black pepper",
+    "Oil for frying",
+    "1 lb fresh green beans, (trimmed)",
+    "1 tablespoon vegan butter or oil",
+    "1 225g button mushrooms, (sliced)",
+    "1/2 teaspoon salt",
+    "2 cloves garlic, (minced)",
+    "1/4 teaspoon nutmeg",
+    "2 tablespoons all-purpose flour (gluten-free if preferred)",
+    "1 cup vegetable broth",
+    "1/2 cup full-fat coconut milk (the kind in a can)",
+    "1/2 cup non-dairy milk (such as soy or almond)"
   ],
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "text": "Bring a large pot of salted water to a boil and add in your green beans. Let cook for about 3 minutes and then remove and immediately place in a bowl of salted ice water. Set aside until ready to use."
+      "text": "Soak the onions in milk for about 5 - 10 minutes."
     },
     {
       "@type": "HowToStep",
-      "text": "Heat a large skillet over medium heat and add olive oil and onion. Cook for 2 minutes and then add 1 tablespoon butter, mushrooms, thyme and a pinch of salt and pepper. Cook until mushrooms are browned, about 10 minutes."
+      "text": "In the mean time, whisk together the flour, salt and pepper in a bowl. When the onions are soaked coat them in the flour mixture."
     },
     {
       "@type": "HowToStep",
-      "text": "In a large pot add 1/4 cup butter and the garlic. Let butter melt and then add the flour, mustard and nutritional yeast and stir until a thick paste has formed. Pour in the milk and veggie broth, stir and let cook until a thick sauce has formed, stirring occasionally, about 20 minutes. Season with salt and pepper to taste."
-    },
-    {
-      "@type": "HowToStep",
-      "text": "Pre-heat oven to 400 degrees F. Add the green beans and mushrooms to the soup mixture and stir everything together. Pour into an oven safe dish and cover with aluminum foil. Bake until green beans have cooked through, about 20 minutes. Uncover and add the fried onions and bake for another 3-5 minutes, until onions are browned. Serve immediately or keep warm until ready to serve."
+      "text": "Heat about 1/2 an inch of oil in a deep skillet, over medium-high heat. When hot fry the onions in batches until golden brown. Remove from oil and drain on a plate covered with paper towel."
     }
   ],
-  "recipeYield": "10",
+  "recipeYield": "6",
   "sameAs": [
-    "https://shelikesfood.com/vegan-green-bean-casserole"
+    "https://itdoesnttastelikechicken.com/2014/11/16/8-traditional-thanksgiving-christmas-sides-made-vegan"
   ],
-  "suitableForDiet": "VeganDiet",
-  "totalTime": "PT1H15M",
-  "updatedAt": "2022-12-02T08:19:48.393Z",
-  "url": "https://www.shelikesfood.com/vegan-green-bean-casserole/"
+  "totalTime": "PT60M",
+  "updatedAt": "2022-12-03T06:30:55.596Z"
 }

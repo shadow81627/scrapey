@@ -1,0 +1,113 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "5",
+    "ratingValue": "5"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Sam Turnbull • It Doesn't Taste Like Chicken"
+  },
+  "cookTime": "PT90M",
+  "createdAt": "2022-12-03T08:53:19.247Z",
+  "datePublished": "2016-11-24T10:10:01+00:00",
+  "description": "&nbsp;A perfect healthy snack. Can be made from any type apple, and can be sprinkled with cinnamon sugar, or even pumpkin pie spice. Yum!&nbsp;",
+  "image": [
+    "https://itdoesnttastelikechicken.com/wp-content/uploads/2016/11/crunchy-apple-chips-recipe-baked-healthy-snack-onappleaday.jpg",
+    "https://itdoesnttastelikechicken.com/wp-content/uploads/2016/11/crunchy-apple-chips-recipe-baked-healthy-snack-onappleaday-500x500.jpg",
+    "https://itdoesnttastelikechicken.com/wp-content/uploads/2016/11/crunchy-apple-chips-recipe-baked-healthy-snack-onappleaday-500x375.jpg",
+    "https://itdoesnttastelikechicken.com/wp-content/uploads/2016/11/crunchy-apple-chips-recipe-baked-healthy-snack-onappleaday-480x270.jpg"
+  ],
+  "mentions": [
+    {
+      "@id": "https://itdoesnttastelikechicken.com/tag/apple/#id",
+      "@type": "http://schema.org/Thing",
+      "description": "The apple tree (Malus pumila, commonly and erroneously called Malus domestica) is a deciduous tree in the rose family best known for its sweet, pomaceous fruit, the apple. It is cultivated worldwide as a fruit tree, and is the most widely grown species in the genus Malus. The tree originated in Central Asia, where its...",
+      "name": "apple tree",
+      "sameAs": [
+        "http://el.dbpedia.org/resource/Μήλο",
+        "https://en.wikipedia.org/wiki/Apple",
+        "http://pl.dbpedia.org/resource/Jabłko",
+        "http://it.dbpedia.org/resource/Mela",
+        "http://id.dbpedia.org/resource/Apel",
+        "http://lod.geospecies.org/ses/ywkwk",
+        "http://ko.dbpedia.org/resource/사과나무",
+        "http://cs.dbpedia.org/resource/Jablko",
+        "http://fr.dbpedia.org/resource/Pomme",
+        "http://eu.dbpedia.org/resource/Sagar",
+        "http://www.wikidata.org/entity/Q89",
+        "http://wikidata.dbpedia.org/resource/Q89",
+        "http://dbpedia.org/resource/Apple",
+        "http://pt.dbpedia.org/resource/Maçã",
+        "http://es.dbpedia.org/resource/Manzana",
+        "http://nl.dbpedia.org/resource/Appel_(vrucht)",
+        "http://yago-knowledge.org/resource/Malus_domestica",
+        "http://eunis.eea.europa.eu/species/180045",
+        "http://rdf.freebase.com/ns/m.014j1m",
+        "http://purl.obolibrary.org/obo/FOODON_00002473",
+        "http://yago-knowledge.org/resource/Malus_pumila",
+        "http://ja.dbpedia.org/resource/リンゴ",
+        "https://knowledge.cafemedia.com/food/entity/apple"
+      ]
+    },
+    {
+      "@id": "https://itdoesnttastelikechicken.com/tag/cinnamon/#id",
+      "@type": "http://schema.org/Thing",
+      "description": "Cinnamon (/ˈsɪnəmən/ SIN-ə-mən) is a spice obtained from the inner bark of several trees from the genus Cinnamomum that is used in both sweet and savoury foods. The term \"cinnamon\" also refers to its mid-brown colour. While Cinnamomum verum is sometimes considered to be \"true cinnamon\", most cinnamon in international commerce is derived from related...",
+      "name": "cinnamon",
+      "sameAs": [
+        "http://pl.dbpedia.org/resource/Cynamon",
+        "http://ja.dbpedia.org/resource/シナモン",
+        "http://de.dbpedia.org/resource/Zimt",
+        "https://en.wikipedia.org/wiki/Cinnamon",
+        "http://rdf.freebase.com/ns/m.0f0ch",
+        "http://purl.obolibrary.org/obo/FOODON_03301175",
+        "http://pt.dbpedia.org/resource/Canela",
+        "http://id.dbpedia.org/resource/Kulit_kayu_manis",
+        "http://cs.dbpedia.org/resource/Skořice",
+        "http://fr.dbpedia.org/resource/Cannelle_(écorce)",
+        "http://www.wikidata.org/entity/Q28165",
+        "http://dbpedia.org/resource/Cinnamon",
+        "http://wikidata.dbpedia.org/resource/Q28165",
+        "http://ko.dbpedia.org/resource/계피",
+        "http://nl.dbpedia.org/resource/Kaneel",
+        "http://el.dbpedia.org/resource/Κανέλα",
+        "https://knowledge.cafemedia.com/food/entity/cinnamon"
+      ]
+    }
+  ],
+  "name": "Extra Crunchy Apple Chips",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "77 kcal",
+    "servingSize": "1 serving"
+  },
+  "prepTime": "PT5M",
+  "recipeCategory": "Snack",
+  "recipeCuisine": "American",
+  "recipeIngredient": [
+    "3 - 4 small apples (, any variety!)",
+    "Cinnamon, white sugar, or pumpkin pie spice (optional)"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Preheat your oven to 225F (110C). Line two baking sheets with parchment paper."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Use a mandoline or knife to cut the apples as thinly and evenly as possible. Brush off any seeds or stems. Lay out the apple slices in a single layer so they aren't overlapping. If desired sprinkle with cinnamon or pumpkin pie spice, which you can mix with a bit of white sugar for extra sweetness if you wish."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Bake for 1 1/2 to 2 1/2 hours until apple slices feel dry and leathery. Turn off the oven and crack open the oven door, and let chips cool completely in the oven to crisp up."
+    }
+  ],
+  "recipeYield": "4",
+  "sameAs": [
+    "https://itdoesnttastelikechicken.com/crunchy-apple-chips"
+  ],
+  "totalTime": "PT95M",
+  "updatedAt": "2022-12-03T08:53:19.245Z"
+}

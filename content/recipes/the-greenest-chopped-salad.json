@@ -1,0 +1,73 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "5",
+    "reviewCount": "3"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "She Likes Food"
+  },
+  "createdAt": "2022-12-02T14:09:52.636Z",
+  "datePublished": "2018-03-10",
+  "description": "A delicious and healthy salad filled with all the green fruits and veggies!",
+  "image": [
+    "https://www.shelikesfood.com/wp-content/uploads/2015/03/The-Greenest-Chopped-Salad-3683-1-225x225.jpg",
+    "https://www.shelikesfood.com/wp-content/uploads/2015/03/The-Greenest-Chopped-Salad-3683-1-260x195.jpg",
+    "https://www.shelikesfood.com/wp-content/uploads/2015/03/The-Greenest-Chopped-Salad-3683-1-320x180.jpg",
+    "https://www.shelikesfood.com/wp-content/uploads/2015/03/The-Greenest-Chopped-Salad-3683-1.jpg"
+  ],
+  "name": "The Greenest Chopped Salad",
+  "prepTime": "PT15M",
+  "recipeCategory": "Salad",
+  "recipeIngredient": [
+    "6 cups chopped greens, your favorite kind",
+    "1 green apple, chopped",
+    "1 cup chopped cucumber",
+    "1 cup shelled edamame",
+    "1/2 cup thinly sliced green onion",
+    "1 avocado, diced",
+    "1 cup broccoli florets",
+    "1 cup green grapes, cut in half",
+    "1/2 cup pistachios, roughly chopped",
+    "1/3 cup olive oil",
+    "Juice of 1 lemon",
+    "1/2 teaspoon dijon mustard",
+    "1/2 teaspoon maple syrup",
+    "2 tablespoons chopped fresh herbs, your favorite kind",
+    "1 small clove garlic, minced",
+    "1/4 teaspoon salt",
+    "1/8 teaspoon black pepper"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Place all dressing ingredients into a jar and whisk or shake until combined, set aside."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Place chopped greens into a large bowl and top with the remaining chopped salad ingredients. Drizzle salad with desired amount of dressing and toss until combined. You could also just top each individual salad servings with desired amount of dressing."
+    }
+  ],
+  "recipeYield": "6",
+  "sameAs": [
+    "https://shelikesfood.com/greenest-chopped-salad"
+  ],
+  "totalTime": "PT15M",
+  "updatedAt": "2022-12-02T14:09:52.635Z",
+  "url": "https://www.shelikesfood.com/greenest-chopped-salad/",
+  "video": {
+    "@context": "http://schema.org",
+    "@type": "VideoObject",
+    "contentUrl": "https://www.youtube.com/watch?v=EqUA-vxkqns",
+    "description": "This really is The Greenest Chopped Salad!  It's packed with all my favorite green fruits and veggies and topped off with a fresh herb dressing!  It's gluten free, vegan and so healthy!\n\nGet the recipe here: https://www.shelikesfood.com/greenest-chopped-salad/",
+    "duration": "PT1M",
+    "embedUrl": "https://www.youtube.com/embed/EqUA-vxkqns?feature=oembed",
+    "name": "How to make The Greenest Chopped Salad",
+    "thumbnailUrl": [
+      "https://i.ytimg.com/vi/EqUA-vxkqns/hqdefault.jpg"
+    ],
+    "uploadDate": "2018-03-29"
+  }
+}

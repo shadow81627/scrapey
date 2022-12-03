@@ -1,0 +1,66 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Milk, Skim Milk, Milk Solids, Strawberry (7 %), Sugar, Thickeners (Modified Starch, Gelatine, Carrageenan), Natural Flavours, Acidity Regulators (Sodium Citrate, Citric Acid), Carrot Concentrates, Calcium Chloride, Live Yoghurt Cultures (Milk): S. Thermophilus & L. Bulgaricus."
+    },
+    {
+      "name": "Contains",
+      "value": "Milk"
+    },
+    {
+      "name": "Allergen",
+      "value": "Contains Milk"
+    },
+    {
+      "name": "Dietary",
+      "value": "No Preservatives"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "6.3"
+    },
+    {
+      "name": "Size",
+      "value": "1kg"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.45 per 100G"
+    }
+  ],
+  "brand": "Yoplait",
+  "createdAt": "2022-12-03T03:42:16.195Z",
+  "description": "Yoplait Strawberry Yoghurt",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/5/8/5586017.jpg",
+  "name": "Strawberry Yoghurt",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 4.5,
+    "lowPrice": 4.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-03T03:42:16.194Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "4.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/yoplait-yoghurt-strawberry"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/yoplait-yoghurt-strawberry"
+  ],
+  "sku": "5586017",
+  "updatedAt": "2022-12-03T03:42:16.194Z"
+}

@@ -1,0 +1,73 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1",
+    "ratingValue": "5"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Sophia DeSantis"
+  },
+  "createdAt": "2022-12-03T07:10:17.294Z",
+  "datePublished": "2014-07-07T06:00:18+00:00",
+  "description": "Popsicles for breakfast will win any kid over! Filled with hidden healthy ingredients, these treats will make you a hero. Blend them up, freeze and enjoy the next day. It's that easy!",
+  "image": [
+    "https://www.veggiesdontbite.com/wp-content/uploads/2014/07/blueberry-mango-banana-breakfast-pops-24.jpg"
+  ],
+  "keywords": "breakfast smoothie popsicles, vegan breakfast popsicles",
+  "name": "Healthy Vegan Blueberry Mango Banana Breakfast Popsicles",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "184 kcal",
+    "carbohydrateContent": "19 g",
+    "fatContent": "9 g",
+    "fiberContent": "5 g",
+    "proteinContent": "7 g",
+    "servingSize": "1 serving",
+    "sodiumContent": "66 mg",
+    "sugarContent": "8 g"
+  },
+  "prepTime": "PT10M",
+  "recipeCategory": "Breakfast",
+  "recipeCuisine": "American",
+  "recipeIngredient": [
+    "1/2 cup frozen blueberries",
+    "1 fresh or frozen banana",
+    "1/2 cup frozen mango",
+    "1/2 cup kale or spinach",
+    "1/4 cup hemp seeds",
+    "1/4 cup chia seeds",
+    "3/4 cup almondmilk (, or other milk of choice)",
+    "20-25 fresh blueberries"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Place all ingredients except fresh blueberries into a blender and mix until well blended."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Once blended, pour into popsicle molds."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Place 5-6 fresh blueberries into each mold, stirring gently with a knife to spread them out, then place sticks in."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Freeze overnight and enjoy for breakfast the next day!"
+    }
+  ],
+  "recipeYield": "4",
+  "sameAs": [
+    "https://veggiesdontbite.com/blueberry-mango-banana-breakfast-pops"
+  ],
+  "suitableForDiet": [
+    "https://schema.org/GlutenFreeDiet",
+    "https://schema.org/VeganDiet",
+    "https://schema.org/VegetarianDiet"
+  ],
+  "totalTime": "PT10M",
+  "updatedAt": "2022-12-03T07:10:17.293Z"
+}

@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "454g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.21 per 100G"
+    }
+  ],
+  "brand": "Danish",
+  "createdAt": "2022-12-03T12:57:51.802Z",
+  "description": "Danish Butter Cookies",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/9/9/1/9918119.jpg",
+  "name": "Butter Cookies",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 5.5,
+    "lowPrice": 5.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-03T12:57:51.802Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "5.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/jacobsens-danish-butter-cookies"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/jacobsens-danish-butter-cookies"
+  ],
+  "sku": "9918119",
+  "updatedAt": "2022-12-03T12:57:51.802Z"
+}

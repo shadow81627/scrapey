@@ -1,0 +1,203 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "9",
+    "ratingValue": "5"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Yup, it's Vegan"
+  },
+  "cookTime": "PT30M",
+  "createdAt": "2022-12-02T12:40:59.719Z",
+  "datePublished": "2018-10-05T18:25:13+00:00",
+  "description": "Spicy, nutty and delicious West African peanut soup, inspired by my time in Ghana. A hearty stew with incredible depth of flavor that can even be made nut-free using sunflower seed butter! Naturally gluten-free too.I know the ingredients list looks long, but most are pantry items and it really comes together easily :).",
+  "image": [
+    "https://yupitsvegan.com/wp-content/uploads/2013/11/west-african-peanut-soup-vegan-1.jpg",
+    "https://yupitsvegan.com/wp-content/uploads/2013/11/west-african-peanut-soup-vegan-1-500x500.jpg",
+    "https://yupitsvegan.com/wp-content/uploads/2013/11/west-african-peanut-soup-vegan-1-500x375.jpg",
+    "https://yupitsvegan.com/wp-content/uploads/2013/11/west-african-peanut-soup-vegan-1-480x270.jpg"
+  ],
+  "keywords": "peanut soup",
+  "mentions": [
+    {
+      "@id": "https://yupitsvegan.com/tag/high-vegetable/#id",
+      "@type": "http://schema.org/Thing",
+      "description": "In everyday usage, a vegetable is any part of a plant that is consumed by humans as food as part of a savory meal. The term vegetable is somewhat arbitrary, and largely defined through culinary and cultural tradition. It normally excludes other food derived from plants such as fruits, nuts and cereal grains, but includes...",
+      "name": "vegetable",
+      "sameAs": [
+        "http://ko.dbpedia.org/resource/채소",
+        "http://wikidata.dbpedia.org/resource/Q11004",
+        "http://eu.dbpedia.org/resource/Barazki",
+        "http://purl.obolibrary.org/obo/FOODON_00002141",
+        "http://pl.dbpedia.org/resource/Warzywa",
+        "http://fr.dbpedia.org/resource/Légume",
+        "https://en.wikipedia.org/wiki/Vegetable",
+        "http://de.dbpedia.org/resource/Gemüse",
+        "http://el.dbpedia.org/resource/Λαχανικό",
+        "http://rdf.freebase.com/ns/m.0f4s2w",
+        "http://nl.dbpedia.org/resource/Groente",
+        "http://cs.dbpedia.org/resource/Zelenina",
+        "http://es.dbpedia.org/resource/Verdura",
+        "http://www.wikidata.org/entity/Q11004",
+        "http://dbpedia.org/resource/Vegetable",
+        "http://d-nb.info/gnd/4020069-3",
+        "http://it.dbpedia.org/resource/Verdura",
+        "http://ja.dbpedia.org/resource/野菜",
+        "http://id.dbpedia.org/resource/Sayuran",
+        "https://knowledge.cafemedia.com/food/entity/fruit_vegetable"
+      ]
+    },
+    {
+      "@id": "https://yupitsvegan.com/tag/legumes/#id",
+      "@type": "http://schema.org/Thing",
+      "description": "A legume (/ˈlɛɡjuːm/ or /ˌləˈɡjuːm/) is a plant or fruit/seed in the family Fabaceae (or Leguminosae). Legumes are grown agriculturally, primarily for their grain seed called pulse, for livestock forage and silage, and as soil-enhancing green manure. Well-known legumes include alfalfa, clover, peas, beans, lentils, lupin bean, mesquite, carob, soybeans, peanuts, and tamarind. Legumes are...",
+      "name": "legume",
+      "sameAs": [
+        "http://el.dbpedia.org/resource/Όσπρια",
+        "http://cs.dbpedia.org/resource/Luštěnina",
+        "https://en.wikipedia.org/wiki/Legume",
+        "http://rdf.freebase.com/ns/m.01sfdb",
+        "http://wikidata.dbpedia.org/resource/Q145909",
+        "http://pt.dbpedia.org/resource/Legume",
+        "http://www.wikidata.org/entity/Q145909",
+        "http://ja.dbpedia.org/resource/豆果",
+        "http://fr.dbpedia.org/resource/Gousse",
+        "http://eu.dbpedia.org/resource/Lekale",
+        "http://dbpedia.org/resource/Legume",
+        "http://es.dbpedia.org/resource/Legumbre",
+        "http://yago-knowledge.org/resource/Pulse_(legume)",
+        "http://pl.dbpedia.org/resource/Rośliny_strączkowe",
+        "http://purl.obolibrary.org/obo/FOODON_00001264",
+        "http://nl.dbpedia.org/resource/Peul_(vrucht)",
+        "http://de.dbpedia.org/resource/Hülsenfrucht",
+        "http://it.dbpedia.org/resource/Baccello",
+        "http://d-nb.info/gnd/4020803-5",
+        "http://rdf.freebase.com/ns/m.0bqsk",
+        "https://knowledge.cafemedia.com/food/entity/legume"
+      ]
+    },
+    {
+      "@id": "https://yupitsvegan.com/tag/nuts-and-seeds/#id",
+      "@type": "http://schema.org/Thing",
+      "description": "A nut is a fruit composed of a hard shell and a seed, which is generally edible. In a general context, however, a wide variety of dried seeds are called nuts, but in a botanical context, there is an additional requirement that the shell does not open to release the seed (indehiscent). The translation of...",
+      "name": "tree nut",
+      "sameAs": [
+        "http://wikidata.dbpedia.org/resource/Q11009",
+        "http://pl.dbpedia.org/resource/Orzechy_(bakalie)",
+        "http://www.wikidata.org/entity/Q11009",
+        "http://id.dbpedia.org/resource/Buah_geluk",
+        "http://nl.dbpedia.org/resource/Noot_(plantaardig)",
+        "http://d-nb.info/gnd/4042827-8",
+        "http://fr.dbpedia.org/resource/Fruit_à_coque",
+        "http://rdf.freebase.com/ns/m.01lbxg",
+        "http://dbpedia.org/resource/Nut_(fruit)",
+        "http://ja.dbpedia.org/resource/種実類",
+        "http://yago-knowledge.org/resource/Nut_(fruit)",
+        "http://purl.obolibrary.org/obo/FOODON_03301354",
+        "http://pt.dbpedia.org/resource/Noz",
+        "http://cs.dbpedia.org/resource/Oříšek",
+        "http://ko.dbpedia.org/resource/견과",
+        "http://de.dbpedia.org/resource/Nussfrucht",
+        "https://en.wikipedia.org/wiki/Nut_(fruit)",
+        "http://es.dbpedia.org/resource/Nuez_(fruto)",
+        "http://el.dbpedia.org/resource/Κάρυο_(βοτανική)",
+        "https://knowledge.cafemedia.com/food/entity/tree_nut"
+      ]
+    },
+    {
+      "@id": "https://yupitsvegan.com/category/soup/#id",
+      "@type": "http://schema.org/Thing",
+      "description": "From creamy chowders, to spicy tortilla soup, to Asian-inspired noodle soup, every plant-based and vegan soup you could ever want in one place!",
+      "name": "soup",
+      "sameAs": [
+        "http://ko.dbpedia.org/resource/수프",
+        "http://d-nb.info/gnd/4058643-1",
+        "http://eu.dbpedia.org/resource/Zopa",
+        "http://pl.dbpedia.org/resource/Zupa",
+        "http://www.wikidata.org/entity/Q41415",
+        "http://de.dbpedia.org/resource/Suppe",
+        "http://purl.obolibrary.org/obo/FOODON_03304925",
+        "http://id.dbpedia.org/resource/Sup",
+        "http://dbpedia.org/resource/Soup",
+        "http://es.dbpedia.org/resource/Sopa",
+        "http://ja.dbpedia.org/resource/スープ",
+        "http://yago-knowledge.org/resource/Cold_Soup",
+        "http://wikidata.dbpedia.org/resource/Q41415",
+        "https://en.wikipedia.org/wiki/Soup",
+        "http://it.dbpedia.org/resource/Minestra",
+        "http://el.dbpedia.org/resource/Σούπα",
+        "http://cs.dbpedia.org/resource/Polévka",
+        "http://rdf.freebase.com/ns/m.01z1m1x",
+        "http://fr.dbpedia.org/resource/Soupe",
+        "http://nl.dbpedia.org/resource/Soep_(voedsel)",
+        "http://pt.dbpedia.org/resource/Sopa",
+        "https://knowledge.cafemedia.com/food/entity/soup"
+      ]
+    }
+  ],
+  "name": "Vegan West African Peanut Soup",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "354 kcal",
+    "carbohydrateContent": "28 g",
+    "fatContent": "20 g",
+    "fiberContent": "7 g",
+    "proteinContent": "11 g",
+    "saturatedFatContent": "6 g",
+    "servingSize": "1 bowl",
+    "sodiumContent": "227 mg",
+    "sugarContent": "7 g",
+    "unsaturatedFatContent": "14 g"
+  },
+  "prepTime": "PT15M",
+  "recipeCategory": "Soup",
+  "recipeCuisine": "African",
+  "recipeIngredient": [
+    "1 and 1/2 tbsp coconut oil",
+    "1 large yellow or white onion (chopped)",
+    "3 cloves garlic (minced)",
+    "1/2 inch fresh ginger (minced)",
+    "2 small chili peppers (minced (I recommend red chilis, but use jalapeno if needed)",
+    "1 and 1/2 tsp paprika",
+    "1 tsp ground coriander",
+    "1/4 tsp white pepper (or use regular pepper)",
+    "1 large sweet potato (peeled and cubed (about 1.5 cups) or use carrot or squash)",
+    "2 tbsp tomato paste",
+    "14 oz. crushed tomatoes (or use 1 and 1/2 cups diced fresh tomatoes)",
+    "4 cups low-sodium vegetable broth",
+    "1/2 cup natural peanut butter",
+    "2 bay leaves",
+    "1 sprig rosemary (optional)",
+    "1 large sprig fresh thyme (optional)",
+    "1/2 bunch collard greens (cut into 1-inch slices (about 2.5 cups) or use kale)",
+    "2 tbsp vinegar (divided)",
+    "salt and pepper (to taste, for serving)",
+    "fresh cilantro (for serving)"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Warm the oil in a large pot. When shimmering, add the onion, garlic, ginger, and chilis with a pinch of salt, and cook on medium heat until softened, about 5 minutes. Add the paprika, coriander, and pepper, and stir. Cook for about 60 seconds until fragrant."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add the cubed sweet potato, tomatoes and tomato paste, and cook for about 5 minutes, stirring occasionally, or until the tomatoes are starting to break down and release their juices."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add the broth and peanut butter, stir well, and bring to a boil. Reduce heat to a simmer and add the bay leaves, rosemary and thyme sprigs, and collard greens. Partially cover and cook for about 20 minutes, stirring occasionally, until the collards are tender and the sweet potato is soft. Stir in half of the vinegar."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Remove the bay leaves and fresh herb sprigs. Season to taste with salt (this dish generally needs a lot) and pepper, and add the rest of the vinegar if more acidity is needed. Serve with chopped fresh cilantro or parsley, and accompanying starch of choice such as potatoes or rice."
+    }
+  ],
+  "recipeYield": "4",
+  "sameAs": [
+    "https://yupitsvegan.com/west-african-peanut-soup"
+  ],
+  "totalTime": "PT45M",
+  "updatedAt": "2022-12-02T12:40:59.716Z"
+}

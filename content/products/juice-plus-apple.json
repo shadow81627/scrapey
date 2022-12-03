@@ -1,0 +1,54 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "RECONSTITUTED APPLE JUICE (99%), DIETARY FIBRE (ACACIA), NATURAL FLAVOUR, FOOD ACID (CITRIC), VITAMIN C."
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "8.0"
+    },
+    {
+      "name": "Size",
+      "value": "2L"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.63 per 1L"
+    }
+  ],
+  "brand": "Fruit Co",
+  "createdAt": "2022-12-02T21:30:13.761Z",
+  "description": "Made from 99% Juice and enriched with the goodness of Vitamin C and Fibre, FruitCo Juice is the perfect juice for any occasion. FruitCo Juice comes in a convenient and ergonomic 2L PET grip bottle.",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/7/5/3752294.jpg",
+  "name": "Juice Plus + Apple",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3.25,
+    "lowPrice": 3.25,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-02T21:30:13.760Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "3.25",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/fruit-co-plus-juice-apple"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/fruit-co-plus-juice-apple"
+  ],
+  "sku": "3752294",
+  "updatedAt": "2022-12-02T21:30:13.761Z"
+}

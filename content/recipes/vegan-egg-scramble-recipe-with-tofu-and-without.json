@@ -1,0 +1,82 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1",
+    "ratingValue": "5"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Sophia DeSantis"
+  },
+  "cookTime": "PT10M",
+  "createdAt": "2022-12-02T14:16:07.869Z",
+  "datePublished": "2021-11-18T10:00:00+00:00",
+  "description": "This vegan scramble recipe is so easy and delicious. Filled with any veggies you like, protein and the perfect way to start the day!",
+  "image": [
+    "https://www.veggiesdontbite.com/wp-content/uploads/2021/10/vegan-veggie-egg-scramble-29.jpg",
+    "https://www.veggiesdontbite.com/wp-content/uploads/2021/10/vegan-veggie-egg-scramble-29-500x500.jpg",
+    "https://www.veggiesdontbite.com/wp-content/uploads/2021/10/vegan-veggie-egg-scramble-29-500x375.jpg",
+    "https://www.veggiesdontbite.com/wp-content/uploads/2021/10/vegan-veggie-egg-scramble-29-480x270.jpg"
+  ],
+  "keywords": "breakfast with veggies, healthy breakfast recipe",
+  "name": "Vegan Egg Scramble Recipe (With Tofu and Without)",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "248 kcal",
+    "carbohydrateContent": "15 g",
+    "fatContent": "12 g",
+    "fiberContent": "3 g",
+    "proteinContent": "24 g",
+    "saturatedFatContent": "1 g",
+    "servingSize": "1 serving",
+    "sodiumContent": "554 mg",
+    "sugarContent": "8 g",
+    "unsaturatedFatContent": "10 g"
+  },
+  "prepTime": "PT10M",
+  "recipeCategory": "Breakfast",
+  "recipeCuisine": "American",
+  "recipeIngredient": [
+    "4 cups vegan egg (, either tofu or chickpea flour recipe or store bought vegan egg)",
+    "2 cups veggies of choice (, I used mushrooms, zucchini, peppers, and spinach.)",
+    "1 cup dairy free cheese of choice (, optional)",
+    "1 cup protein of choice (, I used my vegan bacon (optional)",
+    "1/2 - 1 teaspoon sea salt (, may not need if egg, cheese and protein choice has plenty)",
+    "1/2 teaspoon pepper (, may not need if egg choice has plenty of flavor)",
+    "Sliced green onions (, optional for garnish)"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "In a pan over medium heat, saute veggies with drizzle of oil, or broth, and salt and pepper if using. I add the greens last. Add the protein here if it needs to be cooked. Set aside. A trick I use is to add the cheese here. Dairy free cheese tends to take longer to melt so if you warm it with the cooked veggies it will melt better."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Using the same pan, cook the vegan egg and follow the recipe for the egg variety you use, scrambling the egg as stated."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Once you see it firm up a bit, add the cooked veggies, cheese and protein to the pan."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Mix a few more minutes until you see the cheese melting."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Serve!"
+    }
+  ],
+  "recipeYield": "4",
+  "sameAs": [
+    "https://veggiesdontbite.com/vegan-egg-scramble-recipe-with-tofu-and-without"
+  ],
+  "suitableForDiet": [
+    "https://schema.org/GlutenFreeDiet",
+    "https://schema.org/VeganDiet",
+    "https://schema.org/VegetarianDiet"
+  ],
+  "totalTime": "PT20M",
+  "updatedAt": "2022-12-02T14:16:07.869Z"
+}

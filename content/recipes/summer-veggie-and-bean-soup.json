@@ -1,0 +1,101 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "4",
+    "ratingValue": "5"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Sophia DeSantis"
+  },
+  "cookTime": "PT40M",
+  "createdAt": "2022-12-02T23:58:34.227Z",
+  "datePublished": "2015-08-16T20:43:16+00:00",
+  "description": "A flavorful mix of beans and veggies come together for this all in one vegan bean soup. Perfect for the whole family!",
+  "image": [
+    "https://www.veggiesdontbite.com/wp-content/uploads/2015/08/summer-vegetable-bean-soup-60-36.jpg",
+    "https://www.veggiesdontbite.com/wp-content/uploads/2015/08/summer-vegetable-bean-soup-60-36-500x500.jpg",
+    "https://www.veggiesdontbite.com/wp-content/uploads/2015/08/summer-vegetable-bean-soup-60-36-500x375.jpg",
+    "https://www.veggiesdontbite.com/wp-content/uploads/2015/08/summer-vegetable-bean-soup-60-36-480x270.jpg"
+  ],
+  "keywords": "Bean Soup, Summer Soup",
+  "name": "Summer Veggie & Bean Soup",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "250 kcal",
+    "carbohydrateContent": "46 g",
+    "fatContent": "1 g",
+    "fiberContent": "13 g",
+    "proteinContent": "12 g",
+    "servingSize": "1 serving",
+    "sodiumContent": "241 mg",
+    "sugarContent": "8 g"
+  },
+  "prepTime": "PT15M",
+  "recipeCategory": "Main Course",
+  "recipeCuisine": "American",
+  "recipeIngredient": [
+    "6 cups veggie broth depending on the consistence you like for your soup plus 1/4 cup for sautéing (or saute with your favorite oil)",
+    "3/4 cup dried garbanzo beans",
+    "3/4 cup dried black eyed beans",
+    "3/4 cup dried lentils (brown or green)",
+    "1/2 plus 3/4 teaspoon baking soda (divided (used to soak beans and help them cook evenly)",
+    "2 medium sweet onions (about 3 inches, chopped)",
+    "3 medium red potatoes (about 4 inches, peeled and cut in two inch pieces)",
+    "3 carrots (about 5 inches, peeled and chopped)",
+    "2 sticks of celery (about 8 inches, chopped)",
+    "2 medium zucchini (about 6 inches long, chopped)",
+    "3 cups spinach leaves (measure packed)",
+    "Himalayan pink salt and ground black pepper to taste"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Prep the beans the night before- in one pot rinse the garbanzo beans and in another pot rinse the black eyed beans and lentils."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add enough hot water in each pot to cover them. Add 1/2 teaspoon of baking soda in with the garbanzo beans and 3/4 teaspoon baking soda in with the black eyed beans and lentils, mix well. Let them soak overnight."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "The next day, rinse the beans well to get rid of the baking soda and add each one back into their pots. Add enough water to cover them and simmer each until soft, start checking at 15 minutes. Stop cooking as soon as they become soft."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Strain the black beans and lentils, set them aside. Strain the garbanzo beans but keep the broth they were cooking in."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "In a big pot sauté the chopped onion with the 1/4 cup veggie broth or oil. Sauté until transparent."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add potatoes, carrots, celery and zucchini. Sauté for five minutes, then add spinach and mix well."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Cover with veggie broth and simmer until soft, about 20 minutes."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add all the beans and the garbanzo bean broth into the pot. Simmer for another five minutes. Add more veggie broth if there isn’t enough liquid."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add salt and pepper to taste. Remove from stove. Let it stand for 10 minutes to cool and using a hand immersion blender, blend to the desired consistency. You can also let cool completely and pour into a regular blender to blend."
+    }
+  ],
+  "recipeYield": "8",
+  "sameAs": [
+    "https://veggiesdontbite.com/summer-veggie-bean-soup"
+  ],
+  "suitableForDiet": [
+    "https://schema.org/GlutenFreeDiet",
+    "https://schema.org/VeganDiet",
+    "https://schema.org/VegetarianDiet"
+  ],
+  "totalTime": "PT55M",
+  "updatedAt": "2022-12-02T23:58:34.226Z"
+}

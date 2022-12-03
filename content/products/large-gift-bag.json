@@ -1,0 +1,42 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Unit Price",
+      "value": "$3.00 per 1Ea"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2022-12-03T10:05:10.176Z",
+  "description": "Coles Large Gift Bag",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/3/6/5363770.jpg",
+  "name": "Large Gift Bag",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3,
+    "lowPrice": 3,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-03T10:05:10.176Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "3.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/large-gift-bag-5363770p-1"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/large-gift-bag-5363770p-1"
+  ],
+  "sku": "5363770",
+  "updatedAt": "2022-12-03T10:05:10.176Z"
+}

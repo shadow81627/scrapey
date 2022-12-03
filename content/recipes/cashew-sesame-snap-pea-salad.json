@@ -1,0 +1,184 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1",
+    "ratingValue": "5"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Yup, it's Vegan"
+  },
+  "createdAt": "2022-12-02T15:44:51.595Z",
+  "datePublished": "2017-05-07T15:11:12+00:00",
+  "description": "Fresh and delicious cashew sesame snap pea salad with a simple orange sesame vinaigrette. Only a few ingredients and 15 minutes are needed to make this vegan and gluten-free salad come to life.",
+  "image": [
+    "https://yupitsvegan.com/wp-content/uploads/2017/05/cashew-sesame-snap-pea-salad-2_1.jpg"
+  ],
+  "keywords": "cashew snap peas, sesame snap pea salad",
+  "mentions": [
+    {
+      "@id": "https://yupitsvegan.com/tag/citrus/#id",
+      "@type": "http://schema.org/Thing",
+      "description": "Citrus is a genus of flowering trees and shrubs in the rue family, Rutaceae. Plants in the genus produce citrus fruits, including important crops like oranges, lemons, grapefruit, and limes. The most recent research indicates an origin in Australia, New Caledonia and New Guinea. Some researchers believe that the origin is in the part of...",
+      "name": "citrus fruit",
+      "sameAs": [
+        "http://es.dbpedia.org/resource/Citrus",
+        "http://el.dbpedia.org/resource/Κίτρος",
+        "http://id.dbpedia.org/resource/Jeruk",
+        "http://d-nb.info/gnd/4139287-5",
+        "http://purl.obolibrary.org/obo/FOODON_03305742",
+        "http://www.wikidata.org/entity/Q81513",
+        "http://pt.dbpedia.org/resource/Citrus",
+        "https://en.wikipedia.org/wiki/Citrus",
+        "http://wikidata.dbpedia.org/resource/Q81513",
+        "http://de.dbpedia.org/resource/Zitruspflanzen",
+        "http://nl.dbpedia.org/resource/Citrusvrucht",
+        "http://rdf.freebase.com/ns/m.0dqb5",
+        "http://dbpedia.org/resource/Citrus",
+        "http://ja.dbpedia.org/resource/ミカン属",
+        "http://eu.dbpedia.org/resource/Garrazki",
+        "http://cs.dbpedia.org/resource/Citrus",
+        "http://it.dbpedia.org/resource/Citrus",
+        "http://pl.dbpedia.org/resource/Cytrus",
+        "http://ko.dbpedia.org/resource/귤속",
+        "http://fr.dbpedia.org/resource/Citrus",
+        "https://knowledge.cafemedia.com/food/entity/citrus_juice"
+      ]
+    },
+    {
+      "@id": "https://yupitsvegan.com/tag/high-vegetable/#id",
+      "@type": "http://schema.org/Thing",
+      "description": "In everyday usage, a vegetable is any part of a plant that is consumed by humans as food as part of a savory meal. The term vegetable is somewhat arbitrary, and largely defined through culinary and cultural tradition. It normally excludes other food derived from plants such as fruits, nuts and cereal grains, but includes...",
+      "name": "vegetable",
+      "sameAs": [
+        "http://ko.dbpedia.org/resource/채소",
+        "http://wikidata.dbpedia.org/resource/Q11004",
+        "http://eu.dbpedia.org/resource/Barazki",
+        "http://purl.obolibrary.org/obo/FOODON_00002141",
+        "http://pl.dbpedia.org/resource/Warzywa",
+        "http://fr.dbpedia.org/resource/Légume",
+        "https://en.wikipedia.org/wiki/Vegetable",
+        "http://de.dbpedia.org/resource/Gemüse",
+        "http://el.dbpedia.org/resource/Λαχανικό",
+        "http://rdf.freebase.com/ns/m.0f4s2w",
+        "http://nl.dbpedia.org/resource/Groente",
+        "http://cs.dbpedia.org/resource/Zelenina",
+        "http://es.dbpedia.org/resource/Verdura",
+        "http://www.wikidata.org/entity/Q11004",
+        "http://dbpedia.org/resource/Vegetable",
+        "http://d-nb.info/gnd/4020069-3",
+        "http://it.dbpedia.org/resource/Verdura",
+        "http://ja.dbpedia.org/resource/野菜",
+        "http://id.dbpedia.org/resource/Sayuran",
+        "https://knowledge.cafemedia.com/food/entity/fruit_vegetable"
+      ]
+    },
+    {
+      "@id": "https://yupitsvegan.com/tag/nuts-and-seeds/#id",
+      "@type": "http://schema.org/Thing",
+      "description": "A nut is a fruit composed of a hard shell and a seed, which is generally edible. In a general context, however, a wide variety of dried seeds are called nuts, but in a botanical context, there is an additional requirement that the shell does not open to release the seed (indehiscent). The translation of...",
+      "name": "tree nut",
+      "sameAs": [
+        "http://wikidata.dbpedia.org/resource/Q11009",
+        "http://pl.dbpedia.org/resource/Orzechy_(bakalie)",
+        "http://www.wikidata.org/entity/Q11009",
+        "http://id.dbpedia.org/resource/Buah_geluk",
+        "http://nl.dbpedia.org/resource/Noot_(plantaardig)",
+        "http://d-nb.info/gnd/4042827-8",
+        "http://fr.dbpedia.org/resource/Fruit_à_coque",
+        "http://rdf.freebase.com/ns/m.01lbxg",
+        "http://dbpedia.org/resource/Nut_(fruit)",
+        "http://ja.dbpedia.org/resource/種実類",
+        "http://yago-knowledge.org/resource/Nut_(fruit)",
+        "http://purl.obolibrary.org/obo/FOODON_03301354",
+        "http://pt.dbpedia.org/resource/Noz",
+        "http://cs.dbpedia.org/resource/Oříšek",
+        "http://ko.dbpedia.org/resource/견과",
+        "http://de.dbpedia.org/resource/Nussfrucht",
+        "https://en.wikipedia.org/wiki/Nut_(fruit)",
+        "http://es.dbpedia.org/resource/Nuez_(fruto)",
+        "http://el.dbpedia.org/resource/Κάρυο_(βοτανική)",
+        "https://knowledge.cafemedia.com/food/entity/tree_nut"
+      ]
+    },
+    {
+      "@id": "https://yupitsvegan.com/category/salad/#id",
+      "@type": "http://schema.org/Thing",
+      "description": "A salad is a dish consisting of small pieces of food, which may be mixed with a sauce or salad dressing. They are typically served cold. Salads can incorporate a variety of foods including vegetables, fruits, cheese, cooked meat, eggs, grains and nuts. Most salads are served cold, although some, such as south German potato...",
+      "name": "salad dressing",
+      "sameAs": [
+        "http://eu.dbpedia.org/resource/Entsalada",
+        "http://www.wikidata.org/entity/Q9266",
+        "http://ja.dbpedia.org/resource/サラダ",
+        "https://en.wikipedia.org/wiki/Salad",
+        "http://de.dbpedia.org/resource/Salat_(Gericht)",
+        "http://el.dbpedia.org/resource/Σαλάτα",
+        "http://es.dbpedia.org/resource/Ensalada",
+        "http://nl.dbpedia.org/resource/Salade",
+        "http://pt.dbpedia.org/resource/Salada",
+        "http://cs.dbpedia.org/resource/Salát_(pokrm)",
+        "http://ko.dbpedia.org/resource/샐러드",
+        "http://rdf.freebase.com/ns/m.0grw1",
+        "http://d-nb.info/gnd/4051351-8",
+        "http://pl.dbpedia.org/resource/Sałatka",
+        "http://fr.dbpedia.org/resource/Salade_(mets)",
+        "http://wikidata.dbpedia.org/resource/Q9266",
+        "http://yago-knowledge.org/resource/Garden_salad",
+        "http://id.dbpedia.org/resource/Selada_(hidangan)",
+        "http://purl.obolibrary.org/obo/FOODON_00001290",
+        "http://dbpedia.org/resource/Salad",
+        "http://it.dbpedia.org/resource/Insalata",
+        "https://knowledge.cafemedia.com/food/entity/salad_dressing"
+      ]
+    }
+  ],
+  "name": "Cashew Sesame Snap Pea Salad",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "313 kcal",
+    "carbohydrateContent": "32 g",
+    "fatContent": "17 g",
+    "fiberContent": "7 g",
+    "proteinContent": "9 g",
+    "saturatedFatContent": "3 g",
+    "servingSize": "1 half recipe",
+    "sodiumContent": "156 mg",
+    "sugarContent": "15 g",
+    "unsaturatedFatContent": "12 g"
+  },
+  "prepTime": "PT15M",
+  "recipeCategory": "Salad",
+  "recipeCuisine": "soy-free",
+  "recipeIngredient": [
+    "8 oz raw snap peas (trimmed if needed, cut in half lengthwise)",
+    "1 cup shredded carrot",
+    "1 bunch of chives (cut into 2-inch pieces (or green onions or scallions - green parts only)",
+    "1/2 cup salted roasted cashews",
+    "(optional) toasted sesame seeds, for topping",
+    "6 tablespoons freshly-squeezed orange juice",
+    "4 tablespoons freshly-squeezed lemon juice",
+    "1/2 tablespoon toasted sesame oil",
+    "salt and pepper (to taste)"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Prepare the dressing by vigorously whisking together all of the ingredients, or closing them tightly in a jar and shaking it. Season to taste with more salt, pepper and citrus."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add all of the chopped veggies and the cashews to a salad bowl and gently toss them together with dressing to taste. Some of the peas will probably fall out of the halved snap pea pods; this is fine, just mix them in with everything else."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Serve right away, or cold. This salad will stay decent in the fridge for a day or two after you make it, although it's best fresh."
+    }
+  ],
+  "recipeYield": "2",
+  "sameAs": [
+    "https://yupitsvegan.com/cashew-sesame-snap-pea-salad"
+  ],
+  "totalTime": "PT15M",
+  "updatedAt": "2022-12-02T15:44:51.593Z"
+}

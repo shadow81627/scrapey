@@ -1,0 +1,166 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1",
+    "ratingValue": "5"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Yup, it's Vegan"
+  },
+  "cookTime": "PT30M",
+  "createdAt": "2022-12-03T02:03:55.171Z",
+  "datePublished": "2014-11-24T20:55:57+00:00",
+  "description": "A hearty kale salad with crisp bell pepper, spicy buffalo tofu, crunchy almonds, and topped with creamy vegan ranch dressing.",
+  "image": [
+    "https://yupitsvegan.com/wp-content/uploads/2014/11/creamy_ranch_kale_salad_buffalo_tofu_4.jpg"
+  ],
+  "keywords": "buffalo tofu salad",
+  "mentions": [
+    {
+      "@id": "https://yupitsvegan.com/tag/high-vegetable/#id",
+      "@type": "http://schema.org/Thing",
+      "description": "In everyday usage, a vegetable is any part of a plant that is consumed by humans as food as part of a savory meal. The term vegetable is somewhat arbitrary, and largely defined through culinary and cultural tradition. It normally excludes other food derived from plants such as fruits, nuts and cereal grains, but includes...",
+      "name": "vegetable",
+      "sameAs": [
+        "http://ko.dbpedia.org/resource/채소",
+        "http://wikidata.dbpedia.org/resource/Q11004",
+        "http://eu.dbpedia.org/resource/Barazki",
+        "http://purl.obolibrary.org/obo/FOODON_00002141",
+        "http://pl.dbpedia.org/resource/Warzywa",
+        "http://fr.dbpedia.org/resource/Légume",
+        "https://en.wikipedia.org/wiki/Vegetable",
+        "http://de.dbpedia.org/resource/Gemüse",
+        "http://el.dbpedia.org/resource/Λαχανικό",
+        "http://rdf.freebase.com/ns/m.0f4s2w",
+        "http://nl.dbpedia.org/resource/Groente",
+        "http://cs.dbpedia.org/resource/Zelenina",
+        "http://es.dbpedia.org/resource/Verdura",
+        "http://www.wikidata.org/entity/Q11004",
+        "http://dbpedia.org/resource/Vegetable",
+        "http://d-nb.info/gnd/4020069-3",
+        "http://it.dbpedia.org/resource/Verdura",
+        "http://ja.dbpedia.org/resource/野菜",
+        "http://id.dbpedia.org/resource/Sayuran",
+        "https://knowledge.cafemedia.com/food/entity/fruit_vegetable"
+      ]
+    },
+    {
+      "@id": "https://yupitsvegan.com/tag/legumes/#id",
+      "@type": "http://schema.org/Thing",
+      "description": "A legume (/ˈlɛɡjuːm/ or /ˌləˈɡjuːm/) is a plant or fruit/seed in the family Fabaceae (or Leguminosae). Legumes are grown agriculturally, primarily for their grain seed called pulse, for livestock forage and silage, and as soil-enhancing green manure. Well-known legumes include alfalfa, clover, peas, beans, lentils, lupin bean, mesquite, carob, soybeans, peanuts, and tamarind. Legumes are...",
+      "name": "legume",
+      "sameAs": [
+        "http://el.dbpedia.org/resource/Όσπρια",
+        "http://cs.dbpedia.org/resource/Luštěnina",
+        "https://en.wikipedia.org/wiki/Legume",
+        "http://rdf.freebase.com/ns/m.01sfdb",
+        "http://wikidata.dbpedia.org/resource/Q145909",
+        "http://pt.dbpedia.org/resource/Legume",
+        "http://www.wikidata.org/entity/Q145909",
+        "http://ja.dbpedia.org/resource/豆果",
+        "http://fr.dbpedia.org/resource/Gousse",
+        "http://eu.dbpedia.org/resource/Lekale",
+        "http://dbpedia.org/resource/Legume",
+        "http://es.dbpedia.org/resource/Legumbre",
+        "http://yago-knowledge.org/resource/Pulse_(legume)",
+        "http://pl.dbpedia.org/resource/Rośliny_strączkowe",
+        "http://purl.obolibrary.org/obo/FOODON_00001264",
+        "http://nl.dbpedia.org/resource/Peul_(vrucht)",
+        "http://de.dbpedia.org/resource/Hülsenfrucht",
+        "http://it.dbpedia.org/resource/Baccello",
+        "http://d-nb.info/gnd/4020803-5",
+        "http://rdf.freebase.com/ns/m.0bqsk",
+        "https://knowledge.cafemedia.com/food/entity/legume"
+      ]
+    },
+    {
+      "@id": "https://yupitsvegan.com/category/salad/#id",
+      "@type": "http://schema.org/Thing",
+      "description": "A salad is a dish consisting of small pieces of food, which may be mixed with a sauce or salad dressing. They are typically served cold. Salads can incorporate a variety of foods including vegetables, fruits, cheese, cooked meat, eggs, grains and nuts. Most salads are served cold, although some, such as south German potato...",
+      "name": "salad dressing",
+      "sameAs": [
+        "http://eu.dbpedia.org/resource/Entsalada",
+        "http://www.wikidata.org/entity/Q9266",
+        "http://ja.dbpedia.org/resource/サラダ",
+        "https://en.wikipedia.org/wiki/Salad",
+        "http://de.dbpedia.org/resource/Salat_(Gericht)",
+        "http://el.dbpedia.org/resource/Σαλάτα",
+        "http://es.dbpedia.org/resource/Ensalada",
+        "http://nl.dbpedia.org/resource/Salade",
+        "http://pt.dbpedia.org/resource/Salada",
+        "http://cs.dbpedia.org/resource/Salát_(pokrm)",
+        "http://ko.dbpedia.org/resource/샐러드",
+        "http://rdf.freebase.com/ns/m.0grw1",
+        "http://d-nb.info/gnd/4051351-8",
+        "http://pl.dbpedia.org/resource/Sałatka",
+        "http://fr.dbpedia.org/resource/Salade_(mets)",
+        "http://wikidata.dbpedia.org/resource/Q9266",
+        "http://yago-knowledge.org/resource/Garden_salad",
+        "http://id.dbpedia.org/resource/Selada_(hidangan)",
+        "http://purl.obolibrary.org/obo/FOODON_00001290",
+        "http://dbpedia.org/resource/Salad",
+        "http://it.dbpedia.org/resource/Insalata",
+        "https://knowledge.cafemedia.com/food/entity/salad_dressing"
+      ]
+    }
+  ],
+  "name": "Creamy Ranch Kale Salad with Buffalo Tofu",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "259 kcal",
+    "carbohydrateContent": "29 g",
+    "fatContent": "8 g",
+    "fiberContent": "9 g",
+    "proteinContent": "20 g",
+    "saturatedFatContent": "1 g",
+    "servingSize": "1 fourth recipe",
+    "sodiumContent": "582 mg",
+    "sugarContent": "9 g",
+    "unsaturatedFatContent": "4 g"
+  },
+  "prepTime": "PT15M",
+  "recipeCategory": "Salad",
+  "recipeCuisine": "gluten-free",
+  "recipeIngredient": [
+    "16 oz extra-firm tofu (drained)",
+    "cooking oil",
+    "3 tbsp cayenne pepper hot sauce (divided)",
+    "1 tsp maple syrup",
+    "1 lb lacinato kale (cut into thin strips or chopped small (1 large bunch)",
+    "1 tbsp kosher salt",
+    "1 cup white vinegar",
+    "1/2 lb baby spinach (cut into thin strips or chopped small)",
+    "1/4 cup sliced toasted almonds (or to taste)",
+    "1 to 2 ribs celery (thinly sliced)",
+    "1 red bell pepper (cut into thin strips)",
+    "pomegranate arils (optional, for garnish)",
+    "buffalo tofu (recipe above)",
+    "avocado ranch dressing"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Press the tofu for 30 minutes, using a tofu press or by wrapping it in a thick towel and stacking it with heavy objects."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Preheat the oven to 375 degrees Fahrenheit and line a baking sheet with parchment paper or a Silpat, then spray it lightly with cooking oil. Cut the tofu into cubes and toss them with 1 tablespoon of hot sauce."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Line the tofu on the baking sheet, and spray the top of the tofu lightly with cooking oil. Bake the tofu for about 30 minutes, flipping halfway through, or until firm and lightly crisp."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Toss the baked tofu with the other 2 tablespoons hot sauce and the maple syrup."
+    }
+  ],
+  "recipeYield": "4",
+  "sameAs": [
+    "https://yupitsvegan.com/2014/11/24/creamy-ranch-kale-salad-buffalo-tofu"
+  ],
+  "totalTime": "PT60M",
+  "updatedAt": "2022-12-03T02:03:55.170Z"
+}

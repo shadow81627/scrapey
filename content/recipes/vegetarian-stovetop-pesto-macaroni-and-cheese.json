@@ -1,0 +1,82 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1",
+    "ratingValue": "5"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Oh My Veggies"
+  },
+  "cookTime": "PT15M",
+  "createdAt": "2022-12-03T04:26:19.362Z",
+  "datePublished": "2019-01-14T06:00:59+00:00",
+  "description": "Stovetop macaroni and cheese made with fresh broccoli and a creamy pesto cheese sauce.",
+  "image": [
+    "https://ohmyveggies.com/wp-content/uploads/2013/01/stovetop_pesto_mac_recipe.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2013/01/stovetop_pesto_mac_recipe-500x400.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2013/01/stovetop_pesto_mac_recipe-500x375.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2013/01/stovetop_pesto_mac_recipe-480x270.jpg"
+  ],
+  "keywords": "how to make macaroni and cheese, macaroni and cheese recipe, Stovetop macaroni and cheese, vegetarian macaroni and cheese, Vegetarian Stovetop Pesto Macaroni and Cheese",
+  "name": "Vegetarian Stovetop Pesto Macaroni and Cheese",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "776 kcal",
+    "carbohydrateContent": "69 g",
+    "cholesterolContent": "107 mg",
+    "fatContent": "41 g",
+    "fiberContent": "6 g",
+    "proteinContent": "35 g",
+    "saturatedFatContent": "22 g",
+    "servingSize": "1 serving",
+    "sodiumContent": "879 mg",
+    "sugarContent": "12 g",
+    "transFatContent": "1 g",
+    "unsaturatedFatContent": "12 g"
+  },
+  "prepTime": "PT15M",
+  "recipeCategory": "Main Course",
+  "recipeCuisine": "American",
+  "recipeIngredient": [
+    "8 oz elbow macaroni",
+    "1 large broccoli crown (broken into florets)",
+    "2 cups reduced fat milk (warmed)",
+    "1/4 cup unsalted butter",
+    "1/4 cup all-purpose flour",
+    "1 1/2 cups fontina cheese (shredded)",
+    "1/2 cups parmesan cheese (shredded, divided)",
+    "1/4 cup pesto",
+    "salt + pepper (to taste)",
+    "1 tsp olive oil",
+    "1/4 cup panko (toasted)"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Bring a large pot of salted water to a boil. Cook macaroni according to package directions until al dente. Two minutes before cook time ends, add broccoli. When macaroni is done, drain immediately and set aside."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Melt butter in a large saucepan over medium heat. Add in flour and whisk into butter; continue to heat until mixture is golden brown, 3–5 minutes."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Slowly add milk to flour mixture, whisking constantly. Once sauce is smooth, cook until slightly thickened (about 3 minutes), continuing to whisk constantly."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Remove sauce from heat. Whisk in fontina and parmesan cheese, pesto, and salt and pepper. Fold in elbow macaroni and broccoli. Divide into bowls and top with toasted panko, if desired."
+    }
+  ],
+  "recipeYield": "4",
+  "sameAs": [
+    "https://ohmyveggies.com/vegetarian-stovetop-pesto-macaroni-and-cheese"
+  ],
+  "suitableForDiet": [
+    "https://schema.org/VegetarianDiet"
+  ],
+  "totalTime": "PT30M",
+  "updatedAt": "2022-12-03T04:26:19.361Z"
+}

@@ -1,0 +1,99 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1",
+    "ratingValue": "5"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Yup, it's Vegan"
+  },
+  "cookTime": "PT20M",
+  "createdAt": "2022-12-02T16:33:58.440Z",
+  "datePublished": "2013-12-28T18:16:42+00:00",
+  "description": "Balsamic-spiked blueberries with a hint of maple syrup, rolled up into a phyllo dough roll, crispy on the outside and tender on the inside. A delightful twist on dessert!",
+  "image": [
+    "https://yupitsvegan.com/wp-content/uploads/2013/12/IMGP0786-1024x7681.jpg"
+  ],
+  "keywords": "blueberry phyllo rolls",
+  "mentions": [
+    {
+      "@id": "https://yupitsvegan.com/category/desserts/#id",
+      "@type": "http://schema.org/Thing",
+      "description": "Dessert (/dᵻˈzɜːrt/) is a course that concludes a main meal. The course usually consists of sweet foods and beverages, such as dessert wine or liqueurs, but may include coffee, cheeses, nuts, or other savory items. In some parts of the world, such as much of central and western Africa, there is no tradition of a...",
+      "name": "sweet dish",
+      "sameAs": [
+        "http://es.dbpedia.org/resource/Postre",
+        "http://dbpedia.org/resource/Dessert",
+        "http://ko.dbpedia.org/resource/후식",
+        "http://fr.dbpedia.org/resource/Dessert",
+        "http://de.dbpedia.org/resource/Dessert",
+        "http://id.dbpedia.org/resource/Hidangan_penutup",
+        "http://ja.dbpedia.org/resource/デザート",
+        "http://nl.dbpedia.org/resource/Nagerecht",
+        "http://pt.dbpedia.org/resource/Sobremesa",
+        "http://d-nb.info/gnd/4011539-2",
+        "http://purl.obolibrary.org/obo/FOODON_03316299",
+        "http://pl.dbpedia.org/resource/Deser",
+        "http://cs.dbpedia.org/resource/Dezert",
+        "http://eu.dbpedia.org/resource/Azkenburu",
+        "http://www.wikidata.org/entity/Q182940",
+        "https://en.wikipedia.org/wiki/Dessert",
+        "http://it.dbpedia.org/resource/Dessert",
+        "http://rdf.freebase.com/ns/m.0270h",
+        "http://wikidata.dbpedia.org/resource/Q182940",
+        "https://knowledge.cafemedia.com/food/entity/sweet_dish"
+      ]
+    }
+  ],
+  "name": "Balsamic Blueberry Phyllo Rolls",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "219 kcal",
+    "carbohydrateContent": "48 g",
+    "fatContent": "2 g",
+    "fiberContent": "2 g",
+    "proteinContent": "5 g",
+    "servingSize": "1 fourth recipe",
+    "sodiumContent": "45 mg",
+    "sugarContent": "16 g"
+  },
+  "prepTime": "PT10M",
+  "recipeCategory": "Dessert",
+  "recipeCuisine": "vegan",
+  "recipeIngredient": [
+    "0.5 lb premade phyllo dough (like Trader Joe's brand), room temperature)",
+    "1.5 cup blueberries",
+    "2 tbsp maple syrup (or to taste)",
+    "1.5 tbsp balsamic vinegar",
+    "1/8 tsp ground cinnamon (or more to taste)",
+    "1 tbsp maple syrup",
+    "1/2 tsp neutral oil",
+    "2 tsp plain, unsweetened nondairy milk"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "In a small, microwave-safe bowl, heat the blueberries for about 120 seconds or until warm and fragrant. Alternately, do this over the stove. Drain excess liquid from the blueberries and stir in the maple syrup and balsamic vinegar."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Preheat the oven to 400 degrees Fahrenheit."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Using three sheets of phyllo dough at a time, scoop about 3 tablespoons of filling onto one corner of the dough nearest you, and grab carefully from underneath it, rolling it backward until the dough is one long long. Then, roll horizontally, tucking in the sides as you go, until all of the dough is rolled up. Trim any excess dough and place on a lightly greased baking sheet."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Repeat until all of the filling is gone."
+    }
+  ],
+  "recipeYield": "6",
+  "sameAs": [
+    "https://yupitsvegan.com/balsamic-blueberry-phyllo-rolls"
+  ],
+  "totalTime": "PT30M",
+  "updatedAt": "2022-12-02T16:33:58.440Z"
+}

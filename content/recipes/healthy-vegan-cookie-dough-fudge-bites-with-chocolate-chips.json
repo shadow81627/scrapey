@@ -1,0 +1,162 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "3",
+    "ratingValue": "4.67"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Yup, it's Vegan"
+  },
+  "cookTime": "PT10M",
+  "createdAt": "2022-12-02T17:26:54.954Z",
+  "datePublished": "2017-08-01T07:10:34+00:00",
+  "description": "These healthy vegan cookie dough bites are unbelievably dairy-free, oil-free, free of added sugar, and delicious as all hell. Beloved by vegans and omnivores alike!",
+  "image": [
+    "https://yupitsvegan.com/wp-content/uploads/2017/08/healthy-vegan-cookie-dough-chocolate-chip-raw-sugar-free-square.jpg"
+  ],
+  "keywords": "healthy vegan cookie dough",
+  "mentions": [
+    {
+      "@id": "https://yupitsvegan.com/tag/chocolate/#id",
+      "@type": "http://schema.org/Thing",
+      "description": "Chocolate /ˈtʃɒkᵊlᵻt/ is a typically sweet, usually brown, food preparation of Theobroma cacao seeds, roasted and ground, often flavored, as with vanilla. It is made in the form of a liquid, paste, or in a block, or used as a flavoring ingredient in other foods. Cacao has been cultivated by many cultures for at least...",
+      "name": "chocolate",
+      "sameAs": [
+        "http://purl.obolibrary.org/obo/FOODON_03307240",
+        "http://wikidata.dbpedia.org/resource/Q195",
+        "http://ja.dbpedia.org/resource/チョコレート",
+        "https://en.wikipedia.org/wiki/Chocolate",
+        "http://de.dbpedia.org/resource/Schokolade",
+        "http://pt.dbpedia.org/resource/Chocolate",
+        "http://id.dbpedia.org/resource/Cokelat",
+        "http://fr.dbpedia.org/resource/Chocolat",
+        "http://it.dbpedia.org/resource/Cioccolato",
+        "http://cs.dbpedia.org/resource/Čokoláda",
+        "http://pl.dbpedia.org/resource/Czekolada",
+        "http://el.dbpedia.org/resource/Σοκολάτα",
+        "http://es.dbpedia.org/resource/Chocolate",
+        "http://rdf.freebase.com/ns/m.020vl",
+        "http://dbpedia.org/resource/Chocolate",
+        "http://d-nb.info/gnd/4053168-5",
+        "http://ko.dbpedia.org/resource/초콜릿",
+        "http://www.wikidata.org/entity/Q195",
+        "http://nl.dbpedia.org/resource/Chocolade",
+        "http://eu.dbpedia.org/resource/Txokolate",
+        "https://knowledge.cafemedia.com/food/entity/chocolate"
+      ]
+    },
+    {
+      "@id": "https://yupitsvegan.com/tag/nuts-and-seeds/#id",
+      "@type": "http://schema.org/Thing",
+      "description": "A nut is a fruit composed of a hard shell and a seed, which is generally edible. In a general context, however, a wide variety of dried seeds are called nuts, but in a botanical context, there is an additional requirement that the shell does not open to release the seed (indehiscent). The translation of...",
+      "name": "tree nut",
+      "sameAs": [
+        "http://wikidata.dbpedia.org/resource/Q11009",
+        "http://pl.dbpedia.org/resource/Orzechy_(bakalie)",
+        "http://www.wikidata.org/entity/Q11009",
+        "http://id.dbpedia.org/resource/Buah_geluk",
+        "http://nl.dbpedia.org/resource/Noot_(plantaardig)",
+        "http://d-nb.info/gnd/4042827-8",
+        "http://fr.dbpedia.org/resource/Fruit_à_coque",
+        "http://rdf.freebase.com/ns/m.01lbxg",
+        "http://dbpedia.org/resource/Nut_(fruit)",
+        "http://ja.dbpedia.org/resource/種実類",
+        "http://yago-knowledge.org/resource/Nut_(fruit)",
+        "http://purl.obolibrary.org/obo/FOODON_03301354",
+        "http://pt.dbpedia.org/resource/Noz",
+        "http://cs.dbpedia.org/resource/Oříšek",
+        "http://ko.dbpedia.org/resource/견과",
+        "http://de.dbpedia.org/resource/Nussfrucht",
+        "https://en.wikipedia.org/wiki/Nut_(fruit)",
+        "http://es.dbpedia.org/resource/Nuez_(fruto)",
+        "http://el.dbpedia.org/resource/Κάρυο_(βοτανική)",
+        "https://knowledge.cafemedia.com/food/entity/tree_nut"
+      ]
+    },
+    {
+      "@id": "https://yupitsvegan.com/category/desserts/#id",
+      "@type": "http://schema.org/Thing",
+      "description": "Dessert (/dᵻˈzɜːrt/) is a course that concludes a main meal. The course usually consists of sweet foods and beverages, such as dessert wine or liqueurs, but may include coffee, cheeses, nuts, or other savory items. In some parts of the world, such as much of central and western Africa, there is no tradition of a...",
+      "name": "sweet dish",
+      "sameAs": [
+        "http://es.dbpedia.org/resource/Postre",
+        "http://dbpedia.org/resource/Dessert",
+        "http://ko.dbpedia.org/resource/후식",
+        "http://fr.dbpedia.org/resource/Dessert",
+        "http://de.dbpedia.org/resource/Dessert",
+        "http://id.dbpedia.org/resource/Hidangan_penutup",
+        "http://ja.dbpedia.org/resource/デザート",
+        "http://nl.dbpedia.org/resource/Nagerecht",
+        "http://pt.dbpedia.org/resource/Sobremesa",
+        "http://d-nb.info/gnd/4011539-2",
+        "http://purl.obolibrary.org/obo/FOODON_03316299",
+        "http://pl.dbpedia.org/resource/Deser",
+        "http://cs.dbpedia.org/resource/Dezert",
+        "http://eu.dbpedia.org/resource/Azkenburu",
+        "http://www.wikidata.org/entity/Q182940",
+        "https://en.wikipedia.org/wiki/Dessert",
+        "http://it.dbpedia.org/resource/Dessert",
+        "http://rdf.freebase.com/ns/m.0270h",
+        "http://wikidata.dbpedia.org/resource/Q182940",
+        "https://knowledge.cafemedia.com/food/entity/sweet_dish"
+      ]
+    }
+  ],
+  "name": "Healthy Vegan Cookie Dough Fudge Bites with Chocolate Chips",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "122 kcal",
+    "carbohydrateContent": "11 g",
+    "fatContent": "8 g",
+    "fiberContent": "2 g",
+    "proteinContent": "3 g",
+    "saturatedFatContent": "2 g",
+    "servingSize": "1 cookie dough square",
+    "sodiumContent": "42 mg",
+    "sugarContent": "8 g",
+    "unsaturatedFatContent": "6 g"
+  },
+  "prepTime": "PT15M",
+  "recipeCategory": "Dessert",
+  "recipeCuisine": "dairy-free",
+  "recipeIngredient": [
+    "1 packed cup pitted dates (soaked in hot water for 1-2 hours (I used deglet noor dates)",
+    "1 cup walnuts (roughly chopped)",
+    "1/4 cup hemp seeds (shelled hemp hearts)",
+    "2 tbsp flax seeds",
+    "1/2 cup cooked red lentils",
+    "3/4 tsp vanilla extract",
+    "1/4 tsp salt (or to taste)",
+    "1/3 cup dairy-free chocolate chips (optional) (or use cacao nibs for a completely added sugar-free option)"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Don't forget to soak your dates first before getting started!"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Heat a large skillet over medium heat. Add the walnuts. Stir frequently and cook for 3 minutes. Add the hemp seeds and flax seeds to the pan. Continue to cook and stir frequently until walnuts and flax seeds are lightly browned, 2-4 more minutes."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Transfer the walnut and seed mixture to a food processor. Pulse several times, scraping down the sides if needed, until broken into crumbs."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Drain the soaked dates, and add them to the food processor along with the cooked lentils, vanilla extract, and salt. Blend as smooth as possible, scraping down the sides if needed."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Stir in the chocolate chips if using. Line a small, square or rectangular container with parchment paper and spread out the mixture onto the parchment. Let set in the freezer for 1-2 hours; then slice into cubes. Store in the freezer in an airtight container."
+    }
+  ],
+  "recipeYield": "16",
+  "sameAs": [
+    "https://yupitsvegan.com/healthy-vegan-cookie-dough"
+  ],
+  "totalTime": "PT25M",
+  "updatedAt": "2022-12-02T17:26:54.952Z"
+}

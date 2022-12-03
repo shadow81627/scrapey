@@ -1,0 +1,197 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "2",
+    "ratingValue": "5"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Yup, it's Vegan"
+  },
+  "cookTime": "PT35M",
+  "createdAt": "2022-12-02T17:42:58.904Z",
+  "datePublished": "2016-04-04T19:08:59+00:00",
+  "description": "These wholesome gluten-free vegan walnut brownies are fudgy, chewy, and full of chocolate flavor. Naturally sweetened and made with wholesome ingredients.",
+  "image": [
+    "https://yupitsvegan.com/wp-content/uploads/2016/04/gluten-free-vegan-walnut-brownies-naturally-sweetened-3.jpg"
+  ],
+  "keywords": "gluten-free vegan walnut brownies",
+  "mentions": [
+    {
+      "@id": "https://yupitsvegan.com/tag/baking/#id",
+      "@type": "http://schema.org/Thing",
+      "description": "Baking is a method of cooking food that uses prolonged dry heat, normally in an oven, but also in hot ashes, or on hot stones. The most common baked item is bread but many other types of foods are baked. Heat is gradually transferred \"from the surface of cakes, cookies, and breads to their centre....",
+      "name": "baked good",
+      "sameAs": [
+        "http://dbpedia.org/resource/Baking",
+        "http://purl.obolibrary.org/obo/FOODON_03311631",
+        "http://ko.dbpedia.org/resource/베이킹",
+        "http://nl.dbpedia.org/resource/Bakken",
+        "http://www.wikidata.org/entity/Q720398",
+        "http://de.dbpedia.org/resource/Backen",
+        "http://wikidata.dbpedia.org/resource/Q720398",
+        "http://pl.dbpedia.org/resource/Pieczenie",
+        "http://ja.dbpedia.org/resource/焼く_(調理)",
+        "http://es.dbpedia.org/resource/Horneado",
+        "http://rdf.freebase.com/ns/m.0dv34",
+        "https://en.wikipedia.org/wiki/Baking",
+        "https://knowledge.cafemedia.com/food/entity/baked_good"
+      ]
+    },
+    {
+      "@id": "https://yupitsvegan.com/tag/chocolate/#id",
+      "@type": "http://schema.org/Thing",
+      "description": "Chocolate /ˈtʃɒkᵊlᵻt/ is a typically sweet, usually brown, food preparation of Theobroma cacao seeds, roasted and ground, often flavored, as with vanilla. It is made in the form of a liquid, paste, or in a block, or used as a flavoring ingredient in other foods. Cacao has been cultivated by many cultures for at least...",
+      "name": "chocolate",
+      "sameAs": [
+        "http://purl.obolibrary.org/obo/FOODON_03307240",
+        "http://wikidata.dbpedia.org/resource/Q195",
+        "http://ja.dbpedia.org/resource/チョコレート",
+        "https://en.wikipedia.org/wiki/Chocolate",
+        "http://de.dbpedia.org/resource/Schokolade",
+        "http://pt.dbpedia.org/resource/Chocolate",
+        "http://id.dbpedia.org/resource/Cokelat",
+        "http://fr.dbpedia.org/resource/Chocolat",
+        "http://it.dbpedia.org/resource/Cioccolato",
+        "http://cs.dbpedia.org/resource/Čokoláda",
+        "http://pl.dbpedia.org/resource/Czekolada",
+        "http://el.dbpedia.org/resource/Σοκολάτα",
+        "http://es.dbpedia.org/resource/Chocolate",
+        "http://rdf.freebase.com/ns/m.020vl",
+        "http://dbpedia.org/resource/Chocolate",
+        "http://d-nb.info/gnd/4053168-5",
+        "http://ko.dbpedia.org/resource/초콜릿",
+        "http://www.wikidata.org/entity/Q195",
+        "http://nl.dbpedia.org/resource/Chocolade",
+        "http://eu.dbpedia.org/resource/Txokolate",
+        "https://knowledge.cafemedia.com/food/entity/chocolate"
+      ]
+    },
+    {
+      "@id": "https://yupitsvegan.com/tag/nuts-and-seeds/#id",
+      "@type": "http://schema.org/Thing",
+      "description": "A nut is a fruit composed of a hard shell and a seed, which is generally edible. In a general context, however, a wide variety of dried seeds are called nuts, but in a botanical context, there is an additional requirement that the shell does not open to release the seed (indehiscent). The translation of...",
+      "name": "tree nut",
+      "sameAs": [
+        "http://wikidata.dbpedia.org/resource/Q11009",
+        "http://pl.dbpedia.org/resource/Orzechy_(bakalie)",
+        "http://www.wikidata.org/entity/Q11009",
+        "http://id.dbpedia.org/resource/Buah_geluk",
+        "http://nl.dbpedia.org/resource/Noot_(plantaardig)",
+        "http://d-nb.info/gnd/4042827-8",
+        "http://fr.dbpedia.org/resource/Fruit_à_coque",
+        "http://rdf.freebase.com/ns/m.01lbxg",
+        "http://dbpedia.org/resource/Nut_(fruit)",
+        "http://ja.dbpedia.org/resource/種実類",
+        "http://yago-knowledge.org/resource/Nut_(fruit)",
+        "http://purl.obolibrary.org/obo/FOODON_03301354",
+        "http://pt.dbpedia.org/resource/Noz",
+        "http://cs.dbpedia.org/resource/Oříšek",
+        "http://ko.dbpedia.org/resource/견과",
+        "http://de.dbpedia.org/resource/Nussfrucht",
+        "https://en.wikipedia.org/wiki/Nut_(fruit)",
+        "http://es.dbpedia.org/resource/Nuez_(fruto)",
+        "http://el.dbpedia.org/resource/Κάρυο_(βοτανική)",
+        "https://knowledge.cafemedia.com/food/entity/tree_nut"
+      ]
+    },
+    {
+      "@id": "https://yupitsvegan.com/category/desserts/#id",
+      "@type": "http://schema.org/Thing",
+      "description": "Dessert (/dᵻˈzɜːrt/) is a course that concludes a main meal. The course usually consists of sweet foods and beverages, such as dessert wine or liqueurs, but may include coffee, cheeses, nuts, or other savory items. In some parts of the world, such as much of central and western Africa, there is no tradition of a...",
+      "name": "sweet dish",
+      "sameAs": [
+        "http://es.dbpedia.org/resource/Postre",
+        "http://dbpedia.org/resource/Dessert",
+        "http://ko.dbpedia.org/resource/후식",
+        "http://fr.dbpedia.org/resource/Dessert",
+        "http://de.dbpedia.org/resource/Dessert",
+        "http://id.dbpedia.org/resource/Hidangan_penutup",
+        "http://ja.dbpedia.org/resource/デザート",
+        "http://nl.dbpedia.org/resource/Nagerecht",
+        "http://pt.dbpedia.org/resource/Sobremesa",
+        "http://d-nb.info/gnd/4011539-2",
+        "http://purl.obolibrary.org/obo/FOODON_03316299",
+        "http://pl.dbpedia.org/resource/Deser",
+        "http://cs.dbpedia.org/resource/Dezert",
+        "http://eu.dbpedia.org/resource/Azkenburu",
+        "http://www.wikidata.org/entity/Q182940",
+        "https://en.wikipedia.org/wiki/Dessert",
+        "http://it.dbpedia.org/resource/Dessert",
+        "http://rdf.freebase.com/ns/m.0270h",
+        "http://wikidata.dbpedia.org/resource/Q182940",
+        "https://knowledge.cafemedia.com/food/entity/sweet_dish"
+      ]
+    }
+  ],
+  "name": "Fudgy Walnut Brownies (Gluten-free)",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "251 kcal",
+    "carbohydrateContent": "27 g",
+    "fatContent": "15 g",
+    "fiberContent": "3 g",
+    "proteinContent": "5 g",
+    "saturatedFatContent": "3 g",
+    "servingSize": "1 brownie",
+    "sodiumContent": "83 mg",
+    "sugarContent": "16 g",
+    "unsaturatedFatContent": "10 g"
+  },
+  "prepTime": "PT10M",
+  "recipeCategory": "Dessert",
+  "recipeCuisine": "gluten-free",
+  "recipeIngredient": [
+    "140 g raw walnuts (about 1 and 1/4 cups walnut pieces)",
+    "36 g cocoa powder (about 6 tbsps)",
+    "1 tsp baking powder",
+    "1/4 tsp salt",
+    "1/2 cup maple syrup",
+    "2 tsp vanilla extract",
+    "6 tbsp plain, unsweetened soy milk (1/4 cup + 2 tbsp) (or other nondairy milk)",
+    "25 g white rice flour (about 2 tbsp)",
+    "16 g oat flour (about 2 tbsp)",
+    "60 g chopped dark chocolate or vegan chocolate chips (like Enjoy Life brand)"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Lightly grease a standard sized loaf pan."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add the walnuts to a food processor and process into a meal. Add the cocoa powder, baking powder and salt and pulse a few more times to mix. (You can also use a blender, but preparing the batter will take longer due to frequently stopping to scrape the sides)."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add the maple syrup, vanilla extract and nondairy milk, and blend continuously until the mixture is completely smooth, stopping to scrape the sides as needed. In my high-speed blender it took about 90 seconds and in my food processor it took around 3 minutes."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add the flours and blend again until smooth."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Transfer the batter from the blender and fold in the chocolate chips or chunks. Spread it out into an even layer in the loaf pan. It should be quite thick. I just add the chocolate chips straight to the loaf pan to save dirtying an extra bowl."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Let the batter rest for 20 minutes while the oven is preheated to 350 degrees Fahrenheit. This step is needed for the best texture - rice flour can be grainy if it doesn't have sufficient time to absorb liquid."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Bake for 34-36 minutes, or until the edges are starting to pull away from the pan slightly and the brownies feel somewhat firm."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Let cool for at least 60 minutes before slicing. As with many baked goods of this persuasion, the first one that you slice may not be the most attractive but all of the subsequent brownies are easier to slice. :)"
+    }
+  ],
+  "recipeYield": "8",
+  "sameAs": [
+    "https://yupitsvegan.com/gluten-free-vegan-walnut-brownies"
+  ],
+  "totalTime": "PT45M",
+  "updatedAt": "2022-12-02T17:42:58.902Z"
+}

@@ -1,0 +1,116 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "4",
+    "ratingValue": "4.5"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Yup, it's Vegan"
+  },
+  "cookTime": "PT60M",
+  "createdAt": "2022-12-02T09:19:00.398Z",
+  "datePublished": "2014-08-18T07:00:54+00:00",
+  "description": "An easy, flavorful gluten-free &amp; vegan chickpea vindaloo - chickpeas in spicy and tangy tomato curry. Make your own vegan vindaloo at home using flavorful fresh curry paste. Note that you need to soak your chickpeas in advance.",
+  "image": [
+    "https://yupitsvegan.com/wp-content/uploads/2014/08/chickpea_vindaloo_spicy_chickpea_curry_2.jpg"
+  ],
+  "keywords": "chickpea vindaloo",
+  "mentions": [
+    {
+      "@id": "https://yupitsvegan.com/tag/legumes/#id",
+      "@type": "http://schema.org/Thing",
+      "description": "A legume (/ˈlɛɡjuːm/ or /ˌləˈɡjuːm/) is a plant or fruit/seed in the family Fabaceae (or Leguminosae). Legumes are grown agriculturally, primarily for their grain seed called pulse, for livestock forage and silage, and as soil-enhancing green manure. Well-known legumes include alfalfa, clover, peas, beans, lentils, lupin bean, mesquite, carob, soybeans, peanuts, and tamarind. Legumes are...",
+      "name": "legume",
+      "sameAs": [
+        "http://el.dbpedia.org/resource/Όσπρια",
+        "http://cs.dbpedia.org/resource/Luštěnina",
+        "https://en.wikipedia.org/wiki/Legume",
+        "http://rdf.freebase.com/ns/m.01sfdb",
+        "http://wikidata.dbpedia.org/resource/Q145909",
+        "http://pt.dbpedia.org/resource/Legume",
+        "http://www.wikidata.org/entity/Q145909",
+        "http://ja.dbpedia.org/resource/豆果",
+        "http://fr.dbpedia.org/resource/Gousse",
+        "http://eu.dbpedia.org/resource/Lekale",
+        "http://dbpedia.org/resource/Legume",
+        "http://es.dbpedia.org/resource/Legumbre",
+        "http://yago-knowledge.org/resource/Pulse_(legume)",
+        "http://pl.dbpedia.org/resource/Rośliny_strączkowe",
+        "http://purl.obolibrary.org/obo/FOODON_00001264",
+        "http://nl.dbpedia.org/resource/Peul_(vrucht)",
+        "http://de.dbpedia.org/resource/Hülsenfrucht",
+        "http://it.dbpedia.org/resource/Baccello",
+        "http://d-nb.info/gnd/4020803-5",
+        "http://rdf.freebase.com/ns/m.0bqsk",
+        "https://knowledge.cafemedia.com/food/entity/legume"
+      ]
+    }
+  ],
+  "name": "Chickpea Vindaloo (Spicy Chickpea Curry)",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "365 kcal",
+    "carbohydrateContent": "84 g",
+    "fatContent": "7 g",
+    "fiberContent": "28 g",
+    "proteinContent": "18 g",
+    "saturatedFatContent": "1 g",
+    "servingSize": "1 fifth recipe",
+    "sodiumContent": "521 mg",
+    "sugarContent": "7 g",
+    "unsaturatedFatContent": "1 g"
+  },
+  "prepTime": "PT10M",
+  "recipeCategory": "Main Course",
+  "recipeCuisine": "gluten-free",
+  "recipeIngredient": [
+    "2 cups dried chickpeas",
+    "1 tsp coconut oil",
+    "1 yellow or white onion (diced)",
+    "5 cups water",
+    "1 and 1/2 cups diced potatoes (about 2 medium potatoes)",
+    "1 cup diced tomato (about 2 medium-small tomatoes)",
+    "vindaloo curry paste (recipe below)",
+    "1/2 tsp coconut oil",
+    "1 tsp cardamom pods (scant)",
+    "1 tbsp coriander seeds",
+    "1 tsp black peppercorns",
+    "1 tbsp mustard seeds",
+    "2 tsp cumin seeds",
+    "2 tsp fenugreek seeds",
+    "5 cloves",
+    "2 bay leaves",
+    "1 tsp ground cinnamon",
+    "1 tsp ground turmeric",
+    "1 and 1/2 tbsp paprika",
+    "1 tsp coconut sugar (or regular sugar)",
+    "4 red chilis (seeds removed (or not, if you dare), chopped)",
+    "4 cloves garlic (chopped)",
+    "2 inches fresh ginger (peeled and minced)",
+    "2 tbsp tomato paste",
+    "1 and 1/2 tsp salt",
+    "1/4 cup lemon juice (about 1 large lemon) (or red wine vinegar)"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Soak the chickpeas overnight, or for 1 hour using this quick soak method. Cover with plenty of water as they will nearly double in size."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "In a large saucepan, warm the coconut oil. Add the onion and a pinch of salt, and stir. Cook for 3-5 minutes, until the onion is softened. Add the potato and stir."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Drain and rinse the chickpeas and add them to the pot along with the potatoes and 5 cups of water. Bring to a boil and then reduce to medium heat. Partially cover the pot. Continue to stir occasionally, and cook until the chickpeas are tender, about 40 minutes."
+    }
+  ],
+  "recipeYield": "5",
+  "sameAs": [
+    "https://yupitsvegan.com/2014/08/18/chickpea-vindaloo"
+  ],
+  "totalTime": "PT70M",
+  "updatedAt": "2022-12-03T03:45:58.636Z"
+}

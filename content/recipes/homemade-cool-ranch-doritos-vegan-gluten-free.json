@@ -1,0 +1,84 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "5",
+    "reviewCount": "3"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "She Likes Food"
+  },
+  "cookingMethod": "Oven",
+  "cookTime": "PT12M",
+  "createdAt": "2022-12-02T10:00:33.493Z",
+  "datePublished": "2014-04-02",
+  "description": "These Homemade Cool Ranch Doritos are made with healthy ingredients so you can feel good about feeding them to your kids!",
+  "image": [
+    "https://www.shelikesfood.com/wp-content/uploads/2014/04/Doritos-58021-225x225.jpg",
+    "https://www.shelikesfood.com/wp-content/uploads/2014/04/Doritos-58021-260x195.jpg",
+    "https://www.shelikesfood.com/wp-content/uploads/2014/04/Doritos-58021-320x180.jpg",
+    "https://www.shelikesfood.com/wp-content/uploads/2014/04/Doritos-58021.jpg"
+  ],
+  "keywords": "Homemade Cool Ranch Doritos",
+  "name": "Homemade Cool Ranch Doritos {vegan, gluten free}",
+  "nutrition": {
+    "@type": "nutritionInformation",
+    "calories": "320 calories",
+    "carbohydrateContent": "52.9 g",
+    "cholesterolContent": "0 mg",
+    "fatContent": "10.4 g",
+    "fiberContent": "7.9 g",
+    "proteinContent": "7.4 g",
+    "saturatedFatContent": "1.5 g",
+    "servingSize": "",
+    "sodiumContent": "636.9 mg",
+    "sugarContent": "1.2 g",
+    "transFatContent": "0 g"
+  },
+  "prepTime": "PT5M",
+  "recipeCategory": "Snack",
+  "recipeCuisine": "American",
+  "recipeIngredient": [
+    "8 corn tortillas",
+    "1 – 2 tablespoons olive oil, or canola oil",
+    "1 1/2 teaspoon nutritional yeast",
+    "3/4 teaspoons paprika",
+    "1/2 teaspoon onion powder",
+    "1/2 teaspoon garlic powder",
+    "1 teaspoon dried chives",
+    "1 teaspoon dried dill",
+    "1 teaspoon dried parsley",
+    "1/2 teaspoon salt"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Pre-heat oven to 350 degrees F. Brush both sides of each tortilla with olive oil and then cut into sixths. Spread tortilla chips out on a large baking sheet and back for about 12 minutes, flipping once. You may have to bake in two batches if you have a smaller baking sheet."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Mix all spices together in a small bowl. Once tortilla chips are finished baking, place them in a large paper bag or plastic tupperware. Add the seasoning mix and shake until all chips are coated. Enjoy!"
+    }
+  ],
+  "recipeYield": "2",
+  "sameAs": [
+    "https://shelikesfood.com/homemade-cool-ranch-doritos-vegan-gluten-free/print/8696"
+  ],
+  "suitableForDiet": "VeganDiet",
+  "totalTime": "PT17M",
+  "updatedAt": "2022-12-03T09:18:05.913Z",
+  "url": "https://www.shelikesfood.com/homemade-cool-ranch-doritos-vegan-gluten-free/",
+  "video": {
+    "@context": "http://schema.org",
+    "@type": "VideoObject",
+    "contentUrl": "https://www.youtube.com/watch?v=bV97TKMTpDY",
+    "description": "These Homemade Cool Ranch Doritos are so easy to make and much healthier than the store-bought ones!  They're vegan, gluten free and kid friendly!\n\nRecipe: https://www.shelikesfood.com/homemade-cool-ranch-doritos-vegan-gluten-free/",
+    "embedUrl": "https://www.youtube.com/embed/bV97TKMTpDY?feature=oembed",
+    "name": "How To Make Homemade Cool Ranch Doritos",
+    "thumbnailUrl": [
+      "https://i.ytimg.com/vi/bV97TKMTpDY/hqdefault.jpg"
+    ],
+    "uploadDate": "2019-05-19"
+  }
+}

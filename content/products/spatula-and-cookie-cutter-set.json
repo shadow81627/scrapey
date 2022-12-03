@@ -1,0 +1,42 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Unit Price",
+      "value": "$5.00 per 1Ea"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2022-12-03T11:08:26.016Z",
+  "description": "Coles Spatula And Cookie Cutter Set",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/3/1/5318540.jpg",
+  "name": "Spatula And Cookie Cutter Set",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 5,
+    "lowPrice": 5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-03T11:08:26.014Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "5.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/cutter-set"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/cutter-set"
+  ],
+  "sku": "5318540",
+  "updatedAt": "2022-12-03T11:08:26.014Z"
+}

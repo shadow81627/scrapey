@@ -1,0 +1,95 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "5",
+    "reviewCount": "4"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "She Likes Food"
+  },
+  "cookTime": "PT20M",
+  "createdAt": "2022-12-03T01:53:49.734Z",
+  "datePublished": "2017-08-10",
+  "description": "A quick, easy and delicious vegetarian dinner that is packed with protein!",
+  "image": [
+    "https://www.shelikesfood.com/wp-content/uploads/2017/08/30-Minute-Tempeh-Chickpea-Sloppy-Joes-8247-225x225.jpg",
+    "https://www.shelikesfood.com/wp-content/uploads/2017/08/30-Minute-Tempeh-Chickpea-Sloppy-Joes-8247-260x195.jpg",
+    "https://www.shelikesfood.com/wp-content/uploads/2017/08/30-Minute-Tempeh-Chickpea-Sloppy-Joes-8247-320x180.jpg",
+    "https://www.shelikesfood.com/wp-content/uploads/2017/08/30-Minute-Tempeh-Chickpea-Sloppy-Joes-8247.jpg"
+  ],
+  "name": "30 Minute Tempeh & Chickpea Sloppy Joes",
+  "nutrition": {
+    "@type": "nutritionInformation",
+    "calories": "115 calories",
+    "carbohydrateContent": "9 g",
+    "cholesterolContent": "0",
+    "fatContent": "6 g",
+    "fiberContent": "1 g",
+    "proteinContent": "8 g",
+    "saturatedFatContent": "1 g",
+    "servingSize": "1/6 of sloppy Joe mixture",
+    "sodiumContent": "137 mg",
+    "sugarContent": "3 g"
+  },
+  "prepTime": "PT10M",
+  "recipeCategory": "Dinner",
+  "recipeIngredient": [
+    "1 teaspoon olive oil",
+    "1/4 cup diced onion",
+    "1 clove garlic, minced",
+    "1 (8 oz) package tempeh, crumbled",
+    "1 (15 oz) can chickpeas, drained and rinsed",
+    "1 cup marinara sauce",
+    "1 tablespoon maple syrup",
+    "1 tablespoon ketchup",
+    "2 teaspoons apple cider vinegar",
+    "1 teaspoons tamari",
+    "1 teaspoon chili powder",
+    "3/4 teaspoons smoked paprika",
+    "1/2 teaspoon mustard powder",
+    "1/2 teaspoon ground cumin",
+    "1/4 teaspoon salt",
+    "1/8 teaspoon black pepper",
+    "6 hamburger buns",
+    "Coleslaw for topping, optional"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Heat a large pan over medium heat and add olive oil and onion. Cook onion for 2 minutes and then add garlic and cook for 30 seconds."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add in crumbled tempeh and cook until browned, 3-4 minutes."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Next add in all the remaining ingredients, including the chickpeas, stir until combined and cook until everything is heated through, about 10 minutes."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Scoop sloppy Joe mixture onto buns and top with coleslaw, if desired."
+    }
+  ],
+  "recipeYield": "6",
+  "sameAs": [
+    "https://shelikesfood.com/30-minute-tempeh-chickpea-sloppy-joes"
+  ],
+  "totalTime": "PT30M",
+  "updatedAt": "2022-12-03T01:53:49.733Z",
+  "url": "https://www.shelikesfood.com/30-minute-tempeh-chickpea-sloppy-joes/",
+  "video": {
+    "@context": "http://schema.org",
+    "@type": "VideoObject",
+    "contentUrl": "https://www.youtube.com/watch?v=XN-1_0eqqQ8",
+    "description": "These 30 Minute Tempeh and Chickpea Sloppy Joes are perfect for a healthy, easy and delicious vegan dinner!  The whole family will love them!  Get the recipe here:https://www.shelikesfood.com/1/post/2017/08/30-minute-tempeh-chickpea-sloppy-joes.html",
+    "embedUrl": "https://www.youtube.com/embed/XN-1_0eqqQ8?feature=oembed",
+    "name": "30 Minute Tempeh and Chickpea Sloppy Joes",
+    "thumbnailUrl": [
+      "https://i.ytimg.com/vi/XN-1_0eqqQ8/hqdefault.jpg"
+    ],
+    "uploadDate": "2017-08-15"
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "2",
+    "ratingValue": "5"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Sophia DeSantis"
+  },
+  "cookTime": "PT40M",
+  "createdAt": "2022-12-03T00:14:15.765Z",
+  "datePublished": "2014-04-07T06:30:50+00:00",
+  "description": "A kid (and those that want to eat like a kid) meal with both protein and a helping of veggies. Creamy pasta and peas are easy to make and loved by all!",
+  "image": [
+    "https://www.veggiesdontbite.com/wp-content/uploads/2014/04/vegan-pasta-peas-creamy-alfredo-sauce-56-1.jpg",
+    "https://www.veggiesdontbite.com/wp-content/uploads/2014/04/vegan-pasta-peas-creamy-alfredo-sauce-56-1-500x500.jpg",
+    "https://www.veggiesdontbite.com/wp-content/uploads/2014/04/vegan-pasta-peas-creamy-alfredo-sauce-56-1-500x375.jpg",
+    "https://www.veggiesdontbite.com/wp-content/uploads/2014/04/vegan-pasta-peas-creamy-alfredo-sauce-56-1-480x270.jpg"
+  ],
+  "keywords": "creamy pasta, easy mac",
+  "name": "Creamy Mac and Peas",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "396 kcal",
+    "carbohydrateContent": "73 g",
+    "cholesterolContent": "1 mg",
+    "fatContent": "7 g",
+    "fiberContent": "4 g",
+    "proteinContent": "12 g",
+    "saturatedFatContent": "2 g",
+    "servingSize": "1 serving",
+    "sodiumContent": "242 mg",
+    "sugarContent": "3 g",
+    "transFatContent": "1 g",
+    "unsaturatedFatContent": "2 g"
+  },
+  "prepTime": "PT5M",
+  "recipeCategory": "Main Course",
+  "recipeCuisine": "American",
+  "recipeIngredient": [
+    "12 ounces your favorite pasta (, gluten free if needed)",
+    "1 cup vegan Alfredo sauce (, or make it even easier with your favorite cheese or a mix of both)",
+    "1-2 cups frozen peas (, adjust for your preference)",
+    "vegan Parmesan cheese",
+    "extra protein of choice",
+    "extra veggies of choice"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Cook pasta following directions on package."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add frozen peas to the bottom of a pasta strainer."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "When pasta is done, pour the hot pasta water and paste over the frozen peas in the strainer (reserve a little pasta water to thin out if necessary)."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Put the pasta and peas back in the pot."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add 1 cup Alfredo sauce (or cheese or both) to pot and mix well."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add a drizzle of pasta water to thin out if needed."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add Parmesan, if using, and any other add ins and serve!"
+    }
+  ],
+  "recipeYield": "4",
+  "sameAs": [
+    "https://veggiesdontbite.com/creamy-mac-and-peas"
+  ],
+  "suitableForDiet": [
+    "https://schema.org/GlutenFreeDiet",
+    "https://schema.org/VeganDiet",
+    "https://schema.org/VegetarianDiet"
+  ],
+  "totalTime": "PT45M",
+  "updatedAt": "2022-12-03T00:14:15.762Z"
+}

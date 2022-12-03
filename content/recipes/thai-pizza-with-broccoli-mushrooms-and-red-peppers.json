@@ -1,0 +1,82 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1",
+    "ratingValue": "5"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Oh My Veggies"
+  },
+  "cookTime": "PT15M",
+  "createdAt": "2022-12-03T05:22:36.523Z",
+  "datePublished": "2011-05-09T23:28:00+00:00",
+  "description": "A vegetarian Thai pizza inspired by Glass Nickel's Thai Pie.",
+  "image": [
+    "https://ohmyveggies.com/wp-content/uploads/2011/05/thai_pizza_with_broccoli_mushrooms_and_red_pepper.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2011/05/thai_pizza_with_broccoli_mushrooms_and_red_pepper-500x367.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2011/05/thai_pizza_with_broccoli_mushrooms_and_red_pepper-480x270.jpg"
+  ],
+  "keywords": "pizza recipe, Thai Pizza, vegetarian pizza",
+  "name": "Thai Pizza with Broccoli, Mushrooms & Red Peppers",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "436 kcal",
+    "carbohydrateContent": "47 g",
+    "cholesterolContent": "23 mg",
+    "fatContent": "20 g",
+    "fiberContent": "5 g",
+    "proteinContent": "21 g",
+    "saturatedFatContent": "8 g",
+    "servingSize": "1 slice",
+    "sodiumContent": "662 mg",
+    "sugarContent": "8 g",
+    "unsaturatedFatContent": "10 g"
+  },
+  "prepTime": "PT15M",
+  "recipeCategory": "Appetizer",
+  "recipeCuisine": "American",
+  "recipeIngredient": [
+    "cooking spray",
+    "3 button mushrooms (thinly sliced)",
+    "1/2 c. peanut butter",
+    "1 tbsp. rice vinegar",
+    "1 tsp. ginger (grated)",
+    "1 garlic clove (minced)",
+    "1 tbsp. brown sugar (use less if your peanut butter is already sweetened!)",
+    "pinch crushed red pepper flakes (optional)",
+    "1/4 c. water",
+    "1 prepared pizza crust (or make your own)",
+    "3/4 c. shredded mozzarella cheese",
+    "1/2 red pepper (sliced into rings)",
+    "1 small head broccoli (cut into small florets and steamed)"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Preheat oven to temperature indicated on pizza crust package."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Heat cooking spray or oil in small skillet over medium-high heat. Saute mushrooms until softened and browned, about 5-7 minutes. Remove from heat."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Whisk together peanut butter, vinegar, ginger, garlic, brown sugar, pepper flakes, and 1 tablespoon of water in a small bowl. Add additional water if needed, one tablespoon at a time, until sauce reaches a creamy consistency."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Spread sauce onto pizza crust. Top with cheese, mushrooms, red pepper rings, and broccoli florets. Bake in oven according to crust instructions."
+    }
+  ],
+  "recipeYield": "6",
+  "sameAs": [
+    "https://ohmyveggies.com/vegetarian-thai-pizza"
+  ],
+  "suitableForDiet": [
+    "https://schema.org/VegetarianDiet"
+  ],
+  "totalTime": "PT30M",
+  "updatedAt": "2022-12-03T05:22:36.523Z"
+}

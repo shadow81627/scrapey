@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Chapstick"
+  },
+  "createdAt": "2022-12-02T09:37:24.628Z",
+  "description": "ChapStick Strawberry Lip Balm SPF15 moisturises, soothes and prevents dry, chapped lips. <br> The original and delicious Strawberry that moisturises, soothes and prevents dry, chapped lips. With SPF15 for  protection against sun damage, and moisturising action to keep lips looking and feeling great every day!",
+  "gtin13": "9300673869548",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/038698.jpg",
+  "name": "Chapstick Lip Care Strawberry Lip Balm Sunscreen Spf 15 4.2G",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 4.5,
+    "lowPrice": 4.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-12-02T09:37:24.622Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 4.5,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/38698/chapstick-lip-care-strawberry-lip-balm-spf-15"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/38698/chapstick-lip-care-strawberry-lip-balm-spf-15"
+  ],
+  "sku": "38698",
+  "updatedAt": "2022-12-02T09:37:24.622Z"
+}

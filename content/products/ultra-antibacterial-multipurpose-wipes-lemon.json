@@ -1,0 +1,50 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "100 pack"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.04 per 1Ea"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Made in China"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2022-12-03T05:13:17.596Z",
+  "description": "Coles Ultra Antibacterial Multi-Purpose Wipes are all you need for everyday household use, suitable for most hard surfaces, hygienically cleans. Each wipe provides protection against germs* and keeps your surfaces sparkling clean and fresh scented. * Such as E. coli and S. aureus.",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/9/8/9/9891067.jpg",
+  "name": "Ultra Antibacterial Multipurpose Wipes Lemon",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3.5,
+    "lowPrice": 3.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-03T05:13:17.595Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "3.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles--brand-wipes-antibacterial"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/coles--brand-wipes-antibacterial"
+  ],
+  "sku": "9891067",
+  "updatedAt": "2022-12-03T05:13:17.595Z"
+}

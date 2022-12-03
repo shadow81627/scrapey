@@ -1,0 +1,107 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "16",
+    "ratingValue": "5"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Sam Turnbull • It Doesn't Taste Like Chicken"
+  },
+  "cookTime": "PT20M",
+  "createdAt": "2022-12-02T17:16:33.815Z",
+  "datePublished": "2015-02-13T13:50:06+00:00",
+  "description": "Have a fajita party in your own home. This quick and easy vegan fajita recipe can be customized however you like with endless topping options. Serve the sizzling skillet directly to the table with all the sides and everyone can make their own fajitas to their own tastes preferences. A great summer meal for family or dinner parties.",
+  "image": [
+    "https://itdoesnttastelikechicken.com/wp-content/uploads/2015/02/mixed-vegetable-fajitas.jpg",
+    "https://itdoesnttastelikechicken.com/wp-content/uploads/2015/02/mixed-vegetable-fajitas-500x500.jpg",
+    "https://itdoesnttastelikechicken.com/wp-content/uploads/2015/02/mixed-vegetable-fajitas-500x375.jpg",
+    "https://itdoesnttastelikechicken.com/wp-content/uploads/2015/02/mixed-vegetable-fajitas-480x270.jpg"
+  ],
+  "mentions": [
+    {
+      "@id": "https://itdoesnttastelikechicken.com/tag/beans/#id",
+      "@type": "http://schema.org/Thing",
+      "description": "Bean is a common name for large seeds of several genera of the flowering plant family Fabaceae (also known as Leguminosae) which are used for human or animal food.",
+      "name": "bean",
+      "sameAs": [
+        "http://rdf.freebase.com/ns/m.01fp9",
+        "http://el.dbpedia.org/resource/Φασόλι",
+        "http://dbpedia.org/resource/Bean",
+        "http://ko.dbpedia.org/resource/콩",
+        "http://fr.dbpedia.org/resource/Haricot_(homonymie)",
+        "https://en.wikipedia.org/wiki/Bean",
+        "http://de.dbpedia.org/resource/Bohne",
+        "http://ja.dbpedia.org/resource/豆",
+        "http://purl.obolibrary.org/obo/FOODON_00002753",
+        "http://wikidata.dbpedia.org/resource/Q379813",
+        "http://www.wikidata.org/entity/Q379813",
+        "http://nl.dbpedia.org/resource/Boon",
+        "http://id.dbpedia.org/resource/Kacang-kacangan",
+        "https://knowledge.cafemedia.com/food/entity/bean"
+      ]
+    }
+  ],
+  "name": "Mixed Vegetables Fajitas",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "155 kcal",
+    "carbohydrateContent": "21 g",
+    "fatContent": "5 g",
+    "fiberContent": "2 g",
+    "proteinContent": "4 g",
+    "saturatedFatContent": "1 g",
+    "servingSize": "1 fajita",
+    "sodiumContent": "433 mg",
+    "sugarContent": "5 g"
+  },
+  "prepTime": "PT10M",
+  "recipeCategory": "Main Course",
+  "recipeCuisine": "Mexican",
+  "recipeIngredient": [
+    "8 corn or flour small tortillas",
+    "4 bell peppers (red, yellow, orange, green, your choice!), (thickly sliced)",
+    "1 red, white, or yellow onion, (thickly sliced)",
+    "8 oz button mushrooms, (thickly sliced)",
+    "3 cloves garlic, (minced)",
+    "2 tablespoons light oil, (such as vegetable or canola)",
+    "1 1/4 teaspoons chili powder",
+    "3/4 teaspoon cumin",
+    "3/4 teaspoon salt",
+    "1/2 teaspoon smoked paprika",
+    "Lime wedges",
+    "Cilantro, (roughly chopped)",
+    "Avocado, (sliced or mashed)",
+    "Refried beans (check to make sure they are vegan)",
+    "Salsa",
+    "Hot sauce",
+    "My Favourite Guacamole",
+    "Melty Stretchy Gooey Vegan Nacho Cheese",
+    "Sour Cream of my Dreams (page 207 in Fuss-Free Vegan)"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Method 1: Heat your oven to 350F (180C). Wrap the tortillas in aluminium foil, and pop them in the oven for 15-20 minutes until heated through."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Method 2: If you have a gas stove, turn on a flam and using tongs put a tortilla directly over the flame. Turn continually to evenly toast the tortilla, flip and repeat on the other side. About 20 seconds per side. Repeat with the remaining tortillas."
+    }
+  ],
+  "recipeYield": "8",
+  "sameAs": [
+    "https://itdoesnttastelikechicken.com/mixed-vegetables-fajitas"
+  ],
+  "totalTime": "PT30M",
+  "updatedAt": "2022-12-02T17:16:33.814Z",
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/ZGXnPDxo.mp4",
+    "description": "null",
+    "name": "Vegan Fajitas Recipe - Easy Sizzling Vegetable Fajitas!.mp4",
+    "thumbnailUrl": "https://content.jwplatform.com/thumbs/ZGXnPDxo-720.jpg",
+    "uploadDate": "2021-09-01T18:43:04.000Z"
+  }
+}

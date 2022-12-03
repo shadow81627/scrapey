@@ -1,0 +1,93 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "5",
+    "ratingValue": "5"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Sam Turnbull • It Doesn't Taste Like Chicken"
+  },
+  "cookTime": "PT25M",
+  "createdAt": "2022-12-02T19:13:41.214Z",
+  "datePublished": "2015-11-08T17:54:26+00:00",
+  "description": "Only 6 ingredients, 30 minutes to make (most of it spent staring in the oven window and drooling), and badda bing, badda boom. Little cauliflower flavour bombs in your mouth. So delicious and easy!&nbsp;",
+  "image": [
+    "https://itdoesnttastelikechicken.com/wp-content/uploads/2015/11/Quick-Roasted-Cauliflower.jpg",
+    "https://itdoesnttastelikechicken.com/wp-content/uploads/2015/11/Quick-Roasted-Cauliflower-500x500.jpg",
+    "https://itdoesnttastelikechicken.com/wp-content/uploads/2015/11/Quick-Roasted-Cauliflower-500x375.jpg",
+    "https://itdoesnttastelikechicken.com/wp-content/uploads/2015/11/Quick-Roasted-Cauliflower-480x270.jpg"
+  ],
+  "mentions": [
+    {
+      "@id": "https://itdoesnttastelikechicken.com/tag/garlic/#id",
+      "@type": "http://schema.org/Thing",
+      "description": "Allium sativum, commonly known as garlic, is a species in the onion genus, Allium. Its close relatives include the onion, shallot, leek, chive, and rakkyo. With a history of over 7,000 years of human consumption and use, garlic is native to central Asia, and has long been a staple in the Mediterranean region, as well...",
+      "name": "softneck garlic",
+      "sameAs": [
+        "http://www.wikidata.org/entity/Q23400",
+        "http://rdf.freebase.com/ns/m.0dbrl",
+        "http://es.dbpedia.org/resource/Allium_sativum",
+        "http://yago-knowledge.org/resource/Allium_sativum",
+        "http://cs.dbpedia.org/resource/Česnek_kuchyňský",
+        "http://id.dbpedia.org/resource/Bawang_putih",
+        "http://it.dbpedia.org/resource/Allium_sativum",
+        "http://wikidata.dbpedia.org/resource/Q23400",
+        "http://fr.dbpedia.org/resource/Ail_cultivé",
+        "http://ko.dbpedia.org/resource/마늘",
+        "http://nl.dbpedia.org/resource/Knoflook",
+        "http://pt.dbpedia.org/resource/Alho",
+        "http://d-nb.info/gnd/4031311-6",
+        "http://ja.dbpedia.org/resource/ニンニク",
+        "http://lod.geospecies.org/ses/Ktmfq",
+        "https://en.wikipedia.org/wiki/Garlic",
+        "http://el.dbpedia.org/resource/Σκόρδο",
+        "http://eu.dbpedia.org/resource/Baratxuri",
+        "http://dbpedia.org/resource/Garlic",
+        "http://purl.obolibrary.org/obo/FOODON_00001895",
+        "http://pl.dbpedia.org/resource/Czosnek_pospolity",
+        "http://eunis.eea.europa.eu/species/189214",
+        "http://de.dbpedia.org/resource/Knoblauch",
+        "https://knowledge.cafemedia.com/food/entity/garlic"
+      ]
+    }
+  ],
+  "name": "Quick Roasted Cauliflower",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "126 kcal",
+    "servingSize": "1 serving"
+  },
+  "prepTime": "PT5M",
+  "recipeCategory": "Side Dish",
+  "recipeCuisine": "American",
+  "recipeIngredient": [
+    "1 head cauliflower, (chopped into florets)",
+    "2 tablespoons olive oil",
+    "1/4 - 1/2 teaspoon salt",
+    "1 tablespoon nutritional yeast",
+    "1/2 teaspoon garlic powder",
+    "1/2 teaspoon chili powder"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "OVEN: Preheat oven to 450F (230C).AIR-FRYER: Preheat air-fryer to 400F (200C)."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add the cauliflower with all of the seasonings to a large bowl and toss well to combine and to evenly coat the cauliflower."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "OVEN: Spread the cauliflower evenly on a baking sheet and bake for about 25 minutes, flipping once halfway through. The cauliflower is done when it is browned and tender.AIR-FRYER: add the cauliflower to your air-fryer, and cook for 10 - 20 minutes (depending on the size of your cauliflower pieces), stopping to shake halfway through, until the cauliflower is tender and browned on the edges.Serve as a side, on top of salad, or eat straight as it is as a snack. Great hot or cold!"
+    }
+  ],
+  "recipeYield": "4",
+  "sameAs": [
+    "https://itdoesnttastelikechicken.com/quick-roasted-cauliflower"
+  ],
+  "totalTime": "PT30M",
+  "updatedAt": "2022-12-02T19:13:41.214Z"
+}

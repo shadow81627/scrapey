@@ -1,0 +1,62 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Wheat flour, Wheat flour. "
+    },
+    {
+      "name": "Contains",
+      "value": "Gluten Containing Cereals Wheat"
+    },
+    {
+      "name": "Allergen",
+      "value": "Contains Wheat, Contains Cereals Containing Gluten"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "25.0"
+    },
+    {
+      "name": "Size",
+      "value": "1kg"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$3.00 per 1Kg"
+    }
+  ],
+  "brand": "White Wings",
+  "createdAt": "2022-12-03T08:25:04.526Z",
+  "description": "White Wings Plain Flour",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/1/1/9/119455.jpg",
+  "name": "Plain Flour",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3,
+    "lowPrice": 3,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-03T08:25:04.525Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "3.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/white-wings-flour-plain"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/white-wings-flour-plain"
+  ],
+  "sku": "119455",
+  "updatedAt": "2022-12-03T08:25:04.525Z"
+}

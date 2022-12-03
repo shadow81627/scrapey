@@ -1,0 +1,87 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "2",
+    "ratingValue": "5"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Oh My Veggies"
+  },
+  "cookTime": "PT5M",
+  "createdAt": "2022-12-03T07:44:31.957Z",
+  "datePublished": "2019-02-18T06:00:00+00:00",
+  "description": "Farro replaces the ground beef in this vegan taco salad with creamy lime dressing.",
+  "image": [
+    "https://ohmyveggies.com/wp-content/uploads/2015/02/the_ultimate_vegan_taco_salad_recipe.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2015/02/the_ultimate_vegan_taco_salad_recipe-500x400.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2015/02/the_ultimate_vegan_taco_salad_recipe-500x375.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2015/02/the_ultimate_vegan_taco_salad_recipe-480x270.jpg"
+  ],
+  "keywords": "vegan salad recipe, Vegan Taco Salad",
+  "name": "The Ultimate Vegan Taco Salad",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "504 kcal",
+    "carbohydrateContent": "77 g",
+    "fatContent": "19 g",
+    "fiberContent": "13 g",
+    "proteinContent": "13 g",
+    "saturatedFatContent": "3 g",
+    "servingSize": "1 serving",
+    "sodiumContent": "457 mg",
+    "sugarContent": "6 g",
+    "transFatContent": "1 g",
+    "unsaturatedFatContent": "15 g"
+  },
+  "prepTime": "PT40M",
+  "recipeCategory": "Main Course",
+  "recipeCuisine": "American",
+  "recipeIngredient": [
+    "1 cup farro (cooked according to package instructions and drained (about 2 1/2 cups cooked)",
+    "1/2 cup mild salsa",
+    "2 tsp chili powder",
+    "2 tsp ground cumin",
+    "1/2 tsp smoked paprika",
+    "pinch of cayenne pepper",
+    "salt to taste",
+    "1/2 cup raw cashews (soaked in water for 4–8 hours and rinsed)",
+    "1/4 cup fresh lime juice",
+    "1/4 cup water",
+    "1 tbsp olive oil",
+    "1 clove garlic",
+    "1/2 tsp ground cumin",
+    "2 medium heads romaine lettuce (chopped)",
+    "1 large tomato (diced or 1 cup halved grape tomatoes)",
+    "1 15 oz can black beans, drained and rinsed",
+    "1 cup frozen fire-roasted corn kernels (thawed (regular frozen corn is fine if you can't find fire-roasted)",
+    "1 cup broken tortilla chips",
+    "1/2 cup sliced green onions",
+    "cilantro (lime wedges, salsa and/or guacamole for serving, if desired)"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Combine the farro, salsa, chili powder, cumin, paprika and cayenne in a medium pan over medium heat."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Cook about 5 minutes or until heated through, stirring often, then season to taste with salt."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Set aside."
+    }
+  ],
+  "recipeYield": "4",
+  "sameAs": [
+    "https://ohmyveggies.com/the-ultimate-vegan-taco-salad"
+  ],
+  "suitableForDiet": [
+    "https://schema.org/VeganDiet",
+    "https://schema.org/VegetarianDiet"
+  ],
+  "totalTime": "PT45M",
+  "updatedAt": "2022-12-03T07:44:31.956Z"
+}

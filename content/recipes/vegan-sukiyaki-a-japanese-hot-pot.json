@@ -1,0 +1,87 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "3",
+    "ratingValue": "5"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Sophia DeSantis"
+  },
+  "cookTime": "PT10M",
+  "createdAt": "2022-12-03T04:13:47.858Z",
+  "datePublished": "2015-01-20T06:00:23+00:00",
+  "description": "A vegan version of a traditional Japanese dish. Loaded with veggies, taste and easy to make. A meal the whole family will love!",
+  "image": [
+    "https://www.veggiesdontbite.com/wp-content/uploads/2015/01/vegan-sukiyaki-japanese-hot-pot-39-1.jpg",
+    "https://www.veggiesdontbite.com/wp-content/uploads/2015/01/vegan-sukiyaki-japanese-hot-pot-39-1-500x500.jpg",
+    "https://www.veggiesdontbite.com/wp-content/uploads/2015/01/vegan-sukiyaki-japanese-hot-pot-39-1-500x375.jpg",
+    "https://www.veggiesdontbite.com/wp-content/uploads/2015/01/vegan-sukiyaki-japanese-hot-pot-39-1-480x270.jpg"
+  ],
+  "keywords": "vegan Japanese food, Vegan Japanese noodles",
+  "name": "Vegan Sukiyaki, A Japanese Hot Pot",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "281 kcal",
+    "carbohydrateContent": "36 g",
+    "fatContent": "3 g",
+    "fiberContent": "6 g",
+    "proteinContent": "20 g",
+    "servingSize": "1 serving",
+    "sodiumContent": "2981 mg",
+    "sugarContent": "18 g"
+  },
+  "prepTime": "PT10M",
+  "recipeCategory": "Main Course",
+  "recipeCuisine": "Japanese",
+  "recipeIngredient": [
+    "4 cups water",
+    "3/4 cup Tamari (,or soy sauce for non gluten free option, or coconut aminos for a soy free option)",
+    "3/4 cup mirin (rice cooking wine)",
+    "1/2 cup sake",
+    "3 tablespoons sugar (I used coconut palm sugar )",
+    "8 ounces shirataki (udon, cellophane or other noodles of choice (I did a mix)",
+    "2 cups chopped bok choy",
+    "2 cups chopped napa cabbage",
+    "2 cups stemmed and sliced shitake mushrooms",
+    "1 cup Chinese broccoli or broccolini",
+    "1 cup sliced carrots",
+    "1 cup green onions (cut into 4 inch pieces)",
+    "1- 14 ounce package extra firm tofu",
+    "a little veggie broth or neutral tasting oil to sautée veggies (, low sodium if needed)"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Rinse and soak noodles in hot water to soften, if necessary depending on the kind of noodles you chose. Shiratake simply need to be rinsed, but some cellophane and udon may need to be soaked in hot water to soften before adding. Drain when done."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Wash and chop all veggies and tofu."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "In a large soup pot or dutch oven, sauté the green onions and mushrooms with a little veggie broth (or neutral tasting oil) until slightly browned. Remove and set aside to add later."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add water, Tamari (or other), mirin, sake and sugar to the pot and simmer until the sugar is dissolved. Add broccoli and carrots to the pot. Simmer for a few minutes. Then add bok choy and cabbage."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Simmer a few more minutes. Then turn heat to low and add mushrooms, green onions, tofu and noodles. Allow to warm for a few more minutes until everything is just cooked. Turn off heat and serve."
+    }
+  ],
+  "recipeYield": "4",
+  "sameAs": [
+    "https://veggiesdontbite.com/vegan-sukiyaki-a-japanese-hot-pot"
+  ],
+  "suitableForDiet": [
+    "https://schema.org/GlutenFreeDiet",
+    "https://schema.org/VeganDiet",
+    "https://schema.org/VegetarianDiet"
+  ],
+  "totalTime": "PT20M",
+  "updatedAt": "2022-12-03T04:13:47.858Z"
+}

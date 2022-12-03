@@ -1,0 +1,106 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "5",
+    "ratingValue": "5"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Yup, it's Vegan"
+  },
+  "cookTime": "PT10M",
+  "createdAt": "2022-12-02T13:03:31.055Z",
+  "datePublished": "2016-09-29T18:50:36+00:00",
+  "description": "These easy and delicious Kung Pao chickpeas are made mostly with pantry staples. The spicy, tangy sauce is reminiscent of Chinese takeout, but healthier and vegan! Easily gluten-free and comes together in a snap.",
+  "image": [
+    "https://yupitsvegan.com/wp-content/uploads/2016/09/kung-pao-chickpeas-vegan-3.jpg"
+  ],
+  "keywords": "kung pao chickpeas",
+  "mentions": [
+    {
+      "@id": "https://yupitsvegan.com/tag/legumes/#id",
+      "@type": "http://schema.org/Thing",
+      "description": "A legume (/ˈlɛɡjuːm/ or /ˌləˈɡjuːm/) is a plant or fruit/seed in the family Fabaceae (or Leguminosae). Legumes are grown agriculturally, primarily for their grain seed called pulse, for livestock forage and silage, and as soil-enhancing green manure. Well-known legumes include alfalfa, clover, peas, beans, lentils, lupin bean, mesquite, carob, soybeans, peanuts, and tamarind. Legumes are...",
+      "name": "legume",
+      "sameAs": [
+        "http://el.dbpedia.org/resource/Όσπρια",
+        "http://cs.dbpedia.org/resource/Luštěnina",
+        "https://en.wikipedia.org/wiki/Legume",
+        "http://rdf.freebase.com/ns/m.01sfdb",
+        "http://wikidata.dbpedia.org/resource/Q145909",
+        "http://pt.dbpedia.org/resource/Legume",
+        "http://www.wikidata.org/entity/Q145909",
+        "http://ja.dbpedia.org/resource/豆果",
+        "http://fr.dbpedia.org/resource/Gousse",
+        "http://eu.dbpedia.org/resource/Lekale",
+        "http://dbpedia.org/resource/Legume",
+        "http://es.dbpedia.org/resource/Legumbre",
+        "http://yago-knowledge.org/resource/Pulse_(legume)",
+        "http://pl.dbpedia.org/resource/Rośliny_strączkowe",
+        "http://purl.obolibrary.org/obo/FOODON_00001264",
+        "http://nl.dbpedia.org/resource/Peul_(vrucht)",
+        "http://de.dbpedia.org/resource/Hülsenfrucht",
+        "http://it.dbpedia.org/resource/Baccello",
+        "http://d-nb.info/gnd/4020803-5",
+        "http://rdf.freebase.com/ns/m.0bqsk",
+        "https://knowledge.cafemedia.com/food/entity/legume"
+      ]
+    }
+  ],
+  "name": "Kung Pao Chickpeas",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "373 kcal",
+    "carbohydrateContent": "47 g",
+    "fatContent": "14 g",
+    "fiberContent": "11 g",
+    "proteinContent": "16 g",
+    "saturatedFatContent": "2 g",
+    "servingSize": "1 fifth recipe",
+    "sodiumContent": "695 mg",
+    "sugarContent": "15 g",
+    "unsaturatedFatContent": "2 g"
+  },
+  "prepTime": "PT15M",
+  "recipeCategory": "dinner",
+  "recipeCuisine": "Chinese",
+  "recipeIngredient": [
+    "1 tbsp toasted sesame oil",
+    "1 inch of ginger (peeled and minced)",
+    "3 large cloves of garlic (minced)",
+    "1 rib of celery (thinly sliced)",
+    "5 scallions (diced (both green and white parts) (divided)",
+    "2/3 tsp ground Sichuan peppercorn (or use regular ground black pepper to taste)",
+    "1/4 tsp red pepper flakes (plus more to taste)",
+    "1/3 cup chopped roasted peanuts (plus more for garnish if desired)",
+    "1 large red bell pepper (or 2 medium), cut into halved strips)",
+    "3 cups cooked chickpeas (drained (equal to 2 standard cans)",
+    "2 cups sliced collard greens (or other greens of choice)",
+    "Kung Pao sauce (below)",
+    "cooked rice or cauliflower rice (for serving)",
+    "1/4 cup low-sodium soy sauce (or tamari for gluten-free)",
+    "3 tbsp rice vinegar (don't use the seasoned type or your dish will be too salty)",
+    "1 tsp balsamic vinegar",
+    "1 tbsp agave nectar",
+    "1/2 tbsp sriracha or other chili sauce",
+    "1/2 cup of water",
+    "2 tsp cornstarch"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "In a small bowl, stir together the soy sauce, vinegars, agave nectar, and chili sauce. Taste the mixture and adjust quantities as desired."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Whisk in the water and cornstarch, taking special care to dissolve any lumps of cornstarch. Set the sauce aside."
+    }
+  ],
+  "recipeYield": "5",
+  "sameAs": [
+    "https://yupitsvegan.com/2016/09/29/kung-pao-chickpeas"
+  ],
+  "totalTime": "PT25M",
+  "updatedAt": "2022-12-02T13:03:31.054Z"
+}

@@ -2,62 +2,71 @@
   "@type": "Recipe",
   "aggregateRating": {
     "@type": "AggregateRating",
-    "ratingCount": "1",
-    "ratingValue": "5"
+    "ratingValue": "5",
+    "reviewCount": "6"
   },
   "author": {
     "@type": "Person",
-    "name": "Susan Voisin"
+    "name": "Vicky Cohen and Ruth Fox"
   },
-  "cookTime": "PT60M",
+  "cookingMethod": "raw",
   "createdAt": "2022-12-02T03:12:25.075Z",
-  "datePublished": "2012-01-23T11:18:57+00:00",
-  "description": "Chocolate chia pudding is very light in flavor and not very filling, so I advise adding fruit for extra flavor and heartiness. You can use up to a cup of any fruit you like, but cherries and raspberries are my favorites.",
+  "datePublished": "2021-06-21",
+  "description": "This smooth and creamy chia pudding recipe is made from chia seeds, unsweetened cocoa powder, dates, and almond milk creating a rich decadent chocolate chia pudding perfect for breakfast, lunch, or dessert. Enjoy this chia seed pudding recipe.",
   "image": [
-    "https://blog.fatfreevegan.com/wp-content/uploads/2012/01/chocolate-chia-pudding3.jpg"
+    "https://mayihavethatrecipe.com/wp-content/uploads/2019/06/chocolate-Chia-seed-Pudding-Square-4-225x225.jpg",
+    "https://mayihavethatrecipe.com/wp-content/uploads/2019/06/chocolate-Chia-seed-Pudding-Square-4-260x195.jpg",
+    "https://mayihavethatrecipe.com/wp-content/uploads/2019/06/chocolate-Chia-seed-Pudding-Square-4-320x180.jpg",
+    "https://mayihavethatrecipe.com/wp-content/uploads/2019/06/chocolate-Chia-seed-Pudding-Square-4.jpg"
   ],
-  "keywords": "vegan pudding",
+  "keywords": "chia seeds, chia pudding, dates, cocoa, vegan, gluten free, paleo, kosher",
   "name": "Chocolate Chia Pudding",
   "nutrition": {
-    "@type": "NutritionInformation",
-    "calories": "123 kcal",
-    "carbohydrateContent": "12.2 g",
-    "fatContent": "6.2 g",
-    "fiberContent": "8.8 g",
-    "proteinContent": "7 g",
-    "servingSize": "1 serving",
-    "sodiumContent": "17.9 mg",
-    "sugarContent": "2 g"
+    "@type": "nutritionInformation",
+    "calories": "237 calories",
+    "carbohydrateContent": "46.9",
+    "cholesterolContent": "0",
+    "fatContent": "6.8",
+    "fiberContent": "10.2",
+    "proteinContent": "5.3",
+    "saturatedFatContent": "1",
+    "servingSize": "1/2 cup",
+    "sodiumContent": "97.1",
+    "sugarContent": "32",
+    "transFatContent": "0",
+    "unsaturatedFatContent": "5.3"
   },
   "prepTime": "PT5M",
-  "recipeCategory": "Dessert",
-  "recipeCuisine": "Vegan",
+  "recipeCategory": "Dessert / Breakfast",
+  "recipeCuisine": "American",
   "recipeIngredient": [
-    "1 cup unsweetened non-dairy milk (I used soymilk but any plant milk will do)",
-    "1/2 teaspoon double-strength vanilla extract (or 1 tsp. regular strength)",
-    "2 teaspoons cocoa powder",
-    "sweetener of choice (to taste (I used 2 scoops of KAL pure stevia powder)",
-    "3 tablespoons chia seeds",
-    "1/2 to 1 cup raspberries (cherries, or other fruit, plus additional for garnish)"
+    "1/4 cup unsweetened cocoa powder",
+    "1/4 cup chia seeds",
+    "6 Medjool dates, pitted",
+    "1 1/2 cups unsweetened almond milk",
+    "1 tsp natural vanilla extract",
+    "Assorted berries or other seasonal fruit"
   ],
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "text": "Place the milk, vanilla, and cocoa into the blender and add sweetener to taste (about 2 servings worth). Blend until cocoa is completely incorporated."
+      "text": "Combine the cocoa powder and chia seeds in a large bowl and set aside"
     },
     {
       "@type": "HowToStep",
-      "text": "Pour milk mixture into a bowl and add the chia seeds. Stir well, making sure that all the seeds are moistened. Leave out on the counter and stir periodically (about every 15 minutes or so), breaking up any clusters that form. Allow it to stand until the pudding has thickened and all liquid has been absorbed, at least an hour."
+      "text": "Combine the dates, almond milk and vanilla in a blender and blend until smooth. Pour over the cocoa chia mixture and whisk well until the cocoa has dissolved"
     },
     {
       "@type": "HowToStep",
-      "text": "Refrigerate. Just before serving, stir in fruit. Serve topped with additional fruit."
+      "text": "Divide it into 3 individual containers and refrigerate overnight, or until set. Top with your favorite berries"
     }
   ],
-  "recipeYield": "2",
+  "recipeYield": "3",
   "sameAs": [
-    "https://blog.fatfreevegan.com/2012/01/chocolate-chia-pudding-and-other-sugar-free-flour-free-desserts.html"
+    "https://mayihavethatrecipe.com/date-sweetened-chocolate-chia-pudding"
   ],
-  "totalTime": "PT65M",
-  "updatedAt": "2022-12-02T03:12:25.074Z"
+  "suitableForDiet": "VeganDiet",
+  "totalTime": "PT5M",
+  "updatedAt": "2022-12-02T23:33:16.671Z",
+  "url": "https://mayihavethatrecipe.com/date-sweetened-chocolate-chia-pudding/"
 }

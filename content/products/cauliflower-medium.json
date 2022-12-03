@@ -1,0 +1,42 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Unit Price",
+      "value": "$5.50 per 1Ea"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2022-12-03T04:23:57.339Z",
+  "description": "Cauliflower is most commonly consumed steamed or baked but is also a delicious crunchy addition to salads.",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/4/6/0/4601603.jpg",
+  "name": "Cauliflower Medium",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 5.5,
+    "lowPrice": 5.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-03T04:23:57.338Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "5.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/cauliflower-whole"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/cauliflower-whole"
+  ],
+  "sku": "4601603",
+  "updatedAt": "2022-12-03T04:23:57.338Z"
+}

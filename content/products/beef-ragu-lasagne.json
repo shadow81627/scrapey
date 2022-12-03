@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "350g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$2.00 per 100G"
+    }
+  ],
+  "brand": "Coles Kitchen",
+  "createdAt": "2022-12-03T03:17:36.436Z",
+  "description": "Coles Kitchen Beef Ragu Lasagne",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/5/8/5587100.jpg",
+  "name": "Beef Ragu Lasagne",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 7,
+    "lowPrice": 7,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/OutOfStock",
+        "availabilityStarts": "2022-12-03T03:17:36.435Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "7.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/beef-ragu-lasagne"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/beef-ragu-lasagne"
+  ],
+  "sku": "5587100",
+  "updatedAt": "2022-12-03T03:17:36.435Z"
+}

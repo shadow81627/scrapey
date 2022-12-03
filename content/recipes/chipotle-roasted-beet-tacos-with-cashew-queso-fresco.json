@@ -1,0 +1,120 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1",
+    "ratingValue": "5"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Shannon @ Yup, it's Vegan"
+  },
+  "cookTime": "PT60M",
+  "createdAt": "2022-12-02T13:07:50.177Z",
+  "datePublished": "2015-06-01T19:44:32+00:00",
+  "description": "Hearty vegan roasted beet tacos made with chipotle-marinated beets and served with creamy cashew fresh \"cheese\".",
+  "image": [
+    "https://yupitsvegan.com/wp-content/uploads/2015/06/chipotle-roasted-beet-tacos-cashew-queso-fresco-vegan-3.jpg"
+  ],
+  "keywords": "roasted beet tacos",
+  "mentions": [
+    {
+      "@id": "https://yupitsvegan.com/tag/high-vegetable/#id",
+      "@type": "http://schema.org/Thing",
+      "description": "In everyday usage, a vegetable is any part of a plant that is consumed by humans as food as part of a savory meal. The term vegetable is somewhat arbitrary, and largely defined through culinary and cultural tradition. It normally excludes other food derived from plants such as fruits, nuts and cereal grains, but includes...",
+      "name": "vegetable",
+      "sameAs": [
+        "http://ko.dbpedia.org/resource/채소",
+        "http://wikidata.dbpedia.org/resource/Q11004",
+        "http://eu.dbpedia.org/resource/Barazki",
+        "http://purl.obolibrary.org/obo/FOODON_00002141",
+        "http://pl.dbpedia.org/resource/Warzywa",
+        "http://fr.dbpedia.org/resource/Légume",
+        "https://en.wikipedia.org/wiki/Vegetable",
+        "http://de.dbpedia.org/resource/Gemüse",
+        "http://el.dbpedia.org/resource/Λαχανικό",
+        "http://rdf.freebase.com/ns/m.0f4s2w",
+        "http://nl.dbpedia.org/resource/Groente",
+        "http://cs.dbpedia.org/resource/Zelenina",
+        "http://es.dbpedia.org/resource/Verdura",
+        "http://www.wikidata.org/entity/Q11004",
+        "http://dbpedia.org/resource/Vegetable",
+        "http://d-nb.info/gnd/4020069-3",
+        "http://it.dbpedia.org/resource/Verdura",
+        "http://ja.dbpedia.org/resource/野菜",
+        "http://id.dbpedia.org/resource/Sayuran",
+        "https://knowledge.cafemedia.com/food/entity/fruit_vegetable"
+      ]
+    }
+  ],
+  "name": "Chipotle Roasted Beet Tacos with Cashew Queso Fresco",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "156 kcal",
+    "carbohydrateContent": "23 g",
+    "fatContent": "4 g",
+    "fiberContent": "4 g",
+    "proteinContent": "7 g",
+    "servingSize": "1 taco",
+    "sodiumContent": "274 mg",
+    "sugarContent": "5 g",
+    "unsaturatedFatContent": "2 g"
+  },
+  "prepTime": "PT20M",
+  "recipeCategory": "Main Course",
+  "recipeCuisine": "gluten-free",
+  "recipeIngredient": [
+    "3 cups plain, unsweetened soy milk",
+    "1/3 cup raw cashew pieces (soaked in hot water for at least 3 hours, then drained)",
+    "1/2 tsp sea salt (plus more to taste)",
+    "2 tbsp freshly squeezed lemon juice",
+    "2 tbsp rice vinegar",
+    "1/2 tsp coconut sugar (or brown sugar or other sugar)",
+    "1 tsp nutritional yeast (optional)",
+    "1/8 tsp freshly-ground black pepper (plus more to taste)",
+    "3 medium beets (scrubbed)",
+    "1 chipotle pepper in adobo sauce (finely chopped)",
+    "1 to 2 tbsp adobo sauce (to taste)",
+    "1 tsp ground coriander seed",
+    "1/4 tsp ground cumin",
+    "3 tbsp freshly squeezed lime juice",
+    "1/2 tbsp coconut sugar (or brown sugar or other sugar)",
+    "6 medium tortillas (or 8-10 small tortillas)",
+    "1/2 recipe cashew queso fresco (recipe above)",
+    "chipotle-marinated roasted beets (recipe above)",
+    "pico de gallo or other chunky salsa of choice",
+    "fresh cilantro or green onion (optional, for serving)"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "In a blender or food processor combine the soy milk and cashew pieces until smooth (I do this with just one cup of the soy milk and add the rest afterward, since my blender is quite small)."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Straining through a sieve if necessary, add the mixture to a saucepan along with the sea salt. Stirring occasionally to prevent sticking on the bottom, heat over medium-high heat just until the mixture comes to a boil."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Immediately remove the pan from the heat and quickly (and gently) stir in the lemon juice, rice vinegar, and sugar. The mixture should curdle almost immediately."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Cover the mixture and let it cool completely. Stir in the nutritional yeast (if using) and black pepper. Taste for seasoning and add more salt and pepper as desired (I add quite a bit more salt)."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Transfer the mixture into a sieve or over a strainer lined with cheesecloth, and place it over a bowl to catch the liquid. Cover and refrigerate, letting drain for at least 2 hours but up to 24 hours."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "At this point you can transfer it to a regular container and keep it in the fridge for up to a week."
+    }
+  ],
+  "recipeYield": "4",
+  "sameAs": [
+    "https://yupitsvegan.com/chipotle-roasted-beet-tacos"
+  ],
+  "totalTime": "PT80M",
+  "updatedAt": "2022-12-02T13:07:50.175Z"
+}

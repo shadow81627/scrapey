@@ -1,0 +1,92 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "5",
+    "reviewCount": "3"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "She Likes Food"
+  },
+  "cookingMethod": "Stovetop",
+  "cookTime": "PT7M",
+  "createdAt": "2022-12-02T23:46:01.705Z",
+  "datePublished": "2019-05-26",
+  "description": "This Chopped Greek Salad with Crispy Pita is packed with fresh vegetables and perfect for your next summer potluck or BBQ!",
+  "image": [
+    "https://www.shelikesfood.com/wp-content/uploads/2019/05/Greek-Salad-with-Crispy-Pita-Bread-3722-225x225.jpg",
+    "https://www.shelikesfood.com/wp-content/uploads/2019/05/Greek-Salad-with-Crispy-Pita-Bread-3722-260x195.jpg",
+    "https://www.shelikesfood.com/wp-content/uploads/2019/05/Greek-Salad-with-Crispy-Pita-Bread-3722-320x180.jpg",
+    "https://www.shelikesfood.com/wp-content/uploads/2019/05/Greek-Salad-with-Crispy-Pita-Bread-3722.jpg"
+  ],
+  "keywords": "Greek Chopped Salad",
+  "name": "Chopped Greek Salad with Crispy Pita",
+  "nutrition": {
+    "@type": "nutritionInformation",
+    "calories": "285 calories",
+    "carbohydrateContent": "28.4 g",
+    "cholesterolContent": "0 mg",
+    "fatContent": "17.6 g",
+    "fiberContent": "6.4 g",
+    "proteinContent": "6.9 g",
+    "saturatedFatContent": "2.7 g",
+    "servingSize": "1/6",
+    "sodiumContent": "419.8 mg",
+    "sugarContent": "4 g",
+    "transFatContent": "0 g"
+  },
+  "prepTime": "PT20M",
+  "recipeCategory": "Salad",
+  "recipeCuisine": "Greek",
+  "recipeIngredient": [
+    "1 (15 ounce) can chickpeas, drained and rinsed",
+    "1 pint cherry tomatoes, cut in half",
+    "1 small cucumber, diced",
+    "1 yellow bell pepper, diced",
+    "1/2 cup sliced kalamata olives",
+    "1/3 cup diced red onion",
+    "1 cup crumbled vegan feta cheese, or regular feta",
+    "1/3 cup chopped fresh parsley",
+    "2 cups diced pita bread",
+    "2 teaspoons olive oil",
+    "2-3 teaspoons liquid amnios, or tamari or soy sauce",
+    "1/3 cup olive oil",
+    "1 tablespoon + 2 teaspoons red wine vinegar",
+    "1 small clove garlic, minced",
+    "1/2 teaspoon dijon mustard",
+    "1/2 teaspoon pure maple syrup",
+    "1/4 teaspoon dried oregano",
+    "Salt and black pepper, to taste"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Make the dressing by adding all ingredients to a jar and whisking until combined. Add chickpeas, chopped vegetables, parsley and feta into a large bowl and pour dressing over. Mix until all ingredients are coated with the dressing."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Heat a large skillet over medium heat and add in olive oil, pita and liquid aminos. Cook until pita is crispy and golden, stirring occasionally, 5-7 minutes. Add pita to the salad just before you’re ready to serve and mix until combined."
+    }
+  ],
+  "recipeYield": "6",
+  "sameAs": [
+    "https://shelikesfood.com/greek-chopped-salad"
+  ],
+  "suitableForDiet": "VeganDiet",
+  "totalTime": "PT27M",
+  "updatedAt": "2022-12-02T23:46:01.704Z",
+  "url": "https://www.shelikesfood.com/greek-chopped-salad/",
+  "video": {
+    "@context": "http://schema.org",
+    "@type": "VideoObject",
+    "contentUrl": "https://www.youtube.com/watch?v=G5eJgyaU9dI",
+    "description": "This Greek Chopped Salad is so fresh and flavorful!  It's perfect for your summer BBQ or potluck!  It's loaded with vegetables, it's vegan and easily made gluten free!",
+    "embedUrl": "https://www.youtube.com/embed/G5eJgyaU9dI?feature=oembed",
+    "name": "How To Make Greek Chopped Salad with Crispy Pita",
+    "thumbnailUrl": [
+      "https://i.ytimg.com/vi/G5eJgyaU9dI/hqdefault.jpg"
+    ],
+    "uploadDate": "2019-05-26"
+  }
+}

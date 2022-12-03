@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "approx. 240g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$3.50 per 1Kg"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2022-12-03T04:29:46.779Z",
+  "description": "FLAVOUR: Sweet, rich and juicy RIPE WHEN: Bright green skin fades to a light green or slight yellow ENJOY: Fresh and in cooking",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/1/5/6/156258.jpg",
+  "name": "Packham Pears",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 0.84,
+    "lowPrice": 0.84,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-03T04:29:46.778Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "0.84",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/pears-packham-loose"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/pears-packham-loose"
+  ],
+  "sku": "156258",
+  "updatedAt": "2022-12-03T04:29:46.778Z"
+}

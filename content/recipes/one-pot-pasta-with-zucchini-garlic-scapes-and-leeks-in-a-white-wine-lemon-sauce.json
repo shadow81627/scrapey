@@ -1,0 +1,136 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "3",
+    "ratingValue": "5"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Yup, it's Vegan"
+  },
+  "cookTime": "PT20M",
+  "createdAt": "2022-12-02T13:18:51.718Z",
+  "datePublished": "2014-06-11T07:00:44+00:00",
+  "description": "A vegan self-saucing one pot pasta dish inspired by spring vegetables. The end result is al dente pasta with zucchini, garlic scapes and leeks in a silky and slightly creamy white wine lemon sauce.",
+  "image": [
+    "https://yupitsvegan.com/wp-content/uploads/2014/06/one_pot_pasta_zucchini_leeks_2.jpg"
+  ],
+  "keywords": "one pot pasta",
+  "mentions": [
+    {
+      "@id": "https://yupitsvegan.com/tag/citrus/#id",
+      "@type": "http://schema.org/Thing",
+      "description": "Citrus is a genus of flowering trees and shrubs in the rue family, Rutaceae. Plants in the genus produce citrus fruits, including important crops like oranges, lemons, grapefruit, and limes. The most recent research indicates an origin in Australia, New Caledonia and New Guinea. Some researchers believe that the origin is in the part of...",
+      "name": "citrus fruit",
+      "sameAs": [
+        "http://es.dbpedia.org/resource/Citrus",
+        "http://el.dbpedia.org/resource/Κίτρος",
+        "http://id.dbpedia.org/resource/Jeruk",
+        "http://d-nb.info/gnd/4139287-5",
+        "http://purl.obolibrary.org/obo/FOODON_03305742",
+        "http://www.wikidata.org/entity/Q81513",
+        "http://pt.dbpedia.org/resource/Citrus",
+        "https://en.wikipedia.org/wiki/Citrus",
+        "http://wikidata.dbpedia.org/resource/Q81513",
+        "http://de.dbpedia.org/resource/Zitruspflanzen",
+        "http://nl.dbpedia.org/resource/Citrusvrucht",
+        "http://rdf.freebase.com/ns/m.0dqb5",
+        "http://dbpedia.org/resource/Citrus",
+        "http://ja.dbpedia.org/resource/ミカン属",
+        "http://eu.dbpedia.org/resource/Garrazki",
+        "http://cs.dbpedia.org/resource/Citrus",
+        "http://it.dbpedia.org/resource/Citrus",
+        "http://pl.dbpedia.org/resource/Cytrus",
+        "http://ko.dbpedia.org/resource/귤속",
+        "http://fr.dbpedia.org/resource/Citrus",
+        "https://knowledge.cafemedia.com/food/entity/citrus_juice"
+      ]
+    },
+    {
+      "@id": "https://yupitsvegan.com/tag/pasta/#id",
+      "@type": "http://schema.org/Thing",
+      "description": "Pasta (Italian pronunciation: ) is a staple food of traditional Italian cuisine, with the first reference dating to 1154 in Sicily. It is also commonly used to refer to the variety of pasta dishes. Typically, pasta is a noodle made from an unleavened dough of a durum wheat flour mixed with water or eggs and...",
+      "name": "pasta",
+      "sameAs": [
+        "http://el.dbpedia.org/resource/Ζυμαρικό",
+        "http://rdf.freebase.com/ns/m.05z55",
+        "http://ko.dbpedia.org/resource/파스타",
+        "http://pt.dbpedia.org/resource/Massa_alimentícia",
+        "http://it.dbpedia.org/resource/Pasta",
+        "http://es.dbpedia.org/resource/Pasta",
+        "http://pl.dbpedia.org/resource/Makaron",
+        "https://en.wikipedia.org/wiki/Pasta",
+        "http://nl.dbpedia.org/resource/Pasta_(deegwaar)",
+        "http://wikidata.dbpedia.org/resource/Q178",
+        "http://fr.dbpedia.org/resource/Pâtes_alimentaires",
+        "http://www.wikidata.org/entity/Q178",
+        "http://de.dbpedia.org/resource/Pasta",
+        "http://ja.dbpedia.org/resource/パスタ",
+        "http://purl.obolibrary.org/obo/FOODON_03306347",
+        "http://cs.dbpedia.org/resource/Těstoviny",
+        "http://id.dbpedia.org/resource/Pasta",
+        "http://eu.dbpedia.org/resource/Pasta_(orea)",
+        "http://dbpedia.org/resource/Pasta",
+        "https://knowledge.cafemedia.com/food/entity/pasta"
+      ]
+    }
+  ],
+  "name": "One Pot Pasta with Zucchini, Garlic Scapes, and Leeks in a White Wine Lemon Sauce",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "376 kcal",
+    "carbohydrateContent": "67 g",
+    "fatContent": "6 g",
+    "fiberContent": "5 g",
+    "proteinContent": "11 g",
+    "servingSize": "1 fourth recipe",
+    "sodiumContent": "243 mg",
+    "sugarContent": "2 g",
+    "unsaturatedFatContent": "2 g"
+  },
+  "prepTime": "PT10M",
+  "recipeCategory": "Italian",
+  "recipeCuisine": "vegan",
+  "recipeIngredient": [
+    "2 tsp olive oil",
+    "2 leeks (white and light green parts (see notes)",
+    "12 oz whole wheat rigatoni (see notes)",
+    "1 small bunch garlic scapes (see notes)",
+    "1 large zucchini (cut into quarter moons)",
+    "1/4 tsp red pepper flakes",
+    "1 tsp dried oregano",
+    "1/4 tsp salt (scant (adjust depending on how salty your broth is - mine was not salty)",
+    "pinch ground black pepper",
+    "1 tsp lemon zest (loosely packed)",
+    "1 tbsp lemon juice",
+    "1/2 cup white wine of choice",
+    "1/2 cup plain (, unsweetened almond milk)",
+    "2 cups low-sodium vegetable broth",
+    "fresh basil"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Heat the olive oil in a large, deep skillet or saucepan over medium heat. Add the chopped leeks (and minced garlic if substituting for the garlic scapes). Stir and cook for 3 to 5 minutes, or until the leeks are somewhat softened."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add the pasta, garlic scapes, zucchini, spices, and lemon zest. Pour the lemon juice, white wine, almond milk, and vegetable broth over the top."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Bring the mixture to a boil and then reduce to a simmer. Keep partially covered, and stir frequently, cooking until the pasta is done to your liking and the liquid is thickened - about 7-10 minutes."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add salt to taste. Serve topped with fresh basil. The sauce will thicken up a little more once cooled."
+    }
+  ],
+  "recipeYield": "4",
+  "sameAs": [
+    "https://yupitsvegan.com/one-pot-pasta-zucchini-leeks-white-wine-sauce"
+  ],
+  "totalTime": "PT30M",
+  "updatedAt": "2022-12-02T13:18:51.717Z"
+}

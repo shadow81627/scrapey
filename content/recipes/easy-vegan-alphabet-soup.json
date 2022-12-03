@@ -1,0 +1,109 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "5",
+    "ratingValue": "5"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Sam Turnbull • It Doesn't Taste Like Chicken"
+  },
+  "cookTime": "PT30M",
+  "createdAt": "2022-12-02T16:05:12.139Z",
+  "datePublished": "2020-09-02T05:00:40+00:00",
+  "description": "Healthy homemade soup recipe that&#039;s fun to eat! Perfect for lunches or an easy meal. Freezer-friendly. Gluten-free and oil-free options.",
+  "image": [
+    "https://itdoesnttastelikechicken.com/wp-content/uploads/2020/08/easy-vegan-alphabet-soup-recipe-homemade-easy-pasta.jpg",
+    "https://itdoesnttastelikechicken.com/wp-content/uploads/2020/08/easy-vegan-alphabet-soup-recipe-homemade-easy-pasta-500x500.jpg",
+    "https://itdoesnttastelikechicken.com/wp-content/uploads/2020/08/easy-vegan-alphabet-soup-recipe-homemade-easy-pasta-500x375.jpg",
+    "https://itdoesnttastelikechicken.com/wp-content/uploads/2020/08/easy-vegan-alphabet-soup-recipe-homemade-easy-pasta-480x270.jpg"
+  ],
+  "keywords": "alphabet, easy, homemade, kids, recipe, soup, vegan",
+  "mentions": [
+    {
+      "@id": "https://itdoesnttastelikechicken.com/tag/tomatoes/#id",
+      "@type": "http://schema.org/Thing",
+      "description": "The tomato (see ) is the edible, red fruit of Solanum lycopersicum, commonly known as a tomato plant, which belongs to the nightshade family, Solanaceae. The species originated in Central and South America. The Nahuatl (Aztec language) word tomatl gave rise to the Spanish word \"tomate\", from which the English word tomato originates.",
+      "name": "tomato",
+      "sameAs": [
+        "http://de.dbpedia.org/resource/Tomate",
+        "http://ja.dbpedia.org/resource/トマト",
+        "https://en.wikipedia.org/wiki/Tomato",
+        "http://eunis.eea.europa.eu/species/185044",
+        "http://d-nb.info/gnd/4060370-2",
+        "http://dbpedia.org/resource/Tomato",
+        "http://id.dbpedia.org/resource/Tomat",
+        "http://rdf.freebase.com/ns/m.07j87",
+        "http://cs.dbpedia.org/resource/Rajče_jedlé",
+        "http://pl.dbpedia.org/resource/Pomidor_zwyczajny",
+        "http://purl.obolibrary.org/obo/FOODON_03309573",
+        "http://ko.dbpedia.org/resource/토마토",
+        "http://www.wikidata.org/entity/Q23501",
+        "http://fr.dbpedia.org/resource/Tomate",
+        "http://lod.geospecies.org/ses/qXNFy",
+        "http://yago-knowledge.org/resource/Solanum_lycopersicum",
+        "http://es.dbpedia.org/resource/Solanum_lycopersicum",
+        "http://nl.dbpedia.org/resource/Tomaat",
+        "http://pt.dbpedia.org/resource/Tomate",
+        "http://wikidata.dbpedia.org/resource/Q23501",
+        "http://it.dbpedia.org/resource/Solanum_lycopersicum",
+        "http://el.dbpedia.org/resource/Τομάτα",
+        "https://knowledge.cafemedia.com/food/entity/green_tomato"
+      ]
+    }
+  ],
+  "name": "Easy Vegan Alphabet Soup",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "138 kcal",
+    "carbohydrateContent": "27 g",
+    "fatContent": "2 g",
+    "fiberContent": "4 g",
+    "proteinContent": "4 g",
+    "saturatedFatContent": "1 g",
+    "servingSize": "1 serving about 1 3/4 cups (recipe makes 8 servings)",
+    "sodiumContent": "1117 mg",
+    "sugarContent": "8 g"
+  },
+  "prepTime": "PT10M",
+  "recipeCategory": "Soup",
+  "recipeCuisine": "American",
+  "recipeIngredient": [
+    "1 tablespoon olive oil",
+    "2 medium carrots, (peeled and chopped)",
+    "2 ribs of celery, (chopped)",
+    "1 yellow onion, (chopped)",
+    "4 cloves garlic, (minced or pressed)",
+    "8 cups vegetable broth",
+    "1 28 ounce diced tomatoes (3.5 cups)",
+    "2 bay leaves",
+    "1 tablespoon Italian seasoning",
+    "1 cup dry alphabet pasta (gluten-free if preferred)",
+    "3/4 cup fresh or frozen green beans, (chopped)",
+    "3/4 cup fresh or frozen peas",
+    "3/4 cup fresh or frozen corn",
+    "1/2 teaspoon salt (or to taste)",
+    "1/4 teaspoon black pepper (or to taste)"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Heat the olive oil in a large pot over medium-high heat. Add the carrots, celery, onion, and garlic and sauté for about 5 minutes until the onion turns translucent and begins to brown."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add the vegetable broth, diced tomatoes, bay leaves, and Italian seasoning and bring to a boil. Reduce the heat to a simmer, stir in the pasta, and cover and continue to simmer for about 20 minutes until the tomatoes and pasta are cooked."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Stir in the green beans, peas, corn, salt and pepper and cook another 5 minutes to heat through. Serve hot."
+    }
+  ],
+  "recipeYield": "8",
+  "sameAs": [
+    "https://itdoesnttastelikechicken.com/easy-vegan-alphabet-soup"
+  ],
+  "totalTime": "PT40M",
+  "updatedAt": "2022-12-02T16:05:12.138Z"
+}

@@ -1,0 +1,50 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "16 pack"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.19 per 1Ea"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Made in China"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2022-12-02T18:20:10.303Z",
+  "description": "Add some extra sparkle to your cake and make it the centrepiece of your celebration or birthday party!",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/6/6/3668970.jpg",
+  "name": "Party Candles Spot",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3,
+    "lowPrice": 3,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-02T18:20:10.303Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "3.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-party-candles-spot"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/coles-party-candles-spot"
+  ],
+  "sku": "3668970",
+  "updatedAt": "2022-12-02T18:20:10.303Z"
+}

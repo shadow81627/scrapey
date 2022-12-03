@@ -1,0 +1,94 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "9",
+    "ratingValue": "5"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Yup, it's Vegan"
+  },
+  "cookTime": "PT25M",
+  "createdAt": "2022-12-02T14:27:06.617Z",
+  "datePublished": "2017-08-20T17:18:14+00:00",
+  "description": "You're only 5 ingredients (including salt) and about 30 minutes away from a sweet, delicious, restaurant-quality cherry tomato sauce, made by bursting cherry tomatoes in the pan and mixing them with garlic-infused olive oil and a hint of fresh basil.",
+  "image": [
+    "https://yupitsvegan.com/wp-content/uploads/2017/08/bursted-cherry-tomato-sauce-garlic-basil-square.jpg"
+  ],
+  "keywords": "burst cherry tomatoes, cherry tomato sauce",
+  "mentions": [
+    {
+      "@id": "https://yupitsvegan.com/tag/pasta/#id",
+      "@type": "http://schema.org/Thing",
+      "description": "Pasta (Italian pronunciation: ) is a staple food of traditional Italian cuisine, with the first reference dating to 1154 in Sicily. It is also commonly used to refer to the variety of pasta dishes. Typically, pasta is a noodle made from an unleavened dough of a durum wheat flour mixed with water or eggs and...",
+      "name": "pasta",
+      "sameAs": [
+        "http://el.dbpedia.org/resource/Ζυμαρικό",
+        "http://rdf.freebase.com/ns/m.05z55",
+        "http://ko.dbpedia.org/resource/파스타",
+        "http://pt.dbpedia.org/resource/Massa_alimentícia",
+        "http://it.dbpedia.org/resource/Pasta",
+        "http://es.dbpedia.org/resource/Pasta",
+        "http://pl.dbpedia.org/resource/Makaron",
+        "https://en.wikipedia.org/wiki/Pasta",
+        "http://nl.dbpedia.org/resource/Pasta_(deegwaar)",
+        "http://wikidata.dbpedia.org/resource/Q178",
+        "http://fr.dbpedia.org/resource/Pâtes_alimentaires",
+        "http://www.wikidata.org/entity/Q178",
+        "http://de.dbpedia.org/resource/Pasta",
+        "http://ja.dbpedia.org/resource/パスタ",
+        "http://purl.obolibrary.org/obo/FOODON_03306347",
+        "http://cs.dbpedia.org/resource/Těstoviny",
+        "http://id.dbpedia.org/resource/Pasta",
+        "http://eu.dbpedia.org/resource/Pasta_(orea)",
+        "http://dbpedia.org/resource/Pasta",
+        "https://knowledge.cafemedia.com/food/entity/pasta"
+      ]
+    }
+  ],
+  "name": "Simple Burst Cherry Tomato Sauce",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "64 kcal",
+    "carbohydrateContent": "6 g",
+    "fatContent": "5 g",
+    "fiberContent": "2 g",
+    "proteinContent": "1 g",
+    "saturatedFatContent": "1 g",
+    "servingSize": "6 tablespoons",
+    "sodiumContent": "7 mg",
+    "sugarContent": "3 g",
+    "unsaturatedFatContent": "3 g"
+  },
+  "prepTime": "PT10M",
+  "recipeCategory": "sauces",
+  "recipeCuisine": "gluten-free",
+  "recipeIngredient": [
+    "2 and 1/2 tbsp olive oil",
+    "5 cloves garlic (minced)",
+    "3 pints cherry tomatoes (about 1kg or 35 oz), sliced in half)",
+    "2 large sprigs fresh basil",
+    "salt (to taste)",
+    "12 oz dry pasta of choice",
+    "burst cherry tomato sauce (above)",
+    "hemp seed parmesan (optional, for serving)",
+    "sliced fresh basil and red pepper flakes (optional, for serving)"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Warm the olive oil over medium heat in a large, wide skillet (I recommend cast iron). When warm, add the garlic. Cook, stirring constantly, for about 45 seconds or just until the smallest bits of garlic start to slightly brown. Immediately add the halved cherry tomatoes to the skillet and stir well."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Reduce the heat slightly. Add the whole sprigs of fresh basil to the pan along with a sprinkle of salt. Continue to cook, stirring occasionally, for about 20 minutes or until the cherry tomatoes have released their juices, softened, and the sauce has thickened such that it's beginning to cling to the pan. Remove from the heat, remove the basil sprigs, salt to taste, and serve or store."
+    }
+  ],
+  "recipeYield": "3",
+  "sameAs": [
+    "https://yupitsvegan.com/burst-cherry-tomato-sauce"
+  ],
+  "totalTime": "PT35M",
+  "updatedAt": "2022-12-02T14:27:06.616Z"
+}

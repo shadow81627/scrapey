@@ -1,0 +1,54 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Australian Spring Water"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "20.0"
+    },
+    {
+      "name": "Size",
+      "value": "20 pack"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.92 per 1L"
+    }
+  ],
+  "brand": "Mount Franklin",
+  "createdAt": "2022-12-03T01:28:41.008Z",
+  "description": "Mount Franklin Spring Water Multipack Bottles 20 x 500mL",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/7/9/0/7909649.jpg",
+  "name": "Spring Water Multipack Bottles 20 x 500mL",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 9.2,
+    "lowPrice": 9.2,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-03T01:28:41.007Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "9.20",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/mount-franklin-water-spring-20-pack"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/mount-franklin-water-spring-20-pack"
+  ],
+  "sku": "7909649",
+  "updatedAt": "2022-12-03T01:28:41.007Z"
+}

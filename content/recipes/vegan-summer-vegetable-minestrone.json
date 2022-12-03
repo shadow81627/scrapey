@@ -1,0 +1,166 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "2",
+    "ratingValue": "5"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Yup, it's Vegan"
+  },
+  "cookTime": "PT25M",
+  "createdAt": "2022-12-02T15:27:57.739Z",
+  "datePublished": "2018-08-26T13:38:12+00:00",
+  "description": "A fresh tasting minestrone soup, featuring summer vegetables but delicious any time of year. Vegan and easily made gluten-free with GF pasta. Serve with homemade lentil balls for a heartier meal.",
+  "image": [
+    "https://yupitsvegan.com/wp-content/uploads/2018/08/summer-vegetable-vegan-minestrone-6.jpg",
+    "https://yupitsvegan.com/wp-content/uploads/2018/08/summer-vegetable-vegan-minestrone-6-500x500.jpg",
+    "https://yupitsvegan.com/wp-content/uploads/2018/08/summer-vegetable-vegan-minestrone-6-500x375.jpg",
+    "https://yupitsvegan.com/wp-content/uploads/2018/08/summer-vegetable-vegan-minestrone-6-480x270.jpg"
+  ],
+  "keywords": "summer minestrone, vegan minestrone",
+  "mentions": [
+    {
+      "@id": "https://yupitsvegan.com/tag/high-vegetable/#id",
+      "@type": "http://schema.org/Thing",
+      "description": "In everyday usage, a vegetable is any part of a plant that is consumed by humans as food as part of a savory meal. The term vegetable is somewhat arbitrary, and largely defined through culinary and cultural tradition. It normally excludes other food derived from plants such as fruits, nuts and cereal grains, but includes...",
+      "name": "vegetable",
+      "sameAs": [
+        "http://ko.dbpedia.org/resource/채소",
+        "http://wikidata.dbpedia.org/resource/Q11004",
+        "http://eu.dbpedia.org/resource/Barazki",
+        "http://purl.obolibrary.org/obo/FOODON_00002141",
+        "http://pl.dbpedia.org/resource/Warzywa",
+        "http://fr.dbpedia.org/resource/Légume",
+        "https://en.wikipedia.org/wiki/Vegetable",
+        "http://de.dbpedia.org/resource/Gemüse",
+        "http://el.dbpedia.org/resource/Λαχανικό",
+        "http://rdf.freebase.com/ns/m.0f4s2w",
+        "http://nl.dbpedia.org/resource/Groente",
+        "http://cs.dbpedia.org/resource/Zelenina",
+        "http://es.dbpedia.org/resource/Verdura",
+        "http://www.wikidata.org/entity/Q11004",
+        "http://dbpedia.org/resource/Vegetable",
+        "http://d-nb.info/gnd/4020069-3",
+        "http://it.dbpedia.org/resource/Verdura",
+        "http://ja.dbpedia.org/resource/野菜",
+        "http://id.dbpedia.org/resource/Sayuran",
+        "https://knowledge.cafemedia.com/food/entity/fruit_vegetable"
+      ]
+    },
+    {
+      "@id": "https://yupitsvegan.com/tag/pasta/#id",
+      "@type": "http://schema.org/Thing",
+      "description": "Pasta (Italian pronunciation: ) is a staple food of traditional Italian cuisine, with the first reference dating to 1154 in Sicily. It is also commonly used to refer to the variety of pasta dishes. Typically, pasta is a noodle made from an unleavened dough of a durum wheat flour mixed with water or eggs and...",
+      "name": "pasta",
+      "sameAs": [
+        "http://el.dbpedia.org/resource/Ζυμαρικό",
+        "http://rdf.freebase.com/ns/m.05z55",
+        "http://ko.dbpedia.org/resource/파스타",
+        "http://pt.dbpedia.org/resource/Massa_alimentícia",
+        "http://it.dbpedia.org/resource/Pasta",
+        "http://es.dbpedia.org/resource/Pasta",
+        "http://pl.dbpedia.org/resource/Makaron",
+        "https://en.wikipedia.org/wiki/Pasta",
+        "http://nl.dbpedia.org/resource/Pasta_(deegwaar)",
+        "http://wikidata.dbpedia.org/resource/Q178",
+        "http://fr.dbpedia.org/resource/Pâtes_alimentaires",
+        "http://www.wikidata.org/entity/Q178",
+        "http://de.dbpedia.org/resource/Pasta",
+        "http://ja.dbpedia.org/resource/パスタ",
+        "http://purl.obolibrary.org/obo/FOODON_03306347",
+        "http://cs.dbpedia.org/resource/Těstoviny",
+        "http://id.dbpedia.org/resource/Pasta",
+        "http://eu.dbpedia.org/resource/Pasta_(orea)",
+        "http://dbpedia.org/resource/Pasta",
+        "https://knowledge.cafemedia.com/food/entity/pasta"
+      ]
+    },
+    {
+      "@id": "https://yupitsvegan.com/category/soup/#id",
+      "@type": "http://schema.org/Thing",
+      "description": "From creamy chowders, to spicy tortilla soup, to Asian-inspired noodle soup, every plant-based and vegan soup you could ever want in one place!",
+      "name": "soup",
+      "sameAs": [
+        "http://ko.dbpedia.org/resource/수프",
+        "http://d-nb.info/gnd/4058643-1",
+        "http://eu.dbpedia.org/resource/Zopa",
+        "http://pl.dbpedia.org/resource/Zupa",
+        "http://www.wikidata.org/entity/Q41415",
+        "http://de.dbpedia.org/resource/Suppe",
+        "http://purl.obolibrary.org/obo/FOODON_03304925",
+        "http://id.dbpedia.org/resource/Sup",
+        "http://dbpedia.org/resource/Soup",
+        "http://es.dbpedia.org/resource/Sopa",
+        "http://ja.dbpedia.org/resource/スープ",
+        "http://yago-knowledge.org/resource/Cold_Soup",
+        "http://wikidata.dbpedia.org/resource/Q41415",
+        "https://en.wikipedia.org/wiki/Soup",
+        "http://it.dbpedia.org/resource/Minestra",
+        "http://el.dbpedia.org/resource/Σούπα",
+        "http://cs.dbpedia.org/resource/Polévka",
+        "http://rdf.freebase.com/ns/m.01z1m1x",
+        "http://fr.dbpedia.org/resource/Soupe",
+        "http://nl.dbpedia.org/resource/Soep_(voedsel)",
+        "http://pt.dbpedia.org/resource/Sopa",
+        "https://knowledge.cafemedia.com/food/entity/soup"
+      ]
+    }
+  ],
+  "name": "Vegan Summer Vegetable Minestrone",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "217 kcal",
+    "carbohydrateContent": "36 g",
+    "fatContent": "6 g",
+    "fiberContent": "5 g",
+    "proteinContent": "5 g",
+    "saturatedFatContent": "1 g",
+    "servingSize": "1 fourth recipe",
+    "sugarContent": "4 g",
+    "unsaturatedFatContent": "5 g"
+  },
+  "prepTime": "PT15M",
+  "recipeCategory": "Main Course",
+  "recipeCuisine": "dairy-free",
+  "recipeIngredient": [
+    "1 and 1/2 tbsp olive oil",
+    "3 cloves garlic (minced)",
+    "1 yellow or white onion (diced)",
+    "2 carrots (peeled and diced or thinly sliced)",
+    "1 stalk celery (diced)",
+    "1/4 tsp dried thyme",
+    "1/8 tsp freshly ground black pepper",
+    "1/4 tsp red pepper flakes",
+    "2 bay leaves",
+    "7 cups low-sodium vegetable broth",
+    "4 oz elbow pasta (1 heaping cup) (or other pasta shape; gluten-free if needed)",
+    "2 medium zucchini (halved or quartered and sliced)",
+    "4 cups fresh baby spinach",
+    "1/4 cup freshly-squeezed lemon juice (about 1 lemon)",
+    "1/4 cup chopped fresh parsley",
+    "1 recipe lentil balls (optional accompaniment, see notes)",
+    "hemp parmesan (optional, for serving)"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Heat the olive oil in a stockpot. Add the garlic, onion, carrots and celery. Cook, stirring occasionally, until the onion is starting to become tender, about 5-7 minutes. Add the thyme, pepper, chili flakes, and bay leaf, and cook until fragrant, about 60 seconds."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Stir in the vegetable broth and bring to a boil. Add the pasta, reduce the heat to a steady simmer and cook until the pasta is al dente (about 10-12 minutes, depending on the choice of pasta shape). Add the zucchini and simmer for another 2 minutes."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Stir in the spinach and lemon juice, and cook until the spinach is wilted, about 2 minutes more. Add the parsley and season with additional salt, pepper and lemon juice to taste. Serve hot."
+    }
+  ],
+  "recipeYield": "4",
+  "sameAs": [
+    "https://yupitsvegan.com/summer-minestrone-vegan"
+  ],
+  "totalTime": "PT40M",
+  "updatedAt": "2022-12-02T15:27:57.738Z"
+}

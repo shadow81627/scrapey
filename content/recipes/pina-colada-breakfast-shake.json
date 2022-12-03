@@ -1,0 +1,65 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1",
+    "ratingValue": "5"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Oh My Veggies"
+  },
+  "createdAt": "2022-12-02T22:22:40.714Z",
+  "datePublished": "2020-07-06T06:00:52+00:00",
+  "description": "A summery breakfast shake made with oats, dried coconut, and pineapple.",
+  "image": [
+    "https://ohmyveggies.com/wp-content/uploads/2013/07/pina_colada_breakfast_shake_recipe.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2013/07/pina_colada_breakfast_shake_recipe-500x404.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2013/07/pina_colada_breakfast_shake_recipe-500x375.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2013/07/pina_colada_breakfast_shake_recipe-480x270.jpg"
+  ],
+  "keywords": "Breakfast Shake recipe, Piña Colada Breakfast Shake",
+  "name": "Piña Colada Breakfast Shake",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "395 kcal",
+    "carbohydrateContent": "60 g",
+    "fatContent": "16 g",
+    "fiberContent": "11 g",
+    "proteinContent": "8 g",
+    "saturatedFatContent": "13 g",
+    "servingSize": "1 serving",
+    "sodiumContent": "263 mg",
+    "sugarContent": "33 g",
+    "unsaturatedFatContent": "2 g"
+  },
+  "prepTime": "PT5M",
+  "recipeCategory": "Breakfast",
+  "recipeCuisine": "American",
+  "recipeIngredient": [
+    "1/3 cup old-fashioned oats",
+    "1 cup coconut water",
+    "1/4 cup unsweetened dried coconut flakes",
+    "3/4 cup frozen pineapple chunks",
+    "sweetener of choice (to taste, if desired)"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Combine the oats, coconut water, and coconut flakes in a small container with a lid. Stir together, cover, and refrigerate overnight (or at least 2 hours if you're not having this for breakfast—this step helps soften up the oats)."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add the oat mixture and the frozen pineapple chunks to your blender. (A high speed one like the Vitamix works best! Please do not blame me if your blender does not blend!) Puree until completely smooth and add sweetener to taste if you need it (since the pineapple is so sweet, I skip adding any extra sweetener)."
+    }
+  ],
+  "recipeYield": "1",
+  "sameAs": [
+    "https://ohmyveggies.com/pina-colada-breakfast-shake"
+  ],
+  "suitableForDiet": [
+    "https://schema.org/VegetarianDiet"
+  ],
+  "totalTime": "PT5M",
+  "updatedAt": "2022-12-02T22:22:40.713Z"
+}

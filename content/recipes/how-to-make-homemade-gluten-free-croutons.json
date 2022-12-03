@@ -1,0 +1,84 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "2",
+    "ratingValue": "5"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Sophia DeSantis"
+  },
+  "cookTime": "PT15M",
+  "createdAt": "2022-12-03T03:21:30.163Z",
+  "datePublished": "2021-03-27T10:00:00+00:00",
+  "description": "Homemade gluten-free croutons are so easy to make. With just a few healthy ingredients, you get a delicious crunchy topping to use any time!",
+  "image": [
+    "https://www.veggiesdontbite.com/wp-content/uploads/2021/03/homemade-gluten-free-croutons-19.jpg",
+    "https://www.veggiesdontbite.com/wp-content/uploads/2021/03/homemade-gluten-free-croutons-19-500x500.jpg",
+    "https://www.veggiesdontbite.com/wp-content/uploads/2021/03/homemade-gluten-free-croutons-19-500x375.jpg",
+    "https://www.veggiesdontbite.com/wp-content/uploads/2021/03/homemade-gluten-free-croutons-19-480x270.jpg"
+  ],
+  "keywords": "creamy salad dressing, healthy salad dressing",
+  "name": "How to Make Homemade Gluten-Free Croutons",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "166 kcal",
+    "carbohydrateContent": "35 g",
+    "fatContent": "2 g",
+    "fiberContent": "2 g",
+    "proteinContent": "5 g",
+    "saturatedFatContent": "1 g",
+    "servingSize": "1 serving",
+    "sodiumContent": "130 mg",
+    "sugarContent": "1 g"
+  },
+  "prepTime": "PT5M",
+  "recipeCategory": "Salad",
+  "recipeCuisine": "Italian",
+  "recipeIngredient": [
+    "2 cups gluten-free bread (, cubed)",
+    "1 garlic clove (, sliced in half)",
+    "drizzle your favorite oil (, optional for baking (I used olive)",
+    "1/4 teaspoon sea salt",
+    "1/4 teaspoon freshly ground black pepper",
+    "garlic powder",
+    "smoked or regular paprika",
+    "oregano",
+    "thyme",
+    "parsley"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Preheat the oven to 350°F."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Rub the bread pieces with the cut clove of garlic"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Mix the bread with oil (if using), salt and pepper and any seasonings of choice."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Bake until crispy, about 15 minutes. Start checking at 10 to prevent burning."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Use how you want!"
+    }
+  ],
+  "recipeYield": "4",
+  "sameAs": [
+    "https://veggiesdontbite.com/how-to-make-homemade-gluten-free-croutons"
+  ],
+  "suitableForDiet": [
+    "https://schema.org/GlutenFreeDiet",
+    "https://schema.org/VeganDiet",
+    "https://schema.org/VegetarianDiet"
+  ],
+  "totalTime": "PT20M",
+  "updatedAt": "2022-12-03T03:21:30.162Z"
+}

@@ -1,0 +1,83 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "2",
+    "ratingValue": "5"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Oh My Veggies"
+  },
+  "cookTime": "PT35M",
+  "createdAt": "2022-12-03T05:09:37.120Z",
+  "datePublished": "2019-01-16T06:00:44+00:00",
+  "description": "This Broccoli and Parmesan Soup is rich, creamy, and totally delicious. This one-pot meal is perfect for chilly fall and winter evenings. Yum!",
+  "image": [
+    "https://ohmyveggies.com/wp-content/uploads/2019/01/brocolli-and-parmesan-soup-1-1-scaled.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2019/01/brocolli-and-parmesan-soup-1-1-500x500.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2019/01/brocolli-and-parmesan-soup-1-1-500x375.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2019/01/brocolli-and-parmesan-soup-1-1-480x270.jpg"
+  ],
+  "keywords": "Vegetarian Broccoli and Parmesan soup, vegetarian soup recipe",
+  "name": "Broccoli and Parmesan Soup",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "264 kcal",
+    "carbohydrateContent": "36 g",
+    "cholesterolContent": "13 mg",
+    "fatContent": "9 g",
+    "fiberContent": "7 g",
+    "proteinContent": "14 g",
+    "saturatedFatContent": "4 g",
+    "servingSize": "1 serving",
+    "sodiumContent": "1298 mg",
+    "sugarContent": "7 g",
+    "unsaturatedFatContent": "5 g"
+  },
+  "prepTime": "PT15M",
+  "recipeCategory": "Main Course",
+  "recipeCuisine": "American",
+  "recipeIngredient": [
+    "1 tbsp olive oil",
+    "1 onion (peeled and diced)",
+    "3 cloves garlic (minced)",
+    "4 cups vegetable broth",
+    "1 head broccoli (about 3-4 cups)",
+    "2 potatoes (peeled and cubed)",
+    "3/4 cup Parmesan cheese (divided)",
+    "parsley (fresh, for serving)",
+    "salt and pepper (to taste)"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Heat olive oil in a large pot over medium heat. Add the onion and cook for 3-4 minutes, until softened."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add the garlic and cook for 1 more minute. Add the broccoli florets, potatoes, and vegetable broth to the saucepan. Bring to a boil. Then reduce to a simmer and cook for 20-30 minutes, until broccoli and potatoes are fork tender."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Use an immersion blender to puree the soup to a creamy consistency. If you do not have an immersion blender, transfer the soup to a regular blender for this step, and then return it to the pot."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Stir in 1/2 cup of the parmesan cheese, and stir until well combined."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Serve sprinkled with fresh parsley and the remaining parmesan cheese."
+    }
+  ],
+  "recipeYield": "4",
+  "sameAs": [
+    "https://ohmyveggies.com/simple-vegetarian-broccoli-and-parmesan-soup"
+  ],
+  "suitableForDiet": [
+    "https://schema.org/VegetarianDiet"
+  ],
+  "totalTime": "PT50M",
+  "updatedAt": "2022-12-03T05:09:37.119Z"
+}

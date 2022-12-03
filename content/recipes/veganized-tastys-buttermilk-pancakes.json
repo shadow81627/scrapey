@@ -1,0 +1,107 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "25",
+    "ratingValue": "5"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Sam Turnbull • It Doesn't Taste Like Chicken"
+  },
+  "cookTime": "PT20M",
+  "createdAt": "2022-12-02T12:02:56.523Z",
+  "datePublished": "2018-10-03T09:53:01+00:00",
+  "description": "This recipe was adapted from Tasty's Ultimate Buttermilk Pancake Recipe&nbsp;as a fun experiment. The end results are yummy, but I personally prefer my Pillowy Pancake recipe in my cookbook Fuss-Free Vegan&nbsp;for an easier, and just as a delicious recipe.&nbsp;",
+  "image": [
+    "https://itdoesnttastelikechicken.com/wp-content/uploads/2018/10/veganized-tastys-buttermilk-pancakes-fluffiest-vegan-02.jpg",
+    "https://itdoesnttastelikechicken.com/wp-content/uploads/2018/10/veganized-tastys-buttermilk-pancakes-fluffiest-vegan-02-500x500.jpg",
+    "https://itdoesnttastelikechicken.com/wp-content/uploads/2018/10/veganized-tastys-buttermilk-pancakes-fluffiest-vegan-02-500x375.jpg",
+    "https://itdoesnttastelikechicken.com/wp-content/uploads/2018/10/veganized-tastys-buttermilk-pancakes-fluffiest-vegan-02-480x270.jpg"
+  ],
+  "keywords": "Tasty 101, Tasty's buttermilk pancakes, Tasty's pancakes, vegan buttermilk pancakes, vegan pancakes, vegan pancakes recipe, veganized",
+  "mentions": [
+    {
+      "@id": "https://itdoesnttastelikechicken.com/category/recipes/breakfast/#id",
+      "@type": "http://schema.org/Thing",
+      "description": "Vegan Breakfast Recipes to wow your tastebuds and cure those early morning cravings. my vegan breakfast recipes cover savoury and sweet dishes as well as vegan meat and vegan egg recipes. Fast, easy, cheap and delicious! These recipes are sure to please everyone in your household. Come on in and get cooking!",
+      "name": "breakfast",
+      "sameAs": [
+        "http://wikidata.dbpedia.org/resource/Q80973",
+        "http://rdf.freebase.com/ns/m.0hz4q",
+        "http://fr.dbpedia.org/resource/Déjeuner",
+        "http://www.wikidata.org/entity/Q80973",
+        "http://id.dbpedia.org/resource/Sarapan",
+        "https://en.wikipedia.org/wiki/Breakfast",
+        "http://ko.dbpedia.org/resource/아침밥",
+        "http://ja.dbpedia.org/resource/朝食",
+        "http://pt.dbpedia.org/resource/Desjejum",
+        "http://d-nb.info/gnd/4018736-6",
+        "http://it.dbpedia.org/resource/Colazione",
+        "http://es.dbpedia.org/resource/Desayuno",
+        "http://cs.dbpedia.org/resource/Snídaně",
+        "http://de.dbpedia.org/resource/Frühstück",
+        "http://pl.dbpedia.org/resource/Śniadanie",
+        "http://dbpedia.org/resource/Breakfast",
+        "http://purl.obolibrary.org/obo/FOODON_00002386",
+        "http://nl.dbpedia.org/resource/Ontbijt",
+        "http://eu.dbpedia.org/resource/Gosari",
+        "https://knowledge.cafemedia.com/food/entity/breakfast_food"
+      ]
+    }
+  ],
+  "name": "VEGANIZED: Tasty's Buttermilk Pancakes",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "162 kcal",
+    "carbohydrateContent": "23 g",
+    "fatContent": "6 g",
+    "proteinContent": "2 g",
+    "saturatedFatContent": "1 g",
+    "servingSize": "1 serving",
+    "sodiumContent": "249 mg",
+    "sugarContent": "3 g"
+  },
+  "prepTime": "PT10M",
+  "recipeCategory": "Breakfast",
+  "recipeCuisine": "American",
+  "recipeIngredient": [
+    "2 1/2 cups all-purpose flour",
+    "3 tablespoons white sugar",
+    "1 teaspoon baking powder",
+    "1 teaspoon baking soda",
+    "1/2 teaspoon salt",
+    "2 cups plant-based milk (such as soy or almond)",
+    "2 tablespoons lemon juice",
+    "1/2 cup vegan butter, (melted (plus more for frying)",
+    "1/4 cup aquafaba (the liquid in a can of chickpeas)"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "In a large bowl, whisk together the flour, sugar, baking powder, baking soda, and salt."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "In a medium bowl or measuring cup mix together the plant-based milk and lemon juice so that it curdles. Whisk in the melted vegan butter. Pour the milk mixture into the dry mixture and gently fold. Now add the aquafaba and continue to fold. Don't overmix the batter, it should be very lumpy. Let the batter rest for 15 to 30 minutes. Side note: I found this resting time didn't make much of a difference, so skip if you prefer."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "When ready to cook pancakes, use a large cast iron skillet or non-stick pan. Melt a dab of vegan butter in the pan and then pour in a heaping 1/3 cup of pancake batter. For extra thick pancakes, do not spread the batter. Cook a few minutes until the bottom is browned and bubbles appear on the top of the pancake. Flip and cook 1 to 2 minutes more on the other side. Repeat with the remaining batter."
+    }
+  ],
+  "recipeYield": "12",
+  "sameAs": [
+    "https://itdoesnttastelikechicken.com/veganized-tastys-buttermilk-pancakes"
+  ],
+  "totalTime": "PT30M",
+  "updatedAt": "2022-12-02T12:02:56.522Z",
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/s3ppUJP6.mp4",
+    "description": "",
+    "name": "VEGANIZED! Tasty's Buttermilk Pancakes",
+    "thumbnailUrl": "https://content.jwplatform.com/thumbs/s3ppUJP6-720.jpg",
+    "uploadDate": "2021-10-27T18:48:57.000Z"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "1 pack"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$4.00 per 1Ea"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2022-12-03T10:17:20.339Z",
+  "description": "Coles Christmas Fabric Ribbon 3m",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/3/9/5395620.jpg",
+  "name": "Christmas Fabric Ribbon 3m",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 4,
+    "lowPrice": 4,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-03T10:17:20.338Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "4.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/christmas-fabric-ribbon-5395620p-1"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/christmas-fabric-ribbon-5395620p-1"
+  ],
+  "sku": "5395620",
+  "updatedAt": "2022-12-03T10:17:20.338Z"
+}

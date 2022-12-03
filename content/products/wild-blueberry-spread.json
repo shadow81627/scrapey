@@ -1,0 +1,50 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "284g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$2.01 per 100G"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Made in France"
+    }
+  ],
+  "brand": "St Dalfour",
+  "createdAt": "2022-12-03T14:57:46.335Z",
+  "description": "St Dalfour Wild Blueberry Spread, 284g. Superb, rich blueberry character with gobs of whole blueberries.Pairs well with pancakes, ice cream and peanut butter.",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/7/0/5704420.jpg",
+  "name": "Wild Blueberry Spread",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 5.7,
+    "lowPrice": 5.7,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-03T14:57:46.334Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "5.70",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/st-dalfour-fruit-spread-wild-blueberry"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/st-dalfour-fruit-spread-wild-blueberry"
+  ],
+  "sku": "5704420",
+  "updatedAt": "2022-12-03T14:57:46.334Z"
+}

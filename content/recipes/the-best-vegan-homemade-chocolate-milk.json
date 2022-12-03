@@ -1,0 +1,69 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1",
+    "ratingValue": "5"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Sophia DeSantis"
+  },
+  "cookTime": "PT5M",
+  "createdAt": "2022-12-02T18:19:05.608Z",
+  "datePublished": "2021-08-23T10:00:00+00:00",
+  "description": "I love making this vegan chocolate milk at home. Simple ingredients, easy to make and a perfect treat at your fingertips any time you want it!",
+  "image": [
+    "https://www.veggiesdontbite.com/wp-content/uploads/2021/08/vegan-chocolate-milk-21.jpg",
+    "https://www.veggiesdontbite.com/wp-content/uploads/2021/08/vegan-chocolate-milk-21-500x500.jpg",
+    "https://www.veggiesdontbite.com/wp-content/uploads/2021/08/vegan-chocolate-milk-21-500x375.jpg",
+    "https://www.veggiesdontbite.com/wp-content/uploads/2021/08/vegan-chocolate-milk-21-480x270.jpg"
+  ],
+  "keywords": "healthier chocolate milk, homemade chocolate milk",
+  "name": "The Best Vegan Homemade Chocolate Milk",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "185 kcal",
+    "carbohydrateContent": "19 g",
+    "fatContent": "12 g",
+    "fiberContent": "2 g",
+    "proteinContent": "2 g",
+    "saturatedFatContent": "6 g",
+    "servingSize": "1 serving",
+    "sodiumContent": "160 mg",
+    "sugarContent": "14 g",
+    "unsaturatedFatContent": "1 g"
+  },
+  "prepTime": "PT5M",
+  "recipeCategory": "Dessert",
+  "recipeCuisine": "American",
+  "recipeIngredient": [
+    "4 cups cold dairy free milk of choice",
+    "1/2 - 3/4 cup homemade chocolate syrup"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Pour 1 cup milk into 4 glasses."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add 2-3 tablespoons chocolate syrup to each glass and stir to combine."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Serve!"
+    }
+  ],
+  "recipeYield": "4",
+  "sameAs": [
+    "https://veggiesdontbite.com/the-best-vegan-homemade-chocolate-milk"
+  ],
+  "suitableForDiet": [
+    "https://schema.org/GlutenFreeDiet",
+    "https://schema.org/VeganDiet",
+    "https://schema.org/VegetarianDiet"
+  ],
+  "totalTime": "PT10M",
+  "updatedAt": "2022-12-02T18:19:05.608Z"
+}

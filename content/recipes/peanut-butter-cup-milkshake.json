@@ -1,0 +1,63 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "2",
+    "ratingValue": "5"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Sophia DeSantis"
+  },
+  "createdAt": "2022-12-03T00:12:01.537Z",
+  "datePublished": "2013-11-18T01:17:45+00:00",
+  "description": "Peanut butter meets chocolate to create this amazingly delicious thick and creamy vegan peanut butter cup milkshake. You'll never guess that it's actually healthy!",
+  "image": [
+    "https://www.veggiesdontbite.com/wp-content/uploads/2013/11/vegan-peanut-butter-cup-milkshake-1.jpg",
+    "https://www.veggiesdontbite.com/wp-content/uploads/2013/11/vegan-peanut-butter-cup-milkshake-1-500x500.jpg",
+    "https://www.veggiesdontbite.com/wp-content/uploads/2013/11/vegan-peanut-butter-cup-milkshake-1-500x375.jpg",
+    "https://www.veggiesdontbite.com/wp-content/uploads/2013/11/vegan-peanut-butter-cup-milkshake-1-480x270.jpg"
+  ],
+  "keywords": "chocolate milkshake, peanut butter milkshake",
+  "name": "Peanut Butter Cup Milkshake",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "690 kcal",
+    "carbohydrateContent": "88 g",
+    "fatContent": "37 g",
+    "fiberContent": "16 g",
+    "proteinContent": "22 g",
+    "saturatedFatContent": "8 g",
+    "servingSize": "1 serving",
+    "sodiumContent": "425 mg",
+    "sugarContent": "43 g"
+  },
+  "prepTime": "PT5M",
+  "recipeCategory": "Drinks",
+  "recipeCuisine": "American",
+  "recipeIngredient": [
+    "2 over ripe frozen bananas",
+    "4 tablespoons unsweetened cacao powder",
+    "4 tablespoons peanut butter",
+    "3/4 cup almond or cashew milk (or use 3/4 cup full fat coconut milk for optimal creaminess)",
+    "5-6 ice cubes (optional for an icier shake)",
+    "1 tablespoon maple syrup or 4 dates (optional for extra sweetness)"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Place all ingredients into a food processor, blender or high speed blender and mix until well blended. Add more milk if too thick and blend again."
+    }
+  ],
+  "recipeYield": "1",
+  "sameAs": [
+    "https://veggiesdontbite.com/peanut-butter-cup-milkshake"
+  ],
+  "suitableForDiet": [
+    "https://schema.org/GlutenFreeDiet",
+    "https://schema.org/VeganDiet",
+    "https://schema.org/VegetarianDiet"
+  ],
+  "totalTime": "PT5M",
+  "updatedAt": "2022-12-03T00:12:01.537Z"
+}

@@ -1,0 +1,174 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "21",
+    "ratingValue": "5"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Yup, it's Vegan"
+  },
+  "cookTime": "PT30M",
+  "createdAt": "2022-12-03T03:13:27.822Z",
+  "datePublished": "2016-12-27T07:00:43+00:00",
+  "description": "Warming golden lentil barley soup, gently spiced and easy to make!",
+  "image": [
+    "https://yupitsvegan.com/wp-content/uploads/2016/12/golden-lentil-barley-soup-vegan-5.jpg"
+  ],
+  "keywords": "lentil barley soup",
+  "mentions": [
+    {
+      "@id": "https://yupitsvegan.com/tag/grains/#id",
+      "@type": "http://schema.org/Thing",
+      "description": "Grains are small, hard, dry seeds, with or without attached hulls or fruit layers, harvested for human or animal consumption. Agronomists also call the plants producing such seeds \"grain crops\". The two main types of commercial grain crops are cereals such as wheat and rye, and legumes such as beans and soybeans. Ubiquity of grain...",
+      "name": "grain",
+      "sameAs": [
+        "https://en.wikipedia.org/wiki/Grain",
+        "http://purl.obolibrary.org/obo/FOODON_03311095",
+        "http://rdf.freebase.com/ns/m.0ch47tv",
+        "http://wikidata.dbpedia.org/resource/Q2995529",
+        "http://www.wikidata.org/entity/Q2995529",
+        "http://dbpedia.org/resource/Grain",
+        "https://knowledge.cafemedia.com/food/entity/grain"
+      ]
+    },
+    {
+      "@id": "https://yupitsvegan.com/tag/legumes/#id",
+      "@type": "http://schema.org/Thing",
+      "description": "A legume (/ˈlɛɡjuːm/ or /ˌləˈɡjuːm/) is a plant or fruit/seed in the family Fabaceae (or Leguminosae). Legumes are grown agriculturally, primarily for their grain seed called pulse, for livestock forage and silage, and as soil-enhancing green manure. Well-known legumes include alfalfa, clover, peas, beans, lentils, lupin bean, mesquite, carob, soybeans, peanuts, and tamarind. Legumes are...",
+      "name": "legume",
+      "sameAs": [
+        "http://el.dbpedia.org/resource/Όσπρια",
+        "http://cs.dbpedia.org/resource/Luštěnina",
+        "https://en.wikipedia.org/wiki/Legume",
+        "http://rdf.freebase.com/ns/m.01sfdb",
+        "http://wikidata.dbpedia.org/resource/Q145909",
+        "http://pt.dbpedia.org/resource/Legume",
+        "http://www.wikidata.org/entity/Q145909",
+        "http://ja.dbpedia.org/resource/豆果",
+        "http://fr.dbpedia.org/resource/Gousse",
+        "http://eu.dbpedia.org/resource/Lekale",
+        "http://dbpedia.org/resource/Legume",
+        "http://es.dbpedia.org/resource/Legumbre",
+        "http://yago-knowledge.org/resource/Pulse_(legume)",
+        "http://pl.dbpedia.org/resource/Rośliny_strączkowe",
+        "http://purl.obolibrary.org/obo/FOODON_00001264",
+        "http://nl.dbpedia.org/resource/Peul_(vrucht)",
+        "http://de.dbpedia.org/resource/Hülsenfrucht",
+        "http://it.dbpedia.org/resource/Baccello",
+        "http://d-nb.info/gnd/4020803-5",
+        "http://rdf.freebase.com/ns/m.0bqsk",
+        "https://knowledge.cafemedia.com/food/entity/legume"
+      ]
+    },
+    {
+      "@id": "https://yupitsvegan.com/category/soup/#id",
+      "@type": "http://schema.org/Thing",
+      "description": "From creamy chowders, to spicy tortilla soup, to Asian-inspired noodle soup, every plant-based and vegan soup you could ever want in one place!",
+      "name": "soup",
+      "sameAs": [
+        "http://ko.dbpedia.org/resource/수프",
+        "http://d-nb.info/gnd/4058643-1",
+        "http://eu.dbpedia.org/resource/Zopa",
+        "http://pl.dbpedia.org/resource/Zupa",
+        "http://www.wikidata.org/entity/Q41415",
+        "http://de.dbpedia.org/resource/Suppe",
+        "http://purl.obolibrary.org/obo/FOODON_03304925",
+        "http://id.dbpedia.org/resource/Sup",
+        "http://dbpedia.org/resource/Soup",
+        "http://es.dbpedia.org/resource/Sopa",
+        "http://ja.dbpedia.org/resource/スープ",
+        "http://yago-knowledge.org/resource/Cold_Soup",
+        "http://wikidata.dbpedia.org/resource/Q41415",
+        "https://en.wikipedia.org/wiki/Soup",
+        "http://it.dbpedia.org/resource/Minestra",
+        "http://el.dbpedia.org/resource/Σούπα",
+        "http://cs.dbpedia.org/resource/Polévka",
+        "http://rdf.freebase.com/ns/m.01z1m1x",
+        "http://fr.dbpedia.org/resource/Soupe",
+        "http://nl.dbpedia.org/resource/Soep_(voedsel)",
+        "http://pt.dbpedia.org/resource/Sopa",
+        "https://knowledge.cafemedia.com/food/entity/soup"
+      ]
+    }
+  ],
+  "name": "Golden Lentil Barley Soup",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "315 kcal",
+    "carbohydrateContent": "59 g",
+    "fatContent": "2 g",
+    "fiberContent": "15 g",
+    "proteinContent": "16 g",
+    "servingSize": "1 fourth recipe",
+    "sodiumContent": "232 mg",
+    "sugarContent": "5 g",
+    "unsaturatedFatContent": "1 g"
+  },
+  "prepTime": "PT10M",
+  "recipeCategory": "Soup",
+  "recipeCuisine": "nut-free",
+  "recipeIngredient": [
+    "1/2 tbsp extra-virgin olive oil or refined coconut oil",
+    "1 medium yellow or white onion (finely chopped)",
+    "4 cloves garlic (minced)",
+    "1 inch ginger root (minced or grated)",
+    "1 inch fresh turmeric root (minced or grated (or use 1/2 teaspoon ground turmeric)",
+    "2 carrots (peeled and diced or thinly sliced)",
+    "1/4 tsp ground cumin (heaping)",
+    "1/4 tsp ground coriander (heaping)",
+    "4 and 1/2 cups low-sodium vegetable broth",
+    "3/4 cups dry red lentils (rinsed)",
+    "1/2 cup dry pearl barley (rinsed several times in hot water)",
+    "2 tbsp tomato paste",
+    "1/2 tsp salt (scant (plus more to taste)",
+    "ground black pepper (to taste (I used just a pinch)",
+    "3 cups loosely-packed fresh baby spinach leaves (or more, if you like - up to 6 ounces)",
+    "(optional) fresh lemon juice, for serving"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Warm the oil in a large pot. Add the onion and a pinch of salt, and saute until translucent, stirring occasionally; 3-5 minutes."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add the garlic, ginger, and fresh turmeric (if using), stir, and cook for another about 60 seconds or until softened and fragrant."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Stir in the carrot, ground turmeric (if using), ground cumin, and ground coriander. Cook for 2-3 minutes more, stirring occasionally, until the spices are fragrant and the carrot softened slightly."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add the vegetable broth, red lentils, and pearl barley to the pot. Bring to a boil, then reduce to a simmer. Cook uncovered for about 20 minutes, or until the lentils and barley are both cooked through."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Stir in the tomato paste, and season to taste with salt and pepper."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Stir in the spinach, turn off the heat and cover the pot with a lid. Remove after 2-3 minutes, or when the spinach is wilted to your preference."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Serve hot, with a light squeeze of fresh lemon juice if desired."
+    }
+  ],
+  "recipeYield": "4",
+  "sameAs": [
+    "https://yupitsvegan.com/2016/12/27/golden-lentil-barley-soup"
+  ],
+  "totalTime": "PT40M",
+  "updatedAt": "2022-12-03T03:13:27.821Z",
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/qw42rJbY.mp4",
+    "description": "Turmeric Lentil Barley Soup",
+    "name": "Golden Lentil Barley Soup",
+    "thumbnailUrl": "https://content.jwplatform.com/thumbs/qw42rJbY-720.jpg",
+    "uploadDate": "2020-05-14T23:33:13.000Z"
+  }
+}

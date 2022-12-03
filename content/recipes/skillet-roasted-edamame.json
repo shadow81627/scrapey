@@ -1,0 +1,122 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "2",
+    "ratingValue": "4.5"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Sam Turnbull • It Doesn't Taste Like Chicken"
+  },
+  "cookTime": "PT10M",
+  "createdAt": "2022-12-02T11:21:42.513Z",
+  "datePublished": "2015-08-04T19:40:33+00:00",
+  "description": "The roasting enhances the flavour of the beans, and the slightly charred shells add a lovely smokey essence. Full of protein, fiber, and low in calories.",
+  "image": [
+    "https://itdoesnttastelikechicken.com/wp-content/uploads/2015/08/skillet-roasted-edamame.jpg",
+    "https://itdoesnttastelikechicken.com/wp-content/uploads/2015/08/skillet-roasted-edamame-500x500.jpg",
+    "https://itdoesnttastelikechicken.com/wp-content/uploads/2015/08/skillet-roasted-edamame-500x375.jpg",
+    "https://itdoesnttastelikechicken.com/wp-content/uploads/2015/08/skillet-roasted-edamame-480x270.jpg"
+  ],
+  "mentions": [
+    {
+      "@id": "https://itdoesnttastelikechicken.com/tag/beans/#id",
+      "@type": "http://schema.org/Thing",
+      "description": "Bean is a common name for large seeds of several genera of the flowering plant family Fabaceae (also known as Leguminosae) which are used for human or animal food.",
+      "name": "bean",
+      "sameAs": [
+        "http://rdf.freebase.com/ns/m.01fp9",
+        "http://el.dbpedia.org/resource/Φασόλι",
+        "http://dbpedia.org/resource/Bean",
+        "http://ko.dbpedia.org/resource/콩",
+        "http://fr.dbpedia.org/resource/Haricot_(homonymie)",
+        "https://en.wikipedia.org/wiki/Bean",
+        "http://de.dbpedia.org/resource/Bohne",
+        "http://ja.dbpedia.org/resource/豆",
+        "http://purl.obolibrary.org/obo/FOODON_00002753",
+        "http://wikidata.dbpedia.org/resource/Q379813",
+        "http://www.wikidata.org/entity/Q379813",
+        "http://nl.dbpedia.org/resource/Boon",
+        "http://id.dbpedia.org/resource/Kacang-kacangan",
+        "https://knowledge.cafemedia.com/food/entity/bean"
+      ]
+    },
+    {
+      "@id": "https://itdoesnttastelikechicken.com/tag/char/#id",
+      "@type": "http://schema.org/Thing",
+      "description": "Char is the solid material that remains after light gases (e.g. coal gas) and tar have been driven out or released from a carbonaceous material during the initial stage of combustion, which is known as carbonization, charring, devolatilization or pyrolysis. Further stages of efficient combustion (with or without char deposits) are known as gasification reactions,...",
+      "name": "char",
+      "sameAs": [
+        "http://purl.obolibrary.org/obo/FOODON_03414051",
+        "https://en.wikipedia.org/wiki/Char",
+        "http://ja.dbpedia.org/resource/炭",
+        "http://www.wikidata.org/entity/Q11567121",
+        "http://wikidata.dbpedia.org/resource/Q11567121",
+        "http://dbpedia.org/resource/Char",
+        "http://rdf.freebase.com/ns/m.011b7yq9",
+        "https://knowledge.cafemedia.com/food/entity/char"
+      ]
+    },
+    {
+      "@id": "https://itdoesnttastelikechicken.com/tag/edamame/#id",
+      "@type": "http://schema.org/Thing",
+      "description": "Edamame (枝豆)/ˌɛdəˈmɑːmeɪ/, or edamame bean is a preparation of immature soybeans in the pod, found in the cuisine of China, Japan, Korea and Hawaii. The pods are boiled or steamed and served with salt. In Japan, it is usually blanched in 4% salt water and not served with salt. When the beans are outside the...",
+      "name": "edamame",
+      "sameAs": [
+        "http://es.dbpedia.org/resource/Edamame",
+        "http://rdf.freebase.com/ns/m.02wv6b8",
+        "http://purl.obolibrary.org/obo/FOODON_00002809",
+        "http://dbpedia.org/resource/Edamame",
+        "http://ja.dbpedia.org/resource/枝豆",
+        "https://en.wikipedia.org/wiki/Edamame",
+        "http://it.dbpedia.org/resource/Edamame",
+        "http://fr.dbpedia.org/resource/Edamame",
+        "http://wikidata.dbpedia.org/resource/Q1377879",
+        "http://yago-knowledge.org/resource/Edamame",
+        "http://de.dbpedia.org/resource/Edamame",
+        "http://pt.dbpedia.org/resource/Edamame",
+        "http://www.wikidata.org/entity/Q1377879",
+        "http://ko.dbpedia.org/resource/에다마메",
+        "https://knowledge.cafemedia.com/food/entity/edamame"
+      ]
+    }
+  ],
+  "name": "Skillet Roasted Edamame",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "138 kcal",
+    "servingSize": "1 serving"
+  },
+  "prepTime": "PT5M",
+  "recipeCategory": "Appetizer",
+  "recipeCuisine": "Japanese",
+  "recipeIngredient": [
+    "250 g frozen edamame (3 cups)",
+    "1/4 teaspoon salt"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Put the edamame in a bowl of warm water to thaw. I find it faster if you rinse the edamame several times with warm water to encourage it to thaw faster. When thawed (about 5 minutes), drain."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Heat a dry skillet (no oil), over high heat. Add the edmame and roast. Stir it every now and then, but not too often so the edamame has time to char in spots. It will take about 10 minutes for the edamame to be roasted all over."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Toss with salt. Let rest for 5 - 10 minutes before serving so you don't burn yourself."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "To eat, squish the beans out of the pods with your finger or your teeth."
+    }
+  ],
+  "recipeYield": "2",
+  "sameAs": [
+    "https://itdoesnttastelikechicken.com/2015/08/04/skillet-roasted-edamame"
+  ],
+  "totalTime": "PT15M",
+  "updatedAt": "2022-12-03T04:14:09.808Z"
+}

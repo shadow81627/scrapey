@@ -1,0 +1,78 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1",
+    "ratingValue": "5"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Oh My Veggies"
+  },
+  "cookTime": "PT45M",
+  "createdAt": "2022-12-02T19:01:24.363Z",
+  "datePublished": "2016-05-17T07:52:59+00:00",
+  "description": "This homemade ice cream is loaded with flavor from roasted bananas, cinnamon, vanilla, and coconut milk. It&#39;s so rich and indulgent, you&#39;d never guess it&#39;s 100% vegan too!",
+  "image": [
+    "https://ohmyveggies.com/wp-content/uploads/2016/05/roasted_banana_ice_cream_recipe-1.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2016/05/roasted_banana_ice_cream_recipe-1-500x400.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2016/05/roasted_banana_ice_cream_recipe-1-500x375.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2016/05/roasted_banana_ice_cream_recipe-1-480x270.jpg"
+  ],
+  "keywords": "how to make banana nice cream, roasted banana ice cream, roasted banana nice cream",
+  "name": "Roasted Banana Ice Cream",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "214 kcal",
+    "carbohydrateContent": "26 g",
+    "fatContent": "12 g",
+    "fiberContent": "5 g",
+    "proteinContent": "4 g",
+    "saturatedFatContent": "7 g",
+    "servingSize": "1 serving",
+    "sodiumContent": "301 mg",
+    "sugarContent": "12 g",
+    "unsaturatedFatContent": "3 g"
+  },
+  "prepTime": "PT15M",
+  "recipeCategory": "Dessert",
+  "recipeCuisine": "American",
+  "recipeIngredient": [
+    "5 bananas (very ripe)",
+    "2 teaspoons ground cinnamon",
+    "1/2 cup full-fat coconut milk (120 ml )",
+    "11/2 cups unsweetened almond milk (360 ml, or other nut milk)",
+    "1 teaspoon vanilla extract",
+    "1/2 cup raw cacao nibs or crushed raw chocolate (120 ml )",
+    "Maple syrup (for serving)"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Preheat the oven to 350°F (175°C). Line a baking sheet with parchment paper and set aside."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Slice the bananas into 1-inch (2 to 3-cm) pieces and spread them on the prepared baking sheet."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Sprinkle the bananas with the cinnamon. Bake for 30 minutes, turning once halfway through, until the bananas are brown and soft. Remove from the oven and let cool completely, 30 to 45 minutes."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Combine the bananas, coconut milk, almond milk, and vanilla in a blender and blend until smooth. Taste and add more cinnamon or a splash of sweetener, if desired. Add the cacao nibs and stir with a spoon."
+    }
+  ],
+  "recipeYield": "6",
+  "sameAs": [
+    "https://ohmyveggies.com/roasted-banana-ice-cream-from-nice-cream"
+  ],
+  "suitableForDiet": [
+    "https://schema.org/GlutenFreeDiet",
+    "https://schema.org/VeganDiet",
+    "https://schema.org/VegetarianDiet"
+  ],
+  "totalTime": "PT60M",
+  "updatedAt": "2022-12-03T02:53:11.844Z"
+}

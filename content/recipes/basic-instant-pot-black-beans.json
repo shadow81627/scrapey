@@ -1,0 +1,107 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "7",
+    "ratingValue": "4.86"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Yup, it's Vegan"
+  },
+  "cookTime": "PT50M",
+  "createdAt": "2022-12-02T11:14:19.078Z",
+  "datePublished": "2019-01-08T16:37:25+00:00",
+  "description": "Savory black beans made in the Instant Pot, for all of your bean-y needs. Omit the aromatics for neutral flavored beans or use this gently seasoned ,all-purpose flavor base!",
+  "image": [
+    "https://yupitsvegan.com/wp-content/uploads/2019/01/instant-pot-black-beans-vegan-square-2.jpg",
+    "https://yupitsvegan.com/wp-content/uploads/2019/01/instant-pot-black-beans-vegan-square-2-500x500.jpg",
+    "https://yupitsvegan.com/wp-content/uploads/2019/01/instant-pot-black-beans-vegan-square-2-500x375.jpg",
+    "https://yupitsvegan.com/wp-content/uploads/2019/01/instant-pot-black-beans-vegan-square-2-480x270.jpg"
+  ],
+  "keywords": "instant pot black beans",
+  "mentions": [
+    {
+      "@id": "https://yupitsvegan.com/tag/legumes/#id",
+      "@type": "http://schema.org/Thing",
+      "description": "A legume (/ˈlɛɡjuːm/ or /ˌləˈɡjuːm/) is a plant or fruit/seed in the family Fabaceae (or Leguminosae). Legumes are grown agriculturally, primarily for their grain seed called pulse, for livestock forage and silage, and as soil-enhancing green manure. Well-known legumes include alfalfa, clover, peas, beans, lentils, lupin bean, mesquite, carob, soybeans, peanuts, and tamarind. Legumes are...",
+      "name": "legume",
+      "sameAs": [
+        "http://el.dbpedia.org/resource/Όσπρια",
+        "http://cs.dbpedia.org/resource/Luštěnina",
+        "https://en.wikipedia.org/wiki/Legume",
+        "http://rdf.freebase.com/ns/m.01sfdb",
+        "http://wikidata.dbpedia.org/resource/Q145909",
+        "http://pt.dbpedia.org/resource/Legume",
+        "http://www.wikidata.org/entity/Q145909",
+        "http://ja.dbpedia.org/resource/豆果",
+        "http://fr.dbpedia.org/resource/Gousse",
+        "http://eu.dbpedia.org/resource/Lekale",
+        "http://dbpedia.org/resource/Legume",
+        "http://es.dbpedia.org/resource/Legumbre",
+        "http://yago-knowledge.org/resource/Pulse_(legume)",
+        "http://pl.dbpedia.org/resource/Rośliny_strączkowe",
+        "http://purl.obolibrary.org/obo/FOODON_00001264",
+        "http://nl.dbpedia.org/resource/Peul_(vrucht)",
+        "http://de.dbpedia.org/resource/Hülsenfrucht",
+        "http://it.dbpedia.org/resource/Baccello",
+        "http://d-nb.info/gnd/4020803-5",
+        "http://rdf.freebase.com/ns/m.0bqsk",
+        "https://knowledge.cafemedia.com/food/entity/legume"
+      ]
+    }
+  ],
+  "name": "Basic Instant Pot Black Beans",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "159 kcal",
+    "carbohydrateContent": "37 g",
+    "fatContent": "3 g",
+    "fiberContent": "20 g",
+    "proteinContent": "13 g",
+    "servingSize": "1 eighth recipe",
+    "sugarContent": "3 g",
+    "unsaturatedFatContent": "2 g"
+  },
+  "prepTime": "PT10M",
+  "recipeCategory": "basics",
+  "recipeCuisine": "gluten-free",
+  "recipeIngredient": [
+    "1 lb dried black beans",
+    "1 tbsp vegetable oil (use whatever oil you like)",
+    "1 white or yellow onion (finely chopped)",
+    "1 bell pepper (finely chopped (use any color)",
+    "4 cloves garlic (minced)",
+    "1 tbsp taco seasoning (or use another all-purpose seasoning like chili powder)",
+    "3 and 1/2 cups low-sodium vegetable broth",
+    "1/4 tsp salt (plus more to taste)"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Rinse the dried beans and pick out any shriveled beans or rocks that you find."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Set the Instant Pot to its \"Saute\" function. Once warm, add enough oil to cover the bottom of the pan. I like to put one piece of onion in the oil to test the oil temperature, and once I see it sizzling I add the rest. Add the chopped onion and bell pepper with a pinch of salt, and stir. Continue to cook, stirring occasionally, until the onion and bell pepper are softened and the onion is turning translucent, about 5 minutes."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add the garlic and taco seasoning (or whatever seasoning you're using), and stir to combine. Cook for about 60 seconds or until fragrant and toasted. Stir in the rinsed black beans, vegetable broth, and 1/4 tsp salt. Turn off the \"Saute\" function and put the lid back on your Instant Pot, flipping the switch to point to \"Sealing\"."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Cook on \"Manual\" mode under \"High\" pressure for 35 minutes. IMPORTANT: do not flip the switch to vent after the time is up. Allow natural release, which takes another 15-20 minutes. The beans will continue cooking through during this time. You'll know the natural release has completed when you are able to open the lid without forcing it open or flipping the switch."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Taste your Instant Pot black beans for salt, and add more to taste (about another 1/4 to 1/2 tsp, depending on the saltiness of your broth). Serve hot. Store leftovers by transferring them into containers once cooled down to room temperature; refrigerate for up to a week or freeze for up to a month or more. Yields approximately 6 cups of cooked beans."
+    }
+  ],
+  "recipeYield": "8",
+  "sameAs": [
+    "https://yupitsvegan.com/instant-pot-black-beans"
+  ],
+  "totalTime": "PT60M",
+  "updatedAt": "2022-12-02T11:14:19.076Z"
+}

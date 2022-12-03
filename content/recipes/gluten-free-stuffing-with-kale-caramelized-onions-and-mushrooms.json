@@ -1,0 +1,92 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "2",
+    "ratingValue": "5"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Oh My Veggies"
+  },
+  "cookTime": "PT120M",
+  "createdAt": "2022-12-03T10:40:57.157Z",
+  "datePublished": "2017-05-29T11:14:50+00:00",
+  "description": "A delicious gluten-free stuffing made with Udi's Whole Grain bread, kale, caramelized onions, and mushrooms.",
+  "image": [
+    "https://ohmyveggies.com/wp-content/uploads/2011/11/gluten_free_stuffing_with_kale_caramelized_onions_and_mushrooms_recipe.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2011/11/gluten_free_stuffing_with_kale_caramelized_onions_and_mushrooms_recipe-500x472.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2011/11/gluten_free_stuffing_with_kale_caramelized_onions_and_mushrooms_recipe-500x375.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2011/11/gluten_free_stuffing_with_kale_caramelized_onions_and_mushrooms_recipe-480x270.jpg"
+  ],
+  "keywords": "Gluten-Free Stuffing, stuffing recipe",
+  "name": "Gluten-Free Stuffing with Kale, Caramelized Onions, and Mushrooms",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "75 kcal",
+    "carbohydrateContent": "6 g",
+    "cholesterolContent": "21 mg",
+    "fatContent": "5 g",
+    "fiberContent": "1 g",
+    "proteinContent": "2 g",
+    "saturatedFatContent": "1 g",
+    "servingSize": "1 serving",
+    "sodiumContent": "205 mg",
+    "sugarContent": "2 g",
+    "transFatContent": "1 g",
+    "unsaturatedFatContent": "4 g"
+  },
+  "prepTime": "PT15M",
+  "recipeCategory": "Side Dish",
+  "recipeCuisine": "American",
+  "recipeIngredient": [
+    "2 tbsp. olive oil (divided)",
+    "1 large yellow onion (thinly sliced)",
+    "8 oz. button mushrooms (sliced)",
+    "1 small bunch of kale (torn into small pieces)",
+    "1/2 tbsp. dried sage",
+    "1/2 tbsp. dried thyme",
+    "1 1/2 c. vegetable broth",
+    "1 loaf of (stale Udi's Whole Grain Gluten-Free Bread, cubed)",
+    "1 egg (beaten)",
+    "salt and pepper to taste",
+    "cooking spray or oil mister"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Preheat oven to 375 degrees."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "In a large skillet, heat 1 tablespoon of oil over low heat. Add sliced onions and cook until caramelized, stirring occasionally, about 40-60 minutes. Transfer to large bowl; set aside."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Heat remaining oil in skillet over medium-high heat. Add mushrooms and cook approximately 5 minutes, until mushrooms are softened and browned. Stir in kale and cook for 2 minutes."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add sage, thyme, and broth to skillet. Bring to a simmer and cook for 5 minutes. Remove from heat."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add bread and egg to caramelized onions; toss to combine. Stir in vegetable mixture and salt and pepper."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Pour stuffing into a large casserole dish coated with cooking spray or oil and cover. Bake for 30 minutes. Remove cover and spray top of stuffing with additional cooking spray. Bake for another 15-20 minutes or until golden brown."
+    }
+  ],
+  "recipeYield": "8",
+  "sameAs": [
+    "https://ohmyveggies.com/gluten-free-stuffing"
+  ],
+  "suitableForDiet": [
+    "https://schema.org/GlutenFreeDiet",
+    "https://schema.org/VeganDiet",
+    "https://schema.org/VegetarianDiet"
+  ],
+  "totalTime": "PT135M",
+  "updatedAt": "2022-12-03T10:40:57.155Z"
+}

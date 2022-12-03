@@ -1,0 +1,42 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Unit Price",
+      "value": "$3.80 per 1Ea"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2022-12-02T10:29:55.096Z",
+  "description": "Coles Topless Pineapple",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/6/0/5606330.jpg",
+  "name": "Topless Pineapple",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3.8,
+    "lowPrice": 3.8,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-02T10:29:55.096Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "3.80",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/pineapple-topless"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/pineapple-topless"
+  ],
+  "sku": "5606330",
+  "updatedAt": "2022-12-02T10:29:55.096Z"
+}

@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "10 pack"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.30 per 1Ea"
+    }
+  ],
+  "brand": "Deluxe",
+  "createdAt": "2022-12-03T05:53:47.270Z",
+  "description": "Deluxe Christmas Cards",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/3/6/5363147.jpg",
+  "name": "Christmas Cards",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3,
+    "lowPrice": 3,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-03T05:53:47.269Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "3.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/deluxe-christmas-cards-5363147p-1"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/deluxe-christmas-cards-5363147p-1"
+  ],
+  "sku": "5363147",
+  "updatedAt": "2022-12-03T05:53:47.270Z"
+}

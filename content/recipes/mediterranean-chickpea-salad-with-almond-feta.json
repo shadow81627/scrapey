@@ -1,0 +1,135 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1",
+    "ratingValue": "5"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Yup, it's Vegan"
+  },
+  "createdAt": "2022-12-03T05:53:24.329Z",
+  "datePublished": "2016-06-05T19:37:14+00:00",
+  "description": "Light, refreshing, and simple-to-make vegan Mediterranean chickpea salad. Packed with flavor from olives, sundried tomatoes, almond \"feta\", and a bright lemon dressing. Gluten-free recipe.",
+  "image": [
+    "https://yupitsvegan.com/wp-content/uploads/2016/06/mediterranean-chickpea-salad-vegan-glutenfree-1.jpg"
+  ],
+  "keywords": "mediterranean chickpea salad",
+  "mentions": [
+    {
+      "@id": "https://yupitsvegan.com/tag/legumes/#id",
+      "@type": "http://schema.org/Thing",
+      "description": "A legume (/ˈlɛɡjuːm/ or /ˌləˈɡjuːm/) is a plant or fruit/seed in the family Fabaceae (or Leguminosae). Legumes are grown agriculturally, primarily for their grain seed called pulse, for livestock forage and silage, and as soil-enhancing green manure. Well-known legumes include alfalfa, clover, peas, beans, lentils, lupin bean, mesquite, carob, soybeans, peanuts, and tamarind. Legumes are...",
+      "name": "legume",
+      "sameAs": [
+        "http://el.dbpedia.org/resource/Όσπρια",
+        "http://cs.dbpedia.org/resource/Luštěnina",
+        "https://en.wikipedia.org/wiki/Legume",
+        "http://rdf.freebase.com/ns/m.01sfdb",
+        "http://wikidata.dbpedia.org/resource/Q145909",
+        "http://pt.dbpedia.org/resource/Legume",
+        "http://www.wikidata.org/entity/Q145909",
+        "http://ja.dbpedia.org/resource/豆果",
+        "http://fr.dbpedia.org/resource/Gousse",
+        "http://eu.dbpedia.org/resource/Lekale",
+        "http://dbpedia.org/resource/Legume",
+        "http://es.dbpedia.org/resource/Legumbre",
+        "http://yago-knowledge.org/resource/Pulse_(legume)",
+        "http://pl.dbpedia.org/resource/Rośliny_strączkowe",
+        "http://purl.obolibrary.org/obo/FOODON_00001264",
+        "http://nl.dbpedia.org/resource/Peul_(vrucht)",
+        "http://de.dbpedia.org/resource/Hülsenfrucht",
+        "http://it.dbpedia.org/resource/Baccello",
+        "http://d-nb.info/gnd/4020803-5",
+        "http://rdf.freebase.com/ns/m.0bqsk",
+        "https://knowledge.cafemedia.com/food/entity/legume"
+      ]
+    },
+    {
+      "@id": "https://yupitsvegan.com/category/salad/#id",
+      "@type": "http://schema.org/Thing",
+      "description": "A salad is a dish consisting of small pieces of food, which may be mixed with a sauce or salad dressing. They are typically served cold. Salads can incorporate a variety of foods including vegetables, fruits, cheese, cooked meat, eggs, grains and nuts. Most salads are served cold, although some, such as south German potato...",
+      "name": "salad dressing",
+      "sameAs": [
+        "http://eu.dbpedia.org/resource/Entsalada",
+        "http://www.wikidata.org/entity/Q9266",
+        "http://ja.dbpedia.org/resource/サラダ",
+        "https://en.wikipedia.org/wiki/Salad",
+        "http://de.dbpedia.org/resource/Salat_(Gericht)",
+        "http://el.dbpedia.org/resource/Σαλάτα",
+        "http://es.dbpedia.org/resource/Ensalada",
+        "http://nl.dbpedia.org/resource/Salade",
+        "http://pt.dbpedia.org/resource/Salada",
+        "http://cs.dbpedia.org/resource/Salát_(pokrm)",
+        "http://ko.dbpedia.org/resource/샐러드",
+        "http://rdf.freebase.com/ns/m.0grw1",
+        "http://d-nb.info/gnd/4051351-8",
+        "http://pl.dbpedia.org/resource/Sałatka",
+        "http://fr.dbpedia.org/resource/Salade_(mets)",
+        "http://wikidata.dbpedia.org/resource/Q9266",
+        "http://yago-knowledge.org/resource/Garden_salad",
+        "http://id.dbpedia.org/resource/Selada_(hidangan)",
+        "http://purl.obolibrary.org/obo/FOODON_00001290",
+        "http://dbpedia.org/resource/Salad",
+        "http://it.dbpedia.org/resource/Insalata",
+        "https://knowledge.cafemedia.com/food/entity/salad_dressing"
+      ]
+    }
+  ],
+  "name": "Mediterranean Chickpea Salad with Almond Feta",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "170 kcal",
+    "carbohydrateContent": "23 g",
+    "fatContent": "6 g",
+    "fiberContent": "7 g",
+    "proteinContent": "7 g",
+    "servingSize": "1 fourth recipe",
+    "sodiumContent": "324 mg",
+    "sugarContent": "4 g",
+    "unsaturatedFatContent": "4 g"
+  },
+  "prepTime": "PT10M",
+  "recipeCategory": "lunch",
+  "recipeCuisine": "gluten-free",
+  "recipeIngredient": [
+    "2 tbsp minced red onion (soaked in cold water for 5 minutes and then drained)",
+    "3 oz chopped olives",
+    "3 tbsp chopped sundried tomatoes (rehydrated if needed)",
+    "1/4 cup chopped fresh parsley (loosely packed)",
+    "1 and 1/2 cups cooked chickpeas (16 oz.)",
+    "8 oz chopped artichoke hearts",
+    "1 cup baked almond feta (1/2 of the recipe)",
+    "3 tbsp freshly-squeezed lemon juice",
+    "1 tsp olive oil",
+    "1/2 tbsp prepared mustard",
+    "2 tbsp drained liquid leftover from making the almond feta",
+    "1 pinch dried oregano",
+    "salt and pepper (to taste)"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Whisk together all of the ingredients for the dressing, and season to taste."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Optional: if you'd like to serve this Mediterranean chickpea salad as a sandwich filling, I recommend gently smashing and roughly chopping the chickpeas before proceeding to the next step."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "In a mixing bowl, toss together the dressing with all of the other ingredients except for the almond feta."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Roughly chop or crumble the almond feta and fold it in. Serve at room temperature or cold. Leftovers will keep in the fridge for up to a week."
+    }
+  ],
+  "recipeYield": "4",
+  "sameAs": [
+    "https://yupitsvegan.com/2016/06/05/mediterranean-chickpea-salad-almond-feta"
+  ],
+  "totalTime": "PT10M",
+  "updatedAt": "2022-12-03T05:53:24.328Z"
+}

@@ -2,77 +2,88 @@
   "@type": "Recipe",
   "aggregateRating": {
     "@type": "AggregateRating",
-    "ratingCount": "3",
+    "ratingCount": "10",
     "ratingValue": "5"
   },
   "author": {
     "@type": "Person",
-    "name": "Alissa Saenz"
+    "name": "Melanie McDonald"
   },
   "cookTime": "PT45M",
   "createdAt": "2022-11-29T01:58:12.000Z",
-  "datePublished": "2022-07-24T10:46:35+00:00",
-  "description": "Roasted strawberries are the summer treat you didn&#39;t know you needed in your life! Sweet, gooey, and flavor-packed, these soft and syrupy berries are perfect on ice cream, pancakes or layered in strawberry shortcake.",
-  "image": {
-    "@type": "ImageObject",
-    "height": 1200,
-    "mime": "image/jpeg",
-    "url": "https://www.connoisseurusveg.com/wp-content/uploads/2022/07/roasted-strawberries-sq.jpg",
-    "width": 1200
-  },
-  "keywords": "strawberries, topping",
+  "datePublished": "2022-05-03T06:00:00+00:00",
+  "description": "Intensely sweet, sticky &amp; syrupy Roasted Strawberries made with just 3 ingredients. Perfect for using up berries that are tasteless or a little past their best. Use as a topping for pancakes, ice cream, cake, cheesecake, oatmeal and more!",
+  "image": [
+    "https://avirtualvegan.com/wp-content/uploads/2022/05/roasted-strawberries-copy.jpeg",
+    "https://avirtualvegan.com/wp-content/uploads/2022/05/roasted-strawberries-copy-500x500.jpeg",
+    "https://avirtualvegan.com/wp-content/uploads/2022/05/roasted-strawberries-copy-500x375.jpeg",
+    "https://avirtualvegan.com/wp-content/uploads/2022/05/roasted-strawberries-copy-480x270.jpeg"
+  ],
+  "keywords": "roasted strawberries",
   "name": "Roasted Strawberries",
   "nutrition": {
     "@type": "NutritionInformation",
-    "calories": "44 kcal",
-    "carbohydrateContent": "10.4 g",
-    "fatContent": "0.2 g",
-    "fiberContent": "1.5 g",
-    "proteinContent": "0.5 g",
-    "servingSize": "0.25 cups",
-    "sodiumContent": "40 mg",
-    "sugarContent": "7.8 g"
+    "calories": "319 kcal",
+    "carbohydrateContent": "76 g",
+    "fatContent": "1 g",
+    "fiberContent": "9 g",
+    "proteinContent": "3 g",
+    "saturatedFatContent": "1 g",
+    "servingSize": "1 cup (240 mls)",
+    "sodiumContent": "10 mg",
+    "sugarContent": "59 g",
+    "unsaturatedFatContent": "2 g"
   },
   "prepTime": "PT10M",
-  "recipeCategory": "Dessert",
-  "recipeCuisine": "American",
+  "recipeCategory": "Breakfast",
+  "recipeCuisine": "vegan",
   "recipeIngredient": [
-    "1 pound fresh strawberries (Note 1), (hulled and cleaned)",
-    "2 tablespoons maple syrup",
-    "1 teaspoon vanilla extract",
-    "1 teaspoon balsamic vinegar or lemon juice",
-    "Pinch salt"
+    "1lb (454 grams) fresh strawberries",
+    "1/4 cup (60 mls) maple syrup",
+    "1 teaspoon vanilla extract (, (or the seeds from 1 vanilla pod or 1/4 teaspoon vanilla bean powder)"
   ],
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "text": "Preheat the oven to 350°F."
+      "text": "Preheat oven to 375°F and line a baking tray with parchment paper or a silicone baking mat."
     },
     {
       "@type": "HowToStep",
-      "text": "Chop the strawberries in half if they're small, or quarters if they're large."
+      "text": "Wash the strawberries in a colander or sieve and shake them to remove any excess water."
     },
     {
       "@type": "HowToStep",
-      "text": "Place the strawberries into a medium baking dish and add the remaining ingredients. Stir until everything is well combined."
+      "text": "Hull the strawberries and cut them in half. If you have any extra big ones cut them into quarters."
     },
     {
       "@type": "HowToStep",
-      "text": "Roast the strawberries for about 45 minutes, stirring every 15 minutes or so. They're done when they're very soft and the liquid is bubbly."
+      "text": "In a bowl mix the maple syrup and vanilla then add the strawberries and toss to coat."
     },
     {
       "@type": "HowToStep",
-      "text": "Place the baking dish on a cooling rack and let the berries cool. The sauce will thicken as it cools."
+      "text": "Pour onto the prepared tray and bake for around 40 minutes. By then they should be jammy and caramelized. Any liquid will thicken as it cools."
     },
     {
       "@type": "HowToStep",
-      "text": "Serve or store for later."
+      "text": "Immediately scrape them from the tray and into a jar or other sealed container, making sure you scrape all the jammy saucy bits in too."
     }
   ],
-  "recipeYield": "6",
+  "recipeYield": "1",
   "sameAs": [
-    "https://connoisseurusveg.com/roasted-strawberries"
+    "https://avirtualvegan.com/vanilla-roasted-strawberries"
+  ],
+  "suitableForDiet": [
+    "https://schema.org/GlutenFreeDiet",
+    "https://schema.org/VeganDiet"
   ],
   "totalTime": "PT55M",
-  "updatedAt": "2022-11-29T01:40:08.131Z"
+  "updatedAt": "2022-12-02T12:06:21.479Z",
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/2wW19ZFG.mp4",
+    "description": "Intensely sweet, sticky & syrupy Roasted Strawberries made with just 3 ingredients. Perfect for using up berries that are tasteless or a little past their best. Use as a topping for pancakes, ice cream, cake, cheesecake, oatmeal and more!",
+    "name": "Roasted Strawberries",
+    "thumbnailUrl": "https://content.jwplatform.com/thumbs/2wW19ZFG-720.jpg",
+    "uploadDate": "2022-04-26T20:32:22.000Z"
+  }
 }

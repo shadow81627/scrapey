@@ -1,0 +1,74 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1",
+    "ratingValue": "5"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Oh My Veggies"
+  },
+  "cookTime": "PT15M",
+  "createdAt": "2022-12-03T07:50:37.153Z",
+  "datePublished": "2019-02-25T06:00:39+00:00",
+  "description": "An easy, delicious pasta dinner that's ready in about 25 minutes. If you can't find broccolini at your grocery store, use a crown of broccoli instead.",
+  "image": [
+    "https://ohmyveggies.com/wp-content/uploads/2013/02/whole_wheat_rotini_with_broccolini_and_sun_dried_tomatoes_recipe.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2013/02/whole_wheat_rotini_with_broccolini_and_sun_dried_tomatoes_recipe-500x400.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2013/02/whole_wheat_rotini_with_broccolini_and_sun_dried_tomatoes_recipe-500x375.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2013/02/whole_wheat_rotini_with_broccolini_and_sun_dried_tomatoes_recipe-480x270.jpg"
+  ],
+  "keywords": "Rotini with Broccolini and Sun-Dried Tomatoes, vegetarian pasta",
+  "name": "Rotini with Broccolini and Sun-Dried Tomatoes",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "246 kcal",
+    "carbohydrateContent": "27 g",
+    "fatContent": "14 g",
+    "fiberContent": "3 g",
+    "proteinContent": "6 g",
+    "saturatedFatContent": "2 g",
+    "servingSize": "1 serving",
+    "sodiumContent": "35 mg",
+    "sugarContent": "6 g",
+    "unsaturatedFatContent": "11 g"
+  },
+  "prepTime": "PT10M",
+  "recipeCategory": "Main Course",
+  "recipeCuisine": "American",
+  "recipeIngredient": [
+    "8 oz whole wheat rotini",
+    "1 bunch broccolini (ends trimmed)",
+    "2 tbsp olive oil",
+    "2 cloves garlic (sliced)",
+    "1/4 cup pine nuts",
+    "pinch crushed red pepper flakes (optional)",
+    "1/2 cup sliced sun-dried tomatoes",
+    "salt + pepper (to taste)",
+    "Parmesan cheese (shaved or shredded (as much or as little as you like)"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Cook rotini according to instructions on package. One minute before cook time is finished, drop broccolini into pot. Drain and set aside."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Heat olive oil in a large skillet over medium heat. Add garlic and cook for about 2 minutes, until fragrant. Stir in pine nuts and red pepper flakes (if using) and cook about 2 minutes more. Stir in sun-dried tomatoes, pasta and broccolini, and season with salt and pepper."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Remove from heat. Divide into bowls and garnish with shaved Parmesan cheese."
+    }
+  ],
+  "recipeYield": "4",
+  "sameAs": [
+    "https://ohmyveggies.com/rotini-with-broccolini-and-sun-dried-tomatoes"
+  ],
+  "suitableForDiet": [
+    "https://schema.org/VegetarianDiet"
+  ],
+  "totalTime": "PT25M",
+  "updatedAt": "2022-12-03T07:50:37.152Z"
+}

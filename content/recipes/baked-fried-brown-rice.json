@@ -1,0 +1,75 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "2",
+    "ratingValue": "5"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Oh My Veggies"
+  },
+  "cookTime": "PT60M",
+  "createdAt": "2022-12-03T06:40:25.820Z",
+  "datePublished": "2018-11-09T06:00:02+00:00",
+  "description": "Baked fried brown rice made with sriracha, pineapple, cashews, and edamame.",
+  "image": [
+    "https://ohmyveggies.com/wp-content/uploads/2012/11/baked_fried_brown_rice_recipe.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2012/11/baked_fried_brown_rice_recipe-500x400.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2012/11/baked_fried_brown_rice_recipe-500x375.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2012/11/baked_fried_brown_rice_recipe-480x270.jpg"
+  ],
+  "keywords": "Baked Fried Brown Rice, brown rice recipe",
+  "name": "Baked Fried Brown Rice",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "1199 kcal",
+    "carbohydrateContent": "205 g",
+    "fatContent": "30 g",
+    "fiberContent": "13 g",
+    "proteinContent": "31 g",
+    "saturatedFatContent": "10 g",
+    "servingSize": "1 serving",
+    "sodiumContent": "735 mg",
+    "sugarContent": "12 g",
+    "transFatContent": "1 g",
+    "unsaturatedFatContent": "17 g"
+  },
+  "prepTime": "PT5M",
+  "recipeCategory": "Main Course",
+  "recipeCuisine": "American",
+  "recipeIngredient": [
+    "4 c. cold leftover brown rice",
+    "1 bunch green onions (sliced into 1/2-inch pieces)",
+    "1 c. pineapple chunks (I used fresh, but I'm sure canned would be fine)",
+    "1 c. frozen edamame (thawed)",
+    "1/2 c. raw cashew pieces",
+    "2 tbsp. coconut oil (melted (peanut, vegetable, or canola oil would work too)",
+    "3 tbsp. soy sauce",
+    "1 tbsp. sriracha (more for spicier fried rice, less if you like it milder)",
+    "Oil mister or cooking spray"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Preheat oven to 325 degrees."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Combine rice, green onions, pineapple, edamame, and cashews in a large bowl. In a small bowl, whisk together oil, soy sauce, and sriracha. Pour oil mixture over rice mixture and stir until well-combined."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Spray a rimmed baking sheet with oil or cooking spray. Pour rice onto sheet in an even layer. Bake for 45-60 minutes, stirring about every 20 minutes, or until rice is dry and just beginning to get crispy. Serve with additional soy sauce and sriracha, if desired."
+    }
+  ],
+  "recipeYield": "4",
+  "sameAs": [
+    "https://ohmyveggies.com/baked-fried-brown-rice"
+  ],
+  "suitableForDiet": [
+    "https://schema.org/VegetarianDiet"
+  ],
+  "totalTime": "PT65M",
+  "updatedAt": "2022-12-03T06:40:25.818Z"
+}

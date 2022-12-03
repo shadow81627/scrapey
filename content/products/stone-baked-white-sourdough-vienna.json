@@ -1,0 +1,54 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "INGREDIENTS: Wheat Flour, Water, Salt, Malt [Barley, Malted Barley], Wheat Bran, Soy Flour, Yeast, Vitamins [Folic Acid, Thiamin]."
+    },
+    {
+      "name": "Allergen",
+      "value": "Contains SOY, Contains Barley, Contains CEREALS CONTAINING GLUTEN, Contains Wheat"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "12.0"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$3.00 per 1Ea"
+    }
+  ],
+  "brand": "Coles Bakery",
+  "createdAt": "2022-12-02T22:36:04.169Z",
+  "description": "Coles Bakery Stone Baked White Sourdough Vienna",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/8/1/6/8162200.jpg",
+  "name": "Stone Baked White Sourdough Vienna",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3,
+    "lowPrice": 3,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-02T22:36:04.168Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "3.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-bakery-vienna-white-sourdough-baked-in-store"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/coles-bakery-vienna-white-sourdough-baked-in-store"
+  ],
+  "sku": "8162200",
+  "updatedAt": "2022-12-02T22:36:04.168Z"
+}

@@ -1,0 +1,86 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "5",
+    "reviewCount": "5"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "She Likes Food"
+  },
+  "cookTime": "PT20M",
+  "createdAt": "2022-12-03T05:49:32.945Z",
+  "datePublished": "2017-01-05",
+  "image": [
+    "https://www.shelikesfood.com/wp-content/uploads/2017/01/Fajita-Gnocchi-with-Avocado-Salsa-7987-225x225.jpg",
+    "https://www.shelikesfood.com/wp-content/uploads/2017/01/Fajita-Gnocchi-with-Avocado-Salsa-7987-260x195.jpg",
+    "https://www.shelikesfood.com/wp-content/uploads/2017/01/Fajita-Gnocchi-with-Avocado-Salsa-7987-320x180.jpg",
+    "https://www.shelikesfood.com/wp-content/uploads/2017/01/Fajita-Gnocchi-with-Avocado-Salsa-7987.jpg"
+  ],
+  "name": "Fajita Gnocchi Skillet with Avocado Salsa",
+  "prepTime": "PT10M",
+  "recipeCategory": "Entree",
+  "recipeIngredient": [
+    "1 large package gnocchi (I used 2 (12 oz) packages gluten free gnocchi)",
+    "1 large red pepper, thinly sliced",
+    "1 large green pepper, thinly sliced",
+    "1 yellow onion, thinly sliced",
+    "1 (15 ounce) can black beans, drained and rinsed",
+    "Olive oil",
+    "2 teaspoons ground cumin",
+    "2 teaspoons paprika",
+    "1 teaspoon granulated garlic",
+    "1 teaspoon salt",
+    "1/4 teaspoon black pepper",
+    "2 large avocados",
+    "1 medium tomato, diced",
+    "2 tablespoons chopped onion",
+    "2 tablespoons chopped cilantro",
+    "1 clove garlic, minced",
+    "Juice of 1 lime",
+    "Salt, to taste"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Heat a large skillet over medium heat and coat the bottom with olive oil. Add the gnocchi and cook until browned, about 5 minutes."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Remove the gnocchi from the pan, add about 2 teaspoons olive oil, peppers, onions and a pinch of salt. Cook the fajita mixture until peppers are tender, about 10 minutes."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add the gnocchi back into the pan along with the black beans, salt, pepper and all the spices. Stir until everything is combined and heated through."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Make the avocado salsa while the gnocchi is cooking. Dice the avocados and add them to a large bowl along with all of the other ingredients. Mix until combined and store in the refrigerator until needed."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Serve dish immediately and top with a big spoonful of avocado salsa."
+    }
+  ],
+  "recipeYield": "4",
+  "sameAs": [
+    "https://shelikesfood.com/fajita-gnocchi-skillet-with-avocado-salsa"
+  ],
+  "totalTime": "PT30M",
+  "updatedAt": "2022-12-03T05:49:32.943Z",
+  "url": "https://www.shelikesfood.com/fajita-gnocchi-skillet-with-avocado-salsa/",
+  "video": {
+    "@context": "http://schema.org",
+    "@type": "VideoObject",
+    "contentUrl": "https://www.youtube.com/watch?v=Id0pa0YsmKo",
+    "description": "Fajita Gnocchi Skillet with Avocado Salsa - A delicious vegetarian dinner that can be made in 30 minutes and only uses one pot!",
+    "duration": "PT1M",
+    "embedUrl": "https://www.youtube.com/embed/Id0pa0YsmKo?feature=oembed",
+    "name": "Fajita Gnocchi Skillet with Avocado Salsa",
+    "thumbnailUrl": [
+      "https://i.ytimg.com/vi/Id0pa0YsmKo/hqdefault.jpg"
+    ],
+    "uploadDate": "2017-01-05"
+  }
+}

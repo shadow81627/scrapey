@@ -1,0 +1,97 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "21",
+    "ratingValue": "4.96"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Sam Turnbull • It Doesn't Taste Like Chicken"
+  },
+  "cookTime": "PT10M",
+  "createdAt": "2022-12-02T13:01:58.704Z",
+  "datePublished": "2020-05-06T05:00:02+00:00",
+  "description": "Just 10 ingredients and 15 minutes to make, this is the vegan version of that Chinese-American pepper steak dish. It&#039;s not only incredibly delicious, but it&#039;s even easier to make than the traditional version. Perfect for meal prepping. Gluten-free, oil-free versions.",
+  "image": [
+    "https://itdoesnttastelikechicken.com/wp-content/uploads/2020/05/vegan-pepper-black-bean-stir-fry-vegan-steak-chinese.jpg",
+    "https://itdoesnttastelikechicken.com/wp-content/uploads/2020/05/vegan-pepper-black-bean-stir-fry-vegan-steak-chinese-500x500.jpg",
+    "https://itdoesnttastelikechicken.com/wp-content/uploads/2020/05/vegan-pepper-black-bean-stir-fry-vegan-steak-chinese-500x375.jpg",
+    "https://itdoesnttastelikechicken.com/wp-content/uploads/2020/05/vegan-pepper-black-bean-stir-fry-vegan-steak-chinese-480x270.jpg"
+  ],
+  "keywords": "black bean, chinese, easy, pepper, quick, steak, stir-fry, vegan",
+  "mentions": [
+    {
+      "@id": "https://itdoesnttastelikechicken.com/tag/beans/#id",
+      "@type": "http://schema.org/Thing",
+      "description": "Bean is a common name for large seeds of several genera of the flowering plant family Fabaceae (also known as Leguminosae) which are used for human or animal food.",
+      "name": "bean",
+      "sameAs": [
+        "http://rdf.freebase.com/ns/m.01fp9",
+        "http://el.dbpedia.org/resource/Φασόλι",
+        "http://dbpedia.org/resource/Bean",
+        "http://ko.dbpedia.org/resource/콩",
+        "http://fr.dbpedia.org/resource/Haricot_(homonymie)",
+        "https://en.wikipedia.org/wiki/Bean",
+        "http://de.dbpedia.org/resource/Bohne",
+        "http://ja.dbpedia.org/resource/豆",
+        "http://purl.obolibrary.org/obo/FOODON_00002753",
+        "http://wikidata.dbpedia.org/resource/Q379813",
+        "http://www.wikidata.org/entity/Q379813",
+        "http://nl.dbpedia.org/resource/Boon",
+        "http://id.dbpedia.org/resource/Kacang-kacangan",
+        "https://knowledge.cafemedia.com/food/entity/bean"
+      ]
+    }
+  ],
+  "name": "Vegan Pepper Black Bean Stir-Fry",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "201 kcal",
+    "carbohydrateContent": "32 g",
+    "fatContent": "4 g",
+    "fiberContent": "9 g",
+    "proteinContent": "10 g",
+    "saturatedFatContent": "1 g",
+    "servingSize": "1 (recipe makes 4 servings)",
+    "sodiumContent": "817 mg",
+    "sugarContent": "4 g"
+  },
+  "prepTime": "PT5M",
+  "recipeCategory": "Main Course",
+  "recipeCuisine": "American",
+  "recipeIngredient": [
+    "1/2 cup water",
+    "1/4 cup soy sauce (gluten-free if preferred)",
+    "2 tablespoons cornstarch",
+    "1 tablespoon rice vinegar",
+    "1 1/2 teaspoons brown or white sugar",
+    "1/4 teaspoon liquid smoke",
+    "1 tablespoon light oil (such as canola or vegetable)",
+    "2 bell peppers (any colour), (thinly sliced)",
+    "4 cloves garlic, (minced)",
+    "2 inches fresh ginger, (minced)",
+    "1 19oz can black beans, (drained and rinsed (2 cups)",
+    "green onions and sesame seeds, for garnish (optional)"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Make the sauce: Add all of the sauce ingredients to a medium bowl or large measuring cup and whisk well to combine. Set aside."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Make the pepper black beans: Heat the oil in a large skillet over medium-high heat, when hot add the peppers and cook for about 2 minutes. Add the garlic and ginger and cook another 5 minutes, stirring often until the peppers start to soften and begin to brown."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add the black beans and all of the sauce to the pan and stir, cooking another few minutes until the sauce thickens and coats the veggies, and the beans are heated through. If the sauce gets too thick, just stir in a splash of water as needed. Serve hot over rice and garnish with green onions and sesame seeds if desired."
+    }
+  ],
+  "recipeYield": "4",
+  "sameAs": [
+    "https://itdoesnttastelikechicken.com/vegan-pepper-black-bean-stir-fry-vegan-pepper-steak"
+  ],
+  "totalTime": "PT15M",
+  "updatedAt": "2022-12-02T13:01:58.702Z"
+}

@@ -1,0 +1,71 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "5",
+    "reviewCount": "1"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "She Likes Food"
+  },
+  "createdAt": "2022-12-02T23:48:54.446Z",
+  "datePublished": "2016-02-14",
+  "image": [
+    "https://www.shelikesfood.com/wp-content/uploads/2016/02/Vegan-Greek-Pizza-1538-225x225.jpg",
+    "https://www.shelikesfood.com/wp-content/uploads/2016/02/Vegan-Greek-Pizza-1538-260x195.jpg",
+    "https://www.shelikesfood.com/wp-content/uploads/2016/02/Vegan-Greek-Pizza-1538-320x180.jpg",
+    "https://www.shelikesfood.com/wp-content/uploads/2016/02/Vegan-Greek-Pizza-1538.jpg"
+  ],
+  "name": "Vegan Greek Pizza {Gluten Free}",
+  "recipeCategory": "Entree",
+  "recipeIngredient": [
+    "1 ball of gluten free pizza dough (see recipe link above)",
+    "Marinara sauce",
+    "Kalamata olives, cut in half",
+    "Marinated artichoke hearts, diced",
+    "Roasted red peppers, diced",
+    "Red onion, thinly sliced",
+    "Basil leaves for topping, if desired",
+    "1 (16 ounce) package extra firm tofu, drained and patted dry",
+    "1/3 cup apple cider vinegar",
+    "1/3 cup water",
+    "Juice of 1 medium lemon",
+    "1 tablespoon extra virgin olive oil",
+    "2 teaspoons light yellow miso paste",
+    "1/2 teaspoon dried oregano",
+    "1/4 teaspoon salt"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Whisk all feta ingredients, except for the tofu, in a medium sized bowl until combined. Use your hands to crumble the tofu into the bowl and stir to make sure all of tofu is coated. Cover and let sit in the refrigerator for at least an hour. It will become more flavorful the longer it sits."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Pre-cook pizza dough if recipe requires. Spread desired amount of marinara sauce over crust and then evenly distribute all of the toppings. You may not use all of the feta, depending on how big your crust is, but you can enjoy it on many other things!"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Place pizza in a 450 degree oven and bake until pizza dough is cooked through and toppings are heated through. Time will depend on whether or not you pre-cook your pizza dough. Sprinkle finished pizza with chopped basil leaves and enjoy!"
+    }
+  ],
+  "sameAs": [
+    "https://shelikesfood.com/vegan-greek-pizza-gluten-free"
+  ],
+  "updatedAt": "2022-12-02T23:48:54.446Z",
+  "url": "https://www.shelikesfood.com/vegan-greek-pizza-gluten-free/",
+  "video": {
+    "@context": "http://schema.org",
+    "@type": "VideoObject",
+    "contentUrl": "https://www.youtube.com/watch?v=sDfGBRsVFJY",
+    "description": "How to make the Best and Easiest Gluten Free Pizza Crust ever!  It's vegan too!",
+    "duration": "PT5M",
+    "embedUrl": "https://www.youtube.com/embed/sDfGBRsVFJY?feature=oembed",
+    "name": "The Best & Easiest Gluten Free Pizza Crust & Vegan Greek Pizza",
+    "thumbnailUrl": [
+      "https://i.ytimg.com/vi/sDfGBRsVFJY/hqdefault.jpg"
+    ],
+    "uploadDate": "2016-02-15"
+  }
+}

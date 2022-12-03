@@ -1,0 +1,104 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "165",
+    "ratingValue": "4.94"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Sam Turnbull • It Doesn't Taste Like Chicken"
+  },
+  "cookTime": "PT10M",
+  "createdAt": "2022-12-02T13:29:39.320Z",
+  "datePublished": "2016-04-20T10:57:56+00:00",
+  "description": "All the flavours of Korean BBQ made vegan and gluten free! Sweet and mildly spiced, just 15 minutes to make!",
+  "image": [
+    "https://itdoesnttastelikechicken.com/wp-content/uploads/2016/04/Sweet-Korean-Lentils.jpg",
+    "https://itdoesnttastelikechicken.com/wp-content/uploads/2016/04/Sweet-Korean-Lentils-500x500.jpg",
+    "https://itdoesnttastelikechicken.com/wp-content/uploads/2016/04/Sweet-Korean-Lentils-500x375.jpg",
+    "https://itdoesnttastelikechicken.com/wp-content/uploads/2016/04/Sweet-Korean-Lentils-480x270.jpg"
+  ],
+  "mentions": [
+    {
+      "@id": "https://itdoesnttastelikechicken.com/tag/beans/#id",
+      "@type": "http://schema.org/Thing",
+      "description": "Bean is a common name for large seeds of several genera of the flowering plant family Fabaceae (also known as Leguminosae) which are used for human or animal food.",
+      "name": "bean",
+      "sameAs": [
+        "http://rdf.freebase.com/ns/m.01fp9",
+        "http://el.dbpedia.org/resource/Φασόλι",
+        "http://dbpedia.org/resource/Bean",
+        "http://ko.dbpedia.org/resource/콩",
+        "http://fr.dbpedia.org/resource/Haricot_(homonymie)",
+        "https://en.wikipedia.org/wiki/Bean",
+        "http://de.dbpedia.org/resource/Bohne",
+        "http://ja.dbpedia.org/resource/豆",
+        "http://purl.obolibrary.org/obo/FOODON_00002753",
+        "http://wikidata.dbpedia.org/resource/Q379813",
+        "http://www.wikidata.org/entity/Q379813",
+        "http://nl.dbpedia.org/resource/Boon",
+        "http://id.dbpedia.org/resource/Kacang-kacangan",
+        "https://knowledge.cafemedia.com/food/entity/bean"
+      ]
+    }
+  ],
+  "name": "Sweet Korean Lentils",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "253 kcal",
+    "carbohydrateContent": "36 g",
+    "fatContent": "6 g",
+    "fiberContent": "14 g",
+    "proteinContent": "13 g",
+    "servingSize": "1 /4 of recipe",
+    "sodiumContent": "826 mg",
+    "sugarContent": "7 g"
+  },
+  "prepTime": "PT5M",
+  "recipeCategory": "Main Course",
+  "recipeCuisine": "Korean",
+  "recipeIngredient": [
+    "2 cups water",
+    "1/4 cup soy sauce (or gluten free tamari)",
+    "2-3 tablespoons brown sugar",
+    "2 cloves garlic, (minced)",
+    "1 inch piece of ginger, (minced)",
+    "1 teaspoon sesame oil",
+    "1/2 teaspoon crushed red pepper flakes",
+    "1 tablespoon light oil (such as canola, vegetable, or peanut oil)",
+    "1/2 yellow onion, (chopped)",
+    "1 cup red lentils",
+    "2 green onions, (chopped)",
+    "1 tablespoon sesame seeds",
+    "Cooked rice for serving"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "In a medium bow, mix together all the sauce ingredients."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Heat the oil in a skillet over medium heat, then add the onion and sauté for a few minutes until the onion softens and begins to brown. Now add the lentils and the sauce. Cover and bring to a gentle simmer until the lentils are cooked and tender, and most of the liquid is absorbed, about 8 to 10 minutes."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Serve by spooning over rice, and garnishing with the green onions and sesame seeds."
+    }
+  ],
+  "recipeYield": "4",
+  "sameAs": [
+    "https://itdoesnttastelikechicken.com/2016/04/20/sweet-korean-lentils"
+  ],
+  "totalTime": "PT15M",
+  "updatedAt": "2022-12-03T01:09:24.629Z",
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/ZMFdf3K7.mp4",
+    "description": "",
+    "name": "Sweet Korean Lentils - Vegan Bulgogi",
+    "thumbnailUrl": "https://content.jwplatform.com/thumbs/ZMFdf3K7-720.jpg",
+    "uploadDate": "2021-09-01T17:56:16.000Z"
+  }
+}

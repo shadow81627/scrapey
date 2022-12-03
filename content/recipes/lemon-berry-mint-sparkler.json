@@ -1,0 +1,66 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1",
+    "ratingValue": "5"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Sophia DeSantis"
+  },
+  "createdAt": "2022-12-03T04:36:02.464Z",
+  "datePublished": "2014-09-22T06:00:44+00:00",
+  "description": "Celebrate the end of summer with this refreshing mocktail. Tart lemons meet sweet strawberries and cooling mint to creating a sparkly delicious drink!",
+  "image": [
+    "https://www.veggiesdontbite.com/wp-content/uploads/2014/09/lemon-berry-mint-sparkler-wine-16-2.jpg"
+  ],
+  "keywords": "Berry Mocktail, Sparkling Juice",
+  "name": "Lemon Berry Mint Sparkler",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "159 kcal",
+    "carbohydrateContent": "40 g",
+    "fiberContent": "4 g",
+    "proteinContent": "1 g",
+    "servingSize": "1 serving",
+    "sodiumContent": "307 mg",
+    "sugarContent": "27 g"
+  },
+  "prepTime": "PT5M",
+  "recipeCategory": "Drinks",
+  "recipeCuisine": "American",
+  "recipeIngredient": [
+    "1/2 cup fresh squeezed lemon juice",
+    "1 cup fresh strawberries (plus 4 extra for garnish)",
+    "2 tablespoons fresh mint (plus more leaves for garnish)",
+    "2 tablespoons maple syrup",
+    "3 cups sparkling water",
+    "1 cup ice (or more if desired)"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Using a juicer, juice 2-4 lemons until you get 1/2 cup. How many really depends on how juicy they are, I used 2 but I have pretty juicy lemons from my tree."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Place the fresh pressed lemon juice, 1 cup strawberries, 2 tablespoons mint and maple syrup into a blender. Blend until pulverized into a thick puree."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Place puree into a pitcher, and add sparkling water and ice. Slice 4 extra strawberries and add to the pitcher. Pour into glasses/mason jars, garnish with mint and serve."
+    }
+  ],
+  "recipeYield": "1",
+  "sameAs": [
+    "https://veggiesdontbite.com/lemon-berry-mint-sparkler"
+  ],
+  "suitableForDiet": [
+    "https://schema.org/GlutenFreeDiet",
+    "https://schema.org/VeganDiet",
+    "https://schema.org/VegetarianDiet"
+  ],
+  "totalTime": "PT5M",
+  "updatedAt": "2022-12-03T04:36:02.459Z"
+}

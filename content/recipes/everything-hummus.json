@@ -1,0 +1,109 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1",
+    "ratingValue": "5"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Yup, it's Vegan"
+  },
+  "cookTime": "PT10M",
+  "createdAt": "2022-12-02T14:46:01.860Z",
+  "datePublished": "2014-04-20T07:00:37+00:00",
+  "description": "Everything hummus recipe: creamy chickpea and white bean hummus with the flavors of an everything bagel. Made with DIY toasted everything bagel seasoning.",
+  "image": [
+    "https://yupitsvegan.com/wp-content/uploads/2014/04/everything_hummus_2.jpg"
+  ],
+  "keywords": "everything hummus",
+  "mentions": [
+    {
+      "@id": "https://yupitsvegan.com/tag/legumes/#id",
+      "@type": "http://schema.org/Thing",
+      "description": "A legume (/ˈlɛɡjuːm/ or /ˌləˈɡjuːm/) is a plant or fruit/seed in the family Fabaceae (or Leguminosae). Legumes are grown agriculturally, primarily for their grain seed called pulse, for livestock forage and silage, and as soil-enhancing green manure. Well-known legumes include alfalfa, clover, peas, beans, lentils, lupin bean, mesquite, carob, soybeans, peanuts, and tamarind. Legumes are...",
+      "name": "legume",
+      "sameAs": [
+        "http://el.dbpedia.org/resource/Όσπρια",
+        "http://cs.dbpedia.org/resource/Luštěnina",
+        "https://en.wikipedia.org/wiki/Legume",
+        "http://rdf.freebase.com/ns/m.01sfdb",
+        "http://wikidata.dbpedia.org/resource/Q145909",
+        "http://pt.dbpedia.org/resource/Legume",
+        "http://www.wikidata.org/entity/Q145909",
+        "http://ja.dbpedia.org/resource/豆果",
+        "http://fr.dbpedia.org/resource/Gousse",
+        "http://eu.dbpedia.org/resource/Lekale",
+        "http://dbpedia.org/resource/Legume",
+        "http://es.dbpedia.org/resource/Legumbre",
+        "http://yago-knowledge.org/resource/Pulse_(legume)",
+        "http://pl.dbpedia.org/resource/Rośliny_strączkowe",
+        "http://purl.obolibrary.org/obo/FOODON_00001264",
+        "http://nl.dbpedia.org/resource/Peul_(vrucht)",
+        "http://de.dbpedia.org/resource/Hülsenfrucht",
+        "http://it.dbpedia.org/resource/Baccello",
+        "http://d-nb.info/gnd/4020803-5",
+        "http://rdf.freebase.com/ns/m.0bqsk",
+        "https://knowledge.cafemedia.com/food/entity/legume"
+      ]
+    }
+  ],
+  "name": "Everything Hummus",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "256 kcal",
+    "carbohydrateContent": "41 g",
+    "fatContent": "10 g",
+    "fiberContent": "16 g",
+    "proteinContent": "15 g",
+    "saturatedFatContent": "1 g",
+    "servingSize": "1 fourth recipe",
+    "sodiumContent": "277 mg",
+    "sugarContent": "4 g",
+    "unsaturatedFatContent": "7 g"
+  },
+  "prepTime": "PT20M",
+  "recipeCategory": "Appetizer",
+  "recipeCuisine": "gluten-free",
+  "recipeIngredient": [
+    "2 cloves garlic (minced)",
+    "3 tbsp minced yellow or white onion (about 1/4 of a small onion)",
+    "1 tbsp caraway seeds",
+    "1 tbsp poppy seeds (or chia seeds!)",
+    "1 tbsp sesame seeds",
+    "salt",
+    "3 tbsp tahini",
+    "1 large lemon (juiced (plus more to taste)",
+    "1 clove garlic (chopped)",
+    "1 and 1/2 cups cooked chickpeas (equal to 1 standard can)",
+    "1 and 1/2 cups cooked white beans (navy, cannellini, etc.) (equal to 1 standard can)",
+    "1/2 tsp ground cumin",
+    "1/2 tsp ground coriander",
+    "1/4 tsp cayenne pepper",
+    "1 tbsp white balsamic vinegar (or apple cider vinegar)",
+    "water (as needed)",
+    "salt (to taste)",
+    "everything toppings (from above)",
+    "1 tbsp olive oil (for drizzling, optional)"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Preheat oven or toaster oven to 350 degrees Fahrenheit."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Line a small baking sheet with parchment paper, and spread out all of the toppings in a thin layer. Sprinkle with salt."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Toast for about 10 minutes - stirring every few minutes to avoid sticking/burning - or until garlic and onion are browned. Set aside."
+    }
+  ],
+  "recipeYield": "4",
+  "sameAs": [
+    "https://yupitsvegan.com/everything-hummus"
+  ],
+  "totalTime": "PT30M",
+  "updatedAt": "2022-12-02T14:46:01.859Z"
+}

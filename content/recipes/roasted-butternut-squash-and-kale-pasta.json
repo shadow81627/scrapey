@@ -1,0 +1,175 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "3",
+    "ratingValue": "5"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Sam Turnbull • It Doesn't Taste Like Chicken"
+  },
+  "cookTime": "PT35M",
+  "createdAt": "2022-12-02T23:45:39.350Z",
+  "datePublished": "2016-11-10T09:47:51+00:00",
+  "description": "Seasoned with balsamic vinegar, garlic, and onions. Hearty and low calorie, autumn pasta recipe.&nbsp;",
+  "image": [
+    "https://itdoesnttastelikechicken.com/wp-content/uploads/2016/11/squash-and-kale-pasta-vegan-recipe-autumn.jpg",
+    "https://itdoesnttastelikechicken.com/wp-content/uploads/2016/11/squash-and-kale-pasta-vegan-recipe-autumn-500x500.jpg",
+    "https://itdoesnttastelikechicken.com/wp-content/uploads/2016/11/squash-and-kale-pasta-vegan-recipe-autumn-500x375.jpg",
+    "https://itdoesnttastelikechicken.com/wp-content/uploads/2016/11/squash-and-kale-pasta-vegan-recipe-autumn-480x270.jpg"
+  ],
+  "mentions": [
+    {
+      "@id": "https://itdoesnttastelikechicken.com/tag/butternut/#id",
+      "@type": "http://schema.org/Thing",
+      "description": "",
+      "name": "butternut",
+      "sameAs": [
+        "http://purl.obolibrary.org/obo/FOODON_03302630",
+        "http://nl.dbpedia.org/resource/Butternut",
+        "http://wikidata.dbpedia.org/resource/Q1018130",
+        "http://www.wikidata.org/entity/Q1018130",
+        "http://dbpedia.org/resource/Butternut",
+        "https://en.wikipedia.org/wiki/Butternut",
+        "http://de.dbpedia.org/resource/Butternut",
+        "https://knowledge.cafemedia.com/food/entity/butternut"
+      ]
+    },
+    {
+      "@id": "https://itdoesnttastelikechicken.com/tag/kale/#id",
+      "@type": "http://schema.org/Thing",
+      "description": "Kale (English IPA: /keɪl/) or leaf cabbage is a group of vegetable cultivars within the plant species Brassica oleracea. They have green or purple leaves, in which the central leaves do not form a head (as opposed to headed cabbages). Kales are considered to be closer to wild cabbage than most domesticated forms of Brassica...",
+      "name": "kale",
+      "sameAs": [
+        "http://nl.dbpedia.org/resource/Boerenkool_(groente)",
+        "http://de.dbpedia.org/resource/Grünkohl",
+        "https://en.wikipedia.org/wiki/Kale",
+        "http://cs.dbpedia.org/resource/Kadeřávek",
+        "http://pl.dbpedia.org/resource/Jarmuż",
+        "http://dbpedia.org/resource/Kale",
+        "http://fr.dbpedia.org/resource/Chou_frisé",
+        "http://ko.dbpedia.org/resource/케일_(채소)",
+        "http://d-nb.info/gnd/4257572-2",
+        "http://pt.dbpedia.org/resource/Couve-de-folhas",
+        "http://es.dbpedia.org/resource/Brassica_oleracea_var._sabellica",
+        "http://wikidata.dbpedia.org/resource/Q45989",
+        "http://purl.obolibrary.org/obo/FOODON_03304859",
+        "http://rdf.freebase.com/ns/m.02r5_b",
+        "http://www.wikidata.org/entity/Q45989",
+        "http://ja.dbpedia.org/resource/ケール",
+        "https://knowledge.cafemedia.com/food/entity/kale"
+      ]
+    },
+    {
+      "@id": "https://itdoesnttastelikechicken.com/tag/pasta/#id",
+      "@type": "http://schema.org/Thing",
+      "description": "Pasta (Italian pronunciation: ) is a staple food of traditional Italian cuisine, with the first reference dating to 1154 in Sicily. It is also commonly used to refer to the variety of pasta dishes. Typically, pasta is a noodle made from an unleavened dough of a durum wheat flour mixed with water or eggs and...",
+      "name": "pasta",
+      "sameAs": [
+        "http://el.dbpedia.org/resource/Ζυμαρικό",
+        "http://rdf.freebase.com/ns/m.05z55",
+        "http://ko.dbpedia.org/resource/파스타",
+        "http://pt.dbpedia.org/resource/Massa_alimentícia",
+        "http://it.dbpedia.org/resource/Pasta",
+        "http://es.dbpedia.org/resource/Pasta",
+        "http://pl.dbpedia.org/resource/Makaron",
+        "https://en.wikipedia.org/wiki/Pasta",
+        "http://nl.dbpedia.org/resource/Pasta_(deegwaar)",
+        "http://wikidata.dbpedia.org/resource/Q178",
+        "http://fr.dbpedia.org/resource/Pâtes_alimentaires",
+        "http://www.wikidata.org/entity/Q178",
+        "http://de.dbpedia.org/resource/Pasta",
+        "http://ja.dbpedia.org/resource/パスタ",
+        "http://purl.obolibrary.org/obo/FOODON_03306347",
+        "http://cs.dbpedia.org/resource/Těstoviny",
+        "http://id.dbpedia.org/resource/Pasta",
+        "http://eu.dbpedia.org/resource/Pasta_(orea)",
+        "http://dbpedia.org/resource/Pasta",
+        "https://knowledge.cafemedia.com/food/entity/pasta"
+      ]
+    },
+    {
+      "@id": "https://itdoesnttastelikechicken.com/tag/tofu/#id",
+      "@type": "http://schema.org/Thing",
+      "description": "Tofu, also known as bean curd, is a food made by coagulating soy milk and then pressing the resulting curds into soft white blocks. It is a component in East Asian and Southeast Asian cuisines. Tofu can be soft, firm, or extra firm. Tofu has a subtle flavor and can be used in savory and...",
+      "name": "bean curd",
+      "sameAs": [
+        "http://el.dbpedia.org/resource/Τόφου",
+        "http://es.dbpedia.org/resource/Tofu",
+        "http://dbpedia.org/resource/Tofu",
+        "http://id.dbpedia.org/resource/Tahu",
+        "http://www.wikidata.org/entity/Q177378",
+        "http://rdf.freebase.com/ns/m.07s28",
+        "http://purl.obolibrary.org/obo/FOODON_03301839",
+        "http://pl.dbpedia.org/resource/Tofu",
+        "http://wikidata.dbpedia.org/resource/Q177378",
+        "http://fr.dbpedia.org/resource/Tofu",
+        "http://ko.dbpedia.org/resource/두부",
+        "http://d-nb.info/gnd/4060337-4",
+        "https://en.wikipedia.org/wiki/Tofu",
+        "http://cs.dbpedia.org/resource/Tofu",
+        "http://nl.dbpedia.org/resource/Tofoe",
+        "http://de.dbpedia.org/resource/Tofu",
+        "http://ja.dbpedia.org/resource/豆腐",
+        "http://it.dbpedia.org/resource/Tōfu",
+        "http://eu.dbpedia.org/resource/Tofu",
+        "http://pt.dbpedia.org/resource/Tofu",
+        "https://knowledge.cafemedia.com/food/entity/bean_curd"
+      ]
+    }
+  ],
+  "name": "Roasted Butternut Squash & Kale Pasta",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "196 kcal",
+    "carbohydrateContent": "29 g",
+    "fatContent": "8 g",
+    "fiberContent": "4 g",
+    "proteinContent": "4 g",
+    "saturatedFatContent": "1 g",
+    "servingSize": "1 serving (recipe makes 4 servings)",
+    "sodiumContent": "464 mg",
+    "sugarContent": "6 g"
+  },
+  "prepTime": "PT10M",
+  "recipeCategory": "Side Dish",
+  "recipeCuisine": "Italian",
+  "recipeIngredient": [
+    "1 small butternut squash (, peeled and cut into cubes (around 4 1/2 cups)",
+    "1 tablespoon olive oil",
+    "1/4 teaspoon salt",
+    "2 packages Tofu Shirataki Spaghetti Shape (8 oz, 226g)",
+    "1/2 of a red onion (, sliced (you can use other onions, but red is pretty)",
+    "2 cloves garlic (, minced)",
+    "1/2 a bunch of kale (, destemmed and roughly chopped)",
+    "1 tablespoon balsamic vinegar",
+    "1/2 teaspoon salt",
+    "1/4 teaspoon pepper",
+    "parmegan (for garnish)"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "To roast the butternut squash: Preheat your oven to 425F (220C). Spread the squash cubes on a large baking sheet, drizzle the oil, and sprinkle with salt. Toss to coat. Bake for 20 to 25 minutes, flipping halfway through until squash pieces are golden and fork tender."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "To make the pasta: Cook the spaghetti noodles according to package directions until al dente."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "In a large skillet or frying pan, heat the olive oil and sauté the onions and garlic until the onions have softened. Add the kale and balsamic vinegar, and cook a couple minutes more until the kale is wilted."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Toss in the roasted butternut squash and the cooked spaghetti and toss to combine. Sprinkle with Parmegan to taste."
+    }
+  ],
+  "recipeYield": "4",
+  "sameAs": [
+    "https://itdoesnttastelikechicken.com/butternut-squash-kale-pasta"
+  ],
+  "totalTime": "PT45M",
+  "updatedAt": "2022-12-02T23:45:39.348Z"
+}

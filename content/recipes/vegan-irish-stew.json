@@ -2,118 +2,120 @@
   "@type": "Recipe",
   "aggregateRating": {
     "@type": "AggregateRating",
-    "ratingCount": "49",
-    "ratingValue": "4.92"
+    "ratingCount": "192",
+    "ratingValue": "4.96"
   },
   "author": {
     "@type": "Person",
-    "name": "Melanie McDonald"
+    "name": "Sam Turnbull • It Doesn't Taste Like Chicken"
   },
-  "cookTime": "PT60M",
+  "cookTime": "PT30M",
   "createdAt": "2022-12-02T03:23:44.928Z",
-  "datePublished": "2021-02-08T20:55:03+00:00",
-  "description": "This one-pot, hearty Vegan Irish Stew is so flavourful and can be made on the stove, in an Instant Pot, or in a slow cooker. Vegan-friendly Guinness gives an incredibly rich, deep flavour to the gravy and it&#039;s loaded with chunky, sweet, tender vegetables.  Make it with just veg, or add some optional vegan &quot;meat&quot; or mushrooms to make it even more satisfying and flavourful!",
+  "datePublished": "2017-03-15T08:15:48+00:00",
+  "description": "Perfect for St. Patrick's Day. Hearty vegetables in a rich, earthy, thick stout beer broth. It's a stick to your ribs kinda stew!&nbsp;",
   "image": [
-    "https://avirtualvegan.com/wp-content/uploads/2021/02/Vegan-Irish-Stew-HERO-1.jpg",
-    "https://avirtualvegan.com/wp-content/uploads/2021/02/Vegan-Irish-Stew-HERO-1-500x500.jpg",
-    "https://avirtualvegan.com/wp-content/uploads/2021/02/Vegan-Irish-Stew-HERO-1-500x375.jpg",
-    "https://avirtualvegan.com/wp-content/uploads/2021/02/Vegan-Irish-Stew-HERO-1-480x270.jpg"
+    "https://itdoesnttastelikechicken.com/wp-content/uploads/2017/03/vegan-irish-stew.jpg",
+    "https://itdoesnttastelikechicken.com/wp-content/uploads/2017/03/vegan-irish-stew-500x500.jpg",
+    "https://itdoesnttastelikechicken.com/wp-content/uploads/2017/03/vegan-irish-stew-500x375.jpg",
+    "https://itdoesnttastelikechicken.com/wp-content/uploads/2017/03/vegan-irish-stew-480x270.jpg"
   ],
-  "keywords": "Irish Stew, meat-free stew, stew, vegan irish stew, vegan stew",
+  "mentions": [
+    {
+      "@id": "https://itdoesnttastelikechicken.com/tag/potatoes/#id",
+      "@type": "http://schema.org/Thing",
+      "description": "The potato is a starchy, tuberous crop from the perennial nightshade Solanum tuberosum. The word \"potato\" may refer either to the plant itself or to the edible tuber. In the Andes, where the species is indigenous, there are some other closely related cultivated potato species. Potatoes were introduced outside the Andes region approximately four centuries...",
+      "name": "potato",
+      "sameAs": [
+        "http://eu.dbpedia.org/resource/Patata",
+        "http://de.dbpedia.org/resource/Kartoffel",
+        "http://es.dbpedia.org/resource/Solanum_tuberosum",
+        "http://pl.dbpedia.org/resource/Ziemniak",
+        "http://yago-knowledge.org/resource/Blue_potato",
+        "http://purl.obolibrary.org/obo/FOODON_03306854",
+        "http://el.dbpedia.org/resource/Πατάτα",
+        "http://pt.dbpedia.org/resource/Batata",
+        "http://rdf.freebase.com/ns/m.05vtc",
+        "http://wikidata.dbpedia.org/resource/Q10998",
+        "http://ko.dbpedia.org/resource/감자",
+        "http://lod.geospecies.org/ses/9YcAF",
+        "http://fr.dbpedia.org/resource/Pomme_de_terre",
+        "http://nl.dbpedia.org/resource/Aardappel",
+        "http://d-nb.info/gnd/4029804-8",
+        "https://en.wikipedia.org/wiki/Potato",
+        "http://dbpedia.org/resource/Potato",
+        "http://www.wikidata.org/entity/Q10998",
+        "http://it.dbpedia.org/resource/Solanum_tuberosum",
+        "http://id.dbpedia.org/resource/Kentang",
+        "http://ja.dbpedia.org/resource/ジャガイモ",
+        "http://yago-knowledge.org/resource/Solanum_tuberosum",
+        "http://cs.dbpedia.org/resource/Lilek_brambor",
+        "http://eunis.eea.europa.eu/species/184915",
+        "https://knowledge.cafemedia.com/food/entity/potato"
+      ]
+    }
+  ],
   "name": "Vegan Irish Stew",
   "nutrition": {
     "@type": "NutritionInformation",
-    "calories": "164 kcal",
-    "carbohydrateContent": "23 g",
-    "fatContent": "4 g",
-    "fiberContent": "5 g",
-    "proteinContent": "10 g",
-    "saturatedFatContent": "1 g",
-    "servingSize": "1 of 8 servings",
-    "sodiumContent": "1675 mg",
-    "sugarContent": "10 g"
+    "calories": "233 kcal",
+    "servingSize": "1 serving"
   },
   "prepTime": "PT10M",
-  "recipeCategory": "Entree",
-  "recipeCuisine": "vegan",
+  "recipeCategory": "Soup",
+  "recipeCuisine": "American",
   "recipeIngredient": [
-    "2 tablespoons oil (, or use water for oil-free)",
-    "9 oz (255 grams ) OPTIONAL beefless tips or portobello mushrooms",
-    "1 large onion (, diced)",
-    "3 large carrots (, cut into 1/2 inch chunky pieces)",
-    "2 ribs celery (, diced)",
-    "5 cloves garlic (, minced)",
-    "4 tablespoons all purpose flour (, or cornstarch)",
-    "330 mls (11 oz bottle) Guinness (, or any dark stout)",
-    "1 medium (about 800 grams / 28 oz) rutabaga/ swede (, or turnips, cut into chunky pieces)",
-    "4 large (about 650g / 23 oz) potatoes (, cut into large chunks (each potato into about 6 pieces)",
-    "1/4 head green cabbage (, shredded)",
-    "4 cups (960 mls) vegetable stock",
-    "1/4 cup (60 mls) soy sauce (, or Tamari)",
-    "2 teaspoons sea salt",
-    "1 teaspoon freshly ground black pepper",
-    "1 tbsp white or cane sugar",
-    "2 large bay leaves",
-    "2 x 4 inch sprigs fresh thyme (, or 1 teaspoon dried)",
-    "2 x 4 inch sprigs fresh rosemary (, or 1 1/2 teapsoon dried )"
+    "2 tablespoons olive oil",
+    "2 ribs celery (chopped)",
+    "1 yellow onion (chopped)",
+    "4 cloves garlic (minced)",
+    "1/4 cup all-purpose flour",
+    "2 - 4 cups vegetable broth",
+    "1 can (473ml) vegan stout beer",
+    "3 carrots (peeled and cut into chunks)",
+    "2 parsnips (peeled and cut into chunks (optional)",
+    "8 oz mushrooms (quartered)",
+    "2 1/2 cups baby potatoes (halved (or about 2 regular potatoes and cut into chunks)",
+    "1/2 cup tomato paste",
+    "2 bay leaves",
+    "2 teaspoons brown sugar",
+    "1 teaspoon dried thyme",
+    "3/4 teaspoon salt",
+    "1/2 teaspoon ground pepper"
   ],
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "text": "In a large Dutch oven or soup pot (that holds at least 6 quarts / 5.7 litres), add the oil and place over high heat."
+      "image": "https://itdoesnttastelikechicken.com/wp-content/uploads/2017/03/insta1.jpg",
+      "text": "Please note that some people find this recipe bitter. I love the bitter taste, but if you do not like bitter flavors here are my tips: make sure you use a beer you like the flavor of, if you don't like it before it goes in the soup, you won't like it in the soup. You can start with less beer to taste or replace the beer completely with a vegan beefless broth. If you find the finished soup too bitter try adding fat such as 1 - 2 tablespoons olive oil, or vegan butter and some sweetness such as 1 - 2 tablespoons brown or white sugar, agave, or maple syrup."
     },
     {
       "@type": "HowToStep",
-      "text": "When really hot add the beefless tips or mushrooms and sear in the pan until golden on all sides. Scoop them out and put in a bowl or on a plate and set them aside until near the end."
+      "image": "https://itdoesnttastelikechicken.com/wp-content/uploads/2017/03/insta5.jpg",
+      "text": "Heat a large pot over medium-high heat. Add the olive oil, and when hot add in the celery, onion, and garlic. Sauté until the onion becomes translucent and just begins to brown about 5 minutes."
     },
     {
       "@type": "HowToStep",
-      "text": "Turn the heat down to medium, then to the same pot (don't clean it. we want any stuck-on residue for flavour!), add the onions, carrots and celery. You might also need to add a teeny bit more oil depending on the pan you're using. If you are not using vegan beef, seitan or mushrooms begin with this step, adding the oil and warming the pan first."
+      "image": "https://itdoesnttastelikechicken.com/wp-content/uploads/2017/03/insta2.jpg",
+      "text": "Sprinkle in the flour. Stir well to coat the veggies, and cook for another minute to heat up the flour. Add 2 cups of vegetable broth, and scrape the bottom of the pan with your spoon to get any bits off the bottom. Add in the beer, all of the remaining veggies, tomato paste, and spices. The beer will foam up, but that’s ok, the bubbles and alcohol will cook right out."
     },
     {
       "@type": "HowToStep",
-      "text": "Let them sweat down and just as they are beginning to colour add the garlic."
-    },
-    {
-      "@type": "HowToStep",
-      "text": "After about 30 seconds add the flour. Stir it around so everything gets coated and let it cook out for a minute or two to remove the raw flour flavour. If you use cornstarch instead of the flour it will get a bit gloopy and weird but don't worry, once you add everything else it will be fine."
-    },
-    {
-      "@type": "HowToStep",
-      "text": "Pour in the Guinness/stout slowly, stirring as you go, then once it's all in, give it another really good stir to work out most of the lumps. Don't worry about any small lumps."
-    },
-    {
-      "@type": "HowToStep",
-      "text": "Add the rutabaga/swede, potatoes, cabbage, stock, soy sauce, salt, pepper, sugar and herbs and give it a really good stir."
-    },
-    {
-      "@type": "HowToStep",
-      "text": "Bring slowly to a boil stirring frequently, then immediately turn down to medium-low and let it simmer uncovered, stirring occasionally until the potatoes are soft and the gravy is thick. I like to wait until the potatoes are really soft and just starting to break down before I serve. It will take about 45 to 50 minutes, but you can leave it simmering away much longer if you want to. Just turn it down to low and cover with a lid if it's going to be significantly longer."
-    },
-    {
-      "@type": "HowToStep",
-      "text": "About 10 minutes before you are going to serve, add the beefless tips/mushrooms back in and give it a stir."
-    },
-    {
-      "@type": "HowToStep",
-      "text": "If you used fresh herbs be sure to pick out the stalks before serving."
+      "image": "https://itdoesnttastelikechicken.com/wp-content/uploads/2017/03/insta23.jpg",
+      "text": "Bring to a simmer and cook for 10 – 15 minutes until the veggies are fork-tender, but not mushy. The stew will be very thick! If you prefer a thinner stew, feel free to thin it out to taste with 1 to 2 more cups of vegetable broth. Remove bay leaves before serving, and enjoy hot. Allow leftovers to cool and store covered in the fridge for up to 5 days."
     }
   ],
-  "recipeYield": "8",
+  "recipeYield": "6",
   "sameAs": [
-    "https://avirtualvegan.com/vegan-irish-stew"
+    "https://itdoesnttastelikechicken.com/2017/03/15/vegan-irish-stew"
   ],
-  "suitableForDiet": [
-    "https://schema.org/VeganDiet"
-  ],
-  "totalTime": "PT70M",
-  "updatedAt": "2022-12-02T03:23:44.926Z",
+  "totalTime": "PT40M",
+  "updatedAt": "2022-12-02T14:33:04.580Z",
   "video": {
     "@type": "VideoObject",
-    "contentUrl": "https://content.jwplatform.com/videos/jfZa7gsQ.mp4",
-    "description": "This one-pot, hearty Vegan Irish Stew is so flavourful and can be made on the stove, in an Instant Pot, or in a slow cooker. Vegan-friendly Guinness Beer gives an incredibly rich, deep flavour to the gravy and it's loaded with chunky, sweet, tender vegetables.  Make it with just veg, or add some optional vegan meat or mushrooms to make it even more satisfying and flavourful!",
-    "name": "Vegan Irish Stew",
-    "thumbnailUrl": "https://content.jwplatform.com/thumbs/jfZa7gsQ-720.jpg",
-    "uploadDate": "2021-03-03T18:21:16.000Z"
+    "contentUrl": "https://content.jwplatform.com/videos/DRTv35kO.mp4",
+    "description": "",
+    "name": "Vegan Irish Stew - Quick and Easy Stew Recipe",
+    "thumbnailUrl": "https://content.jwplatform.com/thumbs/DRTv35kO-720.jpg",
+    "uploadDate": "2021-09-01T18:43:04.000Z"
   }
 }

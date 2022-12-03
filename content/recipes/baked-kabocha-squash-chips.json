@@ -1,0 +1,64 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1",
+    "ratingValue": "5"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Sophia DeSantis"
+  },
+  "cookTime": "PT25M",
+  "createdAt": "2022-12-02T11:59:23.295Z",
+  "datePublished": "2014-10-02T06:00:00+00:00",
+  "description": "Help bring in fall with these delicious and healthy Kabocha Chips. Eat them as a snack or side dish, full of taste and nutrients!",
+  "image": [
+    "https://www.veggiesdontbite.com/wp-content/uploads/2014/10/baked-kabocha-chips-28.jpg"
+  ],
+  "keywords": "healthy chips, vegetable chips",
+  "name": "Baked Kabocha Squash Chips",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "78 kcal",
+    "carbohydrateContent": "19 g",
+    "fiberContent": "3 g",
+    "proteinContent": "2 g",
+    "servingSize": "1 serving",
+    "sodiumContent": "9 mg",
+    "sugarContent": "4 g"
+  },
+  "prepTime": "PT10M",
+  "recipeCategory": "Appetizer",
+  "recipeCuisine": "American",
+  "recipeIngredient": [
+    "1 medium Kabocha Squash",
+    "Himalayan pink salt to taste",
+    "8 thyme sprigs"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Preheat oven to 400°F (200°C). Wash and thinly slice squash (skins on). Using a mandolin may help with getting even baking of the squash pieces since your slices will be uniform."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Place cooling racks on cookie sheets (you will most likely need two so that the slices have room and aren’t overlapping too much) and line the slices on the racks."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "You can also use parchment lined cookie sheets instead of the racks. Sprinkle with salt, and place 4 sprigs of thyme on each, spreading them out. Bake for 20-25 minutes, depending on thickness, until golden brown and crispy."
+    }
+  ],
+  "recipeYield": "4",
+  "sameAs": [
+    "https://veggiesdontbite.com/baked-kabocha-squash-chips"
+  ],
+  "suitableForDiet": [
+    "https://schema.org/GlutenFreeDiet",
+    "https://schema.org/VeganDiet",
+    "https://schema.org/VegetarianDiet"
+  ],
+  "totalTime": "PT35M",
+  "updatedAt": "2022-12-02T11:59:23.294Z"
+}

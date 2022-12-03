@@ -1,0 +1,52 @@
+{
+  "@type": "Product",
+  "additionalProperty": [],
+  "aggregateRating": {
+    "@context": "http://schema.org",
+    "@type": "AggregateRating",
+    "ratingCount": 9,
+    "ratingValue": 4.88888888888889
+  },
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Sanofi"
+  },
+  "createdAt": "2022-12-02T09:57:24.226Z",
+  "description": "Shave Moisturising Lather Shaving Cream.",
+  "gtin13": "9300655024613",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/030583.jpg",
+  "name": "Sanofi Shave Cream Moisturising Shaving Cream 75g",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2.5,
+    "lowPrice": 2.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-12-02T09:57:24.225Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 2.5,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/30583/sanofi-shave-cream"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/30583/sanofi-shave-cream"
+  ],
+  "sku": "30583",
+  "updatedAt": "2022-12-02T09:57:24.225Z"
+}

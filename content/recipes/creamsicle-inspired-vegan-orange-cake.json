@@ -1,0 +1,188 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "6",
+    "ratingValue": "5"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Yup, it's Vegan"
+  },
+  "cookTime": "PT25M",
+  "createdAt": "2022-12-02T12:09:25.008Z",
+  "datePublished": "2019-10-24T19:48:23+00:00",
+  "description": "This fluffy, moist, tender vegan orange cake tastes like a creamsicle, with a beautiful orange color to match, should you choose to add food coloring.",
+  "image": [
+    "https://yupitsvegan.com/wp-content/uploads/2019/10/vegan-orange-creamsicle-cake-square.jpg",
+    "https://yupitsvegan.com/wp-content/uploads/2019/10/vegan-orange-creamsicle-cake-square-500x500.jpg",
+    "https://yupitsvegan.com/wp-content/uploads/2019/10/vegan-orange-creamsicle-cake-square-500x375.jpg",
+    "https://yupitsvegan.com/wp-content/uploads/2019/10/vegan-orange-creamsicle-cake-square-480x270.jpg"
+  ],
+  "keywords": "vegan orange cake",
+  "mentions": [
+    {
+      "@id": "https://yupitsvegan.com/tag/baking/#id",
+      "@type": "http://schema.org/Thing",
+      "description": "Baking is a method of cooking food that uses prolonged dry heat, normally in an oven, but also in hot ashes, or on hot stones. The most common baked item is bread but many other types of foods are baked. Heat is gradually transferred \"from the surface of cakes, cookies, and breads to their centre....",
+      "name": "baked good",
+      "sameAs": [
+        "http://dbpedia.org/resource/Baking",
+        "http://purl.obolibrary.org/obo/FOODON_03311631",
+        "http://ko.dbpedia.org/resource/베이킹",
+        "http://nl.dbpedia.org/resource/Bakken",
+        "http://www.wikidata.org/entity/Q720398",
+        "http://de.dbpedia.org/resource/Backen",
+        "http://wikidata.dbpedia.org/resource/Q720398",
+        "http://pl.dbpedia.org/resource/Pieczenie",
+        "http://ja.dbpedia.org/resource/焼く_(調理)",
+        "http://es.dbpedia.org/resource/Horneado",
+        "http://rdf.freebase.com/ns/m.0dv34",
+        "https://en.wikipedia.org/wiki/Baking",
+        "https://knowledge.cafemedia.com/food/entity/baked_good"
+      ]
+    },
+    {
+      "@id": "https://yupitsvegan.com/tag/citrus/#id",
+      "@type": "http://schema.org/Thing",
+      "description": "Citrus is a genus of flowering trees and shrubs in the rue family, Rutaceae. Plants in the genus produce citrus fruits, including important crops like oranges, lemons, grapefruit, and limes. The most recent research indicates an origin in Australia, New Caledonia and New Guinea. Some researchers believe that the origin is in the part of...",
+      "name": "citrus fruit",
+      "sameAs": [
+        "http://es.dbpedia.org/resource/Citrus",
+        "http://el.dbpedia.org/resource/Κίτρος",
+        "http://id.dbpedia.org/resource/Jeruk",
+        "http://d-nb.info/gnd/4139287-5",
+        "http://purl.obolibrary.org/obo/FOODON_03305742",
+        "http://www.wikidata.org/entity/Q81513",
+        "http://pt.dbpedia.org/resource/Citrus",
+        "https://en.wikipedia.org/wiki/Citrus",
+        "http://wikidata.dbpedia.org/resource/Q81513",
+        "http://de.dbpedia.org/resource/Zitruspflanzen",
+        "http://nl.dbpedia.org/resource/Citrusvrucht",
+        "http://rdf.freebase.com/ns/m.0dqb5",
+        "http://dbpedia.org/resource/Citrus",
+        "http://ja.dbpedia.org/resource/ミカン属",
+        "http://eu.dbpedia.org/resource/Garrazki",
+        "http://cs.dbpedia.org/resource/Citrus",
+        "http://it.dbpedia.org/resource/Citrus",
+        "http://pl.dbpedia.org/resource/Cytrus",
+        "http://ko.dbpedia.org/resource/귤속",
+        "http://fr.dbpedia.org/resource/Citrus",
+        "https://knowledge.cafemedia.com/food/entity/citrus_juice"
+      ]
+    },
+    {
+      "@id": "https://yupitsvegan.com/category/desserts/#id",
+      "@type": "http://schema.org/Thing",
+      "description": "Dessert (/dᵻˈzɜːrt/) is a course that concludes a main meal. The course usually consists of sweet foods and beverages, such as dessert wine or liqueurs, but may include coffee, cheeses, nuts, or other savory items. In some parts of the world, such as much of central and western Africa, there is no tradition of a...",
+      "name": "sweet dish",
+      "sameAs": [
+        "http://es.dbpedia.org/resource/Postre",
+        "http://dbpedia.org/resource/Dessert",
+        "http://ko.dbpedia.org/resource/후식",
+        "http://fr.dbpedia.org/resource/Dessert",
+        "http://de.dbpedia.org/resource/Dessert",
+        "http://id.dbpedia.org/resource/Hidangan_penutup",
+        "http://ja.dbpedia.org/resource/デザート",
+        "http://nl.dbpedia.org/resource/Nagerecht",
+        "http://pt.dbpedia.org/resource/Sobremesa",
+        "http://d-nb.info/gnd/4011539-2",
+        "http://purl.obolibrary.org/obo/FOODON_03316299",
+        "http://pl.dbpedia.org/resource/Deser",
+        "http://cs.dbpedia.org/resource/Dezert",
+        "http://eu.dbpedia.org/resource/Azkenburu",
+        "http://www.wikidata.org/entity/Q182940",
+        "https://en.wikipedia.org/wiki/Dessert",
+        "http://it.dbpedia.org/resource/Dessert",
+        "http://rdf.freebase.com/ns/m.0270h",
+        "http://wikidata.dbpedia.org/resource/Q182940",
+        "https://knowledge.cafemedia.com/food/entity/sweet_dish"
+      ]
+    }
+  ],
+  "name": "Creamsicle-Inspired Vegan Orange Cake",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "277 kcal",
+    "carbohydrateContent": "36 g",
+    "fatContent": "13 g",
+    "proteinContent": "3 g",
+    "saturatedFatContent": "1 g",
+    "servingSize": "1 slice (1/16 recipe)",
+    "sugarContent": "21 g",
+    "unsaturatedFatContent": "11 g"
+  },
+  "prepTime": "PT25M",
+  "recipeCategory": "Dessert",
+  "recipeCuisine": "dairy-free",
+  "recipeIngredient": [
+    "78 grams aquafaba (room temperature (6 tbsp) (see note)",
+    "1/4 tsp cream of tartar",
+    "1 and 3/4 cups plain, unsweetened non-dairy milk (room temperature (soy recommended)",
+    "1/4 cup orange juice",
+    "2 tsp white vinegar",
+    "2 tsp orange extract",
+    "2 tsp clear imitation butter flavor",
+    "324 grams cake flour (This can NOT be substituted with regular flour. Seriously, don't waste your time)",
+    "36 grams potato starch",
+    "324 grams white sugar",
+    "2 tsp baking powder",
+    "1 tsp salt",
+    "1/2 tsp baking soda",
+    "138 grams vegetable oil (not coconut oil)",
+    "48 grams vegetable shortening",
+    "1 tsp orange zest"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Before starting, make sure all of your ingredients for this vegan orange cake are at room temperature."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Preheat the oven to 350 degrees Fahrenheit. Grease and flour two 9-inch cake pans."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "In a small bowl, whisk or whip together the aquafaba and cream of tartar vigorously until the aquafaba is fluffy and foamy (soft peaks are ideal), and set aside."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "In another small bowl, stir together the soy milk, orange juice, 2 tsp vinegar, orange extract, and butter flavor, and set aside. The soy milk will curdle a little bit; this is normal."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Sift all of the dry ingredients (including the sugar) into a mixing bowl and stir well, sifting a second time if the mixture still appears lumpy. Don't skip this step - sifting is important!"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add the vegetable oil and shortening into the bowl. Using a mixer or a strong utensil, mix everything together well until it starts to resemble wet sand. Make sure to scrape around the bottom of your mixing bowl to get rid of flour pockets hiding out there. Continue until fully smooth."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add 1/3 of the wet ingredients to the bowl and mix until combined. Add another 2/3 and repeat. Finally, add the remaining 1/3 and mix until the batter is very smooth and runny, which will take a minute or two."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Whisk the foamy aquafaba mixture into the cake batter until mixed in evenly (if you only fold it in, you might get streaks or a gummy layer - mix well if needed). Divide the cake batter between your two cake pans."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Bake the orange cake layers for approximately 24-28 minutes, or until a toothpick inserted into the center comes out clean and dry. Be sure not to open the oven door at all until at least 20 minutes have passed."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Let the cakes cool in their pans on top of a cooling rack for about 10 minutes. You can then run a sharp knife around the edges of the pans before very gently inverting the cakes to cool completely. I recommend lightly flouring or spraying your cooling rack before flipping the cakes onto it; they are very moist and have a tendency to stick. After flipping them over, gently peel off the parchment paper."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "These cakes can be layered and frosted once completely cooled (and the layers can be gently evened out if needed, although they tend to bake pretty flat). Take care in handling them; they are rather delicate. Leftover cake can be stored covered in the fridge for a couple of days. If your layer cake is fully frosted it can also be stored covered at room temperature. If stored in the fridge, it's recommended to bring it to room temperature before slicing, to reduce crumbliness."
+    }
+  ],
+  "recipeYield": "16",
+  "sameAs": [
+    "https://yupitsvegan.com/vegan-orange-cake"
+  ],
+  "totalTime": "PT60M",
+  "updatedAt": "2022-12-02T12:09:25.006Z"
+}

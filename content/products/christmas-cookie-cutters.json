@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "4 pack"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.00 per 1Ea"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2022-12-03T09:50:58.143Z",
+  "description": "Coles Christmas Cookie Cutters",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/3/1/5318404.jpg",
+  "name": "Christmas Cookie Cutters",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 4,
+    "lowPrice": 4,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-03T09:50:58.140Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "4.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/christmas-cookie-cutters"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/christmas-cookie-cutters"
+  ],
+  "sku": "5318404",
+  "updatedAt": "2022-12-03T09:50:58.141Z"
+}

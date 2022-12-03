@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "6 pack"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$5.33 per 1L"
+    }
+  ],
+  "brand": "Great Northern",
+  "createdAt": "2022-12-03T09:20:03.476Z",
+  "description": "Great Northern Zero Can 6x375mL",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/4/4/0/4406142.jpg",
+  "name": "Zero Can 6x375mL",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 12,
+    "lowPrice": 12,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-03T09:20:03.474Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "12.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/zero-cans-6x375ml"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/zero-cans-6x375ml"
+  ],
+  "sku": "4406142",
+  "updatedAt": "2022-12-03T09:20:03.474Z"
+}

@@ -1,0 +1,90 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1",
+    "ratingValue": "5"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Yup, it's Vegan"
+  },
+  "cookTime": "PT5M",
+  "createdAt": "2022-12-02T16:16:42.546Z",
+  "datePublished": "2016-07-30T20:15:06+00:00",
+  "description": "Easy method for how to make cauliflower rice on the stovetop. Vegan, gluten-free, grain-free and paleo substitute for rice that's great with stir-fries, curries and more. Only 2 ingredients needed!",
+  "image": [
+    "https://yupitsvegan.com/wp-content/uploads/2016/07/how-to-make-cauliflower-rice-stovetop-pan-fried-paleo.jpg"
+  ],
+  "keywords": "basic cauliflower rice, how to make cauliflower rice",
+  "mentions": [
+    {
+      "@id": "https://yupitsvegan.com/tag/high-vegetable/#id",
+      "@type": "http://schema.org/Thing",
+      "description": "In everyday usage, a vegetable is any part of a plant that is consumed by humans as food as part of a savory meal. The term vegetable is somewhat arbitrary, and largely defined through culinary and cultural tradition. It normally excludes other food derived from plants such as fruits, nuts and cereal grains, but includes...",
+      "name": "vegetable",
+      "sameAs": [
+        "http://ko.dbpedia.org/resource/채소",
+        "http://wikidata.dbpedia.org/resource/Q11004",
+        "http://eu.dbpedia.org/resource/Barazki",
+        "http://purl.obolibrary.org/obo/FOODON_00002141",
+        "http://pl.dbpedia.org/resource/Warzywa",
+        "http://fr.dbpedia.org/resource/Légume",
+        "https://en.wikipedia.org/wiki/Vegetable",
+        "http://de.dbpedia.org/resource/Gemüse",
+        "http://el.dbpedia.org/resource/Λαχανικό",
+        "http://rdf.freebase.com/ns/m.0f4s2w",
+        "http://nl.dbpedia.org/resource/Groente",
+        "http://cs.dbpedia.org/resource/Zelenina",
+        "http://es.dbpedia.org/resource/Verdura",
+        "http://www.wikidata.org/entity/Q11004",
+        "http://dbpedia.org/resource/Vegetable",
+        "http://d-nb.info/gnd/4020069-3",
+        "http://it.dbpedia.org/resource/Verdura",
+        "http://ja.dbpedia.org/resource/野菜",
+        "http://id.dbpedia.org/resource/Sayuran",
+        "https://knowledge.cafemedia.com/food/entity/fruit_vegetable"
+      ]
+    }
+  ],
+  "name": "Simple Stovetop Cauliflower Rice",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "125 kcal",
+    "carbohydrateContent": "22 g",
+    "fatContent": "3 g",
+    "fiberContent": "11 g",
+    "proteinContent": "8 g",
+    "servingSize": "1 half recipe",
+    "sodiumContent": "126 mg",
+    "sugarContent": "10 g",
+    "unsaturatedFatContent": "3 g"
+  },
+  "prepTime": "PT5M",
+  "recipeCategory": "Side Dish",
+  "recipeCuisine": "gluten-free",
+  "recipeIngredient": [
+    "1 head of cauliflower (roughly chopped, stem and leaves removed, roughly chopped)",
+    "1 teaspoon olive oil (or other oil of choice)"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Add the cauliflower to a food processor and pulse about 15 to 20 times, or until the size of the cauliflower resembles large grains of rice. It's best to err on the side of larger, as the cauliflower will turn to mush if you over-blend. Remove any larger pieces and discard them or chop them up."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Warm the oil in a large skillet (preferably non-stick) over medium-high heat. Add the pulsed cauliflower rice and cook, stirring occasionally, until the cauliflower rice \"kernels\" are crisp-tender."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Season with salt and pepper if desired, and serve with accompaniments of your choice. Leftovers keep well in the refrigerator."
+    }
+  ],
+  "recipeYield": "2",
+  "sameAs": [
+    "https://yupitsvegan.com/2016/07/30/easy-stovetop-cauliflower-rice"
+  ],
+  "totalTime": "PT10M",
+  "updatedAt": "2022-12-02T18:26:07.141Z"
+}

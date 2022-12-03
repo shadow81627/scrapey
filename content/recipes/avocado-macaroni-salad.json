@@ -1,0 +1,137 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "2",
+    "ratingValue": "5"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Yup, it's Vegan"
+  },
+  "cookTime": "PT15M",
+  "createdAt": "2022-12-02T15:31:54.930Z",
+  "datePublished": "2016-06-14T08:25:23+00:00",
+  "description": "Healthy, refreshing avocado macaroni salad, perfect for summer! Vegan recipe.",
+  "image": [
+    "https://yupitsvegan.com/wp-content/uploads/2016/06/avocado-macaroni-salad-vegan-8.jpg"
+  ],
+  "keywords": "avocado macaroni salad",
+  "mentions": [
+    {
+      "@id": "https://yupitsvegan.com/tag/pasta/#id",
+      "@type": "http://schema.org/Thing",
+      "description": "Pasta (Italian pronunciation: ) is a staple food of traditional Italian cuisine, with the first reference dating to 1154 in Sicily. It is also commonly used to refer to the variety of pasta dishes. Typically, pasta is a noodle made from an unleavened dough of a durum wheat flour mixed with water or eggs and...",
+      "name": "pasta",
+      "sameAs": [
+        "http://el.dbpedia.org/resource/Ζυμαρικό",
+        "http://rdf.freebase.com/ns/m.05z55",
+        "http://ko.dbpedia.org/resource/파스타",
+        "http://pt.dbpedia.org/resource/Massa_alimentícia",
+        "http://it.dbpedia.org/resource/Pasta",
+        "http://es.dbpedia.org/resource/Pasta",
+        "http://pl.dbpedia.org/resource/Makaron",
+        "https://en.wikipedia.org/wiki/Pasta",
+        "http://nl.dbpedia.org/resource/Pasta_(deegwaar)",
+        "http://wikidata.dbpedia.org/resource/Q178",
+        "http://fr.dbpedia.org/resource/Pâtes_alimentaires",
+        "http://www.wikidata.org/entity/Q178",
+        "http://de.dbpedia.org/resource/Pasta",
+        "http://ja.dbpedia.org/resource/パスタ",
+        "http://purl.obolibrary.org/obo/FOODON_03306347",
+        "http://cs.dbpedia.org/resource/Těstoviny",
+        "http://id.dbpedia.org/resource/Pasta",
+        "http://eu.dbpedia.org/resource/Pasta_(orea)",
+        "http://dbpedia.org/resource/Pasta",
+        "https://knowledge.cafemedia.com/food/entity/pasta"
+      ]
+    },
+    {
+      "@id": "https://yupitsvegan.com/category/salad/#id",
+      "@type": "http://schema.org/Thing",
+      "description": "A salad is a dish consisting of small pieces of food, which may be mixed with a sauce or salad dressing. They are typically served cold. Salads can incorporate a variety of foods including vegetables, fruits, cheese, cooked meat, eggs, grains and nuts. Most salads are served cold, although some, such as south German potato...",
+      "name": "salad dressing",
+      "sameAs": [
+        "http://eu.dbpedia.org/resource/Entsalada",
+        "http://www.wikidata.org/entity/Q9266",
+        "http://ja.dbpedia.org/resource/サラダ",
+        "https://en.wikipedia.org/wiki/Salad",
+        "http://de.dbpedia.org/resource/Salat_(Gericht)",
+        "http://el.dbpedia.org/resource/Σαλάτα",
+        "http://es.dbpedia.org/resource/Ensalada",
+        "http://nl.dbpedia.org/resource/Salade",
+        "http://pt.dbpedia.org/resource/Salada",
+        "http://cs.dbpedia.org/resource/Salát_(pokrm)",
+        "http://ko.dbpedia.org/resource/샐러드",
+        "http://rdf.freebase.com/ns/m.0grw1",
+        "http://d-nb.info/gnd/4051351-8",
+        "http://pl.dbpedia.org/resource/Sałatka",
+        "http://fr.dbpedia.org/resource/Salade_(mets)",
+        "http://wikidata.dbpedia.org/resource/Q9266",
+        "http://yago-knowledge.org/resource/Garden_salad",
+        "http://id.dbpedia.org/resource/Selada_(hidangan)",
+        "http://purl.obolibrary.org/obo/FOODON_00001290",
+        "http://dbpedia.org/resource/Salad",
+        "http://it.dbpedia.org/resource/Insalata",
+        "https://knowledge.cafemedia.com/food/entity/salad_dressing"
+      ]
+    }
+  ],
+  "name": "Avocado Macaroni Salad",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "272 kcal",
+    "carbohydrateContent": "50 g",
+    "fatContent": "6 g",
+    "fiberContent": "6 g",
+    "proteinContent": "8 g",
+    "saturatedFatContent": "1 g",
+    "servingSize": "1 cup",
+    "sodiumContent": "29 mg",
+    "sugarContent": "6 g",
+    "unsaturatedFatContent": "5 g"
+  },
+  "prepTime": "PT10M",
+  "recipeCategory": "Salad",
+  "recipeCuisine": "nut-free",
+  "recipeIngredient": [
+    "2 cups dry elbow macaroni",
+    "1/4 cup diced red onion",
+    "1 avocado (well-mashed)",
+    "1 and 1/2 tbsp prepared mustard (I recommend grainy types, which are more flavorful and less pungent than plain yellow mustard)",
+    "1 tsp lemon juice",
+    "1 tsp agave nectar (or 2 teaspoons brown rice syrup)",
+    "salt and pepper (to taste)",
+    "1/3 cup diced celery",
+    "1/3 cup diced red bell pepper",
+    "1 tbsp minced fresh parsley"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Cook the macaroni according to package directions, then rinse it in cold water and drain it."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Use a small bowl to soak the diced red onion in cold water (this helps remove the \"bite\" from it). Let it soak for 5 to 10 minutes."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Meanwhile, whisk together the mashed avocado, mustard, lemon juice, and agave nectar. Season to taste with plenty of salt and pepper."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Drain the red onion and fold it together with the macaroni, avocado mixture, celery, bell pepper, and parsley. Have another taste of everything together and adjust seasoning as needed."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "This avocado macaroni salad is best kept cold and served the same day that it is prepared, due to the tendency of avocado to oxidize. However, I did test out leftovers and personally found it acceptable up to the 48 hour mark."
+    }
+  ],
+  "recipeYield": "4",
+  "sameAs": [
+    "https://yupitsvegan.com/avocado-macaroni-salad"
+  ],
+  "totalTime": "PT25M",
+  "updatedAt": "2022-12-02T15:31:54.929Z"
+}

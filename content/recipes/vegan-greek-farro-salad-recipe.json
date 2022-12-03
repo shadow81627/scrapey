@@ -1,0 +1,83 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "4",
+    "ratingValue": "5"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Sophia DeSantis"
+  },
+  "cookTime": "PT25M",
+  "createdAt": "2022-12-02T09:05:39.958Z",
+  "datePublished": "2022-06-16T10:00:00+00:00",
+  "description": "This vegan Greek farro salad is full of incredible savory flavors and healthy whole food ingredients. The boldness yet simplicity of the salad will keep you coming back for more!",
+  "image": [
+    "https://www.veggiesdontbite.com/wp-content/uploads/2021/01/vegan-greek-farro-salad-recipe-FI.jpg",
+    "https://www.veggiesdontbite.com/wp-content/uploads/2021/01/vegan-greek-farro-salad-recipe-FI-500x500.jpg",
+    "https://www.veggiesdontbite.com/wp-content/uploads/2021/01/vegan-greek-farro-salad-recipe-FI-500x375.jpg",
+    "https://www.veggiesdontbite.com/wp-content/uploads/2021/01/vegan-greek-farro-salad-recipe-FI-480x270.jpg"
+  ],
+  "keywords": "summer salad recipe, vegan salad",
+  "name": "Vegan Greek Farro Salad Recipe",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "314 kcal",
+    "carbohydrateContent": "50 g",
+    "fatContent": "10 g",
+    "fiberContent": "11 g",
+    "proteinContent": "9 g",
+    "saturatedFatContent": "2 g",
+    "servingSize": "1 serving",
+    "sodiumContent": "274 mg",
+    "sugarContent": "3 g"
+  },
+  "prepTime": "PT10M",
+  "recipeCategory": "Main Course",
+  "recipeCuisine": "Greek",
+  "recipeIngredient": [
+    "1 cup farro (, dry (use semi pearled or pearled, see note)",
+    "1/2 cup peperoncini (, chopped (leave out if you don't want any spice)",
+    "1/2 cup Greek olives (, sliced )",
+    "1/2 cup cucumbers (, chopped)",
+    "1/2 cup fresh tomatoes (, chopped)",
+    "1/2 cup red onion (, chopped )",
+    "1/2 cup vegan Feta (, I use my homemade version or you can use store bought)",
+    "2 tablespoons fresh oregano",
+    "drizzle olive oil (, optional or leave out for oil free)"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Begin cooking farro in a medium pot according to package directions (will cook for about 25-30 minutes)."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "As farro is cooking, you can cut all the veggies if you haven't already."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "When farro is done cooking, drain and rinse with cold water."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Transfer to a bowl and add all the other ingredients."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Mix well and enjoy!"
+    }
+  ],
+  "recipeYield": "4",
+  "sameAs": [
+    "https://veggiesdontbite.com/greek-farro-salad"
+  ],
+  "suitableForDiet": [
+    "https://schema.org/GlutenFreeDiet",
+    "https://schema.org/VeganDiet",
+    "https://schema.org/VegetarianDiet"
+  ],
+  "totalTime": "PT35M",
+  "updatedAt": "2022-12-02T09:05:39.957Z"
+}

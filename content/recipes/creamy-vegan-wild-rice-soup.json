@@ -2,206 +2,109 @@
   "@type": "Recipe",
   "aggregateRating": {
     "@type": "AggregateRating",
-    "ratingCount": "6",
+    "ratingCount": "3",
     "ratingValue": "5"
   },
   "author": {
     "@type": "Person",
-    "name": "Yup, it's Vegan"
+    "name": "Sophia DeSantis"
   },
-  "cookTime": "PT40M",
+  "cookTime": "PT25M",
   "createdAt": "2022-12-01T12:31:49.754Z",
-  "datePublished": "2021-10-11T10:29:38+00:00",
-  "description": "This vegan wild rice soup is hearty and flavorful, and gets its richness from a nutritious cashew cream.",
+  "datePublished": "2021-12-23T10:00:00+00:00",
+  "description": "This vegan wild rice soup is so creamy, comforting and delicious you will have no idea that it&#039;s completely dairy and gluten free!",
   "image": [
-    "https://yupitsvegan.com/wp-content/uploads/2014/09/vegan-wild-rice-soup-square.jpg",
-    "https://yupitsvegan.com/wp-content/uploads/2014/09/vegan-wild-rice-soup-square-500x500.jpg",
-    "https://yupitsvegan.com/wp-content/uploads/2014/09/vegan-wild-rice-soup-square-500x375.jpg",
-    "https://yupitsvegan.com/wp-content/uploads/2014/09/vegan-wild-rice-soup-square-480x270.jpg"
+    "https://www.veggiesdontbite.com/wp-content/uploads/2021/12/vegan-wild-rice-soup-28.jpg",
+    "https://www.veggiesdontbite.com/wp-content/uploads/2021/12/vegan-wild-rice-soup-28-500x500.jpg",
+    "https://www.veggiesdontbite.com/wp-content/uploads/2021/12/vegan-wild-rice-soup-28-500x375.jpg",
+    "https://www.veggiesdontbite.com/wp-content/uploads/2021/12/vegan-wild-rice-soup-28-480x270.jpg"
   ],
-  "keywords": "vegan wild rice soup",
-  "mentions": [
-    {
-      "@id": "https://yupitsvegan.com/tag/grains/#id",
-      "@type": "http://schema.org/Thing",
-      "description": "Grains are small, hard, dry seeds, with or without attached hulls or fruit layers, harvested for human or animal consumption. Agronomists also call the plants producing such seeds \"grain crops\". The two main types of commercial grain crops are cereals such as wheat and rye, and legumes such as beans and soybeans. Ubiquity of grain...",
-      "name": "grain",
-      "sameAs": [
-        "https://en.wikipedia.org/wiki/Grain",
-        "http://purl.obolibrary.org/obo/FOODON_03311095",
-        "http://rdf.freebase.com/ns/m.0ch47tv",
-        "http://wikidata.dbpedia.org/resource/Q2995529",
-        "http://www.wikidata.org/entity/Q2995529",
-        "http://dbpedia.org/resource/Grain",
-        "https://knowledge.cafemedia.com/food/entity/grain"
-      ]
-    },
-    {
-      "@id": "https://yupitsvegan.com/tag/legumes/#id",
-      "@type": "http://schema.org/Thing",
-      "description": "A legume (/ˈlɛɡjuːm/ or /ˌləˈɡjuːm/) is a plant or fruit/seed in the family Fabaceae (or Leguminosae). Legumes are grown agriculturally, primarily for their grain seed called pulse, for livestock forage and silage, and as soil-enhancing green manure. Well-known legumes include alfalfa, clover, peas, beans, lentils, lupin bean, mesquite, carob, soybeans, peanuts, and tamarind. Legumes are...",
-      "name": "legume",
-      "sameAs": [
-        "http://el.dbpedia.org/resource/Όσπρια",
-        "http://cs.dbpedia.org/resource/Luštěnina",
-        "https://en.wikipedia.org/wiki/Legume",
-        "http://rdf.freebase.com/ns/m.01sfdb",
-        "http://wikidata.dbpedia.org/resource/Q145909",
-        "http://pt.dbpedia.org/resource/Legume",
-        "http://www.wikidata.org/entity/Q145909",
-        "http://ja.dbpedia.org/resource/豆果",
-        "http://fr.dbpedia.org/resource/Gousse",
-        "http://eu.dbpedia.org/resource/Lekale",
-        "http://dbpedia.org/resource/Legume",
-        "http://es.dbpedia.org/resource/Legumbre",
-        "http://yago-knowledge.org/resource/Pulse_(legume)",
-        "http://pl.dbpedia.org/resource/Rośliny_strączkowe",
-        "http://purl.obolibrary.org/obo/FOODON_00001264",
-        "http://nl.dbpedia.org/resource/Peul_(vrucht)",
-        "http://de.dbpedia.org/resource/Hülsenfrucht",
-        "http://it.dbpedia.org/resource/Baccello",
-        "http://d-nb.info/gnd/4020803-5",
-        "http://rdf.freebase.com/ns/m.0bqsk",
-        "https://knowledge.cafemedia.com/food/entity/legume"
-      ]
-    },
-    {
-      "@id": "https://yupitsvegan.com/tag/nuts-and-seeds/#id",
-      "@type": "http://schema.org/Thing",
-      "description": "A nut is a fruit composed of a hard shell and a seed, which is generally edible. In a general context, however, a wide variety of dried seeds are called nuts, but in a botanical context, there is an additional requirement that the shell does not open to release the seed (indehiscent). The translation of...",
-      "name": "tree nut",
-      "sameAs": [
-        "http://wikidata.dbpedia.org/resource/Q11009",
-        "http://pl.dbpedia.org/resource/Orzechy_(bakalie)",
-        "http://www.wikidata.org/entity/Q11009",
-        "http://id.dbpedia.org/resource/Buah_geluk",
-        "http://nl.dbpedia.org/resource/Noot_(plantaardig)",
-        "http://d-nb.info/gnd/4042827-8",
-        "http://fr.dbpedia.org/resource/Fruit_à_coque",
-        "http://rdf.freebase.com/ns/m.01lbxg",
-        "http://dbpedia.org/resource/Nut_(fruit)",
-        "http://ja.dbpedia.org/resource/種実類",
-        "http://yago-knowledge.org/resource/Nut_(fruit)",
-        "http://purl.obolibrary.org/obo/FOODON_03301354",
-        "http://pt.dbpedia.org/resource/Noz",
-        "http://cs.dbpedia.org/resource/Oříšek",
-        "http://ko.dbpedia.org/resource/견과",
-        "http://de.dbpedia.org/resource/Nussfrucht",
-        "https://en.wikipedia.org/wiki/Nut_(fruit)",
-        "http://es.dbpedia.org/resource/Nuez_(fruto)",
-        "http://el.dbpedia.org/resource/Κάρυο_(βοτανική)",
-        "https://knowledge.cafemedia.com/food/entity/tree_nut"
-      ]
-    },
-    {
-      "@id": "https://yupitsvegan.com/category/soup/#id",
-      "@type": "http://schema.org/Thing",
-      "description": "From creamy chowders, to spicy tortilla soup, to Asian-inspired noodle soup, every plant-based and vegan soup you could ever want in one place!",
-      "name": "soup",
-      "sameAs": [
-        "http://ko.dbpedia.org/resource/수프",
-        "http://d-nb.info/gnd/4058643-1",
-        "http://eu.dbpedia.org/resource/Zopa",
-        "http://pl.dbpedia.org/resource/Zupa",
-        "http://www.wikidata.org/entity/Q41415",
-        "http://de.dbpedia.org/resource/Suppe",
-        "http://purl.obolibrary.org/obo/FOODON_03304925",
-        "http://id.dbpedia.org/resource/Sup",
-        "http://dbpedia.org/resource/Soup",
-        "http://es.dbpedia.org/resource/Sopa",
-        "http://ja.dbpedia.org/resource/スープ",
-        "http://yago-knowledge.org/resource/Cold_Soup",
-        "http://wikidata.dbpedia.org/resource/Q41415",
-        "https://en.wikipedia.org/wiki/Soup",
-        "http://it.dbpedia.org/resource/Minestra",
-        "http://el.dbpedia.org/resource/Σούπα",
-        "http://cs.dbpedia.org/resource/Polévka",
-        "http://rdf.freebase.com/ns/m.01z1m1x",
-        "http://fr.dbpedia.org/resource/Soupe",
-        "http://nl.dbpedia.org/resource/Soep_(voedsel)",
-        "http://pt.dbpedia.org/resource/Sopa",
-        "https://knowledge.cafemedia.com/food/entity/soup"
-      ]
-    }
-  ],
+  "keywords": "hearty healthy soup, winter soup with vegetables",
   "name": "Creamy Vegan Wild Rice Soup",
   "nutrition": {
     "@type": "NutritionInformation",
-    "calories": "376 kcal",
-    "carbohydrateContent": "55 g",
-    "fatContent": "11 g",
-    "fiberContent": "9 g",
-    "proteinContent": "16 g",
-    "saturatedFatContent": "2 g",
-    "servingSize": "1 bowl",
-    "sodiumContent": "248 mg",
-    "sugarContent": "6 g",
-    "unsaturatedFatContent": "8 g"
+    "calories": "310 kcal",
+    "carbohydrateContent": "36 g",
+    "cholesterolContent": "1 mg",
+    "fatContent": "15 g",
+    "fiberContent": "4 g",
+    "proteinContent": "11 g",
+    "saturatedFatContent": "3 g",
+    "servingSize": "1 serving",
+    "sodiumContent": "554 mg",
+    "sugarContent": "7 g",
+    "transFatContent": "1 g",
+    "unsaturatedFatContent": "11 g"
   },
   "prepTime": "PT15M",
   "recipeCategory": "Main Course",
-  "recipeCuisine": "gluten-free",
+  "recipeCuisine": "American",
   "recipeIngredient": [
-    "3/4 cup raw cashews (soaked for 2 hours to overnight)",
-    "1 small potato (cooked)",
-    "3 tbsp nutritional yeast",
-    "1 tbsp white or yellow miso",
-    "1 and 1/2 cups cooked white beans (rinsed and drained (equal to 1 standard can)",
-    "1 tbsp olive oil",
-    "1 yellow onion (diced)",
-    "3 cloves garlic (minced)",
-    "1 rib celery (diced)",
-    "1/2 cup wild rice (soaked for 2 hours to overnight)",
-    "1/2 cup brown rice (soaked for 2 hours to overnight)",
-    "1/4 cup white wine (optional)",
-    "4 cup low-sodium vegetable broth",
-    "2 tsp vinegar or lemon juice",
-    "1/4 tsp freshly-ground black pepper",
-    "salt (to taste)",
-    "fresh parsley and soup crackers (optional, for serving)"
+    "1/2 - 3/4 cup dry wild rice (, see note)",
+    "1 cup chopped sweet or yellow onion",
+    "1-1 1/2 teaspoons sea salt (, adjust for your preference)",
+    "Drizzle of oil or broth to sauté",
+    "3 medium cloves garlic (, chopped)",
+    "1 cup chopped red or Yukon gold potatoes (, or other type you prefer (about 1 medium potato or 1/3 pound)",
+    "7-8 cups veggie broth (, low sodium if needed)",
+    "1/2 - 1 cup raw cashews (, see note)",
+    "2 cups sliced button mushrooms (, crimini work best but white work too (about 1/2 pound)",
+    "1 cup chopped carrots",
+    "1 cup chopped celery",
+    "1-2 tablespoons fresh thyme (, add more if you prefer)",
+    "1-2 cups sliced kale (, chard or spinach, optional)"
   ],
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "text": "Before making the rcipe, soak the cashews in a bowl of water. In another bowl, soak the brown and wild rice. Soaking the cashews softens them so they can blend to a smooth consistency, and soaking the rice helps it cook more quickly. Leave the bowls soaking for 2 hours to overnight."
+      "text": "Cook rice according to package directions."
     },
     {
       "@type": "HowToStep",
-      "text": "In a blender or food processor, combine the cashews, cooked potato (feel free to leave the skin on), miso, nutritional yeast, and white beans until completely smooth, stopping to scrape down the sides as needed. This may take a few minutes. Add water as needed to blend."
+      "text": "Meanwhile, sauté 1/2 cup of the onions and 1/2 the salt with oil or broth until just soft. About 3-5 minutes."
     },
     {
       "@type": "HowToStep",
-      "text": "In a large saucepan, heat the oil over medium heat. Add the onion, garlic, and celery, along with a sprinkle of salt, and stir. Continue cooking until softened, about 3 minutes."
+      "text": "Add the garlic and potatoes and sauté for 1-2 minutes until garlic is fragrant."
     },
     {
       "@type": "HowToStep",
-      "text": "Add the wild rice and brown rice and stir. Cook for another 1-2 minutes. Stir in the white wine if using, and cook for a couple of minutes or until starting to dry out."
+      "text": "Add 3 cups of the broth, cover and simmer until the potatoes are soft. About 7-8 minutes."
     },
     {
       "@type": "HowToStep",
-      "text": "Add the vegetable broth, and bring the mixture to a boil. Cover the pot, reduce to a simmer, and cook while stirring occasionally, until the rice is nearly tender (15-30 minutes, depending on how long you soaked the rice for and your rice chewiness preference)."
+      "text": "Slowly add potato mix into a blender with the cashews, being careful not to burn yourself because it is hot. Blend until smooth."
     },
     {
       "@type": "HowToStep",
-      "text": "Stir in the cashew cream mixture. If you're not using a high-speed blender, you can pour the mixture into a mesh sieve first, using a spatula to push it through, to get rid of any lumps."
+      "text": "Meanwhile, saute the mushrooms, carrots, celery, rest of the salt, thyme and other 1/2 cup of the onions with a drizzle of oil (or broth) until the mushrooms have released their liquid and all veggies are softened. About 8-10 minutes."
     },
     {
       "@type": "HowToStep",
-      "text": "Simmer the soup on low until the mixture is heated through and the rice is fully cooked to your liking. Add water or broth to thin out the soup if desired. Add the vinegar and black pepper."
+      "text": "Add the blended soup back into the pot with the rest of the broth and mix well. Add more broth if you prefer a thinner texture."
     },
     {
       "@type": "HowToStep",
-      "text": "Season the soup to taste with salt. For me, this soup needs plenty of salt because it's so rich."
+      "text": "Bring to a simmer. Add in the greens if using. Then mix in the cooked rice."
     },
     {
       "@type": "HowToStep",
-      "text": "Serve hot, with fresh parsley and crackers if desired."
+      "text": "Taste and add more salt if needed."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "After the greens have wilted, serve!"
     }
   ],
-  "recipeYield": "4",
+  "recipeYield": "6",
   "sameAs": [
-    "https://yupitsvegan.com/creamy-vegan-wild-rice-soup"
+    "https://veggiesdontbite.com/creamy-vegan-wild-rice-soup"
   ],
-  "totalTime": "PT175M",
-  "updatedAt": "2022-12-01T12:31:49.750Z"
+  "suitableForDiet": [
+    "https://schema.org/GlutenFreeDiet",
+    "https://schema.org/VeganDiet",
+    "https://schema.org/VegetarianDiet"
+  ],
+  "totalTime": "PT40M",
+  "updatedAt": "2022-12-02T15:26:45.639Z"
 }

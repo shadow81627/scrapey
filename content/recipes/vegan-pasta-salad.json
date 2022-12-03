@@ -1,0 +1,79 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1",
+    "ratingValue": "5"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Sarah McMinn"
+  },
+  "cookTime": "PT10M",
+  "createdAt": "2022-12-02T12:12:47.155Z",
+  "datePublished": "2018-06-25T07:00:47+00:00",
+  "description": "An easy Vegan Pasta Salad with olives, cherry tomatoes, and red onions all tossed in a Red Wine Vinaigrette for a quick and simple 20-minute meal.&nbsp;",
+  "image": [
+    "https://www.mydarlingvegan.com/wp-content/uploads/2018/05/PastaSalad4.jpg",
+    "https://www.mydarlingvegan.com/wp-content/uploads/2018/05/PastaSalad4-500x500.jpg",
+    "https://www.mydarlingvegan.com/wp-content/uploads/2018/05/PastaSalad4-500x375.jpg",
+    "https://www.mydarlingvegan.com/wp-content/uploads/2018/05/PastaSalad4-480x270.jpg"
+  ],
+  "keywords": "Vegan Pasta Salad",
+  "name": "Vegan Pasta Salad",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "347 kcal",
+    "carbohydrateContent": "47 g",
+    "fatContent": "13 g",
+    "fiberContent": "2 g",
+    "proteinContent": "8 g",
+    "saturatedFatContent": "2 g",
+    "servingSize": "1 serving",
+    "sodiumContent": "276 mg",
+    "sugarContent": "3 g"
+  },
+  "prepTime": "PT10M",
+  "recipeCategory": "Salad",
+  "recipeCuisine": "Vegan",
+  "recipeIngredient": [
+    "12 ounces Fusilli Pasta",
+    "1 cup cherry tomatoes, (halved)",
+    "1/2 cup black olives, (halved)",
+    "1/4 cup red onions, (thinly sliced)",
+    "1/2 cup vegan mozzarella, (cubed)",
+    "2 tbsp fresh Italian Parsley, (minced)",
+    "1/4 cup extra virgin olive oil",
+    "2 tbsp red wine vinegar",
+    "1 tsp maple syrup",
+    "salt and pepper, (to taste)"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Cook the pasta according to package instructions."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "In a small blender, combine the olive oil, red wine vinegar, maple syrup, and salt and pepper. Blend until the olive oil is well incorporated and set aside."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "When pasta is al dente, strain the pasta through a colander and rinse with cold water until the pasta has cooled."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Transfer to a salad bowl and immediately toss pasta with red wine vinaigrette to avoid pasta from clumping together. Add remaining ingredients and stir to combine."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Serve immediately or store in an airtight container in the refrigerator until ready to serve."
+    }
+  ],
+  "recipeYield": "6",
+  "sameAs": [
+    "https://mydarlingvegan.com/vegan-pasta-salad"
+  ],
+  "totalTime": "PT20M",
+  "updatedAt": "2022-12-02T12:12:47.154Z"
+}

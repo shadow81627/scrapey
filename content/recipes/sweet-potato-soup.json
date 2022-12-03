@@ -2,106 +2,157 @@
   "@type": "Recipe",
   "aggregateRating": {
     "@type": "AggregateRating",
-    "ratingCount": "2",
-    "ratingValue": "5"
+    "ratingCount": 1,
+    "ratingValue": 5
   },
-  "author": {
-    "@type": "Person",
-    "name": "Alissa Saenz"
+  "articleSection": "Recipes",
+  "brand": {
+    "@type": "Thing",
+    "name": "The Kitchn"
   },
-  "cookTime": "PT30M",
+  "cookTime": "PT75S",
   "createdAt": "2022-11-29T13:20:22.000Z",
-  "datePublished": "2021-03-08T09:19:21+00:00",
-  "description": "This cozy sweet potato soup is easy to make and oh-so-comforting! Bursting with flavor, it&#039;s delicious for lunch or dinner and perfect with a big piece of crusty bread.",
+  "creator": {
+    "@type": "Person",
+    "name": "Kayla Hoang"
+  },
+  "dateCreated": "2022-08-26T15:30:00-04:00",
+  "dateModified": "2022-08-26T07:42:46-04:00",
+  "datePublished": "2022-08-26T15:30:00-04:00",
+  "description": "This blended soup is velvety and deep from the backbone of roasted sweet potato, warm from the addition of cinnamon and garam masala, and gently spiced with fresh ginger and crushed red pepper.",
+  "headline": "Sweet Potato Soup",
+  "HowtoTip": {
+    "text": "Dairy-free substitutes: For a dairy-free version, unsweetened coconut cream can be substituted for the heavy cream and more olive oil for the butter.Make ahead: The sweet potatoes can be roasted up to 1 day in advance, cooled, and refrigerated in an airtight container.Storage: Leftovers can be refrigerated in an airtight container for up to 5 days. Thin out with more broth if needed when reheating."
+  },
   "image": [
-    "https://www.connoisseurusveg.com/wp-content/uploads/2021/07/sweet-potato-soup-sq.jpg",
-    "https://www.connoisseurusveg.com/wp-content/uploads/2021/07/sweet-potato-soup-sq-500x500.jpg",
-    "https://www.connoisseurusveg.com/wp-content/uploads/2021/07/sweet-potato-soup-sq-500x375.jpg",
-    "https://www.connoisseurusveg.com/wp-content/uploads/2021/07/sweet-potato-soup-sq-480x270.jpg"
+    {
+      "@type": "ImageObject",
+      "url": "https://cdn.apartmenttherapy.info/image/upload/f_jpg,q_auto:eco,c_fill,g_auto,w_1500,ar_16:9/k%2FPhoto%2FRecipe%20Ramp%20Up%2F2022-08-Sweet-Potato-Soup%2Fsweet_potato_soup-in_bowl-with_toasted_bread"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "https://cdn.apartmenttherapy.info/image/upload/f_jpg,q_auto:eco,c_fill,g_auto,w_1500,ar_4:3/k%2FPhoto%2FRecipe%20Ramp%20Up%2F2022-08-Sweet-Potato-Soup%2Fsweet_potato_soup-in_bowl-with_toasted_bread"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "https://cdn.apartmenttherapy.info/image/upload/f_jpg,q_auto:eco,c_fill,g_auto,w_1500,ar_1:1/k%2FPhoto%2FRecipe%20Ramp%20Up%2F2022-08-Sweet-Potato-Soup%2Fsweet_potato_soup-in_bowl-with_toasted_bread"
+    }
   ],
-  "keywords": "gluten-free soup, vegan soup recipe",
+  "keywords": [
+    "recipe",
+    "recipe library",
+    "vegetarian",
+    "Gluten-Free",
+    "Root Vegetables",
+    "pantry",
+    "potatoes",
+    "vegetables",
+    "dairy",
+    "autumn",
+    "Main Dish",
+    "appetizer",
+    "Make Ahead",
+    "soup",
+    "Keeps Well",
+    "dinner",
+    "lunch",
+    "team:food",
+    "platform:search",
+    "course:main dish",
+    "course:appetizer",
+    "lifestyle:leftover-friendly",
+    "dishtype:soup",
+    "timing:make-ahead",
+    "occasion:autumn",
+    "mainingredients:vegetable",
+    "mainingredients:potatoes",
+    "mainingredients:sweet potatoes",
+    "mainingredients:dairy",
+    "mainingredients:pantry",
+    "method:cooking vessel",
+    "method:dutch oven",
+    "diet:vegetarian",
+    "diet:gluten-free",
+    "meal:lunch",
+    "meal:dinner"
+  ],
   "name": "Sweet Potato Soup",
   "nutrition": {
     "@type": "NutritionInformation",
-    "calories": "279 kcal",
-    "carbohydrateContent": "36.7 g",
-    "fatContent": "13 g",
-    "fiberContent": "6.2 g",
-    "proteinContent": "6.3 g",
-    "saturatedFatContent": "9.1 g",
-    "servingSize": "1.5 cups",
-    "sodiumContent": "403 mg",
-    "sugarContent": "14.2 g"
+    "calories": "309 cal",
+    "carbohydrateContent": "42.0 g",
+    "cholesterolContent": "0 mg",
+    "fatContent": "13.0 g",
+    "fiberContent": "5.4 g",
+    "proteinContent": "7.4 g",
+    "saturatedFatContent": "4.8 g",
+    "servingSize": "Serves 6",
+    "sodiumContent": "843.7 mg",
+    "sugarContent": "10.1 g",
+    "unsaturatedFatContent": "0.0 g"
   },
-  "prepTime": "PT15M",
-  "recipeCategory": "Soup",
-  "recipeCuisine": "African-Inspired",
+  "prepTime": "PT25S",
+  "publisher": {
+    "@type": "Organization",
+    "logo": {
+      "@type": "ImageObject",
+      "height": 46,
+      "url": "https://www.thekitchn.com/static/logos/publisher-logo.png",
+      "width": 180
+    },
+    "name": "Apartment Therapy, LLC."
+  },
+  "recipeCategory": "Main dish",
+  "recipeCuisine": [],
   "recipeIngredient": [
-    "1 tablespoon olive oil (or high-heat oil of choice)",
-    "1 medium onion, (diced)",
-    "3 garlic cloves, (minced)",
-    "1 tablespoon freshly grated ginger",
-    "1 1/2 teaspoons ground cinnamon",
-    "1 teaspoon ground cumin",
-    "1/4 teaspoon ground cardamom",
-    "Pinch cayenne pepper (or to taste)",
-    "2 pounds sweet potatoes (about 2 to 3 large sweet potatoes), peeled and cut into 1-inch pieces)",
-    "3 cups vegetable broth",
-    "1 cup orange juice",
-    "1 cup full-fat coconut milk",
-    "Salt and pepper, (to taste)",
-    "Toppings of choice, such as coconut milk, chopped peanuts, and cilantro or parsley"
+    "2 pounds sweet potatoes (about 2 large)",
+    "2 tablespoons plus 1 teaspoon olive oil, divided",
+    "2 teaspoons kosher salt, divided",
+    "1 teaspoon freshly ground black pepper, divided",
+    "1 medium yellow onion",
+    "6 large cloves garlic",
+    "1 (4-inch) piece ginger",
+    "1 tablespoon unsalted butter",
+    "Pinch red pepper flakes, plus more as needed (optional)",
+    "1/2 teaspoon garam masala",
+    "1/2 cinnamon stick",
+    "1 (32-ounce) carton low-sodium vegetable or chicken broth (about 4 cups)",
+    "1/4 cup heavy cream, plus more for serving",
+    "Toasted bread, for serving (optional)"
   ],
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "text": "Coat the bottom of a large pot with the oil and place it over medium heat."
+      "text": "Arrange a rack in the middle of the oven and heat the oven to 425°F."
     },
     {
       "@type": "HowToStep",
-      "text": "Give the oil a minute to heat up, then add the onion. Sweat the onion for about 5 minutes, stirring occasionally, until it becomes soft and translucent."
+      "text": "Halve 2 pounds sweet potatoes lengthwise and place on a rimmed baking sheet. Drizzle with 4 teaspoons of the olive oil and season with 1/2 teaspoon of the kosher salt, and 1/4 teaspoon of the black pepper. Toss to coat, then arrange in a single layer cut-side down."
     },
     {
       "@type": "HowToStep",
-      "text": "Stir in the garlic, ginger, cinnamon, cumin, and cayenne pepper. Continue cooking and stirring everything for about 1 minute, until very fragrant."
+      "text": "Roast until the potatoes are fork tender, 25 to 35 minutes. Meanwhile, cook the aromatics. Thinly slice 1 medium yellow onion (about 2 cups). Finely chop 6 large garlic cloves (about 2 tablespoons). Peel and finely grate 1 (4-inch) piece fresh ginger until you have 2 tablespoons."
     },
     {
       "@type": "HowToStep",
-      "text": "Stir in the sweet potato, broth, and orange juice. Raise the heat and bring the liquid to a boil."
+      "text": "Heat the remaining 1 tablespoon of olive oil and 1 tablespoon unsalted butter in a large Dutch oven or pot over medium heat until the butter is melted. Add the onion, 1 teaspoon of the kosher salt, and 1/2 teaspoon black pepper. Cook, stirring often, until softened, 5 to 8 minutes. Add the garlic, ginger, a pinch of red pepper flakes if using, and 1/2 teaspoon garam masala. Cook, stirring constantly, until fragrant and the garam masala is slightly toasted, about 2 minutes more. Remove the pot from the heat."
     },
     {
       "@type": "HowToStep",
-      "text": "Lower the heat and allow the soup to simmer for about 20 minutes, stirring occasionally, until the sweet potatoes are very soft."
+      "text": "Use a spoon to scoop the flesh of the sweet potatoes into the pot; discard the skins. Add 1/2 cinnamon stick, 1 (32-ounce) carton low-sodium vegetable or chicken broth, the remaining 1/2 teaspoon kosher salt, and remaining 1/4 teaspoon black pepper. Stir to combine and bring to a boil over high heat. Reduce the heat to maintain a simmer, cover, and cook until the sweet potatoes and aromatics are very soft and the flavors meld, 15 to 20 minutes."
     },
     {
       "@type": "HowToStep",
-      "text": "Remove the pot from heat."
-    },
-    {
-      "@type": "HowToStep",
-      "text": "Blend the soup until smooth, either using an immersion blender or by transferring it in batches to a food processor or blender."
-    },
-    {
-      "@type": "HowToStep",
-      "text": "Return the soup to the pot if you used a food processor or blender, then stir in the coconut milk."
-    },
-    {
-      "@type": "HowToStep",
-      "text": "Place the pot back over medium heat and cook the soup for a few minutes, stirring occasionally, just to heat it back up."
-    },
-    {
-      "@type": "HowToStep",
-      "text": "Remove the pot from heat and season the soup with salt and pepper to taste."
-    },
-    {
-      "@type": "HowToStep",
-      "text": "Ladle the soup into bowls and top with toppings of choice. Serve."
+      "text": "Remove the pot from the heat. Remove and discard the cinnamon stick. Add 1/4 cup heavy cream and stir to combine. Working in batches as needed, transfer the soup to a blender and blend until smooth and creamy, 2 to 4 minutes per batch. Transfer the blended soup back to the pot. (Alternatively, blend directly in the pot with an immersion blender.) Rewarm the soup over medium-low heat if needed. Serve topped with a drizzle of heavy cream and toasted bread on the side if desired."
     }
   ],
-  "recipeYield": "6",
+  "recipeYield": 6,
   "sameAs": [
-    "https://connoisseurusveg.com/sweet-potato-soup"
+    "https://thekitchn.com/sweet-potato-soup-recipe-23409127"
   ],
-  "totalTime": "PT45M",
-  "updatedAt": "2022-11-29T12:13:50.278Z"
+  "suitableforDiet": "https://schema.org/GlutenFreeDiet,https://schema.org/VegetarianDiet",
+  "thumbnailUrl": "https://cdn.apartmenttherapy.info/image/upload/f_auto,q_auto:eco,c_fill,g_auto,w_1500,ar_3:2/k%2FPhoto%2FRecipe%20Ramp%20Up%2F2022-08-Sweet-Potato-Soup%2Fsweet_potato_soup-in_bowl-with_toasted_bread",
+  "totalTime": "PT100S",
+  "updatedAt": "2022-12-03T11:33:35.573Z",
+  "url": "https://www.thekitchn.com/sweet-potato-soup-recipe-23409127"
 }

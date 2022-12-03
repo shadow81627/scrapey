@@ -1,0 +1,77 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "5",
+    "reviewCount": "1"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "She Likes Food"
+  },
+  "cookTime": "PT20M",
+  "createdAt": "2022-12-03T07:19:30.093Z",
+  "datePublished": "2017-04-10",
+  "image": [
+    "https://www.shelikesfood.com/wp-content/uploads/2017/04/Easy-One-Pot-Pasta-Primavera-0629-225x225.jpg",
+    "https://www.shelikesfood.com/wp-content/uploads/2017/04/Easy-One-Pot-Pasta-Primavera-0629-260x195.jpg",
+    "https://www.shelikesfood.com/wp-content/uploads/2017/04/Easy-One-Pot-Pasta-Primavera-0629-320x180.jpg",
+    "https://www.shelikesfood.com/wp-content/uploads/2017/04/Easy-One-Pot-Pasta-Primavera-0629.jpg"
+  ],
+  "name": "Easy One-Pot Pasta Primavera + Recipe Video",
+  "prepTime": "PT15M",
+  "recipeCategory": "Dinner",
+  "recipeIngredient": [
+    "3/4 cup small broccoli florets",
+    "3/4 cup small diced asparagus",
+    "3/4 cup shredded carrots",
+    "3/4 cup peas, frozen or thawed",
+    "3/4 cup small diced red bell pepper",
+    "1 clove garlic, minced",
+    "1 teaspoon olive oil",
+    "2 cups milk, any kind will work",
+    "3 cups water",
+    "4 cups uncooked pasta, your favorite kind",
+    "2 cups grated parmesan",
+    "Salt",
+    "Chopped parsley for garnish, if desired"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Heat a large pot over medium heat and add in olive oil, all the vegetables and a pinch of salt. Cook vegetables for 3 minutes and then add the minced garlic and cook for another 2 minutes."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add the milk and water to the pot and bring to a boil. Keep a close eye on the pot because milk can scald and boil over quickly if too high of heat."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Once mixture is boiling, add the pasta, stir everything together and cover. Let mixture cook until most of the liquid has been absorbed and pasta is cooked, about 15 minutes, stirring occasionally."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Remove the lid and stir in the Parmesan cheese. Garnish with chopped parsley, if desired."
+    }
+  ],
+  "recipeYield": "4",
+  "sameAs": [
+    "https://shelikesfood.com/easy-one-pot-pasta-primavera-recipe-video"
+  ],
+  "totalTime": "PT35M",
+  "updatedAt": "2022-12-03T07:19:30.092Z",
+  "url": "https://www.shelikesfood.com/easy-one-pot-pasta-primavera-recipe-video/",
+  "video": {
+    "@context": "http://schema.org",
+    "@type": "VideoObject",
+    "contentUrl": "https://www.youtube.com/watch?v=53VpRmzqSVE",
+    "description": "Learn how to make Easy One Pot Pasta Primavera from scratch!  You only need one pot to make this delicious vegetarian dinner!",
+    "duration": "PT1M",
+    "embedUrl": "https://www.youtube.com/embed/53VpRmzqSVE?feature=oembed",
+    "name": "EASY ONE POT PASTA PRIMAVERA",
+    "thumbnailUrl": [
+      "https://i.ytimg.com/vi/53VpRmzqSVE/hqdefault.jpg"
+    ],
+    "uploadDate": "2017-04-10"
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1",
+    "ratingValue": "5"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Sarah McMinn"
+  },
+  "createdAt": "2022-12-02T14:29:21.626Z",
+  "datePublished": "2021-07-29T06:41:35+00:00",
+  "description": "This vegan taco meat is packed with flavor and protein! Prepared in less than 20 minutes, this tempeh taco meat is made with a yummy homemade taco seasoning and is great for tacos, burritos bowls, and so much more!",
+  "image": [
+    "https://www.mydarlingvegan.com/wp-content/uploads/2021/07/Vegan-Taco-Meat-3.jpg",
+    "https://www.mydarlingvegan.com/wp-content/uploads/2021/07/Vegan-Taco-Meat-3-500x500.jpg",
+    "https://www.mydarlingvegan.com/wp-content/uploads/2021/07/Vegan-Taco-Meat-3-500x375.jpg",
+    "https://www.mydarlingvegan.com/wp-content/uploads/2021/07/Vegan-Taco-Meat-3-480x270.jpg"
+  ],
+  "keywords": "veggie taco meat, vegan taco meat seasoning, crispy tempeh tacos, tempeh taco bowl",
+  "name": "Vegan Taco Meat",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "157 kcal",
+    "carbohydrateContent": "8 g",
+    "fatContent": "10 g",
+    "fiberContent": "1 g",
+    "proteinContent": "11 g",
+    "saturatedFatContent": "2 g",
+    "servingSize": "1 serving",
+    "sodiumContent": "225 mg",
+    "sugarContent": "1 g",
+    "unsaturatedFatContent": "7 g"
+  },
+  "prepTime": "PT10M",
+  "recipeCategory": "Main Course",
+  "recipeCuisine": "Mexican",
+  "recipeIngredient": [
+    "8 ounces tempeh",
+    "1 tablespoon olive oil",
+    "1 tablespoon soy or tamari sauce",
+    "2 tablespoon tomato paste",
+    "2 tablespoon water",
+    "1 tablespoon cumin",
+    "1 teaspoon chili powder",
+    "1 teaspoon garlic powder",
+    "1/2 teaspoon smoked paprika",
+    "1/4 - 1/2 teaspoon salt"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Add 1 tablespoon of olive oil in a non-stick pan and heat over medium heat."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Crumble the block of tempeh with your hands into small pieces and add to the heated pan. Saute stirring frequently until the tempeh starts to golden-brown."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add tomato paste, water, and all the spices. Stir well to evenly coat the tempeh crumbles. Cook for another 5 minutes, until everything is well incorporated and hot. Remove from heat and taste and adjust seasonings."
+    }
+  ],
+  "recipeYield": "4",
+  "sameAs": [
+    "https://mydarlingvegan.com/vegan-taco-meat"
+  ],
+  "suitableForDiet": [
+    "https://schema.org/GlutenFreeDiet",
+    "https://schema.org/VeganDiet",
+    "https://schema.org/VegetarianDiet"
+  ],
+  "totalTime": "PT10M",
+  "updatedAt": "2022-12-02T14:29:21.625Z"
+}

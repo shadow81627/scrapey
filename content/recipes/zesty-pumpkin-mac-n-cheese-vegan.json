@@ -1,0 +1,89 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "reviewCount": "6"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "She Likes Food"
+  },
+  "cookTime": "PT15M",
+  "createdAt": "2022-12-03T07:01:35.994Z",
+  "datePublished": "2017-08-31",
+  "description": "A delicious and seasonal vegan Mac n' cheese recipe with a little bit of kick!",
+  "image": [
+    "https://www.shelikesfood.com/wp-content/uploads/2017/08/newZesty-Pumpkin-Mac-N-Cheese-Vegan-8919-225x225.jpg",
+    "https://www.shelikesfood.com/wp-content/uploads/2017/08/newZesty-Pumpkin-Mac-N-Cheese-Vegan-8919-260x195.jpg",
+    "https://www.shelikesfood.com/wp-content/uploads/2017/08/newZesty-Pumpkin-Mac-N-Cheese-Vegan-8919-320x180.jpg",
+    "https://www.shelikesfood.com/wp-content/uploads/2017/08/newZesty-Pumpkin-Mac-N-Cheese-Vegan-8919.jpg"
+  ],
+  "name": "Zesty Pumpkin Mac N' Cheese {Vegan}",
+  "nutrition": {
+    "@type": "nutritionInformation",
+    "calories": "199 calories",
+    "carbohydrateContent": "32 g",
+    "cholesterolContent": "0 mg",
+    "fatContent": "5 g",
+    "fiberContent": "5 g",
+    "proteinContent": "9 g",
+    "saturatedFatContent": "1 g",
+    "servingSize": "1/6 of the pasta",
+    "sodiumContent": "348 mg",
+    "sugarContent": "3 g"
+  },
+  "prepTime": "PT15M",
+  "recipeCategory": "Dinner",
+  "recipeIngredient": [
+    "1 pound pasta, your favorite kind",
+    "1/2 cup cashews, soaked in water overnight or boiled for 30 minutes",
+    "1 cup pumpkin puree",
+    "1 cup plain, un-sweetened almond milk",
+    "3 tablespoons nutritional yeast",
+    "1 1/2 teaspoons ground cumin",
+    "1 teaspoon chili powder",
+    "1 teaspoon paprika",
+    "1 teaspoon salt",
+    "1/2 teaspoon garlic powder",
+    "1/4 teaspoon black pepper",
+    "1/4 teaspoon onion powder"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Bring a large pot of water to a boil and cook pasta according to package directions."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "While pasta is cooking, add all remaining ingredients to a high powered blender and blend for 1 minute, or until smooth."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Once pasta is finished cooking, drain, add back to the pot and mix in the cheese sauce."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Best when served immediately. Garnish with fresh herbs, if desired."
+    }
+  ],
+  "recipeYield": "6",
+  "sameAs": [
+    "https://shelikesfood.com/zesty-pumpkin-mac-n-cheese-vegan"
+  ],
+  "totalTime": "PT30M",
+  "updatedAt": "2022-12-03T07:01:35.992Z",
+  "url": "https://www.shelikesfood.com/zesty-pumpkin-mac-n-cheese-vegan/",
+  "video": {
+    "@context": "http://schema.org",
+    "@type": "VideoObject",
+    "contentUrl": "https://www.youtube.com/watch?v=uuLV7r55XsE",
+    "description": "Learn how to make this delicious Vegan Zesty Pumpkin Mac N' Cheese!  It only takes about 20 minutes and is so comforting and flavorful!  Get the full recipe here:https://www.shelikesfood.com/1/post/2017/08/zesty-pumpkin-mac-n-cheese-vegan.html",
+    "embedUrl": "https://www.youtube.com/embed/uuLV7r55XsE?feature=oembed",
+    "name": "Zesty Pumpkin Mac N Cheese",
+    "thumbnailUrl": [
+      "https://i.ytimg.com/vi/uuLV7r55XsE/hqdefault.jpg"
+    ],
+    "uploadDate": "2017-09-02"
+  }
+}

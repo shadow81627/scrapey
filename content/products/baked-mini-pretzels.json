@@ -1,0 +1,66 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Wheat Flour, Glucose, Salt, Vegetable Oil."
+    },
+    {
+      "name": "Contains",
+      "value": "Gluten."
+    },
+    {
+      "name": "Allergen",
+      "value": "Contains Gluten, Contains Wheat"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "7.5"
+    },
+    {
+      "name": "Size",
+      "value": "225g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.33 per 100G"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Made in South Africa"
+    }
+  ],
+  "brand": "Parker's",
+  "createdAt": "2022-12-02T09:09:21.460Z",
+  "description": "As the Original Pretzel Co., Parker's takes pride in carefully crafting our delicious oven baked pretzels using only the finest ingredients. - Low in saturated fat, no added msg.- Baked Not FriedLook out for our full range of pretzel snacks in the chip aisle.107 Calories per Serve",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/2/3/5238054.jpg",
+  "name": "Baked Mini Pretzels",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3,
+    "lowPrice": 3,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-02T09:09:21.459Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "3.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/parkers-pretzels-baked-minis"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/parkers-pretzels-baked-minis"
+  ],
+  "sku": "5238054",
+  "updatedAt": "2022-12-02T09:09:21.459Z"
+}

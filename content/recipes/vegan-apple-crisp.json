@@ -1,0 +1,83 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "2",
+    "ratingValue": "5"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Oh My Veggies"
+  },
+  "cookTime": "PT45M",
+  "createdAt": "2022-12-02T16:24:10.712Z",
+  "datePublished": "2021-04-21T10:33:27+00:00",
+  "description": "This vegan apple crisp is the ultimate comfort food. Perfectly caramelized apples are paired with a crunchy oat topping, then drizzled with a sweet maple syrup. Top it off with some dairy-free ice cream for an indulgent dessert!",
+  "image": [
+    "https://ohmyveggies.com/wp-content/uploads/2021/04/Gluten-free-Vegan-Apple-Crumble-1200px-square-1.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2021/04/Gluten-free-Vegan-Apple-Crumble-1200px-square-1-500x500.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2021/04/Gluten-free-Vegan-Apple-Crumble-1200px-square-1-500x375.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2021/04/Gluten-free-Vegan-Apple-Crumble-1200px-square-1-480x270.jpg"
+  ],
+  "keywords": "apple crumble recipe, gluten-free apple crumble, gluten-free vegan apple crumble, vegan apple crumble",
+  "name": "Vegan Apple Crisp",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "340 kcal",
+    "carbohydrateContent": "57 g",
+    "fatContent": "12 g",
+    "fiberContent": "5 g",
+    "proteinContent": "5 g",
+    "saturatedFatContent": "3 g",
+    "servingSize": "1 serving",
+    "sodiumContent": "136 mg",
+    "sugarContent": "26 g",
+    "transFatContent": "1 g"
+  },
+  "prepTime": "PT15M",
+  "recipeCategory": "Dessert",
+  "recipeCuisine": "American",
+  "recipeIngredient": [
+    "1 1/2 lbs cooking apples (peeled and sliced)",
+    "1/4 cup maple syrup",
+    "3/4 cup coconut sugar",
+    "3/4 cup gluten-free flour",
+    "3/4 cup rice flour",
+    "1/2 cup gluten-free oats",
+    "1/4 cup peanut butter (smooth)",
+    "6 tbsp vegan butter"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Preheat the oven to 180 degrees C (350 degrees F) and lightly grease a rectangular baking dish."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Layer the apple slices in the baking dish, then drizzle evenly with the maple syrup."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "In a large mixing bowl, combine the gluten-free flour, rice flour, oats, peanut butter and vegan butter, until a crumbly texture forms."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Layer the crumb on top of the apples and bake in the preheated oven for 40-45 minutes, until crispy and golden brown on top."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Serve immediately with dairy-free ice cream."
+    }
+  ],
+  "recipeYield": "8",
+  "sameAs": [
+    "https://ohmyveggies.com/vegan-apple-crisp"
+  ],
+  "suitableForDiet": [
+    "https://schema.org/GlutenFreeDiet",
+    "https://schema.org/VeganDiet",
+    "https://schema.org/VegetarianDiet"
+  ],
+  "totalTime": "PT60M",
+  "updatedAt": "2022-12-02T16:24:10.711Z"
+}

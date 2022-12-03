@@ -1,0 +1,65 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1",
+    "ratingValue": "5"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Sophia DeSantis"
+  },
+  "cookTime": "PT5M",
+  "createdAt": "2022-12-02T18:11:00.348Z",
+  "datePublished": "2021-12-20T10:00:00+00:00",
+  "description": "This vegan ganache recipe is easy to make and tastes incredible. It&#039;s made with 4 simple ingredients and is so indulgent!",
+  "image": [
+    "https://www.veggiesdontbite.com/wp-content/uploads/2021/11/vegan-ganache-25.jpg",
+    "https://www.veggiesdontbite.com/wp-content/uploads/2021/11/vegan-ganache-25-500x500.jpg",
+    "https://www.veggiesdontbite.com/wp-content/uploads/2021/11/vegan-ganache-25-500x375.jpg",
+    "https://www.veggiesdontbite.com/wp-content/uploads/2021/11/vegan-ganache-25-480x270.jpg"
+  ],
+  "keywords": "ganache without cream, homemade ganache",
+  "name": "Vegan Ganache Frosting Recipe",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "110 kcal",
+    "carbohydrateContent": "9 g",
+    "fatContent": "8 g",
+    "fiberContent": "1 g",
+    "proteinContent": "1 g",
+    "servingSize": "1 serving",
+    "sodiumContent": "38 mg",
+    "sugarContent": "7 g"
+  },
+  "prepTime": "PT5M",
+  "recipeCategory": "Dessert",
+  "recipeCuisine": "French",
+  "recipeIngredient": [
+    "1/2 cup dairy free chocolate chips",
+    "1/2 cup coconut cream (, see note)",
+    "1/4 teaspoon vanilla extract",
+    "1/8 teaspoon sea salt"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Warm coconut cream in a saucepan over low heat. Once it’s melted and just beginning to bubble, turn off the heat and add in chocolate chips, vanilla and salt."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Whisk until chocolate is melted and the mixture is smooth. This will take a little bit but you don’t want to heat the chocolate any more on the stove as it can seize up."
+    }
+  ],
+  "recipeYield": "8",
+  "sameAs": [
+    "https://veggiesdontbite.com/vegan-ganache-frosting-recipe"
+  ],
+  "suitableForDiet": [
+    "https://schema.org/GlutenFreeDiet",
+    "https://schema.org/VeganDiet",
+    "https://schema.org/VegetarianDiet"
+  ],
+  "totalTime": "PT10M",
+  "updatedAt": "2022-12-02T18:11:00.347Z"
+}

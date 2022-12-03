@@ -1,0 +1,77 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "4",
+    "ratingValue": "5"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Oh My Veggies"
+  },
+  "cookTime": "PT30M",
+  "createdAt": "2022-12-02T22:42:17.742Z",
+  "datePublished": "2016-01-21T06:13:24+00:00",
+  "description": "No chickpeas? No problem! You'll fall in love with the savory flavor of this green lentil hummus.",
+  "image": [
+    "https://ohmyveggies.com/wp-content/uploads/2016/01/green-lentil-hummus.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2016/01/green-lentil-hummus-500x400.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2016/01/green-lentil-hummus-500x375.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2016/01/green-lentil-hummus-480x270.jpg"
+  ],
+  "keywords": "Green Lentil Hummus, hummus recipe",
+  "name": "Green Lentil Hummus",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "784 kcal",
+    "carbohydrateContent": "71 g",
+    "fatContent": "44 g",
+    "fiberContent": "31 g",
+    "proteinContent": "30 g",
+    "saturatedFatContent": "6 g",
+    "servingSize": "1 serving",
+    "sodiumContent": "1429 mg",
+    "sugarContent": "5 g",
+    "unsaturatedFatContent": "36 g"
+  },
+  "prepTime": "PT25M",
+  "recipeCategory": "Appetizer",
+  "recipeCuisine": "American",
+  "recipeIngredient": [
+    "1 cup dried green lentils",
+    "3 cups vegetable broth",
+    "2 garlic cloves",
+    "1/4 cup olive oil (plus extra for drizzling)",
+    "1/4 cup tahini",
+    "2 tablespoons lemon juice",
+    "1 teaspoon ground cumin (optional)",
+    "Salt to taste"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Place the lentils and broth or water into a medium saucepan over high heat. Bring the liquid to a boil. Lower heat and simmer, uncovered, until the lentils are tender but not mushy, about 30 minutes."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Drain the lentils in a colander and return them to the saucepan. Cool completely, about 20 minutes."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Place the lentils, garlic, olive oil, tahini, lemon juice, cumin (if using), and salt into the bowl of a food processor fitted with an S-blade. Process until smooth, stopping to scrape down sides of bowl as needed."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Transfer the finished hummus to a bowl and drizzle with olive oil. Serve with pita wedges, crackers or veggies for dipping."
+    }
+  ],
+  "recipeYield": "2",
+  "sameAs": [
+    "https://ohmyveggies.com/green-lentil-hummus"
+  ],
+  "suitableForDiet": [
+    "https://schema.org/VegetarianDiet"
+  ],
+  "totalTime": "PT55M",
+  "updatedAt": "2022-12-02T22:42:17.741Z"
+}

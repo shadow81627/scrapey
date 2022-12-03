@@ -1,0 +1,90 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "5",
+    "ratingValue": "5"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Sophia DeSantis"
+  },
+  "cookTime": "PT15M",
+  "createdAt": "2022-12-02T09:27:36.507Z",
+  "datePublished": "2022-07-25T10:00:00+00:00",
+  "description": "A wholesome vegan miso soup filled with vegetables and noodles. It&#x27;s the perfect recipe for cooler weather, so soothing and easy to put together!",
+  "image": [
+    "https://www.veggiesdontbite.com/wp-content/uploads/2022/07/vegan-miso-soup-noodles-vegetables-FI.jpg",
+    "https://www.veggiesdontbite.com/wp-content/uploads/2022/07/vegan-miso-soup-noodles-vegetables-FI-500x500.jpg",
+    "https://www.veggiesdontbite.com/wp-content/uploads/2022/07/vegan-miso-soup-noodles-vegetables-FI-500x375.jpg",
+    "https://www.veggiesdontbite.com/wp-content/uploads/2022/07/vegan-miso-soup-noodles-vegetables-FI-480x270.jpg"
+  ],
+  "keywords": "healthy soup recipe, veggie noodle soup",
+  "name": "Easy Vegan Miso Soup with Noodles and Vegetables",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "98 kcal",
+    "carbohydrateContent": "12 g",
+    "fatContent": "2 g",
+    "fiberContent": "3 g",
+    "proteinContent": "8 g",
+    "saturatedFatContent": "1 g",
+    "servingSize": "1 serving",
+    "sodiumContent": "795 mg",
+    "sugarContent": "4 g"
+  },
+  "prepTime": "PT10M",
+  "recipeCategory": "Main Course",
+  "recipeCuisine": "Asian",
+  "recipeIngredient": [
+    "6 cups water",
+    "8 teaspoons miso paste (, I uses chickpea miso)",
+    "1 teaspoon sesame oil (optional, can use water)",
+    "1 teaspoon chopped garlic",
+    "4 tablespoons soy sauce or tamari (, I used low sodium (can also use coconut aminos, see note)",
+    "5 ounces mushrooms (, sliced (any kind or a mix, I used shiitake)",
+    "8 ounces carrots (, sliced (about 3 large)",
+    "10 ounces baby bok choy (, chopped (about 2 heads)",
+    "1 ounce green onions (, sliced (about 2)",
+    "16 ounces your favorite precooked noodles (, I used pasta zero shiratake noodles (about 8 ounces of dry uncooked noodles)",
+    "1/2 cup diced extra firm tofu (, optional)",
+    "8 ounces spinach (, optional)"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Mix 1/2 cup of the water (make sure it is warm) with the miso paste until the miso is dissolved. Set aside."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Saute garlic in sesame oil or water in a soup pot over medium heat until soft, about 2-3 minutes."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add the soy sauce/tamari, mushrooms, carrots, bok choy, and onions into the pot. Cook until the veggies are softened, about 5 minutes."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add the rest of the water and tofu (if using). Bring to a boil, about 5 minutes."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add in the water miso mix, noodles and spinach (if using). Cook until spinach is wilted, about 2 minutes."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Serve hot!"
+    }
+  ],
+  "recipeYield": "6",
+  "sameAs": [
+    "https://veggiesdontbite.com/veggie-noodle-miso-soup"
+  ],
+  "suitableForDiet": [
+    "https://schema.org/GlutenFreeDiet",
+    "https://schema.org/VeganDiet",
+    "https://schema.org/VegetarianDiet"
+  ],
+  "totalTime": "PT25M",
+  "updatedAt": "2022-12-02T09:27:36.506Z"
+}

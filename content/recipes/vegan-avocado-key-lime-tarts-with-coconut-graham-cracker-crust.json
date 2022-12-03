@@ -1,0 +1,145 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1",
+    "ratingValue": "5"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Yup, it's Vegan"
+  },
+  "createdAt": "2022-12-02T22:58:58.521Z",
+  "datePublished": "2014-05-15T07:00:08+00:00",
+  "description": "Creamy vegan key lime tarts made with naturally rich and buttery avocado in the filling.&nbsp;",
+  "image": [
+    "https://yupitsvegan.com/wp-content/uploads/2014/05/avocado_key_lime_tarts_coconut_graham_cracker_crust_51.jpg"
+  ],
+  "keywords": "avocado key lime tarts",
+  "mentions": [
+    {
+      "@id": "https://yupitsvegan.com/tag/citrus/#id",
+      "@type": "http://schema.org/Thing",
+      "description": "Citrus is a genus of flowering trees and shrubs in the rue family, Rutaceae. Plants in the genus produce citrus fruits, including important crops like oranges, lemons, grapefruit, and limes. The most recent research indicates an origin in Australia, New Caledonia and New Guinea. Some researchers believe that the origin is in the part of...",
+      "name": "citrus fruit",
+      "sameAs": [
+        "http://es.dbpedia.org/resource/Citrus",
+        "http://el.dbpedia.org/resource/Κίτρος",
+        "http://id.dbpedia.org/resource/Jeruk",
+        "http://d-nb.info/gnd/4139287-5",
+        "http://purl.obolibrary.org/obo/FOODON_03305742",
+        "http://www.wikidata.org/entity/Q81513",
+        "http://pt.dbpedia.org/resource/Citrus",
+        "https://en.wikipedia.org/wiki/Citrus",
+        "http://wikidata.dbpedia.org/resource/Q81513",
+        "http://de.dbpedia.org/resource/Zitruspflanzen",
+        "http://nl.dbpedia.org/resource/Citrusvrucht",
+        "http://rdf.freebase.com/ns/m.0dqb5",
+        "http://dbpedia.org/resource/Citrus",
+        "http://ja.dbpedia.org/resource/ミカン属",
+        "http://eu.dbpedia.org/resource/Garrazki",
+        "http://cs.dbpedia.org/resource/Citrus",
+        "http://it.dbpedia.org/resource/Citrus",
+        "http://pl.dbpedia.org/resource/Cytrus",
+        "http://ko.dbpedia.org/resource/귤속",
+        "http://fr.dbpedia.org/resource/Citrus",
+        "https://knowledge.cafemedia.com/food/entity/citrus_juice"
+      ]
+    },
+    {
+      "@id": "https://yupitsvegan.com/tag/tropical-fruit/#id",
+      "@type": "http://schema.org/Thing",
+      "description": "This list of culinary fruits contains the names of some fruits that are considered edible in some cuisines. The word \"fruit\" is used in several different ways. The definition of fruit for these lists is a culinary fruit, i.e. \"Any sweet, edible part of a plant that resembles fruit, even if it does not develop...",
+      "name": "tropical fruit",
+      "sameAs": [
+        "http://dbpedia.org/resource/List_of_culinary_fruits",
+        "http://pt.dbpedia.org/resource/Lista_de_frutas",
+        "http://de.dbpedia.org/resource/Liste_der_Obstarten",
+        "http://www.wikidata.org/entity/Q497975",
+        "https://en.wikipedia.org/wiki/List_of_culinary_fruits",
+        "http://id.dbpedia.org/resource/Daftar_buah",
+        "http://purl.obolibrary.org/obo/FOODON_03305237",
+        "http://nl.dbpedia.org/resource/Lijst_van_fruit",
+        "http://wikidata.dbpedia.org/resource/Q497975",
+        "http://pl.dbpedia.org/resource/Owoce_jadalne",
+        "http://fr.dbpedia.org/resource/Liste_de_fruits_comestibles",
+        "https://knowledge.cafemedia.com/food/entity/tropical_fruit"
+      ]
+    },
+    {
+      "@id": "https://yupitsvegan.com/category/desserts/#id",
+      "@type": "http://schema.org/Thing",
+      "description": "Dessert (/dᵻˈzɜːrt/) is a course that concludes a main meal. The course usually consists of sweet foods and beverages, such as dessert wine or liqueurs, but may include coffee, cheeses, nuts, or other savory items. In some parts of the world, such as much of central and western Africa, there is no tradition of a...",
+      "name": "sweet dish",
+      "sameAs": [
+        "http://es.dbpedia.org/resource/Postre",
+        "http://dbpedia.org/resource/Dessert",
+        "http://ko.dbpedia.org/resource/후식",
+        "http://fr.dbpedia.org/resource/Dessert",
+        "http://de.dbpedia.org/resource/Dessert",
+        "http://id.dbpedia.org/resource/Hidangan_penutup",
+        "http://ja.dbpedia.org/resource/デザート",
+        "http://nl.dbpedia.org/resource/Nagerecht",
+        "http://pt.dbpedia.org/resource/Sobremesa",
+        "http://d-nb.info/gnd/4011539-2",
+        "http://purl.obolibrary.org/obo/FOODON_03316299",
+        "http://pl.dbpedia.org/resource/Deser",
+        "http://cs.dbpedia.org/resource/Dezert",
+        "http://eu.dbpedia.org/resource/Azkenburu",
+        "http://www.wikidata.org/entity/Q182940",
+        "https://en.wikipedia.org/wiki/Dessert",
+        "http://it.dbpedia.org/resource/Dessert",
+        "http://rdf.freebase.com/ns/m.0270h",
+        "http://wikidata.dbpedia.org/resource/Q182940",
+        "https://knowledge.cafemedia.com/food/entity/sweet_dish"
+      ]
+    }
+  ],
+  "name": "Vegan Avocado Key Lime Tarts with Coconut Graham Cracker Crust",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "224 kcal",
+    "carbohydrateContent": "27 g",
+    "fatContent": "12 g",
+    "fiberContent": "3 g",
+    "proteinContent": "3 g",
+    "saturatedFatContent": "5 g",
+    "servingSize": "1 slice (1/4 of one 5-inch tart)",
+    "sodiumContent": "100 mg",
+    "sugarContent": "11 g",
+    "unsaturatedFatContent": "5 g"
+  },
+  "prepTime": "PT25M",
+  "recipeCategory": "Dessert",
+  "recipeCuisine": "vegan",
+  "recipeIngredient": [
+    "1 sleeve of graham crackers (136 grams)",
+    "1/4 cup coconut butter (or use 2.5 tbsp coconut oil)",
+    "1 tbsp maple syrup",
+    "2 tbsp plain, unsweetened non-dairy milk",
+    "1 ripe avocado",
+    "1/2 cup raw cashews (soaked overnight (or in hot water for at least 2 hours)",
+    "3 and 1/2 tbsp brown rice syrup",
+    "2 and 1/2 tbsp key lime juice (or regular lime juice)",
+    "1 tbsp key lime zest (see notes)",
+    "1/2 tsp vanilla extract",
+    "1/4 tsp almond extract",
+    "pinch sea salt"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Combine all ingredients in a blender or food processor until fully pulverized. The mixture should be crumbly but stick together if you press on it. If it doesn't stick, add a bit more nondairy milk until it does."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Press the filling into two 5-inch tart pans and set in the freezer to cool."
+    }
+  ],
+  "recipeYield": "2",
+  "sameAs": [
+    "https://yupitsvegan.com/2014/05/15/avocado-key-lime-tarts"
+  ],
+  "totalTime": "PT25M",
+  "updatedAt": "2022-12-02T22:58:58.520Z"
+}

@@ -1,0 +1,71 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "3",
+    "ratingValue": "5"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Yup, it's Vegan"
+  },
+  "cookTime": "PT25M",
+  "createdAt": "2022-12-02T16:36:50.586Z",
+  "datePublished": "2015-12-20T18:29:23+00:00",
+  "description": "Easy instructions for how to make black rice in your rice cooker. Scale up the rice and liquid quantities as needed to make more.",
+  "image": [
+    "https://yupitsvegan.com/wp-content/uploads/2015/12/rice-cooker-black-rice.jpg"
+  ],
+  "keywords": "rice cooker black rice",
+  "name": "Rice Cooker Black Rice",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "320 kcal",
+    "carbohydrateContent": "72 g",
+    "fatContent": "3 g",
+    "fiberContent": "6 g",
+    "proteinContent": "10 g",
+    "servingSize": "1.5 cups",
+    "sugarContent": "2 g"
+  },
+  "prepTime": "PT5M",
+  "recipeCategory": "Side Dish",
+  "recipeCuisine": "rice",
+  "recipeIngredient": [
+    "1 cup black rice",
+    "1 and 3/4 cups water or stock (plus more water for rinsing)",
+    "salt to taste"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Add the rice to a large bowl - preferably metal or glass, so that it doesn't stain. Add warm water until the rice is completely covered, and use your hands to mix around and generally agitate the rice. You will notice the water quickly becoming dark purple in color."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Strain the water out of the bowl - I recommend using a mesh sieve so that you don't lose any rice kernels. Repeat the process 4 more times (yes, 4) of filling the bowl with water, agitating the rice, and straining out the water. This is important for removing excess starch from the black rice so that it cooks properly in the rice cooker."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Drain the rice, and add it to your rice cooker. Add water or stock at a ratio of 1 and 3/4 cups per cup of black rice."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "If your rice cooker has a brown rice mode, start it. Otherwise, set the timer to 25 minutes."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "When the timer goes off, remove the lid to release excess steam."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Cooked black rice can be stored in the refrigerator for up to 5-7 days."
+    }
+  ],
+  "recipeYield": "2",
+  "sameAs": [
+    "https://yupitsvegan.com/how-to-cook-black-rice-in-the-rice-cooker"
+  ],
+  "totalTime": "PT30M",
+  "updatedAt": "2022-12-02T16:36:50.584Z"
+}

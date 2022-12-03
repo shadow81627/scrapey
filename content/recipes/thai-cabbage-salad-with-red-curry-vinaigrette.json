@@ -1,0 +1,216 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "2",
+    "ratingValue": "5"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Yup, it's Vegan"
+  },
+  "createdAt": "2022-12-02T09:49:19.743Z",
+  "datePublished": "2019-07-08T15:51:32+00:00",
+  "description": "This Thai cabbage salad is made by mixing crunchy raw cabbage, bell pepper, juicy mangoes, and roasted peanuts with a simple yet magical 3-ingredient red curry vinaigrette.",
+  "image": [
+    "https://yupitsvegan.com/wp-content/uploads/2013/08/thai-cabbage-salad-square.jpg",
+    "https://yupitsvegan.com/wp-content/uploads/2013/08/thai-cabbage-salad-square-500x500.jpg",
+    "https://yupitsvegan.com/wp-content/uploads/2013/08/thai-cabbage-salad-square-500x375.jpg",
+    "https://yupitsvegan.com/wp-content/uploads/2013/08/thai-cabbage-salad-square-480x270.jpg"
+  ],
+  "keywords": "Thai cabbage salad",
+  "mentions": [
+    {
+      "@id": "https://yupitsvegan.com/tag/citrus/#id",
+      "@type": "http://schema.org/Thing",
+      "description": "Citrus is a genus of flowering trees and shrubs in the rue family, Rutaceae. Plants in the genus produce citrus fruits, including important crops like oranges, lemons, grapefruit, and limes. The most recent research indicates an origin in Australia, New Caledonia and New Guinea. Some researchers believe that the origin is in the part of...",
+      "name": "citrus fruit",
+      "sameAs": [
+        "http://es.dbpedia.org/resource/Citrus",
+        "http://el.dbpedia.org/resource/Κίτρος",
+        "http://id.dbpedia.org/resource/Jeruk",
+        "http://d-nb.info/gnd/4139287-5",
+        "http://purl.obolibrary.org/obo/FOODON_03305742",
+        "http://www.wikidata.org/entity/Q81513",
+        "http://pt.dbpedia.org/resource/Citrus",
+        "https://en.wikipedia.org/wiki/Citrus",
+        "http://wikidata.dbpedia.org/resource/Q81513",
+        "http://de.dbpedia.org/resource/Zitruspflanzen",
+        "http://nl.dbpedia.org/resource/Citrusvrucht",
+        "http://rdf.freebase.com/ns/m.0dqb5",
+        "http://dbpedia.org/resource/Citrus",
+        "http://ja.dbpedia.org/resource/ミカン属",
+        "http://eu.dbpedia.org/resource/Garrazki",
+        "http://cs.dbpedia.org/resource/Citrus",
+        "http://it.dbpedia.org/resource/Citrus",
+        "http://pl.dbpedia.org/resource/Cytrus",
+        "http://ko.dbpedia.org/resource/귤속",
+        "http://fr.dbpedia.org/resource/Citrus",
+        "https://knowledge.cafemedia.com/food/entity/citrus_juice"
+      ]
+    },
+    {
+      "@id": "https://yupitsvegan.com/tag/high-vegetable/#id",
+      "@type": "http://schema.org/Thing",
+      "description": "In everyday usage, a vegetable is any part of a plant that is consumed by humans as food as part of a savory meal. The term vegetable is somewhat arbitrary, and largely defined through culinary and cultural tradition. It normally excludes other food derived from plants such as fruits, nuts and cereal grains, but includes...",
+      "name": "vegetable",
+      "sameAs": [
+        "http://ko.dbpedia.org/resource/채소",
+        "http://wikidata.dbpedia.org/resource/Q11004",
+        "http://eu.dbpedia.org/resource/Barazki",
+        "http://purl.obolibrary.org/obo/FOODON_00002141",
+        "http://pl.dbpedia.org/resource/Warzywa",
+        "http://fr.dbpedia.org/resource/Légume",
+        "https://en.wikipedia.org/wiki/Vegetable",
+        "http://de.dbpedia.org/resource/Gemüse",
+        "http://el.dbpedia.org/resource/Λαχανικό",
+        "http://rdf.freebase.com/ns/m.0f4s2w",
+        "http://nl.dbpedia.org/resource/Groente",
+        "http://cs.dbpedia.org/resource/Zelenina",
+        "http://es.dbpedia.org/resource/Verdura",
+        "http://www.wikidata.org/entity/Q11004",
+        "http://dbpedia.org/resource/Vegetable",
+        "http://d-nb.info/gnd/4020069-3",
+        "http://it.dbpedia.org/resource/Verdura",
+        "http://ja.dbpedia.org/resource/野菜",
+        "http://id.dbpedia.org/resource/Sayuran",
+        "https://knowledge.cafemedia.com/food/entity/fruit_vegetable"
+      ]
+    },
+    {
+      "@id": "https://yupitsvegan.com/tag/nuts-and-seeds/#id",
+      "@type": "http://schema.org/Thing",
+      "description": "A nut is a fruit composed of a hard shell and a seed, which is generally edible. In a general context, however, a wide variety of dried seeds are called nuts, but in a botanical context, there is an additional requirement that the shell does not open to release the seed (indehiscent). The translation of...",
+      "name": "tree nut",
+      "sameAs": [
+        "http://wikidata.dbpedia.org/resource/Q11009",
+        "http://pl.dbpedia.org/resource/Orzechy_(bakalie)",
+        "http://www.wikidata.org/entity/Q11009",
+        "http://id.dbpedia.org/resource/Buah_geluk",
+        "http://nl.dbpedia.org/resource/Noot_(plantaardig)",
+        "http://d-nb.info/gnd/4042827-8",
+        "http://fr.dbpedia.org/resource/Fruit_à_coque",
+        "http://rdf.freebase.com/ns/m.01lbxg",
+        "http://dbpedia.org/resource/Nut_(fruit)",
+        "http://ja.dbpedia.org/resource/種実類",
+        "http://yago-knowledge.org/resource/Nut_(fruit)",
+        "http://purl.obolibrary.org/obo/FOODON_03301354",
+        "http://pt.dbpedia.org/resource/Noz",
+        "http://cs.dbpedia.org/resource/Oříšek",
+        "http://ko.dbpedia.org/resource/견과",
+        "http://de.dbpedia.org/resource/Nussfrucht",
+        "https://en.wikipedia.org/wiki/Nut_(fruit)",
+        "http://es.dbpedia.org/resource/Nuez_(fruto)",
+        "http://el.dbpedia.org/resource/Κάρυο_(βοτανική)",
+        "https://knowledge.cafemedia.com/food/entity/tree_nut"
+      ]
+    },
+    {
+      "@id": "https://yupitsvegan.com/tag/tropical-fruit/#id",
+      "@type": "http://schema.org/Thing",
+      "description": "This list of culinary fruits contains the names of some fruits that are considered edible in some cuisines. The word \"fruit\" is used in several different ways. The definition of fruit for these lists is a culinary fruit, i.e. \"Any sweet, edible part of a plant that resembles fruit, even if it does not develop...",
+      "name": "tropical fruit",
+      "sameAs": [
+        "http://dbpedia.org/resource/List_of_culinary_fruits",
+        "http://pt.dbpedia.org/resource/Lista_de_frutas",
+        "http://de.dbpedia.org/resource/Liste_der_Obstarten",
+        "http://www.wikidata.org/entity/Q497975",
+        "https://en.wikipedia.org/wiki/List_of_culinary_fruits",
+        "http://id.dbpedia.org/resource/Daftar_buah",
+        "http://purl.obolibrary.org/obo/FOODON_03305237",
+        "http://nl.dbpedia.org/resource/Lijst_van_fruit",
+        "http://wikidata.dbpedia.org/resource/Q497975",
+        "http://pl.dbpedia.org/resource/Owoce_jadalne",
+        "http://fr.dbpedia.org/resource/Liste_de_fruits_comestibles",
+        "https://knowledge.cafemedia.com/food/entity/tropical_fruit"
+      ]
+    },
+    {
+      "@id": "https://yupitsvegan.com/category/salad/#id",
+      "@type": "http://schema.org/Thing",
+      "description": "A salad is a dish consisting of small pieces of food, which may be mixed with a sauce or salad dressing. They are typically served cold. Salads can incorporate a variety of foods including vegetables, fruits, cheese, cooked meat, eggs, grains and nuts. Most salads are served cold, although some, such as south German potato...",
+      "name": "salad dressing",
+      "sameAs": [
+        "http://eu.dbpedia.org/resource/Entsalada",
+        "http://www.wikidata.org/entity/Q9266",
+        "http://ja.dbpedia.org/resource/サラダ",
+        "https://en.wikipedia.org/wiki/Salad",
+        "http://de.dbpedia.org/resource/Salat_(Gericht)",
+        "http://el.dbpedia.org/resource/Σαλάτα",
+        "http://es.dbpedia.org/resource/Ensalada",
+        "http://nl.dbpedia.org/resource/Salade",
+        "http://pt.dbpedia.org/resource/Salada",
+        "http://cs.dbpedia.org/resource/Salát_(pokrm)",
+        "http://ko.dbpedia.org/resource/샐러드",
+        "http://rdf.freebase.com/ns/m.0grw1",
+        "http://d-nb.info/gnd/4051351-8",
+        "http://pl.dbpedia.org/resource/Sałatka",
+        "http://fr.dbpedia.org/resource/Salade_(mets)",
+        "http://wikidata.dbpedia.org/resource/Q9266",
+        "http://yago-knowledge.org/resource/Garden_salad",
+        "http://id.dbpedia.org/resource/Selada_(hidangan)",
+        "http://purl.obolibrary.org/obo/FOODON_00001290",
+        "http://dbpedia.org/resource/Salad",
+        "http://it.dbpedia.org/resource/Insalata",
+        "https://knowledge.cafemedia.com/food/entity/salad_dressing"
+      ]
+    }
+  ],
+  "name": "Thai Cabbage Salad with Red Curry Vinaigrette",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "209 kcal",
+    "carbohydrateContent": "31 g",
+    "fatContent": "9 g",
+    "fiberContent": "7 g",
+    "proteinContent": "6 g",
+    "saturatedFatContent": "1 g",
+    "servingSize": "1 quarter recipe",
+    "sodiumContent": "229 mg",
+    "sugarContent": "20 g",
+    "unsaturatedFatContent": "7 g"
+  },
+  "prepTime": "PT20M",
+  "recipeCategory": "Salad",
+  "recipeCuisine": "Asian",
+  "recipeIngredient": [
+    "1/2 head red cabbage (thinly sliced)",
+    "1 large ripe mango (or 2 small) thinly sliced)",
+    "2 bell peppers (red is best, orange or yellow also work) thinly sliced)",
+    "3 scallions (thinly sliced)",
+    "2 tbsp fresh mint (thinly sliced)",
+    "2 tbsp fresh basil (thinly sliced)",
+    "1/4 cup salted roasted peanuts",
+    "2 tbsp lime juice",
+    "1 tbsp Thai red curry paste",
+    "1 tbsp toasted sesame oil"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Prepare the red curry vinaigrette by whisking together all of the ingredients."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "In a mixing bowl, mix together the cabbage, mango, bell pepper, scallions, mint and basil. Drizzle the red curry dressing over the mixture and toss to combine. Transfer to the refrigerator to chill if not serving immediately."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Before serving, sprinkle with roasted peanuts."
+    }
+  ],
+  "recipeYield": "4",
+  "sameAs": [
+    "https://yupitsvegan.com/summers-bounty-thai-inspired-cabbage-salad-with-lemon-basil"
+  ],
+  "totalTime": "PT20M",
+  "updatedAt": "2022-12-02T09:49:19.741Z",
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/TLn4jdBb.mp4",
+    "description": "Thai Cabbage Salad with Red Curry Vinaigrette",
+    "name": "Thai Cabbage Salad",
+    "thumbnailUrl": "https://content.jwplatform.com/thumbs/TLn4jdBb-720.jpg",
+    "uploadDate": "2021-04-12T12:18:44.000Z"
+  }
+}

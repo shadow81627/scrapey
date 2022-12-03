@@ -1,0 +1,83 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "2",
+    "ratingValue": "5"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Sophia DeSantis"
+  },
+  "cookTime": "PT10M",
+  "createdAt": "2022-12-02T11:52:39.724Z",
+  "datePublished": "2019-02-11T00:10:13+00:00",
+  "description": "A vegan pesto pasta with a delicious twist you've never seen before. Eat it warm or cold and throw in your favorite veggies, it's a perfect well rounded meal!",
+  "image": [
+    "https://www.veggiesdontbite.com/wp-content/uploads/2019/02/vegan-pesto-pasta-salad-87.jpg",
+    "https://www.veggiesdontbite.com/wp-content/uploads/2019/02/vegan-pesto-pasta-salad-87-500x500.jpg",
+    "https://www.veggiesdontbite.com/wp-content/uploads/2019/02/vegan-pesto-pasta-salad-87-500x375.jpg",
+    "https://www.veggiesdontbite.com/wp-content/uploads/2019/02/vegan-pesto-pasta-salad-87-480x270.jpg"
+  ],
+  "keywords": "Vegan Pasta Salad, vegan pesto",
+  "name": "Vegan Pesto Pasta Salad with Veggies",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "437 kcal",
+    "carbohydrateContent": "67 g",
+    "fatContent": "14 g",
+    "fiberContent": "4 g",
+    "proteinContent": "12 g",
+    "saturatedFatContent": "4 g",
+    "servingSize": "1 serving",
+    "sodiumContent": "344 mg",
+    "sugarContent": "1 g"
+  },
+  "prepTime": "PT10M",
+  "recipeCategory": "Main Course",
+  "recipeCuisine": "American",
+  "recipeIngredient": [
+    "2 cups fresh spinach",
+    "1/2 cup veggie broth (, low sodium if needed)",
+    "1/2 cup fresh basil",
+    "2-3 cloves garlic",
+    "1/2 cup raw almonds",
+    "1 tablespoon lemon juice",
+    "1 teaspoon crushed red pepper",
+    "1/2 teaspoon sea salt",
+    "1/4 teaspoon ground black pepper",
+    "1 tablespoon coconut oil (, I used the garlic infused by NOW Foods)",
+    "12 ounces your favorite pasta (, I use the NOW Foods brand)",
+    "2 cups veggies of choice (, use whatever you need to clean out (I did red pepper, broccoli, red onion and carrots)",
+    "chickpeas or white beans (, for added protein (can also do vegan sausage)"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Cook pasta according to package directions. Mix in the coconut oil here if you don’t want to add it to the pesto."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Place the spinach, broth, basil, garlic, almonds, lemon, crushed red pepper, salt, and ground black pepper into a food processor. Blend until chopped well but nut pureed. You can also mix the coconut oil in here instead of with the pasta later."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Chop veggies of choice into bite sized pieces."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Mix the oil with the pasta, then fold in the pesto followed by the vegetables. Serve warm or cold!"
+    }
+  ],
+  "recipeYield": "4",
+  "sameAs": [
+    "https://veggiesdontbite.com/vegan-pesto-pasta-salad-with-veggies"
+  ],
+  "suitableForDiet": [
+    "https://schema.org/GlutenFreeDiet",
+    "https://schema.org/VeganDiet",
+    "https://schema.org/VegetarianDiet"
+  ],
+  "totalTime": "PT20M",
+  "updatedAt": "2022-12-02T11:52:39.723Z"
+}

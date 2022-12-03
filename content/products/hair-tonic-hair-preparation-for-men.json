@@ -1,0 +1,54 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Mineral Oil, Fragrance."
+    },
+    {
+      "name": "Contains",
+      "value": "100mL"
+    },
+    {
+      "name": "Size",
+      "value": "100mL"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$7.20 per 100mL"
+    }
+  ],
+  "brand": "Vaseline",
+  "createdAt": "2022-12-03T07:29:39.886Z",
+  "description": "Vaseline Hair Tonic Hair Preparation For Men",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/1/0/2/102940.jpg",
+  "name": "Hair Tonic Hair Preparation For Men",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 7.2,
+    "lowPrice": 7.2,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-03T07:29:39.885Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "7.20",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/vaseline-hair-tonic-large-hair-preparation-for-men-102940p"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/vaseline-hair-tonic-large-hair-preparation-for-men-102940p"
+  ],
+  "sku": "102940",
+  "updatedAt": "2022-12-03T07:29:39.885Z"
+}

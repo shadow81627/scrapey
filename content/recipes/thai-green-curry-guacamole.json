@@ -1,0 +1,114 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1",
+    "ratingValue": "5"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Yup, it's Vegan"
+  },
+  "cookTime": "PT5M",
+  "createdAt": "2022-12-02T18:23:28.746Z",
+  "datePublished": "2016-05-04T20:54:46+00:00",
+  "description": "Thai green curry guacamole made in the style of classic guacamole dip, but infused with Thai-inspired flavors. You'll love this twist on guac - and it's naturally gluten-free and vegan.",
+  "image": [
+    "https://yupitsvegan.com/wp-content/uploads/2016/05/thai-green-curry-guacamole-vegan-gluten-free-paleo-3.jpg"
+  ],
+  "keywords": "green curry guacamole, Thai guacamole",
+  "mentions": [
+    {
+      "@id": "https://yupitsvegan.com/tag/citrus/#id",
+      "@type": "http://schema.org/Thing",
+      "description": "Citrus is a genus of flowering trees and shrubs in the rue family, Rutaceae. Plants in the genus produce citrus fruits, including important crops like oranges, lemons, grapefruit, and limes. The most recent research indicates an origin in Australia, New Caledonia and New Guinea. Some researchers believe that the origin is in the part of...",
+      "name": "citrus fruit",
+      "sameAs": [
+        "http://es.dbpedia.org/resource/Citrus",
+        "http://el.dbpedia.org/resource/Κίτρος",
+        "http://id.dbpedia.org/resource/Jeruk",
+        "http://d-nb.info/gnd/4139287-5",
+        "http://purl.obolibrary.org/obo/FOODON_03305742",
+        "http://www.wikidata.org/entity/Q81513",
+        "http://pt.dbpedia.org/resource/Citrus",
+        "https://en.wikipedia.org/wiki/Citrus",
+        "http://wikidata.dbpedia.org/resource/Q81513",
+        "http://de.dbpedia.org/resource/Zitruspflanzen",
+        "http://nl.dbpedia.org/resource/Citrusvrucht",
+        "http://rdf.freebase.com/ns/m.0dqb5",
+        "http://dbpedia.org/resource/Citrus",
+        "http://ja.dbpedia.org/resource/ミカン属",
+        "http://eu.dbpedia.org/resource/Garrazki",
+        "http://cs.dbpedia.org/resource/Citrus",
+        "http://it.dbpedia.org/resource/Citrus",
+        "http://pl.dbpedia.org/resource/Cytrus",
+        "http://ko.dbpedia.org/resource/귤속",
+        "http://fr.dbpedia.org/resource/Citrus",
+        "https://knowledge.cafemedia.com/food/entity/citrus_juice"
+      ]
+    }
+  ],
+  "name": "Thai Green Curry Guacamole",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "108 kcal",
+    "carbohydrateContent": "8 g",
+    "fatContent": "8 g",
+    "fiberContent": "4 g",
+    "proteinContent": "2 g",
+    "saturatedFatContent": "1 g",
+    "servingSize": "1 eighth recipe",
+    "sodiumContent": "175 mg",
+    "sugarContent": "2 g",
+    "unsaturatedFatContent": "1 g"
+  },
+  "prepTime": "PT10M",
+  "recipeCategory": "Appetizer",
+  "recipeCuisine": "gluten-free",
+  "recipeIngredient": [
+    "1/2 tbsp neutral oil (I used avocado oil)",
+    "1 and 1/2 tbsp Thai green curry paste (check the label - some brands contain fish)",
+    "1 tsp minced ginger",
+    "1 clove garlic (minced)",
+    "1 tsp soy sauce (omit for paleo/soy-free)",
+    "6 tbsp freshly-squeezed lime juice (plus more to taste)",
+    "1/2 tbsp rice vinegar (sub with more lime juice for paleo)",
+    "2 ripe avocados",
+    "1/2 shallot (minced)",
+    "1/2 jalapeno or 1 small Thai chili (finely chopped)",
+    "1/4 cup chopped fresh cilantro leaves",
+    "3-4 scallions (green and white parts, finely chopped)",
+    "1 pinch ground coriander seed (optional)",
+    "salt and pepper (to taste)",
+    "pickled carrots (for serving (optional; see recipe below)",
+    "3 carrots (peeled and thinly sliced (I used rainbow carrots)",
+    "1/2 cup rice vinegar",
+    "1/2 cup water",
+    "2 tbsp coconut sugar or maple syrup",
+    "1/2 tsp salt (or less if your rice vinegar is already seasoned)"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "In a small saucepan, heat the oil until shimmering. Add the Thai green curry paste and minced ginger and garlic, and use a spatula to stir as best you can. Cook for about 2-3 minutes, continuing to stir - or until curry paste is fragrant and ginger and garlic are slightly softened. Let cool."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Once the curry paste mixture is cooled, mix it together with the soy sauce, lime juice, and rice vinegar (this is to ensure that the curry paste gets distributed evenly throughout the rest of the guacamole)."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Mash the avocado well and add to a mixing bowl. Stir in the curry paste and lime juice mixture, shallot, jalapeno, cilantro, scallions,0 and coriander if using."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Season with salt and pepper to taste, and top with a handful of chopped pickled carrots if using. You'll likely need plenty of salt to cut through the richness of the avocado. If not using the pickled carrots, you may also need another hit of acid (either lime juice or rice vinegar). Guacamole is a great exercise in seasoning skills! Best served immediately, at room temperature. Store leftovers in the refrigerator for up to 2 days by taking a sheet of plastic wrap and pressing it directly onto the surface of the guacamole to cover."
+    }
+  ],
+  "recipeYield": "8",
+  "sameAs": [
+    "https://yupitsvegan.com/2016/05/04/thai-green-curry-guacamole"
+  ],
+  "totalTime": "PT15M",
+  "updatedAt": "2022-12-02T18:23:28.745Z"
+}

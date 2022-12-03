@@ -1,0 +1,78 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1",
+    "ratingValue": "5"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Sophia DeSantis"
+  },
+  "cookTime": "PT5M",
+  "createdAt": "2022-12-02T23:12:49.401Z",
+  "datePublished": "2017-08-21T01:00:44+00:00",
+  "description": "Easy, fast and healthy meal to satisfy the entire family. This Mexican fiesta pasta salad is the perfect way to get your daily fill of protein and veggies!",
+  "image": [
+    "https://www.veggiesdontbite.com/wp-content/uploads/2017/08/easy-mexican-fiesta-pasta-salad-64-1.jpg",
+    "https://www.veggiesdontbite.com/wp-content/uploads/2017/08/easy-mexican-fiesta-pasta-salad-64-1-500x500.jpg",
+    "https://www.veggiesdontbite.com/wp-content/uploads/2017/08/easy-mexican-fiesta-pasta-salad-64-1-500x375.jpg",
+    "https://www.veggiesdontbite.com/wp-content/uploads/2017/08/easy-mexican-fiesta-pasta-salad-64-1-480x270.jpg"
+  ],
+  "keywords": "high protein salad, Mexican salad",
+  "name": "Fast High Protein Mexican Fiesta Pasta Salad",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "297 kcal",
+    "carbohydrateContent": "36 g",
+    "fatContent": "10 g",
+    "fiberContent": "18 g",
+    "proteinContent": "27 g",
+    "saturatedFatContent": "1 g",
+    "servingSize": "1 serving",
+    "sodiumContent": "528 mg",
+    "sugarContent": "7 g"
+  },
+  "prepTime": "PT5M",
+  "recipeCategory": "Main Course",
+  "recipeCuisine": "Mexican",
+  "recipeIngredient": [
+    "1 box bean based spaghetti (, I use the Explore Cuisine Organic Edamame spaghetti)",
+    "1 cup chopped avocado",
+    "1 cup fresh or defrosted frozen corn",
+    "1 cup chopped fresh tomato",
+    "1/2 cup chopped red onion",
+    "1/2 cup chopped cilantro",
+    "1/4 cup fresh lime juice",
+    "1 teaspoon sea salt",
+    "1/4 teaspoon garlic powder",
+    "1/8-1/4 teaspoon chipotle powder",
+    "1 tablespoon avocado or olive oil (, optional for flavor)",
+    "1-3 teaspoons chopped fresh jalapeño (, optional for added spice)"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Cook noodles according to package directions. Chop all of the veggies and prep ingredients while you wait for the water to boil."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Once noodles are cooked, run under cold water and drain well."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add to a large bowl, then mix in all of the ingredients and toss, making sure everything is incorporated."
+    }
+  ],
+  "recipeYield": "4",
+  "sameAs": [
+    "https://veggiesdontbite.com/fast-high-protein-mexican-fiesta-pasta-salad"
+  ],
+  "suitableForDiet": [
+    "https://schema.org/GlutenFreeDiet",
+    "https://schema.org/VeganDiet",
+    "https://schema.org/VegetarianDiet"
+  ],
+  "totalTime": "PT10M",
+  "updatedAt": "2022-12-02T23:12:49.401Z"
+}

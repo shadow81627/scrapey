@@ -1,0 +1,63 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "5",
+    "reviewCount": "3"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "She Likes Food"
+  },
+  "createdAt": "2022-12-02T09:59:27.890Z",
+  "datePublished": "2017-08-03",
+  "description": "A delicious and easy no cook vegan dinner!",
+  "image": [
+    "https://www.shelikesfood.com/wp-content/uploads/2017/08/Guacamole-Pita-Pizzas-8083-225x225.jpg",
+    "https://www.shelikesfood.com/wp-content/uploads/2017/08/Guacamole-Pita-Pizzas-8083-260x195.jpg",
+    "https://www.shelikesfood.com/wp-content/uploads/2017/08/Guacamole-Pita-Pizzas-8083-320x180.jpg",
+    "https://www.shelikesfood.com/wp-content/uploads/2017/08/Guacamole-Pita-Pizzas-8083.jpg"
+  ],
+  "name": "Guacamole Pita Pizzas + Recipe Video",
+  "prepTime": "PT20M",
+  "recipeCategory": "Dinner",
+  "recipeIngredient": [
+    "2 large avocados",
+    "Juice of 1 lime",
+    "1 clove garlic",
+    "1 teaspoon nutritional yeast",
+    "1/2 teaspoon ground cumin",
+    "1/2 teaspoon salt, or more if desired",
+    "4 large pitas",
+    "Suggested toppings: black beans, corn, tomato, radish, cilantro, jalapeño, hot sauce, nutritional yeast"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Add avocado, lime juice, garlic, nutritional yeast, cumin and salt to a food processor and blend until smooth, about 1 minute."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Spread 1/4 of the guacamole onto each pita (you can use more or less if desired) and then top with your favorite toppings."
+    }
+  ],
+  "recipeYield": "4",
+  "sameAs": [
+    "https://shelikesfood.com/1/post/2017/08/guacamole-pita-pizzas.html"
+  ],
+  "totalTime": "PT20M",
+  "updatedAt": "2022-12-02T09:59:27.888Z",
+  "url": "https://www.shelikesfood.com/guacamole-pita-pizzas/",
+  "video": {
+    "@context": "http://schema.org",
+    "@type": "VideoObject",
+    "contentUrl": "https://www.youtube.com/watch?v=siUukmTNGwU",
+    "description": "How to make Guacamole Pita Pizzas - These Guacamole Pita Pizzas are a quick, easy and delicious no-cook vegan meal!  They're perfect when you want a healthy meal but don't want to cook very much!",
+    "embedUrl": "https://www.youtube.com/embed/siUukmTNGwU?feature=oembed",
+    "name": "Guacamole Pita Pizzas",
+    "thumbnailUrl": [
+      "https://i.ytimg.com/vi/siUukmTNGwU/hqdefault.jpg"
+    ],
+    "uploadDate": "2017-08-03"
+  }
+}

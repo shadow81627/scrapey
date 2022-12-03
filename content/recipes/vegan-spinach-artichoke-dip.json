@@ -2,75 +2,159 @@
   "@type": "Recipe",
   "aggregateRating": {
     "@type": "AggregateRating",
-    "ratingCount": "6",
-    "ratingValue": "5"
+    "ratingCount": "32",
+    "ratingValue": "4.88"
   },
   "author": {
     "@type": "Person",
-    "name": "Sarah McMinn"
+    "name": "Yup, it's Vegan"
   },
-  "cookTime": "PT25M",
+  "cookTime": "PT20M",
   "createdAt": "2022-12-01T07:42:22.062Z",
-  "datePublished": "2018-02-14T07:00:46+00:00",
-  "description": "Impress all your friends with this extra creamy and rich vegan Spinach Artichoke Dip - a warm dip or spread that is perfect for your next party.",
+  "datePublished": "2018-09-12T06:48:48+00:00",
+  "description": "A creamy and delicious baked vegan spinach artichoke dip, served warm from the oven and made from scratch with no processed substitutes.",
   "image": [
-    "https://www.mydarlingvegan.com/wp-content/uploads/2018/01/dip5.jpg",
-    "https://www.mydarlingvegan.com/wp-content/uploads/2018/01/dip5-500x500.jpg",
-    "https://www.mydarlingvegan.com/wp-content/uploads/2018/01/dip5-500x375.jpg",
-    "https://www.mydarlingvegan.com/wp-content/uploads/2018/01/dip5-480x270.jpg"
+    "https://yupitsvegan.com/wp-content/uploads/2014/01/vegan-spinach-artichoke-dip-dairy-free-4.jpg",
+    "https://yupitsvegan.com/wp-content/uploads/2014/01/vegan-spinach-artichoke-dip-dairy-free-4-500x500.jpg",
+    "https://yupitsvegan.com/wp-content/uploads/2014/01/vegan-spinach-artichoke-dip-dairy-free-4-500x375.jpg",
+    "https://yupitsvegan.com/wp-content/uploads/2014/01/vegan-spinach-artichoke-dip-dairy-free-4-480x270.jpg"
   ],
-  "keywords": "Vegan Spinach Artichoke Dip",
+  "keywords": "dairy-free spinach artichoke dip, vegan spinach artichoke dip",
+  "mentions": [
+    {
+      "@id": "https://yupitsvegan.com/tag/high-vegetable/#id",
+      "@type": "http://schema.org/Thing",
+      "description": "In everyday usage, a vegetable is any part of a plant that is consumed by humans as food as part of a savory meal. The term vegetable is somewhat arbitrary, and largely defined through culinary and cultural tradition. It normally excludes other food derived from plants such as fruits, nuts and cereal grains, but includes...",
+      "name": "vegetable",
+      "sameAs": [
+        "http://ko.dbpedia.org/resource/채소",
+        "http://wikidata.dbpedia.org/resource/Q11004",
+        "http://eu.dbpedia.org/resource/Barazki",
+        "http://purl.obolibrary.org/obo/FOODON_00002141",
+        "http://pl.dbpedia.org/resource/Warzywa",
+        "http://fr.dbpedia.org/resource/Légume",
+        "https://en.wikipedia.org/wiki/Vegetable",
+        "http://de.dbpedia.org/resource/Gemüse",
+        "http://el.dbpedia.org/resource/Λαχανικό",
+        "http://rdf.freebase.com/ns/m.0f4s2w",
+        "http://nl.dbpedia.org/resource/Groente",
+        "http://cs.dbpedia.org/resource/Zelenina",
+        "http://es.dbpedia.org/resource/Verdura",
+        "http://www.wikidata.org/entity/Q11004",
+        "http://dbpedia.org/resource/Vegetable",
+        "http://d-nb.info/gnd/4020069-3",
+        "http://it.dbpedia.org/resource/Verdura",
+        "http://ja.dbpedia.org/resource/野菜",
+        "http://id.dbpedia.org/resource/Sayuran",
+        "https://knowledge.cafemedia.com/food/entity/fruit_vegetable"
+      ]
+    },
+    {
+      "@id": "https://yupitsvegan.com/tag/nuts-and-seeds/#id",
+      "@type": "http://schema.org/Thing",
+      "description": "A nut is a fruit composed of a hard shell and a seed, which is generally edible. In a general context, however, a wide variety of dried seeds are called nuts, but in a botanical context, there is an additional requirement that the shell does not open to release the seed (indehiscent). The translation of...",
+      "name": "tree nut",
+      "sameAs": [
+        "http://wikidata.dbpedia.org/resource/Q11009",
+        "http://pl.dbpedia.org/resource/Orzechy_(bakalie)",
+        "http://www.wikidata.org/entity/Q11009",
+        "http://id.dbpedia.org/resource/Buah_geluk",
+        "http://nl.dbpedia.org/resource/Noot_(plantaardig)",
+        "http://d-nb.info/gnd/4042827-8",
+        "http://fr.dbpedia.org/resource/Fruit_à_coque",
+        "http://rdf.freebase.com/ns/m.01lbxg",
+        "http://dbpedia.org/resource/Nut_(fruit)",
+        "http://ja.dbpedia.org/resource/種実類",
+        "http://yago-knowledge.org/resource/Nut_(fruit)",
+        "http://purl.obolibrary.org/obo/FOODON_03301354",
+        "http://pt.dbpedia.org/resource/Noz",
+        "http://cs.dbpedia.org/resource/Oříšek",
+        "http://ko.dbpedia.org/resource/견과",
+        "http://de.dbpedia.org/resource/Nussfrucht",
+        "https://en.wikipedia.org/wiki/Nut_(fruit)",
+        "http://es.dbpedia.org/resource/Nuez_(fruto)",
+        "http://el.dbpedia.org/resource/Κάρυο_(βοτανική)",
+        "https://knowledge.cafemedia.com/food/entity/tree_nut"
+      ]
+    }
+  ],
   "name": "Vegan Spinach Artichoke Dip",
   "nutrition": {
     "@type": "NutritionInformation",
-    "calories": "124 kcal",
-    "carbohydrateContent": "7 g",
-    "fatContent": "10 g",
-    "fiberContent": "1 g",
-    "proteinContent": "2 g",
-    "saturatedFatContent": "3 g",
-    "servingSize": "1 serving",
-    "sodiumContent": "181 mg",
-    "sugarContent": "1 g"
+    "calories": "111 kcal",
+    "carbohydrateContent": "9 g",
+    "fatContent": "6 g",
+    "fiberContent": "3 g",
+    "proteinContent": "5 g",
+    "saturatedFatContent": "1 g",
+    "servingSize": "1 half cup",
+    "sodiumContent": "473 mg",
+    "sugarContent": "1 g",
+    "unsaturatedFatContent": "5 g"
   },
   "prepTime": "PT10M",
-  "recipeCategory": "Side Dish",
-  "recipeCuisine": "Gluten-Free",
+  "recipeCategory": "Appetizer",
+  "recipeCuisine": "gluten-free",
   "recipeIngredient": [
-    "1 (10 ounce) package of frozen spinach, (thawed and drained)",
-    "1 (14 ounce) can of artichoke hearts, (drained and chopped)",
-    "1/2 cup vegan sour cream",
-    "4 cloves garlic, (minced)",
-    "8 ounces vegan cream cheese",
-    "3/4 cup vegan parmesan + more to sprinkle on top",
-    "1/4 tsp pepper"
+    "1/4 cup raw cashews (soaked overnight in cold water (see notes)",
+    "1 cup plain, unsweetened non-dairy milk",
+    "1 tsp fresh lemon juice or apple cider vinegar",
+    "2 tbsp + 1/2 tsp tapioca starch",
+    "1 tsp olive oil",
+    "3/4 tsp salt",
+    "1 tbsp nutritional yeast",
+    "2 tsp yellow or white miso (optional)",
+    "1 tbsp olive oil",
+    "1/2 white or yellow onion (thinly sliced)",
+    "3 cloves garlic (minced)",
+    "1/4 tsp red pepper flakes (or less to taste)",
+    "1/8 tsp freshly ground black pepper (or to taste)",
+    "1/4 tsp paprika",
+    "1 14-oz. can artichoke hearts (drained and roughly chopped (drained weight 8 oz; I used the unmarinated kind)",
+    "2 oz. fresh baby spinach (thinly sliced)"
   ],
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "text": "Preheat the oven to 375."
+      "text": "Preheat the oven to 350 degrees Fahrenheit and lightly grease a cast iron skillet (mine is about 6 inches in diameter) or ramekin."
     },
     {
       "@type": "HowToStep",
-      "text": "Drain all the excess water out of the thawed spinach and place in a large bowl with the vegan sour cream, artichoke hearts, and garlic. Stir to combine."
+      "text": "Combine all of the ingredients for the blender mixture in a blender or food processor, scraping down the sides as needed and blending until completely smooth. Strain using a nut milk bag if needed. Set aside."
     },
     {
       "@type": "HowToStep",
-      "text": "Add vegan cream cheese, 3/4 cup vegan parmesan, and pepper. Stir again until all the ingredients are evenly distributed."
+      "text": "In a wide skillet or saute pan, heat the olive oil of medium heat. Add the onion and cook, stirring occasionally, for 4-5 minutes or until the onion is translucent and starting to turn golden. Add the garlic, chili flakes, pepper, and paprika and stir. Cook for another 1 minute or until fragrant."
     },
     {
       "@type": "HowToStep",
-      "text": "Transfer the dip into an 8\" cast iron skillet or similar sized baking dish. Bake for 25 minutes until light brown and bubbling slightly underneath."
+      "text": "Give the reserved blender mixture another stir and then add it to the pan. Stir every few seconds, making sure to scrape around the bottom of the saucepan to keep from sticking. The mixture will start to get chunky in places; when you see this happening, start to stir constantly until the mixture smooths out again and becomes one cohesive, somewhat stretchy mass."
     },
     {
       "@type": "HowToStep",
-      "text": "Turn oven to broil and broil for 2-3 minutes to get the top a slightly darker brown. Remove from oven and serve immediately with a toasted baguette or crackers."
+      "text": "Add the spinach and artichoke hearts to the pan and stir in as best you can. Continue to cook for about 2 minutes more or until the spinach pieces wilt a little bit."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Taste the mixture for salt and add more if desired. Transfer to the prepared dish and smooth out. For improved browning, lightly spray or brush the top with additional olive oil. If you have a broiler, bake for 10 minutes and then broil on high for another 3-4 minutes, until nice and browned and bubbly on top. If you don’t have a broiler, bake for about 15-20 minutes, or until slightly crusty and light brown on top."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Remove from the oven, let cool for a couple of minutes so that nobody burns their mouths, and then serve hot."
     }
   ],
-  "recipeYield": "8",
+  "recipeYield": "3",
   "sameAs": [
-    "https://mydarlingvegan.com/vegan-spinach-artichoke-dip"
+    "https://yupitsvegan.com/2014/01/21/hot-spinach-artichoke-dip"
   ],
-  "totalTime": "PT35M",
-  "updatedAt": "2022-12-02T00:43:59.928Z"
+  "totalTime": "PT30M",
+  "updatedAt": "2022-12-02T23:17:30.710Z",
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/ctRg4ChS.mp4",
+    "description": "Classic spinach artichoke dip, vegan-style and made from scratch.",
+    "name": "Vegan Spinach Artichoke Dip",
+    "thumbnailUrl": "https://content.jwplatform.com/thumbs/ctRg4ChS-720.jpg",
+    "uploadDate": "2018-09-12T01:37:45.000Z"
+  }
 }

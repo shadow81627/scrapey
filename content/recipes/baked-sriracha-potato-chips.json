@@ -1,0 +1,71 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1",
+    "ratingValue": "5"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Oh My Veggies"
+  },
+  "cookTime": "PT20M",
+  "createdAt": "2022-12-02T22:12:53.875Z",
+  "datePublished": "2020-07-03T06:00:17+00:00",
+  "description": "These spicy homemade sriracha potato chips are absolutely addictive!",
+  "image": [
+    "https://ohmyveggies.com/wp-content/uploads/2012/07/baked_sriracha_potato_chips_close.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2012/07/baked_sriracha_potato_chips_close-500x492.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2012/07/baked_sriracha_potato_chips_close-500x375.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2012/07/baked_sriracha_potato_chips_close-480x270.jpg"
+  ],
+  "keywords": "Baked Sriracha Potato Chips, homemade potato chips, homemade sriracha potato chips",
+  "name": "Baked Sriracha Potato Chips",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "146 kcal",
+    "carbohydrateContent": "19 g",
+    "fatContent": "7 g",
+    "fiberContent": "1 g",
+    "proteinContent": "2 g",
+    "saturatedFatContent": "1 g",
+    "servingSize": "1 serving",
+    "sodiumContent": "58 mg",
+    "sugarContent": "1 g",
+    "unsaturatedFatContent": "5 g"
+  },
+  "prepTime": "PT10M",
+  "recipeCategory": "Appetizer",
+  "recipeCuisine": "American",
+  "recipeIngredient": [
+    "cooking spray or oil mister",
+    "1 tbsp peanut oil (canola or vegetable oil would work too)",
+    "1 tsp sriracha",
+    "1 large Russet potato",
+    "salt (to taste)"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Preheat oven to 400°F. Coat 2 baking sheets with cooking spray or oil."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Line potato slices on baking sheets. Whisk together peanut oil and sriracha in a small bowl. It takes a while to fully incorporate the sriracha into the oil—be persistent!"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Brush potato slices with sriracha oil mixture and sprinkle with salt. Bake for 10–20 minutes—baking time depends on oven temperature and thickness of slices. It's really important that after 10 minutes, you check on these every minute or so because they go from perfectly done to burnt really quickly! They'll be done when the edges begin to brown—some parts may still be a little bit soft, but that's to be expected with baked potato chips. Serve right away—homemade potato chips don't store well."
+    }
+  ],
+  "recipeYield": "2",
+  "sameAs": [
+    "https://ohmyveggies.com/baked-sriracha-potato-chips"
+  ],
+  "suitableForDiet": [
+    "https://schema.org/VeganDiet",
+    "https://schema.org/VegetarianDiet"
+  ],
+  "totalTime": "PT30M",
+  "updatedAt": "2022-12-02T22:12:53.873Z"
+}

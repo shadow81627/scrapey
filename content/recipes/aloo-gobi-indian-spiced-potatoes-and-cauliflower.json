@@ -1,0 +1,85 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "3",
+    "ratingValue": "5"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Oh My Veggies"
+  },
+  "cookTime": "PT30M",
+  "createdAt": "2022-12-03T00:18:59.048Z",
+  "datePublished": "2017-09-13T08:00:00+00:00",
+  "description": "Hearty potatoes and tender cauliflower florets are cooked up with tomatoes and Indian spices to make this flavor-packed aloo gobi.",
+  "image": [
+    "https://ohmyveggies.com/wp-content/uploads/2017/09/spiced_potato_and_cauliflower1.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2017/09/spiced_potato_and_cauliflower1-500x500.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2017/09/spiced_potato_and_cauliflower1-500x375.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2017/09/spiced_potato_and_cauliflower1-480x270.jpg"
+  ],
+  "keywords": "Aloo Gobi, spiced potato and cauliflower, Spiced Potatoes and Cauliflower",
+  "name": "Aloo Gobi (Indian-Spiced Potatoes and Cauliflower)",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "456 kcal",
+    "carbohydrateContent": "87 g",
+    "fatContent": "8 g",
+    "fiberContent": "7 g",
+    "proteinContent": "11 g",
+    "saturatedFatContent": "6 g",
+    "servingSize": "1 serving",
+    "sodiumContent": "387 mg",
+    "sugarContent": "6 g",
+    "unsaturatedFatContent": "2 g"
+  },
+  "prepTime": "PT15M",
+  "recipeCategory": "Main Course",
+  "recipeCuisine": "American",
+  "recipeIngredient": [
+    "2 tablespoons vegetable oil",
+    "1 medium yellow onion (coarsely chopped)",
+    "3 garlic cloves (finely chopped)",
+    "2 teaspoons fresh ginger (peeled and minced)",
+    "1 green chili (jalapeño or serrano, sliced)",
+    "1/2 teaspoon cumin seeds",
+    "1 1/2 pounds 2 large russet potatoes, peeled and cut into 1-inch cubes",
+    "1 pound 1 medium cauliflower, cut into 2-inch florets",
+    "1/2 teaspoon sea salt",
+    "1/2 teaspoon ground turmeric",
+    "1 1/2 - 2 cups water",
+    "1 large tomato (cut into 1-inch cubes)",
+    "1/2 teaspoon garam masala",
+    "1/2 cup fresh cilantro (chopped)",
+    "4 cups cooked basmati rice"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "In a large saucepan, heat up the oil over medium heat. Once the oil is hot, add the onion and garlic and stir-fry until soft and translucent, 1-2 minutes. Add the ginger, chili, and cumin seeds, and stir-fry for another 1 minute."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add the potatoes and cauliflower and cook, stirring frequently, for about 4-5 minutes. Add the sea salt, ground turmeric, and 1 1/2 cups of water. Stir to mix all the ingredients well. Bring to a boil and reduce the heat to a simmer. Cover and cook, stirring occasionally, until the potatoes and cauliflower are fork tender and the liquid has been reduced, about 15-20 minutes. You may need to add more water if it gets too dry, but this dish is meant to be thick."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add the tomato and cook for another 2-3 minutes. Sprinkle in the garam masala and chopped cilantro and toss to mix."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Serve immediately with the cooked basmati rice."
+    }
+  ],
+  "recipeYield": "4",
+  "sameAs": [
+    "https://ohmyveggies.com/aloo-gobi"
+  ],
+  "suitableForDiet": [
+    "https://schema.org/VeganDiet",
+    "https://schema.org/VegetarianDiet"
+  ],
+  "totalTime": "PT45M",
+  "updatedAt": "2022-12-03T00:18:59.047Z"
+}

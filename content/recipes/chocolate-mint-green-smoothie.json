@@ -1,0 +1,67 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1",
+    "ratingValue": "5"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Oh My Veggies"
+  },
+  "createdAt": "2022-12-02T12:29:08.874Z",
+  "datePublished": "2014-01-08T07:00:45+00:00",
+  "description": "A meal-worthy green smoothie that tastes like a dessert!",
+  "image": [
+    "https://ohmyveggies.com/wp-content/uploads/2014/01/chocolate_mint_green_smoothie_recipe.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2014/01/chocolate_mint_green_smoothie_recipe-500x400.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2014/01/chocolate_mint_green_smoothie_recipe-500x375.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2014/01/chocolate_mint_green_smoothie_recipe-480x270.jpg"
+  ],
+  "keywords": "Chocolate Mint Green Smoothie, green smoothie, smoothie recipe, vegan smoothie",
+  "name": "Chocolate Mint Green Smoothie",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "248 kcal",
+    "carbohydrateContent": "13 g",
+    "cholesterolContent": "1 mg",
+    "fatContent": "21 g",
+    "fiberContent": "10 g",
+    "proteinContent": "5 g",
+    "saturatedFatContent": "5 g",
+    "servingSize": "1 serving",
+    "sodiumContent": "353 mg",
+    "sugarContent": "1 g",
+    "unsaturatedFatContent": "14 g"
+  },
+  "prepTime": "PT5M",
+  "recipeCategory": "Breakfast",
+  "recipeCuisine": "American",
+  "recipeIngredient": [
+    "2 heaping cups organic spinach",
+    "1 cup unsweetened almond milk (or your milk of choice)",
+    "1 cup filtered water (more or less, for desired thickness)",
+    "1/2 avocado (pit and skin removed)",
+    "1 scoop chocolate protein powder of choice",
+    "1/4 cup fresh mint or 1 drop of mint extract",
+    "1 tablespoon dark chocolate chips or cacao nibs",
+    "Stevia to taste (for sweetness)",
+    "Ice (optional)"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Add all of the ingredients to a high-speed blender and blend until thick and smooth."
+    }
+  ],
+  "recipeYield": "1",
+  "sameAs": [
+    "https://ohmyveggies.com/perfect-smoothie"
+  ],
+  "suitableForDiet": [
+    "https://schema.org/VeganDiet",
+    "https://schema.org/VegetarianDiet"
+  ],
+  "totalTime": "PT5M",
+  "updatedAt": "2022-12-02T12:29:08.873Z"
+}

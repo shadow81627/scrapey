@@ -1,0 +1,58 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "<b>INGREDIENTS:</b> Sugar, Glucose Syrup, Water, Acidity Regulator (260, 330, 331), Salt, Gelling Agent (440), Mint Leaves (0.12%), Colour (Carotene, Gardenia Blue), Mint Oil."
+    },
+    {
+      "name": "Allergen",
+      "value": "Contains CEREALS CONTAINING GLUTEN"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "6.0"
+    },
+    {
+      "name": "Size",
+      "value": "300g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.60 per 100G"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2022-12-03T14:44:31.458Z",
+  "description": "Traditional and sweet",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/6/5/5/6551313.jpg",
+  "name": "Mint Jelly",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 1.8,
+    "lowPrice": 1.8,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-03T14:44:31.457Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "1.80",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-brand-jelly-mint"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/coles-brand-jelly-mint"
+  ],
+  "sku": "6551313",
+  "updatedAt": "2022-12-03T14:44:31.458Z"
+}

@@ -1,0 +1,66 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Roasted Peanuts (99.3%), Sea Salt."
+    },
+    {
+      "name": "Contains",
+      "value": "Peanuts."
+    },
+    {
+      "name": "Allergen",
+      "value": "May Be Present Sesame, May Be Present Tree Nuts, Contains Peanuts"
+    },
+    {
+      "name": "Dietary",
+      "value": "Cholesterol free, No Added Sugars"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "19.0"
+    },
+    {
+      "name": "Size",
+      "value": "375g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.55 per 100G"
+    }
+  ],
+  "brand": "Mayvers",
+  "createdAt": "2022-12-02T20:06:38.231Z",
+  "description": "Mayvers Extra Crunchy Natural Peanut Butter",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/8/5/3851172.jpg",
+  "name": "Extra Crunchy Natural Peanut Butter",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 5.8,
+    "lowPrice": 5.8,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-02T20:06:38.230Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "5.80",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/mayvers-extra-crunchy-peanut-butter"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/mayvers-extra-crunchy-peanut-butter"
+  ],
+  "sku": "3851172",
+  "updatedAt": "2022-12-02T20:06:38.230Z"
+}

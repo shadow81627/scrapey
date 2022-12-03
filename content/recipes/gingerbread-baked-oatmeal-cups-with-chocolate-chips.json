@@ -1,0 +1,85 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "5",
+    "reviewCount": "3"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "She Likes Food"
+  },
+  "cookTime": "PT20M",
+  "createdAt": "2022-12-03T11:46:34.800Z",
+  "datePublished": "2017-11-29",
+  "description": "A healthy and delicious make ahead breakfast with a seasonal twist!",
+  "image": [
+    "https://www.shelikesfood.com/wp-content/uploads/2017/11/Gingerbread-Chocolate-Chip-Baked-Oatmeal-Cups-1311-225x225.jpg",
+    "https://www.shelikesfood.com/wp-content/uploads/2017/11/Gingerbread-Chocolate-Chip-Baked-Oatmeal-Cups-1311-260x195.jpg",
+    "https://www.shelikesfood.com/wp-content/uploads/2017/11/Gingerbread-Chocolate-Chip-Baked-Oatmeal-Cups-1311-320x180.jpg",
+    "https://www.shelikesfood.com/wp-content/uploads/2017/11/Gingerbread-Chocolate-Chip-Baked-Oatmeal-Cups-1311.jpg"
+  ],
+  "name": "Gingerbread Baked Oatmeal Cups with Chocolate Chips",
+  "nutrition": {
+    "@type": "nutritionInformation",
+    "calories": "136 calories",
+    "carbohydrateContent": "26 g",
+    "cholesterolContent": "0 mg",
+    "fatContent": "2 g",
+    "fiberContent": "3 g",
+    "proteinContent": "4 g",
+    "saturatedFatContent": "0 g",
+    "servingSize": "1 Oatmeal Cup",
+    "sodiumContent": "1696 mg",
+    "sugarContent": "7 g"
+  },
+  "prepTime": "PT10M",
+  "recipeCategory": "Breakfast",
+  "recipeIngredient": [
+    "4 cups old fashioned oats, gluten free certified if necessary",
+    "2 teaspoons ground cinnamon",
+    "1/2 teaspoon ground nutmeg",
+    "1/2 teaspoon ground cloves",
+    "1 teaspoon ground ginger",
+    "1 teaspoon baking powder",
+    "1/2 teaspoon salt",
+    "2 1/3 cup unsweetened almond milk",
+    "1/4 cup coconut sugar or brown sugar",
+    "2 teaspoons vanilla extract",
+    "2 tablespoons molasses",
+    "1/3 cup chocolate chips, I like to use mini dairy free chocolate chips"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Pre-heat oven to 375 degrees F. Add the dry ingredients to a large bowl and mix well until everything is combined. Next, add the wet ingredients and mix again. Stir in the chocolate chips."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Spray a muffin tin with cooking spray and scoop oatmeal mixture in using a large ice cream scoop or a 1/4 measuring cup."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Bake oatmeal cups for 20 minutes, or until cooked through."
+    }
+  ],
+  "recipeYield": "12",
+  "sameAs": [
+    "https://shelikesfood.com/gingerbread-baked-oatmeal-cups-chocolate-chips"
+  ],
+  "totalTime": "PT30M",
+  "updatedAt": "2022-12-03T11:46:34.799Z",
+  "url": "https://www.shelikesfood.com/gingerbread-baked-oatmeal-cups-chocolate-chips/",
+  "video": {
+    "@context": "http://schema.org",
+    "@type": "VideoObject",
+    "contentUrl": "https://www.youtube.com/watch?v=Vu19OLSjlzA",
+    "description": "These Gingerbread Baked Oatmeal Cups with Chocolate Chips are a delicious and seasonal make ahead breakfast recipe!  Gluten free and vegan too!  Get the recipe here:https://www.shelikesfood.com/gingerbread-baked-oatmeal-cups-chocolate-chips/",
+    "embedUrl": "https://www.youtube.com/embed/Vu19OLSjlzA?feature=oembed",
+    "name": "How to make Gingerbread Baked Oatmeal Cups with Chocolate Chips",
+    "thumbnailUrl": [
+      "https://i.ytimg.com/vi/Vu19OLSjlzA/hqdefault.jpg"
+    ],
+    "uploadDate": "2017-11-30"
+  }
+}

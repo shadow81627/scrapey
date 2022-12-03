@@ -1,6 +1,20 @@
 {
   "@type": "Product",
-  "additionalProperty": [],
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "-",
+      "carbohydrateContent": "-",
+      "dietary_fibre": "-",
+      "fatContent": "-",
+      "name": "nutrition",
+      "proteinContent": "-",
+      "saturatedFatContent": "-",
+      "servingSize": "100 g",
+      "sodiumContent": "-",
+      "sugarContent": "-"
+    }
+  ],
   "brand": {
     "@context": "http://schema.org",
     "@type": "Organization",
@@ -9,26 +23,26 @@
   "createdAt": "2020-11-25T21:33:46.000Z",
   "description": "Good source of vitamin C for immunity and to help reduce tiredness and fatigue (1)\n(1) One 75g serve contains 13.5mg (33% Recommended Dietary Intake) of vitamin C as part of a healthy balanced diet.",
   "gtin13": "9300633522407",
-  "image": {
-    "@type": "ImageObject",
-    "height": 1200,
-    "mime": "image/jpeg",
-    "url": "https://cdn0.woolworths.media/content/wowproductimages/large/889924.jpg",
-    "width": 1200
-  },
-  "name": "Woolworths Sweet Berry Truss Tomatoes Punnet 130g",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/889924.jpg",
+  "name": "Woolworths Sweet Berry Truss Tomatoes Punnet 130G",
   "offers": {
     "@type": "AggregateOffer",
-    "highPrice": 0,
-    "lowPrice": 0,
+    "highPrice": null,
+    "lowPrice": null,
     "offerCount": 1,
     "offers": [
       {
         "@context": "http://schema.org",
         "@type": "Offer",
-        "availabilityStarts": "2020-11-22T07:46:58.476Z",
+        "availability": "http://schema.org/OutOfStock",
+        "availabilityStarts": "2022-12-02T09:06:23.025Z",
+        "itemCondition": "http://schema.org/NewCondition",
         "offeredBy": "Woolworths",
-        "price": "",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "priceCurrency": "AUD",
         "seller": {
           "@type": "Organization",
           "name": "Woolworths"
@@ -41,5 +55,5 @@
     "https://woolworths.com.au/shop/productdetails/889924/woolworths-sweet-berry-truss-tomatoes-punnet"
   ],
   "sku": "889924",
-  "updatedAt": "2020-11-22T07:46:58.476Z"
+  "updatedAt": "2022-12-02T09:06:23.025Z"
 }

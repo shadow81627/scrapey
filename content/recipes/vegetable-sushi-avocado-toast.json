@@ -1,0 +1,47 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "5",
+    "reviewCount": "1"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "She Likes Food"
+  },
+  "createdAt": "2022-12-02T19:30:26.537Z",
+  "datePublished": "2017-01-23",
+  "image": {
+    "@type": "ImageObject",
+    "height": 1000,
+    "url": "https://www.shelikesfood.com/wp-content/uploads/2017/01/Vegetable-Sushi-Avocado-Toast-8225.jpg",
+    "width": 667
+  },
+  "name": "Vegetable Sushi Avocado Toast",
+  "recipeCategory": "Breakfast",
+  "recipeIngredient": [
+    "Bread, toasted",
+    "Avocado, mashed",
+    "Shredded Carrot",
+    "Shredded Cucumber",
+    "Seaweed, chopped into small pieces",
+    "Sesame Seeds",
+    "Soy sauce, gluten free if necessary",
+    "Wasabi paste"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Pour about a tablespoon of soy sauce into a small bowl and squeeze desired amount of wasabi paste in. Whisk and set aside."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Spread the mashed avocado onto the bread and top with carrot, cucumber, seaweed and sesame seeds. Drizzle over desired amount of sauce and enjoy!"
+    }
+  ],
+  "sameAs": [
+    "https://shelikesfood.com/vegetable-sushi-avocado-toast"
+  ],
+  "updatedAt": "2022-12-02T19:30:26.536Z",
+  "url": "https://www.shelikesfood.com/vegetable-sushi-avocado-toast/"
+}

@@ -1,0 +1,54 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "<strong>INGREDIENTS:</strong> Australian Cane Sugar."
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "250.0"
+    },
+    {
+      "name": "Size",
+      "value": "1 kg"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.22 per 100G"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2022-12-02T22:22:19.655Z",
+  "description": "Coles Caster Sugar",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/9/0/2909357.jpg",
+  "name": "Caster Sugar",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2.2,
+    "lowPrice": 2.2,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-02T22:22:19.655Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "2.20",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-caster-sugar"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/coles-caster-sugar"
+  ],
+  "sku": "2909357",
+  "updatedAt": "2022-12-02T22:22:19.655Z"
+}

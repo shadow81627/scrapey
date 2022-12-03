@@ -1,0 +1,70 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "2",
+    "ratingValue": "5"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Oh My Veggies"
+  },
+  "createdAt": "2022-12-03T10:12:37.378Z",
+  "datePublished": "2016-10-12T10:49:36+00:00",
+  "description": "Reprinted from The Apple Cider Vinegar Companion by Suzy Scherr, with permission of publisher.",
+  "image": [
+    "https://ohmyveggies.com/wp-content/uploads/2016/10/GreenTeaTonic-1.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2016/10/GreenTeaTonic-1-500x454.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2016/10/GreenTeaTonic-1-500x375.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2016/10/GreenTeaTonic-1-480x270.jpg"
+  ],
+  "keywords": "Apple Cider Vinegar Apple Cider Vinegar drink recipe, Apple Cider Vinegar Tonic, Green Tea &amp; Apple Cider Vinegar Tonic, green tea recipe",
+  "name": "Green Tea & Apple Cider Vinegar Tonic",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "96 kcal",
+    "carbohydrateContent": "25 g",
+    "fatContent": "1 g",
+    "fiberContent": "1 g",
+    "proteinContent": "1 g",
+    "saturatedFatContent": "1 g",
+    "servingSize": "1 serving",
+    "sodiumContent": "22 mg",
+    "sugarContent": "23 g",
+    "unsaturatedFatContent": "2 g"
+  },
+  "prepTime": "PT20M",
+  "recipeCategory": "Drinks",
+  "recipeCuisine": "American",
+  "recipeIngredient": [
+    "6 cups water",
+    "1/4 cup peeled and roughly chopped fresh ginger",
+    "3 to 6 green tea bags",
+    "1/2 cup mint leaves",
+    "1/3 cup honey",
+    "2 tablespoons apple cider vinegar"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "In a medium pot, combine the water and ginger. Bring to a boil, then remove from the heat and add the tea bags and mint leaves. Cover and steep for about 15 minutes."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Using a fine-mesh sieve, strain out the ginger, tea, and mint and discard. Add the honey and vinegar to the tea and stir to combine."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Transfer to a pitcher and let cool to room temperature before refrigerating."
+    }
+  ],
+  "recipeYield": "4",
+  "sameAs": [
+    "https://ohmyveggies.com/green-tea-apple-cider-vinegar-tonic-from-the-apple-cider-vinegar-companion"
+  ],
+  "suitableForDiet": [
+    "https://schema.org/VegetarianDiet"
+  ],
+  "totalTime": "PT50M",
+  "updatedAt": "2022-12-03T10:12:37.377Z"
+}

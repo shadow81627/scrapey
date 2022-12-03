@@ -1,0 +1,95 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "51",
+    "ratingValue": "4.97"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Sam Turnbull • It Doesn't Taste Like Chicken"
+  },
+  "createdAt": "2022-12-03T07:08:11.046Z",
+  "datePublished": "2017-08-23T09:56:43+00:00",
+  "description": "Serve this as a dip with some veg and chopped up pita, or use on any of your favourite Greek foods.",
+  "image": [
+    "https://itdoesnttastelikechicken.com/wp-content/uploads/2017/08/Easy-Vegan-Tzatziki-dairy-free-greek-tofu-cucumber.jpg",
+    "https://itdoesnttastelikechicken.com/wp-content/uploads/2017/08/Easy-Vegan-Tzatziki-dairy-free-greek-tofu-cucumber-500x500.jpg",
+    "https://itdoesnttastelikechicken.com/wp-content/uploads/2017/08/Easy-Vegan-Tzatziki-dairy-free-greek-tofu-cucumber-500x375.jpg",
+    "https://itdoesnttastelikechicken.com/wp-content/uploads/2017/08/Easy-Vegan-Tzatziki-dairy-free-greek-tofu-cucumber-480x270.jpg"
+  ],
+  "mentions": [
+    {
+      "@id": "https://itdoesnttastelikechicken.com/tag/tofu/#id",
+      "@type": "http://schema.org/Thing",
+      "description": "Tofu, also known as bean curd, is a food made by coagulating soy milk and then pressing the resulting curds into soft white blocks. It is a component in East Asian and Southeast Asian cuisines. Tofu can be soft, firm, or extra firm. Tofu has a subtle flavor and can be used in savory and...",
+      "name": "bean curd",
+      "sameAs": [
+        "http://el.dbpedia.org/resource/Τόφου",
+        "http://es.dbpedia.org/resource/Tofu",
+        "http://dbpedia.org/resource/Tofu",
+        "http://id.dbpedia.org/resource/Tahu",
+        "http://www.wikidata.org/entity/Q177378",
+        "http://rdf.freebase.com/ns/m.07s28",
+        "http://purl.obolibrary.org/obo/FOODON_03301839",
+        "http://pl.dbpedia.org/resource/Tofu",
+        "http://wikidata.dbpedia.org/resource/Q177378",
+        "http://fr.dbpedia.org/resource/Tofu",
+        "http://ko.dbpedia.org/resource/두부",
+        "http://d-nb.info/gnd/4060337-4",
+        "https://en.wikipedia.org/wiki/Tofu",
+        "http://cs.dbpedia.org/resource/Tofu",
+        "http://nl.dbpedia.org/resource/Tofoe",
+        "http://de.dbpedia.org/resource/Tofu",
+        "http://ja.dbpedia.org/resource/豆腐",
+        "http://it.dbpedia.org/resource/Tōfu",
+        "http://eu.dbpedia.org/resource/Tofu",
+        "http://pt.dbpedia.org/resource/Tofu",
+        "https://knowledge.cafemedia.com/food/entity/bean_curd"
+      ]
+    }
+  ],
+  "name": "Easy Vegan Tzatziki",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "79 kcal",
+    "carbohydrateContent": "2 g",
+    "fatContent": "6 g",
+    "fiberContent": "1 g",
+    "proteinContent": "4 g",
+    "saturatedFatContent": "1 g",
+    "servingSize": "1 (1/6 of the recipe)",
+    "sodiumContent": "100 mg",
+    "sugarContent": "1 g"
+  },
+  "prepTime": "PT10M",
+  "recipeCategory": "Side Dish",
+  "recipeCuisine": "Greek",
+  "recipeIngredient": [
+    "225 g medium-firm tofu, (drained)",
+    "2 tablespoons olive oil",
+    "2 cloves garlic, (minced)",
+    "1 tablespoon lemon juice",
+    "1 teaspoon apple cider vinegar",
+    "1 teaspoon dried dill",
+    "1/4 teaspoon salt",
+    "1/8 teaspoon black pepper",
+    "1/2 English cucumber"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Add everything but the cucumber to a blender or food processor and pulse several times until smooth stopping to scrape the sides as needed."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Slice the cucumber in half lengthwise then scoop out the seeds and discard (or save and toss into a smoothie later). Grate the seeded cucumber. Add the cucumber by picking it up by the handful and squeezing out excess water over the sink, then adding it to the blender or food processor. Pulse a couple of times to incorporate."
+    }
+  ],
+  "recipeYield": "6",
+  "sameAs": [
+    "https://itdoesnttastelikechicken.com/easy-vegan-tzatziki"
+  ],
+  "totalTime": "PT10M",
+  "updatedAt": "2022-12-03T07:08:11.046Z"
+}

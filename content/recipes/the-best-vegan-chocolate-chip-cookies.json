@@ -1,92 +1,73 @@
 {
   "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "26",
+    "ratingValue": "4.97"
+  },
   "author": {
     "@type": "Person",
-    "name": "She Likes Food"
+    "name": "Sam Turnbull • It Doesn't Taste Like Chicken"
   },
-  "cookingMethod": "Oven",
-  "cookTime": "PT12M",
+  "cookTime": "PT15M",
   "createdAt": "2022-12-02T07:51:03.155Z",
-  "datePublished": "2018-12-12",
-  "description": "These really are the Best Vegan Chocolate Chip Cookies!  You won't be able to eat just one!",
+  "datePublished": "2022-02-02T05:00:17+00:00",
+  "description": "These are hands down the best vegan chocolate chip cookies you will ever make! They are crispy on the outside, and perfectly chewy! They are sweet (but not too sweet), buttery, and oozing with melty chocolate. These cookies are easy to make, use only 1 bowl and 10 ingredients, and will stay chewy for days when kept at room temperature or freeze wonderfully as well. Recipe adapted from Fuss-Free Vegan.",
   "image": [
-    "https://www.shelikesfood.com/wp-content/uploads/2018/12/Vegan-Chocolate-Chip-Cookies-7839-225x225.jpg",
-    "https://www.shelikesfood.com/wp-content/uploads/2018/12/Vegan-Chocolate-Chip-Cookies-7839-260x195.jpg",
-    "https://www.shelikesfood.com/wp-content/uploads/2018/12/Vegan-Chocolate-Chip-Cookies-7839-320x180.jpg",
-    "https://www.shelikesfood.com/wp-content/uploads/2018/12/Vegan-Chocolate-Chip-Cookies-7839.jpg"
+    "https://itdoesnttastelikechicken.com/wp-content/uploads/2022/01/The-Best-Vegan-Chocolate-Chip-Cookies-recipe-chewy-easy.jpg",
+    "https://itdoesnttastelikechicken.com/wp-content/uploads/2022/01/The-Best-Vegan-Chocolate-Chip-Cookies-recipe-chewy-easy-500x500.jpg",
+    "https://itdoesnttastelikechicken.com/wp-content/uploads/2022/01/The-Best-Vegan-Chocolate-Chip-Cookies-recipe-chewy-easy-500x375.jpg",
+    "https://itdoesnttastelikechicken.com/wp-content/uploads/2022/01/The-Best-Vegan-Chocolate-Chip-Cookies-recipe-chewy-easy-480x270.jpg"
   ],
-  "keywords": "Best Vegan Chocolate Chip Cookies",
+  "keywords": "chocolate chip, cookies, vegan",
   "name": "The Best Vegan Chocolate Chip Cookies",
   "nutrition": {
-    "@type": "nutritionInformation",
-    "calories": "133 calories",
-    "carbohydrateContent": "19.6 g",
-    "cholesterolContent": "1.4 mg",
-    "fatContent": "5.3 g",
-    "fiberContent": "0.5 g",
-    "proteinContent": "1.7 g",
-    "saturatedFatContent": "1.8 g",
-    "servingSize": "1 Cookie",
-    "sodiumContent": "149 mg",
-    "sugarContent": "10.6 g",
-    "transFatContent": "0 g"
+    "@type": "NutritionInformation",
+    "calories": "203 kcal",
+    "carbohydrateContent": "32 g",
+    "fatContent": "8 g",
+    "fiberContent": "1 g",
+    "proteinContent": "2 g",
+    "saturatedFatContent": "4 g",
+    "servingSize": "1  cookie (recipe makes 18 cookies)",
+    "sodiumContent": "139 mg",
+    "sugarContent": "21 g",
+    "transFatContent": "0.03 g",
+    "unsaturatedFatContent": "3 g"
   },
-  "prepTime": "PT20M",
+  "prepTime": "PT10M",
   "recipeCategory": "Dessert",
   "recipeCuisine": "American",
   "recipeIngredient": [
-    "1 3/4 cup all purpose flour, GF AP flour would probably work too",
-    "3/4 teaspoon baking soda",
-    "1/4 teaspoon baking powder",
-    "1/4 teaspoon salt",
-    "3/4 cup softened vegan butter",
-    "1/2 cup light brown sugar",
-    "1/4 cup cane sugar or granulated sugar",
+    "3/4 cup brown sugar (packed)",
+    "1/2 cup white sugar",
+    "1/2 cup vegan butter (melted)",
+    "1/4 cup applesauce",
     "2 teaspoons vanilla extract",
-    "1 flax egg (1 tablespoon ground flaxseed mixed with 3 tablespoons water, let sit for 2 minutes)",
-    "3/4 cup chocolate chunks or chocolate chips, or more if you like!",
-    "Flaky sea salt (optional)"
+    "1 teaspoon apple cider vinegar (trust me on this)",
+    "1 3/4 cups all-purpose flour",
+    "1/2 teaspoon baking soda",
+    "1/2 teaspoon salt",
+    "8 oz chopped vegan chocolate"
   ],
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "text": "Prepare your vegan egg and set aside until ready to use. Mix together the flour, baking soda, baking powder and salt in a medium sized bowl."
+      "text": "Preheat your oven to 350F (180C). Line 2 large baking sheets with parchment paper."
     },
     {
       "@type": "HowToStep",
-      "text": "Next, add your softened butter to a large bowl, along with the brown and white sugar. Use an electric mixer to beat the butter and sugar together until light and fluffy, about 3 minutes. You want to make sure the butter is completely softened at room temperature."
+      "text": "In a large bowl, whisk together the brown sugar, white sugar, vegan butter, applesauce, vanilla extract, and apple cider vinegar. Add in the flour, baking soda, and salt, and use a spatula or wooden spoon to mix well. Lastly, stir in the chocolate."
     },
     {
       "@type": "HowToStep",
-      "text": "Add in the vegan egg and vanilla extract and beat again until everything is combined."
-    },
-    {
-      "@type": "HowToStep",
-      "text": "Add the flour mixture to the butter and sugar mixture and beat until everything comes together and you can easily form the batter into a ball."
-    },
-    {
-      "@type": "HowToStep",
-      "text": "Add in the chocolate chips and mix until they’re completely incorporated."
-    },
-    {
-      "@type": "HowToStep",
-      "text": "You can bake these cookies immediately if you want to, but I prefer to chill the dough for at least an hour before baking. Dough can be chilled up to about 5 days in the refrigerator if needed."
-    },
-    {
-      "@type": "HowToStep",
-      "text": "Pre-heat oven to 350 degrees F. Form the dough into balls, any size you like, and place on a baking sheet. Bake cookies until the bottom is just browned but the top still looks a little bit underdone (they will finished cooking as they cool and this will ensure that they are gooey on the inside). Cookies will take about 10-20 minutes total, depending on how big you make them. I like to take the cookies out after about 10 minutes and bang the cookie tray on the top of the oven so that they aren’t quite as thick. Sometimes I do that a few times during the cooking process."
-    },
-    {
-      "@type": "HowToStep",
-      "text": "Remove cookies from the oven and place on a cooling rack until ready to eat."
+      "text": "Take about 2 tablespoons of cookie dough (I used a cookie scoop), and place the ball of dough on the prepared baking sheet. Repeat, giving each cookie room to spread making about 18 cookies. Do not flatten the cookies. Bake 12 - 15 minutes until the edges are just beginning to brown. Allow the cookies to cool on the pan. The cookies will be puffy when you first remove them from the oven but will flatten more as they cool. They will also get chewier as they cool, and will become super chewy when left overnight uncovered at room temperature."
     }
   ],
-  "recipeYield": "12",
+  "recipeYield": "18",
   "sameAs": [
-    "https://shelikesfood.com/best-vegan-chocolate-chip-cookies"
+    "https://itdoesnttastelikechicken.com/the-best-vegan-chocolate-chip-cookies"
   ],
-  "suitableForDiet": "VeganDiet",
-  "totalTime": "PT32M",
-  "updatedAt": "2022-12-02T07:51:03.153Z",
-  "url": "https://www.shelikesfood.com/best-vegan-chocolate-chip-cookies/"
+  "totalTime": "PT25M",
+  "updatedAt": "2022-12-02T16:39:07.569Z"
 }

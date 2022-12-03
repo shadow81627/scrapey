@@ -3,7 +3,7 @@
   "additionalProperty": [
     {
       "name": "Ingredients",
-      "value": "Skim Milk, Milk Solids, Sugar, Colour (120), Flavour."
+      "value": "Milk, Skim Milk, Sugar, Colour (120), Flavour."
     },
     {
       "name": "Contains",
@@ -15,54 +15,48 @@
     },
     {
       "name": "Servings Per Pack",
-      "value": "3.0"
+      "value": "2.0"
     },
     {
       "name": "Size",
-      "value": "750mL"
+      "value": "600mL"
     },
     {
       "name": "Unit Price",
-      "value": "$5.07 per 1L"
+      "value": "$6.00 per 1L"
     }
   ],
   "brand": "Oak",
   "createdAt": "2020-10-12T05:22:04.000Z",
-  "description": "An Australian favourite for more than 40 years with its wide range of rich, creamy and authentic flavours - OAK is always the answer.",
-  "image": {
-    "@type": "ImageObject",
-    "height": 300,
-    "mime": "image/jpeg",
-    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/6/5/3655902.jpg",
-    "width": 300
-  },
+  "description": "OAK really hits the spot when you're hungrythirsty. An Australian favourite for more than 40 years with its wide range of rich, creamy and authentic flavours - OAK is always the answer.",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/1/3/0/13080.jpg",
   "name": "Strawberry Flavoured Milk",
   "offers": {
     "@type": "AggregateOffer",
-    "highPrice": 3.8,
-    "lowPrice": 3.8,
+    "highPrice": 3.6,
+    "lowPrice": 3.6,
     "offerCount": 1,
     "offers": [
       {
         "@context": "http://schema.org",
         "@type": "Offer",
         "availability": "https://schema.org/InStock",
-        "availabilityStarts": "2022-11-24T07:46:36.017Z",
+        "availabilityStarts": "2022-12-03T01:06:43.415Z",
         "itemCondition": "https://schema.org/NewCondition",
         "offeredBy": "Coles",
-        "price": "3.80",
+        "price": "3.60",
         "priceCurrency": "AUD",
         "seller": {
           "@type": "Organization",
           "name": "Coles"
         },
-        "url": "https://shop.coles.com.au/a/national/product/oak-strawberry-flavoured-milk-3655902p"
+        "url": "https://shop.coles.com.au/a/national/product/oak-milk-flavoured-strawberry-13080p"
       }
     ]
   },
   "sameAs": [
-    "https://shop.coles.com.au/a/national/product/oak-strawberry-flavoured-milk-3655902p"
+    "https://shop.coles.com.au/a/national/product/oak-milk-flavoured-strawberry-13080p"
   ],
-  "sku": "3655902",
-  "updatedAt": "2022-11-24T07:46:36.017Z"
+  "sku": "13080",
+  "updatedAt": "2022-12-03T01:06:43.415Z"
 }

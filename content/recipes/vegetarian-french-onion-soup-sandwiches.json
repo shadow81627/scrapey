@@ -1,0 +1,88 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1",
+    "ratingValue": "5"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Oh My Veggies"
+  },
+  "cookTime": "PT90M",
+  "createdAt": "2022-12-03T09:12:09.692Z",
+  "datePublished": "2019-01-21T06:00:09+00:00",
+  "description": "Is it a soup? Or is it a sandwich? It's both! These grilled panini sandwiches are full of caramelized onions and Gruyere cheese—it's French onion soup in sandwich form.",
+  "image": [
+    "https://ohmyveggies.com/wp-content/uploads/2012/01/french_onion_soup_sandwiches_alt.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2012/01/french_onion_soup_sandwiches_alt-500x367.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2012/01/french_onion_soup_sandwiches_alt-480x270.jpg"
+  ],
+  "keywords": "Vegetarian French Onion Soup Sandwiches, vegetarian sandwich recipe",
+  "name": "Vegetarian French Onion Soup Sandwiches",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "361 kcal",
+    "carbohydrateContent": "35 g",
+    "cholesterolContent": "36 mg",
+    "fatContent": "18 g",
+    "fiberContent": "2 g",
+    "proteinContent": "15 g",
+    "saturatedFatContent": "7 g",
+    "servingSize": "1 sandwich & 1 cup of broth",
+    "sodiumContent": "1328 mg",
+    "sugarContent": "4 g",
+    "unsaturatedFatContent": "9 g"
+  },
+  "prepTime": "PT10M",
+  "recipeCategory": "Brunch",
+  "recipeCuisine": "American",
+  "recipeIngredient": [
+    "2 tbsp olive oil",
+    "2 large onions (thinly sliced)",
+    "salt & pepper (to taste)",
+    "1/2 tsp dried thyme",
+    "4 ciabatta rolls (halved)",
+    "1 cup Gruyere cheese (shredded)",
+    "4 cup vegetable broth (heated (you can find meatless beef broth at stores like Whole Foods)"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Heat olive oil in a large skillet on low heat."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add sliced onions and cook until caramelized about an hour and fifteen minutes, stirring frequently. (For detailed instructions, see yesterday's post on how to caramelize onions.)"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Remove from heat and stir in salt and pepper to taste and thyme."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Heat panini press or grill on high."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Divide caramelized onions onto bottom of rolls and top each one with 1/4 cup of cheese and top half of roll."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Grill for 10–15 minutes or until cheese is melted and bread is golden-brown."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Serve each sandwich with 1 cup of broth."
+    }
+  ],
+  "recipeYield": "4",
+  "sameAs": [
+    "https://ohmyveggies.com/vegetarian-french-onion-soup-sandwiches"
+  ],
+  "suitableForDiet": [
+    "https://schema.org/VegetarianDiet"
+  ],
+  "totalTime": "PT100M",
+  "updatedAt": "2022-12-03T09:12:09.691Z"
+}

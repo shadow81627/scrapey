@@ -1,0 +1,89 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1",
+    "ratingValue": "5"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Sophia DeSantis"
+  },
+  "cookTime": "PT15M",
+  "createdAt": "2022-12-02T16:32:02.005Z",
+  "datePublished": "2021-06-17T10:00:00+00:00",
+  "description": "This vegan carbonara is easy to make using whole food ingredients and tastes amazing. Perfectly light, but creamy, and a perfect comfort food!",
+  "image": [
+    "https://www.veggiesdontbite.com/wp-content/uploads/2021/06/vegan-carbonara-29.jpg",
+    "https://www.veggiesdontbite.com/wp-content/uploads/2021/06/vegan-carbonara-29-500x500.jpg",
+    "https://www.veggiesdontbite.com/wp-content/uploads/2021/06/vegan-carbonara-29-500x375.jpg",
+    "https://www.veggiesdontbite.com/wp-content/uploads/2021/06/vegan-carbonara-29-480x270.jpg"
+  ],
+  "keywords": "easy pasta recipe, healthy carbonara",
+  "name": "The Best Vegan Carbonara Recipe",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "432 kcal",
+    "carbohydrateContent": "76 g",
+    "cholesterolContent": "1 mg",
+    "fatContent": "7 g",
+    "fiberContent": "4 g",
+    "proteinContent": "14 g",
+    "saturatedFatContent": "1 g",
+    "servingSize": "1 serving",
+    "sodiumContent": "676 mg",
+    "sugarContent": "9 g"
+  },
+  "prepTime": "PT10M",
+  "recipeCategory": "Main Course",
+  "recipeCuisine": "Italian",
+  "recipeIngredient": [
+    "12 ounces spaghetti (, gluten-free if needed)",
+    "1 cup reserved pasta water from spaghetti",
+    "1/2 - 1 cup dairy free milk of choice (, the more fat the milk has the creamier and richer it will be)",
+    "1/2 - 1 cup vegan parmesan (, store bought or homemade)",
+    "1 tablespoon tapioca starch (, you can sub with cornstarch if needed)",
+    "1/4 - 1/2 teaspoon sea salt (, depending on cheese and bacon recipe used)",
+    "1/4 teaspoon ground black pepper",
+    "1/2 - 1 cup vegan bacon (, my mushroom bacon recipe worked great (see note)",
+    "Crushed red pepper (, optional to top)",
+    "Parsley (, optional to top)"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Cook spaghetti according to package directions. Make sure to reserve 1 cup pasta water and do not rinse the pasta when you strain it. This helps with the texture of the liquid."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Make a slurry using 2 tablespoons of the warm pasta water and the 1 tablespoon of tapioca, set aside."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Put 1/2 cup milk and 1/2 cup pasta water into the pot where you cooked the pasta and heat it over low heat. Add 1/4 teaspoon of salt and the pepper. Slowly add in the starch mixture as you whisk it so it doesn’t clump. It should slowly thicken and get somewhat egg like."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add the pasta and the parmesan and mix around so the pasta is covered in the mixture. If you want it more saucy, then slowly add more pasta water and milk until you get the result you like. You may need to add more salt."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Mix in the bacon. Start with 1/2 cup and add more if you prefer. Or you can top it with more later."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Serve with parsley, crushed red pepper and more Parmesan if you prefer!"
+    }
+  ],
+  "recipeYield": "4",
+  "sameAs": [
+    "https://veggiesdontbite.com/the-best-vegan-carbonara-recipe"
+  ],
+  "suitableForDiet": [
+    "https://schema.org/GlutenFreeDiet",
+    "https://schema.org/VeganDiet",
+    "https://schema.org/VegetarianDiet"
+  ],
+  "totalTime": "PT25M",
+  "updatedAt": "2022-12-02T16:32:02.004Z"
+}

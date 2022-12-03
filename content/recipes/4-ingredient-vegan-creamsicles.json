@@ -1,0 +1,98 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "20",
+    "ratingValue": "5"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Sam Turnbull • It Doesn't Taste Like Chicken"
+  },
+  "createdAt": "2022-12-02T19:23:26.650Z",
+  "datePublished": "2016-08-31T10:14:22+00:00",
+  "description": "Only 4 ingredients to make these popsicles. The perfect orange cream summer treat and they are actually pretty healthy too!",
+  "image": [
+    "https://itdoesnttastelikechicken.com/wp-content/uploads/2016/08/5-Minute-Vegan-Creamsicles-Recipe-orange-coconut-milk.jpg",
+    "https://itdoesnttastelikechicken.com/wp-content/uploads/2016/08/5-Minute-Vegan-Creamsicles-Recipe-orange-coconut-milk-500x500.jpg",
+    "https://itdoesnttastelikechicken.com/wp-content/uploads/2016/08/5-Minute-Vegan-Creamsicles-Recipe-orange-coconut-milk-500x375.jpg",
+    "https://itdoesnttastelikechicken.com/wp-content/uploads/2016/08/5-Minute-Vegan-Creamsicles-Recipe-orange-coconut-milk-480x270.jpg"
+  ],
+  "mentions": [
+    {
+      "@id": "https://itdoesnttastelikechicken.com/tag/coconut-milk/#id",
+      "@type": "http://schema.org/Thing",
+      "description": "Coconut milk, a liquid that comes from the grated meat of a mature coconut, is not coconut water. The color and rich taste of coconut milk are attributed to its high oil content, most of which is saturated fat. Coconut milk is a popular food ingredient used in Southeast Asia, the Caribbean and northern South...",
+      "name": "coconut milk",
+      "sameAs": [
+        "http://id.dbpedia.org/resource/Santan",
+        "http://pl.dbpedia.org/resource/Mleczko_kokosowe",
+        "http://purl.obolibrary.org/obo/FOODON_03303088",
+        "http://pt.dbpedia.org/resource/Leite_de_coco",
+        "http://dbpedia.org/resource/Coconut_milk",
+        "http://es.dbpedia.org/resource/Leche_de_coco",
+        "http://it.dbpedia.org/resource/Latte_di_cocco",
+        "http://wikidata.dbpedia.org/resource/Q841779",
+        "https://en.wikipedia.org/wiki/Coconut_milk",
+        "http://ja.dbpedia.org/resource/ココナッツミルク",
+        "http://ko.dbpedia.org/resource/코코넛_밀크",
+        "http://fr.dbpedia.org/resource/Lait_de_coco",
+        "http://rdf.freebase.com/ns/m.037ls6",
+        "http://www.wikidata.org/entity/Q841779",
+        "http://nl.dbpedia.org/resource/Klappermelk",
+        "https://knowledge.cafemedia.com/food/entity/coconut_cream"
+      ]
+    },
+    {
+      "@id": "https://itdoesnttastelikechicken.com/tag/popsicle/#id",
+      "@type": "http://schema.org/Thing",
+      "description": "",
+      "name": "popsicle",
+      "sameAs": [
+        "https://en.wikipedia.org/wiki/Popsicle",
+        "http://purl.obolibrary.org/obo/FOODON_03305386",
+        "http://www.wikidata.org/entity/Q7229606",
+        "http://dbpedia.org/resource/Popsicle",
+        "https://knowledge.cafemedia.com/food/entity/popsicle"
+      ]
+    }
+  ],
+  "name": "4 Ingredient Vegan Creamsicles",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "152 kcal",
+    "carbohydrateContent": "16 g",
+    "fatContent": "10 g",
+    "fiberContent": "1 g",
+    "proteinContent": "1 g",
+    "saturatedFatContent": "9 g",
+    "servingSize": "1 serving",
+    "sodiumContent": "7 mg",
+    "sugarContent": "13 g"
+  },
+  "prepTime": "PT5M",
+  "recipeCategory": "Dessert",
+  "recipeCuisine": "American",
+  "recipeIngredient": [
+    "1 cup full-fat coconut milk",
+    "1 cup orange juice",
+    "3 tablespoons agave",
+    "1/2 teaspoon vanilla extract"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Toss all the ingredients in a blender and blend for a few seconds to combine. Alternatively, you could just whisk the ingredients together in a bowl, but I like the blender because it makes it easy to the pour mixture straight into the popsicle molds."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Pour the mixture into the popsicle molds and insert the popsicle sticker. Freeze for about 4 hours or until ready to serve. Run warm water over the mold to help release a popsicle when you are ready to enjoy your frosty treat."
+    }
+  ],
+  "recipeYield": "5",
+  "sameAs": [
+    "https://itdoesnttastelikechicken.com/2016/08/31/5-minute-vegan-creamsicles"
+  ],
+  "totalTime": "PT5M",
+  "updatedAt": "2022-12-03T06:57:05.294Z"
+}
