@@ -1,0 +1,54 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Allergen",
+      "value": "Contains Sulphites"
+    },
+    {
+      "name": "Size",
+      "value": "1L"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$5.20 per 1L"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "PCK in AUS from IMP & LOC ING"
+    }
+  ],
+  "brand": "Cottee's",
+  "createdAt": "2022-12-03T17:43:59.701Z",
+  "description": "Cottee's Zero Sugar Cordial Coola",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/4/4/2/4420041.jpg",
+  "name": "Zero Sugar Cordial Coola",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 5.2,
+    "lowPrice": 5.2,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-03T17:43:59.700Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "5.20",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/cola-cordial-1l"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/cola-cordial-1l"
+  ],
+  "sku": "4420041",
+  "updatedAt": "2022-12-03T17:43:59.700Z"
+}

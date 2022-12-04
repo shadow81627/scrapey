@@ -1,0 +1,62 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Ingredients : Chocolate Powder 98% (Sugar, Cocoa Powder***42%), Emulsifier ( Soy Lecithin), Flavour, Salt. Contains Soy. May Contain Milk."
+    },
+    {
+      "name": "Allergen",
+      "value": "May Be Present Milk"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "10.0"
+    },
+    {
+      "name": "Size",
+      "value": "10 pack"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.76 per 1Ea"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Made in France"
+    }
+  ],
+  "brand": "Starbucks",
+  "createdAt": "2022-12-03T22:53:26.633Z",
+  "description": "Starbucks Signature Salted Caramel Hot Chocolate",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/0/3/5038689.jpg",
+  "name": "Signature Salted Caramel Hot Chocolate",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 7.6,
+    "lowPrice": 7.6,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/OutOfStock",
+        "availabilityStarts": "2022-12-03T22:53:26.632Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "7.60",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/part_5038689P"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/part_5038689P"
+  ],
+  "sku": "5038689",
+  "updatedAt": "2022-12-03T22:53:26.632Z"
+}

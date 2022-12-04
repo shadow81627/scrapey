@@ -1,56 +1,68 @@
 {
   "@type": "Recipe",
+  "author": {
+    "@type": "Person",
+    "name": "Fresh Ideas"
+  },
   "cookTime": "PT5M",
   "createdAt": "2022-11-24T22:03:11.000Z",
-  "datePublished": "2021-03-10",
-  "description": "Inspired by the Aussie classic white Christmas slice, this rum ball recipe is easy to make, and if you don't eat them all yourself, they're perfect to gift to friends and family.",
-  "image": {
-    "@type": "ImageObject",
-    "height": 1300,
-    "mime": "image/png",
-    "url": "https://foodhub.scene7.com/is/image/woolworthsltdprod/2010-white-christmas-rum-balls?wid=1300&hei=1300&fmt=png-alpha",
-    "width": 1300
-  },
-  "keywords": "White Christmas Rum Balls",
+  "datePublished": "2022-09-26",
+  "description": "Inspired by the Aussie classic white Christmas slice, this rum ball recipe is easy to make, and if you don’t eat them all yourself, they’re perfect to gift to friends and family.",
+  "image": [
+    "https://foodhub.scene7.com/is/image/woolworthsltdprod/2010-white-christmas-rum-balls:Square-1300x1300"
+  ],
+  "keywords": "White Christmas,Low salt,Christmas,Chocolate,Rum ball",
   "name": "White Christmas Rum Balls Recipe | Woolworths",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "138 calories",
+    "carbohydrateContent": "16.4 g",
+    "fatContent": "6.6 g",
+    "fiberContent": "1.2 g",
+    "proteinContent": "1.8 g",
+    "saturatedFatContent": "4.3 g",
+    "sodiumContent": "33 millig",
+    "sugarContent": "12.0 g",
+    "transFatContent": "0.1 g"
+  },
   "prepTime": "PT35M",
-  "recipeCategory": "desserts",
-  "recipeCuisine": "european",
+  "recipeCategory": "Desserts",
+  "recipeCuisine": "European",
   "recipeId": "10704",
   "recipeIngredient": [
-    "250 g milk arrowroot biscuits",
-    "395 g sweetened condensed milk",
+    "250g milk arrowroot biscuits",
+    "395g sweetened condensed milk",
     "0.5 cup rice bubbles",
     "0.75 cup dried cranberries",
-    "0.5 cup unsalted pistachio kernels",
+    "0.5 cup unsalted pistachio kernels, coarsely chopped",
     "0.25 cup dark rum",
     "1.5 cup desiccated coconut",
-    "200 g white chocolate",
+    "200g white chocolate",
     "1 tbs coconut oil"
   ],
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Line a tray with baking paper. Rest balls, one at a time, on a fork and dip in chocolate mixture to coat. Gently tap fork on bowl edge to allow excess chocolate to drip off. Transfer to coconut and roll to coat. Transfer to tray. Refrigerate for 10 minutes or until set, then serve."
+      "HowToTip": {},
+      "text": "Place biscuits in a food processor and process until a fine crumbs form. Transfer to a large bowl. Add milk, rice bubbles, cranberries, pistachios, rum and 1/2 cup coconut, stirring until well combined. Roll level tablespoonfuls of mixture into balls. Place remaining coconut in a shallow dish."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Line a tray with baking paper. Rest balls, one at a time, on a fork and dip in chocolate mixture to coat. Gently tap fork on bowl edge to allow excess chocolate to drip off. Transfer to coconut and roll to coat. Transfer to tray. Refrigerate for 10 minutes or until set, then serve."
+      "HowToTip": {},
+      "text": "Place chocolate and oil in a heatproof bowl over a saucepan of simmering water (make sure the bowl doesn't touch the water). Stir with a metal spoon for 1 minute or until chocolate has melted and is smooth."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
+      "HowToTip": {},
       "text": "Line a tray with baking paper. Rest balls, one at a time, on a fork and dip in chocolate mixture to coat. Gently tap fork on bowl edge to allow excess chocolate to drip off. Transfer to coconut and roll to coat. Transfer to tray. Refrigerate for 10 minutes or until set, then serve."
     }
   ],
   "recipeNameId": "white-christmas-rum-balls",
   "recipeYield": "40",
   "sameAs": [
-    "https://woolworths.com.au/shop/find-recipes/easy-rum-balls"
+    "https://woolworths.com.au/shop/recipes/white-christmas-rum-balls"
   ],
   "totalTime": "PT40M",
-  "updatedAt": "2022-11-24T18:06:18.184Z",
+  "updatedAt": "2022-12-04T08:32:46.170Z",
   "url": "https://www.woolworths.com.au/shop/recipes/white-christmas-rum-balls"
 }

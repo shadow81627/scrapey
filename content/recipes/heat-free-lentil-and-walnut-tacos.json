@@ -1,0 +1,76 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1",
+    "ratingValue": "4"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Oh My Veggies"
+  },
+  "cookTime": "PT20M",
+  "createdAt": "2022-12-03T23:22:41.070Z",
+  "datePublished": "2014-08-07T11:56:43+00:00",
+  "description": "No skillet needed! This vegan taco filling from Choosing Raw is made with walnuts, lentils, and sun-dried tomatoes.",
+  "image": [
+    "https://ohmyveggies.com/wp-content/uploads/2014/08/heat_free_lentil_walnut_tacos_recipe.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2014/08/heat_free_lentil_walnut_tacos_recipe-500x400.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2014/08/heat_free_lentil_walnut_tacos_recipe-500x375.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2014/08/heat_free_lentil_walnut_tacos_recipe-480x270.jpg"
+  ],
+  "keywords": "Heat-Free Lentil and Walnut Tacos, how to make vegan tacos, vegan tacos recipe",
+  "name": "Heat-Free Lentil and Walnut Tacos",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "479 kcal",
+    "carbohydrateContent": "31 g",
+    "fatContent": "37 g",
+    "fiberContent": "14 g",
+    "proteinContent": "15 g",
+    "saturatedFatContent": "4 g",
+    "servingSize": "1 serving",
+    "sodiumContent": "776 mg",
+    "sugarContent": "8 g",
+    "unsaturatedFatContent": "31 g"
+  },
+  "prepTime": "PT10M",
+  "recipeCategory": "Main Course",
+  "recipeCuisine": "American",
+  "recipeIngredient": [
+    "1 1/2 cups raw walnuts",
+    "1/2 teaspoon sea salt (or to taste)",
+    "10 sun-dried tomatoes (soaked in warm water for 10 minutes and drained)",
+    "1/2 teaspoon chili powder",
+    "1/4 teaspoon ground cumin",
+    "1/4 teaspoon ground coriander",
+    "1 cup cooked brown or green lentils",
+    "8 large romaine leaves (cabbage, radicchio, and butter lettuce leaves also work well)",
+    "1 cup salsa of choice",
+    "1 avocado (pitted and sliced)"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Place the walnuts and sea salt in a food processor and pulse to break the nuts down until crumbly."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add the tomatoes, spices, and lentils to the processor. Pulse until the mixture is well incorporated. Check for Seasoning, and add additional salt, cumin, or chili as needed. Add a few tablespoons of water, if needed, to bind the mixture together."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Divide the filling into the romaine leaves. Top each with 2 tablespoons of salsa and a few avocado slices. Serve."
+    }
+  ],
+  "recipeYield": "4",
+  "sameAs": [
+    "https://ohmyveggies.com/lentil-and-walnut-tacos"
+  ],
+  "suitableForDiet": [
+    "https://schema.org/VeganDiet",
+    "https://schema.org/VegetarianDiet"
+  ],
+  "totalTime": "PT30M",
+  "updatedAt": "2022-12-03T23:22:41.069Z"
+}

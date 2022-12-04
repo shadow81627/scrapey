@@ -1,0 +1,78 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1",
+    "ratingValue": "5"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Oh My Veggies"
+  },
+  "cookTime": "PT30M",
+  "createdAt": "2022-12-03T23:16:29.738Z",
+  "datePublished": "2017-08-06T08:00:00+00:00",
+  "description": "These summery tartines are made with crusty slices of toast topped with a creamy chickpea spread, juicy roasted cherry tomatoes and eggplant.",
+  "image": [
+    "https://ohmyveggies.com/wp-content/uploads/2017/08/Summer_veggie_tartines.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2017/08/Summer_veggie_tartines-500x500.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2017/08/Summer_veggie_tartines-500x375.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2017/08/Summer_veggie_tartines-480x270.jpg"
+  ],
+  "keywords": "how to make tartines, Summer Veggie Tartines, tartines",
+  "name": "Summer Veggie Tartines",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "387 kcal",
+    "carbohydrateContent": "40 g",
+    "fatContent": "23 g",
+    "fiberContent": "6 g",
+    "proteinContent": "8 g",
+    "saturatedFatContent": "3 g",
+    "servingSize": "1 serving",
+    "sodiumContent": "451 mg",
+    "sugarContent": "11 g",
+    "transFatContent": "1 g",
+    "unsaturatedFatContent": "19 g"
+  },
+  "prepTime": "PT15M",
+  "recipeCategory": "Appetizer",
+  "recipeCuisine": "American",
+  "recipeIngredient": [
+    "3/4 pound eggplant (cut into about 3/4-inch chunks)",
+    "1 pint cherry tomatoes",
+    "2 tablespoons olive oil",
+    "1/4 teaspoon salt",
+    "1/4 teaspoon Black Pepper",
+    "1 15 ounce can chickpeas, drained and rinsed",
+    "4 tablespoons olive oil",
+    "1 teaspoon honey",
+    "1 clove garlic (roughly chopped)",
+    "1/2 teaspoon lemon zest",
+    "1 tablespoon lemon juice",
+    "Salt and pepper (to taste)",
+    "8 slices toasted or grilled bread",
+    "Chopped fresh basil",
+    "Chopped raw walnuts"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Preheat the oven to 400oF."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add the eggplant and cherry tomatoes to a large rimmed baking sheet. Drizzle with the olive oil and sprinkle with the salt and pepper. Toss to combine and spread in an even layer. Bake for about 25 to 30 minutes, stirring once halfway through, until the tomatoes have shriveled and the eggplant is tender. Remove from the oven and let cool slightly."
+    }
+  ],
+  "recipeYield": "4",
+  "sameAs": [
+    "https://ohmyveggies.com/summer-veggie-tartines"
+  ],
+  "suitableForDiet": [
+    "https://schema.org/VeganDiet",
+    "https://schema.org/VegetarianDiet"
+  ],
+  "totalTime": "PT45M",
+  "updatedAt": "2022-12-03T23:16:29.737Z"
+}

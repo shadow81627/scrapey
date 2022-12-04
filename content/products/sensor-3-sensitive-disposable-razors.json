@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "4 pack"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.63 per 1Ea"
+    }
+  ],
+  "brand": "Gillette",
+  "createdAt": "2022-12-04T10:22:38.957Z",
+  "description": "Benefit from over 100 years of class leading innovation and quality Remember, quality blades are sharper (and stay sharper too!). They last longer and you use less which means each shave is saving you money.",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/5/8/3582605.jpg",
+  "name": "Sensor 3 Sensitive Disposable Razors",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 6.5,
+    "lowPrice": 6.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-04T10:22:38.956Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "6.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/gillette-sensor-3-comfortgel-disp-razor-3582605p"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/gillette-sensor-3-comfortgel-disp-razor-3582605p"
+  ],
+  "sku": "3582605",
+  "updatedAt": "2022-12-04T10:22:38.956Z"
+}

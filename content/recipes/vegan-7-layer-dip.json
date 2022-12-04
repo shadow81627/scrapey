@@ -2,69 +2,75 @@
   "@type": "Recipe",
   "aggregateRating": {
     "@type": "AggregateRating",
-    "ratingCount": "3",
-    "ratingValue": "4.34"
+    "ratingCount": "34",
+    "ratingValue": "4.92"
   },
   "author": {
     "@type": "Person",
-    "name": "Sophia DeSantis"
+    "name": "Minimalist Baker"
   },
-  "cookTime": "PT20M",
   "createdAt": "2022-12-02T04:51:44.490Z",
-  "datePublished": "2022-01-24T10:00:00+00:00",
-  "description": "This vegan 7 layer dip is the perfect example of a nutritious that&#039;s bursting with flavor! It&#039;s a crowd pleaser for all types of eaters.",
+  "datePublished": "2014-10-04T05:00:18+00:00",
+  "description": "Simple 7-Layer Dip that&#039;s completely vegan! Loaded with protein and fiber, and so flavorful. Perfect for parties, game days, and snacking.",
   "image": [
-    "https://www.veggiesdontbite.com/wp-content/uploads/2020/01/vegan-7-layer-dip-90.jpg",
-    "https://www.veggiesdontbite.com/wp-content/uploads/2020/01/vegan-7-layer-dip-90-500x500.jpg",
-    "https://www.veggiesdontbite.com/wp-content/uploads/2020/01/vegan-7-layer-dip-90-500x375.jpg",
-    "https://www.veggiesdontbite.com/wp-content/uploads/2020/01/vegan-7-layer-dip-90-480x270.jpg"
+    "https://minimalistbaker.com/wp-content/uploads/2014/09/Vegan-Mexican-Layer-Dip-SQUARE.jpg"
   ],
-  "keywords": "healthy dips, healthy vegan appetizers",
-  "name": "Vegan 7 Layer Dip",
+  "keywords": "vegan 7-layer dip",
+  "name": "Vegan 7-Layer Dip",
   "nutrition": {
     "@type": "NutritionInformation",
-    "calories": "491 kcal",
-    "carbohydrateContent": "54 g",
-    "cholesterolContent": "1 mg",
-    "fatContent": "26 g",
-    "fiberContent": "17 g",
-    "proteinContent": "12 g",
-    "saturatedFatContent": "1 g",
+    "calories": "256 kcal",
+    "carbohydrateContent": "18 g",
+    "fatContent": "18 g",
+    "fiberContent": "6 g",
+    "proteinContent": "7.4 g",
+    "saturatedFatContent": "3.6 g",
     "servingSize": "1 serving",
-    "sodiumContent": "927 mg",
-    "sugarContent": "17 g",
-    "transFatContent": "1 g",
-    "unsaturatedFatContent": "2 g"
+    "sodiumContent": "464 mg",
+    "sugarContent": "1.6 g"
   },
-  "prepTime": "PT15M",
+  "prepTime": "PT20M",
   "recipeCategory": "Appetizer",
-  "recipeCuisine": "Mexican",
+  "recipeCuisine": "Gluten-Free",
   "recipeIngredient": [
-    "2 cups Vegan Taco Meat (, see note)",
-    "2 cups Ultimate Cheese Sauce",
-    "2 cans diced chiles (4 ounces each can)",
-    "1 1/2 cups Easy Fresh Mexican Salsa",
-    "1 1/2 cups Guacamole",
-    "1 1/2 cups Creamy Taco Sauce (can also use sour cream)",
-    "1/4-1/2 cup chopped cilantro",
-    "1/4-1/2 cup chopped green onions",
-    "hot pepper garnish (, optional)"
+    "1 16-ounce can vegetarian refried beans",
+    "3/4 cup Vegan Mexican Cheese Spread + hot water",
+    "1 cup Favorite Guacamole (recipe below)",
+    "1 cup Favorite Salsa or Pico De Gallo (recipe below)",
+    "1/2 bell pepper (diced)",
+    "1/4 cup black olives (optional // diced)",
+    "1 handful fresh cilantro (optional // chopped)",
+    "2 ripe avocados",
+    "1 medium lime (juiced)",
+    "1 pinch sea salt",
+    "3/4 cup cherry tomatoes (diced)",
+    "1/4 cup red onion (diced)",
+    "1/4 cup fresh cilantro (chopped)",
+    "1 Tbsp lime juice",
+    "1 pinch each salt and pepper"
   ],
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "text": "Prep each layer."
+      "text": "To prepare the cheese layer, scoop out 3/4 cup of spreadable Mexican Cheese and whisk in very hot water until it resembles queso - about 1/2 cup (amounts as original recipe is written // adjust if altering batch size). Alternatively, use my Cashew-less Vegan Queso."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Next, prepare the guacamole by mashing all ingredients together in a bowl and adjusting seasonings to preference. Do the same with the pico de gallo (or just use your favorite salsa)."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "To assemble the dip: Spread out vegetarian refried beans, then top with cheese layer, then guacamole, then pico or salsa, then bell pepper, then black olives, then cilantro."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Serve immediately or cover and refrigerate. Can be made up to 1 day in advance."
     }
   ],
-  "recipeYield": "8",
+  "recipeYield": "10",
   "sameAs": [
-    "https://veggiesdontbite.com/7-layer-taco-dip"
+    "https://minimalistbaker.com/vegan-7-layer-dip"
   ],
-  "suitableForDiet": [
-    "https://schema.org/GlutenFreeDiet",
-    "https://schema.org/VeganDiet",
-    "https://schema.org/VegetarianDiet"
-  ],
-  "totalTime": "PT35M",
-  "updatedAt": "2022-12-02T04:51:44.489Z"
+  "totalTime": "PT20M",
+  "updatedAt": "2022-12-04T10:51:53.902Z"
 }

@@ -1,0 +1,77 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1",
+    "ratingValue": "5"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Oh My Veggies"
+  },
+  "createdAt": "2022-12-03T21:41:59.221Z",
+  "datePublished": "2014-08-27T09:02:37+00:00",
+  "description": "Breakfast that tastes like dessert--but it's good for you too!",
+  "image": [
+    "https://ohmyveggies.com/wp-content/uploads/2014/08/chocolate_peanut_butter_chia_breakfast_pudding_parfait_recipe-1.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2014/08/chocolate_peanut_butter_chia_breakfast_pudding_parfait_recipe-1-500x412.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2014/08/chocolate_peanut_butter_chia_breakfast_pudding_parfait_recipe-1-500x375.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2014/08/chocolate_peanut_butter_chia_breakfast_pudding_parfait_recipe-1-480x270.jpg"
+  ],
+  "keywords": "breakfast parfait, Chocolate Peanut Butter Chia Breakfast Parfait, parfait recipe",
+  "name": "Chocolate Peanut Butter Chia Breakfast Parfait",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "380 kcal",
+    "carbohydrateContent": "47 g",
+    "fatContent": "19 g",
+    "fiberContent": "14 g",
+    "proteinContent": "14 g",
+    "saturatedFatContent": "3 g",
+    "servingSize": "1 serving",
+    "sodiumContent": "139 mg",
+    "sugarContent": "19 g",
+    "transFatContent": "1 g",
+    "unsaturatedFatContent": "14 g"
+  },
+  "prepTime": "PT45M",
+  "recipeCategory": "Breakfast",
+  "recipeCuisine": "American",
+  "recipeIngredient": [
+    "2 tablespoons chia seeds",
+    "1 tablespoon raw cacao powder",
+    "1/2 cup + 2-3 tablespoons Silk Soymilk",
+    "Sweetener to taste (optional)",
+    "1 tablespoon peanut butter",
+    "1 small banana (sliced)",
+    "Cacao nibs for garnish (optional)"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Combine the chia seeds and cacao powder in a small resealable container. Pour in 1/2 cup of soymilk and stir to incorporate. If you're using unsweetened soymilk, stir in sweetener of choice, to taste."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Let the mixture sit at room temperature for about 10 minutes, then give it another good stir, put on the lid, and refrigerate for at least 2 hours. The longer you refrigerate the pudding, the thicker it will be."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "When you're ready to assemble your parfait, whisk together the peanut butter with 2 tablespoons of soymilk in a small bowl. If the mixture is too thick, whisk in an additional tablespoon of soymilk."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Layer the chia pudding with the peanut butter sauce and banana slices in a serving dish or jar. Top with cacao nibs, if using, and serve immediately."
+    }
+  ],
+  "recipeYield": "1",
+  "sameAs": [
+    "https://ohmyveggies.com/chocolate-peanut-butter-chia-breakfast-parfait"
+  ],
+  "suitableForDiet": [
+    "https://schema.org/VeganDiet",
+    "https://schema.org/VegetarianDiet"
+  ],
+  "totalTime": "PT165M",
+  "updatedAt": "2022-12-03T21:41:59.219Z"
+}

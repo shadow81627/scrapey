@@ -1,0 +1,42 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Unit Price",
+      "value": "$14.00 per 1Ea"
+    }
+  ],
+  "brand": "Sistema",
+  "createdAt": "2022-12-03T17:44:20.407Z",
+  "description": "Sistema Ultra Clear Tritan Container 1.3L",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/6/3/3633160.jpg",
+  "name": "Ultra Clear Tritan Container 1.3L",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 14,
+    "lowPrice": 14,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-03T17:44:20.406Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "14.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/sistema-ultra-container-13-litre"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/sistema-ultra-container-13-litre"
+  ],
+  "sku": "3633160",
+  "updatedAt": "2022-12-03T17:44:20.406Z"
+}

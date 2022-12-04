@@ -1,0 +1,66 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Sugar, Whole Milk Powder, Cocoa Butter, Cocoa Mass, Honey (3%) Milk Fat, Almonds (1.6%), Invert Sugar, Emulsifier (Soy Lecithin), Egg White Powder, Flavour."
+    },
+    {
+      "name": "Contains",
+      "value": "Product contains Swiss Milk Chocolate with Honey and Almond Nougat (10%). Milk Chocolate contains Cocoa Solids 28% minimum, Milk Solids 14% Minimum. Milk, Almonds, Soy, Egg."
+    },
+    {
+      "name": "Allergen",
+      "value": "Contains Egg, Contains Tree Nuts, Contains Soy, Contains Milk"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "11.0"
+    },
+    {
+      "name": "Size",
+      "value": "360g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$3.33 per 100G"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Made in Switzerland"
+    }
+  ],
+  "brand": "Toblerone",
+  "createdAt": "2022-12-04T04:10:30.975Z",
+  "description": "Toblerone Milk Chocolate Gift Bar",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/4/6/6/4660147.jpg",
+  "name": "Milk Chocolate Gift Bar",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 12,
+    "lowPrice": 12,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-04T04:10:30.974Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "12.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/toblerone-chocolate-bar-milk-4660147p"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/toblerone-chocolate-bar-milk-4660147p"
+  ],
+  "sku": "4660147",
+  "updatedAt": "2022-12-04T04:10:30.974Z"
+}

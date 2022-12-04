@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "500mL"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.60 per 100mL"
+    }
+  ],
+  "brand": "Thankyou",
+  "createdAt": "2022-12-04T12:55:34.351Z",
+  "description": "Your skin will love this calming and gentle plant-based body wash. The blend of natural oils, botanical extracts and the fresh fragrances of earthy geranium and rosewood will leave your skin feeling cleansed and soothed",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/2/9/2292290.jpg",
+  "name": "Rosewood & Geranium Body Wash",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 8,
+    "lowPrice": 8,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-04T12:55:34.351Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "8.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/thankyou-rosewood-geranium-body-wash"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/thankyou-rosewood-geranium-body-wash"
+  ],
+  "sku": "2292290",
+  "updatedAt": "2022-12-04T12:55:34.351Z"
+}

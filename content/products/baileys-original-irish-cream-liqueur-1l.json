@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Baileys"
+  },
+  "createdAt": "2022-12-03T16:05:48.064Z",
+  "description": "Baileys Irish Cream is an iconic liqueur, much loved for its rich, creamy texture and smooth taste. Enjoy Baileys over ice or in cocktails like B-52's or White Russians. With this 1 Litre bottle, there's sure to be some on hand next time you feel like a glass of Baileys.<br><br><strong>Spirit Type: </strong>Liqueur<br><strong>Varietal: </strong>Cream Liqueurs<br><strong>Alcohol %: </strong>17<br><strong>Standard Drinks: </strong>13<br><strong>Country Of Origin: </strong>Ireland",
+  "gtin13": "5011013100118",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/901269.jpg",
+  "name": "Baileys Original Irish Cream Liqueur 1L",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 45,
+    "lowPrice": 45,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-12-03T16:05:48.063Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 45,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/901269/baileys-original-irish-cream-liqueur"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/901269/baileys-original-irish-cream-liqueur"
+  ],
+  "sku": "901269",
+  "updatedAt": "2022-12-03T16:05:48.063Z"
+}

@@ -1,0 +1,85 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "2",
+    "ratingValue": "4.5"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Oh My Veggies"
+  },
+  "cookTime": "PT35M",
+  "createdAt": "2022-12-04T00:28:25.958Z",
+  "datePublished": "2017-08-23T08:00:00+00:00",
+  "description": "This Indian-inspired eggplant curry is made with tender chunks of eggplant and lentils in a spicy tomato sauce.",
+  "image": [
+    "https://ohmyveggies.com/wp-content/uploads/2017/08/lentil-eggplant-curry-2.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2017/08/lentil-eggplant-curry-2-500x500.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2017/08/lentil-eggplant-curry-2-500x375.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2017/08/lentil-eggplant-curry-2-480x270.jpg"
+  ],
+  "keywords": "Eggplant Curry, vegan curry recipe, vegetarian curry recipe",
+  "name": "Eggplant Curry",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "245 kcal",
+    "carbohydrateContent": "23 g",
+    "fatContent": "14 g",
+    "fiberContent": "10 g",
+    "proteinContent": "8 g",
+    "saturatedFatContent": "2 g",
+    "servingSize": "1 serving",
+    "sodiumContent": "158 mg",
+    "sugarContent": "4 g",
+    "unsaturatedFatContent": "12 g"
+  },
+  "prepTime": "PT10M",
+  "recipeCategory": "Main Course",
+  "recipeCuisine": "American",
+  "recipeIngredient": [
+    "1/2 cup dried brown lentils",
+    "2 cups water",
+    "1/4 cup olive oil",
+    "1 medium (1 pound eggplant, cut into 1/2 inch cubes)",
+    "1 onion (diced)",
+    "3 garlic cloves (minced)",
+    "1 serrano pepper (seeded and minced (optional, leave it out for a milder dish)",
+    "1 teaspoon freshly grated ginger",
+    "1 to 3 tablespoons garam masala (to taste)",
+    "1 teaspoon ground cumin",
+    "1 14 ounce can crushed tomatoes",
+    "1 14 ounce can diced tomatoes",
+    "Salt and pepper to taste",
+    "1/4 cup chopped fresh cilantro",
+    "Cooked basmati rice (for serving)"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Place the lentils into a small saucepan and cover them with 2 cups of water. Place over high heat and bring the water to a boil. Lower heat and allow to simmer until tender, about 35 minutes. You can add water during cooking if it gets too low. When the lentils are done, drain any excess water."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "While the lentils cook, coat the bottom of a large pot with the olive oil and place it over medium heat. When the oil is hot, add the eggplant. Sauté for about 5 minutes. Add the onion and continue to sauté for about 5 minutes more, until the eggplant begins to brown and the onion is soft and translucent. Add the garlic, serrano pepper, ginger, 1 tablespoon of garam masala, and the cumin. Sauté about 1 minute more, until very fragrant."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add the tomatoes and bring the mixture to a simmer. Taste test the sauce and add more garam masala if you'd like. Allow to simmer until the eggplant is tender, about 15 minutes. Stir in the cooked lentils and simmer another minute or two, until heated throughout. Remove from heat and season with salt and pepper to taste."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Serve with basmati rice and a sprinkling of fresh cilantro."
+    }
+  ],
+  "recipeYield": "4",
+  "sameAs": [
+    "https://ohmyveggies.com/indian-inspired-lentil-eggplant-curry"
+  ],
+  "suitableForDiet": [
+    "https://schema.org/VeganDiet",
+    "https://schema.org/VegetarianDiet"
+  ],
+  "totalTime": "PT45M",
+  "updatedAt": "2022-12-04T00:28:25.957Z"
+}

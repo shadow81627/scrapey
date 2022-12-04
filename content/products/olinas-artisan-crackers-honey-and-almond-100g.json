@@ -1,0 +1,60 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "272.0kJ",
+      "carbohydrateContent": "9.6g",
+      "dietary_fibre": "-",
+      "fatContent": "2.6g",
+      "name": "nutrition",
+      "proteinContent": "1.8g",
+      "saturatedFatContent": "0.2g",
+      "servingSize": "100 g",
+      "sodiumContent": "103.0mg",
+      "sugarContent": "3.1g"
+    }
+  ],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Olina's"
+  },
+  "createdAt": "2022-12-04T10:27:25.289Z",
+  "description": "Olina's Bakehouse Artisan Crackers Honey & Almond are delicious nut & seeds crackers - perfect for entertaining.<br><br>Our Artisan Crackers are loaded with natural and tasty ingredients.<br><br>Baked in small batches for the best quality and light crispy texture. <br><br>Ideal with cheese, dips and other condiments.",
+  "gtin13": "9349571001575",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/236130.jpg",
+  "name": "Olina's Artisan Crackers Honey & Almond 100g",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3,
+    "lowPrice": 3,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-12-04T10:27:25.288Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 3,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/236130/olina-s-artisan-crackers-honey-almond"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/236130/olina-s-artisan-crackers-honey-almond"
+  ],
+  "sku": "236130",
+  "updatedAt": "2022-12-04T10:27:25.288Z"
+}

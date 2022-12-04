@@ -1,0 +1,54 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "INGREDIENTS: Rainforest Alliance Certified Green Tea."
+    },
+    {
+      "name": "Size",
+      "value": "75g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$2.93 per 100G"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Blended and Packed in Australia from Imported Ingredients"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2022-12-04T04:08:21.418Z",
+  "description": "Coles green tea teabags Light and bitter sweet blend of green tea leaves.Fifty tea bags",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/2/3/2236846.jpg",
+  "name": "Green Tea Bags 50 pack",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2.2,
+    "lowPrice": 2.2,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-04T04:08:21.418Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "2.20",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-fair-trade-organic-green-tea-bags"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/coles-fair-trade-organic-green-tea-bags"
+  ],
+  "sku": "2236846",
+  "updatedAt": "2022-12-04T04:08:21.418Z"
+}

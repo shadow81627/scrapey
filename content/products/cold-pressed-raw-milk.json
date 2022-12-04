@@ -1,0 +1,62 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Cold pressed raw milk"
+    },
+    {
+      "name": "Allergen",
+      "value": "Contains Milk"
+    },
+    {
+      "name": "Dietary",
+      "value": "Source of Calcium"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "6.0"
+    },
+    {
+      "name": "Size",
+      "value": "1.5L"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$4.67 per 1L"
+    }
+  ],
+  "brand": "Made By Cow",
+  "createdAt": "2022-12-04T05:41:23.833Z",
+  "description": "Made By Cow Cold Pressed Raw Milk",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/8/9/3894029.jpg",
+  "name": "Cold Pressed Raw Milk",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 7,
+    "lowPrice": 7,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-04T05:41:23.831Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "7.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/made-by-cow-cold-pressed-raw-milk"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/made-by-cow-cold-pressed-raw-milk"
+  ],
+  "sku": "3894029",
+  "updatedAt": "2022-12-04T05:41:23.831Z"
+}

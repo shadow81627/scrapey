@@ -3,11 +3,11 @@
   "additionalProperty": [
     {
       "name": "Ingredients",
-      "value": "Maltodextrin (from Maize), Maize Starch, Salt, Shortening Powder, Vegetable Gum (Guar), Colour (Caramel lll), Flavours, Dextrose, Anticaking Agent (450), Canola Oil, Yeast Extracts."
+      "value": "<strong>INGREDIENTS:</strong> Maltodextrin, Maize Starch, Sugar, Creamer Powder [Glucose Syrup (<strong>Wheat</strong>), Vegetable Fat (Coconut, Palm), <strong>Milk</strong> Protein, Stabilisers (340, 451, 452), Emulsifiers (471 (Contains Palm Oil), 481 (Contains Palm Oil), 322 (<strong>Soy</strong>)), Anticaking Agent (551), Natural Flavour], Salt, Vegetable Gum (412), Hydrolyzed Maize Protein, Natural Colour (150a), Flavour Enhancer (508), Yeast Extract, Natural Flavours, Onion Powder, Sunflower Oil, Mineral Salt (450), Cocoa Powder^, Garlic Powder, Acidity Regulator (330), Pepper."
     },
     {
       "name": "Allergen",
-      "value": "Contains Milk, Contains Soy"
+      "value": "Contains SOY, Contains MILK, Contains Gluten, Contains Wheat"
     },
     {
       "name": "Servings Per Pack",
@@ -19,46 +19,40 @@
     },
     {
       "name": "Unit Price",
-      "value": "$0.29 per 10G"
+      "value": "$0.18 per 10G"
     }
   ],
-  "brand": "Gravox",
+  "brand": "Coles",
   "createdAt": "2020-11-15T04:05:36.000Z",
-  "description": "Gravox Traditional Gravy Mix",
-  "image": {
-    "@type": "ImageObject",
-    "height": 300,
-    "mime": "image/jpeg",
-    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/6/0/4/6048826.jpg",
-    "width": 300
-  },
+  "description": "Coles Gravy Mix Traditional 120 Gram a pantry staple that be made up as required to add flavour to your dishes",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/7/7/5/7755159.jpg",
   "name": "Traditional Gravy Mix",
   "offers": {
     "@type": "AggregateOffer",
-    "highPrice": 3.5,
-    "lowPrice": 3.5,
+    "highPrice": 2.1,
+    "lowPrice": 2.1,
     "offerCount": 1,
     "offers": [
       {
         "@context": "http://schema.org",
         "@type": "Offer",
         "availability": "https://schema.org/InStock",
-        "availabilityStarts": "2020-11-15T04:41:52.501Z",
+        "availabilityStarts": "2022-12-04T02:05:47.650Z",
         "itemCondition": "https://schema.org/NewCondition",
         "offeredBy": "Coles",
-        "price": "3.50",
+        "price": "2.10",
         "priceCurrency": "AUD",
         "seller": {
           "@type": "Organization",
           "name": "Coles"
         },
-        "url": "https://shop.coles.com.au/a/national/product/gravox-traditional-gravy-mix"
+        "url": "https://shop.coles.com.au/a/national/product/coles-gravy-mix-traditional-7755159p"
       }
     ]
   },
   "sameAs": [
-    "https://shop.coles.com.au/a/national/product/gravox-traditional-gravy-mix"
+    "https://shop.coles.com.au/a/national/product/coles-gravy-mix-traditional-7755159p"
   ],
-  "sku": "6048826",
-  "updatedAt": "2020-11-15T04:41:52.501Z"
+  "sku": "7755159",
+  "updatedAt": "2022-12-04T02:05:47.650Z"
 }

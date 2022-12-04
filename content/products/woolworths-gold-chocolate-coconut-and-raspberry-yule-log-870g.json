@@ -1,0 +1,60 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "923kJ",
+      "carbohydrateContent": "28.2g",
+      "dietary_fibre": "-",
+      "fatContent": "10.9g",
+      "name": "nutrition",
+      "proteinContent": "2.3g",
+      "saturatedFatContent": "7.6g",
+      "servingSize": "100 g",
+      "sodiumContent": "69mg",
+      "sugarContent": "20.5g"
+    }
+  ],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Woolworths Gold"
+  },
+  "createdAt": "2022-12-04T09:18:06.941Z",
+  "description": "<p> A festive centrepiece inspired by the flavours of a classic lamington. Featuring delicate vanilla sponge with a vibrant raspberry layer & creamy coconut mousse infused with coconut rum. Topped off with a smooth Belgian chocolate ganache and handcrafted berry-shaped chocolate pieces. <br/> This show stopping dessert is bound to steal the show, perfect for entertaining guests or taking to a dinner party. <br/><br/>\nAustralian made and produced by Buonissimo, an award-winning bakery based in Sydney. Buonissimo Bakery is a family owned business operated by two award winning pastry chefs, Michael and David Digiaro, Buonissimo strives to create delicious desserts made with finesse and the finest ingredients. Since the business was established in 2016 it has been a supplier for Woolworths.\n<div><br /><a href=\"https://www.woolworths.com.au/shop/discover/our-brands/gold\" target=\"_blank\"><span style=\"text-decoration: underline;\">Click here</span></a> to discover more products in our Gold range, exclusively for Woolworths.</div><br/>",
+  "gtin13": "9339687304646",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/222385.jpg",
+  "name": "Woolworths Gold Chocolate Coconut & Raspberry Yule Log 870g",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 25,
+    "lowPrice": 25,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/OutOfStock",
+        "availabilityStarts": "2022-12-04T09:18:06.940Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 25,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/222385/woolworths-gold-chocolate-coconut-raspberry-yule-log"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/222385/woolworths-gold-chocolate-coconut-raspberry-yule-log"
+  ],
+  "sku": "222385",
+  "updatedAt": "2022-12-04T09:18:06.940Z"
+}

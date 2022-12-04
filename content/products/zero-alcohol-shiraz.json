@@ -1,0 +1,58 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "De-alcoholised wine (95%), grape juice concentrate, preservatives (E220, E224), Thickener (E414),"
+    },
+    {
+      "name": "Contains",
+      "value": "Milk and egg products, Sulphites"
+    },
+    {
+      "name": "Alcohol Volume Percentage",
+      "value": "0.5%"
+    },
+    {
+      "name": "Size",
+      "value": "750mL"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$15.33 per 1L"
+    }
+  ],
+  "brand": "McGuigan",
+  "createdAt": "2022-12-03T23:38:25.097Z",
+  "description": "McGuigan Zero Alcohol Shiraz",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/7/0/3705498.jpg",
+  "name": "Zero Alcohol Shiraz",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 11.5,
+    "lowPrice": 11.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-03T23:38:25.096Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "11.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/mcguigan-zero-shiraz-750ml"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/mcguigan-zero-shiraz-750ml"
+  ],
+  "sku": "3705498",
+  "updatedAt": "2022-12-03T23:38:25.097Z"
+}

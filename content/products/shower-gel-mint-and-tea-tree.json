@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "500mL"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.60 per 100mL"
+    }
+  ],
+  "brand": "Original Source",
+  "createdAt": "2022-12-04T10:55:17.095Z",
+  "description": "Shower gel doesn't get any more tingly than Original Source Mint & Tea Tree vegan shower gel, with 15,854 tingling mint leaves in every bottle! 100% natural fragrance Vegan friendly PETA approved cruelty free Paraben free Microplastic free Recyclable bottle",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/1/8/8/1883860.jpg",
+  "name": "Shower Gel Mint & Tea Tree",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 8,
+    "lowPrice": 8,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-04T10:55:17.094Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "8.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/gel-mint-tea-tre"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/gel-mint-tea-tre"
+  ],
+  "sku": "1883860",
+  "updatedAt": "2022-12-04T10:55:17.094Z"
+}

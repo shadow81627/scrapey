@@ -1,0 +1,71 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1",
+    "ratingValue": "5"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Oh My Veggies"
+  },
+  "createdAt": "2022-12-03T21:18:38.989Z",
+  "datePublished": "2018-10-02T06:00:20+00:00",
+  "description": "Rich vegan fudge made with hazelnuts, raw cacao powder, and coconut oil.",
+  "image": [
+    "https://ohmyveggies.com/wp-content/uploads/2013/10/crazy_delicious_vegan_chocolate_fudge_recipe.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2013/10/crazy_delicious_vegan_chocolate_fudge_recipe-500x400.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2013/10/crazy_delicious_vegan_chocolate_fudge_recipe-500x375.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2013/10/crazy_delicious_vegan_chocolate_fudge_recipe-480x270.jpg"
+  ],
+  "keywords": "Chocolate Fudge recipe, Crazy Delicious Dairy-Free Chocolate Fudge, Dairy-Free Chocolate Fudge, how to make Chocolate Fudge",
+  "name": "Crazy Delicious Dairy-Free Chocolate Fudge",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "63 kcal",
+    "carbohydrateContent": "4 g",
+    "fatContent": "6 g",
+    "fiberContent": "1 g",
+    "proteinContent": "1 g",
+    "saturatedFatContent": "4 g",
+    "servingSize": "1 square",
+    "sodiumContent": "1 mg",
+    "sugarContent": "2 g",
+    "unsaturatedFatContent": "2 g"
+  },
+  "prepTime": "PT10M",
+  "recipeCategory": "Dessert",
+  "recipeCuisine": "American",
+  "recipeIngredient": [
+    "1/2 cup raw cacao powder",
+    "1/2 cup coconut oil (room temperature, not melted)",
+    "1/3 cup raw hazelnuts",
+    "1/4 cup + 2 tablespoons maple syrup",
+    "1 teaspoon vanilla extract",
+    "Fleur de sel or cacao nibs for topping"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Combine all of the ingredients in your food processor and process until mixture is completely smooth. This might take several minutes, kind of like when you make nut butter. Be patient!"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Transfer the fudge mixture to a small rectangular baking dish that's been lined with parchment paper and use a spatula to spread it in an even layer. Sprinkle tops with fleur de sel or cacao nibs, if using."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Refrigerate until solid, then remove the fudge from the baking dish and cut into squares."
+    }
+  ],
+  "recipeYield": "24",
+  "sameAs": [
+    "https://ohmyveggies.com/recipe-crazy-delicious-vegan-chocolate-fudge"
+  ],
+  "suitableForDiet": [
+    "https://schema.org/VeganDiet",
+    "https://schema.org/VegetarianDiet"
+  ],
+  "totalTime": "PT10M",
+  "updatedAt": "2022-12-03T21:18:38.988Z"
+}

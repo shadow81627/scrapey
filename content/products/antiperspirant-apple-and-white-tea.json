@@ -1,0 +1,50 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Contains",
+      "value": "220mL"
+    },
+    {
+      "name": "Size",
+      "value": "220mL"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$3.86 per 100mL"
+    }
+  ],
+  "brand": "Dove",
+  "createdAt": "2022-12-04T11:39:49.537Z",
+  "description": "Dove Antiperspirant Apple & White Tea",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/4/3/4/4342254.jpg",
+  "name": "Antiperspirant Apple & White Tea",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 8.5,
+    "lowPrice": 8.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-04T11:39:49.536Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "8.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/apple-white-tea"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/apple-white-tea"
+  ],
+  "sku": "4342254",
+  "updatedAt": "2022-12-04T11:39:49.536Z"
+}

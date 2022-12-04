@@ -1,0 +1,76 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "2",
+    "ratingValue": "5"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Oh My Veggies"
+  },
+  "cookTime": "PT45M",
+  "createdAt": "2022-12-04T04:58:20.312Z",
+  "datePublished": "2013-12-12T07:51:57+00:00",
+  "description": "These Sloppy Lentils make a tasty vegetarian sandwich, but they're great as a side dish too!",
+  "image": [
+    "https://ohmyveggies.com/wp-content/uploads/2013/12/sloppy_lentil_sandwich_recipe.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2013/12/sloppy_lentil_sandwich_recipe-500x400.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2013/12/sloppy_lentil_sandwich_recipe-500x375.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2013/12/sloppy_lentil_sandwich_recipe-480x270.jpg"
+  ],
+  "keywords": "Sloppy Lentils, vegetarian sandwich",
+  "name": "Sloppy Lentils",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "260 kcal",
+    "carbohydrateContent": "46 g",
+    "fatContent": "4 g",
+    "fiberContent": "6 g",
+    "proteinContent": "11 g",
+    "saturatedFatContent": "1 g",
+    "servingSize": "1 serving",
+    "sodiumContent": "975 mg",
+    "sugarContent": "13 g",
+    "unsaturatedFatContent": "3 g"
+  },
+  "prepTime": "PT5M",
+  "recipeCategory": "Main Course",
+  "recipeCuisine": "American",
+  "recipeIngredient": [
+    "2 teaspoons olive oil",
+    "1 small onion (chopped)",
+    "1 cup brown or green lentils (rinsed and picked over)",
+    "2 cups vegetable broth",
+    "1 15-ounce can tomato sauce",
+    "1 tablespoon brown sugar",
+    "1 tablespoon molasses",
+    "1 tablespoon apple cider vinegar",
+    "1 tablespoon tamari or soy sauce",
+    "1 tablespoon tomato paste",
+    "1 teaspoon garlic powder",
+    "1 teaspoon mustard powder",
+    "Pinch of cayenne pepper (optional)",
+    "Salt and pepper to taste",
+    "4-6 hamburger rolls (optional)"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Heat the oil in a large saucepan over medium heat. Add the onion and cook until softened and just beginning to brown, 5-7 minutes. Add the lentils and broth; bring to a boil, then partially cover and reduce heat to low. Simmer for 20 minutes, or until the lentils are tender enough to eat, but still firm enough to hold their shape (not mushy!)."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Stir in the tomato sauce, brown sugar, molasses, vinegar, tamari, tomato paste, garlic powder, mustard powder, and cayenne. Increase the heat to medium and bring to a boil. Continue to cook the lentils until the sauce has thickened, 10-15 minutes more, stirring frequently. Serve the lentils on the rolls if you're making sandwiches."
+    }
+  ],
+  "recipeYield": "4",
+  "sameAs": [
+    "https://ohmyveggies.com/recipe-sloppy-lentils"
+  ],
+  "suitableForDiet": [
+    "https://schema.org/VegetarianDiet"
+  ],
+  "totalTime": "PT50M",
+  "updatedAt": "2022-12-04T04:58:20.311Z"
+}

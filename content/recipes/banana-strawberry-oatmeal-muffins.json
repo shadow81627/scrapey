@@ -1,0 +1,84 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1",
+    "ratingValue": "5"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Oh My Veggies"
+  },
+  "cookTime": "PT20M",
+  "createdAt": "2022-12-04T09:14:55.296Z",
+  "datePublished": "2020-01-03T06:00:18+00:00",
+  "description": "Breakfast muffins made with yogurt, oatmeal, whole wheat flour, and fruit. Adapted from Banana Yogurt Oatmeal Muffins.",
+  "image": [
+    "https://ohmyveggies.com/wp-content/uploads/2012/01/banana_strawberry_muffins_wiatw.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2012/01/banana_strawberry_muffins_wiatw-500x367.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2012/01/banana_strawberry_muffins_wiatw-480x270.jpg"
+  ],
+  "keywords": "Banana Strawberry Oatmeal Muffins, blender muffins recipe, Breakfast muffins",
+  "name": "Banana Strawberry Oatmeal Muffins",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "172 kcal",
+    "carbohydrateContent": "29 g",
+    "cholesterolContent": "14 mg",
+    "fatContent": "6 g",
+    "fiberContent": "2 g",
+    "proteinContent": "3 g",
+    "saturatedFatContent": "1 g",
+    "servingSize": "1 muffin",
+    "sodiumContent": "91 mg",
+    "sugarContent": "15 g",
+    "transFatContent": "1 g",
+    "unsaturatedFatContent": "5 g"
+  },
+  "prepTime": "PT10M",
+  "recipeCategory": "Breakfast",
+  "recipeCuisine": "American",
+  "recipeIngredient": [
+    "1 cup whole wheat pastry flour",
+    "3/4 cup brown sugar",
+    "1 tsp baking powder",
+    "1/2 tsp baking soda",
+    "1 cup old fashioned oats",
+    "1 6 oz container plain non-fat Greek yogurt",
+    "1 cup ripe banana (mashed)",
+    "1/4 cup canola oil",
+    "1 egg",
+    "1/2 cup strawberries (frozen or fresh, chopped)"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Preheat oven to 400°F. Spray a muffin pan with cooking spray or fill with paper liners."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "In a large bowl, whisk together flour, brown sugar, baking powder, and baking soda."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "In a medium bowl, stir together oats and yogurt until well-combined. Stir in banana, oil, and egg."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Pour wet mixture into the flour mixture. Stir until moistened—do not over-mix! Fold in strawberries."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Divide mixture evenly into muffin cups. Bake for 17–20 minutes or until toothpick inserted into the center of a muffin comes out clean."
+    }
+  ],
+  "recipeYield": "12",
+  "sameAs": [
+    "https://ohmyveggies.com/banana-strawberry-oatmeal-muffins"
+  ],
+  "suitableForDiet": [
+    "https://schema.org/VegetarianDiet"
+  ],
+  "totalTime": "PT30M",
+  "updatedAt": "2022-12-04T09:14:55.294Z"
+}

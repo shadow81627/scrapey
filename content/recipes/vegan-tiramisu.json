@@ -2,66 +2,86 @@
   "@type": "Recipe",
   "aggregateRating": {
     "@type": "AggregateRating",
-    "ratingCount": "87",
-    "ratingValue": "4.98"
+    "ratingValue": "5",
+    "reviewCount": "1"
   },
   "author": {
     "@type": "Person",
-    "name": "Sam Turnbull • It Doesn't Taste Like Chicken"
+    "name": "Vicky and Ruth"
   },
-  "cookTime": "PT20M",
+  "cookingMethod": "Raw",
+  "cookTime": "PT30M",
   "createdAt": "2022-12-01T12:05:51.543Z",
-  "datePublished": "2017-04-30T09:37:19+00:00",
-  "description": "Sweet fluffy sponge cake + liqueur spiked espresso sauce + fluffy clouds of cashew coconut cream= pure blissful heaven.&nbsp;",
+  "datePublished": "2014-09-24",
+  "description": "Vegan Tiramisu - home made vegan sponge cake,whipped topping, chocolate and coffee. Need we say more??",
   "image": [
-    "https://itdoesnttastelikechicken.com/wp-content/uploads/2017/04/vegan-tiramisu-recipe-dairy-egg-free-creamy-dessert-coffee-espresso-12.jpg",
-    "https://itdoesnttastelikechicken.com/wp-content/uploads/2017/04/vegan-tiramisu-recipe-dairy-egg-free-creamy-dessert-coffee-espresso-12-500x500.jpg",
-    "https://itdoesnttastelikechicken.com/wp-content/uploads/2017/04/vegan-tiramisu-recipe-dairy-egg-free-creamy-dessert-coffee-espresso-12-500x375.jpg",
-    "https://itdoesnttastelikechicken.com/wp-content/uploads/2017/04/vegan-tiramisu-recipe-dairy-egg-free-creamy-dessert-coffee-espresso-12-480x270.jpg"
+    "https://mayihavethatrecipe.com/wp-content/uploads/2014/09/Vegan-tiramisu-7-225x225.jpg",
+    "https://mayihavethatrecipe.com/wp-content/uploads/2014/09/Vegan-tiramisu-7-260x195.jpg",
+    "https://mayihavethatrecipe.com/wp-content/uploads/2014/09/Vegan-tiramisu-7-320x180.jpg",
+    "https://mayihavethatrecipe.com/wp-content/uploads/2014/09/Vegan-tiramisu-7.jpg"
   ],
+  "keywords": "kosher, parve,",
   "name": "Vegan Tiramisu",
   "nutrition": {
-    "@type": "NutritionInformation",
-    "calories": "322 kcal",
-    "servingSize": "1 serving"
+    "@type": "nutritionInformation",
+    "calories": "266 calories",
+    "carbohydrateContent": "33.5",
+    "cholesterolContent": "0",
+    "fatContent": "12.5",
+    "fiberContent": "0.4",
+    "proteinContent": "3",
+    "saturatedFatContent": "10.3",
+    "servingSize": "1 slice",
+    "sodiumContent": "56",
+    "sugarContent": "22.6",
+    "transFatContent": "0",
+    "unsaturatedFatContent": "1.4"
   },
-  "prepTime": "PT50M",
+  "prepTime": "PT20M",
   "recipeCategory": "Dessert",
   "recipeCuisine": "Italian",
   "recipeIngredient": [
-    "1 recipe The Best Vegan Vanilla Cake (enough to make 24 cupcakes or a 2-layer 9\" cake), see instructions)",
-    "4 shots of espresso (or very very strong coffee)",
-    "2 tablespoons coffee liqueur",
-    "water",
-    "1 cup raw cashews",
-    "1/2 cup non-dairy milk (such as soy or almond)",
-    "3 tablespoons agave or maple syrup",
-    "1 teaspoon vanilla extract",
-    "1, 14oz can premium coconut milk or coconut cream (, chilled in the fridge overnight)",
-    "1 tablespoon cocoa powder"
+    "1 cup plus 2 tbsp self-rising flour ( See Note 1 on how to make self-rising flour at home)",
+    "1/2 cup granulated sugar",
+    "2 tsp baking powder",
+    "Pinch of salt",
+    "1 cup unsweetened plant-based milk, lukewarm",
+    "1/4 cup coconut oil, melted",
+    "2 tbsp apple cider vinegar",
+    "1 1/2 tsp natural vanilla extract",
+    "1- 8x8 vegan sponge cake - Don't want to make your own sponge cake? Just use ladyfingers instead.",
+    "1 cup strong brewed coffee",
+    "1 tbsp coffee liqueur (or to taste)",
+    "1 tbsp whiskey (or to taste)",
+    "1 container vegan whipped topping, thawed (here we used So Delicious CocoWhip)",
+    "1 container vegan light whipped topping, thawed (here we used So Delicious CocoWhip Light)",
+    "1 tsp natural vanilla extract",
+    "Unsweetened cocoa powder and chocolate shavings to garnish the tiramisu"
   ],
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "text": "Make The Best Vegan Vanilla Cake, but instead of making round cakes, divide the batter into two lightly greased 9\" square baking pans. Bake for 22 - 28 minutes until lightly golden and a toothpick comes out clean in the center. *Don't make the frosting as that isn't needed for the tiramisu."
+      "text": "Preheat oven to 350F. Lightly grease a nonstick 8x8 baking pan"
     },
     {
       "@type": "HowToStep",
-      "text": "Let the cakes cool completely then slice into fingers about 1\" wide. You should get about 18 to 20 fingers out of each pan."
+      "text": "In a large bowl, combine flour, sugar, baking powder, and salt"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "In a small bowl, combine lukewarm coconut milk beverage, melted coconut oil, vinegar, and vanilla. Mix well and slowly pour into flour mixture. Mix until just combined (do not overmix!)"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Pour batter into baking pan and bake at 350F for 30-35 minutes"
     }
   ],
-  "recipeYield": "18",
+  "recipeYield": "10",
   "sameAs": [
-    "https://itdoesnttastelikechicken.com/2017/04/30/vegan-tiramisu"
+    "https://mayihavethatrecipe.com/vegan-tiramisu/print/14257"
   ],
-  "totalTime": "PT70M",
-  "updatedAt": "2022-12-01T12:05:51.541Z",
-  "video": {
-    "@type": "VideoObject",
-    "contentUrl": "https://content.jwplatform.com/videos/CIYDGNL9.mp4",
-    "description": "",
-    "name": "How to Make Vegan Tiramisu - Vegan Tiramisu Recipe",
-    "thumbnailUrl": "https://content.jwplatform.com/thumbs/CIYDGNL9-720.jpg",
-    "uploadDate": "2021-10-27T15:08:35.000Z"
-  }
+  "suitableForDiet": "VeganDiet",
+  "totalTime": "PT50M",
+  "updatedAt": "2022-12-04T11:05:09.482Z",
+  "url": "https://mayihavethatrecipe.com/vegan-tiramisu/"
 }

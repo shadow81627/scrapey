@@ -1,0 +1,50 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "40 pack"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.38 per 1Ea"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Made in Spain"
+    }
+  ],
+  "brand": "Marzena",
+  "createdAt": "2022-12-04T04:32:58.865Z",
+  "description": "Marzena Natural Body Wax Strips",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/8/2/3823440.jpg",
+  "name": "Natural Body Wax Strips",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 15,
+    "lowPrice": 15,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-04T04:32:58.864Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "15.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/marzena-natural-body-wax-strips-3823440p"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/marzena-natural-body-wax-strips-3823440p"
+  ],
+  "sku": "3823440",
+  "updatedAt": "2022-12-04T04:32:58.864Z"
+}

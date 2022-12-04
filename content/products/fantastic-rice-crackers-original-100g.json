@@ -21,34 +21,28 @@
     "name": "Fantastic"
   },
   "createdAt": "2022-11-23T02:35:54.000Z",
-  "description": "Fantastic Rice Crackers Original flavour are gluten-free.  Fantastic Rice Crackers are an irresistible snack which can be enjoyed anytime, anywhere. Delicious on their own, or with a tasty dip or topping, you know you can rely on Fantastic Rice Crackers to satisfy any snacking moment.  Gluten-Free  Baked Not Fried  Taste Fantastic",
+  "description": "<p>Fantastic Rice Crackers Original flavour are gluten-free. <br/> Fantastic Rice Crackers are an irresistible snack which can be enjoyed anytime, anywhere. Delicious on their own, or with a tasty dip or topping, you know you can rely on Fantastic Rice Crackers to satisfy any snacking moment. <br/> Gluten-Free <br/> Baked Not Fried <br/> Taste Fantastic</p>",
   "gtin13": "9310155530101",
-  "image": {
-    "@type": "ImageObject",
-    "height": 1200,
-    "mime": "image/jpeg",
-    "url": "https://cdn0.woolworths.media/content/wowproductimages/large/035231.jpg",
-    "width": 1200
-  },
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/035231.jpg",
   "name": "Fantastic Rice Crackers Original 100G",
   "offers": {
     "@type": "AggregateOffer",
-    "highPrice": 2,
-    "lowPrice": 2,
+    "highPrice": 1.5,
+    "lowPrice": 1.5,
     "offerCount": 1,
     "offers": [
       {
         "@context": "http://schema.org",
         "@type": "Offer",
         "availability": "http://schema.org/InStock",
-        "availabilityStarts": "2022-11-23T00:02:30.711Z",
+        "availabilityStarts": "2022-12-04T09:42:41.496Z",
         "itemCondition": "http://schema.org/NewCondition",
         "offeredBy": "Woolworths",
         "potentialAction": {
           "@context": "http://schema.org",
           "@type": "BuyAction"
         },
-        "price": 2,
+        "price": 1.5,
         "priceCurrency": "AUD",
         "seller": {
           "@type": "Organization",
@@ -62,5 +56,5 @@
     "https://woolworths.com.au/shop/productdetails/35231/fantastic-rice-crackers-original"
   ],
   "sku": "35231",
-  "updatedAt": "2022-11-23T00:02:30.711Z"
+  "updatedAt": "2022-12-04T09:42:41.496Z"
 }

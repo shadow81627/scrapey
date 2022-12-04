@@ -1,0 +1,76 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1",
+    "ratingValue": "5"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Oh My Veggies"
+  },
+  "cookTime": "PT7M",
+  "createdAt": "2022-12-04T09:57:38.864Z",
+  "datePublished": "2019-05-24T06:00:42+00:00",
+  "description": "An easy summer side dish that's the perfect combination of sweet and spicy.",
+  "image": [
+    "https://ohmyveggies.com/wp-content/uploads/2012/05/fresh_corn_saute.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2012/05/fresh_corn_saute-500x404.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2012/05/fresh_corn_saute-500x375.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2012/05/fresh_corn_saute-480x270.jpg"
+  ],
+  "keywords": "fresh corn recipe, Fresh Corn Sauté with Coconut Milk and Sriracha, vegan side dish",
+  "name": "Fresh Corn Sauté with Coconut Milk and Sriracha",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "160 kcal",
+    "carbohydrateContent": "27 g",
+    "fatContent": "6 g",
+    "fiberContent": "3 g",
+    "proteinContent": "5 g",
+    "saturatedFatContent": "4 g",
+    "servingSize": "1 serving",
+    "sodiumContent": "51 mg",
+    "sugarContent": "9 g",
+    "transFatContent": "1 g",
+    "unsaturatedFatContent": "2 g"
+  },
+  "prepTime": "PT10M",
+  "recipeCategory": "Side Dish",
+  "recipeCuisine": "American",
+  "recipeIngredient": [
+    "2 tsp peanut or vegetable oil",
+    "3/4 cup thinly sliced green onions (about 1 bunch)",
+    "6 ears fresh corn (kernels removed)",
+    "1/2 cup light coconut milk",
+    "salt (to taste)",
+    "1 –2 tsp sriracha (depending on how much spiciness you like)"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Heat oil in a large skillet over medium-high heat."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add green onions and cook 2 minutes or until softened, stirring frequently."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add corn and coconut milk; continue to cook, stirring occasionally, until most liquid has evaporated, about 5 minutes."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Stir in sriracha and salt to taste."
+    }
+  ],
+  "recipeYield": "4",
+  "sameAs": [
+    "https://ohmyveggies.com/fresh-corn-saute-with-coconut-milk-and-sriracha"
+  ],
+  "suitableForDiet": [
+    "https://schema.org/VegetarianDiet"
+  ],
+  "totalTime": "PT17M",
+  "updatedAt": "2022-12-04T09:57:38.862Z"
+}

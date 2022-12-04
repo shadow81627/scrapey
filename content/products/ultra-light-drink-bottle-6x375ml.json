@@ -1,0 +1,62 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Water, Malted Barley, Hops, and Yeast."
+    },
+    {
+      "name": "Allergen",
+      "value": "Contains Barley"
+    },
+    {
+      "name": "Dietary",
+      "value": "No Added Sugars"
+    },
+    {
+      "name": "Warning",
+      "value": "Contains less than 0.5% alc/vol. Also contains an allergen. See allergen list for details."
+    },
+    {
+      "name": "Size",
+      "value": "6 pack"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$3.69 per 1L"
+    }
+  ],
+  "brand": "Coopers",
+  "createdAt": "2022-12-03T23:32:03.598Z",
+  "description": "Coopers Ultra Light Drink Bottle 6x375mL",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/3/5/335199.jpg",
+  "name": "Ultra Light Drink Bottle 6x375mL",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 8.3,
+    "lowPrice": 8.3,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-03T23:32:03.598Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "8.30",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/birell-ultra-light-beer"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/birell-ultra-light-beer"
+  ],
+  "sku": "335199",
+  "updatedAt": "2022-12-03T23:32:03.598Z"
+}

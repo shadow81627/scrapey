@@ -1,0 +1,58 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "<p><strong>INGREDIENTS:</strong>&nbsp;Black&nbsp;<strong>Sesame</strong> Seeds.</p>"
+    },
+    {
+      "name": "Allergen",
+      "value": "May Be Present SOY, May Be Present MILK, Contains SESAME, May Be Present TREE NUTS, May Be Present PEANUTS, May Be Present CEREALS CONTAINING GLUTEN"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "5.0"
+    },
+    {
+      "name": "Size",
+      "value": "150g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$16.67 per 1Kg"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2022-12-04T02:55:25.470Z",
+  "description": "Coles Black Sesame Seeds 150 gram a great product to add texture to your meals",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/8/3/3834264.jpg",
+  "name": "Black Sesame Seeds",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2.5,
+    "lowPrice": 2.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-04T02:55:25.468Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "2.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-black-sesame-seds"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/coles-black-sesame-seds"
+  ],
+  "sku": "3834264",
+  "updatedAt": "2022-12-04T02:55:25.468Z"
+}

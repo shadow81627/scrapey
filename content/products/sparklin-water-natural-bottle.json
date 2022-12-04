@@ -1,0 +1,54 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Carbonated Australian Spring Water."
+    },
+    {
+      "name": "Size",
+      "value": "450mL"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$4.78 per 1L"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Product of Australia"
+    }
+  ],
+  "brand": "Mount Franklin",
+  "createdAt": "2022-12-03T21:58:31.351Z",
+  "description": "Mount Franklin Sparklin Water Natural Bottle",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/7/4/2/7429723.jpg",
+  "name": "Sparklin Water Natural Bottle",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2.15,
+    "lowPrice": 2.15,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-03T21:58:31.350Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "2.15",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/mount-franklin-water-sparkling-chilled"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/mount-franklin-water-sparkling-chilled"
+  ],
+  "sku": "7429723",
+  "updatedAt": "2022-12-03T21:58:31.350Z"
+}

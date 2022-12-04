@@ -1,0 +1,76 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1",
+    "ratingValue": "5"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Oh My Veggies"
+  },
+  "cookTime": "PT15M",
+  "createdAt": "2022-12-04T11:18:52.234Z",
+  "datePublished": "2015-04-27T09:10:12+00:00",
+  "description": "A simple springtime pasta dinner that comes together in minutes.",
+  "image": [
+    "https://ohmyveggies.com/wp-content/uploads/2015/04/lemon_asparagus_linguine_with_garlicky_panko_recipe.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2015/04/lemon_asparagus_linguine_with_garlicky_panko_recipe-500x400.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2015/04/lemon_asparagus_linguine_with_garlicky_panko_recipe-500x375.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2015/04/lemon_asparagus_linguine_with_garlicky_panko_recipe-480x270.jpg"
+  ],
+  "keywords": "Lemon-Asparagus Linguine with Garlicky Panko, pasta recipe, vegetarian pasta",
+  "name": "Lemon-Asparagus Linguine with Garlicky Panko",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "386 kcal",
+    "carbohydrateContent": "53 g",
+    "cholesterolContent": "6 mg",
+    "fatContent": "14 g",
+    "fiberContent": "5 g",
+    "proteinContent": "13 g",
+    "saturatedFatContent": "3 g",
+    "servingSize": "1 serving",
+    "sodiumContent": "157 mg",
+    "sugarContent": "4 g",
+    "unsaturatedFatContent": "10 g"
+  },
+  "prepTime": "PT5M",
+  "recipeCategory": "Main Course",
+  "recipeCuisine": "American",
+  "recipeIngredient": [
+    "3 tablespoons olive oil (divided)",
+    "2 cloves garlic (divided)",
+    "1/2 cup panko breadcrumbs",
+    "Salt and pepper (to taste)",
+    "8 ounces dry linguine (cooked until just al dente (according to package instructions)",
+    "1 pound asparagus (trimmed and cut into 1 to 1 1/2-inch pieces)",
+    "Zest from 1 lemon",
+    "1 tablespoon fresh lemon juice",
+    "1/4 cup grated parmesan cheese",
+    "1/4 cup coarsely chopped fresh basil"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Heat 1 tablespoon of olive oil in a large skillet over medium heat. Add 1 clove of garlic and cook until fragrant, about 30 seconds. Stir in the panko and cook, stirring constantly, until lightly browned, about 3 minutes. Season with salt and pepper and transfer to a small bowl. Wipe the skillet with a paper towel to remove any remaining breadcrumbs."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "About 3 minutes before the pasta is finished cooking, heat 2 tablespoons of water in the skillet, over medium heat. Once it's steaming, add the asparagus and cover. Steam for 2-3 minutes, until crisp-tender."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add the remaining olive oil and garlic to the skillet and cook for 30 seconds. Stir in the linguine and toss to coat. Remove from heat and add the lemon zest, juice, cheese and basil; toss again to distribute the ingredients evenly. Season with salt and pepper to taste, then divide onto plates. Top each serving with 2 tablespoons of breadcrumbs."
+    }
+  ],
+  "recipeYield": "4",
+  "sameAs": [
+    "https://ohmyveggies.com/asparagus-linguine-with-panko"
+  ],
+  "suitableForDiet": [
+    "https://schema.org/VegetarianDiet"
+  ],
+  "totalTime": "PT20M",
+  "updatedAt": "2022-12-04T11:18:52.233Z"
+}

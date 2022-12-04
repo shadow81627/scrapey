@@ -1,0 +1,71 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1",
+    "ratingValue": "5"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Oh My Veggies"
+  },
+  "cookTime": "PT10M",
+  "createdAt": "2022-12-03T18:08:51.711Z",
+  "datePublished": "2012-03-02T06:00:36+00:00",
+  "description": "Crispy baked sweet potato chips brushed with garlic-infused olive oil and sprinkled with fresh rosemary and sea salt.",
+  "image": [
+    "https://ohmyveggies.com/wp-content/uploads/2012/03/garlic_rosemary_baked_sweet_potato_chips_close.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2012/03/garlic_rosemary_baked_sweet_potato_chips_close-500x418.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2012/03/garlic_rosemary_baked_sweet_potato_chips_close-500x375.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2012/03/garlic_rosemary_baked_sweet_potato_chips_close-480x270.jpg"
+  ],
+  "keywords": "Garlic Rosemary Baked Sweet Potato Chips, sweet potato chips, sweet potato recipe",
+  "name": "Garlic Rosemary Baked Sweet Potato Chips",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "81 kcal",
+    "carbohydrateContent": "12 g",
+    "fatContent": "4 g",
+    "fiberContent": "2 g",
+    "proteinContent": "1 g",
+    "saturatedFatContent": "1 g",
+    "servingSize": "1 serving",
+    "sodiumContent": "31 mg",
+    "sugarContent": "2 g",
+    "unsaturatedFatContent": "4 g"
+  },
+  "prepTime": "PT20M",
+  "recipeCategory": "Appetizer",
+  "recipeCuisine": "American",
+  "recipeIngredient": [
+    "1 tbsp olive oil",
+    "1 large garlic clove (minced)",
+    "1 medium sweet potato",
+    "1 tsp rosemary (minced)",
+    "coarsely ground sea salt"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Preheat oven to 400°F. Position rack in the center of oven."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Whisk together olive oil and garlic in a small bowl. Brush two baking sheets with half of oil mixture. Place potato slices on sheets in a single layer and brush tops with remaining oil. Sprinkle with rosemary and salt."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Place baking sheets on center oven rack. Bake for approximately 10 minutes or until edges begin to curl and brown. (Note that the baking time depends on the thickness of the chips—even a slight difference in thickness can impact the time, so keep an eye on them!) Allow chips to cool completely on baking sheets."
+    }
+  ],
+  "recipeYield": "4",
+  "sameAs": [
+    "https://ohmyveggies.com/garlic-rosemary-baked-sweet-potato-chips"
+  ],
+  "suitableForDiet": [
+    "https://schema.org/VeganDiet",
+    "https://schema.org/VegetarianDiet"
+  ],
+  "totalTime": "PT30M",
+  "updatedAt": "2022-12-03T18:08:51.710Z"
+}

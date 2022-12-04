@@ -1,0 +1,73 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "5",
+    "ratingValue": "4.8"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Oh My Veggies"
+  },
+  "cookTime": "PT30M",
+  "createdAt": "2022-12-04T11:46:28.929Z",
+  "datePublished": "2018-11-02T06:00:01+00:00",
+  "description": "Oven-roasted sweet potatoes glazed with an apple cider reduction.",
+  "image": [
+    "https://ohmyveggies.com/wp-content/uploads/2012/10/apple_cider_glazed_sweet_potatoes_recipe.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2012/10/apple_cider_glazed_sweet_potatoes_recipe-500x400.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2012/10/apple_cider_glazed_sweet_potatoes_recipe-500x375.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2012/10/apple_cider_glazed_sweet_potatoes_recipe-480x270.jpg"
+  ],
+  "keywords": "Apple Cider Glazed Sweet Potatoes, glazed sweet potatoes, sweet potatoes recipe, sweet potatoes side dish",
+  "name": "Apple Cider Glazed Sweet Potatoes",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "193 kcal",
+    "carbohydrateContent": "38 g",
+    "fatContent": "4 g",
+    "fiberContent": "5 g",
+    "proteinContent": "3 g",
+    "saturatedFatContent": "1 g",
+    "servingSize": "1 serving",
+    "sodiumContent": "95 mg",
+    "sugarContent": "10 g",
+    "unsaturatedFatContent": "4 g"
+  },
+  "prepTime": "PT10M",
+  "recipeCategory": "Side Dish",
+  "recipeCuisine": "American",
+  "recipeIngredient": [
+    "1 1/2 lbs. sweet potatoes (peeled and cut into 3/4-inch pieces)",
+    "1 tbsp. olive oil",
+    "salt + pepper to taste",
+    "1/2 c. spiced apple cider"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Preheat oven to 400 degrees."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Toss sweet potatoes with oil on a rimmed baking sheet. Season with salt and pepper. Bake 25 minutes, stirring halfway through cooking time."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "While potatoes are roasting, heat apple cider in a small saucepan over high heat. Bring to a boil and cook until reduced to about 2 tablespoons, about 12 minutes."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Drizzle sweet potatoes with apple cider reduction; toss to coat. Bake 5 minutes more."
+    }
+  ],
+  "recipeYield": "4",
+  "sameAs": [
+    "https://ohmyveggies.com/recipe-apple-cider-glazed-sweet-potatoes"
+  ],
+  "suitableForDiet": [
+    "https://schema.org/VegetarianDiet"
+  ],
+  "totalTime": "PT40M",
+  "updatedAt": "2022-12-04T11:46:28.929Z"
+}

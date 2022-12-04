@@ -27,34 +27,28 @@
     "name": "Woolworths"
   },
   "createdAt": "2020-11-25T21:33:46.000Z",
-  "description": "Woolworths Garlic CrackersLight & Crunchy, Seasoned with garlic and saltOven Baked",
+  "description": "Woolworths Garlic Crackers<br><br>Light & Crunchy, Seasoned with garlic and salt<br><br>Oven Baked",
   "gtin13": "9339687065943",
-  "image": {
-    "@type": "ImageObject",
-    "height": 1200,
-    "mime": "image/jpeg",
-    "url": "https://cdn0.woolworths.media/content/wowproductimages/large/805708.jpg",
-    "width": 1200
-  },
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/805708.jpg",
   "name": "Woolworths Garlic Crackers 185G",
   "offers": {
     "@type": "AggregateOffer",
-    "highPrice": 1.8,
-    "lowPrice": 1.8,
+    "highPrice": 2,
+    "lowPrice": 2,
     "offerCount": 1,
     "offers": [
       {
         "@context": "http://schema.org",
         "@type": "Offer",
         "availability": "http://schema.org/OutOfStock",
-        "availabilityStarts": "2022-11-22T10:29:30.428Z",
+        "availabilityStarts": "2022-12-04T10:17:26.053Z",
         "itemCondition": "http://schema.org/NewCondition",
         "offeredBy": "Woolworths",
         "potentialAction": {
           "@context": "http://schema.org",
           "@type": "BuyAction"
         },
-        "price": 1.8,
+        "price": 2,
         "priceCurrency": "AUD",
         "seller": {
           "@type": "Organization",
@@ -68,5 +62,5 @@
     "https://woolworths.com.au/shop/productdetails/805708/woolworths-garlic-crackers"
   ],
   "sku": "805708",
-  "updatedAt": "2022-11-22T10:29:30.428Z"
+  "updatedAt": "2022-12-04T10:17:26.053Z"
 }

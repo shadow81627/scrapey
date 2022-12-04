@@ -2,69 +2,88 @@
   "@type": "Recipe",
   "aggregateRating": {
     "@type": "AggregateRating",
-    "ratingCount": "10",
-    "ratingValue": "4.8"
+    "ratingCount": "2",
+    "ratingValue": "5"
   },
   "author": {
     "@type": "Person",
-    "name": "Vegan Richa"
+    "name": "Oh My Veggies"
   },
-  "cookTime": "PT45M",
   "createdAt": "2022-12-01T12:40:48.057Z",
-  "datePublished": "2017-12-07T00:39:03+00:00",
-  "description": "Vegan Pumpkin Cheesecake with graham cracker style crust. Easy Creamy Pumpkin Cheesecake to please everyone. Gluten-free with gluten free crust. Soy-free Recipe.Makes one 9 inch pie pan, 8 inch will work too",
+  "datePublished": "2016-11-03T20:21:12+00:00",
+  "description": "This no-bake vegan cheesecake has all the creamy delicious flavor, and none of the dairy. Bonus: it doesn&#39;t even require use of an oven!",
   "image": [
-    "https://www.veganricha.com/wp-content/uploads/2017/12/vegan-gf-pumpkin-cheesecake-veganricha-5229-1.jpg",
-    "https://www.veganricha.com/wp-content/uploads/2017/12/vegan-gf-pumpkin-cheesecake-veganricha-5229-1-500x500.jpg",
-    "https://www.veganricha.com/wp-content/uploads/2017/12/vegan-gf-pumpkin-cheesecake-veganricha-5229-1-500x375.jpg",
-    "https://www.veganricha.com/wp-content/uploads/2017/12/vegan-gf-pumpkin-cheesecake-veganricha-5229-1-480x270.jpg"
+    "https://ohmyveggies.com/wp-content/uploads/2016/11/vegan-pumpkin-cheesecake-4.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2016/11/vegan-pumpkin-cheesecake-4-500x400.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2016/11/vegan-pumpkin-cheesecake-4-500x375.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2016/11/vegan-pumpkin-cheesecake-4-480x270.jpg"
   ],
+  "keywords": "no-bake cheesecake, No-Bake Vegan Pumpkin Cheesecake, Pumpkin Cheesecake, vegan cheesecake, Vegan Pumpkin Cheesecake",
   "name": "Vegan Pumpkin Cheesecake",
   "nutrition": {
     "@type": "NutritionInformation",
-    "calories": "185 kcal",
-    "carbohydrateContent": "25 g",
-    "fatContent": "7 g",
-    "fiberContent": "1 g",
-    "proteinContent": "2 g",
-    "saturatedFatContent": "1 g",
+    "calories": "397 kcal",
+    "carbohydrateContent": "30 g",
+    "fatContent": "31 g",
+    "fiberContent": "4 g",
+    "proteinContent": "6 g",
+    "saturatedFatContent": "13 g",
     "servingSize": "1 serving",
-    "sodiumContent": "178 mg",
-    "sugarContent": "10 g"
+    "sodiumContent": "54 mg",
+    "sugarContent": "20 g",
+    "unsaturatedFatContent": "16 g"
   },
-  "prepTime": "PT15M",
+  "prepTime": "PT260M",
   "recipeCategory": "Dessert",
-  "recipeCuisine": "Gluten-free",
+  "recipeCuisine": "American",
   "recipeIngredient": [
-    "3/4 cup non dairy yogurt (I use plain or vanilla kite hill almond yogurt)",
-    "1/3 cup cashews (, soaked for atleast an hour)",
+    "1 1/2 cups pitted dates (coarsely chopped and soaked in hot water for 10 minutes)",
+    "1 1/2 cups pecans (chopped )",
+    "1 teaspoon ground cinnamon",
+    "1 teaspoon ground ginger",
+    "Pinch salt",
+    "2 cups raw cashews (soaked in water 4 to 8 hours and drained)",
     "1 cup pumpkin puree",
-    "3 to 4 tbsp sugar",
-    "1.5 tsp pumpkin pie spice",
-    "1 tbsp cornstarch ( or arrowroot or potato starch)",
-    "1 tsp vanilla extract",
-    "1/4 tsp salt",
-    "1 to 1.5 tbsp lime juice (depends on your preference of tang)",
-    "1 Pie crust of choice (vegan) (parbaked, use gluten-free pie crust if needed)"
+    "2/3 cup coconut oil (melted )",
+    "1/3 cup maple syrup",
+    "2 teaspoons vanilla extract",
+    "2 teaspoons ground cinnamon",
+    "1/2 teaspoon ground nutmeg",
+    "1/4 teaspoon ground cloves",
+    "1/4 teaspoon salt",
+    "Coconut whipped cream",
+    "Ground cinnamon"
   ],
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "text": "Preheat the oven to 350 degrees F. Blend the cashews and yogurt until smooth. Add the rest of the ingredients and blend until smooth. You might need to scrape the sides depending on the blender as the mixture is thick."
+      "text": "Lightly oil the bottom of a 9-inch springform pan."
     },
     {
       "@type": "HowToStep",
-      "text": "Taste and adjust sweet and spice (it gets slightly sweeter and spicier on baking). Pour into prepared pie crust. I use graham cracker style."
+      "text": "Make the pecan-date crust first by placing all ingredients into the bowl of a food processor fitted with an S-blade. Pulse until the pecans and dates are finely chopped. Press the mixture very firmly into the bottom of a the pan."
     },
     {
       "@type": "HowToStep",
-      "text": "Bake for 45 to 50 minutes. Cool completely, then chill for a few hours for it to set well. Slice and serve with whipped coconut cream or ice cream."
+      "text": "Make the vegan pumpkin cheesecake filling by placing all ingredients into the food processor bowl, then blend until smooth, stopping to scrape down sides of bowl as needed."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Pour the pumpkin cheesecake filling mixture over the crust and smooth out the top with a rubber scraper. Place the pan into the refrigerator and chill until set, about 4 hours, or freeze for about 1 hour."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Slice and divide onto plates. Top each slice with a dollop of coconut whipped cream and a sprinkle of cinnamon. Serve."
     }
   ],
-  "recipeYield": "8",
+  "recipeYield": "12",
   "sameAs": [
-    "https://veganricha.com/vegan-pumpkin-cheesecake"
+    "https://ohmyveggies.com/no-bake-vegan-pumpkin-cheesecake"
   ],
-  "totalTime": "PT60M",
-  "updatedAt": "2022-12-03T04:17:33.773Z"
+  "suitableForDiet": [
+    "https://schema.org/VeganDiet",
+    "https://schema.org/VegetarianDiet"
+  ],
+  "totalTime": "PT260M",
+  "updatedAt": "2022-12-04T03:30:44.625Z"
 }

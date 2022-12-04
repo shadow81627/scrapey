@@ -1,71 +1,123 @@
 {
   "@type": "Recipe",
-  "aggregateRating": {
-    "@type": "AggregateRating",
-    "ratingCount": "3",
-    "ratingValue": "5"
+  "articleSection": "Recipes",
+  "brand": {
+    "@type": "Thing",
+    "name": "The Kitchn"
   },
-  "author": {
-    "@type": "Person",
-    "name": "Beth - Budget Bytes"
-  },
-  "cookTime": "PT15M",
+  "cookTime": "PT1200S",
   "createdAt": "2022-11-29T05:36:15.000Z",
-  "datePublished": "2022-06-29T08:48:30+00:00",
-  "description": "Air fryer chickpeas are extra crispy, take only minutes to make, are a deliciously crunchy, high-fiber snack!",
-  "image": {
-    "@type": "ImageObject",
-    "height": 900,
-    "mime": "image/jpeg",
-    "url": "https://www.budgetbytes.com/wp-content/uploads/2022/06/Air-Fryer-Chickpeas-spoon.jpg",
-    "width": 1200
+  "creator": {
+    "@type": "Person",
+    "name": "Laura Manzano"
   },
-  "keywords": "air fryer chickpeas, crispy chickpeas, roasted chickpeas",
+  "dateCreated": "2022-04-04T15:30:00-04:00",
+  "dateModified": "2022-04-01T09:54:24-04:00",
+  "datePublished": "2022-04-04T15:30:00-04:00",
+  "description": "There’s a whole wide world out there for chickpeas beyond hummus, and it can start as easily as putting them in your air fryer.",
+  "headline": "Air Fryer Chickpeas",
+  "HowtoTip": {
+    "text": "Storage: Store once completely cooled (so they don’t steam) in an airtight container in a dry place at room temperature for up to 3 days."
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "https://cdn.apartmenttherapy.info/image/upload/f_jpg,q_auto:eco,c_fill,g_auto,w_1500,ar_16:9/k%2FPhoto%2FRecipe%20Ramp%20Up%2F2022-03-Air-Fryer-Chickpeas%2FIMG_6841"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "https://cdn.apartmenttherapy.info/image/upload/f_jpg,q_auto:eco,c_fill,g_auto,w_1500,ar_4:3/k%2FPhoto%2FRecipe%20Ramp%20Up%2F2022-03-Air-Fryer-Chickpeas%2FIMG_6841"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "https://cdn.apartmenttherapy.info/image/upload/f_jpg,q_auto:eco,c_fill,g_auto,w_1500,ar_1:1/k%2FPhoto%2FRecipe%20Ramp%20Up%2F2022-03-Air-Fryer-Chickpeas%2FIMG_6841"
+    }
+  ],
+  "keywords": [
+    "recipe",
+    "recipe library",
+    "vegetarian",
+    "vegan",
+    "pantry",
+    "Seasonings",
+    "beans",
+    "Side Dish",
+    "quick",
+    "Air Fryer",
+    "budget",
+    "snacks",
+    "team:food",
+    "platform:search",
+    "course:side dish",
+    "lifestyle:budget-friendly",
+    "timing:quick",
+    "timing:30-minute",
+    "mainingredients:chickpeas",
+    "mainingredients:seasonings",
+    "mainingredients:beans",
+    "mainingredients:pantry",
+    "method:cooking appliance",
+    "method:air fryer",
+    "diet:vegetarian",
+    "diet:vegan",
+    "meal:snack"
+  ],
   "name": "Air Fryer Chickpeas",
   "nutrition": {
     "@type": "NutritionInformation",
-    "calories": "124 kcal",
-    "carbohydrateContent": "14 g",
-    "fatContent": "6 g",
-    "fiberContent": "5 g",
-    "proteinContent": "5 g",
-    "servingSize": "0.25 cup",
-    "sodiumContent": "394 mg"
+    "calories": "239 cal",
+    "carbohydrateContent": "32.5 g",
+    "cholesterolContent": "0 mg",
+    "fatContent": "8.6 g",
+    "fiberContent": "9.4 g",
+    "proteinContent": "10.1 g",
+    "saturatedFatContent": "0.9 g",
+    "servingSize": "Serves 6",
+    "sodiumContent": "374.6 mg",
+    "sugarContent": "5.8 g",
+    "unsaturatedFatContent": "0.0 g"
   },
-  "prepTime": "PT5M",
-  "recipeCategory": "Snack",
-  "recipeCuisine": "American",
+  "prepTime": "PT300S",
+  "publisher": {
+    "@type": "Organization",
+    "logo": {
+      "@type": "ImageObject",
+      "height": 46,
+      "url": "https://www.thekitchn.com/static/logos/publisher-logo.png",
+      "width": 180
+    },
+    "name": "Apartment Therapy, LLC."
+  },
+  "recipeCategory": "Side dish",
+  "recipeCuisine": [],
   "recipeIngredient": [
-    "1 15oz. can chickpeas ($0.88)",
-    "3 tsp cooking oil, divided ($0.04)",
-    "1/2 Tbsp seasoning of choice* ($0.15)"
+    "2 (about 15-ounce) cans chickpeas",
+    "2 tablespoons olive oil",
+    "2 teaspoons ras el hanout, or other spice blend such as curry powder, baharat, or chili powder",
+    "1 teaspoon kosher salt",
+    "Lemon wedges, for serving (optional)"
   ],
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "text": "Rinse and drain one can of chickpeas well. For extra crispy chickpeas, press the chickpeas between some paper towels or a lint-free kitchen towel to dry."
+      "text": "Heat an air fryer to 400oF. Meanwhie, drain and rinse 2 (about 15-ounce) cans chickpeas. Line a plate or baking sheet with paper towels, place the chickpeas on the towels, and pat very dry with more towels."
     },
     {
       "@type": "HowToStep",
-      "text": "Add the drained chickpeas to a bowl and drizzle with 2 teaspoons cooking oil. Stir to coat."
+      "text": "Transfer to a medium bowl. Add 2 tablespoons olive oil, 2 teaspoons ras el hanout, and 1 teaspoon kosher salt. Stir well to combine."
     },
     {
       "@type": "HowToStep",
-      "text": "Preheat the air fryer to 400oF (if your air fryer does not have a pre-heat function, let it run empty for 2-3 minutes on 400oF)."
-    },
-    {
-      "@type": "HowToStep",
-      "text": "Add the chickpeas to the air fryer basket and spread them into a single layer. Air fry the chickpeas for 5 minutes, then shake to stir. Air fry for an additional 5 minutes and shake again. Check the chickpeas for doneness and add 2-3 more minutes or until they reach your desired level of doneness (we do 13 minutes total)."
-    },
-    {
-      "@type": "HowToStep",
-      "text": "Transfer the air fried chickpeas to a bowl, drizzle with the second 1 teaspoon oil to help the seasoning stick, and stir to coat. Add your favorite seasoning and salt, if needed, then stir to coat again. Enjoy while warm and crispy!"
+      "text": "Transfer the chickpeas into an air fryer basket. Air fry, shaking halfway through, until the chickpeas are deeply golden and crisp, about 20 minutes total. Serve with lemon wedges for squeezing if desired."
     }
   ],
-  "recipeYield": "4",
+  "recipeYield": null,
   "sameAs": [
-    "https://budgetbytes.com/air-fryer-chickpeas"
+    "https://thekitchn.com/air-fryer-chickpeas-recipe-23294263"
   ],
-  "totalTime": "PT20M",
-  "updatedAt": "2022-11-29T02:18:22.111Z"
+  "suitableforDiet": "https://schema.org/VeganDiet,https://schema.org/VegetarianDiet",
+  "thumbnailUrl": "https://cdn.apartmenttherapy.info/image/upload/f_auto,q_auto:eco,c_fill,g_auto,w_1500,ar_3:2/k%2FPhoto%2FRecipe%20Ramp%20Up%2F2022-03-Air-Fryer-Chickpeas%2FIMG_6841",
+  "totalTime": "PT1500S",
+  "updatedAt": "2022-12-04T11:58:41.760Z",
+  "url": "https://www.thekitchn.com/air-fryer-chickpeas-recipe-23294263"
 }

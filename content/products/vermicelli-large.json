@@ -1,0 +1,58 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Rice (90%), Water (10%)"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "10.0"
+    },
+    {
+      "name": "Size",
+      "value": "500g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.66 per 100G"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Product of Thailand from Imported ingredients"
+    }
+  ],
+  "brand": "Wai Wai Rice",
+  "createdAt": "2022-12-04T07:06:46.630Z",
+  "description": "Wai Wai Brand Rice Vermicelli are thin rice flour noodles that have a soft texture and neutral taste. It goes well with stir-fries and soups.",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/7/2/3/7230224.jpg",
+  "name": "Vermicelli Large",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3.3,
+    "lowPrice": 3.3,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-04T07:06:46.629Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "3.30",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/wai-wai-noodles-rice-vermicelli-large"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/wai-wai-noodles-rice-vermicelli-large"
+  ],
+  "sku": "7230224",
+  "updatedAt": "2022-12-04T07:06:46.629Z"
+}

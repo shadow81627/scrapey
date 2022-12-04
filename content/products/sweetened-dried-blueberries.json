@@ -1,0 +1,58 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "<p><strong>INGREDIENTS:</strong> Blueberry (55%), Sugar, Sunflower Oil.</p>"
+    },
+    {
+      "name": "Allergen",
+      "value": "May Be Present SOY, May Be Present MILK, May Be Present TREE NUTS, May Be Present PEANUTS, May Be Present SESAME, May Be Present CEREALS CONTAINING GLUTEN"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "4.0"
+    },
+    {
+      "name": "Size",
+      "value": "130g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$3.23 per 100G"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2022-12-04T06:13:52.813Z",
+  "description": "Coles Dried Blueberries 130 gram a great snack on their own or add to a trail mix for added flavour",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/5/5/3559410.jpg",
+  "name": "Sweetened Dried Blueberries",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 4.2,
+    "lowPrice": 4.2,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-04T06:13:52.811Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "4.20",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-dried-blueberries"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/coles-dried-blueberries"
+  ],
+  "sku": "3559410",
+  "updatedAt": "2022-12-04T06:13:52.811Z"
+}

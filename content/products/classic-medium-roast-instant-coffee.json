@@ -7,15 +7,15 @@
     },
     {
       "name": "Warning",
-      "value": "Quality Seal.If broken do not purchase."
+      "value": "Quality Seal. If broken do not purchase."
     },
     {
       "name": "Size",
-      "value": "400g"
+      "value": "100g"
     },
     {
       "name": "Unit Price",
-      "value": "$4.00 per 100G"
+      "value": "$11.50 per 100G"
     },
     {
       "name": "Country Of Origin",
@@ -25,40 +25,34 @@
   "brand": "Moccona",
   "createdAt": "2020-10-12T05:22:04.000Z",
   "description": "Moccona Classic Medium Roast Instant Coffee",
-  "image": {
-    "@type": "ImageObject",
-    "height": 300,
-    "mime": "image/jpeg",
-    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/9/6/9/9693915.jpg",
-    "width": 300
-  },
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/0/3/303556.jpg",
   "name": "Classic Medium Roast Instant Coffee",
   "offers": {
     "@type": "AggregateOffer",
-    "highPrice": 16,
-    "lowPrice": 16,
+    "highPrice": 11.5,
+    "lowPrice": 11.5,
     "offerCount": 1,
     "offers": [
       {
         "@context": "http://schema.org",
         "@type": "Offer",
         "availability": "https://schema.org/InStock",
-        "availabilityStarts": "2020-11-15T04:53:16.450Z",
+        "availabilityStarts": "2022-12-03T23:30:17.700Z",
         "itemCondition": "https://schema.org/NewCondition",
         "offeredBy": "Coles",
-        "price": "16.00",
+        "price": "11.50",
         "priceCurrency": "AUD",
         "seller": {
           "@type": "Organization",
           "name": "Coles"
         },
-        "url": "https://shop.coles.com.au/a/national/product/moccona-classic--coffee-freeze-dried"
+        "url": "https://shop.coles.com.au/a/national/product/moccona-coffee-classic-freeze-dried-medium-roast"
       }
     ]
   },
   "sameAs": [
-    "https://shop.coles.com.au/a/richmond-south/product/moccona-classic--coffee-freeze-dried"
+    "https://shop.coles.com.au/a/national/product/moccona-coffee-classic-freeze-dried-medium-roast"
   ],
-  "sku": "9693915",
-  "updatedAt": "2020-11-15T04:53:16.450Z"
+  "sku": "303556",
+  "updatedAt": "2022-12-03T23:30:17.700Z"
 }

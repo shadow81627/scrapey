@@ -1,0 +1,54 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "<p> <b>INGREDIENTS: </b>Spring Water (100%)</p>"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "40.0"
+    },
+    {
+      "name": "Size",
+      "value": "10L"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.44 per 1L"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2022-12-03T20:17:10.069Z",
+  "description": "A refreshing drink for those long hot summer days or when you want to rehydrate",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/4/8/7/4874479.jpg",
+  "name": "Water Spring Natural",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 4.4,
+    "lowPrice": 4.4,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-03T20:17:10.068Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "4.40",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-water-spring-natural"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/coles-water-spring-natural"
+  ],
+  "sku": "4874479",
+  "updatedAt": "2022-12-03T20:17:10.068Z"
+}

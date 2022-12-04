@@ -1,0 +1,60 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "732kJ",
+      "carbohydrateContent": "4.8g",
+      "dietary_fibre": "1.0g",
+      "fatContent": "15.4g",
+      "name": "nutrition",
+      "proteinContent": "6.0g",
+      "saturatedFatContent": "2.9g",
+      "servingSize": "100 g",
+      "sodiumContent": "144mg",
+      "sugarContent": "1.6g"
+    }
+  ],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Nobby's"
+  },
+  "createdAt": "2022-12-04T10:08:46.640Z",
+  "description": "Nibble on Nobbys Salted Cashews when you're craving a tasty snack. For over 50 years, Australians have grown to love the unbeatable quality and taste of Nobbys.<br /><br /><BR><BR>Enjoy the unbeatable quality and taste of Nobby's Cashew Nuts with a simple salt seasoning.<br /><br />When you want a tasty and satisfying snack, whether it be relaxing on your own, entertaining friends or having a beer at the pub with your mates, it's always a great time to whip out Nobbys Salted Cashew Nuts. Our range has something for everyone, including Nobby’s peanuts, beer nuts and mixed nuts, as well as Nobby’s Pork Crackle and Beef Jerky.<br /><br />- Big on flavour, hard on crunch!<br />- Freshness quality guarantee.<br />- Pub favourite",
+  "gtin13": "9310015223839",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/106246.jpg",
+  "name": "Nobby's Salted Cashews Nuts Tossed In Sea Salt 300G",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 8,
+    "lowPrice": 8,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/OutOfStock",
+        "availabilityStarts": "2022-12-04T10:08:46.639Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 8,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/106246/nobby-s-salted-cashews-nuts-tossed-in-sea-salt"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/106246/nobby-s-salted-cashews-nuts-tossed-in-sea-salt"
+  ],
+  "sku": "106246",
+  "updatedAt": "2022-12-04T10:08:46.639Z"
+}

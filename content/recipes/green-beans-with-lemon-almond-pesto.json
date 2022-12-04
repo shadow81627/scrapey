@@ -1,0 +1,73 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1",
+    "ratingValue": "5"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Oh My Veggies"
+  },
+  "cookTime": "PT15M",
+  "createdAt": "2022-12-03T18:46:16.331Z",
+  "datePublished": "2019-07-29T06:00:43+00:00",
+  "description": "This easy side dish is a twist on the classic combination of green beans and almonds.",
+  "image": [
+    "https://ohmyveggies.com/wp-content/uploads/2012/07/green_beans_with_lemon_almond_pesto_angled.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2012/07/green_beans_with_lemon_almond_pesto_angled-500x358.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2012/07/green_beans_with_lemon_almond_pesto_angled-480x270.jpg"
+  ],
+  "keywords": "green beans recipe, Green Beans with Lemon-Almond Pesto",
+  "name": "Green Beans with Lemon-Almond Pesto",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "126 kcal",
+    "carbohydrateContent": "11 g",
+    "fatContent": "8 g",
+    "fiberContent": "5 g",
+    "proteinContent": "5 g",
+    "saturatedFatContent": "1 g",
+    "servingSize": "1 serving",
+    "sodiumContent": "7 mg",
+    "sugarContent": "4 g",
+    "transFatContent": "1 g",
+    "unsaturatedFatContent": "7 g"
+  },
+  "prepTime": "PT10M",
+  "recipeCategory": "Side Dish",
+  "recipeCuisine": "American",
+  "recipeIngredient": [
+    "cooking spray or olive oil mister",
+    "1 1/2 lbs green beans (trimmed)",
+    "1/2 cup almonds",
+    "1 garlic clove",
+    "1 tbsp lemon juice",
+    "1 tbsp olive oil",
+    "salt and pepper (to taste)"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Preheat oven to 400°F."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Spray a rimmed baking sheet with cooking spray. Place beans on sheet in a single layer and spray tops with additional cooking spray. Roast for 15 minutes or until tender."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Combine almonds, garlic, lemon juice, olive oil, salt, and pepper in food processor and process until roughly chopped. Spoon over green beans before serving."
+    }
+  ],
+  "recipeYield": "6",
+  "sameAs": [
+    "https://ohmyveggies.com/green-beans-with-lemon-almond-pesto"
+  ],
+  "suitableForDiet": [
+    "https://schema.org/VeganDiet",
+    "https://schema.org/VegetarianDiet"
+  ],
+  "totalTime": "PT25M",
+  "updatedAt": "2022-12-03T18:46:16.330Z"
+}

@@ -1,0 +1,83 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1",
+    "ratingValue": "5"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Oh My Veggies"
+  },
+  "cookTime": "PT20M",
+  "createdAt": "2022-12-03T22:19:34.563Z",
+  "datePublished": "2013-02-28T08:02:20+00:00",
+  "description": "Serve this vegetarian cacciatore over brown rice, couscous or pasta. Adapted from Eating Well's Quick Chicken Cacciatore.",
+  "image": [
+    "https://ohmyveggies.com/wp-content/uploads/2013/02/seitan_cacciatore_recipe.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2013/02/seitan_cacciatore_recipe-500x400.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2013/02/seitan_cacciatore_recipe-500x375.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2013/02/seitan_cacciatore_recipe-480x270.jpg"
+  ],
+  "keywords": "Seitan Cacciatore, vegetarian cacciatore",
+  "name": "Seitan Cacciatore",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "324 kcal",
+    "carbohydrateContent": "24 g",
+    "fatContent": "12 g",
+    "fiberContent": "4 g",
+    "proteinContent": "28 g",
+    "saturatedFatContent": "1 g",
+    "servingSize": "1 serving",
+    "sodiumContent": "1707 mg",
+    "sugarContent": "3 g",
+    "unsaturatedFatContent": "8 g"
+  },
+  "prepTime": "PT10M",
+  "recipeCategory": "Main Course",
+  "recipeCuisine": "American",
+  "recipeIngredient": [
+    "16 oz. seitan (drained and cubed)",
+    "1/4 c. all-purpose flour (divided)",
+    "1/4 tsp. salt (divided)",
+    "1/4 tsp. freshly ground pepper",
+    "2 tbsp. olive oil (divided)",
+    "8 oz. white mushrooms (quartered)",
+    "1 small onion (sliced)",
+    "2 tsp. chopped fresh rosemary + more for garnish (or 3/4 tsp. dried rosemary)",
+    "1/2 c. dry white wine",
+    "1 14 ounce can no salt added diced tomatoes, drained",
+    "1 c. vegetable broth",
+    "3/4 c. sliced jarred roasted red peppers (rinsed)",
+    "1/4 c. quartered kalamata olives"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Place seitan in a large bowl. Slowly add 2 tablespoons of flour to bowl, stirring to coat all sides of seitan pieces. Sprinkle with 1/8 teaspoon of salt and pepper."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Heat 1 tablespoon of oil in a large skillet over medium heat. Add seitan and cook until browned on all sides, stirring often, about 3-5 minutes. Transfer to plate."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Return skillet to medium heat and add remaining tablespoon of oil. Add mushrooms, onion, rosemary, and remaining salt. Cook until onion is golden brown, about 5 minutes. Sprinkle vegetables with remaining flour and stir until coated. Stir in wine and cook for 1 minute. Add tomatoes, broth, roasted red peppers, and olives; reduce heat to medium low."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Once cacciatore comes to a simmer, add seitan. Continue to cook, stirring occasionally, until sauce has thickened, about 5 minutes. Serve over brown rice, couscous, or pasta and garnish with rosemary."
+    }
+  ],
+  "recipeYield": "4",
+  "sameAs": [
+    "https://ohmyveggies.com/recipe-seitan-cacciatore-and-a-little-bit-about-seitan"
+  ],
+  "suitableForDiet": [
+    "https://schema.org/VeganDiet",
+    "https://schema.org/VegetarianDiet"
+  ],
+  "totalTime": "PT30M",
+  "updatedAt": "2022-12-03T22:19:34.561Z"
+}

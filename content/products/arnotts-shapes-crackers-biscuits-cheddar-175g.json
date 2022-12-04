@@ -1,0 +1,60 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "500.00kJ",
+      "carbohydrateContent": "14.60g",
+      "dietary_fibre": "0.80g",
+      "fatContent": "5.30g",
+      "name": "nutrition",
+      "proteinContent": "2.90g",
+      "saturatedFatContent": "1.70g",
+      "servingSize": "100 g",
+      "sodiumContent": "191.00mg",
+      "sugarContent": "0.30g"
+    }
+  ],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Arnott's"
+  },
+  "createdAt": "2022-12-04T09:30:45.359Z",
+  "description": "Arnott’s Shapes Originals are an Aussie favourite savoury biscuit snack. Arnott’s Shapes Original Cheddar offer a mild cheddar flavour on a crisp and crunchy cracker base. Oven baked, not fried, and foil-wrapped for freshness.<br><br>Arnott’s Shapes Originals are big on crunch and even bigger on taste – and perfect for any occasion! These cheddar cheese crackers are delicious oven-baked crackers with loads of flavour you can see, and no artificial colours or preservatives. <br><br>Whether you’re sharing with friends at the park or looking for a fun afternoon snack with flavours that your whole family will love, Arnott’s Shapes Original Cheddar biscuits are the perfect flavoured cracker. Foil-wrapped for freshness, they’re a go-to savoury cravings-buster for any occasion. Bags of flavour in every box, no matter which flavour you savour!<br><br>A mild cheddar flavour on a crisp, crunchy cracker base.<br><br>Flavour you can see.<br><br>Foil-wrapped for freshness.<br><br>Oven baked, not fried.<br><br>Made in Australia.",
+  "gtin13": "9310072026282",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/384244.jpg",
+  "name": "Arnott's Shapes Crackers Biscuits Cheddar 175G",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2.75,
+    "lowPrice": 2.75,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-12-04T09:30:45.358Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 2.75,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/384244/arnott-s-shapes-crackers-biscuits-cheddar"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/384244/arnott-s-shapes-crackers-biscuits-cheddar"
+  ],
+  "sku": "384244",
+  "updatedAt": "2022-12-04T09:30:45.358Z"
+}

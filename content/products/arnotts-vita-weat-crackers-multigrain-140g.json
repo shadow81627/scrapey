@@ -1,0 +1,60 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "364.00kJ",
+      "carbohydrateContent": "12.90g",
+      "dietary_fibre": "1.70g",
+      "fatContent": "2.70g",
+      "name": "nutrition",
+      "proteinContent": "2.00g",
+      "saturatedFatContent": "0.40g",
+      "servingSize": "100 g",
+      "sodiumContent": "85.00mg",
+      "sugarContent": "0.70g"
+    }
+  ],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Arnott's"
+  },
+  "createdAt": "2022-12-04T09:32:51.269Z",
+  "description": "Arnott’s Vita-Weat Multigrain crackers are 100% natural and packed with wholegrain goodness, perfect for a healthy crunch. Aussie made and loved and boasting 4 Health Stars, they are a healthy addition to your favourite cheeseboard or snack.<br><br>Open up to positive eating. Arnott’s Vita-Weat Multigrain crackers are perfect for delicious guilt-free snacking and entertaining. Packed with wholegrains, these crackers are 100% natural, and perfect for dipping, topping or snacking. The ideal healthy cracker for your favourite cheeseboard, or snacking at home.<br><br>Aussie made and loved.<br><br>4 Health Stars.<br><br>Wholegrain goodness.<br><br>100% natural.<br><br>Crispy and light.",
+  "gtin13": "9310072025100",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/327443.jpg",
+  "name": "Arnott's Vita Weat Crackers Multigrain 140G",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2.2,
+    "lowPrice": 2.2,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-12-04T09:32:51.268Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 2.2,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/327443/arnott-s-vita-weat-crackers-multigrain"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/327443/arnott-s-vita-weat-crackers-multigrain"
+  ],
+  "sku": "327443",
+  "updatedAt": "2022-12-04T09:32:51.268Z"
+}

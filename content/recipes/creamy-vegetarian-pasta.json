@@ -1,0 +1,75 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1",
+    "ratingValue": "5"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Oh My Veggies"
+  },
+  "cookTime": "PT8M",
+  "createdAt": "2022-12-04T00:02:34.284Z",
+  "datePublished": "2019-12-04T06:00:26+00:00",
+  "description": "This Creamy Vegetarian Pasta recipe is perfect for weekly dinners. It takes less than 30 minutes to get this tasty meal on your plate, and it&#039;s made from only a handful of simple ingredients.",
+  "image": [
+    "https://ohmyveggies.com/wp-content/uploads/2019/11/pasta-2-2-scaled.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2019/11/pasta-2-2-500x500.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2019/11/pasta-2-2-500x375.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2019/11/pasta-2-2-480x270.jpg"
+  ],
+  "keywords": "Creamy Vegetarian Pasta, vegetarian pasta recipe",
+  "name": "Creamy Vegetarian Pasta",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "630 kcal",
+    "carbohydrateContent": "127 g",
+    "cholesterolContent": "1 mg",
+    "fatContent": "3 g",
+    "fiberContent": "7 g",
+    "proteinContent": "22 g",
+    "saturatedFatContent": "1 g",
+    "servingSize": "1 serving",
+    "sodiumContent": "14 mg",
+    "sugarContent": "8 g",
+    "unsaturatedFatContent": "2 g"
+  },
+  "prepTime": "PT20M",
+  "recipeCategory": "Main Course",
+  "recipeCuisine": "American",
+  "recipeIngredient": [
+    "2 3/4 cups pasta of your choice",
+    "1 small onion (chopped)",
+    "1 bell pepper (chopped)",
+    "1 to mato (chopped)",
+    "1 package cream cheese with garlic and herbs"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "In a large pot of boiling salted water, cook pasta for 8 to 10 minutes or until al dente."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "In large skillet, over medium-high heat, add onion and pepper. Cook—stirring occasionally—for 3 to 4 minutes or until softened. Remove from heat."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "In the saucepan, add cream cheese and 1/2 cup reserved pasta cooking water. Mix to coat the pasta. (If necessary, add more pasta water to obtain a creamier sauce.) Add vegetables and mix."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Divide the pasta into bowls and serve."
+    }
+  ],
+  "recipeYield": "4",
+  "sameAs": [
+    "https://ohmyveggies.com/creamy-vegetarian-pasta"
+  ],
+  "suitableForDiet": [
+    "https://schema.org/VegetarianDiet"
+  ],
+  "totalTime": "PT28M",
+  "updatedAt": "2022-12-04T00:02:34.283Z"
+}

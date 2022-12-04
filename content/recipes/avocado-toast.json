@@ -1,0 +1,83 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "5",
+    "ratingValue": "4.8"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Oh My Veggies"
+  },
+  "createdAt": "2022-12-04T03:28:49.428Z",
+  "datePublished": "2018-09-01T06:00:18+00:00",
+  "description": "This Avocado Toast is so nourishing and refreshing! It&#39;s also healthy and easy to prepare—perfect for those busy mornings.",
+  "image": [
+    "https://ohmyveggies.com/wp-content/uploads/2018/07/avocado-toast-1-scaled.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2018/07/avocado-toast-1-500x500.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2018/07/avocado-toast-1-500x375.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2018/07/avocado-toast-1-480x270.jpg"
+  ],
+  "keywords": "Avocado Toast, how to make avocado toast",
+  "name": "Avocado Toast",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "294 kcal",
+    "carbohydrateContent": "25 g",
+    "cholesterolContent": "17 mg",
+    "fatContent": "20 g",
+    "fiberContent": "8 g",
+    "proteinContent": "8 g",
+    "saturatedFatContent": "5 g",
+    "servingSize": "1 serving",
+    "sodiumContent": "366 mg",
+    "sugarContent": "4 g",
+    "transFatContent": "1 g",
+    "unsaturatedFatContent": "13 g"
+  },
+  "prepTime": "PT15M",
+  "recipeCategory": "Breakfast",
+  "recipeCuisine": "American",
+  "recipeIngredient": [
+    "2 avocados",
+    "2 tsp lemon juice",
+    "salt and pepper (to taste)",
+    "4 slices toasted bread",
+    "1/2 cup feta cheese",
+    "1 cup cherry tomatoes (halved)",
+    "1/4 cup basil",
+    "balsamic vinegar"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Cut the avocado in half and put the flesh in a small bowl. Add lemon juice, salt, and pepper. With a fork, crush the ingredients together."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Spread the mixture over the toast."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Top with feta cheese, tomatoes, and basil."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Season to your liking with salt and pepper."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Pour a small trickle of balsamic vinaigrette on top."
+    }
+  ],
+  "recipeYield": "4",
+  "sameAs": [
+    "https://ohmyveggies.com/avocado-toast"
+  ],
+  "suitableForDiet": [
+    "https://schema.org/VeganDiet",
+    "https://schema.org/VegetarianDiet"
+  ],
+  "totalTime": "PT15M",
+  "updatedAt": "2022-12-04T03:28:49.427Z"
+}

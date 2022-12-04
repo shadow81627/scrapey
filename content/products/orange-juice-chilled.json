@@ -1,0 +1,54 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "<strong>INGREDIENTS:</strong> Reconstituted Orange Juice and Orange Juice (99.9%), Preservative (202), Acidity Regulator (330), Natural Flavouring."
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "12.0"
+    },
+    {
+      "name": "Size",
+      "value": "3L"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.47 per 1L"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2022-12-03T19:51:48.632Z",
+  "description": "Coles 3L orange juice with no added sugar, artificial colours or flavours. The perfectly refreshing beverage to start your morning.",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/9/4/8/9485565.jpg",
+  "name": "Orange Juice Chilled",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 4.4,
+    "lowPrice": 4.4,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-03T19:51:48.631Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "4.40",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-juice-orange-no-added-sugar-chilled"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/coles-juice-orange-no-added-sugar-chilled"
+  ],
+  "sku": "9485565",
+  "updatedAt": "2022-12-03T19:51:48.631Z"
+}

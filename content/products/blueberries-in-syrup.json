@@ -1,0 +1,58 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "<strong>INGREDIENTS:</strong> Blueberries (50%), Water, Sugar."
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "3.4"
+    },
+    {
+      "name": "Size",
+      "value": "415g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$9.16 per 1Kg"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Product of USA"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2022-12-04T06:56:59.280Z",
+  "description": "Sweet and Juicy quality harvested fruit",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/4/1/6/4164961.jpg",
+  "name": "Blueberries In Syrup",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3.8,
+    "lowPrice": 3.8,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-04T06:56:59.279Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "3.80",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-blueberries"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/coles-blueberries"
+  ],
+  "sku": "4164961",
+  "updatedAt": "2022-12-04T06:56:59.279Z"
+}

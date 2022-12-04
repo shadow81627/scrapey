@@ -1,0 +1,54 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Servings Per Pack",
+      "value": "4.0"
+    },
+    {
+      "name": "Warning",
+      "value": "PACKAGING CONTAINS SMALL PARTS AND IS NOT SUITABLE FOR CHILDREN UNDER THE AGE OF 5 YEARS WITHOUT SUPERVISION"
+    },
+    {
+      "name": "Size",
+      "value": "1L"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.20 per 1L"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2022-12-03T20:46:44.312Z",
+  "description": "A refreshing drink for those long hot summer days or when you want to rehydrate",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/8/7/3871475.jpg",
+  "name": "Sports Spring Water",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 1.2,
+    "lowPrice": 1.2,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-03T20:46:44.311Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "1.20",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-spring-water-1l-sports"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/coles-spring-water-1l-sports"
+  ],
+  "sku": "3871475",
+  "updatedAt": "2022-12-03T20:46:44.311Z"
+}

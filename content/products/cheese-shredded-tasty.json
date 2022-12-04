@@ -1,0 +1,58 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "<strong>INGREDIENTS:</strong> Tasty Cheddar Cheese [<strong>Milk</strong>, Salt, Mineral Salt (509), Cultures (<strong>Milk</strong>), Enzyme (Vegetarian Rennet)], Anticaking Agent (460), Preservative (200)."
+    },
+    {
+      "name": "Allergen",
+      "value": "Contains MILK"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "10.0"
+    },
+    {
+      "name": "Size",
+      "value": "700g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$10.71 per 1Kg"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2022-12-03T17:04:08.352Z",
+  "description": "Matured for a rich & tasty flavour, perfect for baking and cooking. Made with Australian milk.",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/8/1/4/8145335.jpg",
+  "name": "Cheese Shredded Tasty",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 7.5,
+    "lowPrice": 7.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-03T17:04:08.351Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "7.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-cheese-shredded-tasty"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/coles-cheese-shredded-tasty"
+  ],
+  "sku": "8145335",
+  "updatedAt": "2022-12-03T17:04:08.351Z"
+}

@@ -1,0 +1,50 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "5 pack"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.12 per 1Ea"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Made in China"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2022-12-04T12:25:46.883Z",
+  "description": "Coles Scourer Nylon 5 Pack. Made for heavy duty cleaning to remove stuck on stains and grime.",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/4/5/1/4510563.jpg",
+  "name": "Nylon Scourers",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 0.6,
+    "lowPrice": 0.6,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-04T12:25:46.882Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "0.60",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-smart-buy-scourer-nylon"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/coles-smart-buy-scourer-nylon"
+  ],
+  "sku": "4510563",
+  "updatedAt": "2022-12-04T12:25:46.883Z"
+}

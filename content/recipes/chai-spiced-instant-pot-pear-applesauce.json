@@ -1,0 +1,71 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "3",
+    "ratingValue": "5"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Oh My Veggies"
+  },
+  "cookTime": "PT8M",
+  "createdAt": "2022-12-04T11:48:04.746Z",
+  "datePublished": "2018-04-19T08:11:49+00:00",
+  "description": "Pear Applesauce flavored with chai spices and slow-cooked in a crockpot. Adapted from Skinnytaste's Crock Pot Applesauce.",
+  "image": [
+    "https://ohmyveggies.com/wp-content/uploads/2012/01/chai_spiced_pear_applesauce_feature.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2012/01/chai_spiced_pear_applesauce_feature-500x404.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2012/01/chai_spiced_pear_applesauce_feature-500x375.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2012/01/chai_spiced_pear_applesauce_feature-480x270.jpg"
+  ],
+  "keywords": "Chai-Spiced Instant Pot Pear Applesauce, how to make applesauce, instant pot applesauce",
+  "name": "Chai-Spiced Instant Pot Pear Applesauce",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "155 kcal",
+    "carbohydrateContent": "41 g",
+    "fatContent": "1 g",
+    "fiberContent": "7 g",
+    "proteinContent": "1 g",
+    "saturatedFatContent": "1 g",
+    "servingSize": "1 /2 cup",
+    "sodiumContent": "5 mg",
+    "sugarContent": "28 g",
+    "transFatContent": "1 g",
+    "unsaturatedFatContent": "2 g"
+  },
+  "prepTime": "PT20M",
+  "recipeCategory": "Sauces, Dips &amp; Dressings",
+  "recipeCuisine": "American",
+  "recipeIngredient": [
+    "4 medium apples (peeled, cored, and cut into large chunks (I use Fuji and Pink Lady)",
+    "4 medium pears (peeled, cored, and cut into large chunks)",
+    "1 tsp. lemon juice",
+    "5 tsp. brown sugar",
+    "1 tsp. ground cinnamon",
+    "1 tsp. vanilla extract",
+    "1/2 tsp. ground ginger",
+    "1/2 tsp. ground cardamom",
+    "1/2 tsp. ground cloves"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Combine all ingredients in an Instant Pot. Secure the lid and cook on high pressure for 8 minutes."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "For a chunkier sauce, use a slotted spoon to remove half of the apple and pear chunks. Use an immersion blender to puree the remaining fruit and then stir in reserved fruit chunks (alternately, you can cool the mixture and puree in a blender or food processor). For a thinner sauce, do not remove any fruit before pureeing."
+    }
+  ],
+  "recipeYield": "6",
+  "sameAs": [
+    "https://ohmyveggies.com/recipe-chai-spiced-instant-pot-pear-applesauce"
+  ],
+  "suitableForDiet": [
+    "https://schema.org/VegetarianDiet"
+  ],
+  "totalTime": "PT30M",
+  "updatedAt": "2022-12-04T11:48:04.745Z"
+}

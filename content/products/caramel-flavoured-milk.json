@@ -1,0 +1,70 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Fresh reduced fat milk, sugar, flavour, caramel colour (150c), salt, vegetable gum (carrageenan)."
+    },
+    {
+      "name": "Contains",
+      "value": "Milk."
+    },
+    {
+      "name": "Allergen",
+      "value": "Contains Milk"
+    },
+    {
+      "name": "Dietary",
+      "value": "No Preservatives"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "1.0"
+    },
+    {
+      "name": "Warning",
+      "value": "Pasteurised reduced fat (contains 26% less fat than a 3.4g fat per 100mL flavoured milk) strawberry flavoured milk."
+    },
+    {
+      "name": "Size",
+      "value": "500mL"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$5.80 per 1L"
+    }
+  ],
+  "brand": "Dairy Farmers",
+  "createdAt": "2022-12-04T06:07:45.498Z",
+  "description": "Dairy Farmers Caramel Flavoured Milk",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/8/9/3897898.jpg",
+  "name": "Caramel Flavoured Milk",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2.9,
+    "lowPrice": 2.9,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-04T06:07:45.498Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "2.90",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/dairy-farmers-caramel-flavoured-milk"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/dairy-farmers-caramel-flavoured-milk"
+  ],
+  "sku": "3897898",
+  "updatedAt": "2022-12-04T06:07:45.498Z"
+}

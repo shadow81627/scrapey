@@ -1,0 +1,61 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1",
+    "ratingValue": "5"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Oh My Veggies"
+  },
+  "createdAt": "2022-12-04T09:05:49.825Z",
+  "datePublished": "2014-06-25T20:36:14+00:00",
+  "description": "Grated ginger adds warmth and complexity to this easy summer fruit smoothie.",
+  "image": [
+    "https://ohmyveggies.com/wp-content/uploads/2014/06/cherry_ginger_smoothie_recipe-1.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2014/06/cherry_ginger_smoothie_recipe-1-500x397.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2014/06/cherry_ginger_smoothie_recipe-1-500x375.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2014/06/cherry_ginger_smoothie_recipe-1-480x270.jpg"
+  ],
+  "keywords": "Cherry Ginger Smoothie, smoothie recipe",
+  "name": "Cherry Ginger Smoothie",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "509 kcal",
+    "carbohydrateContent": "78 g",
+    "fatContent": "17 g",
+    "fiberContent": "10 g",
+    "proteinContent": "19 g",
+    "saturatedFatContent": "1 g",
+    "servingSize": "1 serving",
+    "sodiumContent": "61 mg",
+    "sugarContent": "53 g",
+    "unsaturatedFatContent": "14 g"
+  },
+  "recipeCategory": "Breakfast",
+  "recipeCuisine": "American",
+  "recipeIngredient": [
+    "1/2 cup unsweetened non-dairy vanilla milk",
+    "2 cups pitted cherries",
+    "1 large frozen ripe banana",
+    "2 tablespoons hemp hearts (shelled hemp seeds)",
+    "2-3 teaspoons grated ginger"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Combine all of the ingredients in a blender and blend until smooth."
+    }
+  ],
+  "recipeYield": "1",
+  "sameAs": [
+    "https://ohmyveggies.com/cherry-ginger-smoothie"
+  ],
+  "suitableForDiet": [
+    "https://schema.org/VeganDiet",
+    "https://schema.org/VegetarianDiet"
+  ],
+  "totalTime": "PT5M",
+  "updatedAt": "2022-12-04T09:05:49.824Z"
+}

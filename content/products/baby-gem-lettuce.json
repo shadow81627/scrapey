@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "3 pack"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.33 per 1Ea"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2022-12-04T02:43:39.882Z",
+  "description": "Small and sweet, the leaves of the baby gem are oval shaped and perfect for sandwiches or salads. Lettuce is best stored in a sealed container in the fridge",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/5/8/2584547.jpg",
+  "name": "Baby Gem Lettuce",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 4,
+    "lowPrice": 4,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-04T02:43:39.882Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "4.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-baby-gem-lettuce"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/coles-baby-gem-lettuce"
+  ],
+  "sku": "2584547",
+  "updatedAt": "2022-12-04T02:43:39.882Z"
+}

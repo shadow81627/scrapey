@@ -1,0 +1,80 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "2",
+    "ratingValue": "5"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Oh My Veggies"
+  },
+  "cookTime": "PT60M",
+  "createdAt": "2022-12-04T03:34:35.853Z",
+  "datePublished": "2018-12-05T06:00:58+00:00",
+  "description": "All you need are a handful of ingredients and one mixing bowl to make this crazy easy pumpkin bread. Perfect for a fall treat!",
+  "image": [
+    "https://ohmyveggies.com/wp-content/uploads/2018/12/pumpkin-bread.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2018/12/pumpkin-bread-500x500.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2018/12/pumpkin-bread-500x375.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2018/12/pumpkin-bread-480x270.jpg"
+  ],
+  "keywords": "pumpkin bread",
+  "name": "Easy One-Bowl Pumpkin Bread",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "174 kcal",
+    "carbohydrateContent": "19 g",
+    "cholesterolContent": "20 mg",
+    "fatContent": "10 g",
+    "fiberContent": "1 g",
+    "proteinContent": "3 g",
+    "saturatedFatContent": "1 g",
+    "servingSize": "1 serving",
+    "sodiumContent": "77 mg",
+    "sugarContent": "5 g",
+    "transFatContent": "1 g",
+    "unsaturatedFatContent": "8 g"
+  },
+  "prepTime": "PT15M",
+  "recipeCategory": "Baking",
+  "recipeCuisine": "American",
+  "recipeIngredient": [
+    "1 cup coconut sugar",
+    "1 cup avocado oil",
+    "2 cups pumpkin puree",
+    "3 eggs",
+    "1/2 tsp baking powder",
+    "1 tsp baking soda",
+    "Pinch nutmeg",
+    "Pinch ground cinnamon",
+    "3 cups all-purpose flour"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Preheat oven to 350 degrees F."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "In a large mixing bowl, mix together all the ingredients until a smooth batter is formed. (Yes, it's that simple!)"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Pour the mixture evenly into two greased 9x5 loaf pans."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Bake for 50 to 60 minutes, until a toothpick inserted comes out clean."
+    }
+  ],
+  "recipeYield": "24",
+  "sameAs": [
+    "https://ohmyveggies.com/pumpkin-bread"
+  ],
+  "suitableForDiet": [
+    "https://schema.org/VegetarianDiet"
+  ],
+  "totalTime": "PT75M",
+  "updatedAt": "2022-12-04T03:34:35.852Z"
+}

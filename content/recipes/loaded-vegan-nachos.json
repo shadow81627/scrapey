@@ -1,249 +1,74 @@
 {
   "@type": "Recipe",
-  "aggregateRating": {
-    "@type": "AggregateRating",
-    "ratingCount": "8",
-    "ratingValue": "4.88"
-  },
   "author": {
     "@type": "Person",
-    "name": "Sam Turnbull • It Doesn't Taste Like Chicken"
+    "name": "Linda & Alex"
   },
-  "cookTime": "PT10M",
+  "cookTime": "PT30M",
   "createdAt": "2022-12-01T08:56:03.143Z",
-  "datePublished": "2015-08-31T16:08:55+00:00",
-  "description": "The best damn loaded vegan nachos from here to Timbuktu! Homemade vegan nacho cheese only takes 15 minutes to make, then just load up the tortilla chips will all the best toppings! So easy.&nbsp;",
+  "datePublished": "2015-09-03T06:00:01+00:00",
+  "description": "Nachos loaded with vegan cheese, black beans, and spicy veggies.",
   "image": [
-    "https://itdoesnttastelikechicken.com/wp-content/uploads/2018/01/the-best-fully-loaded-vegan-nachos-recipe.jpg",
-    "https://itdoesnttastelikechicken.com/wp-content/uploads/2018/01/the-best-fully-loaded-vegan-nachos-recipe-500x500.jpg",
-    "https://itdoesnttastelikechicken.com/wp-content/uploads/2018/01/the-best-fully-loaded-vegan-nachos-recipe-500x375.jpg",
-    "https://itdoesnttastelikechicken.com/wp-content/uploads/2018/01/the-best-fully-loaded-vegan-nachos-recipe-480x270.jpg"
-  ],
-  "mentions": [
-    {
-      "@id": "https://itdoesnttastelikechicken.com/tag/1-cheese-popup/#id",
-      "@type": "http://schema.org/Thing",
-      "description": "Cheese is a food derived from milk that is produced in a wide range of flavors, textures, and forms by coagulation of the milk protein casein. It comprises proteins and fat from milk, usually the milk of cows, buffalo, goats, or sheep. During production, the milk is usually acidified, and adding the enzyme rennet causes...",
-      "name": "cheese",
-      "sameAs": [
-        "http://ja.dbpedia.org/resource/チーズ",
-        "http://it.dbpedia.org/resource/Formaggio",
-        "http://cs.dbpedia.org/resource/Sýr",
-        "http://rdf.freebase.com/ns/m.01nkt",
-        "http://www.wikidata.org/entity/Q10943",
-        "http://es.dbpedia.org/resource/Queso",
-        "http://el.dbpedia.org/resource/Τυρί",
-        "http://dbpedia.org/resource/Cheese",
-        "http://pt.dbpedia.org/resource/Queijo",
-        "http://eu.dbpedia.org/resource/Gazta",
-        "http://id.dbpedia.org/resource/Keju",
-        "https://en.wikipedia.org/wiki/Cheese",
-        "http://pl.dbpedia.org/resource/Ser",
-        "http://d-nb.info/gnd/4029176-5",
-        "http://nl.dbpedia.org/resource/Kaas",
-        "http://wikidata.dbpedia.org/resource/Q10943",
-        "http://de.dbpedia.org/resource/Käse",
-        "http://ko.dbpedia.org/resource/치즈",
-        "http://fr.dbpedia.org/resource/Fromage",
-        "http://purl.obolibrary.org/obo/FOODON_03307846",
-        "https://knowledge.cafemedia.com/food/entity/cheese"
-      ]
-    },
-    {
-      "@id": "https://itdoesnttastelikechicken.com/tag/avocado/#id",
-      "@type": "http://schema.org/Thing",
-      "description": "The avocado (Persea americana) is a tree that is native to South Central Mexico, classified as a member of the flowering plant family Lauraceae. Avocado (also alligator pear) also refers to the tree's fruit, which is botanically a large berry containing a single seed.",
-      "name": "avocado",
-      "sameAs": [
-        "http://purl.obolibrary.org/obo/FOODON_03411470",
-        "http://eu.dbpedia.org/resource/Ahuakateondo",
-        "http://yago-knowledge.org/resource/Persea_americana",
-        "http://es.dbpedia.org/resource/Persea_americana",
-        "http://fr.dbpedia.org/resource/Avocatier",
-        "http://it.dbpedia.org/resource/Persea_americana",
-        "http://pt.dbpedia.org/resource/Persea_americana",
-        "http://www.wikidata.org/entity/Q37153",
-        "http://nl.dbpedia.org/resource/Avocado",
-        "http://wikidata.dbpedia.org/resource/Q37153",
-        "https://en.wikipedia.org/wiki/Avocado",
-        "http://id.dbpedia.org/resource/Apokat",
-        "http://de.dbpedia.org/resource/Avocado",
-        "http://rdf.freebase.com/ns/m.01645p",
-        "http://dbpedia.org/resource/Avocado",
-        "https://knowledge.cafemedia.com/food/entity/avocado"
-      ]
-    },
-    {
-      "@id": "https://itdoesnttastelikechicken.com/tag/beans/#id",
-      "@type": "http://schema.org/Thing",
-      "description": "Bean is a common name for large seeds of several genera of the flowering plant family Fabaceae (also known as Leguminosae) which are used for human or animal food.",
-      "name": "bean",
-      "sameAs": [
-        "http://rdf.freebase.com/ns/m.01fp9",
-        "http://el.dbpedia.org/resource/Φασόλι",
-        "http://dbpedia.org/resource/Bean",
-        "http://ko.dbpedia.org/resource/콩",
-        "http://fr.dbpedia.org/resource/Haricot_(homonymie)",
-        "https://en.wikipedia.org/wiki/Bean",
-        "http://de.dbpedia.org/resource/Bohne",
-        "http://ja.dbpedia.org/resource/豆",
-        "http://purl.obolibrary.org/obo/FOODON_00002753",
-        "http://wikidata.dbpedia.org/resource/Q379813",
-        "http://www.wikidata.org/entity/Q379813",
-        "http://nl.dbpedia.org/resource/Boon",
-        "http://id.dbpedia.org/resource/Kacang-kacangan",
-        "https://knowledge.cafemedia.com/food/entity/bean"
-      ]
-    },
-    {
-      "@id": "https://itdoesnttastelikechicken.com/tag/jalapeno/#id",
-      "@type": "http://schema.org/Thing",
-      "description": "",
-      "name": "jalapeno pepper",
-      "sameAs": [
-        "http://www.wikidata.org/entity/Q504133",
-        "http://dbpedia.org/resource/Jalape%C3%B1o",
-        "http://purl.obolibrary.org/obo/FOODON_00001976",
-        "https://en.wikipedia.org/wiki/Jalape%C3%B1o",
-        "https://knowledge.cafemedia.com/food/entity/jalapeno_pepper"
-      ]
-    },
-    {
-      "@id": "https://itdoesnttastelikechicken.com/tag/onion/#id",
-      "@type": "http://schema.org/Thing",
-      "description": "The onion (Allium cepa L., from Latin cepa \"onion\"), also known as the bulb onion or common onion, is a vegetable and is the most widely cultivated species of the genus Allium. This genus also contains several other species variously referred to as onions and cultivated for food, such as the Japanese bunching onion (Allium...",
-      "name": "onion",
-      "sameAs": [
-        "http://yago-knowledge.org/resource/Allium_cepa",
-        "http://pt.dbpedia.org/resource/Cebola",
-        "http://id.dbpedia.org/resource/Bawang_bombai",
-        "http://purl.obolibrary.org/obo/FOODON_03316397",
-        "http://ja.dbpedia.org/resource/タマネギ",
-        "http://el.dbpedia.org/resource/Κρεμμύδι",
-        "https://en.wikipedia.org/wiki/Onion",
-        "http://cs.dbpedia.org/resource/Cibule_kuchyňská",
-        "http://fr.dbpedia.org/resource/Oignon",
-        "http://rdf.freebase.com/ns/m.0dj75",
-        "http://d-nb.info/gnd/4073850-4",
-        "http://ko.dbpedia.org/resource/양파",
-        "http://www.wikidata.org/entity/Q23485",
-        "http://de.dbpedia.org/resource/Zwiebel",
-        "http://it.dbpedia.org/resource/Allium_cepa",
-        "http://es.dbpedia.org/resource/Allium_cepa",
-        "http://pl.dbpedia.org/resource/Cebula_zwyczajna",
-        "http://dbpedia.org/resource/Onion",
-        "http://lod.geospecies.org/ses/yGCph",
-        "http://nl.dbpedia.org/resource/Ui_(plant)",
-        "http://eu.dbpedia.org/resource/Tipula",
-        "http://wikidata.dbpedia.org/resource/Q23485",
-        "https://knowledge.cafemedia.com/food/entity/onion"
-      ]
-    },
-    {
-      "@id": "https://itdoesnttastelikechicken.com/tag/tomato/#id",
-      "@type": "http://schema.org/Thing",
-      "description": "The tomato (see ) is the edible, red fruit of Solanum lycopersicum, commonly known as a tomato plant, which belongs to the nightshade family, Solanaceae. The species originated in Central and South America. The Nahuatl (Aztec language) word tomatl gave rise to the Spanish word \"tomate\", from which the English word tomato originates.",
-      "name": "tomato",
-      "sameAs": [
-        "http://de.dbpedia.org/resource/Tomate",
-        "http://ja.dbpedia.org/resource/トマト",
-        "https://en.wikipedia.org/wiki/Tomato",
-        "http://eunis.eea.europa.eu/species/185044",
-        "http://d-nb.info/gnd/4060370-2",
-        "http://dbpedia.org/resource/Tomato",
-        "http://id.dbpedia.org/resource/Tomat",
-        "http://rdf.freebase.com/ns/m.07j87",
-        "http://cs.dbpedia.org/resource/Rajče_jedlé",
-        "http://pl.dbpedia.org/resource/Pomidor_zwyczajny",
-        "http://purl.obolibrary.org/obo/FOODON_03309573",
-        "http://ko.dbpedia.org/resource/토마토",
-        "http://www.wikidata.org/entity/Q23501",
-        "http://fr.dbpedia.org/resource/Tomate",
-        "http://lod.geospecies.org/ses/qXNFy",
-        "http://yago-knowledge.org/resource/Solanum_lycopersicum",
-        "http://es.dbpedia.org/resource/Solanum_lycopersicum",
-        "http://nl.dbpedia.org/resource/Tomaat",
-        "http://pt.dbpedia.org/resource/Tomate",
-        "http://wikidata.dbpedia.org/resource/Q23501",
-        "http://it.dbpedia.org/resource/Solanum_lycopersicum",
-        "http://el.dbpedia.org/resource/Τομάτα",
-        "https://knowledge.cafemedia.com/food/entity/green_tomato"
-      ]
-    },
-    {
-      "@id": "https://itdoesnttastelikechicken.com/tag/tomatoes/#id",
-      "@type": "http://schema.org/Thing",
-      "description": "The tomato (see ) is the edible, red fruit of Solanum lycopersicum, commonly known as a tomato plant, which belongs to the nightshade family, Solanaceae. The species originated in Central and South America. The Nahuatl (Aztec language) word tomatl gave rise to the Spanish word \"tomate\", from which the English word tomato originates.",
-      "name": "tomato",
-      "sameAs": [
-        "http://de.dbpedia.org/resource/Tomate",
-        "http://ja.dbpedia.org/resource/トマト",
-        "https://en.wikipedia.org/wiki/Tomato",
-        "http://eunis.eea.europa.eu/species/185044",
-        "http://d-nb.info/gnd/4060370-2",
-        "http://dbpedia.org/resource/Tomato",
-        "http://id.dbpedia.org/resource/Tomat",
-        "http://rdf.freebase.com/ns/m.07j87",
-        "http://cs.dbpedia.org/resource/Rajče_jedlé",
-        "http://pl.dbpedia.org/resource/Pomidor_zwyczajny",
-        "http://purl.obolibrary.org/obo/FOODON_03309573",
-        "http://ko.dbpedia.org/resource/토마토",
-        "http://www.wikidata.org/entity/Q23501",
-        "http://fr.dbpedia.org/resource/Tomate",
-        "http://lod.geospecies.org/ses/qXNFy",
-        "http://yago-knowledge.org/resource/Solanum_lycopersicum",
-        "http://es.dbpedia.org/resource/Solanum_lycopersicum",
-        "http://nl.dbpedia.org/resource/Tomaat",
-        "http://pt.dbpedia.org/resource/Tomate",
-        "http://wikidata.dbpedia.org/resource/Q23501",
-        "http://it.dbpedia.org/resource/Solanum_lycopersicum",
-        "http://el.dbpedia.org/resource/Τομάτα",
-        "https://knowledge.cafemedia.com/food/entity/green_tomato"
-      ]
-    }
+    "https://cdn.veganosity.com/wp-content/uploads/2015/09/Loaded-Vegan-Nachos-3-1.jpg",
+    "https://www.veganosity.com/wp-content/uploads/2015/09/Loaded-Vegan-Nachos-3-1-500x500.jpg",
+    "https://www.veganosity.com/wp-content/uploads/2015/09/Loaded-Vegan-Nachos-3-1-500x375.jpg",
+    "https://www.veganosity.com/wp-content/uploads/2015/09/Loaded-Vegan-Nachos-3-1-480x270.jpg"
   ],
   "name": "Loaded Vegan Nachos",
-  "nutrition": {
-    "@type": "NutritionInformation",
-    "calories": "413 kcal",
-    "servingSize": "1 serving"
-  },
-  "prepTime": "PT5M",
+  "prepTime": "PT25M",
   "recipeCategory": "Appetizer",
   "recipeCuisine": "Mexican",
   "recipeIngredient": [
-    "1 recipe Stretchy Melty Gooey Vegan Nacho Cheese",
-    "4 big handfuls tortilla chips",
-    "2 roma tomatoes, (chopped)",
-    "1/4 cup black olive slices",
-    "1/2 cup black beans, (drained and rinsed)",
-    "2 green onions, (chopped)",
-    "1 jalapeño, (chopped (optional)",
-    "1/2 of an avocado",
-    "1/4 cup cilantro"
+    "1 teaspoon of avocado oil",
+    "1 bag of corn chips",
+    "1 can of black beans – drained and rinsed well",
+    "1 red onion - diced",
+    "1 yellow bell pepper – seeded and diced",
+    "1 jalapeno pepper – seeded and coarsely chopped",
+    "1 cob of corn – cut off the kernels",
+    "1 cup of baby bellas – thinly sliced",
+    "3 teaspoons of chili powder",
+    "1/2 teaspoon of cayenne pepper",
+    "2 teaspoons of cumin",
+    "2 teaspoons of salt",
+    "Black pepper to taste",
+    "1 large tomato – seeded and chopped",
+    "1/2 cup of cilantro leaves",
+    "Vegan cheese of your choice or make my cashew cheese http://www.veganosity.com/eggless-dairy-free-chili-rellenos/"
   ],
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "text": "Preheat your oven to 400F (200C)."
+      "text": "Preheat the oven to 350°"
     },
     {
       "@type": "HowToStep",
-      "text": "If you haven't already done so, make the recipe for Stretchy Gooey Vegan Nacho Cheese. If you prepared it ahead of time, heat it up in a pot over medium heat stirring frequently so that it doesn't burn. If it is too thick, stir in one tablespoon of water at a time until desired consistency is reached."
+      "text": "For the beans:"
     },
     {
       "@type": "HowToStep",
-      "text": "Spread half of the tortilla chips onto an oven safe pan or dish. Sprinkle over half of the tomatoes, olives, jalapeño, black beans, and green onions. Drizzle half of the nacho cheese over top. Now build your second layer by repeating with the remaining ingredients (except for the avocado and cilantro)."
+      "text": "Put the beans in a medium sauce pan and cover with water and bring to a boil. Reduce the heat to low boil and add 2 teaspoons of chili powder, 1/4 teaspoon of cayenne pepper, 1 teaspoon of cumin, 1 teaspoon of salt, and black pepper to taste. Cook the beans for twenty minutes or until the water evaporates, stirring occasionally. Set aside."
     },
     {
       "@type": "HowToStep",
-      "text": "Bake for 5-10 minutes, until the chips just start to get golden on the edges. Garnish with the avocado and cilantro on top."
+      "text": "For the vegetables:"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Heat the oil on medium heat in a large skillet and spread evenly over the bottom of the pan. Add the baby bellas and cook until browned and slightly soft. Remove from the pan and set aside. Add the onion, bell pepper, jalapeno, corn, and the remaining spices and cook until the onions are translucent and the peppers are soft. Put the mushrooms back in with the vegetables and stir them around in the pan. Set aside."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Spread the chips on a rimmed backing sheet and sprinkle the cheese over the chips, spoon the beans and the veggies over the cheese and chips and bake for 8-10 minutes, making sure not to burn the chips. Sprinkle the fresh tomato and cilantro on top."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Enjoy!"
     }
   ],
-  "recipeYield": "3",
   "sameAs": [
-    "https://itdoesnttastelikechicken.com/2015/08/31/loaded-vegan-nachos"
+    "https://veganosity.com/loaded-vegan-nachos-with-black-beans-spicy-veggies/%22"
   ],
-  "totalTime": "PT15M",
-  "updatedAt": "2022-12-01T08:56:03.139Z"
+  "totalTime": "PT55M",
+  "updatedAt": "2022-12-03T15:32:01.380Z"
 }

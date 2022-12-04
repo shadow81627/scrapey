@@ -1,0 +1,58 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "INGREDIENTS: WATER, FOOD ACIDS (330, 331), SODIUM CHLORIDE, NATURAL FLAVOUR, MODIFIED STARCH (1450), MONOPOTASSIUM PHOSPHATE, STABILISER (414), SWEETENERS (955, 950), COLOUR (129)."
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "1.0"
+    },
+    {
+      "name": "Size",
+      "value": "600mL"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$6.33 per 1L"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "MADE IN AUSTRALIA"
+    }
+  ],
+  "brand": "Gatorade",
+  "createdAt": "2022-12-04T03:12:04.198Z",
+  "description": "Gatorade Berry No Sugar Sport Drink",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/9/8/3989533.jpg",
+  "name": "Berry No Sugar Sport Drink",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3.8,
+    "lowPrice": 3.8,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-04T03:12:04.196Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "3.80",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/no-sugar-sport-drink-berry"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/no-sugar-sport-drink-berry"
+  ],
+  "sku": "3989533",
+  "updatedAt": "2022-12-04T03:12:04.196Z"
+}

@@ -1,0 +1,58 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Sachet: Sugar, Glucose Syrup, Vegetable Oil, Soluble Coffee (10%), Milk Solids, Flavours, Stabilisers (340, 452, 331,451), Emulsifiers (471, 472e), Salt"
+    },
+    {
+      "name": "Allergen",
+      "value": "Contains Milk"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "10.0"
+    },
+    {
+      "name": "Size",
+      "value": "10 pack"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.70 per 1Ea"
+    }
+  ],
+  "brand": "Nescafe",
+  "createdAt": "2022-12-03T23:13:38.026Z",
+  "description": "Nescafe Hazelnut Latte Coffee Sachets",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/4/4/9/4491550.jpg",
+  "name": "Hazelnut Latte Coffee Sachets",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 7,
+    "lowPrice": 7,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-03T23:13:38.026Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "7.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/nescafe-cafe-menu-coffee-hazelnut"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/nescafe-cafe-menu-coffee-hazelnut"
+  ],
+  "sku": "4491550",
+  "updatedAt": "2022-12-03T23:13:38.026Z"
+}

@@ -1,0 +1,97 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1",
+    "ratingValue": "5"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Oh My Veggies"
+  },
+  "cookTime": "PT30M",
+  "createdAt": "2022-12-03T22:33:41.942Z",
+  "datePublished": "2019-05-08T06:00:04+00:00",
+  "description": "This simple and comforting recipe is perfect for lunch or dinner on the go. No-Meat Chili Macaroni is a classic that will never die!",
+  "image": [
+    "https://ohmyveggies.com/wp-content/uploads/2019/04/no-meat-macaroni-1-1-scaled.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2019/04/no-meat-macaroni-1-1-500x500.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2019/04/no-meat-macaroni-1-1-500x375.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2019/04/no-meat-macaroni-1-1-480x270.jpg"
+  ],
+  "keywords": "macaroni pasta recipe, meatless chili, No-Meat Chili Macaroni",
+  "name": "No-Meat Chili Macaroni",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "454 kcal",
+    "carbohydrateContent": "61 g",
+    "cholesterolContent": "18 mg",
+    "fatContent": "10 g",
+    "fiberContent": "8 g",
+    "proteinContent": "30 g",
+    "saturatedFatContent": "4 g",
+    "servingSize": "1 serving",
+    "sodiumContent": "651 mg",
+    "sugarContent": "6 g",
+    "transFatContent": "1 g",
+    "unsaturatedFatContent": "6 g"
+  },
+  "prepTime": "PT10M",
+  "recipeCategory": "Main Course",
+  "recipeCuisine": "American",
+  "recipeIngredient": [
+    "1 onion (finely chopped)",
+    "1 Black Pepper",
+    "1 lb ground soy (like Yves)",
+    "1 tbsp parsley",
+    "salt and pepper (to taste)",
+    "1 garlic clove (crushed)",
+    "1 can (1.36 l tomato juice)",
+    "1 can diced tomato",
+    "3 cups uncooked macaroni",
+    "1 cup mozzarella (shredded)"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Fry the onion and pepper in a pan. Add the ground soy and separate into small pieces."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add the spices as well as the garlic."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add tomato juice, just enough to cover the ground soy. Simmer until the juice has been absorbed."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "In another saucepan, cook the pasta."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add the rest of the tomato juice and the diced tomato to the ground soy mixture and continue to simmer for 15 minutes."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Once the pasta is cooked and drained, add the tomato and soy mixture."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add cheese and mix well."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Serve."
+    }
+  ],
+  "recipeYield": "5",
+  "sameAs": [
+    "https://ohmyveggies.com/no-meat-chili-macaroni"
+  ],
+  "suitableForDiet": [
+    "https://schema.org/VegetarianDiet"
+  ],
+  "totalTime": "PT40M",
+  "updatedAt": "2022-12-03T22:33:41.941Z"
+}

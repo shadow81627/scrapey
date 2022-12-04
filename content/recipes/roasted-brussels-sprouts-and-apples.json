@@ -1,0 +1,73 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "2",
+    "ratingValue": "5"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Oh My Veggies"
+  },
+  "cookTime": "PT30M",
+  "createdAt": "2022-12-04T12:26:57.372Z",
+  "datePublished": "2012-10-10T20:17:28+00:00",
+  "description": "An easy fall side dish that combines roasted brussels sprouts and apples with walnuts, cranberries, and a drizzle of maple syrup.",
+  "image": [
+    "https://ohmyveggies.com/wp-content/uploads/2012/10/roasted_brussels_sprouts_and_apples_recipe.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2012/10/roasted_brussels_sprouts_and_apples_recipe-500x420.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2012/10/roasted_brussels_sprouts_and_apples_recipe-500x375.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2012/10/roasted_brussels_sprouts_and_apples_recipe-480x270.jpg"
+  ],
+  "keywords": "fall side dish, roasted brussels sprouts, Roasted Brussels Sprouts &amp; Apples",
+  "name": "Roasted Brussels Sprouts & Apples",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "257 kcal",
+    "carbohydrateContent": "33 g",
+    "fatContent": "14 g",
+    "fiberContent": "7 g",
+    "proteinContent": "6 g",
+    "saturatedFatContent": "2 g",
+    "servingSize": "1 serving",
+    "sodiumContent": "30 mg",
+    "sugarContent": "19 g",
+    "unsaturatedFatContent": "12 g"
+  },
+  "prepTime": "PT15M",
+  "recipeCategory": "Side Dish",
+  "recipeCuisine": "American",
+  "recipeIngredient": [
+    "1 lb. brussels sprouts (trimmed and halved lengthwise)",
+    "1 apple (cored and sliced (Fuji or Braeburn works well)",
+    "1 tbsp. olive oil",
+    "salt + pepper to taste",
+    "1/4 c. dried cranberries",
+    "1/4 c. chopped walnuts",
+    "1 tbsp. maple syrup"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Preheat oven to 400 degrees."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Toss brussels sprouts and apple slices with olive oil, salt, and pepper on a rimmed baking sheet. Bake for 25-30 minutes or until brussels sprouts are tender and browned on edges, stirring halfway through cooking time."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Transfer brussels sprouts and apple to large bowl. Stir in cranberries, walnuts, and maple syrup."
+    }
+  ],
+  "recipeYield": "4",
+  "sameAs": [
+    "https://ohmyveggies.com/recipe-roasted-brussels-sprouts-apples"
+  ],
+  "suitableForDiet": [
+    "https://schema.org/VeganDiet",
+    "https://schema.org/VegetarianDiet"
+  ],
+  "totalTime": "PT45M",
+  "updatedAt": "2022-12-04T12:26:57.371Z"
+}

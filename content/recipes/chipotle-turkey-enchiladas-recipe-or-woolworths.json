@@ -1,54 +1,60 @@
 {
   "@type": "Recipe",
+  "author": {
+    "@type": "Person",
+    "name": "Produced for Woolworths"
+  },
   "cookTime": "PT40M",
   "createdAt": "2022-11-22T22:53:07.000Z",
-  "datePublished": "2022-06-15",
+  "datePublished": "2022-08-03",
   "description": "Chipotle paste adds lots of smoky flavour to these lighter turkey enchiladas, bulked up with diced mushrooms for extra hidden veg.",
-  "image": "https://foodhub.scene7.com/is/image/woolworthsltdprod/338578?wid=3389&hei=3389&fmt=png-alpha",
-  "keywords": "Chipotle Turkey Enchiladas",
+  "image": [
+    "https://foodhub.scene7.com/is/image/woolworthsltdprod/338578:Square-1300x1300"
+  ],
+  "keywords": "Enchiladas,Tomato,Turkey,Mushroom",
   "name": "Chipotle Turkey Enchiladas Recipe | Woolworths",
   "prepTime": "PT15M",
-  "recipeCategory": "mains",
-  "recipeCuisine": "latin-american",
+  "recipeCategory": "Lunch,Dinner",
+  "recipeCuisine": "Mexican",
   "recipeId": "RGWW338578",
   "recipeIngredient": [
     "2 tbs olive oil",
-    "500 g turkey mince",
-    "1 large onion",
-    "1 large red capsicum",
-    "125 g chestnut mushrooms",
-    "2 cloves garlic",
+    "500g turkey mince, lean",
+    "1 large onion, peeled and diced",
+    "1 large red capsicum, diced",
+    "125g chestnut mushrooms, finely diced",
+    "2 cloves garlic, peeled and minced",
     "1 tbs chipotle paste",
     "1 tsp cumin",
-    "400 g kidney beans",
-    "400 g chopped tomatoes",
-    "0.5 medium lime",
+    "400g kidney beans, canned",
+    "400g chopped tomatoes, canned",
+    "0.5 medium lime, juiced",
     "8 wholewheat tortillas",
-    "70 g cheddar cheese"
+    "70g cheddar cheese (reduced fat)"
   ],
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Lightly grease a large baking dish, place a tortilla in, fill with turkey chilli, roll up and repeat until all the tortillas have been used. Top with grated cheddar, bake for 15 minutes until golden and bubbling and serve."
+      "HowToTip": {},
+      "text": "Pre-heat the oven to 180°C/160°C fan-forced. Heat the oil in a large pan on medium high heat and fry the turkey mince, diced onion, capsicum and mushrooms for 5 minutes. Add the garlic, chipotle paste and cumin and cook for 2 minutes."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Lightly grease a large baking dish, place a tortilla in, fill with turkey chilli, roll up and repeat until all the tortillas have been used. Top with grated cheddar, bake for 15 minutes until golden and bubbling and serve."
+      "HowToTip": {},
+      "text": "Stir in the beans and chopped tomatoes and bring to a simmer. Cook for 10 minutes, stirring occasionally. Squeeze in the lime juice and stir."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
+      "HowToTip": {},
       "text": "Lightly grease a large baking dish, place a tortilla in, fill with turkey chilli, roll up and repeat until all the tortillas have been used. Top with grated cheddar, bake for 15 minutes until golden and bubbling and serve."
     }
   ],
   "recipeNameId": "chipotle-turkey-enchiladas",
   "recipeYield": "4",
   "sameAs": [
-    "https://woolworths.com.au/shop/find-recipes/turkey-chilli"
+    "https://woolworths.com.au/shop/recipes/chipotle-turkey-enchiladas"
   ],
   "totalTime": "PT55M",
-  "updatedAt": "2022-11-22T21:34:16.916Z",
+  "updatedAt": "2022-12-03T16:49:57.682Z",
   "url": "https://www.woolworths.com.au/shop/recipes/chipotle-turkey-enchiladas"
 }

@@ -1,0 +1,75 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1",
+    "ratingValue": "5"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Oh My Veggies"
+  },
+  "cookTime": "PT10M",
+  "createdAt": "2022-12-04T02:38:40.529Z",
+  "datePublished": "2015-08-31T11:21:29+00:00",
+  "description": "You can serve this easy pasta salad warm for dinner and have the leftovers cold for lunch the next day.",
+  "image": [
+    "https://ohmyveggies.com/wp-content/uploads/2015/08/lemon_parsley_pesto_pasta_salad_recipe.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2015/08/lemon_parsley_pesto_pasta_salad_recipe-500x433.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2015/08/lemon_parsley_pesto_pasta_salad_recipe-500x375.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2015/08/lemon_parsley_pesto_pasta_salad_recipe-480x270.jpg"
+  ],
+  "keywords": "easy pasta salad, Lemon Parsley Pesto Pasta Salad, pasta salad recipe",
+  "name": "Lemon Parsley Pesto Pasta Salad",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "527 kcal",
+    "carbohydrateContent": "59 g",
+    "cholesterolContent": "6 mg",
+    "fatContent": "27 g",
+    "fiberContent": "6 g",
+    "proteinContent": "16 g",
+    "saturatedFatContent": "4 g",
+    "servingSize": "1 serving",
+    "sodiumContent": "152 mg",
+    "sugarContent": "10 g",
+    "transFatContent": "1 g",
+    "unsaturatedFatContent": "21 g"
+  },
+  "prepTime": "PT15M",
+  "recipeCategory": "Main Course",
+  "recipeCuisine": "American",
+  "recipeIngredient": [
+    "3/4 cup packed parsley leaves",
+    "Zest from 1 lemon",
+    "2 tablespoons lemon juice",
+    "1 clove garlic",
+    "1/4 cup raw almonds",
+    "1/4 cup olive oil",
+    "8 ounces farfalle (bow-tie pasta, cooked according to package directions)",
+    "1 small yellow squash (cut into thin half-moons)",
+    "2/3 cup sun-dried tomatoes (thinly sliced)",
+    "1/4 cup toasted pine nuts (optional)",
+    "1/4 cup grated parmesan cheese (optional)",
+    "Salt and pepper to taste"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Combine the parsley, lemon juice and zest, garlic, almonds, and olive oil in a food processor. Process until everything is finely chopped, but not completely smooth. Add salt and pepper to taste."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Toss together the farfalle, squash, tomatoes and pine nuts in a large bowl. Stir in the pesto, tossing to coat. Sprinkle with parmesan cheese, if using, and season to taste with salt and pepper. Refrigerate for up to 3 days."
+    }
+  ],
+  "recipeYield": "4",
+  "sameAs": [
+    "https://ohmyveggies.com/pesto-pasta-salad"
+  ],
+  "suitableForDiet": [
+    "https://schema.org/VegetarianDiet"
+  ],
+  "totalTime": "PT25M",
+  "updatedAt": "2022-12-04T02:38:40.527Z"
+}

@@ -1,0 +1,91 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "2",
+    "ratingValue": "5"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Oh My Veggies"
+  },
+  "cookTime": "PT20M",
+  "createdAt": "2022-12-04T12:49:22.975Z",
+  "datePublished": "2017-04-19T09:20:26+00:00",
+  "description": "These tempeh burgers are flavored with spicy sriracha sauce and a touch of sweet maple syrup.",
+  "image": [
+    "https://ohmyveggies.com/wp-content/uploads/2017/04/maple-sriracha-tempeh-burgers-4.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2017/04/maple-sriracha-tempeh-burgers-4-500x500.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2017/04/maple-sriracha-tempeh-burgers-4-500x375.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2017/04/maple-sriracha-tempeh-burgers-4-480x270.jpg"
+  ],
+  "keywords": "Maple Sriracha Tempeh Burgers, tempeh burgers",
+  "name": "Maple Sriracha Tempeh Burgers",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "286 kcal",
+    "carbohydrateContent": "54 g",
+    "fatContent": "3 g",
+    "fiberContent": "7 g",
+    "proteinContent": "11 g",
+    "saturatedFatContent": "1 g",
+    "servingSize": "1 serving",
+    "sodiumContent": "1040 mg",
+    "sugarContent": "12 g",
+    "unsaturatedFatContent": "2 g"
+  },
+  "prepTime": "PT15M",
+  "recipeCategory": "Main Course",
+  "recipeCuisine": "American",
+  "recipeIngredient": [
+    "1 8 ounce package tempeh",
+    "1 cup rolled oats (optionally certified gluten-free)",
+    "1 small onion (diced)",
+    "2 garlic cloves (minced)",
+    "1 cup diced carrots (about 2 carrots)",
+    "3/4 cup canned black beans (drained and rinsed)",
+    "2 tablespoons sriracha sauce (or to taste)",
+    "2 tablespoons soy sauce or tamari",
+    "2 tablespoons maple syrup",
+    "1/2 teaspoon liquid smoke",
+    "Oil or cooking spray (for grilling)",
+    "4 to 6 burger buns",
+    "Ketchup",
+    "Sriracha sauce",
+    "Avocado slices",
+    "Lettuce",
+    "Tomato slices"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Pour a few inches of water into a medium saucepan and fit it with a steamer basket. Break the tempeh into 5 or 6 chunks and place them in the basket. Set the pan over high heat and bring the water to a boil. Lower heat so the water is at a simmer, cover, and allow the tempeh to steam for 10 minutes. Alternatively, if you don't have a steamer basket, you can place the tempeh pieces right into the water. After 10 minutes, remove the saucepan from the heat, transfer the tempeh pieces to a plate, and allow them to cool a bit while you gather your other ingredients."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Place the oats into the bowl of a food processor fitted with an S-blade. Blend to a powder, then add the steamed tempeh, onion, garlic, carrots, beans, sriracha sauce, soy sauce or tamari, maple syrup, and liquid smoke to the bowl. Pulse until ingredients are finely chopped and well mixed, scraping down the bowl between pulses as needed."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Shape the tempeh mixture into 4 to 6 patties."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Lightly oil a large skillet and place it over medium heat. Working in batches if needed, place the patties into the skillet and cook for about 4 minutes on each side, until nicely browned."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Stuff the patties into buns and top with ketchup, extra sriracha sauce, avocado, lettuce, and tomato slices. Serve."
+    }
+  ],
+  "recipeYield": "4",
+  "sameAs": [
+    "https://ohmyveggies.com/maple-sriracha-tempeh-burgers"
+  ],
+  "suitableForDiet": [
+    "https://schema.org/VeganDiet",
+    "https://schema.org/VegetarianDiet"
+  ],
+  "totalTime": "PT35M",
+  "updatedAt": "2022-12-04T12:49:22.974Z"
+}

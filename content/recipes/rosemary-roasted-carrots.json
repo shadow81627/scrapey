@@ -1,0 +1,69 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1",
+    "ratingValue": "5"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Oh My Veggies"
+  },
+  "cookTime": "PT25M",
+  "createdAt": "2022-12-04T09:52:20.848Z",
+  "datePublished": "2019-11-04T06:00:20+00:00",
+  "description": "A healthy, simple Thanksgiving side dish. Use heirloom or rainbow carrots for this recipe if you can find them.",
+  "image": [
+    "https://ohmyveggies.com/wp-content/uploads/2012/11/rosemary_roasted_carrots_recipe.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2012/11/rosemary_roasted_carrots_recipe-500x500.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2012/11/rosemary_roasted_carrots_recipe-500x375.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2012/11/rosemary_roasted_carrots_recipe-480x270.jpg"
+  ],
+  "keywords": "carrots side dish, roasted carrots, Rosemary Roasted Carrots",
+  "name": "Rosemary Roasted Carrots",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "30 kcal",
+    "carbohydrateContent": "2 g",
+    "fatContent": "2 g",
+    "fiberContent": "1 g",
+    "proteinContent": "1 g",
+    "saturatedFatContent": "1 g",
+    "servingSize": "1 serving",
+    "sodiumContent": "14 mg",
+    "sugarContent": "1 g",
+    "unsaturatedFatContent": "3 g"
+  },
+  "prepTime": "PT5M",
+  "recipeCategory": "Side Dish",
+  "recipeCuisine": "American",
+  "recipeIngredient": [
+    "2 bunches of small carrots (about 24, peeled)",
+    "1 tbsp olive oil",
+    "1 tbsp rosemary (minced)",
+    "salt and pepper"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Preheat oven to 400°F."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Toss the carrots with olive oil on a rimmed baking sheet. Sprinkle with rosemary, salt & pepper."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Bake 20–25 minutes or until tender."
+    }
+  ],
+  "recipeYield": "6",
+  "sameAs": [
+    "https://ohmyveggies.com/rosemary-roasted-carrots"
+  ],
+  "suitableForDiet": [
+    "https://schema.org/VegetarianDiet"
+  ],
+  "totalTime": "PT30M",
+  "updatedAt": "2022-12-04T09:52:20.848Z"
+}

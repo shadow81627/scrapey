@@ -1,0 +1,60 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "257kJ",
+      "carbohydrateContent": "10.2g",
+      "dietary_fibre": "1.2g",
+      "fatContent": "1.3g",
+      "name": "nutrition",
+      "proteinContent": "1.5g",
+      "saturatedFatContent": "0.2g",
+      "servingSize": "100 g",
+      "sodiumContent": "98mg",
+      "sugarContent": "4.7g"
+    }
+  ],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Olina's"
+  },
+  "createdAt": "2022-12-04T10:14:22.836Z",
+  "description": "<p>Olina's Bakehouse Artisan Crackers Date and Apricot 100g<BR><BR>Olina's Bakehouse delicious Date & Apricot artisan crackers are loaded with natural and tasty ingredients. Our crackers are baked in small batches for the best quality and light crispy texture. Pair Olina's Bakehouse crackers with any cheese dips and other condiments.<BR><BR>Delicious fruit & seed crackers<BR><BR>Perfect for entertaining<BR><BR>Made from premium ingredients<BR><BR>Olina's Bakehouse trusted quality</p>",
+  "gtin13": "9349571000431",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/661766.jpg",
+  "name": "Olina's Artisan Cracker Biscuits Date & Apricot 100G",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3,
+    "lowPrice": 3,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-12-04T10:14:22.834Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 3,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/661766/olina-s-artisan-cracker-biscuits-date-apricot"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/661766/olina-s-artisan-cracker-biscuits-date-apricot"
+  ],
+  "sku": "661766",
+  "updatedAt": "2022-12-04T10:14:22.835Z"
+}

@@ -1,0 +1,60 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "570kj",
+      "carbohydrateContent": "21.3g",
+      "dietary_fibre": "-",
+      "fatContent": "4.2g",
+      "name": "nutrition",
+      "proteinContent": "2.7g",
+      "saturatedFatContent": "Less than 1g",
+      "servingSize": "100 g",
+      "sodiumContent": "240mg",
+      "sugarContent": "1.7g"
+    }
+  ],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Maretti"
+  },
+  "createdAt": "2022-12-04T10:30:46.019Z",
+  "description": "Maretti Bruschette Chips are generously seasoned and you can enjoy them as a delicious snack straight from the bag or together with your favourite dips and toppings.",
+  "gtin13": "3800205873976",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/671480.jpg",
+  "name": "Maretti Bruschette Chips Sweet Basil Pesto 150G",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2.5,
+    "lowPrice": 2.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/OutOfStock",
+        "availabilityStarts": "2022-12-04T10:30:46.018Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 2.5,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/671480/maretti-bruschette-chips-sweet-basil-pesto"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/671480/maretti-bruschette-chips-sweet-basil-pesto"
+  ],
+  "sku": "671480",
+  "updatedAt": "2022-12-04T10:30:46.019Z"
+}

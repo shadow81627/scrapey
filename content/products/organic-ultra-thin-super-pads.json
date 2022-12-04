@@ -1,0 +1,50 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ethical",
+      "value": "Non-GMO"
+    },
+    {
+      "name": "Size",
+      "value": "12 pack"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.46 per 1Ea"
+    }
+  ],
+  "brand": "Cottons",
+  "createdAt": "2022-12-04T10:01:00.759Z",
+  "description": "Cottons Organic Ultra Thin Super Pads",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/8/0/9/8098734.jpg",
+  "name": "Organic Ultra Thin Super Pads",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 5.5,
+    "lowPrice": 5.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-04T10:01:00.758Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "5.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/cottons-pads-super-ultra-thin-with-wings"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/cottons-pads-super-ultra-thin-with-wings"
+  ],
+  "sku": "8098734",
+  "updatedAt": "2022-12-04T10:01:00.758Z"
+}

@@ -1,0 +1,58 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "De-Alcoholised Wine (94% approx), Grape Juice Concentrate (6% approx)"
+    },
+    {
+      "name": "Ethical",
+      "value": "Australian Made and Owned"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "5.0"
+    },
+    {
+      "name": "Size",
+      "value": "750mL"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$14.00 per 1L"
+    }
+  ],
+  "brand": "Edenvale",
+  "createdAt": "2022-12-03T23:23:23.190Z",
+  "description": "Edenvale Non Alcoholic Drink Sauvignon Blanc",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/8/1/3815747.jpg",
+  "name": "Non Alcoholic Drink Sauvignon Blanc",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 10.5,
+    "lowPrice": 10.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-03T23:23:23.189Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "10.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/edenvale-sauvignon-blanc-non-alcoholic-drink"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/edenvale-sauvignon-blanc-non-alcoholic-drink"
+  ],
+  "sku": "3815747",
+  "updatedAt": "2022-12-03T23:23:23.190Z"
+}

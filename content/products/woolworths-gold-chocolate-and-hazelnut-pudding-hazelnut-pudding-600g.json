@@ -1,0 +1,66 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "Approx.1210kJ",
+      "carbohydrateContent": "Approx.38g",
+      "dietary_fibre": "Approx.1.4g",
+      "fatContent": "Approx.13.4g",
+      "name": "nutrition",
+      "proteinContent": "Approx.2.7g",
+      "saturatedFatContent": "Approx.2.4g",
+      "servingSize": "100 g",
+      "sodiumContent": "Approx.215mg",
+      "sugarContent": "Approx.27.2g"
+    }
+  ],
+  "aggregateRating": {
+    "@context": "http://schema.org",
+    "@type": "AggregateRating",
+    "ratingCount": 1,
+    "ratingValue": 5
+  },
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Woolworths Gold"
+  },
+  "createdAt": "2022-12-04T09:21:44.451Z",
+  "description": "An indulgent twist on the traditional Christmas pudding, this masterpieces features a rich sponge, decadent chocolate hazelnut sauce and crunchy, roasted hazelnuts to be sprinkled on top. Pair with generous lashings of vanilla custard or vanilla bean ice-cream.<br><br>This pudding is the perfect end to a festive dinner, with 8 serves is great for sharing with family and friends. Australian made and produced by Buonissimo, an award-winning bakery based in Sydney. Buonissimo Bakery is a family owned business operated by two award winning pastry chefs, Michael and David Digiaro, Buonissimo strives to create delicious desserts made with finesse and the finest ingredients. Since the business was established in 2016 it has been a supplier for Woolworths.<div><br /><a href=\"https://www.woolworths.com.au/shop/discover/our-brands/gold\" target=\"_blank\"><span style=\"text-decoration: underline;\">Click here</span></a> to discover more products in our Gold range, exclusively for Woolworths.</div><br/>",
+  "gtin13": "9339687174423",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/098395.jpg",
+  "name": "Woolworths Gold Chocolate & Hazelnut Pudding Hazelnut Pudding 600g",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 12,
+    "lowPrice": 12,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/OutOfStock",
+        "availabilityStarts": "2022-12-04T09:21:44.450Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 12,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/98395/woolworths-gold-chocolate-hazelnut-pudding-hazelnut-pudding"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/98395/woolworths-gold-chocolate-hazelnut-pudding-hazelnut-pudding"
+  ],
+  "sku": "98395",
+  "updatedAt": "2022-12-04T09:21:44.450Z"
+}

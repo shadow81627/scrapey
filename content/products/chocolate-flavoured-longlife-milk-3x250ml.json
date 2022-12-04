@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "750mL"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$4.67 per 1L"
+    }
+  ],
+  "brand": "Oak",
+  "createdAt": "2022-12-03T22:16:40.603Z",
+  "description": "Full strength, full flavour, full on! Oak is an unapologetically authentic flavoured milk and the fastest growing flavoured milk in Australia",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/9/2/2929897.jpg",
+  "name": "Chocolate Flavoured Longlife Milk 3x250ml",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3.5,
+    "lowPrice": 3.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/OutOfStock",
+        "availabilityStarts": "2022-12-03T22:16:40.601Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "3.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/milk-3x250ml"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/milk-3x250ml"
+  ],
+  "sku": "2929897",
+  "updatedAt": "2022-12-03T22:16:40.601Z"
+}

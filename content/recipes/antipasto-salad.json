@@ -2,77 +2,153 @@
   "@type": "Recipe",
   "aggregateRating": {
     "@type": "AggregateRating",
-    "ratingCount": "3",
-    "ratingValue": "5"
+    "ratingCount": 1,
+    "ratingValue": 5
   },
-  "author": {
-    "@type": "Person",
-    "name": "Beth - Budget Bytes"
+  "articleSection": "Recipes",
+  "brand": {
+    "@type": "Thing",
+    "name": "The Kitchn"
   },
   "createdAt": "2022-11-25T13:16:17.000Z",
-  "datePublished": "2021-07-31T09:35:20+00:00",
-  "description": "This super hearty antipasto salad is full of cured meats, cheeses, and pickled vegetables for an extra flavorful and filling salad.",
-  "image": {
-    "@type": "ImageObject",
-    "height": 900,
-    "mime": "image/jpeg",
-    "url": "https://www.budgetbytes.com/wp-content/uploads/2021/07/4-Add-Dressing2.jpg",
-    "width": 1200
+  "creator": {
+    "@type": "Person",
+    "name": "Sheela Prakash"
   },
-  "keywords": "Bean Salad Recipe, No Cook recipe",
+  "dateCreated": "2021-07-14T11:01:07-04:00",
+  "dateModified": "2021-07-23T16:10:49-04:00",
+  "datePublished": "2021-07-14T11:01:07-04:00",
+  "description": "This satisfying salad is packed with all good things from an Italian antipasto spread like salami, marinated vegetables, cheese, and olives.",
+  "headline": "Antipasto Salad",
+  "HowtoTip": {
+    "text": "Storage: Although best served immediately, leftovers can be refrigerated in an airtight container for up to 1 day.Sliced Salami Substitution: If preferred, 4 ounces pre-sliced salami can be substituted for the unsliced dry salami. Stack and cut into half-moons or quarters, if large."
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "https://cdn.apartmenttherapy.info/image/upload/f_jpg,q_auto:eco,c_fill,g_auto,w_1500,ar_16:9/k%2FPhoto%2FRecipes%2F2021-06-antipasto-salad%2FAntipasto-Salad-Reshoot%2F2021_antipasto_salad_216"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "https://cdn.apartmenttherapy.info/image/upload/f_jpg,q_auto:eco,c_fill,g_auto,w_1500,ar_4:3/k%2FPhoto%2FRecipes%2F2021-06-antipasto-salad%2FAntipasto-Salad-Reshoot%2F2021_antipasto_salad_216"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "https://cdn.apartmenttherapy.info/image/upload/f_jpg,q_auto:eco,c_fill,g_auto,w_1500,ar_1:1/k%2FPhoto%2FRecipes%2F2021-06-antipasto-salad%2FAntipasto-Salad-Reshoot%2F2021_antipasto_salad_216"
+    }
+  ],
+  "keywords": [
+    "dinner",
+    "easy",
+    "Gluten-Free",
+    "italian",
+    "lunch",
+    "mediterranean",
+    "mediterranean diet",
+    "no-cook",
+    "quick",
+    "recipe",
+    "salad",
+    "summer",
+    "european",
+    "low-carb",
+    "greens",
+    "tomatoes",
+    "vegetables",
+    "Main Dish",
+    "uncooked",
+    "team:food",
+    "platform:search",
+    "platform:social",
+    "course:main dish",
+    "dishtype:dinner salad",
+    "dishtype:lunch salad",
+    "dishtype:salad",
+    "cuisine:europe",
+    "cuisine:north america",
+    "cuisine:united states",
+    "cuisine:italian",
+    "timing:quick",
+    "timing:15-minute",
+    "occasion:timing",
+    "occasion:weekday",
+    "mainingredients:greens",
+    "mainingredients:lettuce",
+    "mainingredients:cherry tomatoes",
+    "mainingredients:artichoke",
+    "mainingredients:vegetable",
+    "mainingredients:tomatoes",
+    "method:no-cook",
+    "diet:mediterranean diet",
+    "diet:low-carb",
+    "diet:gluten-free",
+    "meal:lunch",
+    "meal:dinner"
+  ],
   "name": "Antipasto Salad",
   "nutrition": {
     "@type": "NutritionInformation",
-    "calories": "535 kcal",
-    "carbohydrateContent": "11 g",
-    "fatContent": "45 g",
-    "fiberContent": "4 g",
-    "proteinContent": "23 g",
-    "servingSize": "1 salad",
-    "sodiumContent": "2130 mg"
+    "calories": "503 cal",
+    "carbohydrateContent": "14.4 g",
+    "cholesterolContent": "0 mg",
+    "fatContent": "42.5 g",
+    "fiberContent": "6.1 g",
+    "proteinContent": "22.4 g",
+    "saturatedFatContent": "12.5 g",
+    "servingSize": "Serves 4",
+    "sodiumContent": "1535.2 mg",
+    "sugarContent": "4.6 g",
+    "unsaturatedFatContent": "0.0 g"
   },
-  "prepTime": "PT15M",
-  "recipeCategory": "Dinner",
-  "recipeCuisine": "Italian",
+  "prepTime": "PT900S",
+  "publisher": {
+    "@type": "Organization",
+    "logo": {
+      "@type": "ImageObject",
+      "height": 46,
+      "url": "https://www.thekitchn.com/static/logos/publisher-logo.png",
+      "width": 180
+    },
+    "name": "Apartment Therapy, LLC."
+  },
+  "recipeCategory": "Salad",
+  "recipeCuisine": "Europe",
   "recipeIngredient": [
-    "8 oz. salad greens of choice ($0.99)",
-    "1 12oz. jar artichoke hearts ($2.45)",
-    "1 pint grape tomatoes ($1.79)",
-    "8 oz. mozzarella ($0.99)",
-    "8 oz. salami ($3.00)",
-    "1 6oz. jar kalamata olives ($1.99)",
-    "1 8oz. jar banana peppers ($1.69)",
-    "1/2 red onion ($0.40)",
-    "8 oz. provolone ($1.79)",
-    "1/2 cup extra virgin olive oil ($0.84)",
-    "3 Tbsp red wine vinegar ($0.30)",
-    "1 Tbsp lemon juice ($0.04)",
-    "2 tsp Dijon mustard ($0.12)",
-    "1/4 tsp garlic powder ($0.02)",
-    "1 Tbsp Italian seasoning ($0.30)",
-    "1/2 tsp sugar ($0.01)",
-    "1/2 tsp salt ($0.02)",
-    "1/4 tsp freshly cracked black pepper ($0.02)",
-    "2 Tbsp grated Parmesan ($0.22)"
+    "1 clove garlic",
+    "3 tablespoons olive oil",
+    "2 tablespoons red wine vinegar",
+    "1 tablespoon dried oregano",
+    "1/4 teaspoon kosher salt, plus more as needed",
+    "1/4 teaspoon freshly ground black pepper, plus more as needed",
+    "1 medium romaine lettuce heart",
+    "4 ounces unsliced dry Italian salami",
+    "1 pint cherry or grape tomatoes (about 10 ounces)",
+    "8 medium pickled pepperoncini peppers",
+    "3/4 cup pitted mixed marinated olives",
+    "1 (12-ounce) jar marinated artichokes hearts",
+    "8 ounces ciliegine (mini cherry-size mozzarella cheese balls)"
   ],
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "text": "Combine the ingredients for the dressing in a bowl or jar (olive oil, red wine vinegar, lemon juice, Dijon, garlic powder, Italian seasoning, salt, pepper, sugar, grated Parmesan). Close the jar tightly and shake or whisk in a bowl until the ingredients are incorporated."
+      "text": "Mince 1 garlic clove and place in a large bowl. Add 3 tablespoons olive oil, 2 tablespoons red wine vinegar, 1 tablespoon dried oregano, 1/4 teaspoon kosher salt, and 1/4 teaspoon black pepper. Whisk well to combine."
     },
     {
       "@type": "HowToStep",
-      "text": "Cut or slice any meat or cheeses into bite-sized pieces. Drain the olives and any brined vegetables. Thinly slice the red onion and slice the grape tomatoes in half."
+      "text": "Prepare the following ingredients, adding each to the bowl as you complete them: Halve 1 medium romaine lettuce heart lengthwise and cut crosswise into 1-inch-wide ribbons; halve 4 ounces dry Italian salami lengthwise, remove casing, and slice crosswise into 1/4-inch half-moons; halve 1 pint cherry or grape tomatoes, or quarter if large; stem and thinly slice 8 medium pickled pepperoncinis; drain and halve 3/4 cup pitted mixed marinated olives; and drain 1 (12-ounce) jar marinated artichokes and 8 ounces ciliegine."
     },
     {
       "@type": "HowToStep",
-      "text": "Lay your greens in the bottom of a bowl, then top with your antipasto items. Give the dressing one last whisk or shake, then drizzle over the salad (start with half the dressing and add more as needed). Toss the salad until everything is coated in dressing, then enjoy."
+      "text": "Toss to coat all the ingredients in the dressing. Taste and season with more kosher salt and black pepper as needed."
     }
   ],
-  "recipeYield": "8",
+  "recipeYield": 4,
   "sameAs": [
-    "https://budgetbytes.com/antipasto-salad"
+    "https://thekitchn.com/antipasto-salad-recipe-23177761"
   ],
-  "totalTime": "PT15M",
-  "updatedAt": "2022-11-25T11:16:09.195Z"
+  "suitableforDiet": "https://schema.org/GlutenFreeDiet",
+  "thumbnailUrl": "https://cdn.apartmenttherapy.info/image/upload/f_auto,q_auto:eco,c_fill,g_auto,w_1500,ar_3:2/k%2FPhoto%2FRecipes%2F2021-06-antipasto-salad%2FAntipasto-Salad-Reshoot%2F2021_antipasto_salad_216",
+  "totalTime": "PT900S",
+  "updatedAt": "2022-12-04T13:21:59.960Z",
+  "url": "https://www.thekitchn.com/antipasto-salad-recipe-23177761"
 }

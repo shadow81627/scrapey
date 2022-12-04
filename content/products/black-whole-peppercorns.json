@@ -1,0 +1,50 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Whole Black Peppercorns."
+    },
+    {
+      "name": "Size",
+      "value": "190g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.35 per 10G"
+    }
+  ],
+  "brand": "Saxa",
+  "createdAt": "2022-12-04T06:36:53.540Z",
+  "description": "Saxa Black Whole Peppercorns",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/3/2/3321361.jpg",
+  "name": "Black Whole Peppercorns",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 6.7,
+    "lowPrice": 6.7,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-04T06:36:53.539Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "6.70",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/saxa-black-whole-peppercorns"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/saxa-black-whole-peppercorns"
+  ],
+  "sku": "3321361",
+  "updatedAt": "2022-12-04T06:36:53.539Z"
+}

@@ -1,0 +1,74 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1",
+    "ratingValue": "5"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Oh My Veggies"
+  },
+  "cookTime": "PT40M",
+  "createdAt": "2022-12-04T07:14:41.790Z",
+  "datePublished": "2012-02-02T08:06:59+00:00",
+  "description": "Stacks of thinly sliced sweet potatoes topped with crispy ribbons of sage.",
+  "image": [
+    "https://ohmyveggies.com/wp-content/uploads/2012/02/sweet_potato_stacks_with_crispy_sage_leaves_line.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2012/02/sweet_potato_stacks_with_crispy_sage_leaves_line-500x367.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2012/02/sweet_potato_stacks_with_crispy_sage_leaves_line-480x270.jpg"
+  ],
+  "keywords": "sweet potato recipe, Sweet Potato Stacks with Crispy Sage Leaves",
+  "name": "Sweet Potato Stacks with Crispy Sage Leaves",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "145 kcal",
+    "carbohydrateContent": "23 g",
+    "fatContent": "5 g",
+    "fiberContent": "4 g",
+    "proteinContent": "2 g",
+    "saturatedFatContent": "1 g",
+    "servingSize": "2 stacks",
+    "sodiumContent": "62 mg",
+    "sugarContent": "5 g",
+    "unsaturatedFatContent": "5 g"
+  },
+  "prepTime": "PT25M",
+  "recipeCategory": "Appetizer",
+  "recipeCuisine": "American",
+  "recipeIngredient": [
+    "1 large sweet potato",
+    "olive oil cooking spray or mister",
+    "coarsely ground salt and pepper",
+    "2 tsp. olive oil",
+    "1 tbsp. sage leaves (cut into ribbons)"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Preheat oven to 350 degrees."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Spray four cups in a muffin tin with olive oil. Place a sweet potato slice in each cup; spray top of slice lightly with more olive oil. Repeat until cups are filled and sprinkle with salt and pepper."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Bake for 30-40 minutes or until edges of potatoes become crispy."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "While potatoes are baking, heat olive oil in a small skillet over medium-high heat. Add sage leaves and saute, stirring constantly, for about 3 minutes or until leaves are crispy, but still green. Divide sage leaves onto the tops of the potato stacks."
+    }
+  ],
+  "recipeYield": "2",
+  "sameAs": [
+    "https://ohmyveggies.com/recipe-sweet-potato-stacks-with-crispy-sage-leaves"
+  ],
+  "suitableForDiet": [
+    "https://schema.org/VeganDiet",
+    "https://schema.org/VegetarianDiet"
+  ],
+  "totalTime": "PT65M",
+  "updatedAt": "2022-12-04T07:14:41.788Z"
+}

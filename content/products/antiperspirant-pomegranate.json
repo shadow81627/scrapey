@@ -1,0 +1,50 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Contains",
+      "value": "220mL"
+    },
+    {
+      "name": "Size",
+      "value": "220mL"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$3.86 per 100mL"
+    }
+  ],
+  "brand": "Dove",
+  "createdAt": "2022-12-04T11:39:00.886Z",
+  "description": "Dove Antiperspirant Pomegranate",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/4/3/4/4341433.jpg",
+  "name": "Antiperspirant Pomegranate",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 8.5,
+    "lowPrice": 8.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-04T11:39:00.885Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "8.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/pomegranate-4341433p-1"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/pomegranate-4341433p-1"
+  ],
+  "sku": "4341433",
+  "updatedAt": "2022-12-04T11:39:00.886Z"
+}

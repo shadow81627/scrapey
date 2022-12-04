@@ -1,0 +1,58 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "<strong>INGREDIENTS:</strong> Cheddar Cheese (63%) [<strong>Milk</strong>, Salt, Starter Culture, Enzyme (Vegetarian Rennet), Anti Caking Agent (460), Preservative (200)], Pretzels (37%) [<strong>Wheat</strong> Flour, Salt (3%), Sunflower ;Oil, Sugar, Yeast]."
+    },
+    {
+      "name": "Allergen",
+      "value": "May Contain EGG, May Contain SOY, May Contain SESAME, Contains MILK, Contains CEREALS CONTAINING GLUTEN, Contains Wheat, May Contain TREE NUTS"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "1.0"
+    },
+    {
+      "name": "Size",
+      "value": "40g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$5.75 per 100G"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2022-12-04T07:18:33.372Z",
+  "description": "Tasty Cheese bites with salted mini pretzels",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/4/3/8/4383910.jpg",
+  "name": "Tasty Cheese Bites & Mini Preztels",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2.3,
+    "lowPrice": 2.3,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-04T07:18:33.371Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "2.30",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/bites-mini-preztels"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/bites-mini-preztels"
+  ],
+  "sku": "4383910",
+  "updatedAt": "2022-12-04T07:18:33.372Z"
+}

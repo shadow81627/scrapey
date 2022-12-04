@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "500g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$16.00 per 1Kg"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2022-12-04T06:17:39.091Z",
+  "description": "Offering great taste, quality and value, you can also be assured that all of our Coles Brand Organic products are Certified Organic",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/0/4/3048820.jpg",
+  "name": "Organic Broccoli Prepacked",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 8,
+    "lowPrice": 8,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-04T06:17:39.090Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "8.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-organic-broccoli"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/coles-organic-broccoli"
+  ],
+  "sku": "3048820",
+  "updatedAt": "2022-12-04T06:17:39.090Z"
+}

@@ -1,0 +1,75 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1",
+    "ratingValue": "5"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Oh My Veggies"
+  },
+  "cookTime": "PT40M",
+  "createdAt": "2022-12-03T22:25:36.356Z",
+  "datePublished": "2011-12-26T08:40:53+00:00",
+  "description": "A hearty vegan stew with seitan, kale, butternut squash and bulgur. Adapted from Chicken, Collard Greens &amp; Sweet Potato Stew (Whole Living).",
+  "image": [
+    "https://ohmyveggies.com/wp-content/uploads/2011/12/seitan_kale_and_butternut_squash_stew_top.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2011/12/seitan_kale_and_butternut_squash_stew_top-500x371.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2011/12/seitan_kale_and_butternut_squash_stew_top-480x270.jpg"
+  ],
+  "keywords": "Seitan, Kale &amp; Butternut Squash Stew, vegan stew",
+  "name": "Seitan, Kale & Butternut Squash Stew",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "205 kcal",
+    "carbohydrateContent": "38 g",
+    "fatContent": "3 g",
+    "fiberContent": "8 g",
+    "proteinContent": "11 g",
+    "saturatedFatContent": "1 g",
+    "servingSize": "1 serving",
+    "sodiumContent": "845 mg",
+    "sugarContent": "4 g",
+    "unsaturatedFatContent": "2 g"
+  },
+  "prepTime": "PT15M",
+  "recipeCategory": "Main Course",
+  "recipeCuisine": "American",
+  "recipeIngredient": [
+    "1 tbsp. olive oil",
+    "8 oz. seitan (torn into bite-sized pieces)",
+    "1 onion (chopped)",
+    "2 stalks celery (diced)",
+    "1/4 c. apple cider vinegar",
+    "1 1/2 lbs. butternut squash (peeled and diced)",
+    "6 cups vegetable broth",
+    "1 small bunch kale (stems removed and chopped)",
+    "1 c. bulgur wheat",
+    "salt + pepper to taste"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Heat oil over medium-high heat in a large Dutch oven. Add seitan and cook until browned. Set aside."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add onion and celery to pot; cook until tender, about 5 minutes. Add vinegar and deglaze."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add butternut squash and broth to pot. Bring to a boil; reduce heat and simmer until squash is tender, about 15 minutes. Stir in kale and bulgur wheat; cook until kale is wilted. Add seitan, salt and pepper."
+    }
+  ],
+  "recipeYield": "8",
+  "sameAs": [
+    "https://ohmyveggies.com/recipe-seitan-kale-butternut-squash-stew"
+  ],
+  "suitableForDiet": [
+    "https://schema.org/VeganDiet",
+    "https://schema.org/VegetarianDiet"
+  ],
+  "totalTime": "PT55M",
+  "updatedAt": "2022-12-03T22:25:36.355Z"
+}

@@ -1,0 +1,121 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": 1,
+    "ratingValue": 5
+  },
+  "articleSection": "Recipes",
+  "brand": {
+    "@type": "Thing",
+    "name": "The Kitchn"
+  },
+  "cookTime": "PT9000S",
+  "createdAt": "2022-12-04T10:49:55.023Z",
+  "creator": {
+    "@type": "Person",
+    "name": "Nicole Rufus"
+  },
+  "dateCreated": "2022-01-16T11:00:00-05:00",
+  "dateModified": "2022-01-16T11:03:04-05:00",
+  "datePublished": "2022-01-16T11:00:00-05:00",
+  "description": "This roasted pork belly is juicy and succulent with a crispy crackling layer on top that takes it to the next level. ",
+  "headline": "Roasted Pork Belly",
+  "HowtoTip": {
+    "text": "Storage: Leftovers can be refrigerated in an airtight container for up to 3 days.  "
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "https://cdn.apartmenttherapy.info/image/upload/f_jpg,q_auto:eco,c_fill,g_auto,w_1500,ar_16:9/k%2FPhoto%2FRecipes%2F2021-11-pork-belly%2Fpork-belly-4"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "https://cdn.apartmenttherapy.info/image/upload/f_jpg,q_auto:eco,c_fill,g_auto,w_1500,ar_4:3/k%2FPhoto%2FRecipes%2F2021-11-pork-belly%2Fpork-belly-4"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "https://cdn.apartmenttherapy.info/image/upload/f_jpg,q_auto:eco,c_fill,g_auto,w_1500,ar_1:1/k%2FPhoto%2FRecipes%2F2021-11-pork-belly%2Fpork-belly-4"
+    }
+  ],
+  "keywords": [
+    "recipe",
+    "Gluten-Free",
+    "pork",
+    "meat",
+    "Main Dish",
+    "baking",
+    "dinner",
+    "team:food",
+    "platform:search",
+    "course:main dish",
+    "dishtype:meat dish",
+    "mainingredients:pork",
+    "mainingredients:meat",
+    "method:baked",
+    "diet:gluten-free",
+    "meal:dinner"
+  ],
+  "name": "Roasted Pork Belly",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "964 cal",
+    "carbohydrateContent": "0.1 g",
+    "cholesterolContent": "0 mg",
+    "fatContent": "98.9 g",
+    "fiberContent": "0.1 g",
+    "proteinContent": "17.0 g",
+    "saturatedFatContent": "35.4 g",
+    "servingSize": "Serves 5",
+    "sodiumContent": "428.7 mg",
+    "sugarContent": "0.0 g",
+    "unsaturatedFatContent": "0.0 g"
+  },
+  "prepTime": "PT300S",
+  "publisher": {
+    "@type": "Organization",
+    "logo": {
+      "@type": "ImageObject",
+      "height": 46,
+      "url": "https://www.thekitchn.com/static/logos/publisher-logo.png",
+      "width": 180
+    },
+    "name": "Apartment Therapy, LLC."
+  },
+  "recipeCategory": "Main dish",
+  "recipeCuisine": [],
+  "recipeIngredient": [
+    "1 (2-pound) piece boneless, skin-on pork belly",
+    "1 tablespoon olive oil",
+    "1 teaspoon kosher salt",
+    "1/4 teaspoon freshly ground black pepper",
+    "1/4 teaspoon cayenne pepper"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Pat the skin of 1 (2-pound) piece pork belly completely dry with paper towels. Place skin-side up on a plate and refrigerate overnight."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Arrange a rack in the middle of the oven and heat the oven to 300°F. Line a rimmed baking sheet with aluminum foil. Fit a wire rack onto the baking sheet if desired."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Place 1 tablespoon olive oil, 1 teaspoon kosher salt, 1/4 teaspoon black pepper, and 1/4 teaspoon cayenne pepper in a small bowl and stir to combine. Pat any remaining moisture on the skin of the pork belly off with paper towels. Rub the salt mixture all over the pork belly, concentrating primarily on the skin. Place skin-side up on the baking sheet or rack if using."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Roast until the pork is tender and has shrunk in size, about 2 hours. Increase the oven temperature to 450°F and continue to roast until the skin forms a deep golden-brown layer of crackling on top, 20 to 30 minutes. Transfer to a clean cutting board skin-side up and let rest for 10 minutes. Slice with a serrated knife."
+    }
+  ],
+  "recipeYield": 5,
+  "sameAs": [
+    "https://thekitchn.com/roasted-pork-belly-recipe-23256144"
+  ],
+  "suitableforDiet": "https://schema.org/GlutenFreeDiet",
+  "thumbnailUrl": "https://cdn.apartmenttherapy.info/image/upload/f_auto,q_auto:eco,c_fill,g_auto,w_1500,ar_3:2/k%2FPhoto%2FRecipes%2F2021-11-pork-belly%2Fpork-belly-4",
+  "totalTime": "PT9300S",
+  "updatedAt": "2022-12-04T10:49:55.021Z",
+  "url": "https://www.thekitchn.com/roasted-pork-belly-recipe-23256144"
+}

@@ -1,0 +1,50 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Contains",
+      "value": "12 Pads"
+    },
+    {
+      "name": "Size",
+      "value": "12 pack"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.50 per 1Ea"
+    }
+  ],
+  "brand": "Stayfree",
+  "createdAt": "2022-12-04T09:53:06.981Z",
+  "description": "Stayfree Ultra Thin Super Pads With Wings",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/8/0/9/8090970.jpg",
+  "name": "Ultra Thin Super Pads With Wings",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 6,
+    "lowPrice": 6,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-04T09:53:06.980Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "6.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/stayfree-pads-cottony-soft-ultra-thin-with-wings-super"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/stayfree-pads-cottony-soft-ultra-thin-with-wings-super"
+  ],
+  "sku": "8090970",
+  "updatedAt": "2022-12-04T09:53:06.980Z"
+}

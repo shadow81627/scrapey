@@ -1,0 +1,58 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Medjool Dates"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "7.0"
+    },
+    {
+      "name": "Size",
+      "value": "340g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$26.47 per 1Kg"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Produce of USA"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2022-12-04T07:57:52.222Z",
+  "description": "Nutrient dense Medjool dates are perfect for on-the-go snacking, adding to your favourite recipe, or replacing refined sugars.",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/1/1/3116147.jpg",
+  "name": "Pitted Medjool Date",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 9,
+    "lowPrice": 9,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-04T07:57:52.221Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "9.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-pitted-medjool-date"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/coles-pitted-medjool-date"
+  ],
+  "sku": "3116147",
+  "updatedAt": "2022-12-04T07:57:52.221Z"
+}

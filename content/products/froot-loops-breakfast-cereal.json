@@ -11,7 +11,7 @@
     },
     {
       "name": "Allergen",
-      "value": "May Be Present Peanuts, Contains Gluten, Contains Wheat, May Be Present Tree Nuts"
+      "value": "May Be Present Tree Nuts, May Be Present Peanuts, Contains Gluten, Contains Wheat"
     },
     {
       "name": "Dietary",
@@ -19,58 +19,48 @@
     },
     {
       "name": "Servings Per Pack",
-      "value": "9.0"
-    },
-    {
-      "name": "Warning",
-      "value": "This product is sold by weight, not volume. Some settling of contents may have occurred during shipment and handling."
+      "value": "15.0"
     },
     {
       "name": "Size",
-      "value": "285g"
+      "value": "460g"
     },
     {
       "name": "Unit Price",
-      "value": "$1.23 per 100G"
+      "value": "$1.52 per 100G"
     }
   ],
   "brand": "Kellogg's",
   "createdAt": "2020-11-15T12:30:20.000Z",
   "description": "Kellogg's Froot Loops Breakfast Cereal",
-  "image": {
-    "@type": "ImageObject",
-    "height": 300,
-    "mime": "image/jpeg",
-    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/8/4/9/8492066.jpg",
-    "width": 300
-  },
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/1/0/5103248.jpg",
   "name": "Froot Loops Breakfast Cereal",
   "offers": {
     "@type": "AggregateOffer",
-    "highPrice": 3.5,
-    "lowPrice": 3.5,
+    "highPrice": 7,
+    "lowPrice": 7,
     "offerCount": 1,
     "offers": [
       {
         "@context": "http://schema.org",
         "@type": "Offer",
         "availability": "https://schema.org/InStock",
-        "availabilityStarts": "2022-11-24T06:02:27.880Z",
+        "availabilityStarts": "2022-12-03T15:17:49.318Z",
         "itemCondition": "https://schema.org/NewCondition",
         "offeredBy": "Coles",
-        "price": "3.50",
+        "price": "7.00",
         "priceCurrency": "AUD",
         "seller": {
           "@type": "Organization",
           "name": "Coles"
         },
-        "url": "https://shop.coles.com.au/a/national/product/kelloggs-cereal-froot-loops-8492066p"
+        "url": "https://shop.coles.com.au/a/national/product/460g"
       }
     ]
   },
   "sameAs": [
-    "https://shop.coles.com.au/a/national/product/kelloggs-cereal-froot-loops-8492066p"
+    "https://shop.coles.com.au/a/national/product/460g"
   ],
-  "sku": "8492066",
-  "updatedAt": "2022-11-24T06:02:27.880Z"
+  "sku": "5103248",
+  "updatedAt": "2022-12-03T15:17:49.318Z"
 }

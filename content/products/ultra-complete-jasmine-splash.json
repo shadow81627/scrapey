@@ -1,0 +1,54 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Contains anionic and non-ionic surfactants. Refer to www.colgatepalmolive.com.au for full information."
+    },
+    {
+      "name": "Warning",
+      "value": "Keep out of reach of children. If product contacts eyes, rinse thoroughly with water. Biodegradability: The surfactants in Palmolive Complete are readily biodegradable."
+    },
+    {
+      "name": "Size",
+      "value": "500mL"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.00 per 100mL"
+    }
+  ],
+  "brand": "Palmolive",
+  "createdAt": "2022-12-03T17:22:33.589Z",
+  "description": "Palmolive Ultra Complete Jasmine Splash",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/9/6/3967280.jpg",
+  "name": "Ultra Complete Jasmine Splash",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 5,
+    "lowPrice": 5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-03T17:22:33.588Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "5.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/jasmine-splash"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/jasmine-splash"
+  ],
+  "sku": "3967280",
+  "updatedAt": "2022-12-03T17:22:33.588Z"
+}

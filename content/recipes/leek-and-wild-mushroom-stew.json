@@ -1,0 +1,80 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1",
+    "ratingValue": "5"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Oh My Veggies"
+  },
+  "cookTime": "PT30M",
+  "createdAt": "2022-12-03T21:34:26.471Z",
+  "datePublished": "2013-04-01T07:51:29+00:00",
+  "description": "A hearty spring stew made with leeks, wild mushrooms, and buckwheat groats.",
+  "image": [
+    "https://ohmyveggies.com/wp-content/uploads/2013/03/leek_and_wild_mushroom_stew_recipe.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2013/03/leek_and_wild_mushroom_stew_recipe-500x400.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2013/03/leek_and_wild_mushroom_stew_recipe-500x375.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2013/03/leek_and_wild_mushroom_stew_recipe-480x270.jpg"
+  ],
+  "keywords": "hearty spring stew, Leek &amp; Wild Mushroom Stew",
+  "name": "Leek & Wild Mushroom Stew",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "400 kcal",
+    "carbohydrateContent": "67 g",
+    "fatContent": "10 g",
+    "fiberContent": "11 g",
+    "proteinContent": "12 g",
+    "saturatedFatContent": "2 g",
+    "servingSize": "1 serving",
+    "sodiumContent": "1220 mg",
+    "sugarContent": "9 g",
+    "unsaturatedFatContent": "8 g"
+  },
+  "prepTime": "PT15M",
+  "recipeCategory": "Main Course",
+  "recipeCuisine": "American",
+  "recipeIngredient": [
+    "2 tbsp. olive oil",
+    "3 leeks (white and pale green part only, halved lengthwise and thinly sliced)",
+    "1 small carrot (diced)",
+    "1 lb. assorted wild mushrooms (sliced)",
+    "1/2 c. white wine",
+    "1 tsp. dried thyme",
+    "1 tsp. dried sage",
+    "1 c. buckwheat groats",
+    "5 c. mushroom stock",
+    "salt + pepper to taste"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Heat olive oil in a large Dutch oven over medium heat. Add leeks and carrot. Cook 7-8 minutes, or until softened and beginning to turn golden brown."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Stir in mushrooms. Cook until juices are released, 3-5 minutes."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add wine, thyme, and sage. Cook 2-3 minutes more, or until liquid has almost evaporated."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add mushroom stock and groats. Bring to a boil, then reduce heat to low. Partially cover and cook 15 minutes, or until groats are tender."
+    }
+  ],
+  "recipeYield": "4",
+  "sameAs": [
+    "https://ohmyveggies.com/recipe-leek-wild-mushroom-stew"
+  ],
+  "suitableForDiet": [
+    "https://schema.org/VeganDiet",
+    "https://schema.org/VegetarianDiet"
+  ],
+  "totalTime": "PT45M",
+  "updatedAt": "2022-12-03T21:34:26.470Z"
+}

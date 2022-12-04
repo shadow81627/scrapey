@@ -1,0 +1,80 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "6",
+    "ratingValue": "4.5"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Oh My Veggies"
+  },
+  "cookTime": "PT10M",
+  "createdAt": "2022-12-03T16:21:46.598Z",
+  "datePublished": "2019-04-03T06:00:29+00:00",
+  "description": "Try this Simple Peas and Tomato Pasta recipe for those busy evenings when you want a meal with minimal effort. It&#039;s a quick dinner that tastes good!",
+  "image": [
+    "https://ohmyveggies.com/wp-content/uploads/2019/03/tomato-ansd-peas-pasta-1-1-scaled.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2019/03/tomato-ansd-peas-pasta-1-1-500x500.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2019/03/tomato-ansd-peas-pasta-1-1-500x375.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2019/03/tomato-ansd-peas-pasta-1-1-480x270.jpg"
+  ],
+  "keywords": "Peas and Tomato Pasta, vegan pasta recipe, vegetarian pasta recipe",
+  "name": "Peas and Tomato Pasta",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "436 kcal",
+    "carbohydrateContent": "74 g",
+    "fatContent": "9 g",
+    "fiberContent": "6 g",
+    "proteinContent": "15 g",
+    "saturatedFatContent": "1 g",
+    "servingSize": "1 serving",
+    "sodiumContent": "8 mg",
+    "sugarContent": "5 g",
+    "unsaturatedFatContent": "6 g"
+  },
+  "prepTime": "PT15M",
+  "recipeCategory": "Main Course",
+  "recipeCuisine": "American",
+  "recipeIngredient": [
+    "350 g Penne or other pasta of your choice",
+    "2 tbsp olive oil",
+    "1 tbsp garlic (minced)",
+    "1 can (540ml diced tomatoes with Italian spices)",
+    "1 1/2 cups frozen green peas (thawed)",
+    "2 tbsp fresh basil"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Cook pasta al dente in a saucepan of boiling, salted water. Drain."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Heat the oil over medium heat in a large skillet. Cook garlic for 1 to 2 minutes."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add tomatoes and green peas. Bring to a boil. Salt and pepper to taste."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add pasta. Stir and cook 1 minute."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "When serving, sprinkle with basil."
+    }
+  ],
+  "recipeYield": "4",
+  "sameAs": [
+    "https://ohmyveggies.com/simple-peas-and-tomato-pasta"
+  ],
+  "suitableForDiet": [
+    "https://schema.org/VeganDiet",
+    "https://schema.org/VegetarianDiet"
+  ],
+  "totalTime": "PT25M",
+  "updatedAt": "2022-12-03T16:21:46.597Z"
+}

@@ -1,0 +1,54 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "<p><strong>INGREDIENTS:</strong> Tomatoes (79%) (Water, Tomato Paste, Diced Tomatoes), Onion, Garlic, Vinegar, Salt, Olive Oil, Oregano, Basil.</p>"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "11.0"
+    },
+    {
+      "name": "Size",
+      "value": "415g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.72 per 100G"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2022-12-04T05:48:42.569Z",
+  "description": "HELPS SUPPORT CHILDREN IN HOSPITALS IN AUSTRALIA (LOGO) CURINGHOMESICKNESS.ORG(ICON) REAL INGREDIENTS (ICON) NO ADDED SUGAR (ICON) NO ARTIFICIAL COLOURS AND FLAVOURS",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/9/4/3946600.jpg",
+  "name": "Mum's Sause Pizza",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3,
+    "lowPrice": 3,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-04T05:48:42.569Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "3.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/sause"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/sause"
+  ],
+  "sku": "3946600",
+  "updatedAt": "2022-12-04T05:48:42.569Z"
+}

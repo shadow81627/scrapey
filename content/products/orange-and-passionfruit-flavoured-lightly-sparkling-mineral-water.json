@@ -1,0 +1,58 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "INGREDIENTS: Carbonated Water, Food Acid (330), Natural Flavours, Preservative (211), Natural Sweetener (960)."
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "5.0"
+    },
+    {
+      "name": "Size",
+      "value": "1.25L"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.28 per 1L"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Made in Australia"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2022-12-03T20:44:19.323Z",
+  "description": "Coles orange passionfruit Lightly sparkling spring water, sweetened and infused with natural orange and passionfruit flavour.",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/2/7/3277180.jpg",
+  "name": "Orange & Passionfruit Flavoured Lightly Sparkling Mineral Water",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 1.6,
+    "lowPrice": 1.6,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-03T20:44:19.323Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "1.60",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/acqua-viva-lite-sparkling-orange-passionfruit-water"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/acqua-viva-lite-sparkling-orange-passionfruit-water"
+  ],
+  "sku": "3277180",
+  "updatedAt": "2022-12-03T20:44:19.323Z"
+}

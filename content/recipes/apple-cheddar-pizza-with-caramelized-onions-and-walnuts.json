@@ -1,0 +1,80 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "3",
+    "ratingValue": "5"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Oh My Veggies"
+  },
+  "cookTime": "PT90M",
+  "createdAt": "2022-12-03T23:14:39.505Z",
+  "datePublished": "2017-08-07T07:10:49+00:00",
+  "description": "A sweet-and-savory pizza topped with maple-sauteed apples, caramelized onions, aged cheddar and walnuts.",
+  "image": [
+    "https://ohmyveggies.com/wp-content/uploads/2012/11/apple_cheddar_pizza_recipe.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2012/11/apple_cheddar_pizza_recipe-500x500.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2012/11/apple_cheddar_pizza_recipe-500x375.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2012/11/apple_cheddar_pizza_recipe-480x270.jpg"
+  ],
+  "keywords": "Apple Cheddar Pizza, Apple Cheddar Pizza with Caramelized Onions &amp; Walnuts, vegan pizza recipe, vegetarian pizza",
+  "name": "Apple Cheddar Pizza with Caramelized Onions & Walnuts",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "621 kcal",
+    "carbohydrateContent": "61 g",
+    "cholesterolContent": "63 mg",
+    "fatContent": "31 g",
+    "fiberContent": "3 g",
+    "proteinContent": "25 g",
+    "saturatedFatContent": "16 g",
+    "servingSize": "1 serving",
+    "sodiumContent": "898 mg",
+    "sugarContent": "10 g",
+    "unsaturatedFatContent": "12 g"
+  },
+  "prepTime": "PT10M",
+  "recipeCategory": "Main Course",
+  "recipeCuisine": "American",
+  "recipeIngredient": [
+    "1 tbsp. olive oil",
+    "1 large yellow onion (thinly sliced)",
+    "salt + pepper to taste",
+    "1 tbsp. butter",
+    "1 apple (cored and thinly sliced (Braeburn, Fuji, or Honeycrisp work well)",
+    "1 tbsp. maple syrup",
+    "1 large prepared pizza crust",
+    "1 c. shredded aged cheddar cheese",
+    "2 tbsp chopped walnuts"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Heat oil in a large skillet over low heat. Add onion and cook until caramelized, stirring every 5 minutes or so at first and then, as the onions begin to brown, more frequently. This could take from 30 minutes to over an hour, depending on your stove. Season with salt and pepper and remove from heat."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Preheat oven to temperature indicated on pizza crust package."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Wipe skillet clean; add butter and melt over medium heat. Once butter has melted, add apple slices and saute for about 10 minutes, or until softened, stirring frequently. Stir in maple syrup and continue cooking until liquid has evaporated. Remove from heat."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Top pizza crust with caramelized onions, shredded cheese, apples, and walnuts. Bake for time indicated on package or until cheese has melted."
+    }
+  ],
+  "recipeYield": "4",
+  "sameAs": [
+    "https://ohmyveggies.com/apple-cheddar-pizza"
+  ],
+  "suitableForDiet": [
+    "https://schema.org/VeganDiet",
+    "https://schema.org/VegetarianDiet"
+  ],
+  "totalTime": "PT100M",
+  "updatedAt": "2022-12-03T23:14:39.504Z"
+}

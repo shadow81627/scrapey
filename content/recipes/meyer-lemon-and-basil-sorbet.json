@@ -1,0 +1,74 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "3",
+    "ratingValue": "5"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Oh My Veggies"
+  },
+  "cookTime": "PT20M",
+  "createdAt": "2022-12-04T09:51:10.974Z",
+  "datePublished": "2020-02-21T06:00:17+00:00",
+  "description": "A sweet and tart basil-infused Meyer lemon sorbet. Substitute regular lemons if Meyer lemons are not available.",
+  "image": [
+    "https://ohmyveggies.com/wp-content/uploads/2012/02/meyer_lemon_and_basil_sorbet_single.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2012/02/meyer_lemon_and_basil_sorbet_single-500x368.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2012/02/meyer_lemon_and_basil_sorbet_single-480x270.jpg"
+  ],
+  "keywords": "how to make sorbet, lemon sorbet, Meyer Lemon and Basil Sorbet, sorbet recipe",
+  "name": "Meyer Lemon and Basil Sorbet",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "269 kcal",
+    "carbohydrateContent": "70 g",
+    "fatContent": "1 g",
+    "fiberContent": "1 g",
+    "proteinContent": "1 g",
+    "saturatedFatContent": "1 g",
+    "servingSize": "1 serving",
+    "sodiumContent": "5 mg",
+    "sugarContent": "68 g",
+    "unsaturatedFatContent": "2 g"
+  },
+  "prepTime": "PT130M",
+  "recipeCategory": "Dessert",
+  "recipeCuisine": "American",
+  "recipeIngredient": [
+    "2 cups water",
+    "2 cups white sugar (organic for vegan-friendly)",
+    "1/2 cup basil leaves (packed)",
+    "1 cup fresh Meyer lemon juice (from about 6 lemons)",
+    "2 tbsp Meyer lemon zest"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Combine water and sugar in a large saucepan over medium-high heat. Bring to a boil, whisking often. Reduce heat to medium-low and simmer for 5 minutes, continuing to whisk, until sugar is dissolved."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add basil leaves to syrup and cool to room temperature. Once mixture has cooked, transfer to a large bowl and cover. Place syrup in refrigerator and refrigerate for at least 2 hours."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Strain syrup through sieve to remove basil; squeeze out remaining liquid from basil leaves and discard. Whisk lemon juice and zest into basil syrup."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add lemon-basil mixture to ice cream maker and freeze according to manufacturer's instructions. Once sorbet is solid, transfer to an airtight container and freeze for at least 2 hours before serving."
+    }
+  ],
+  "recipeYield": "6",
+  "sameAs": [
+    "https://ohmyveggies.com/meyer-lemon-and-basil-sorbet"
+  ],
+  "suitableForDiet": [
+    "https://schema.org/VeganDiet",
+    "https://schema.org/VegetarianDiet"
+  ],
+  "totalTime": "PT150M",
+  "updatedAt": "2022-12-04T09:51:10.973Z"
+}

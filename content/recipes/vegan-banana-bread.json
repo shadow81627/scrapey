@@ -2,79 +2,82 @@
   "@type": "Recipe",
   "aggregateRating": {
     "@type": "AggregateRating",
-    "ratingCount": "1",
-    "ratingValue": "5"
+    "ratingValue": "5",
+    "reviewCount": "10"
   },
   "author": {
     "@type": "Person",
-    "name": "Oh My Veggies"
+    "name": "Vicky & Ruth"
   },
-  "cookTime": "PT40M",
+  "cookTime": "PT50M",
   "createdAt": "2022-12-02T13:28:11.304Z",
-  "datePublished": "2021-04-20T17:23:46+00:00",
-  "description": "This vegan banana bread is loaded with flavor from ripe bananas, tahini, and maple syrup. And it&#039;s easy to cook up in an under an hour, with just six simple ingredients. Easy &amp; gluten-free.",
+  "datePublished": "2019-02-17",
+  "description": "Once you try this super easy, fool-proof vegan banana bread, you won't want to use any other recipe! Sweetened with maple syrup and bananas, no mixer required!",
   "image": [
-    "https://ohmyveggies.com/wp-content/uploads/2021/04/Gluten-free-Vegan-Banana-Bread-1200px-square.jpg",
-    "https://ohmyveggies.com/wp-content/uploads/2021/04/Gluten-free-Vegan-Banana-Bread-1200px-square-500x500.jpg",
-    "https://ohmyveggies.com/wp-content/uploads/2021/04/Gluten-free-Vegan-Banana-Bread-1200px-square-500x375.jpg",
-    "https://ohmyveggies.com/wp-content/uploads/2021/04/Gluten-free-Vegan-Banana-Bread-1200px-square-480x270.jpg"
+    "https://mayihavethatrecipe.com/wp-content/uploads/2019/02/easy-banana-bread-facebook-225x225.jpg",
+    "https://mayihavethatrecipe.com/wp-content/uploads/2019/02/easy-banana-bread-facebook-260x195.jpg",
+    "https://mayihavethatrecipe.com/wp-content/uploads/2019/02/easy-banana-bread-facebook-320x180.jpg",
+    "https://mayihavethatrecipe.com/wp-content/uploads/2019/02/easy-banana-bread-facebook.jpg"
   ],
-  "keywords": "banana bread recipe, gluten-free banana bread, gluten-free vegan banana bread, vegan banana bread",
+  "keywords": "banana bread, vegan, chocolate chips",
   "name": "Vegan Banana Bread",
   "nutrition": {
-    "@type": "NutritionInformation",
-    "calories": "266 kcal",
-    "carbohydrateContent": "43 g",
-    "fatContent": "10 g",
-    "fiberContent": "5 g",
-    "proteinContent": "6 g",
-    "saturatedFatContent": "1 g",
-    "servingSize": "1 serving",
-    "sodiumContent": "45 mg",
-    "sugarContent": "15 g"
+    "@type": "nutritionInformation",
+    "calories": "195 calories",
+    "carbohydrateContent": "30.3",
+    "cholesterolContent": "0",
+    "fatContent": "8",
+    "fiberContent": "2.4",
+    "proteinContent": "2.7",
+    "saturatedFatContent": "2.4",
+    "servingSize": "1 slice",
+    "sodiumContent": "238.8",
+    "sugarContent": "15.1",
+    "transFatContent": "0",
+    "unsaturatedFatContent": "4.3"
   },
-  "prepTime": "PT10M",
-  "recipeCategory": "Breakfast",
-  "recipeCuisine": "American",
+  "prepTime": "PT15M",
   "recipeIngredient": [
-    "3 large ripe bananas (mashed)",
-    "1.5 tbsp tahini",
-    "1/2 cup maple syrup",
-    "2.5 cups gluten-free flour",
-    "1 tsp baking powder",
-    "1/2 cup chopped walnuts"
+    "1/4 cup unsweetened non-dairy milk",
+    "1 tbsp ground flax",
+    "1 cup whole wheat pastry flour",
+    "1 tsp cinnamon",
+    "1 1/2 tsp baking powder",
+    "1 tsp baking soda",
+    "1/8 tsp salt",
+    "1/2 cup mini chocolate chips",
+    "2 large bananas, mashed ( about 2/3 cup) plus one whole to place on top",
+    "3 tbsp neutral flavor oil (such as grape seed, avocado or sunflower)",
+    "3 tbsp maple syrup",
+    "1 tsp natural vanilla extract"
   ],
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "text": "Preheat the oven to 180 degrees C/350 degrees F."
+      "text": "Preheat the oven to 350F. Grease a 9x5 inch loaf pan (you can also line it with parchment paper)"
     },
     {
       "@type": "HowToStep",
-      "text": "Add the mashed bananas to a large mixing bowl together with the tahini and maple syrup. Whisk until well-combined."
+      "text": "Whisk together the non-dairy milk and ground flax in a small bowl. Set aside"
     },
     {
       "@type": "HowToStep",
-      "text": "Add the flour, baking powder, cinnamon and chopped walnuts. Pour in up to 1/4 cup of almond milk if the dough seems too sticky."
+      "text": "In a medium bowl, combine the flour, cinnamon, baking powder, baking soda and salt. Whisk well, add the mini chocolate chips and mix again"
     },
     {
       "@type": "HowToStep",
-      "text": "Pour the batter into a loaf tin and bake in the preheated oven for around 35-40 minutes, until a toothpick comes out clean."
+      "text": "In a large bowl, whisk together the mashed bananas, oil, maple syrup, vanilla and flax mixture. Add the flour mixture and mix until just combined (do not overmix)"
     },
     {
       "@type": "HowToStep",
-      "text": "Store covered on the countertop for 2-3 days, in the fridge for up to a week, or frozen for up to a month."
+      "text": "Pour the batter into the loaf pan, slice the whole banana in half lengthwise, and arrange the 2 pieces on top of the batter. Bake for 50 minutes and let it cool before removing it from the mold"
     }
   ],
   "recipeYield": "10",
   "sameAs": [
-    "https://ohmyveggies.com/vegan-banana-bread"
+    "https://mayihavethatrecipe.com/easy-vegan-banana-bread"
   ],
-  "suitableForDiet": [
-    "https://schema.org/GlutenFreeDiet",
-    "https://schema.org/VeganDiet",
-    "https://schema.org/VegetarianDiet"
-  ],
-  "totalTime": "PT50M",
-  "updatedAt": "2022-12-02T13:28:11.303Z"
+  "totalTime": "PT1H5M",
+  "updatedAt": "2022-12-03T19:36:54.625Z",
+  "url": "https://mayihavethatrecipe.com/easy-vegan-banana-bread/"
 }

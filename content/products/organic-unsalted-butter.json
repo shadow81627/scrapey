@@ -1,0 +1,62 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "<strong>INGREDIENTS:</strong> Organic Cream (<strong>Milk</strong>), Water."
+    },
+    {
+      "name": "Allergen",
+      "value": "Contains MILK"
+    },
+    {
+      "name": "Dietary",
+      "value": "No Artificial Flavours or Colours"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "50.0"
+    },
+    {
+      "name": "Size",
+      "value": "250g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.84 per 100G"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2022-12-03T15:42:27.554Z",
+  "description": "Coles Dairy organic unsalted butter 250g. Made with Australian certified organic fresh milk. We partner with Certified Organic growers and producers, to bring you high-quality, great tasting and trusted organic products, so you can enjoy the goodness of nature, everyday.",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/9/3/3938260.jpg",
+  "name": "Organic Unsalted Butter",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 4.6,
+    "lowPrice": 4.6,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-03T15:42:27.554Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "4.60",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/unsalted-butter-250g"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/unsalted-butter-250g"
+  ],
+  "sku": "3938260",
+  "updatedAt": "2022-12-03T15:42:27.554Z"
+}

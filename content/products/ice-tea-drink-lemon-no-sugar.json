@@ -1,0 +1,54 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Water, tea extract (4%), food acids (330, 296, 331), flavours, antioxidant (300), sweeteners (955, 950)."
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "6.0"
+    },
+    {
+      "name": "Size",
+      "value": "1.5L"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$2.80 per 1L"
+    }
+  ],
+  "brand": "Lipton",
+  "createdAt": "2022-12-03T21:04:04.532Z",
+  "description": "Lipton Ice Tea Drink Lemon No Sugar",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/1/7/5171521.jpg",
+  "name": "Ice Tea Drink Lemon No Sugar",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 4.2,
+    "lowPrice": 4.2,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/OutOfStock",
+        "availabilityStarts": "2022-12-03T21:04:04.532Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "4.20",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/lemon-no-sugar"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/lemon-no-sugar"
+  ],
+  "sku": "5171521",
+  "updatedAt": "2022-12-03T21:04:04.532Z"
+}

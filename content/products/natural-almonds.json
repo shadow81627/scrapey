@@ -1,0 +1,58 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "<p><strong>INGREDIENTS:</strong> <strong>Almonds</strong>.</p>"
+    },
+    {
+      "name": "Warning",
+      "value": "Food Warnings:rnDespite careful inspection some fragments of shell may remain.rnrn"
+    },
+    {
+      "name": "Size",
+      "value": "750g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$13.33 per 1Kg"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Product of Mixed Origin"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2022-12-04T07:53:17.967Z",
+  "description": "Good source of vitamin ESource of protein",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/2/0/5207232.jpg",
+  "name": "Natural Almonds",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 10,
+    "lowPrice": 10,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/OutOfStock",
+        "availabilityStarts": "2022-12-04T07:53:17.967Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "10.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/natural-almonds"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/natural-almonds"
+  ],
+  "sku": "5207232",
+  "updatedAt": "2022-12-04T07:53:17.967Z"
+}

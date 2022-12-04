@@ -1,0 +1,58 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Full cream milk, enzyme (lactase)."
+    },
+    {
+      "name": "Contains",
+      "value": "Milk"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "4.0"
+    },
+    {
+      "name": "Size",
+      "value": "1L"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$2.75 per 1L"
+    }
+  ],
+  "brand": "Pauls",
+  "createdAt": "2022-12-04T00:59:22.108Z",
+  "description": "Pauls Zymil Full Cream Long Life Milk",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/8/0/2807164.jpg",
+  "name": "Zymil Full Cream Long Life Milk",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2.75,
+    "lowPrice": 2.75,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-04T00:59:22.108Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "2.75",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/pauls-zymil-full-cream-lactose-free"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/pauls-zymil-full-cream-lactose-free"
+  ],
+  "sku": "2807164",
+  "updatedAt": "2022-12-04T00:59:22.108Z"
+}

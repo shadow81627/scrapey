@@ -1,0 +1,58 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Pasteurised Milk and Cream, Salt, Lactic Acid Culture, Non-Animal Rennet (Microbial), Maturing Culture, Blue Mould Culture"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "6.0"
+    },
+    {
+      "name": "Size",
+      "value": "150g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$43.34 per 1Kg"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Made in Denmark from local and imported ingredients"
+    }
+  ],
+  "brand": "Castello",
+  "createdAt": "2022-12-03T16:46:59.829Z",
+  "description": "Castello",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/1/2/212188.jpg",
+  "name": "Blue Cheese",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 6.5,
+    "lowPrice": 6.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-03T16:46:59.828Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "6.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/castello-cheese-blue"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/castello-cheese-blue"
+  ],
+  "sku": "212188",
+  "updatedAt": "2022-12-03T16:46:59.828Z"
+}

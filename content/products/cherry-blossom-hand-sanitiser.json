@@ -1,0 +1,54 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Alcohol Denat., Water, Fragrance, Carbomer, PEG-30 Glyceryl Cocoate, Aminomethyl Propanol, Vitamin E Acetate, Tetrasodium EDTA, CI 16035"
+    },
+    {
+      "name": "Warning",
+      "value": "Flammable. Keep out of reach of children. For external use only. Avoid contact with eyes. Discontinue use if irritation or redness develops. If condition persists for more than 72 hours, consult a doctor."
+    },
+    {
+      "name": "Size",
+      "value": "48mL"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$6.25 per 100mL"
+    }
+  ],
+  "brand": "Palmolive",
+  "createdAt": "2022-12-04T11:22:23.609Z",
+  "description": "Palmolive Cherry Blossom Hand Sanitiser",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/1/8/8/1888852.jpg",
+  "name": "Cherry Blossom Hand Sanitiser",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3,
+    "lowPrice": 3,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-04T11:22:23.608Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "3.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/palmoive-raspberry-hand-sanitiser"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/palmoive-raspberry-hand-sanitiser"
+  ],
+  "sku": "1888852",
+  "updatedAt": "2022-12-04T11:22:23.608Z"
+}

@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "6 pack"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$6.40 per 1L"
+    }
+  ],
+  "brand": "Nort",
+  "createdAt": "2022-12-03T23:48:37.923Z",
+  "description": "Nort Refreshing Ale Can 375mL",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/4/4/7/4475804.jpg",
+  "name": "Refreshing Ale Can 375mL",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 14.4,
+    "lowPrice": 14.4,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-03T23:48:37.922Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "14.40",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/nort-refreshing-ale-can-3"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/nort-refreshing-ale-can-3"
+  ],
+  "sku": "4475804",
+  "updatedAt": "2022-12-03T23:48:37.922Z"
+}

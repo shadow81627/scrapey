@@ -1,0 +1,60 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "438.0kJ",
+      "carbohydrateContent": "19.6g",
+      "dietary_fibre": "0.3g",
+      "fatContent": "1.9g",
+      "name": "nutrition",
+      "proteinContent": "2.0g",
+      "saturatedFatContent": "0.5g",
+      "servingSize": "100 g",
+      "sodiumContent": "206.0mg",
+      "sugarContent": "1.5g"
+    }
+  ],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Fantastic"
+  },
+  "createdAt": "2022-12-04T09:58:24.654Z",
+  "description": "<p>Fantastic Rice Crackers Sweet Chilli and Sour Cream flavour are gluten-free.<br/><br/>Fantastic Rice Crackers are an irresistible snack which can be enjoyed anytime, anywhere. Delicious on their own, or with a tasty dip or topping, you know you can rely on Fantastic Rice Crackers to satisfy any snacking moment.<br/><br/>Gluten-Free<br/><br/>Baked Not Fried<br/><br/>Taste Fantastic<br/></p>",
+  "gtin13": "9310155001199",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/254571.jpg",
+  "name": "Fantastic Rice Crackers Sweet Chilli & Sour Cream 100G",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 1.5,
+    "lowPrice": 1.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-12-04T09:58:24.653Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 1.5,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/254571/fantastic-rice-crackers-sweet-chilli-sour-cream"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/254571/fantastic-rice-crackers-sweet-chilli-sour-cream"
+  ],
+  "sku": "254571",
+  "updatedAt": "2022-12-04T09:58:24.653Z"
+}

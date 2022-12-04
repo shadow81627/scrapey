@@ -1,0 +1,50 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "512mL"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.76 per 100mL"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Made in Australia"
+    }
+  ],
+  "brand": "Hershey's",
+  "createdAt": "2022-12-04T05:21:46.573Z",
+  "description": "Hershey's Cookies N Creme Cone 4 Pack",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/9/4/3944025.jpg",
+  "name": "Cookies N Creme Cone 4 Pack",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 9,
+    "lowPrice": 9,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-04T05:21:46.572Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "9.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/cokies-n-creme-cone-4-pk"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/cokies-n-creme-cone-4-pk"
+  ],
+  "sku": "3944025",
+  "updatedAt": "2022-12-04T05:21:46.572Z"
+}

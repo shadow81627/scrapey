@@ -1,0 +1,58 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "low fat milk"
+    },
+    {
+      "name": "Allergen",
+      "value": "Contains Milk"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "4.0"
+    },
+    {
+      "name": "Size",
+      "value": "1L"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$3.00 per 1L"
+    }
+  ],
+  "brand": "Liddells",
+  "createdAt": "2022-12-04T00:38:38.070Z",
+  "description": "Enjoy real dairy without the lactose with Liddells Lactose Free Low Fat Milk. Great tasting and 99% fat free, including all the nutritional benefits of regular milk without the lactose.",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/7/1/9/7199055.jpg",
+  "name": "Lactose Free 99% Low Fat Milk",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3,
+    "lowPrice": 3,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-04T00:38:38.069Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "3.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/liddells-milk-long-life-low-fat-lactose-free"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/liddells-milk-long-life-low-fat-lactose-free"
+  ],
+  "sku": "7199055",
+  "updatedAt": "2022-12-04T00:38:38.069Z"
+}

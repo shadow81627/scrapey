@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "10 pack"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.25 per 1Ea"
+    }
+  ],
+  "brand": "Bic",
+  "createdAt": "2022-12-04T10:15:31.831Z",
+  "description": "Bic Twin Blade Disposable Razors for Sensitive Skin",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/5/1/5513002.jpg",
+  "name": "Twin Blade Disposable Razors for Sensitive Skin",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2.5,
+    "lowPrice": 2.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-04T10:15:31.830Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "2.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/bic-shavers-twin-select-for-sensitive-skin"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/bic-shavers-twin-select-for-sensitive-skin"
+  ],
+  "sku": "5513002",
+  "updatedAt": "2022-12-04T10:15:31.830Z"
+}

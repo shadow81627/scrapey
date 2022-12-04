@@ -1,0 +1,42 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Unit Price",
+      "value": "$8.00 per 1Ea"
+    }
+  ],
+  "brand": "Sistema",
+  "createdAt": "2022-12-04T05:36:51.742Z",
+  "description": "Sistema To Go Cutlery Set",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/4/2/3/4232438.jpg",
+  "name": "To Go Cutlery Set",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 8,
+    "lowPrice": 8,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-04T05:36:51.742Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "8.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/sistema-to-go-cutlery-set-4232438p-1"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/sistema-to-go-cutlery-set-4232438p-1"
+  ],
+  "sku": "4232438",
+  "updatedAt": "2022-12-04T05:36:51.742Z"
+}

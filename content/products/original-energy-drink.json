@@ -1,0 +1,58 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Carbonated Water, Glucose Syrup (22%), Food Acid (330), Lactic Acid, Flavourings, Preservative (202), Antioxidant (300), Colour (110)."
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "1.0"
+    },
+    {
+      "name": "Size",
+      "value": "380mL"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$7.89 per 1L"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Made in New Zealand from local and imported ingredients"
+    }
+  ],
+  "brand": "Lucozade",
+  "createdAt": "2022-12-03T19:11:55.802Z",
+  "description": "Lucozade Energy is for that moment you need it most, when the energy and the good times flow. Whatever you do, do it with energy.",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/1/5/0/1503620.jpg",
+  "name": "Original Energy Drink",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3,
+    "lowPrice": 3,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-03T19:11:55.801Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "3.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/lucozade-energy-drink-original-1503620p"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/lucozade-energy-drink-original-1503620p"
+  ],
+  "sku": "1503620",
+  "updatedAt": "2022-12-03T19:11:55.801Z"
+}

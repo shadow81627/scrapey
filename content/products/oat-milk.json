@@ -1,0 +1,58 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Ingredients : Water, Oat Flour (10%), Sunflower Oil, Mineral (Calcium Carbonate), Stabiliser (Gellan Gum), Salt, Emulsifier (Sunflower Lecithin), Vitamins (B2, B12, D). Contains Gluten. May Contain Other Gluten-Containing Ingredients and Lupin."
+    },
+    {
+      "name": "Allergen",
+      "value": "Contains Gluten, Contains Oats, May Be Present Lupin"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "4.0"
+    },
+    {
+      "name": "Size",
+      "value": "1L"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$4.00 per 1L"
+    }
+  ],
+  "brand": "Uncle Tobys",
+  "createdAt": "2022-12-04T00:57:50.360Z",
+  "description": "Uncle Tobys Oat Milk",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/4/3/0/4308722.jpg",
+  "name": "Oat Milk",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 4,
+    "lowPrice": 4,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-04T00:57:50.358Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "4.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/oat-milk-4308722p-1"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/oat-milk-4308722p-1"
+  ],
+  "sku": "4308722",
+  "updatedAt": "2022-12-04T00:57:50.359Z"
+}

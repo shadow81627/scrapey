@@ -1,0 +1,42 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Unit Price",
+      "value": "$11.50 per 1Ea"
+    }
+  ],
+  "brand": "Sistema",
+  "createdAt": "2022-12-04T05:29:29.085Z",
+  "description": "Sistema Klip It Plus Square Container 5.5L",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/7/9/3794487.jpg",
+  "name": "Klip It Plus Square Container 5.5L",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 11.5,
+    "lowPrice": 11.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-04T05:29:29.084Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "11.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/sistema-klip-it-plus-container"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/sistema-klip-it-plus-container"
+  ],
+  "sku": "3794487",
+  "updatedAt": "2022-12-04T05:29:29.084Z"
+}

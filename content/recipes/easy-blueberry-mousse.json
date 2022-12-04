@@ -1,0 +1,77 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1",
+    "ratingValue": "5"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Oh My Veggies"
+  },
+  "cookTime": "PT120M",
+  "createdAt": "2022-12-04T11:03:24.303Z",
+  "datePublished": "2018-08-14T13:35:25+00:00",
+  "description": "This Easy Blueberry Mousse recipe is a surefire winner. It&#39;s quick, simple, and works well with any summer fruits—from berries to peaches.",
+  "image": [
+    "https://ohmyveggies.com/wp-content/uploads/2018/08/bluberries-mousse-1-scaled.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2018/08/bluberries-mousse-1-500x500.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2018/08/bluberries-mousse-1-500x375.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2018/08/bluberries-mousse-1-480x270.jpg"
+  ],
+  "keywords": "Blueberry, Easy Dessert, Easy Mousse, Instant Dessert, Instant Mousse, Mousse",
+  "name": "Easy Blueberry Mousse",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "135 kcal",
+    "carbohydrateContent": "21 g",
+    "cholesterolContent": "5 mg",
+    "fatContent": "1 g",
+    "fiberContent": "1 g",
+    "proteinContent": "12 g",
+    "saturatedFatContent": "1 g",
+    "servingSize": "1 serving",
+    "sodiumContent": "47 mg",
+    "sugarContent": "18 g",
+    "transFatContent": "1 g",
+    "unsaturatedFatContent": "2 g"
+  },
+  "prepTime": "PT15M",
+  "recipeCategory": "Dessert",
+  "recipeCuisine": "French-American",
+  "recipeIngredient": [
+    "7 g gelatin (unflavored)",
+    "1/3 cup blueberry juice (or grape juice)",
+    "2 cups 0% Greek yogurt (vanilla flavored)",
+    "1 cup blueberries",
+    "3 tbsp maple syrup",
+    "garnish (mint leaves & whole blueberries)"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Pour the contents of the gelatin sachet and the blueberry juice into a bowl. Let the gelatin bloom for 5 minutes."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "In a blender container, add the yogurt, blueberries, juice, and the maple syrup. Emulsify for 1 minute, or until mixture is homogeneous."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Heat the gelatin in the microwave for 20 to 30 seconds. With the blender running, slowly pour gelatin mixture into the blueberry and yogurt base."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Divide the mixture into four small ramekins and chill for 2 to 3 hours. Garnish with the mint leaves and reserved blueberries."
+    }
+  ],
+  "recipeYield": "4",
+  "sameAs": [
+    "https://ohmyveggies.com/easy-blueberry-mousse"
+  ],
+  "suitableForDiet": [
+    "https://schema.org/VegetarianDiet"
+  ],
+  "totalTime": "PT135M",
+  "updatedAt": "2022-12-04T11:03:24.301Z"
+}

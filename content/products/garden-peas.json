@@ -1,0 +1,54 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Peas (62%), water, sugar, salt, mint flavour."
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "3.0"
+    },
+    {
+      "name": "Size",
+      "value": "420g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$4.76 per 1Kg"
+    }
+  ],
+  "brand": "Edgell",
+  "createdAt": "2022-12-04T02:56:10.898Z",
+  "description": "Edgell Garden Peas",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/1/3/1/131643.jpg",
+  "name": "Garden Peas",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2,
+    "lowPrice": 2,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-04T02:56:10.897Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "2.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/edgell-peas-garden-131643p"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/edgell-peas-garden-131643p"
+  ],
+  "sku": "131643",
+  "updatedAt": "2022-12-04T02:56:10.898Z"
+}

@@ -1,0 +1,58 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "PEG-115M, PEG-7M, PEG-100, BHT"
+    },
+    {
+      "name": "Contains",
+      "value": "5 Razors"
+    },
+    {
+      "name": "Warning",
+      "value": "Please do not move the razor horizontally or touch the blade-edge with hand to avoid cut. Keep out of reach of children. Do not touch the blade-edge with hand in order to avoid cuts."
+    },
+    {
+      "name": "Size",
+      "value": "5 pack"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.90 per 1Ea"
+    }
+  ],
+  "brand": "Gillette",
+  "createdAt": "2022-12-04T10:18:33.571Z",
+  "description": "Gillette Daisy Classic Shaving Razors",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/8/7/3/8735930.jpg",
+  "name": "Daisy Classic Shaving Razors",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 4.5,
+    "lowPrice": 4.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-04T10:18:33.570Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "4.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/gillette-razor-disposable-daisy-classic-for-women"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/gillette-razor-disposable-daisy-classic-for-women"
+  ],
+  "sku": "8735930",
+  "updatedAt": "2022-12-04T10:18:33.570Z"
+}

@@ -1,0 +1,50 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "5 pack"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.70 per 1Ea"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Made in China"
+    }
+  ],
+  "brand": "Cook & Dine",
+  "createdAt": "2022-12-03T15:07:20.914Z",
+  "description": "Keep your meals, snacks and other foods fresh with Cook and Dine Food Containers - suitable for leftovers or storing meals and snacks on the go",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/1/9/6/1960360.jpg",
+  "name": "Food Containers 750mL",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3.5,
+    "lowPrice": 3.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-03T15:07:20.913Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "3.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/cook-dine-oblong-containers-750ml"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/cook-dine-oblong-containers-750ml"
+  ],
+  "sku": "1960360",
+  "updatedAt": "2022-12-03T15:07:20.913Z"
+}

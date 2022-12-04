@@ -1,0 +1,85 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "2",
+    "ratingValue": "4.5"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Oh My Veggies"
+  },
+  "cookTime": "PT40M",
+  "createdAt": "2022-12-04T14:02:42.326Z",
+  "datePublished": "2015-10-25T08:04:56+00:00",
+  "description": "Roasted spaghetti squash tossed with a garlicky kale pesto and topped with sun-dried tomatoes and toasted walnuts.",
+  "image": [
+    "https://ohmyveggies.com/wp-content/uploads/2013/10/spaghetti_squash_with_garlicky_kale_pesto_and_sun_dried_tomatoes_recipe.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2013/10/spaghetti_squash_with_garlicky_kale_pesto_and_sun_dried_tomatoes_recipe-500x400.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2013/10/spaghetti_squash_with_garlicky_kale_pesto_and_sun_dried_tomatoes_recipe-500x375.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2013/10/spaghetti_squash_with_garlicky_kale_pesto_and_sun_dried_tomatoes_recipe-480x270.jpg"
+  ],
+  "keywords": "Spaghetti Squash recipe, Spaghetti Squash with Garlicky Kale Pesto, Spaghetti Squash with Garlicky Kale Pesto and Sun-Dried Tomatoes",
+  "name": "Spaghetti Squash with Garlicky Kale Pesto and Sun-Dried Tomatoes",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "353 kcal",
+    "carbohydrateContent": "27 g",
+    "cholesterolContent": "4 mg",
+    "fatContent": "27 g",
+    "fiberContent": "6 g",
+    "proteinContent": "8 g",
+    "saturatedFatContent": "4 g",
+    "servingSize": "1 serving",
+    "sodiumContent": "174 mg",
+    "sugarContent": "11 g",
+    "unsaturatedFatContent": "21 g"
+  },
+  "prepTime": "PT15M",
+  "recipeCategory": "Main Course",
+  "recipeCuisine": "American",
+  "recipeIngredient": [
+    "1 extra-large spaghetti squash (seeded and halved)",
+    "Oil mister or cooking spray",
+    "1 1/2 cups packed torn kale leaves",
+    "1/2 cup raw walnut pieces (divided)",
+    "1/4 cup shredded Parmesan cheese",
+    "1/4 cup olive oil",
+    "1 tablespoon fresh lemon juice",
+    "2 garlic cloves (minced)",
+    "Salt and pepper to taste",
+    "1/3 cup chopped sun-dried tomatoes"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Preheat oven to 400oF."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Place the spaghetti squash halves cut-side-up on a baking sheet and spray the tops with oil. Bake until tender and just beginning to brown on the edges, about 40 minutes. Allow the squash to cool slightly; if liquid has collected in the centers, drain it off, then scrape out the insides with a fork and separate it into spaghetti strands."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "While the squash is baking, combine the kale, 1/4 cup walnuts, cheese, olive oil, lemon juice, and garlic cloves in your food processor. Process until smooth. Season to taste with salt and pepper."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Toast the remaining walnuts and set aside."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Toss the spaghetti squash with the pesto in a large bowl. Divide onto 4 plates and top each with the toasted walnuts and sun-dried tomatoes."
+    }
+  ],
+  "recipeYield": "4",
+  "sameAs": [
+    "https://ohmyveggies.com/spaghetti-squash"
+  ],
+  "suitableForDiet": [
+    "https://schema.org/VeganDiet",
+    "https://schema.org/VegetarianDiet"
+  ],
+  "totalTime": "PT55M",
+  "updatedAt": "2022-12-04T14:02:42.325Z"
+}

@@ -1,55 +1,66 @@
 {
   "@type": "Recipe",
+  "author": {
+    "@type": "Person",
+    "name": "Fresh Ideas"
+  },
   "cookTime": "PT60M",
   "createdAt": "2022-11-24T22:03:11.000Z",
-  "datePublished": "2021-03-10",
+  "datePublished": "2022-09-26",
   "description": "Try our easy to follow Roast Vegetable Frittata recipe. Absolutely delicious with the best ingredients from Woolworths.",
-  "image": {
-    "@type": "ImageObject",
-    "height": 1300,
-    "mime": "image/png",
-    "url": "https://foodhub.scene7.com/is/image/woolworthsltdprod/1710-roast-vegetable-frittata?wid=1300&hei=1300&fmt=png-alpha",
-    "width": 1300
-  },
-  "keywords": "Roast Vegetable Frittata",
+  "image": [
+    "https://foodhub.scene7.com/is/image/woolworthsltdprod/1710-roast-vegetable-frittata:Square-1300x1300"
+  ],
+  "keywords": "Frittata,Pescatarian,Low saturated fat,Roast,Low salt,Seafood free,Tree nut free,Egg,Low sugar,Sesame free,Zucchini,Halal,High protein,High fibre,Wheat free,Vegetarian,Leftover vegetable,Spinach,Peanut free",
   "name": "Roast Vegetable Frittata Recipe | Woolworths",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "382 calories",
+    "carbohydrateContent": "23.6 g",
+    "fatContent": "19.8 g",
+    "fiberContent": "8.0 g",
+    "proteinContent": "23.8 g",
+    "saturatedFatContent": "6.1 g",
+    "sodiumContent": "360 millig",
+    "sugarContent": "18.0 g"
+  },
   "prepTime": "PT20M",
-  "recipeCategory": "mains",
-  "recipeCuisine": "european",
+  "recipeCategory": "Mains",
+  "recipeCuisine": "Italian",
   "recipeId": "6418",
   "recipeIngredient": [
     "0.75 cup vitamin D fortified soy milk",
-    "750 g pumpkin",
-    "1 red onion",
-    "450 g zucchini",
-    "60 g low-fat feta",
-    "60 g baby spinach",
+    "750g pumpkin, peeled, deseeded",
+    "1 red onion, cut into thin wedges",
+    "450g zucchini, halved lengthways, sliced (about 2 zucchinis)",
+    "60g low-fat feta, crumbled",
+    "60g baby spinach",
     "1 tbs olive oil",
     "8 eggs"
   ],
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Whisk eggs and milk in a bowl. Season to taste. Stir in half of the spinach and half of the feta. Pour over vegetables and gently stir to combine. Bake for 30-35 minutes or until set and golden. Serve with remaining spinach and feta and crusty bread."
+      "HowToTip": {},
+      "text": "Preheat oven to 200°C. Cut pumpkin into 2cm cubes and place into an 8-cup baking dish. Drizzle with oil and toss until coated. Roast for 15 minutes or until tender."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Whisk eggs and milk in a bowl. Season to taste. Stir in half of the spinach and half of the feta. Pour over vegetables and gently stir to combine. Bake for 30-35 minutes or until set and golden. Serve with remaining spinach and feta and crusty bread."
+      "HowToTip": {},
+      "text": "Add zucchini and onion. Stir to combine. Roast for 10 minutes or until all vegetables have softened."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
+      "HowToTip": {},
       "text": "Whisk eggs and milk in a bowl. Season to taste. Stir in half of the spinach and half of the feta. Pour over vegetables and gently stir to combine. Bake for 30-35 minutes or until set and golden. Serve with remaining spinach and feta and crusty bread."
     }
   ],
   "recipeNameId": "roast-vegetable-frittata",
   "recipeYield": "4",
   "sameAs": [
-    "https://woolworths.com.au/shop/find-recipes/roast-pumpkin-quiche"
+    "https://woolworths.com.au/shop/recipes/roast-vegetable-frittata"
   ],
   "totalTime": "PT80M",
-  "updatedAt": "2022-11-24T17:09:40.547Z",
+  "updatedAt": "2022-12-04T05:52:57.993Z",
   "url": "https://www.woolworths.com.au/shop/recipes/roast-vegetable-frittata"
 }

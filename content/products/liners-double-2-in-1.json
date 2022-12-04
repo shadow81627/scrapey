@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "25 pack"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.14 per 1Ea"
+    }
+  ],
+  "brand": "Libra",
+  "createdAt": "2022-12-04T10:02:21.635Z",
+  "description": "Libra Liners Double 2-in-1",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/0/5/5058959.jpg",
+  "name": "Liners Double 2-in-1",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3.5,
+    "lowPrice": 3.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/OutOfStock",
+        "availabilityStarts": "2022-12-04T10:02:21.634Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "3.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/double-2-in-1-25-pack"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/double-2-in-1-25-pack"
+  ],
+  "sku": "5058959",
+  "updatedAt": "2022-12-04T10:02:21.634Z"
+}

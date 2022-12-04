@@ -1,50 +1,56 @@
 {
   "@type": "Recipe",
+  "author": {
+    "@type": "Person",
+    "name": "Produced for Woolworths"
+  },
   "cookTime": "PT20M",
   "createdAt": "2022-11-26T22:51:30.000Z",
-  "datePublished": "2022-04-07",
+  "datePublished": "2022-08-03",
   "description": "This sweet scone recipe has an added nuttiness of almond.",
-  "image": "https://foodhub.scene7.com/is/image/woolworthsltdprod/337985?wid=3446&hei=3446&fmt=png-alpha",
-  "keywords": "Cherry & Almond Scones",
+  "image": [
+    "https://foodhub.scene7.com/is/image/woolworthsltdprod/337985:Square-1300x1300"
+  ],
+  "keywords": "Scone,Cherry",
   "name": "Cherry & Almond Scones Recipe | Woolworths",
   "prepTime": "PT15M",
-  "recipeCategory": "desserts",
-  "recipeCuisine": "british",
+  "recipeCategory": "Desserts",
+  "recipeCuisine": "British",
   "recipeId": "RGWW337985",
   "recipeIngredient": [
-    "100 g cherries",
-    "40 g almonds",
-    "110 g plain flour",
+    "100g cherries, drain and keep liquid and chop the cherries",
+    "40g almonds, chopped",
+    "110g plain flour",
     "0.5 tsp baking powder",
-    "30 g caster sugar",
-    "30 g butter",
-    "0.2 cup almond milk",
+    "30g caster sugar",
+    "30g butter",
+    "0.2-plus 2 tsp cup almond milk",
     "1 pinch salt",
     "1 tsp almond essence"
   ],
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Add the chopped almonds and cherries and combine fully and incrementally add the almond milk if you need to loosen the dough. Bake in the oven for 20 minutes or until cooked through."
+      "HowToTip": {},
+      "text": "Pre-heat the oven to 180°C/160°C fan-forced. In a mixing bowl, combine the butter with the sugar, salt, almond essence and 2 tbs of the juice from the cherries."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Add the chopped almonds and cherries and combine fully and incrementally add the almond milk if you need to loosen the dough. Bake in the oven for 20 minutes or until cooked through."
+      "HowToTip": {},
+      "text": "Once the mixture become fluffy, incrementally sift in the flour, baking powder and caster sugar and combine fully."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
+      "HowToTip": {},
       "text": "Add the chopped almonds and cherries and combine fully and incrementally add the almond milk if you need to loosen the dough. Bake in the oven for 20 minutes or until cooked through."
     }
   ],
   "recipeNameId": "cherry-and-almond-scones",
   "recipeYield": "8",
   "sameAs": [
-    "https://woolworths.com.au/shop/find-recipes/sweet-scones"
+    "https://woolworths.com.au/shop/recipes/cherry-and-almond-scones"
   ],
   "totalTime": "PT35M",
-  "updatedAt": "2022-11-26T11:08:04.259Z",
+  "updatedAt": "2022-12-04T02:07:29.534Z",
   "url": "https://www.woolworths.com.au/shop/recipes/cherry-and-almond-scones"
 }

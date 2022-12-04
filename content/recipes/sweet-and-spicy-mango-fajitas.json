@@ -1,0 +1,83 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "2",
+    "ratingValue": "5"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Oh My Veggies"
+  },
+  "cookTime": "PT15M",
+  "createdAt": "2022-12-04T02:43:16.110Z",
+  "datePublished": "2020-03-06T06:00:34+00:00",
+  "description": "These Sweet and Spicy Mango Fajitas make a quick Meatless Monday dinner. Serve with cilantro, lime wedges, queso fresco and your other favorite fajita toppings.",
+  "image": [
+    "https://ohmyveggies.com/wp-content/uploads/2013/03/sweet_and_spicy_mango_fajitas_recipe.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2013/03/sweet_and_spicy_mango_fajitas_recipe-500x400.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2013/03/sweet_and_spicy_mango_fajitas_recipe-500x375.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2013/03/sweet_and_spicy_mango_fajitas_recipe-480x270.jpg"
+  ],
+  "keywords": "meatless fajitas, Sweet and Spicy Mango Fajitas",
+  "name": "Sweet and Spicy Mango Fajitas",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "132 kcal",
+    "carbohydrateContent": "24 g",
+    "fatContent": "4 g",
+    "fiberContent": "5 g",
+    "proteinContent": "2 g",
+    "saturatedFatContent": "1 g",
+    "servingSize": "1 serving",
+    "sodiumContent": "8 mg",
+    "sugarContent": "18 g",
+    "unsaturatedFatContent": "4 g"
+  },
+  "prepTime": "PT15M",
+  "recipeCategory": "Main Course",
+  "recipeCuisine": "American",
+  "recipeIngredient": [
+    "1 tbsp olive oil",
+    "1 tbsp fajita seasoning mix",
+    "1 red onion (thinly sliced)",
+    "1 red pepper (seeded and cut into strips)",
+    "1 zucchini (halved lengthwise and sliced)",
+    "1 jalapeño (seeded and diced)",
+    "2 mangoes (peeled and cubed (use champagne mangoes if you can find them)",
+    "about 8 medium tortillas (warmed)",
+    "coarsely chopped cilantro (lime wedges, crumbled queso fresco and salsa for serving)"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Heat olive oil in a large skillet over medium high heat."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add fajita seasoning and cook until fragrant, about 30 seconds."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add onion and cook until softened, about 5–7 minutes."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add red pepper, zucchini, and jalapeño; cook about 5 minutes more, or until veggies are just starting to brown. Stir in mangoes."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Serve on tortillas with cilantro, lime wedges, queso fresco and salsa."
+    }
+  ],
+  "recipeYield": "4",
+  "sameAs": [
+    "https://ohmyveggies.com/sweet-and-spicy-mango-fajitas-homemade-seasoning-mix"
+  ],
+  "suitableForDiet": [
+    "https://schema.org/VeganDiet",
+    "https://schema.org/VegetarianDiet"
+  ],
+  "totalTime": "PT30M",
+  "updatedAt": "2022-12-04T02:43:16.103Z"
+}

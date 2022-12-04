@@ -1,0 +1,45 @@
+{
+  "@type": "Product",
+  "additionalProperty": [],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Dreambaby"
+  },
+  "createdAt": "2022-12-03T22:36:09.810Z",
+  "description": "The Dreambaby Strollerbuddy Clip-On Stroller Fan helps keep your child cooler while out and about in the stroller.",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/1073815023.jpg",
+  "name": "Dreambaby 1EA",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 15.5,
+    "lowPrice": 15.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-12-03T22:36:09.809Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 15.5,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/1073815023/dreambaby-clip-on-stroller-fan"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/1073815023/dreambaby-clip-on-stroller-fan"
+  ],
+  "sku": "1073815023",
+  "updatedAt": "2022-12-03T22:36:09.809Z"
+}

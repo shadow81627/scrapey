@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "200mL"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$100.00 per 1L"
+    }
+  ],
+  "brand": "Lyre's",
+  "createdAt": "2022-12-04T00:01:44.607Z",
+  "description": "Lyre's Italian Spritz Aperol Bottle",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/1/0/5102100.jpg",
+  "name": "Italian Spritz Aperol Bottle",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 20,
+    "lowPrice": 20,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/OutOfStock",
+        "availabilityStarts": "2022-12-04T00:01:44.606Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "20.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/italian-spritz-aperol"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/italian-spritz-aperol"
+  ],
+  "sku": "5102100",
+  "updatedAt": "2022-12-04T00:01:44.606Z"
+}

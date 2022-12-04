@@ -1,0 +1,50 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "165g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$3.48 per 100G"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Made in New Zealand"
+    }
+  ],
+  "brand": "Nice & Natural",
+  "createdAt": "2022-12-04T06:46:42.552Z",
+  "description": "Nice & Natural Salted Caramel Protein Nut Bars With 3 Superseeds 5 Pack",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/7/9/2795575.jpg",
+  "name": "Salted Caramel Protein Nut Bars With 3 Superseeds 5 Pack",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 5.75,
+    "lowPrice": 5.75,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-04T06:46:42.551Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "5.75",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/nice-natural-protein-nut-bars:caramel-sea-salt"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/nice-natural-protein-nut-bars%3Acaramel-sea-salt"
+  ],
+  "sku": "2795575",
+  "updatedAt": "2022-12-04T06:46:42.551Z"
+}

@@ -1,0 +1,58 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "100% Australian Grown Pesticide Free Black Tea"
+    },
+    {
+      "name": "Contains",
+      "value": "100% Australian Grown Black Tea"
+    },
+    {
+      "name": "Size",
+      "value": "250g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.32 per 100G"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Product of Australia"
+    }
+  ],
+  "brand": "Nerada",
+  "createdAt": "2022-12-04T01:29:48.581Z",
+  "description": "Nerada Leaf Tea",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/1/4/5/145127.jpg",
+  "name": "Leaf Tea",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3.3,
+    "lowPrice": 3.3,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-04T01:29:48.578Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "3.30",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/nerada-leaf-tea"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/nerada-leaf-tea"
+  ],
+  "sku": "145127",
+  "updatedAt": "2022-12-04T01:29:48.579Z"
+}

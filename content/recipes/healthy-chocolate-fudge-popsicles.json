@@ -1,0 +1,76 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1",
+    "ratingValue": "5"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Oh My Veggies"
+  },
+  "createdAt": "2022-12-04T05:59:20.419Z",
+  "datePublished": "2019-08-03T06:00:50+00:00",
+  "description": "This Chocolate Popsicle recipe provides a way to make fudge popsicles a little healthier.",
+  "image": [
+    "https://ohmyveggies.com/wp-content/uploads/2019/07/choco-pop-1_-scaled.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2019/07/choco-pop-1_-500x500.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2019/07/choco-pop-1_-500x375.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2019/07/choco-pop-1_-480x270.jpg"
+  ],
+  "keywords": "Chocolate Fudge Popsicles, Chocolate Popsicle recipe",
+  "name": "Healthy Chocolate Fudge Popsicles",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "168 kcal",
+    "carbohydrateContent": "20 g",
+    "cholesterolContent": "6 mg",
+    "fatContent": "10 g",
+    "fiberContent": "3 g",
+    "proteinContent": "2 g",
+    "saturatedFatContent": "4 g",
+    "servingSize": "1 serving",
+    "sodiumContent": "17 mg",
+    "sugarContent": "14 g",
+    "unsaturatedFatContent": "4 g"
+  },
+  "prepTime": "PT10M",
+  "recipeCategory": "Dessert",
+  "recipeCuisine": "American",
+  "recipeIngredient": [
+    "3/4 cup milk chocolate chips",
+    "1/2 cup of milk",
+    "3 tsp unsweetened cocoa",
+    "1 tbsp maple syrup",
+    "1/2 tsp vanilla extract",
+    "1 avocado",
+    "1 banana"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "In a saucepan, combine chocolate chips, milk, cocoa, maple syrup, and vanilla. Heat over low heat for about 5 minutes, stirring until chocolate is melted and smooth."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Place the avocado and banana in the bowl of a blender. Mix until smooth."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add the chocolate mixture and mix again until it reaches a pudding consistency, about 5 minutes."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Transfer to popsicle mold and freeze for 6 hours before eating."
+    }
+  ],
+  "recipeYield": "6",
+  "sameAs": [
+    "https://ohmyveggies.com/healthy-chocolate-fudge-popsicles"
+  ],
+  "suitableForDiet": [
+    "https://schema.org/VegetarianDiet"
+  ],
+  "totalTime": "PT10M",
+  "updatedAt": "2022-12-04T05:59:20.417Z"
+}

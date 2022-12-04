@@ -1,0 +1,66 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "Approx.426kJ",
+      "carbohydrateContent": "Approx.0.3g",
+      "dietary_fibre": "-",
+      "fatContent": "Approx.9.8g",
+      "name": "nutrition",
+      "proteinContent": "Approx.3.6g",
+      "saturatedFatContent": "Approx.6.8g",
+      "servingSize": "100 g",
+      "sodiumContent": "Approx.138mg",
+      "sugarContent": "Approx.0.3g"
+    }
+  ],
+  "aggregateRating": {
+    "@context": "http://schema.org",
+    "@type": "AggregateRating",
+    "ratingCount": 876,
+    "ratingValue": 4.56164383561644
+  },
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Thomas Dux"
+  },
+  "createdAt": "2022-12-04T09:56:14.906Z",
+  "description": "A buttery, soft-ripened beauty with pronounced aroma. Each bite starts off mild and nutty before revealing a tangier character and fruity finish.",
+  "gtin13": "93560818",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/087467.jpg",
+  "name": "Thomas Dux Triple Cream Brie 200G",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 5.5,
+    "lowPrice": 5.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-12-04T09:56:14.905Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 5.5,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/87467/thomas-dux-triple-cream-brie"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/87467/thomas-dux-triple-cream-brie"
+  ],
+  "sku": "87467",
+  "updatedAt": "2022-12-04T09:56:14.905Z"
+}

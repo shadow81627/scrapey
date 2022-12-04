@@ -1,0 +1,58 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "<strong>INGREDIENTS:</strong> <strong>Wheat</strong> Flour, Water, Yeast, Iodised Salt, <strong>Wheat</strong> Gluten, Canola Oil, Yellow Pea Flour, Vitamins [Thiamin, Folic Acid]."
+    },
+    {
+      "name": "Allergen",
+      "value": "May Contain Pine, May Contain SULPHITES, May Contain Walnut, May Contain EGG, May Contain MILK, May Contain SOY, May Contain Cashew, May Contain Macadamia Nuts, May Contain Hazelnuts, May Contain SESAME, May Contain Brazil Nuts, May Contain Lupin, May Contain Almonds, May Contain PEANUTS, Contains Gluten, May Contain Pistachios, Contains Wheat, May Contain Pecan"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "6.0"
+    },
+    {
+      "name": "Size",
+      "value": "6 pack"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.42 per 1Ea"
+    }
+  ],
+  "brand": "Coles Bakery",
+  "createdAt": "2022-12-03T16:56:37.576Z",
+  "description": "Perfect for breakfast, lunch, dinner or a snack in between - simply add your favourite filling.",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/4/3/4/4344715.jpg",
+  "name": "Super Soft Round Rolls",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2.5,
+    "lowPrice": 2.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-03T16:56:37.575Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "2.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-bakery-rolls-soft-round-baked-in-store"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/coles-bakery-rolls-soft-round-baked-in-store"
+  ],
+  "sku": "4344715",
+  "updatedAt": "2022-12-03T16:56:37.576Z"
+}

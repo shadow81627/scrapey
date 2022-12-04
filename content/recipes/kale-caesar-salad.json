@@ -1,0 +1,76 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1",
+    "ratingValue": "5"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Oh My Veggies"
+  },
+  "createdAt": "2022-12-04T09:46:45.083Z",
+  "datePublished": "2017-01-08T11:08:58+00:00",
+  "description": "This healthy vegetarian spin on the classic Caesar salad features tender massaged kale leaves and rye bread croutons tossed in a creamy Greek yogurt dressing.",
+  "image": [
+    "https://ohmyveggies.com/wp-content/uploads/2017/01/kale_caesar.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2017/01/kale_caesar-500x400.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2017/01/kale_caesar-500x375.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2017/01/kale_caesar-480x270.jpg"
+  ],
+  "keywords": "Kale Caesar Salad, Vegetarian Caesar Salad",
+  "name": "Kale Caesar Salad",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "503 kcal",
+    "carbohydrateContent": "60 g",
+    "cholesterolContent": "6 mg",
+    "fatContent": "23 g",
+    "fiberContent": "7 g",
+    "proteinContent": "15 g",
+    "saturatedFatContent": "4 g",
+    "servingSize": "1 serving",
+    "sodiumContent": "950 mg",
+    "sugarContent": "6 g",
+    "transFatContent": "1 g",
+    "unsaturatedFatContent": "17 g"
+  },
+  "prepTime": "PT30M",
+  "recipeCategory": "Main Course",
+  "recipeCuisine": "American",
+  "recipeIngredient": [
+    "2 cups dark rye bread cubes (about 4 slices)",
+    "1 tablespoon olive oil",
+    "Salt and pepper to taste",
+    "1/2 cup plain Greek yogurt",
+    "1/4 cup olive oil",
+    "1/4 cup Parmesan cheese (shredded )",
+    "2 tablespoons lemon juice",
+    "1 teaspoon Dijon mustard",
+    "1 teaspoon light soy sauce or liquid aminos (I use Bragg's brand)",
+    "1/2 teaspoon miso paste",
+    "1 clove garlic (crushed)",
+    "Freshly ground black pepper to taste",
+    "1 bunch lacinato kale (destemmed, washed, and torn into bite-sized pieces)",
+    "Extra Parmesan for sprinkling on top"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Preheat the oven to 350°F."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Toss the cubed rye bread with the olive oil, and season with salt and pepper. Spread on a baking sheet and bake for 15 minutes, flipping twice, until crunchy. Remove from the oven and set aside to cool."
+    }
+  ],
+  "recipeYield": "4",
+  "sameAs": [
+    "https://ohmyveggies.com/kale-caesar-salad"
+  ],
+  "suitableForDiet": [
+    "https://schema.org/VegetarianDiet"
+  ],
+  "totalTime": "PT30M",
+  "updatedAt": "2022-12-04T09:46:45.082Z"
+}

@@ -1,0 +1,62 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Milk, Sugar, Milk Solids, Cream, Rice Starch, Natural Flavours, Caramelised Sugar, Vanilla Bean (0.01%), Lemon Juice Concentrate, Live Cultures."
+    },
+    {
+      "name": "Contains",
+      "value": "Milk"
+    },
+    {
+      "name": "Allergen",
+      "value": "Contains Milk"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "7.0"
+    },
+    {
+      "name": "Size",
+      "value": "700g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.07 per 100G"
+    }
+  ],
+  "brand": "Tamar Valley",
+  "createdAt": "2022-12-04T04:17:53.080Z",
+  "description": "Tamar Valley Greek Style Vanilla Bean Yoghurt",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/9/8/2980012.jpg",
+  "name": "Greek Style Vanilla Bean Yoghurt",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 7.5,
+    "lowPrice": 7.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-04T04:17:53.079Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "7.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/tamar-valley-yoghurt-vanilla"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/tamar-valley-yoghurt-vanilla"
+  ],
+  "sku": "2980012",
+  "updatedAt": "2022-12-04T04:17:53.080Z"
+}
