@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Undo"
+  },
+  "createdAt": "2022-12-05T11:51:49.577Z",
+  "description": "UNDO with Colour Protect Laundry Liquid. Revive your clothes & look newer for longer. Made with plant based ingredients, recycled plastic & renewable solar energy right here in Australia.<BR><BR>Colour Protect<br>Keep your colours bright or revive your fav black tee with our advanced colour technology!<br><br>- Biodegradable Ingredients<br>- Plant based cleaning power<br>- Vegan & Cruelty free<br>- Greywater safe<br>- Recycled & Recyclable bottle<br>- Made with renewable energy<br><br>Together, let's undo this mess!",
+  "gtin13": "9310692602620",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/206394.jpg",
+  "name": "Undo Colour Protect Laundry Liquid 2l",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 9,
+    "lowPrice": 9,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-12-05T11:51:49.577Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 9,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/206394/undo-colour-protect-laundry-liquid"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/206394/undo-colour-protect-laundry-liquid"
+  ],
+  "sku": "206394",
+  "updatedAt": "2022-12-05T11:51:49.577Z"
+}

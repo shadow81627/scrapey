@@ -1,0 +1,65 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "Approx.1170kJ",
+      "carbohydrateContent": "Approx.38.3g",
+      "dietary_fibre": "Approx.7.1g",
+      "fatContent": "Approx.8.4g",
+      "name": "nutrition",
+      "proteinContent": "Approx.9g",
+      "saturatedFatContent": "Approx.0.8g",
+      "servingSize": "100 g",
+      "sodiumContent": "Approx.288mg",
+      "sugarContent": "Approx.4.9g"
+    }
+  ],
+  "aggregateRating": {
+    "@context": "http://schema.org",
+    "@type": "AggregateRating",
+    "ratingCount": 507,
+    "ratingValue": 3.77514792899408
+  },
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Macro"
+  },
+  "createdAt": "2022-12-05T10:30:47.980Z",
+  "gtin13": "9339687081738",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/822555.jpg",
+  "name": "Macro Vegie-lish Moroccan Inspired Burger 250G",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3,
+    "lowPrice": 3,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-12-05T10:30:47.979Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 3,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/822555/macro-vegie-lish-moroccan-inspired-burger"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/822555/macro-vegie-lish-moroccan-inspired-burger"
+  ],
+  "sku": "822555",
+  "updatedAt": "2022-12-05T10:30:47.979Z"
+}

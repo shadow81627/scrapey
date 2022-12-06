@@ -1,0 +1,54 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "INGREDIENTS: Garlic Powder."
+    },
+    {
+      "name": "Size",
+      "value": "60g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.40 per 10G"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Packed in India from imported ingredients"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2022-12-04T14:05:06.180Z",
+  "description": "Use as an easy alternative to fresh garlic: 1/8 teaspoon of powder equals 1 clove of garlic.",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/8/9/8/8985074.jpg",
+  "name": "Garlic Powder",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2.4,
+    "lowPrice": 2.4,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-04T14:06:27.624Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "2.40",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-garlic-powder"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/coles-garlic-powder"
+  ],
+  "sku": "8985074",
+  "updatedAt": "2022-12-04T14:06:27.624Z"
+}

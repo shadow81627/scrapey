@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "125g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$2.56 per 100G"
+    }
+  ],
+  "brand": "Supreme Quality Foods",
+  "createdAt": "2022-12-05T07:52:38.298Z",
+  "description": "Supreme Quality Foods Roti Mini",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/9/2/3/9230270.jpg",
+  "name": "Roti Mini",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3.2,
+    "lowPrice": 3.2,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-05T07:52:38.298Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "3.20",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/roti-mini-original"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/roti-mini-original"
+  ],
+  "sku": "9230270",
+  "updatedAt": "2022-12-05T07:52:38.298Z"
+}

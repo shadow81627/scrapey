@@ -1,0 +1,42 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Unit Price",
+      "value": "$5.67 per 1Ea"
+    }
+  ],
+  "brand": "Depend",
+  "createdAt": "2022-12-06T01:52:52.259Z",
+  "description": "Depend Real Fit Night Defence Incontinence Underwear Men Large",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/4/1/8/4186239.jpg",
+  "name": "Real Fit Night Defence Incontinence Underwear Men Large",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 17,
+    "lowPrice": 17,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T01:52:52.258Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "17.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/defence-underwear-mens"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/defence-underwear-mens"
+  ],
+  "sku": "4186239",
+  "updatedAt": "2022-12-06T01:52:52.258Z"
+}

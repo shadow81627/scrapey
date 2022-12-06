@@ -1,0 +1,50 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "1kg"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$20.00 per 1Kg"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Made in Vietnam from local and imported ingredients."
+    }
+  ],
+  "brand": "KB's",
+  "createdAt": "2022-12-04T16:11:40.980Z",
+  "description": "KB's Panko Crumbed Pre-fried Prawns",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/7/4/5749880.jpg",
+  "name": "Panko Crumbed Pre-fried Prawns",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 20,
+    "lowPrice": 20,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-04T16:11:40.979Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "20.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/pre-fried-prawns"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/pre-fried-prawns"
+  ],
+  "sku": "5749880",
+  "updatedAt": "2022-12-04T16:11:40.979Z"
+}

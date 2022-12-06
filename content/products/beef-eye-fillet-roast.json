@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "approx. 500g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$48.00 per 1Kg"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2022-12-06T03:50:02.443Z",
+  "description": "Coles Beef Eye Fillet Roast",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/8/5/9/8598704.jpg",
+  "name": "Beef Eye Fillet Roast",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 24,
+    "lowPrice": 24,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T03:50:02.443Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "24.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-beef-eye-fillet-whole-8598704p"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/coles-beef-eye-fillet-whole-8598704p"
+  ],
+  "sku": "8598704",
+  "updatedAt": "2022-12-06T03:50:02.443Z"
+}

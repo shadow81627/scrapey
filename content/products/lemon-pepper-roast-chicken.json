@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "approx. 100g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$28.00 per 1Kg"
+    }
+  ],
+  "brand": "Lilydale",
+  "createdAt": "2022-12-04T20:56:17.972Z",
+  "description": "The Lilydale Promise is that when you buy Lilydale, youre buying free range chicken that have been raised with care on Lilydale farms by Lilydale farmers.",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/4/6/5/4651394.jpg",
+  "name": "Lemon Pepper Roast Chicken",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2.8,
+    "lowPrice": 2.8,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-04T20:56:17.971Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "2.80",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/lemon-pepper-rst-chicken"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/lemon-pepper-rst-chicken"
+  ],
+  "sku": "4651394",
+  "updatedAt": "2022-12-04T20:56:17.971Z"
+}

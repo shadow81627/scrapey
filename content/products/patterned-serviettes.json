@@ -1,0 +1,50 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "100 pack"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$3.00 per 100Ea"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Packed in Australia from imported ingredients"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2022-12-05T20:30:58.600Z",
+  "description": "Luxuriously soft white serviettes that are perfect for all of your party and entertaining needs! 100 Pack 1 ply 31.5cm x 30cm",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/3/7/2371874.jpg",
+  "name": "Patterned Serviettes",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3,
+    "lowPrice": 3,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-05T20:30:58.600Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "3.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-smart-buy-patterned-serviette"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/coles-smart-buy-patterned-serviette"
+  ],
+  "sku": "2371874",
+  "updatedAt": "2022-12-05T20:30:58.600Z"
+}

@@ -1,0 +1,59 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "256kJ",
+      "carbohydrateContent": "&lt;1g",
+      "dietary_fibre": "-",
+      "fatContent": "4.9g",
+      "name": "nutrition",
+      "proteinContent": "4.1g",
+      "saturatedFatContent": "3.4g",
+      "servingSize": "100 g",
+      "sodiumContent": "301mg",
+      "sugarContent": "&lt;1g"
+    }
+  ],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Devondale"
+  },
+  "createdAt": "2022-12-06T05:17:38.319Z",
+  "gtin13": "9300639800059",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/729880.jpg",
+  "name": "Devondale Sandwich Cheese Slices 500G",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 7.5,
+    "lowPrice": 7.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T05:17:38.318Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 7.5,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/729880/devondale-sandwich-cheese-slices"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/729880/devondale-sandwich-cheese-slices"
+  ],
+  "sku": "729880",
+  "updatedAt": "2022-12-06T05:17:38.318Z"
+}

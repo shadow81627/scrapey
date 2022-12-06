@@ -1,0 +1,62 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "*Squid* (99%), acidity regulators (451, citric acid), salt. *Contains fish.*"
+    },
+    {
+      "name": "Allergen",
+      "value": "Contains Fish"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "10.0"
+    },
+    {
+      "name": "Size",
+      "value": "1kg"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$14.00 per 1Kg"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Packed in China from multiple origins"
+    }
+  ],
+  "brand": "I&J",
+  "createdAt": "2022-12-05T03:30:49.181Z",
+  "description": "I&J The Finest Frozen Squid Tubes",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/5/8/3580202.jpg",
+  "name": "The Finest Frozen Squid Tubes",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 14,
+    "lowPrice": 14,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-05T03:30:49.180Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "14.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/i-j-squid-tube"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/i-j-squid-tube"
+  ],
+  "sku": "3580202",
+  "updatedAt": "2022-12-05T03:30:49.180Z"
+}

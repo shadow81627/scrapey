@@ -1,47 +1,53 @@
 {
   "@type": "Recipe",
+  "author": {
+    "@type": "Person",
+    "name": "Licensed by Woolworths - ©️ Octopus Publishing Ltd"
+  },
   "cookTime": "PT60M",
   "createdAt": "2022-11-24T12:25:40.000Z",
-  "datePublished": "2022-01-14",
+  "datePublished": "2022-09-14",
   "description": "Try our easy to follow Baked Lemon Custards recipe. Absolutely delicious with the best ingredients from Woolworths.",
-  "image": "https://foodhub.scene7.com/is/image/woolworthsltdprod/99205CT211?wid=1722&hei=2136&fmt=png-alpha",
-  "keywords": "Baked Lemon Custards",
+  "image": [
+    "https://foodhub.scene7.com/is/image/woolworthsltdprod/99205CT211:Square-1300x1300"
+  ],
+  "keywords": "Custard,Seafood free,Sesame free,Wheat free",
   "name": "Baked Lemon Custards Recipe | Woolworths",
   "prepTime": "PT10M",
-  "recipeCategory": "desserts",
-  "recipeCuisine": "australian",
+  "recipeCategory": "Desserts",
+  "recipeCuisine": "Australian",
   "recipeId": "RGR28604",
   "recipeIngredient": [
-    "12 bay leaves",
-    "2 tbs lemon",
+    "12 bay leaves, bruised",
+    "2 tbs lemon, finely grated rind",
     "0.4 cup double cream",
-    "5 eggs",
-    "150 g caster sugar",
+    "5 eggs, 1 egg yolk separated",
+    "150g caster sugar",
     "0.4 cup lemon juice"
   ],
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Pour the custard into 4 individual ramekins and place on a baking sheet. Cook in a preheated oven, 120°C, Gas Mark 1/2, for 50 minutes or until the custards are almost set in the middle. Leave to stand until cold, then chill until required. Allow to return to room temperature before serving, decorated with the reserved bay leaves."
+      "HowToTip": {},
+      "text": "Put the bay leaves, lemon rind and cream in a small saucepan and heat gently until it reaches boiling point. Remove immediately from the heat and set aside for 2 hours to infuse."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Pour the custard into 4 individual ramekins and place on a baking sheet. Cook in a preheated oven, 120°C, Gas Mark 1/2, for 50 minutes or until the custards are almost set in the middle. Leave to stand until cold, then chill until required. Allow to return to room temperature before serving, decorated with the reserved bay leaves."
+      "HowToTip": {},
+      "text": "Whisk together the eggs, egg yolk and sugar until the mixture is pale and creamy, then whisk in the lemon juice. Strain the cream mixture through a fine sieve into the egg mixture and stir until combined. Set aside 4 bay leaves for decoration."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
+      "HowToTip": {},
       "text": "Pour the custard into 4 individual ramekins and place on a baking sheet. Cook in a preheated oven, 120°C, Gas Mark 1/2, for 50 minutes or until the custards are almost set in the middle. Leave to stand until cold, then chill until required. Allow to return to room temperature before serving, decorated with the reserved bay leaves."
     }
   ],
   "recipeNameId": "baked-lemon-custards",
   "recipeYield": "4",
   "sameAs": [
-    "https://woolworths.com.au/shop/find-recipes/lemon-custard"
+    "https://woolworths.com.au/shop/recipes/baked-lemon-custards"
   ],
   "totalTime": "PT70M",
-  "updatedAt": "2022-11-24T11:57:05.385Z",
+  "updatedAt": "2022-12-05T01:45:06.597Z",
   "url": "https://www.woolworths.com.au/shop/recipes/baked-lemon-custards"
 }

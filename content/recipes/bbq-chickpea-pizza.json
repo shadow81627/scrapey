@@ -2,75 +2,91 @@
   "@type": "Recipe",
   "aggregateRating": {
     "@type": "AggregateRating",
-    "ratingValue": "5",
-    "reviewCount": "1"
+    "ratingCount": "1",
+    "ratingValue": "5"
   },
   "author": {
     "@type": "Person",
-    "name": "She Likes Food"
+    "name": "Oh My Veggies"
   },
-  "cookingMethod": "Oven",
-  "cookTime": "PT20M",
+  "cookTime": "PT45M",
   "createdAt": "2022-12-02T03:46:45.470Z",
-  "datePublished": "2021-01-17",
-  "description": "This BBQ Chickpea Pizza is super easy to make and full of flavor!  It only takes 30 minutes!",
+  "datePublished": "2016-02-22T09:11:50+00:00",
+  "description": "A vegetarian version of barbecue chicken pizza, made with chickpeas!",
   "image": [
-    "https://www.shelikesfood.com/wp-content/uploads/2021/01/BBQ-Chickpea-Pizzas-9894-225x225.jpg",
-    "https://www.shelikesfood.com/wp-content/uploads/2021/01/BBQ-Chickpea-Pizzas-9894-260x195.jpg",
-    "https://www.shelikesfood.com/wp-content/uploads/2021/01/BBQ-Chickpea-Pizzas-9894-320x180.jpg",
-    "https://www.shelikesfood.com/wp-content/uploads/2021/01/BBQ-Chickpea-Pizzas-9894.jpg"
+    "https://ohmyveggies.com/wp-content/uploads/2016/02/BBQ-Chickpea-Pizza-3.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2016/02/BBQ-Chickpea-Pizza-3-500x400.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2016/02/BBQ-Chickpea-Pizza-3-500x375.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2016/02/BBQ-Chickpea-Pizza-3-480x270.jpg"
   ],
-  "keywords": "BBQ Chickpea Pizza",
+  "keywords": "BBQ Chickpea Pizza, vegetarian pizza, vegetarian pizza recipe",
   "name": "BBQ Chickpea Pizza",
   "nutrition": {
-    "@type": "nutritionInformation",
-    "calories": "328 calories",
-    "carbohydrateContent": "43.4 g",
-    "cholesterolContent": "14.4 mg",
-    "fatContent": "11.5 g",
-    "fiberContent": "6.2 g",
-    "proteinContent": "14 g",
-    "saturatedFatContent": "4.2 g",
-    "servingSize": "1/4",
-    "sodiumContent": "1365.6 mg",
-    "sugarContent": "22.1 g",
-    "transFatContent": "0 g"
+    "@type": "NutritionInformation",
+    "calories": "753 kcal",
+    "carbohydrateContent": "89 g",
+    "cholesterolContent": "65 mg",
+    "fatContent": "32 g",
+    "fiberContent": "5 g",
+    "proteinContent": "27 g",
+    "saturatedFatContent": "12 g",
+    "servingSize": "1 serving",
+    "sodiumContent": "1669 mg",
+    "sugarContent": "24 g",
+    "unsaturatedFatContent": "18 g"
   },
-  "prepTime": "PT10M",
-  "recipeCategory": "Dinner",
+  "prepTime": "PT15M",
+  "recipeCategory": "Main Course",
   "recipeCuisine": "American",
   "recipeIngredient": [
-    "3 teaspoons olive oil",
-    "1 (15 oz) can chickpeas, drained and rinsed",
-    "1/2 teaspoon chili powder",
-    "1/2 teaspoon paprika",
-    "1/2 teaspoon cumin",
-    "1/2 teaspoon garlic powder",
-    "1/2 teaspoon onion powder",
-    "1/2 teaspoon sugar",
-    "1/2 teaspoon salt",
-    "1 large pizza crust or 4 personal sized crusts",
-    "3/4 cup BBQ sauce, store-bought or homemade",
-    "1 cup vegan shredded cheese",
-    "1/3 cup thinly sliced red onion",
-    "Fresh cilantro for garnish, if desired"
+    "2 1/4 teaspoons yeast",
+    "1 cup lukewarm water (divided)",
+    "A pinch of sugar",
+    "2 1/2 cups bread flour (divided)",
+    "2 tablespoons olive oil",
+    "1 teaspoon salt",
+    "1 large yellow onion (thinly sliced)",
+    "Salt and black pepper (to taste)",
+    "1 tablespoon water",
+    "1 red bell pepper (seeded and thinly sliced)",
+    "1 14.5-ounce can chickpeas, drained, rinsed, and dried",
+    "1/3 - 1/2 cup barbecue sauce",
+    "8 ounces gouda (grated)"
   ],
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "text": "Heat oven to 425 degrees F. Heat a large pan over medium heat and add olive oil and chickpeas. Cook until chickpeas are starting to brown, about 5 minutes. Add all the spices in, stir and cook for another 3-4 minutes."
+      "text": "For the crust, in a small bowl whisk together the yeast, 1/4 cup of water, and a pinch of sugar. Let the mixture sit while you prepare the rest of the dough. Meanwhile, in the bowl of a stand mixer fitted with the bread hook attachment, combine 2 cups of bread flour, olive oil, salt, and remaining water. When the yeast becomes foamy, add it into the bowl with the flour. (If the yeast doesn't become foamy, it may be dead and you'll have to start over with new yeast.)"
     },
     {
       "@type": "HowToStep",
-      "text": "You can either use one large pizza crust or person sized crusts. I like to use store-bought crust to make things really easy. Spread the crust with desired amount of BBQ sauce and top with cheese and then chickpeas and onion. Bake pizzas until heated through and cheese is melted, 10-15 minutes. Let cool a few minutes and garnish with fresh cilantro, if desired."
+      "text": "Mix the dough on medium speed until well-combined. If the dough is still sticking to the sides of the bowl after a minute or mixing, then add in more flour. Mix on medium-high speed for 4 minutes. Cover lightly with plastic wrap and let the dough rise in a warm, draft-free place until doubled in size, about 30 minutes."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Meanwhile, heat the oven to 425oF."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "In a large skillet, heat the remaining olive oil over medium heat. Add the onions to the pan along with a sprinkle of salt. Saute for 8-10 minutes, stirring every 2 minutes, until starting to caramelize and brown. Add a tablespoon of water to the pan and saute for another 3-4 minutes. Stir in the bell pepper slices and saute until tender and starting to brown, about 3-4 minutes. Stir in the chickpeas. Season to taste with salt and black pepper."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Grease a 12-inch oven-proof pan or cast-iron skillet. Spread the dough in the skillet so that it reaches the sides. Top with 1/3 cup of the barbecue sauce, spreading it around the dough and leaving a 1/2-inch edge for the crust. Top with the grated cheese and the vegetable chickpea mixture. Drizzle with 1-2 tablespoons of additional barbecue sauce, or to taste."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Put the pan in the oven and bake for 15 minutes or until the cheese is bubbling and the bottom of the dough is golden brown. Let cool for 5 minutes, then slice and serve."
     }
   ],
   "recipeYield": "4",
   "sameAs": [
-    "https://shelikesfood.com/bbq-chickpea-pizza/print/16507"
+    "https://ohmyveggies.com/bbq-chickpea-deep-dish-pizza"
   ],
-  "suitableForDiet": "VeganDiet",
-  "totalTime": "PT30M",
-  "updatedAt": "2022-12-03T00:20:27.033Z",
-  "url": "https://www.shelikesfood.com/bbq-chickpea-pizza/"
+  "suitableForDiet": [
+    "https://schema.org/VeganDiet",
+    "https://schema.org/VegetarianDiet"
+  ],
+  "totalTime": "PT60M",
+  "updatedAt": "2022-12-04T18:02:42.419Z"
 }

@@ -1,0 +1,76 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "2",
+    "ratingValue": "5"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Oh My Veggies"
+  },
+  "cookTime": "PT20M",
+  "createdAt": "2022-12-04T22:01:45.005Z",
+  "datePublished": "2016-04-21T09:14:43+00:00",
+  "description": "Pair your next veggie burger with these crispy chickpea fries with sumac and a dusting of Aleppo pepper for seasoning.",
+  "image": [
+    "https://ohmyveggies.com/wp-content/uploads/2016/04/Middle-Eastern-Spiced-Chickpea-Fries-3.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2016/04/Middle-Eastern-Spiced-Chickpea-Fries-3-500x400.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2016/04/Middle-Eastern-Spiced-Chickpea-Fries-3-500x375.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2016/04/Middle-Eastern-Spiced-Chickpea-Fries-3-480x270.jpg"
+  ],
+  "keywords": "chickpea fries, Middle Eastern Spiced Chickpea Fries",
+  "name": "Middle Eastern Spiced Chickpea Fries",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "469 kcal",
+    "carbohydrateContent": "14 g",
+    "fatContent": "45 g",
+    "fiberContent": "3 g",
+    "proteinContent": "5 g",
+    "saturatedFatContent": "36 g",
+    "servingSize": "1 serving",
+    "sodiumContent": "718 mg",
+    "sugarContent": "3 g",
+    "unsaturatedFatContent": "6 g"
+  },
+  "prepTime": "PT30M",
+  "recipeCategory": "Appetizer",
+  "recipeCuisine": "American",
+  "recipeIngredient": [
+    "4 cups water",
+    "1 tablespoon kosher salt",
+    "2 cups chickpea flour",
+    "1 tablespoon sumac",
+    "2 cups vegetable oil",
+    "aleppo pepper (for dusting)",
+    "green and red harissa (for dipping)"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "In a large pot, bring the water and salt to a boil. Whisk in the chickpea flour and sumac, stirring vigorously for 2-3 minutes or until all of the water is absorbed and there are only very small lumps. It will be the consistency of polenta. Remove the pot from the heat."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Line a rimmed baking sheet with parchment paper. Spread the batter onto the prepared pan in a 1/2-inch thick layer. It won't take up the whole pan, but almost. Set aside to firm up for 30 minutes."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Cut the mixture into rectangular 2x1/2-inch pieces."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Pour the vegetable oil into a large, deep cast-iron skillet. Turn the heat to medium-high. Once the oil is hot enough (it should sizzle the second a fry is put in the pan), add about 8 fries to the pan. Cook until they are golden brown and crispy on the outside, about 3-4 minutes. Remove to a paper towel-lined plate. Repeat with remaining fries. Sprinkle with aleppo pepper and serve immediately."
+    }
+  ],
+  "recipeYield": "10",
+  "sameAs": [
+    "https://ohmyveggies.com/middle-eastern-spiced-chickpea-fries"
+  ],
+  "suitableForDiet": [
+    "https://schema.org/VegetarianDiet"
+  ],
+  "totalTime": "PT50M",
+  "updatedAt": "2022-12-04T22:01:45.004Z"
+}

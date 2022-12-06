@@ -1,0 +1,54 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "<p> </p><p> Roasted <strong>Peanuts</strong>, Roasted <strong>Almonds</strong>, Roasted <strong>Cashews</strong>, Roasted <strong>Hazelnuts</strong>, Sunflower Oil, Salt.</p>"
+    },
+    {
+      "name": "Allergen",
+      "value": "May Contain Pine, May Contain SULPHITES, May Contain Walnut, May Contain EGG, May Contain MILK, May Contain SOY, Contains PEANUTS, May Contain Macadamia Nuts, May Contain SESAME, May Contain Brazil Nuts, May Contain Wheat, Contains Almonds, Contains Hazelnuts, Contains Cashew, May Contain Pistachios, May Contain Gluten, May Contain Pecan"
+    },
+    {
+      "name": "Size",
+      "value": "approx. 100g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$28.00 per 1Kg"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2022-12-05T08:42:35.615Z",
+  "description": "A crunchy blend of lightly salted peanuts, almonds, cashew and hazelnuts roasted to perfection in high oleic sunflower oil.",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/8/4/1/8412238.jpg",
+  "name": "Roasted Salted Mixed Nuts",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2.8,
+    "lowPrice": 2.8,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-05T08:42:35.615Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "2.80",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/scoop-weigh-mixed-nuts-roasted"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/scoop-weigh-mixed-nuts-roasted"
+  ],
+  "sku": "8412238",
+  "updatedAt": "2022-12-05T08:42:35.615Z"
+}

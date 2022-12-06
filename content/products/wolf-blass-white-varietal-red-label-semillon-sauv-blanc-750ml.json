@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Wolf Blass"
+  },
+  "createdAt": "2022-12-05T22:42:13.973Z",
+  "description": "A light to medium bodied style wine, Wolf Blass Red Label Semillon Sauvignon Blanc is fresh and lively with tropical fruit and citrus flavours. This is a great value for money white wine that is a perfect match with seafood or soft cheeses.<br><br><strong>Varietal: </strong>Semillon Sauvignon Blanc<br><strong>Liquor Style: </strong>Medium Bodied White<br><strong>Country Of Origin: </strong>Australia<br><strong>Vintage: </strong>2018*<br><strong>Alcohol %: </strong>12.5<br><strong>Standard Drinks: </strong>7.4",
+  "gtin13": "9312088081903",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/011131.jpg",
+  "name": "Wolf Blass White Varietal Red Label Semillon Sauv Blanc 750mL",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 9,
+    "lowPrice": 9,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/OutOfStock",
+        "availabilityStarts": "2022-12-05T22:42:13.973Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 9,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/11131/wolf-blass-white-varietal-red-label-semillon-sauv-blanc"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/11131/wolf-blass-white-varietal-red-label-semillon-sauv-blanc"
+  ],
+  "sku": "11131",
+  "updatedAt": "2022-12-05T22:42:13.973Z"
+}

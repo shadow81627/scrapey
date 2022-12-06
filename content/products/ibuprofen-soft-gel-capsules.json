@@ -1,0 +1,54 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "<p><strong>ACTIVE INGREDIENTS</strong>: Ibuprofen 200mg.</p>"
+    },
+    {
+      "name": "Size",
+      "value": "20 pack"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.13 per 1Ea"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Made in India"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2022-12-05T22:35:45.732Z",
+  "description": "FAST PAIN RELIEF",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/8/4/2843260.jpg",
+  "name": "Ibuprofen Soft Gel Capsules",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2.6,
+    "lowPrice": 2.6,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-05T22:35:45.731Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "2.60",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-fast-absorb-capsules-gel-ibuprofen"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/coles-fast-absorb-capsules-gel-ibuprofen"
+  ],
+  "sku": "2843260",
+  "updatedAt": "2022-12-05T22:35:45.731Z"
+}

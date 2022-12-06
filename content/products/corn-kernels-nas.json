@@ -1,0 +1,54 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "<strong>INGREDIENTS:</strong> Sweetcorn (65%), Water."
+    },
+    {
+      "name": "Size",
+      "value": "420g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$2.38 per 1Kg"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Product of Thailand"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2022-12-05T20:07:51.706Z",
+  "description": "Coles Corn Kernels with no added salt, 420g. Sweet and juicy kernels ideal for side dishes or a dish on its own.",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/6/3/5/6355246.jpg",
+  "name": "Corn Kernels - NAS",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 1,
+    "lowPrice": 1,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-05T20:07:51.705Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "1.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-corn-kernels-no-added-salt"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/coles-corn-kernels-no-added-salt"
+  ],
+  "sku": "6355246",
+  "updatedAt": "2022-12-05T20:07:51.705Z"
+}

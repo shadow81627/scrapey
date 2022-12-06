@@ -29,44 +29,37 @@
   "createdAt": "2020-11-25T21:33:46.000Z",
   "description": "Mixed tuscan antipasto from multiple origin.",
   "gtin13": "0275445000001",
-  "image": {
-    "@type": "ImageObject",
-    "height": 1200,
-    "mime": "image/jpeg",
-    "url": "https://cdn0.woolworths.media/content/wowproductimages/large/439704.jpg",
-    "width": 1200
-  },
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/439704.jpg",
   "name": "Woolworths Mixed Tuscan Antipasto Per Kg",
   "offers": {
     "@type": "AggregateOffer",
-    "highPrice": 0,
-    "lowPrice": 0,
+    "highPrice": null,
+    "lowPrice": null,
     "offerCount": 1,
     "offers": [
       {
         "@context": "http://schema.org",
         "@type": "Offer",
         "availability": "http://schema.org/OutOfStock",
-        "availabilityStarts": "2022-11-23T12:02:17.659Z",
+        "availabilityStarts": "2022-12-06T06:16:56.041Z",
         "itemCondition": "http://schema.org/NewCondition",
         "offeredBy": "Woolworths",
         "potentialAction": {
           "@context": "http://schema.org",
           "@type": "BuyAction"
         },
-        "price": "",
         "priceCurrency": "AUD",
         "seller": {
           "@type": "Organization",
           "name": "Woolworths"
         },
-        "url": "https://woolworths.com.au/shop/productdetails/439704/woolworths-mixed-tuscan-antipasto"
+        "url": "https://woolworths.com.au/shop/productdetails/439704/woolworths-mixed-tuscan-antipastoreviewPageNumber=10"
       }
     ]
   },
   "sameAs": [
-    "https://woolworths.com.au/shop/productdetails/439704/woolworths-mixed-tuscan-antipasto"
+    "https://woolworths.com.au/shop/productdetails/439704/woolworths-mixed-tuscan-antipastoreviewPageNumber=10"
   ],
   "sku": "439704",
-  "updatedAt": "2022-11-23T12:02:17.659Z"
+  "updatedAt": "2022-12-06T06:16:56.041Z"
 }

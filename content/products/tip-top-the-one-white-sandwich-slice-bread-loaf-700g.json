@@ -1,0 +1,60 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "716.00kJ",
+      "carbohydrateContent": "28.90g",
+      "dietary_fibre": "5.60g",
+      "fatContent": "1.90g",
+      "name": "nutrition",
+      "proteinContent": "6.70g",
+      "saturatedFatContent": "0.30g",
+      "servingSize": "100 g",
+      "sodiumContent": "292.00mg",
+      "sugarContent": "1.50g"
+    }
+  ],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Tip Top"
+  },
+  "createdAt": "2022-12-05T21:16:57.425Z",
+  "description": "Tip Top The One Soft White Sandwich 700g<BR><BR>This super soft and tasty loaf of Tip Top The One is high in fibre and has the added benefits of essential Vitamins and Minerals. It’s the only one you need.<br><br>Tip Top is all about home-grown goodness.<br>That’s why we bake every day with Aussie wheat. We partner with Foodbank to share goodness with the community. And we use more sustainable packaging whenever we can so Australia stays beautiful for generations to come.<BR><BR>High in Fibre<BR><BR>Source of Protein<BR><BR>Good Source of Iron<BR><BR>Contains Vitamin B6, Vitamin E, Thiamin, Niacin and Zinc<BR><BR>No Artificial Colours, Flavours or Preservatives<BR><BR>Suitable for Vegans and Vegetarians",
+  "gtin13": "9339423004809",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/713816.jpg",
+  "name": "Tip Top The One White Sandwich Slice Bread Loaf 700g",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3.9,
+    "lowPrice": 3.9,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-12-05T21:16:57.424Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 3.9,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/713816/tip-top-the-one-white-sandwich-slice-bread-loaf"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/713816/tip-top-the-one-white-sandwich-slice-bread-loaf"
+  ],
+  "sku": "713816",
+  "updatedAt": "2022-12-05T21:16:57.425Z"
+}

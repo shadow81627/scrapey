@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "300g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$2.10 per 100G"
+    }
+  ],
+  "brand": "Gourmet Emporium",
+  "createdAt": "2022-12-05T18:47:28.486Z",
+  "description": "A traditional turkish Baklava freshly Made in Melbourne , it contains Walnuts and ready to serve with a Turkish cup of tea",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/8/1/3814052.jpg",
+  "name": "Turkish Baklava",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 6.3,
+    "lowPrice": 6.3,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-05T18:47:28.486Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "6.30",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/gourmet-emporium-turkish-baklava-3814052p"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/gourmet-emporium-turkish-baklava-3814052p"
+  ],
+  "sku": "3814052",
+  "updatedAt": "2022-12-05T18:47:28.486Z"
+}

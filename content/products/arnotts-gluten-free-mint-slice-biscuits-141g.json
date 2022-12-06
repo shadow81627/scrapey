@@ -1,0 +1,60 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "361.0kJ",
+      "carbohydrateContent": "8.7g",
+      "dietary_fibre": "0.6g",
+      "fatContent": "5.3g",
+      "name": "nutrition",
+      "proteinContent": "0.8g",
+      "saturatedFatContent": "3.1g",
+      "servingSize": "100 g",
+      "sodiumContent": "17.0mg",
+      "sugarContent": "5.1g"
+    }
+  ],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Arnott's"
+  },
+  "createdAt": "2022-12-05T14:15:32.978Z",
+  "description": "The delicious chocolatey-mint biscuit now made gluten free.<br><br>Arnott’s Gluten Free Mint Slice has a layer of cream and coated in delectable chocolate- perfectly balanced to create a delicious mint chocolate biscuit. Enjoyable on its own or with a cuppa, this tasty biscuit is now made gluten free so that even more Aussies can enjoy a tasty treat.<br><br>Gluten Free.<br>Made in Australia.<br>Mint cream.<br>Chocolate coating.<br>No artificial colours.<br>No preservatives.<br>Suitable for gluten avoiders.",
+  "gtin13": "9310072033389",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/221147.jpg",
+  "name": "Arnott's Gluten Free Mint Slice Biscuits 141g",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 5.3,
+    "lowPrice": 5.3,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-12-05T14:15:32.978Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 5.3,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/221147/arnott-s-gluten-free-mint-slice-biscuits"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/221147/arnott-s-gluten-free-mint-slice-biscuits"
+  ],
+  "sku": "221147",
+  "updatedAt": "2022-12-05T14:15:32.978Z"
+}

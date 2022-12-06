@@ -1,0 +1,50 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Contains",
+      "value": "2 feeding bottles"
+    },
+    {
+      "name": "Size",
+      "value": "260mL"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$8.46 per 100mL"
+    }
+  ],
+  "brand": "Avent",
+  "createdAt": "2022-12-05T17:10:27.675Z",
+  "description": "Avent Bottle Feeding Twin Pack Regular",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/4/5/8/4586011.jpg",
+  "name": "Bottle Feeding Twin Pack Regular",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 22,
+    "lowPrice": 22,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-05T17:10:27.674Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "22.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/avent-bottle-feeding-twin-pack"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/avent-bottle-feeding-twin-pack"
+  ],
+  "sku": "4586011",
+  "updatedAt": "2022-12-05T17:10:27.674Z"
+}

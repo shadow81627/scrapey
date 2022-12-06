@@ -1,0 +1,54 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "100% Spanish Extra Virgin Olive Oil"
+    },
+    {
+      "name": "Size",
+      "value": "4L"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.90 per 100mL"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Product of Spain www.congafoods.com.au www.worldofmoro.com.au"
+    }
+  ],
+  "brand": "Moro",
+  "createdAt": "2022-12-06T00:06:40.264Z",
+  "description": "Moro Primero Extra Virgin Olive Oil",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/1/5/5153360.jpg",
+  "name": "Primero Extra Virgin Olive Oil",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 36,
+    "lowPrice": 36,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T00:06:40.263Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "36.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/moro-extra-virgin-olive-oil-5153360p"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/moro-extra-virgin-olive-oil-5153360p"
+  ],
+  "sku": "5153360",
+  "updatedAt": "2022-12-06T00:06:40.263Z"
+}

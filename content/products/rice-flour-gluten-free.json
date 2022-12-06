@@ -1,0 +1,54 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Allergen",
+      "value": "Free From Gluten"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "7.5"
+    },
+    {
+      "name": "Size",
+      "value": "375g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.45 per 100G"
+    }
+  ],
+  "brand": "McKenzie's",
+  "createdAt": "2022-12-05T10:53:56.685Z",
+  "description": "McKenzie's Rice Flour is the perfect baking ingredient to produce melt-in-the-mouth pastries, biscuits and cakes. McKenzie's Rice Flour is gluten free and therefore suitable for people with gluten intolerance.",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/1/9/9/199206.jpg",
+  "name": "Rice Flour Gluten Free",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 1.7,
+    "lowPrice": 1.7,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-05T10:53:56.684Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "1.70",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/mckenzies-flour-rice-gluten-free"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/mckenzies-flour-rice-gluten-free"
+  ],
+  "sku": "199206",
+  "updatedAt": "2022-12-05T10:53:56.684Z"
+}

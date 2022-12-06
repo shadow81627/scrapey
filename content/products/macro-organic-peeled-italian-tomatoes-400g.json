@@ -1,0 +1,66 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "Approx.194kJ",
+      "carbohydrateContent": "Approx.6g",
+      "dietary_fibre": "Approx.1.8g",
+      "fatContent": "Approx.1g",
+      "name": "nutrition",
+      "proteinContent": "Approx.2.4g",
+      "saturatedFatContent": "&lt;0.1g",
+      "servingSize": "100 g",
+      "sodiumContent": "Approx.18mg",
+      "sugarContent": "Approx.6g"
+    }
+  ],
+  "aggregateRating": {
+    "@context": "http://schema.org",
+    "@type": "AggregateRating",
+    "ratingCount": 516,
+    "ratingValue": 4.35658914728682
+  },
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Macro"
+  },
+  "createdAt": "2022-12-05T19:10:58.763Z",
+  "description": "One serve of vegetables is approximately 75g. Australian Dietary Guidelines recommend 5 serves from a variety of vegetables per day.",
+  "gtin13": "9339687106783",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/058895.jpg",
+  "name": "Macro Organic Peeled Italian Tomatoes 400G",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 1.5,
+    "lowPrice": 1.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-12-05T19:10:58.762Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 1.5,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/58895/macro-organic-peeled-italian-tomatoes"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/58895/macro-organic-peeled-italian-tomatoes"
+  ],
+  "sku": "58895",
+  "updatedAt": "2022-12-05T19:10:58.762Z"
+}

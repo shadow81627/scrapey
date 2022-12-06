@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Essentials"
+  },
+  "createdAt": "2022-12-05T12:25:07.070Z",
+  "description": "Hang and dry your laundry with ease with these Essentials plastic pegs. The pegs come in four different colours with a sturdy metal spring.\n - Pack of 60",
+  "gtin13": "9300633743130",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/829999.jpg",
+  "name": "Essentials Peg 60 pack",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3.5,
+    "lowPrice": 3.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-12-05T12:25:07.069Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 3.5,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/829999/essentials-peg"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/829999/essentials-peg"
+  ],
+  "sku": "829999",
+  "updatedAt": "2022-12-05T12:25:07.070Z"
+}

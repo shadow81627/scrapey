@@ -1,0 +1,60 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "399kJ",
+      "carbohydrateContent": "7.4g",
+      "dietary_fibre": "-",
+      "fatContent": "0.5g",
+      "name": "nutrition",
+      "proteinContent": "15.0g",
+      "saturatedFatContent": "0.3g",
+      "servingSize": "100 g",
+      "sodiumContent": "60mg",
+      "sugarContent": "6.9g"
+    }
+  ],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "YoPRO"
+  },
+  "createdAt": "2022-12-05T14:28:07.592Z",
+  "description": "More of what you want and less of what you don’t with 15g protein, no added sugar and no artificial sweeteners, YoPRO Banana in on-the-go convenient pouch.<BR><BR>YoPRO is a protein brand looking to fuel athletes and amateurs alike using the best quality ingredients and in the most natural way possible.<BR><BR>High Protein<BR><BR>0 added sugar<BR><BR>0 artificial sweeteners<BR><BR>0 artificial flavours or artificial colours<BR><BR>0 gelatine<BR><BR>Pouch<BR><BR>Convenient",
+  "gtin13": "9344962002193",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/795064.jpg",
+  "name": "Yopro High Protein Banana Greek Yoghurt Pouch 150g",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2.7,
+    "lowPrice": 2.7,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-12-05T14:28:07.591Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 2.7,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/795064/yopro-high-protein-banana-greek-yoghurt-pouch"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/795064/yopro-high-protein-banana-greek-yoghurt-pouch"
+  ],
+  "sku": "795064",
+  "updatedAt": "2022-12-05T14:28:07.591Z"
+}

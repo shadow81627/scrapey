@@ -1,0 +1,60 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "566.00kJ",
+      "carbohydrateContent": "0.70g",
+      "dietary_fibre": "-",
+      "fatContent": "6.90g",
+      "name": "nutrition",
+      "proteinContent": "18.20g",
+      "saturatedFatContent": "0.80g",
+      "servingSize": "100 g",
+      "sodiumContent": "363.00mg",
+      "sugarContent": "0.70g"
+    }
+  ],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Sirena"
+  },
+  "createdAt": "2022-12-05T21:58:44.617Z",
+  "description": "Large, succulent chunks of premium Sirena Tuna in our unique oil blend. Quality that speaks for itself.",
+  "gtin13": "9350177000152",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/038609.jpg",
+  "name": "Sirena Tuna In Oil Italian Style 95G",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2.95,
+    "lowPrice": 2.95,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-12-05T21:58:44.616Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 2.95,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/38609/sirena-tuna-in-oil-italian-style"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/38609/sirena-tuna-in-oil-italian-style"
+  ],
+  "sku": "38609",
+  "updatedAt": "2022-12-05T21:58:44.616Z"
+}

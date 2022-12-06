@@ -1,0 +1,42 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Unit Price",
+      "value": "$7.90 per 1Ea"
+    }
+  ],
+  "brand": "Samba",
+  "createdAt": "2022-12-05T01:34:40.236Z",
+  "description": "Samba Flip Flame Lighter",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/5/9/5594933.jpg",
+  "name": "Flip Flame Lighter",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 7.9,
+    "lowPrice": 7.9,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/OutOfStock",
+        "availabilityStarts": "2022-12-05T01:34:40.235Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "7.90",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/samba-flip-flame-lighter"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/samba-flip-flame-lighter"
+  ],
+  "sku": "5594933",
+  "updatedAt": "2022-12-05T01:34:40.235Z"
+}

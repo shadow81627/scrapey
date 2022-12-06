@@ -1,0 +1,50 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "INGREDIENTS: Water, Glycerin, Cetearyl Alcohol, Polyglyceryl-10 Laurate, Phenoxyethanol, Cetearyl Glucoside, Caprylyl Glycol, Carbomer, Sodium Hydroxide, Ethylhexylglycerin."
+    },
+    {
+      "name": "Size",
+      "value": "200mL"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$4.00 per 100mL"
+    }
+  ],
+  "brand": "Neutrogena",
+  "createdAt": "2022-12-06T02:55:28.987Z",
+  "description": "Neutrogena Fragrance Free Extra Gentle Cleanser",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/7/3/1/7313183.jpg",
+  "name": "Fragrance Free Extra Gentle Cleanser",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 8,
+    "lowPrice": 8,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T02:55:28.986Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "8.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/neutrogena-cream-cleanser-gentle"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/neutrogena-cream-cleanser-gentle"
+  ],
+  "sku": "7313183",
+  "updatedAt": "2022-12-06T02:55:28.986Z"
+}

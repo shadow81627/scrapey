@@ -1,0 +1,66 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "Approx. 87kJ",
+      "carbohydrateContent": "Approx. 1.5g",
+      "dietary_fibre": "Approx. 2.5g",
+      "fatContent": "&lt;1g",
+      "name": "nutrition",
+      "proteinContent": "Approx. 1.5g",
+      "saturatedFatContent": "&lt;1g",
+      "servingSize": "100 g",
+      "sodiumContent": "Approx. 27mg",
+      "sugarContent": "Approx. 1g"
+    }
+  ],
+  "aggregateRating": {
+    "@context": "http://schema.org",
+    "@type": "AggregateRating",
+    "ratingCount": 514,
+    "ratingValue": 4.51750972762646
+  },
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Bell Farms"
+  },
+  "createdAt": "2022-12-05T22:09:23.606Z",
+  "description": "1 serve (75g) = 1 serve of vegetables (1)\n(1) One serve of vegetables is equal to approximately 75g. Australian Dietary Guidelines recommend 5 serves of vegetables per day.\n\nOur snap frozen Chopped Spinach in convenient size portions!",
+  "gtin13": "9300633582920",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/516857.jpg",
+  "name": "Bell Farms Chopped Spinach 250G",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 0.95,
+    "lowPrice": 0.95,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-12-05T22:09:23.604Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 0.95,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/516857/bell-farms-chopped-spinach"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/516857/bell-farms-chopped-spinach"
+  ],
+  "sku": "516857",
+  "updatedAt": "2022-12-05T22:09:23.604Z"
+}

@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "approx.330g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$18.00 per 1Kg"
+    }
+  ],
+  "brand": "Coles Deli",
+  "createdAt": "2022-12-04T20:34:48.580Z",
+  "description": "This is a hard cheese characterized by elastic texture, mild nutlike flavour, and large holes that form during ripening.",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/2/4/2240763.jpg",
+  "name": "Sweberg Cheese",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 5.94,
+    "lowPrice": 5.94,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-04T20:34:48.580Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "5.94",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-deli-sweberg-cheese"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/coles-deli-sweberg-cheese"
+  ],
+  "sku": "2240763",
+  "updatedAt": "2022-12-04T20:34:48.580Z"
+}

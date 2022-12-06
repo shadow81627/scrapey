@@ -1,0 +1,50 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "330mL"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$15.00 per 1L"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Made in Australia"
+    }
+  ],
+  "brand": "White Wolf",
+  "createdAt": "2022-12-05T01:48:08.394Z",
+  "description": "White Wolf Energy Creamy Soda",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/7/2/5723945.jpg",
+  "name": "Energy Creamy Soda",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 4.95,
+    "lowPrice": 4.95,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/OutOfStock",
+        "availabilityStarts": "2022-12-05T01:48:08.376Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "4.95",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/creamy-soda"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/creamy-soda"
+  ],
+  "sku": "5723945",
+  "updatedAt": "2022-12-05T01:48:08.376Z"
+}

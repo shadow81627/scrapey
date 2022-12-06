@@ -1,0 +1,58 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Mexican Tomato Sauce (34%) (Water, Tomatoes (Tomatoes, Food Acid (330), Mineral Salt (509)), Onion, Tomato Paste, Thickener (1422), Minerals (Phosphorus, Calcium, Magnesium, Iron), Vitamins (B12, B6 , B1), Bovine Collagen Peptides, Garlic, Natural Flavour (Flavour Enhancers (627,631), Wheat), Treacle, Honey, Olive Oil, Salt, Taco Seasoning, Spices (Wheat), Chipotle Pepper, Black Garlic, Herb), Cooked Rice Mix (23%) (Cauliflower Rice (8%), Water, Rice, Broccoli (3%), Salt, Nigella Seeds (0.1%), Spice), Cooked Beef (17%), Red Kidney Bean (14%), Corn Salsa (11%) (Capsicum, Sweetcorn, Olive Oil, Salt, Spice)."
+    },
+    {
+      "name": "Allergen",
+      "value": "May Contain Cashew, May Contain Peanuts, May Contain Sesame Seeds, Contains Wheat, Contains Cereals"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "1.0"
+    },
+    {
+      "name": "Size",
+      "value": "350g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$2.43 per 100G"
+    }
+  ],
+  "brand": "Super Charged",
+  "createdAt": "2022-12-05T07:11:49.881Z",
+  "description": "Super Charged Mexican Beef",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/6/3/5639496.jpg",
+  "name": "Mexican Beef",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 8.5,
+    "lowPrice": 8.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/OutOfStock",
+        "availabilityStarts": "2022-12-05T07:11:49.880Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "8.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/mexican-beef"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/mexican-beef"
+  ],
+  "sku": "5639496",
+  "updatedAt": "2022-12-05T07:11:49.881Z"
+}

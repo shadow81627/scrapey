@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Essentials"
+  },
+  "createdAt": "2022-12-05T12:29:23.770Z",
+  "description": "Soft, non-slip faux-velvet to hang up clothes. \nSlimline design to save more wardrobe storage whilst keep in elegant way.\n\nDimension: 420 x 230 x 6mm\nMaterials: PET plastic with black velvet\nWeights: 640g\n\nWarnings: Not for use with wet clothes.",
+  "gtin13": "9300633735807",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/829155.jpg",
+  "name": "Essentials Flocked Hangers 10 Pack",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 10,
+    "lowPrice": 10,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-12-05T12:29:23.769Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 10,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/829155/essentials-flocked-hangers"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/829155/essentials-flocked-hangers"
+  ],
+  "sku": "829155",
+  "updatedAt": "2022-12-05T12:29:23.769Z"
+}

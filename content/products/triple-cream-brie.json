@@ -1,0 +1,62 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Pasteurised Milk (contains min. 14.0% Cream), Salt, Starter Cultures, Non-Animal Rennet."
+    },
+    {
+      "name": "Contains",
+      "value": "Milk."
+    },
+    {
+      "name": "Allergen",
+      "value": "Contains Milk"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "6.0"
+    },
+    {
+      "name": "Size",
+      "value": "180g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$37.50 per 1Kg"
+    }
+  ],
+  "brand": "Jindi",
+  "createdAt": "2022-12-05T17:17:11.890Z",
+  "description": "Jindi Triple Cream Brie",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/8/1/1/8118740.jpg",
+  "name": "Triple Cream Brie",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 6.75,
+    "lowPrice": 6.75,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-05T17:17:11.890Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "6.75",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/jindi-triple-cream-brie"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/jindi-triple-cream-brie"
+  ],
+  "sku": "8118740",
+  "updatedAt": "2022-12-05T17:17:11.890Z"
+}

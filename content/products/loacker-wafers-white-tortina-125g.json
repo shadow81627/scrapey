@@ -1,0 +1,60 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "Approx.486kJ",
+      "carbohydrateContent": "Approx.10.7g",
+      "dietary_fibre": "0.11g",
+      "fatContent": "Approx.7.4g",
+      "name": "nutrition",
+      "proteinContent": "Approx.1.9g",
+      "saturatedFatContent": "Approx.4.3g",
+      "servingSize": "100 g",
+      "sodiumContent": "Approx.24mg",
+      "sugarContent": "Approx.9.4g"
+    }
+  ],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Loacker"
+  },
+  "createdAt": "2022-12-05T14:29:11.146Z",
+  "description": "White chocolate specialty with hazelnut cream filling (54%) and crispy wafers.\n\nWith 100% exquisite Italian hazelnuts freshly roasted by Loacker and white chocolate with 100% Alpine milk\n\nMore than good*\n* The white chocolate reveals a delicious hazelnut cream between crispy wafers. The \"Italian Hazelnut Orchards\" project aims to improve quality and sustainability.",
+  "gtin13": "8000380153534",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/768620.jpg",
+  "name": "Loacker Wafers White Tortina 125G",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 4.5,
+    "lowPrice": 4.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-12-05T14:29:11.145Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 4.5,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/768620/loacker-wafers-white-tortina"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/768620/loacker-wafers-white-tortina"
+  ],
+  "sku": "768620",
+  "updatedAt": "2022-12-05T14:29:11.145Z"
+}

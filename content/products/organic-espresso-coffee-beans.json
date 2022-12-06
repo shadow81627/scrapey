@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "1kg"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$4.40 per 100G"
+    }
+  ],
+  "brand": "Vittoria",
+  "createdAt": "2022-12-04T21:53:16.702Z",
+  "description": "Vittoria Organic Espresso Coffee Beans",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/0/0/2002095.jpg",
+  "name": "Organic Espresso Coffee Beans",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 44,
+    "lowPrice": 44,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-04T21:53:16.701Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "44.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/vittoria-organic-coffee-beans"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/vittoria-organic-coffee-beans"
+  ],
+  "sku": "2002095",
+  "updatedAt": "2022-12-04T21:53:16.701Z"
+}

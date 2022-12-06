@@ -1,0 +1,58 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "100% Arabica Roast & Ground Coffee"
+    },
+    {
+      "name": "Allergen",
+      "value": "Contains Caffeine"
+    },
+    {
+      "name": "Size",
+      "value": "10 pack"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.75 per 1Ea"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Made in Switzerland"
+    }
+  ],
+  "brand": "Starbucks",
+  "createdAt": "2022-12-04T21:16:09.221Z",
+  "description": "Starbucks By Nespresso Single Origin Coffee Colombia Capsules",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/6/1/3612987.jpg",
+  "name": "By Nespresso Single Origin Coffee Colombia Capsules",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 7.5,
+    "lowPrice": 7.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-04T21:16:09.221Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "7.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/starbucks-single-origin-colombia-capsules"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/starbucks-single-origin-colombia-capsules"
+  ],
+  "sku": "3612987",
+  "updatedAt": "2022-12-04T21:16:09.221Z"
+}

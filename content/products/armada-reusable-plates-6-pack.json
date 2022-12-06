@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Armada"
+  },
+  "createdAt": "2022-12-06T01:21:31.333Z",
+  "description": "Party or picnic in style with these reusable plates, the perfect way to have fun while doing your bit for the planet. Available in two classic colours.\n-6 pack\n-Weight: 60.6g\n-Size: 23cm\n-Material: PP Plastic",
+  "gtin13": "9339687266173",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/177586.jpg",
+  "name": "Armada Reusable Plates 6 Pack",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 6,
+    "lowPrice": 6,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T01:21:31.332Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 6,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/177586/armada-reusable-plates"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/177586/armada-reusable-plates"
+  ],
+  "sku": "177586",
+  "updatedAt": "2022-12-06T01:21:31.332Z"
+}

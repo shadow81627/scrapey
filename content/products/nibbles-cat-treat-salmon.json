@@ -1,0 +1,50 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Australian salmon meat, potato, tapioca, pea fibre, treacle, hemp seed oil, green lipped mussel, mineral salts, natural smoke flavour, taurine."
+    },
+    {
+      "name": "Size",
+      "value": "40g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$6.25 per 100G"
+    }
+  ],
+  "brand": "Prime Pantry",
+  "createdAt": "2022-12-05T12:08:17.471Z",
+  "description": "Prime Pantry Nibbles Cat Treat Salmon",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/4/2/0/4201536.jpg",
+  "name": "Nibbles Cat Treat Salmon",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2.5,
+    "lowPrice": 2.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-05T12:08:17.471Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "2.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/nibbles-cat-treat-salmon"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/nibbles-cat-treat-salmon"
+  ],
+  "sku": "4201536",
+  "updatedAt": "2022-12-05T12:08:17.471Z"
+}

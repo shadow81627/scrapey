@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "2L"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.63 per 1L"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2022-12-05T23:29:42.004Z",
+  "description": "COTTON FRESH Coles Cotton Fresh Fabric Conditioner will leave your laundry soft and fresh after each wash. This formulation has been developed to help reduce static cling, make ironing easier and reduce drying time.",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/7/3/2732065.jpg",
+  "name": "Cotton Fresh Fabric Conditioner",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3.25,
+    "lowPrice": 3.25,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-05T23:29:42.003Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "3.25",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles--cotton-fresh-fabric-conditioner"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/coles--cotton-fresh-fabric-conditioner"
+  ],
+  "sku": "2732065",
+  "updatedAt": "2022-12-05T23:29:42.003Z"
+}

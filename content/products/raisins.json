@@ -1,0 +1,58 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "<p><strong>INGREDIENTS:</strong> Raisins (99.5%),&nbsp;Sunflower Oil (0.5%).</p>"
+    },
+    {
+      "name": "Allergen",
+      "value": "May Be Present SOY, May Be Present MILK, May Be Present TREE NUTS, May Be Present PEANUTS, May Be Present SESAME, May Be Present CEREALS CONTAINING GLUTEN"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "10.0"
+    },
+    {
+      "name": "Size",
+      "value": "375g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$10.00 per 1Kg"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2022-12-04T15:02:35.698Z",
+  "description": "Coles Raisins 375 grams great as a snack or can be mixed with other products to create a trail mix",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/9/1/2/9120635.jpg",
+  "name": "Raisins",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3.75,
+    "lowPrice": 3.75,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-04T15:02:35.697Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "3.75",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-raisins-australian"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/coles-raisins-australian"
+  ],
+  "sku": "9120635",
+  "updatedAt": "2022-12-04T15:02:35.698Z"
+}

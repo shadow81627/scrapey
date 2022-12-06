@@ -1,0 +1,58 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "<strong>INGREDIENTS:</strong> Fig."
+    },
+    {
+      "name": "Allergen",
+      "value": "May Contain Pine, May Contain SULPHITES, May Contain Walnut, May Contain MILK, May Be Present EGG, May Contain SOY, May Contain Cashew, May Contain Macadamia Nuts, May Contain Hazelnuts, May Contain Brazil Nuts, May Contain Wheat, May Contain Almonds, May Contain PEANUTS, May Be Present SESAME, May Be Present CEREALS CONTAINING GLUTEN, May Contain Pistachios, May Contain Gluten, May Contain Pecan"
+    },
+    {
+      "name": "Size",
+      "value": "approx. 100g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$20.00 per 1Kg"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Grown in Turkey"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2022-12-05T08:39:49.821Z",
+  "description": "Dried figs are a lovely natural snack, perfect for baking and fantastic with a cheese platter",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/8/4/1/8412566.jpg",
+  "name": "Dried Figs",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2,
+    "lowPrice": 2,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-05T08:39:49.820Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "2.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/scoop-weigh-figs-gourmet"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/scoop-weigh-figs-gourmet"
+  ],
+  "sku": "8412566",
+  "updatedAt": "2022-12-05T08:39:49.820Z"
+}

@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "10 pack"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.45 per 1Ea"
+    }
+  ],
+  "brand": "Vittoria",
+  "createdAt": "2022-12-04T21:16:30.104Z",
+  "description": "Vittoria Espresso Nespresso Compatible Coffee Capsules",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/9/8/3984336.jpg",
+  "name": "Espresso Nespresso Compatible Coffee Capsules",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 4.5,
+    "lowPrice": 4.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-04T21:16:30.104Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "4.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/capsules-3984336p-1"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/capsules-3984336p-1"
+  ],
+  "sku": "3984336",
+  "updatedAt": "2022-12-04T21:16:30.104Z"
+}

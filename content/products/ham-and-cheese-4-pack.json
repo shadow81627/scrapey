@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "320g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$3.13 per 100G"
+    }
+  ],
+  "brand": "Street Calzone",
+  "createdAt": "2022-12-06T04:02:25.265Z",
+  "description": "Street Calzone Ham & Cheese 4 Pack",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/1/9/5190694.jpg",
+  "name": "Ham & Cheese 4 Pack",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 10,
+    "lowPrice": 10,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/OutOfStock",
+        "availabilityStarts": "2022-12-06T04:02:25.265Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "10.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/ham-cheese-4pk"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/ham-cheese-4pk"
+  ],
+  "sku": "5190694",
+  "updatedAt": "2022-12-06T04:02:25.265Z"
+}

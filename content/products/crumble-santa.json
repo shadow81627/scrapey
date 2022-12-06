@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "27g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$4.63 per 100G"
+    }
+  ],
+  "brand": "Violet",
+  "createdAt": "2022-12-04T19:51:23.921Z",
+  "description": "Violet Crumble Santa",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/8/6/3861904.jpg",
+  "name": "Crumble Santa",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 1.25,
+    "lowPrice": 1.25,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-04T19:51:23.920Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "1.25",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/violet-crumble-santa"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/violet-crumble-santa"
+  ],
+  "sku": "3861904",
+  "updatedAt": "2022-12-04T19:51:23.920Z"
+}

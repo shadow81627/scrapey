@@ -1,0 +1,60 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "394.0kJ",
+      "carbohydrateContent": "14.4g",
+      "dietary_fibre": "2.8g",
+      "fatContent": "2.2g",
+      "name": "nutrition",
+      "proteinContent": "2.8g",
+      "saturatedFatContent": "0.3g",
+      "servingSize": "100 g",
+      "sodiumContent": "104.0mg",
+      "sugarContent": "0.4g"
+    }
+  ],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Arnott's"
+  },
+  "createdAt": "2022-12-05T14:03:30.911Z",
+  "description": "Arnott's Vita Weat Crispbread 9 Grain is made with 100% natural wholegrains. Use as a cheese cracker, dip cracker or layer with your favourite toppings for a deliciously crunchy and healthy treat.<BR><BR>Live bright, eat right, Vita-Weat is the Natural way to snack. Taste the Grainy goodness & put a smile on your face.<br />Layer on the toppings you love and enjoy your snack with a delicious crunch.",
+  "gtin13": "9310072014753",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/097482.jpg",
+  "name": "Arnott's Vita Weat Crispbread 9 Grain 250G",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 4,
+    "lowPrice": 4,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-12-05T14:03:30.910Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 4,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/97482/arnott-s-vita-weat-crispbread-9-grain"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/97482/arnott-s-vita-weat-crispbread-9-grain"
+  ],
+  "sku": "97482",
+  "updatedAt": "2022-12-05T14:03:30.910Z"
+}

@@ -3,11 +3,11 @@
   "additionalProperty": [
     {
       "name": "Size",
-      "value": "620mL"
+      "value": "275mL"
     },
     {
       "name": "Unit Price",
-      "value": "$0.79 per 100mL"
+      "value": "$0.84 per 100mL"
     },
     {
       "name": "Country Of Origin",
@@ -17,40 +17,34 @@
   "brand": "ABC",
   "createdAt": "2020-10-12T05:22:04.000Z",
   "description": "ABC Sweet Soy Sauce",
-  "image": {
-    "@type": "ImageObject",
-    "height": 300,
-    "mime": "image/jpeg",
-    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/2/5/5252565.jpg",
-    "width": 300
-  },
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/9/7/5/9756108.jpg",
   "name": "Sweet Soy Sauce",
   "offers": {
     "@type": "AggregateOffer",
-    "highPrice": 4.9,
-    "lowPrice": 4.9,
+    "highPrice": 2.3,
+    "lowPrice": 2.3,
     "offerCount": 1,
     "offers": [
       {
         "@context": "http://schema.org",
         "@type": "Offer",
         "availability": "https://schema.org/InStock",
-        "availabilityStarts": "2020-11-15T10:33:52.457Z",
+        "availabilityStarts": "2022-12-06T00:17:27.862Z",
         "itemCondition": "https://schema.org/NewCondition",
         "offeredBy": "Coles",
-        "price": "4.90",
+        "price": "2.30",
         "priceCurrency": "AUD",
         "seller": {
           "@type": "Organization",
           "name": "Coles"
         },
-        "url": "https://shop.coles.com.au/a/national/product/abc-sauce-soy-sweet-5252565p"
+        "url": "https://shop.coles.com.au/a/national/product/abc-sauce-soy-sweet-9756108p"
       }
     ]
   },
   "sameAs": [
-    "https://shop.coles.com.au/a/national/product/abc-sauce-soy-sweet-5252565p"
+    "https://shop.coles.com.au/a/national/product/abc-sauce-soy-sweet-9756108p"
   ],
-  "sku": "5252565",
-  "updatedAt": "2020-11-15T10:33:52.457Z"
+  "sku": "9756108",
+  "updatedAt": "2022-12-06T00:17:27.862Z"
 }

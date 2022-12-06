@@ -1,0 +1,54 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "<strong>INGREDIENTS:</strong> RSPCA Approved Australian Chicken Breast (66%), Breadcrumb Coating (23%) [<strong>Wheat</strong> Flour, Water, Canola Oil, Salt, <strong>Wheat</strong> Gluten, <strong>Wheat</strong> Semolina, Natural Flavouring (Incl. Onion), Sugar, Yeast, Natural Colours (Turmeric, Paprika Oleoresins), Herb Extract], Water, Marinade [Maltodextrin, Mineral Salts (451, 508), Vegetable Gum (407a), Yeast Extract, Salt, Hydrolysed Vegetable Protein, Food Acids (296, 270, 330), Natural Flavouring, Tapioca Starch, Herb Extract, Spice Extract], Maize Starch, Thickener (1442)."
+    },
+    {
+      "name": "Allergen",
+      "value": "May Be Present SOY, May Be Present MILK, May Be Present EGG, Contains Gluten, Contains Wheat"
+    },
+    {
+      "name": "Size",
+      "value": "1kg"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$9.30 per 1Kg"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2022-12-05T15:32:49.967Z",
+  "description": "RSPCA Approved chicken breast tenders coated in a crispy, golden crumb. Perfect on their own or as a crunchy twist to a traditional chicken Caesar salad. Made with Australian Chicken.",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/2/9/5294576.jpg",
+  "name": "Original Chicken Tenders",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 9.3,
+    "lowPrice": 9.3,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/OutOfStock",
+        "availabilityStarts": "2022-12-05T15:35:16.573Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "9.30",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/chicken-tenders-5294576p-1"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/chicken-tenders-5294576p-1"
+  ],
+  "sku": "5294576",
+  "updatedAt": "2022-12-05T15:35:16.573Z"
+}

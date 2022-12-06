@@ -1,0 +1,60 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "-",
+      "carbohydrateContent": "-",
+      "dietary_fibre": "-",
+      "fatContent": "-",
+      "name": "nutrition",
+      "proteinContent": "-",
+      "saturatedFatContent": "-",
+      "servingSize": "100 g",
+      "sodiumContent": "-",
+      "sugarContent": "-"
+    }
+  ],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Cornwell's"
+  },
+  "createdAt": "2022-12-05T07:06:29.171Z",
+  "description": "Naturally fermented, it is gluten free, and contains no artificial flavours, colours or preservatives. This white vinegar is a delicious accompaniment for fish and chips!<BR><BR>Cornwell’s White Vinegar is a pantry staple for every kitchen. Very versatile, you can use this vinegar for a range of things, from cooking to making marinades and cleaning. Cornwell’s White Vinegar is perfect for poaching eggs, vinaigrettes and salad dressings.<BR><BR>• Gluten free<BR><BR>• No artificial flavours<BR><BR>• No artificial colours<BR><BR>• No artificial preservatives<BR><BR>• Naturally fermented vinegar",
+  "gtin13": "93203906",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/091367.jpg",
+  "name": "Cornwell's White Vinegar White 375mL",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2.15,
+    "lowPrice": 2.15,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-12-05T07:06:29.171Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 2.15,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/91367/cornwell-s-white-vinegar-white"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/91367/cornwell-s-white-vinegar-white"
+  ],
+  "sku": "91367",
+  "updatedAt": "2022-12-05T07:06:29.171Z"
+}

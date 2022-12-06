@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "D'Orsogna"
+  },
+  "createdAt": "2022-12-05T21:30:47.717Z",
+  "description": "Hungarian Salami Quad Pack 240g",
+  "gtin13": "9300767081436",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/099441.jpg",
+  "name": "D'orsogna Hungarian Salami 4 Pack",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 6.5,
+    "lowPrice": 6.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-12-05T21:30:47.717Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 6.5,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/99441/d-orsogna-hungarian-salami"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/99441/d-orsogna-hungarian-salami"
+  ],
+  "sku": "99441",
+  "updatedAt": "2022-12-05T21:30:47.717Z"
+}

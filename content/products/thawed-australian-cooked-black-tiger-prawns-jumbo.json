@@ -1,0 +1,58 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "INGREDIENTS: Prawns [Prawns, Salt, Antioxidant (586)]."
+    },
+    {
+      "name": "Allergen",
+      "value": "Contains CRUSTACEA"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "10.0"
+    },
+    {
+      "name": "Size",
+      "value": "approx.250g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$39.00 per 1Kg"
+    }
+  ],
+  "brand": "Coles Deli",
+  "createdAt": "2022-12-06T00:13:40.069Z",
+  "description": "Coles Deli Thawed Australian Cooked Black Tiger Prawns Jumbo",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/1/4/9/1498596.jpg",
+  "name": "Thawed Australian Cooked Black Tiger Prawns Jumbo",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 9.75,
+    "lowPrice": 9.75,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T00:13:40.069Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "9.75",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-jumbo-blk-tiger-prwn-ckd"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/coles-jumbo-blk-tiger-prwn-ckd"
+  ],
+  "sku": "1498596",
+  "updatedAt": "2022-12-06T00:13:40.069Z"
+}

@@ -1,0 +1,60 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "-",
+      "carbohydrateContent": "-",
+      "dietary_fibre": "-",
+      "fatContent": "-",
+      "name": "nutrition",
+      "proteinContent": "-",
+      "saturatedFatContent": "-",
+      "servingSize": "100 g",
+      "sodiumContent": "-",
+      "sugarContent": "-"
+    }
+  ],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Twinings"
+  },
+  "createdAt": "2022-12-05T09:54:05.715Z",
+  "description": "Twinings English Breakfast Medium Strength Tea is rich & invigorating.<BR><BR>Rejuvenate yourself and welcome in the day... <br />Getting up in the morning with our English Breakfast is a little easier. This full-bodied blend is rich and invigorating and will give you a warm, lovely wake-up, allowing you to embrace the day. As the name suggests, it is perfect for breakfast but also beautiful to enjoy in the afternoon.<br /><br />In 1706, Thomas Twining started selling tea. More than 300 years on, the twinings' tradition continues with our finest blends for you to Enjoy Every Day.",
+  "gtin13": "70177060749",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/041853.jpg",
+  "name": "Twinings English Breakfast Loose Leaf Tea 125g",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 7.5,
+    "lowPrice": 7.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-12-05T09:54:05.713Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 7.5,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/41853/twinings-english-breakfast-loose-leaf-tea"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/41853/twinings-english-breakfast-loose-leaf-tea"
+  ],
+  "sku": "41853",
+  "updatedAt": "2022-12-05T09:54:05.713Z"
+}

@@ -1,0 +1,42 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Unit Price",
+      "value": "$4.00 per 1Ea"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2022-12-04T22:55:13.205Z",
+  "description": "White FSC certified paper tablecloth. Perfect for BBQs, picnics and parties to dress your table.",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/4/1/6/4160803.jpg",
+  "name": "Paper Table Cover",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 4,
+    "lowPrice": 4,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-04T22:55:13.203Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "4.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-white-tablecloth"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/coles-white-tablecloth"
+  ],
+  "sku": "4160803",
+  "updatedAt": "2022-12-04T22:55:13.203Z"
+}

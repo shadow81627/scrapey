@@ -1,0 +1,52 @@
+{
+  "@type": "Product",
+  "additionalProperty": [],
+  "aggregateRating": {
+    "@context": "http://schema.org",
+    "@type": "AggregateRating",
+    "ratingCount": 1,
+    "ratingValue": 5
+  },
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Finish"
+  },
+  "createdAt": "2022-12-05T23:54:56.346Z",
+  "description": "<p>Finish Ultimate Pro Material Care, for our ultimate clean & diamond shine 1st time, every time. Its advanced chemistry is effective at breaking down all types of food residues, even stubborn 24hr dried-on stains, without pre-rinsing.<br/><br/>The Tabs help protect and care for your glassware and cutlery, maintaining their shine wash after wash and also contains boosted glass care agents†. Our ultimate performance with 15% less chemical weight than Finish’s traditional pressed powder tablets^.<br/><br/>Save time in the kitchen knowing your dishes will come out clean and shiny with Finish Ultimate Pro Material Care dishwasher tablets. <br/><br/>†Contains agents known to help protect glasses against corrosion and clouding. This product does not protect from mechanical damages or restore already damaged items. <br/><br/>^Vs. Finish Power All in 1<br/></p>",
+  "gtin13": "9300701149369",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/215211.jpg",
+  "name": "Finish Ultimate Pro Material Care Dishwasher Tablets 50 pack",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 39.2,
+    "lowPrice": 39.2,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-12-05T23:54:56.345Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 39.2,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/215211/finish-ultimate-pro-material-care-dishwasher-tablets"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/215211/finish-ultimate-pro-material-care-dishwasher-tablets"
+  ],
+  "sku": "215211",
+  "updatedAt": "2022-12-05T23:54:56.345Z"
+}

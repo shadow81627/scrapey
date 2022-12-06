@@ -1,0 +1,50 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Active Constituent: 1000g/Kg Camphor."
+    },
+    {
+      "name": "Size",
+      "value": "18g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$16.67 per 100G"
+    }
+  ],
+  "brand": "Hovex",
+  "createdAt": "2022-12-05T04:19:27.893Z",
+  "description": "Moth & Silverfish Repellent. Lasts between 3  6 months depending on conditionsBalls disintegrate, so you know when they need replacing",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/5/6/5569062.jpg",
+  "name": "Camphor",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3,
+    "lowPrice": 3,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-05T04:19:27.893Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "3.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/hovex-camphor"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/hovex-camphor"
+  ],
+  "sku": "5569062",
+  "updatedAt": "2022-12-05T04:19:27.893Z"
+}

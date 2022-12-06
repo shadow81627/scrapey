@@ -1,0 +1,41 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "600g"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2022-12-05T16:27:50.774Z",
+  "description": "Coles Apple Blackberry & Custard Frozen Strudel",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/7/7/2/7720176.jpg",
+  "name": "Apple Blackberry & Custard Frozen Strudel",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": null,
+    "lowPrice": null,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/OutOfStock",
+        "availabilityStarts": "2022-12-05T16:27:50.773Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-strudel-apple-blackberry-custard-frozen"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/coles-strudel-apple-blackberry-custard-frozen"
+  ],
+  "sku": "7720176",
+  "updatedAt": "2022-12-05T16:27:50.773Z"
+}

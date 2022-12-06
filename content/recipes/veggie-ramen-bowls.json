@@ -1,0 +1,81 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "2",
+    "ratingValue": "5"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Oh My Veggies"
+  },
+  "cookTime": "PT38M",
+  "createdAt": "2022-12-04T16:37:53.111Z",
+  "datePublished": "2017-05-14T10:00:00+00:00",
+  "description": "These easy vegetarian ramen bowls are packed with shiitake mushrooms and bok choy, and a flavorful miso ginger broth.",
+  "image": [
+    "https://ohmyveggies.com/wp-content/uploads/2017/05/Ramen_bowls.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2017/05/Ramen_bowls-500x500.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2017/05/Ramen_bowls-500x375.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2017/05/Ramen_bowls-480x270.jpg"
+  ],
+  "keywords": "Lightened-Up Veggie Ramen Bowls, vegetaian ramen bowls",
+  "name": "Veggie Ramen Bowls",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "295 kcal",
+    "carbohydrateContent": "32 g",
+    "cholesterolContent": "164 mg",
+    "fatContent": "13 g",
+    "fiberContent": "5 g",
+    "proteinContent": "14 g",
+    "saturatedFatContent": "4 g",
+    "servingSize": "1 serving",
+    "sodiumContent": "1295 mg",
+    "sugarContent": "6 g",
+    "transFatContent": "1 g",
+    "unsaturatedFatContent": "8 g"
+  },
+  "prepTime": "PT12M",
+  "recipeCategory": "Main Course",
+  "recipeCuisine": "American",
+  "recipeIngredient": [
+    "1 tablespoon olive oil",
+    "1 bunch scallions (sliced, whites and greens separated)",
+    "1 carrot (large, peeled and chopped)",
+    "3 ounces shiitake mushrooms (stems removed and sliced)",
+    "1 tablespoon grated fresh ginger",
+    "6 cups vegetable broth",
+    "1 tablespoon soy sauce (low sodium or substitute tamari)",
+    "16 ounces bok choy (stems and leaves separated, then sliced)",
+    "4 ounces dry ramen noodles",
+    "2 tablespoons white miso paste",
+    "1 jalapeño pepper (small, sliced, for serving)",
+    "4 soft boiled eggs (prepared, for serving)"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Add the olive oil to a large stockpot set over medium heat. When hot, add in the scallion whites, the carrot and the mushrooms. Cook for about 5 minutes, until softened. Add in the garlic and ginger, and cook for 30 seconds to 1 minute, until fragrant. Add in the broth, soy sauce and the bok choy stems. Bring the mixture just barely to a boil, then reduce the heat and simmer for 15 minutes."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add in the the ramen noodles and bok choy leaves. Continue to simmer, adjusting the heat as needed, for about 4 to 6 minutes, or until the noodles are just tender. Remove from the heat. Carefully ladle a scoop of the broth into a small bowl. Add in the miso paste and whisk to combine. Add the mixture back to the pot and stir to combine. Taste and adjust seasonings as desired."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Serve the ramen topped with the scallion greens, sliced jalapeño and soft boiled eggs."
+    }
+  ],
+  "recipeYield": "4",
+  "sameAs": [
+    "https://ohmyveggies.com/lightened-up-veggie-ramen-bowls"
+  ],
+  "suitableForDiet": [
+    "https://schema.org/GlutenFreeDiet",
+    "https://schema.org/VeganDiet",
+    "https://schema.org/VegetarianDiet"
+  ],
+  "totalTime": "PT50M",
+  "updatedAt": "2022-12-04T16:37:53.110Z"
+}

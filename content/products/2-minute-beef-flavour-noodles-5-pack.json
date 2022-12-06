@@ -1,0 +1,50 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "370g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.35 per 100G"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Made in Malaysia"
+    }
+  ],
+  "brand": "Maggi",
+  "createdAt": "2022-12-05T22:14:22.814Z",
+  "description": "Maggi 2 Minute Beef Flavour Noodles 5 Pack",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/3/6/5366983.jpg",
+  "name": "2 Minute Beef Flavour Noodles 5 Pack",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 5,
+    "lowPrice": 5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-05T22:14:22.813Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "5.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/maggi-2-minute-noodles-beef"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/maggi-2-minute-noodles-beef"
+  ],
+  "sku": "5366983",
+  "updatedAt": "2022-12-05T22:14:22.814Z"
+}

@@ -1,0 +1,54 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "wheat flour, prawn (10%), palm oil (contains antioxidant 321), seasoning [shrimp powder, squid powder, sugar, salt, flavour enhancers (621,635), milk powder, spices, dextrose, shrimp flavour, soy protein], sugar, salt"
+    },
+    {
+      "name": "Size",
+      "value": "100g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$3.00 per 100G"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Made in Thailand"
+    }
+  ],
+  "brand": "Hanami",
+  "createdAt": "2022-12-05T10:38:17.093Z",
+  "description": "Hanami Prawn Crackers are one of the favourite snacks in Asia! They are a crunchy baked shrimp snack which is made from crushed prawns and wheat flour. It is the perfect snack for the family.",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/7/3/3737100.jpg",
+  "name": "Original Prawn Cracker",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3,
+    "lowPrice": 3,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-05T10:38:17.093Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "3.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/hanami-original-prawn-cracker"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/hanami-original-prawn-cracker"
+  ],
+  "sku": "3737100",
+  "updatedAt": "2022-12-05T10:38:17.093Z"
+}

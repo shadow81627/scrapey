@@ -1,0 +1,50 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Butane-Isobutane-Propane, Alcohol Denat, Parfum/Fragrance, Propylene Glycol, Limonene, Linalool, Triethyl Citrate, Ethylhexylglycerin, Hydroxysohexyl 3-Cyclohexene Carboxaldehyde, Hydroxycitronellal, Eugenol, Citral, BHT, Butylphenyl Methyl propional, Geraniol, Coumarin, Benzyl Salicylate."
+    },
+    {
+      "name": "Size",
+      "value": "150mL"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$5.33 per 100mL"
+    }
+  ],
+  "brand": "Beckham",
+  "createdAt": "2022-12-06T00:24:18.513Z",
+  "description": "Beckham Instinct Deodorant Body Spray",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/6/4/2649267.jpg",
+  "name": "Instinct Deodorant Body Spray",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 8,
+    "lowPrice": 8,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T00:24:18.512Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "8.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/beckham-instinct-deodorant-body-spray"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/beckham-instinct-deodorant-body-spray"
+  ],
+  "sku": "2649267",
+  "updatedAt": "2022-12-06T00:24:18.512Z"
+}

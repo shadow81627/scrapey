@@ -1,0 +1,52 @@
+{
+  "@type": "Product",
+  "additionalProperty": [],
+  "aggregateRating": {
+    "@context": "http://schema.org",
+    "@type": "AggregateRating",
+    "ratingCount": 508,
+    "ratingValue": 3.68503937007874
+  },
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Plantitude"
+  },
+  "createdAt": "2022-12-05T10:36:10.119Z",
+  "description": "Golden falafels with a slight nutty flavour, made following a traditional recipe with chickpeas, broad beans & aromatic spices. This is plants, with a bit of attitude!\n\nNo artificial colours or flavours\nHigh fibre\nSource of protein",
+  "gtin13": "9339687239894",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/143762.jpg",
+  "name": "Plantitude Falafel Falafel 315g",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 5,
+    "lowPrice": 5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-12-05T10:36:10.116Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 5,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/143762/plantitude-falafel-falafel"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/143762/plantitude-falafel-falafel"
+  ],
+  "sku": "143762",
+  "updatedAt": "2022-12-05T10:36:10.116Z"
+}

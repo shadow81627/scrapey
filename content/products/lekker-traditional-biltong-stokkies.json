@@ -1,0 +1,62 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Beef, Salt, Sugar, Spices, Vinegar, Flavour Enhancer (621)."
+    },
+    {
+      "name": "Dietary",
+      "value": "No Preservatives, 97% Fat Free"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "2.0"
+    },
+    {
+      "name": "Size",
+      "value": "100g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$12.40 per 100G"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Product of Australia"
+    }
+  ],
+  "brand": "Protea Foods",
+  "createdAt": "2022-12-05T06:19:09.073Z",
+  "description": "Air-Dried Premium Australian Beef.",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/7/2/0/7201984.jpg",
+  "name": "Lekker Traditional Biltong Stokkies",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 12.4,
+    "lowPrice": 12.4,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-05T06:19:09.072Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "12.40",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/lekker-biltong-stokkies-traditional"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/lekker-biltong-stokkies-traditional"
+  ],
+  "sku": "7201984",
+  "updatedAt": "2022-12-05T06:19:09.072Z"
+}

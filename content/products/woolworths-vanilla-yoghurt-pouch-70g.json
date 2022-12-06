@@ -1,0 +1,66 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "Approx.220kJ",
+      "carbohydrateContent": "Approx.7.8g",
+      "dietary_fibre": "Approx. 0.7g",
+      "fatContent": "Approx.1.1g",
+      "name": "nutrition",
+      "proteinContent": "Approx.2.9g",
+      "saturatedFatContent": "&lt;1g",
+      "servingSize": "100 g",
+      "sodiumContent": "Approx.20mg",
+      "sugarContent": "Approx.6.2g"
+    }
+  ],
+  "aggregateRating": {
+    "@context": "http://schema.org",
+    "@type": "AggregateRating",
+    "ratingCount": 966,
+    "ratingValue": 4.37370600414079
+  },
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Woolworths"
+  },
+  "createdAt": "2022-12-05T13:54:30.402Z",
+  "description": "Taste tested by kids1\n1 32 out of 34 kids surveyed by Woolworths said they liked this product.",
+  "gtin13": "9300633559052",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/891954.jpg",
+  "name": "Woolworths Vanilla Yoghurt Pouch 70G",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 0.75,
+    "lowPrice": 0.75,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-12-05T13:54:30.398Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 0.75,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/891954/woolworths-vanilla-yoghurt-pouch"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/891954/woolworths-vanilla-yoghurt-pouch"
+  ],
+  "sku": "891954",
+  "updatedAt": "2022-12-05T13:54:30.398Z"
+}

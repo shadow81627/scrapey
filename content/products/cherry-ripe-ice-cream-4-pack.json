@@ -1,0 +1,54 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Allergen",
+      "value": "Contains Soybean, May Contain Peanuts, May Contain Tree Nuts, Contains Milk"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "4.0"
+    },
+    {
+      "name": "Size",
+      "value": "360mL"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$2.64 per 100mL"
+    }
+  ],
+  "brand": "Cadbury",
+  "createdAt": "2022-12-05T13:07:04.646Z",
+  "description": "Cadbury Cherry Ripe flavour with fine coconut pieces coated in Old Gold rich dark chocolate.",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/7/7/3775336.jpg",
+  "name": "Cherry Ripe Ice Cream 4 Pack",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 9.5,
+    "lowPrice": 9.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-05T13:07:04.646Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "9.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/cadbury-cherry-ripe-ice-cream"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/cadbury-cherry-ripe-ice-cream"
+  ],
+  "sku": "3775336",
+  "updatedAt": "2022-12-05T13:07:04.646Z"
+}

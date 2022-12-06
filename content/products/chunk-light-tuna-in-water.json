@@ -1,0 +1,58 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Light Tuna, Water, Salt."
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "2.0"
+    },
+    {
+      "name": "Size",
+      "value": "170g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$17.65 per 1Kg"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Made in USA"
+    }
+  ],
+  "brand": "Gefen",
+  "createdAt": "2022-12-04T18:28:56.397Z",
+  "description": "Gefen chunk light tuna in water is perfect to enjoy in a tuna salad sandwich. Kosher for Passover and year-round use. Enriched with protein and omega 3. perfect fit for today's active lifestyle. Country of Origin: United States",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/9/2/3/9238566.jpg",
+  "name": "Chunk Light Tuna In Water",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3,
+    "lowPrice": 3,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-04T18:28:56.396Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "3.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/gefen-tuna-chunks-light-in-water"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/gefen-tuna-chunks-light-in-water"
+  ],
+  "sku": "9238566",
+  "updatedAt": "2022-12-04T18:28:56.396Z"
+}

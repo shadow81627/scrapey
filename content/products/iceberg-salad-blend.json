@@ -1,0 +1,54 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "<strong>INGREDIENTS:</strong> Australian Iceberg Lettuce (60%), Australian Cabbage (20%), Australian Carrot (20%). Ingredients and percentages may vary due to processing and seasonal variability."
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "4.0"
+    },
+    {
+      "name": "Size",
+      "value": "300g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$10.00 per 1Kg"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2022-12-06T05:47:43.385Z",
+  "description": "Coles Proudly Grown Australian Iceberg Blend Peppery & Tender - Sweet & Crisp- Sandwich and roll fillings : Growing Together Australian Farmers",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/4/5/5450831.jpg",
+  "name": "Iceberg Salad Blend",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3,
+    "lowPrice": 3,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T05:47:43.384Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "3.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-market-place-salad-crunchy-prepacked"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/coles-market-place-salad-crunchy-prepacked"
+  ],
+  "sku": "5450831",
+  "updatedAt": "2022-12-06T05:47:43.384Z"
+}

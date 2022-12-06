@@ -1,0 +1,60 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "637kJ",
+      "carbohydrateContent": "21.2g",
+      "dietary_fibre": "-",
+      "fatContent": "5.9g",
+      "name": "nutrition",
+      "proteinContent": "3.4g",
+      "saturatedFatContent": "3.8g",
+      "servingSize": "100 g",
+      "sodiumContent": "67mg",
+      "sugarContent": "18.5g"
+    }
+  ],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Pauls"
+  },
+  "createdAt": "2022-12-05T21:01:57.626Z",
+  "description": "<p>Pauls Double Thick Custard Rich Chocolate is a source of calcium.<br/><br/></p><p>At Pauls, we love dairy and put that passion into every Pauls milk, cream, custard and yoghurt we make.</p><p>Pauls Double Thick Rich Chocolate Custard is a decadent, extra creamy custard the whole family can enjoy. It's perfect on its own, but why not try it in our delicious Brownie Trifle Jar recipe!</p><p>- No artificial colours or preservatives.</p><p>- Gluten free.</p><p>Source of calcium</p>",
+  "gtin13": "9310036039631",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/344082.jpg",
+  "name": "Pauls Double Thick Custard Rich Chocolate 900g",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 6.5,
+    "lowPrice": 6.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-12-05T21:01:57.626Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 6.5,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/344082/pauls-double-thick-custard-rich-chocolate"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/344082/pauls-double-thick-custard-rich-chocolate"
+  ],
+  "sku": "344082",
+  "updatedAt": "2022-12-05T21:01:57.626Z"
+}

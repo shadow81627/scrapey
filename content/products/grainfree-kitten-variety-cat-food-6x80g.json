@@ -1,0 +1,54 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Real Chicken in Mousse: Water, Chicken, Tapioca Starch, Guar Gum, Fish Oil. Real Tuna in Mousse: Water, Tuna, Tapioca Starch, Guar Gum, Fish Oil"
+    },
+    {
+      "name": "Contains",
+      "value": "6"
+    },
+    {
+      "name": "Size",
+      "value": "6 pack"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.98 per 100G"
+    }
+  ],
+  "brand": "Farmers Market",
+  "createdAt": "2022-12-05T12:09:00.191Z",
+  "description": "Farmers Market Grainfree Kitten Variety Cat Food 6x80g",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/4/5/0/4505530.jpg",
+  "name": "Grainfree Kitten Variety Cat Food 6x80g",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 9.5,
+    "lowPrice": 9.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-05T12:09:00.191Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "9.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/cat-fod-kitten-variety"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/cat-fod-kitten-variety"
+  ],
+  "sku": "4505530",
+  "updatedAt": "2022-12-05T12:09:00.191Z"
+}

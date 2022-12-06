@@ -1,0 +1,62 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "INGREDIENTS: Cream (Milk), Water, Salt. Minimum 80% Milk Fat."
+    },
+    {
+      "name": "Allergen",
+      "value": "Contains MILK"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "50.0"
+    },
+    {
+      "name": "Size",
+      "value": "250g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.48 per 100G"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Product of New Zealand"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2022-12-04T18:22:37.577Z",
+  "description": "Coles Dairy salted butter, 250g. A rich, smooth and creamy butter. Ideal for toasts and sandwiches. Product of New Zealand.",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/1/6/3169835.jpg",
+  "name": "Salted Butter",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3.7,
+    "lowPrice": 3.7,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-04T18:22:37.576Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "3.70",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-salted-butter"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/coles-salted-butter"
+  ],
+  "sku": "3169835",
+  "updatedAt": "2022-12-04T18:22:37.576Z"
+}

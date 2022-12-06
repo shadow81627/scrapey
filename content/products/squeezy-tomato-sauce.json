@@ -1,0 +1,54 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Tomato Puree from 100% Australian Grown Tomatoes (76%)(Water, Tomato Paste), Sugar, Salt, Acidity Regulator (260,330), Flavour."
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "33.0"
+    },
+    {
+      "name": "Size",
+      "value": "500mL"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.66 per 100mL"
+    }
+  ],
+  "brand": "Rosella",
+  "createdAt": "2022-12-05T20:37:22.669Z",
+  "description": "Rosella Tomato Sauce is 100% vine-ripened, gluten-free and Australia made & owned.",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/9/7/3/9735946.jpg",
+  "name": "Squeezy Tomato Sauce",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3.3,
+    "lowPrice": 3.3,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-05T20:37:22.669Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "3.30",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/rosella-tomato-sauce-9735946p"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/rosella-tomato-sauce-9735946p"
+  ],
+  "sku": "9735946",
+  "updatedAt": "2022-12-05T20:37:22.669Z"
+}

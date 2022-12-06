@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "400mL"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$3.13 per 100mL"
+    }
+  ],
+  "brand": "Sun Genius",
+  "createdAt": "2022-12-06T05:59:27.723Z",
+  "description": "UVA & UVB Broad spectrum Up to 4 hour Water Resistant A lightweight, non-greasy sunscreen enriched with Australian Kakadu Plum extract With Aloe Vera & Kakadu Plum to hydrate & condition skin",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/4/3/6/4365205.jpg",
+  "name": "Hydrating Sunscreen Lotion Pump SPF 50+",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 12.5,
+    "lowPrice": 12.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T05:59:27.722Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "12.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/sunscren-lotion-pump"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/sunscren-lotion-pump"
+  ],
+  "sku": "4365205",
+  "updatedAt": "2022-12-06T05:59:27.722Z"
+}

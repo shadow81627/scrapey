@@ -1,0 +1,60 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "335.00kJ",
+      "carbohydrateContent": "1.40g",
+      "dietary_fibre": "-",
+      "fatContent": "5.90g",
+      "name": "nutrition",
+      "proteinContent": "5.40g",
+      "saturatedFatContent": "2.40g",
+      "servingSize": "100 g",
+      "sodiumContent": "345.00mg",
+      "sugarContent": "1.00g"
+    }
+  ],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "D'Orsogna"
+  },
+  "createdAt": "2022-12-05T21:14:13.907Z",
+  "description": "You'll love this snack stick! Tasty and mild, these are a perfect addition to your lunchbox or light meal with a satisfying great taste, just enough to satisfy that snack crave. This delicious combination of succulent pork and the rush of mild spices with a hint of wood smoke will simply keep you coming back for more. Cut in half on a plate or served vertically in a jar, they?re a hit at any gathering and fantastic for Tapas style dining.",
+  "gtin13": "0272169000003",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/381344.jpg",
+  "name": "D'orsogna Tasty Sticks Mild From The Deli Per Kg",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 33.5,
+    "lowPrice": 33.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-12-05T21:14:13.907Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 33.5,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/381344/d-orsogna-tasty-sticks-mild-from-the-deli"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/381344/d-orsogna-tasty-sticks-mild-from-the-deli"
+  ],
+  "sku": "381344",
+  "updatedAt": "2022-12-05T21:14:13.907Z"
+}

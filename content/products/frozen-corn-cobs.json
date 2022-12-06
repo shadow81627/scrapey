@@ -1,0 +1,58 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "<p><strong>INGREDIENTS:</strong> Corn (100%).</p>"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "4.0"
+    },
+    {
+      "name": "Warning",
+      "value": "PACKAGING MAY BE PERFORATED FOR PRODUCT AIRFLOW AND STACKING PURPOSES"
+    },
+    {
+      "name": "Size",
+      "value": "1kg"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$3.00 per 1Kg"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2022-12-05T15:18:17.592Z",
+  "description": "100% Australian Grown. We're very proud of our 100% Australian grown vegetables from Aussie farmers like Matthew, James, Justin and Michael. Carefully picked and snap frozen, our vegetables provide you with great quality produce, no matter what the season.",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/9/3/293565.jpg",
+  "name": "Frozen Corn Cobs",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3,
+    "lowPrice": 3,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-05T15:18:17.591Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "3.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-corn-cobs-frozen"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/coles-corn-cobs-frozen"
+  ],
+  "sku": "293565",
+  "updatedAt": "2022-12-05T15:18:17.591Z"
+}

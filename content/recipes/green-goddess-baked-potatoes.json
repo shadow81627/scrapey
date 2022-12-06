@@ -1,0 +1,82 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1",
+    "ratingValue": "5"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Oh My Veggies"
+  },
+  "cookTime": "PT60M",
+  "createdAt": "2022-12-04T18:47:16.706Z",
+  "datePublished": "2016-03-28T10:09:44+00:00",
+  "description": "Baked sweet potatoes topped with crisp broccoli, chickpeas and a lightened up version of green goddess dressing.",
+  "image": [
+    "https://ohmyveggies.com/wp-content/uploads/2016/03/Green_goddess_baked_potatoes3.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2016/03/Green_goddess_baked_potatoes3-500x400.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2016/03/Green_goddess_baked_potatoes3-500x375.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2016/03/Green_goddess_baked_potatoes3-480x270.jpg"
+  ],
+  "keywords": "baked sweet potatoes, Green Goddess Baked Potatoes",
+  "name": "Green Goddess Baked Potatoes",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "364 kcal",
+    "carbohydrateContent": "62 g",
+    "cholesterolContent": "2 mg",
+    "fatContent": "10 g",
+    "fiberContent": "13 g",
+    "proteinContent": "11 g",
+    "saturatedFatContent": "2 g",
+    "servingSize": "1 serving",
+    "sodiumContent": "281 mg",
+    "sugarContent": "13 g",
+    "unsaturatedFatContent": "7 g"
+  },
+  "prepTime": "PT15M",
+  "recipeCategory": "Main Course",
+  "recipeCuisine": "American",
+  "recipeIngredient": [
+    "4 medium sweet potatoes (pierced with a fork)",
+    "1 1/2 tablespoons olive oil (plus extra for rubbing)",
+    "1/2 small onion (chopped)",
+    "2 cloves garlic (minced)",
+    "3 1/2 cups bite-sized broccoli florets",
+    "1 cup cooked or canned chickpeas (rinsed)",
+    "Salt and pepper (to taste)",
+    "1/2 cup diced ripe avocado",
+    "1/4 cup plain Greek yogurt",
+    "1/4 cup milk",
+    "1 tablespoon lemon juice",
+    "1 clove garlic (minced)",
+    "1/4 cup thinly sliced green onion",
+    "1/4 cup loosely packed fresh parsley",
+    "1/4 cup loosely packed fresh basil leaves"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Preheat the oven to 375oF."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Rub the sweet potatoes lightly with olive oil, then wrap each individually in aluminum foil. Bake for about 60 minutes, or until tender (a knife should glide easily into the center without resistance)."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Meanwhile, add the 1 1/2 tablespoons olive oil to a medium skillet set over medium heat. When hot, add in the onion and cook for about 2 minutes, until it starts to soften. Stir in the garlic and cook for 30 seconds, until fragrant. Add in the broccoli and cook for about 3 to 5 minutes, until crisp tender. Remove from the heat and stir in the chickpeas, salt and pepper."
+    }
+  ],
+  "recipeYield": "4",
+  "sameAs": [
+    "https://ohmyveggies.com/green-goddess-baked-potatoes"
+  ],
+  "suitableForDiet": [
+    "https://schema.org/VeganDiet",
+    "https://schema.org/VegetarianDiet"
+  ],
+  "totalTime": "PT75M",
+  "updatedAt": "2022-12-04T18:47:16.705Z"
+}

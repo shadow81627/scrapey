@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "500g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$18.00 per 1Kg"
+    }
+  ],
+  "brand": "Lilydale",
+  "createdAt": "2022-12-06T03:47:18.269Z",
+  "description": "Lilydale Free Range Chicken Stir Fry",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/1/8/3/1833373.jpg",
+  "name": "Free Range Chicken Stir Fry",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 9,
+    "lowPrice": 9,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T03:47:18.268Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "9.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/lilydale--free-range-chicken-stir-fry"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/lilydale--free-range-chicken-stir-fry"
+  ],
+  "sku": "1833373",
+  "updatedAt": "2022-12-06T03:47:18.268Z"
+}

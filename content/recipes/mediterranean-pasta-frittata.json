@@ -1,0 +1,83 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1",
+    "ratingValue": "3"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Oh My Veggies"
+  },
+  "cookTime": "PT20M",
+  "createdAt": "2022-12-04T20:57:24.624Z",
+  "datePublished": "2016-04-11T09:07:36+00:00",
+  "description": "An easy and customizable pasta frittata filled with spinach, sun-dried tomatoes and feta. Adapted from Martha Stewart’s Penne Frittata with Basil and Ricotta.",
+  "image": [
+    "https://ohmyveggies.com/wp-content/uploads/2016/04/Mediterranean_pasta_frittata3.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2016/04/Mediterranean_pasta_frittata3-500x400.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2016/04/Mediterranean_pasta_frittata3-500x375.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2016/04/Mediterranean_pasta_frittata3-480x270.jpg"
+  ],
+  "keywords": "Mediterranean Pasta Frittata, pasta frittata",
+  "name": "Mediterranean Pasta Frittata",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "224 kcal",
+    "carbohydrateContent": "20 g",
+    "cholesterolContent": "171 mg",
+    "fatContent": "11 g",
+    "fiberContent": "2 g",
+    "proteinContent": "11 g",
+    "saturatedFatContent": "3 g",
+    "servingSize": "1 serving",
+    "sodiumContent": "260 mg",
+    "sugarContent": "4 g",
+    "transFatContent": "1 g",
+    "unsaturatedFatContent": "8 g"
+  },
+  "prepTime": "PT15M",
+  "recipeCategory": "Main Course",
+  "recipeCuisine": "American",
+  "recipeIngredient": [
+    "2 tablespoons olive oil (divided)",
+    "1 small red onion (chopped)",
+    "2 cloves garlic (minced)",
+    "2 cups chopped fresh baby spinach leaves",
+    "6 large eggs",
+    "1/2 cup whole milk",
+    "1/4 teaspoon salt (or to taste)",
+    "1/4 teaspoon crushed red pepper flakes (or to taste)",
+    "1/4 cup sun-dried tomatoes (patted dry and chopped)",
+    "1/4 cup crumbled feta cheese",
+    "3 cups cooked penne pasta",
+    "1/4 cup chopped fresh basil"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Preheat the oven to 400oF."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add 1 tablespoon of the olive oil to a 12-inch nonstick ovenproof skillet set over medium heat. When hot, add in the onion and cook for about 5 minutes, until tender and starting to brown. Stir in the garlic and cook for 30 seconds, until fragrant. Add the spinach to the skillet and cook until wilted. Remove from the heat and let cool for about 5 minutes."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "In a medium bowl, whisk together the eggs, milk, salt and red pepper flakes. Add in the tomatoes, feta, pasta, basil and the cooled veggie mixture. Stir to combine."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Set the same skillet back over medium heat and add in the remaining 1 tablespoon olive oil. Once heated, swirl the pan to coat the bottom and sides of the skillet. Pour in the egg mixture and cook for about 2 minutes, until the edges are just starting to set. Transfer the skillet to the oven and cook for about 10 to 12 minutes, until the frittata is set. Let stand for at least 5 minutes before slicing. Serve warm or at room temperature."
+    }
+  ],
+  "recipeYield": "6",
+  "sameAs": [
+    "https://ohmyveggies.com/mediterranean-pasta-frittata"
+  ],
+  "suitableForDiet": [
+    "https://schema.org/VegetarianDiet"
+  ],
+  "totalTime": "PT35M",
+  "updatedAt": "2022-12-04T20:57:24.623Z"
+}

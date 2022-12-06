@@ -1,0 +1,37 @@
+{
+  "@type": "Product",
+  "additionalProperty": [],
+  "brand": "LOL",
+  "createdAt": "2022-12-05T11:10:40.815Z",
+  "description": "LOL Present Surprise Tots",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/7/7/3777830.jpg",
+  "name": "Present Surprise Tots",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 20,
+    "lowPrice": 20,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-05T11:10:40.814Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "20.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/lol-lights-glitter-doll"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/lol-lights-glitter-doll"
+  ],
+  "sku": "3777830",
+  "updatedAt": "2022-12-05T11:10:40.815Z"
+}

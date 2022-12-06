@@ -1,0 +1,50 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "71g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.28 per 10G"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Made in United Kingdom"
+    }
+  ],
+  "brand": "Oxo",
+  "createdAt": "2022-12-06T06:14:05.539Z",
+  "description": "Ramp up your risotto, roast chicken or casserole with the added deliciousness of our Chicken Cube",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/4/6/246102.jpg",
+  "name": "Chicken Stock Cubes",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2,
+    "lowPrice": 2,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T06:14:05.539Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "2.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/oxo-stock-cubes-chicken"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/oxo-stock-cubes-chicken"
+  ],
+  "sku": "246102",
+  "updatedAt": "2022-12-06T06:14:05.539Z"
+}

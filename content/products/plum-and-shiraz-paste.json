@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "100g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$4.85 per 100G"
+    }
+  ],
+  "brand": "Maggie Beer",
+  "createdAt": "2022-12-05T17:27:27.920Z",
+  "description": "This paste is a balance of sweet and tart plum flavours followed by the bold notes of shiraz. Its absolutely delicious paired with Triple Cream Brie, Bold Blue Cheese, or a subtle sheeps milk cheese.",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/6/3/3633626.jpg",
+  "name": "Plum And Shiraz Paste",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 4.85,
+    "lowPrice": 4.85,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-05T17:27:27.920Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "4.85",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/maggie-beer-plum-and-shiraz-paste"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/maggie-beer-plum-and-shiraz-paste"
+  ],
+  "sku": "3633626",
+  "updatedAt": "2022-12-05T17:27:27.920Z"
+}

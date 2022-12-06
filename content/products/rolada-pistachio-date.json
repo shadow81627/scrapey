@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "150g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$6.67 per 100G"
+    }
+  ],
+  "brand": "Star Foods",
+  "createdAt": "2022-12-05T17:36:57.816Z",
+  "description": "Inspired by her Grandmother, Suzana is carrying on the family tradition of making fruit treats people love.",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/0/5/3054731.jpg",
+  "name": "Rolada Pistachio Date",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 10,
+    "lowPrice": 10,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-05T17:36:57.816Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "10.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/star-foods-rolada-pistachio-date"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/star-foods-rolada-pistachio-date"
+  ],
+  "sku": "3054731",
+  "updatedAt": "2022-12-05T17:36:57.816Z"
+}

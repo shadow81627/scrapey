@@ -1,0 +1,45 @@
+{
+  "@type": "Product",
+  "additionalProperty": [],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Collapse A"
+  },
+  "createdAt": "2022-12-05T12:35:58.343Z",
+  "description": "Conveniently maximize your laundry space and minimize clutter with the Collapse A Soak Bucket. This handy bucket holds a capacity of up to 27L and is collapsible for easy storage and features a top handle for easy carrying. <br><br><p><strong>Product Features:</strong></p><ul><li>Minimize clutter</li><li>Soaking bucket</li><li>10L capacity</li><li>Collapsible</li><li>Handle to op for easy carrying</li></ul>",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/1073950170.jpg",
+  "name": "Collapse A 1EACH",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 12,
+    "lowPrice": 12,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-12-05T12:35:58.342Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 12,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/1073950170/collapse-a-soak-bucket-10l"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/1073950170/collapse-a-soak-bucket-10l"
+  ],
+  "sku": "1073950170",
+  "updatedAt": "2022-12-05T12:35:58.342Z"
+}

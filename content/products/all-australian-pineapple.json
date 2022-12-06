@@ -1,0 +1,58 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "100% Australian Mangoes Pieces"
+    },
+    {
+      "name": "Dietary",
+      "value": "No Added Sugars"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "2.7"
+    },
+    {
+      "name": "Size",
+      "value": "400g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.50 per 100G"
+    }
+  ],
+  "brand": "You Beaut",
+  "createdAt": "2022-12-06T02:15:16.107Z",
+  "description": "Taste the Aussie Difference",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/4/9/2/4926550.jpg",
+  "name": "All Australian Pineapple",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 6,
+    "lowPrice": 6,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/OutOfStock",
+        "availabilityStarts": "2022-12-06T02:15:16.106Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "6.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/all-australian-pineapple"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/all-australian-pineapple"
+  ],
+  "sku": "4926550",
+  "updatedAt": "2022-12-06T02:15:16.106Z"
+}

@@ -1,0 +1,42 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Unit Price",
+      "value": "$2.24 per 1Ea"
+    }
+  ],
+  "brand": "Sellotape",
+  "createdAt": "2022-12-04T23:35:03.790Z",
+  "description": "Masking tape is a crepe paper type that is easily torn by hand when required. It is ideal for masking applications during painting and other protective purposes.",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/1/8/3188534.jpg",
+  "name": "Masking Tape 24mmX18m",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2.24,
+    "lowPrice": 2.24,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-04T23:35:03.789Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "2.24",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/sellotape-masking-tape-sellotape-masking-tape"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/sellotape-masking-tape-sellotape-masking-tape"
+  ],
+  "sku": "3188534",
+  "updatedAt": "2022-12-04T23:35:03.789Z"
+}

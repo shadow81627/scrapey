@@ -1,0 +1,82 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "2",
+    "ratingValue": "5"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Oh My Veggies"
+  },
+  "cookTime": "PT10M",
+  "createdAt": "2022-12-04T20:14:56.713Z",
+  "datePublished": "2017-05-07T10:40:18+00:00",
+  "description": "This light and fresh orzo pasta salad with cherry tomatoes, mozzarella, basil, arugula and blueberries is the perfect side dish for Summer picnics and potlucks!",
+  "image": [
+    "https://ohmyveggies.com/wp-content/uploads/2017/04/Caprese_Orzo_Pasta_Salad_Blueberries.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2017/04/Caprese_Orzo_Pasta_Salad_Blueberries-500x500.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2017/04/Caprese_Orzo_Pasta_Salad_Blueberries-500x375.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2017/04/Caprese_Orzo_Pasta_Salad_Blueberries-480x270.jpg"
+  ],
+  "keywords": "Caprese Orzo Pasta Salad with Blueberries, orzo pasta salad, pasta salad recipe",
+  "name": "Caprese Orzo Pasta Salad with Blueberries",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "462 kcal",
+    "carbohydrateContent": "71 g",
+    "fatContent": "15 g",
+    "fiberContent": "4 g",
+    "proteinContent": "11 g",
+    "saturatedFatContent": "2 g",
+    "servingSize": "1 serving",
+    "sodiumContent": "166 mg",
+    "sugarContent": "14 g",
+    "unsaturatedFatContent": "12 g"
+  },
+  "prepTime": "PT10M",
+  "recipeCategory": "Main Course",
+  "recipeCuisine": "American",
+  "recipeIngredient": [
+    "2 cups dried orzo pasta",
+    "1 12-ounce container ciliegine mozzarella, drained",
+    "2 cups halved cherry tomatoes",
+    "2 cups loosely packed arugula",
+    "1 cup fresh blueberries",
+    "1/4 cup fresh basil leaves (torn)",
+    "1/4 cup olive oil",
+    "3 tablespoons fresh squeezed lemon juice",
+    "2 tablespoons balsamic vinegar",
+    "1 tablespoon honey",
+    "1/4 teaspoon salt",
+    "1/4 teaspoon black pepper"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Bring a large pot of water to a boil. Add the orzo pasta and cook according to the package instructions until al dente, about 9 minutes. Drain the orzo into a colander and let it cool for 5 minutes."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Meanwhile, whisk together all of the ingredients for the dressing in a small bowl. Set aside."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Transfer the drained orzo to a large bowl. While it’s still slightly warm, add the dressing and toss until well coated. Then stir in the mozzarella, tomatoes, arugula, blueberries and basil."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "The pasta salad can be enjoyed immediately, or you can cover it and place it in your refrigerator to chill for several hours before serving."
+    }
+  ],
+  "recipeYield": "4",
+  "sameAs": [
+    "https://ohmyveggies.com/caprese-orzo-pasta-salad"
+  ],
+  "suitableForDiet": [
+    "https://schema.org/VeganDiet",
+    "https://schema.org/VegetarianDiet"
+  ],
+  "totalTime": "PT20M",
+  "updatedAt": "2022-12-04T20:14:56.712Z"
+}

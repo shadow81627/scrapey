@@ -1,0 +1,50 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "240g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.17 per 100G"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Made in Thailand"
+    }
+  ],
+  "brand": "Curry & Co",
+  "createdAt": "2022-12-05T20:05:10.186Z",
+  "description": "Curry & Co Green Curry Paste",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/4/3/1/4312038.jpg",
+  "name": "Green Curry Paste",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2.8,
+    "lowPrice": 2.8,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-05T20:05:10.185Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "2.80",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/gren-curry-paste"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/gren-curry-paste"
+  ],
+  "sku": "4312038",
+  "updatedAt": "2022-12-05T20:05:10.185Z"
+}

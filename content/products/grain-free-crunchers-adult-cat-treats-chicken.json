@@ -1,0 +1,50 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Meat meals and meat by-products (poultry and beef) and/or poultry by-product meal, vegetable meal and vegetables, palatants, tallow (poultry and/or beef), vegetable starch, vegetable pulp, salt, natural antioxidant."
+    },
+    {
+      "name": "Size",
+      "value": "100g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$2.45 per 100G"
+    }
+  ],
+  "brand": "Fussy Cat",
+  "createdAt": "2022-12-06T06:24:58.787Z",
+  "description": "Fussy Cat Grain Free Crunchers Adult Cat Treats Chicken",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/4/2/3/4239437.jpg",
+  "name": "Grain Free Crunchers Adult Cat Treats Chicken",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2.45,
+    "lowPrice": 2.45,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T06:24:58.786Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "2.45",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/crunchers-chckn-trts"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/crunchers-chckn-trts"
+  ],
+  "sku": "4239437",
+  "updatedAt": "2022-12-06T06:24:58.786Z"
+}

@@ -1,50 +1,51 @@
 {
   "@type": "Recipe",
-  "createdAt": "2022-11-23T23:43:51.000Z",
-  "datePublished": "2021-03-10",
-  "description": "Try our easy to follow Fresh Cold Seafood Platter recipe. Absolutely delicious with the best ingredients from Woolworths.",
-  "image": {
-    "@type": "ImageObject",
-    "height": 1300,
-    "mime": "image/png",
-    "url": "https://foodhub.scene7.com/is/image/woolworthsltdprod/0912_freshcoldseafoodplatter?wid=1300&hei=1300&fmt=png-alpha",
-    "width": 1300
+  "author": {
+    "@type": "Person",
+    "name": "Fresh Ideas"
   },
-  "keywords": "Fresh Cold Seafood Platter",
+  "cookTime": "PT0M",
+  "createdAt": "2022-11-23T23:43:51.000Z",
+  "datePublished": "2022-09-26",
+  "description": "Try our easy to follow Fresh Cold Seafood Platter recipe. Absolutely delicious with the best ingredients from Woolworths.",
+  "image": [
+    "https://foodhub.scene7.com/is/image/woolworthsltdprod/0912_freshcoldseafoodplatter:Square-1300x1300"
+  ],
+  "keywords": "Platter,Pescatarian,Prawn,Gluten free,Tree nut free,Egg free,Seafood,Sesame free,Christmas,Soy free,Wheat free,Easter,Dairy free,Peanut free",
   "name": "Fresh Cold Seafood Platter Recipe | Woolworths",
   "prepTime": "PT5M",
-  "recipeCategory": "mains",
-  "recipeCuisine": "australian",
+  "recipeCategory": "Mains",
+  "recipeCuisine": "Australian",
   "recipeId": "1301",
   "recipeIngredient": [
     "2 lobsters",
-    "1 kg fresh prawns",
+    "1kg fresh prawns, cooked",
     "1 tbs capers",
     "0.5 cup French dressing",
     "1 lemon",
-    "1 pepper",
-    "1 tbs chives",
+    "1 pepper, pinch (to season)",
+    "1 tbs chives, chopped",
     "2 tbs lime juice",
-    "1 pinch sea salt ground"
+    "1 pinch sea salt ground (to taste)"
   ],
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Serve with easy lime dressing: French dressing, lime juice, capers, chopped chives and salt and pepper."
+      "HowToTip": {},
+      "text": "Arrange on a plater fresh cooked prawns with halved lobsters and lemon wedges."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
+      "HowToTip": {},
       "text": "Serve with easy lime dressing: French dressing, lime juice, capers, chopped chives and salt and pepper."
     }
   ],
   "recipeNameId": "fresh-cold-seafood-platter",
   "recipeYield": "4",
   "sameAs": [
-    "https://woolworths.com.au/shop/find-recipes/cold-seafood-platter-ideas"
+    "https://woolworths.com.au/shop/recipedetail/1301/fresh-cold-seafood-platter"
   ],
   "totalTime": "PT5M",
-  "updatedAt": "2022-11-24T17:57:37.712Z",
+  "updatedAt": "2022-12-06T05:38:28.718Z",
   "url": "https://www.woolworths.com.au/shop/recipes/fresh-cold-seafood-platter"
 }

@@ -1,0 +1,50 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "10 pack"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.38 per 1Ea"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Made in China"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2022-12-05T13:15:35.848Z",
+  "description": "Coles Kids Coloured Hangers, 10pk. Made from a durable plastic and a space saving design to keep your kids wardrobe organised.",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/3/0/5307690.jpg",
+  "name": "Coloured Kids Hangers",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3.8,
+    "lowPrice": 3.8,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-05T13:15:35.847Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "3.80",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-hangers-plastic-coloured-kids"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/coles-hangers-plastic-coloured-kids"
+  ],
+  "sku": "5307690",
+  "updatedAt": "2022-12-05T13:15:35.847Z"
+}

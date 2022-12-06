@@ -1,0 +1,58 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Steamed Brown Rice 76%, Steamed Red Rice 11%, Steamed Wild Rice 11%, Vegetable Oil."
+    },
+    {
+      "name": "Dietary",
+      "value": "No Preservatives"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "2.0"
+    },
+    {
+      "name": "Size",
+      "value": "250g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.20 per 100G"
+    }
+  ],
+  "brand": "Ben's",
+  "createdAt": "2022-12-05T05:50:30.727Z",
+  "description": "Ben's Original Brown Red And Wild Medley Rice Pouch",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/2/3/2236303.jpg",
+  "name": "Original Brown Red And Wild Medley Rice Pouch",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3,
+    "lowPrice": 3,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-05T05:50:30.726Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "3.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/uncle-bens-rice-medley"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/uncle-bens-rice-medley"
+  ],
+  "sku": "2236303",
+  "updatedAt": "2022-12-05T05:50:30.727Z"
+}

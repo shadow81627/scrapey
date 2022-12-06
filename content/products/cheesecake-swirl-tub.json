@@ -1,0 +1,50 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "473mL"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$2.64 per 100mL"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Made in Australia"
+    }
+  ],
+  "brand": "Gelatissimo Gelato",
+  "createdAt": "2022-12-05T07:17:40.879Z",
+  "description": "Gelatissimo Gelato Cheesecake Swirl Tub",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/4/9/5496989.jpg",
+  "name": "Cheesecake Swirl Tub",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 12.5,
+    "lowPrice": 12.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/OutOfStock",
+        "availabilityStarts": "2022-12-05T07:17:40.879Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "12.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/cheesecake-swirl-tub-5496989p-1"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/cheesecake-swirl-tub-5496989p-1"
+  ],
+  "sku": "5496989",
+  "updatedAt": "2022-12-05T07:17:40.879Z"
+}

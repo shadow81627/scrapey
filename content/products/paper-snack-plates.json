@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "50 pack"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.06 per 1Ea"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2022-12-04T16:33:22.207Z",
+  "description": "The Coles Paper Snack Plates are suitable for entertaining such as outdoor picnics or birthday parties. 180mm. Not suitable for microwave use",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/8/6/3864072.jpg",
+  "name": "Paper Snack Plates",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3.15,
+    "lowPrice": 3.15,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-04T16:33:22.207Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "3.15",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/cok-dine-paper-snack-plates"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/cok-dine-paper-snack-plates"
+  ],
+  "sku": "3864072",
+  "updatedAt": "2022-12-04T16:33:22.207Z"
+}

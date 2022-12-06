@@ -1,0 +1,58 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "DURUM WHEAT SEMOLINA PASTA Ingredients- durum wheat semolina, water."
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "6.0"
+    },
+    {
+      "name": "Size",
+      "value": "250g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.44 per 100G"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Made in Italy"
+    }
+  ],
+  "brand": "Barilla",
+  "createdAt": "2022-12-04T14:49:02.734Z",
+  "description": "Barilla Collezione Samolina Lasagne",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/4/6/7/4670752.jpg",
+  "name": "Collezione Samolina Lasagne",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3.6,
+    "lowPrice": 3.6,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-04T14:49:02.734Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "3.60",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/barilla-pasta-lasagne-sheets"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/barilla-pasta-lasagne-sheets"
+  ],
+  "sku": "4670752",
+  "updatedAt": "2022-12-04T14:49:02.734Z"
+}

@@ -1,0 +1,50 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Water (Aqua) 99.9% Citrus Grandis (Grapefruit) Seed Extract 0.1%"
+    },
+    {
+      "name": "Size",
+      "value": "180 pack"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$11.11 per 100Ea"
+    }
+  ],
+  "brand": "WaterWipes",
+  "createdAt": "2022-12-05T14:52:13.565Z",
+  "description": "WaterWipes Fragrance Free Sensitive Skin 180 Baby Wipes",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/1/5/3155863.jpg",
+  "name": "Fragrance Free Sensitive Skin 180 Baby Wipes",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 20,
+    "lowPrice": 20,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-05T14:52:13.564Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "20.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/waterwipes-baby-wipes"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/waterwipes-baby-wipes"
+  ],
+  "sku": "3155863",
+  "updatedAt": "2022-12-05T14:52:13.564Z"
+}

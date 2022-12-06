@@ -1,0 +1,42 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Unit Price",
+      "value": "$25.00 per 1Ea"
+    }
+  ],
+  "brand": "Smash",
+  "createdAt": "2022-12-06T01:20:44.860Z",
+  "description": "Smash Ceramic Lined Barista Cup 350ML5 hours HotCeramic LinedPure TasteAntimicrobial SealsRemovable SliderRounded base.",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/1/1/5119022.jpg",
+  "name": "Blue Stainless Steel Barista Cup 350mL",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 25,
+    "lowPrice": 25,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/OutOfStock",
+        "availabilityStarts": "2022-12-06T01:20:44.860Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "25.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/smash-blue-barista-cup"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/smash-blue-barista-cup"
+  ],
+  "sku": "5119022",
+  "updatedAt": "2022-12-06T01:20:44.860Z"
+}

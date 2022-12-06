@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Quilton"
+  },
+  "createdAt": "2022-12-06T00:00:16.686Z",
+  "description": "<div><strong><em>Tissues are now limited to 2 packs per customer, per shop.<br><br></em></strong>Extra thick and soft 4 ply facial tissue with added aloe vera</div>",
+  "gtin13": "9311505810041",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/644240.jpg",
+  "name": "Quilton Gold 4 Ply Tissues Aloe Vera 100 Pack",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2.5,
+    "lowPrice": 2.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T00:00:16.685Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 2.5,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/644240/quilton-gold-4-ply-tissues-aloe-vera"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/644240/quilton-gold-4-ply-tissues-aloe-vera"
+  ],
+  "sku": "644240",
+  "updatedAt": "2022-12-06T00:00:16.685Z"
+}

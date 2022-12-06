@@ -1,0 +1,50 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Warning",
+      "value": "Remove all Packaging before use. Please retain this information for future reference."
+    },
+    {
+      "name": "Size",
+      "value": "4 pack"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$4.00 per 1Ea"
+    }
+  ],
+  "brand": "Cook & Dine",
+  "createdAt": "2022-12-04T17:20:08.677Z",
+  "description": "Set of four glass tumblers in traditional embossed design. Classic shape and size for everyday use.",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/7/8/3784166.jpg",
+  "name": "Embossed Glass Tumblers",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 16,
+    "lowPrice": 16,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-04T17:20:08.676Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "16.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/cok-dine-embossed-tumblers"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/cok-dine-embossed-tumblers"
+  ],
+  "sku": "3784166",
+  "updatedAt": "2022-12-04T17:20:08.676Z"
+}

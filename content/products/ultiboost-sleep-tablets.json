@@ -11,50 +11,44 @@
     },
     {
       "name": "Size",
-      "value": "100 pack"
+      "value": "60 pack"
     },
     {
       "name": "Unit Price",
-      "value": "$0.40 per 1Ea"
+      "value": "$45.00 per 100Ea"
     }
   ],
   "brand": "Swisse",
   "createdAt": "2022-11-24T08:45:23.000Z",
   "description": "Swisse Ultiboost Sleep Tablets",
-  "image": {
-    "@type": "ImageObject",
-    "height": 300,
-    "mime": "image/jpeg",
-    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/8/0/9/8098870.jpg",
-    "width": 300
-  },
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/6/9/4/6940778.jpg",
   "name": "Ultiboost Sleep Tablets",
   "offers": {
     "@type": "AggregateOffer",
-    "highPrice": 40,
-    "lowPrice": 40,
+    "highPrice": 27,
+    "lowPrice": 27,
     "offerCount": 1,
     "offers": [
       {
         "@context": "http://schema.org",
         "@type": "Offer",
         "availability": "https://schema.org/InStock",
-        "availabilityStarts": "2022-11-24T08:17:10.939Z",
+        "availabilityStarts": "2022-12-04T15:32:24.316Z",
         "itemCondition": "https://schema.org/NewCondition",
         "offeredBy": "Coles",
-        "price": "40.00",
+        "price": "27.00",
         "priceCurrency": "AUD",
         "seller": {
           "@type": "Organization",
           "name": "Coles"
         },
-        "url": "https://shop.coles.com.au/a/national/product/swisse-ultiboost-sleep-tablets"
+        "url": "https://shop.coles.com.au/a/national/product/swisse-vitamins-ultiboost-tablets-sleep"
       }
     ]
   },
   "sameAs": [
-    "https://shop.coles.com.au/a/national/product/swisse-ultiboost-sleep-tablets"
+    "https://shop.coles.com.au/a/national/product/swisse-vitamins-ultiboost-tablets-sleep"
   ],
-  "sku": "8098870",
-  "updatedAt": "2022-11-24T08:17:10.939Z"
+  "sku": "6940778",
+  "updatedAt": "2022-12-04T15:32:24.316Z"
 }

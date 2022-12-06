@@ -1,0 +1,66 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "Approx.289kJ",
+      "carbohydrateContent": "Approx.10g",
+      "dietary_fibre": "Approx.0.3g",
+      "fatContent": "Approx.2.8g",
+      "name": "nutrition",
+      "proteinContent": "Approx.0.8g",
+      "saturatedFatContent": "Approx.1.4g",
+      "servingSize": "100 g",
+      "sodiumContent": "Approx.22mg",
+      "sugarContent": "Approx.4.5g"
+    }
+  ],
+  "aggregateRating": {
+    "@context": "http://schema.org",
+    "@type": "AggregateRating",
+    "ratingCount": 757,
+    "ratingValue": 3.06869220607662
+  },
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Woolworths"
+  },
+  "createdAt": "2022-12-05T14:31:54.156Z",
+  "description": "Coconut Creams\nSandwich-style biscuit with a coconut crème centre",
+  "gtin13": "9339687168460",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/089012.jpg",
+  "name": "Woolworths Coconut Cream Biscuit 140G",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 0.9,
+    "lowPrice": 0.9,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-12-05T14:31:54.155Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 0.9,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/89012/woolworths-coconut-cream-biscuit"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/89012/woolworths-coconut-cream-biscuit"
+  ],
+  "sku": "89012",
+  "updatedAt": "2022-12-05T14:31:54.155Z"
+}

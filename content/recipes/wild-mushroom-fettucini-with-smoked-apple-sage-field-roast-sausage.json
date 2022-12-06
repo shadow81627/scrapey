@@ -1,0 +1,75 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1",
+    "ratingValue": "5"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Oh My Veggies"
+  },
+  "cookTime": "PT25M",
+  "createdAt": "2022-12-05T01:48:32.028Z",
+  "datePublished": "2011-11-15T14:16:37+00:00",
+  "description": "A rustic vegan pasta dish with wine-braised leeks, wild mushrooms, and crumbled Smoked Apple Sage sausage",
+  "image": [
+    "https://ohmyveggies.com/wp-content/uploads/2011/11/wild_mushroom_fettucini_in_bowl-1.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2011/11/wild_mushroom_fettucini_in_bowl-1-500x367.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2011/11/wild_mushroom_fettucini_in_bowl-1-480x270.jpg"
+  ],
+  "keywords": "vegan pasta, Wild Mushroom Fettucini, Wild Mushroom Fettucini Wild Mushroom Fettucini Wild Mushroom Fettucini with Smoked Apple Sage Field Roast Sausage",
+  "name": "Wild Mushroom Fettucini with Smoked Apple Sage Field Roast Sausage",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "349 kcal",
+    "carbohydrateContent": "53 g",
+    "cholesterolContent": "48 mg",
+    "fatContent": "7 g",
+    "fiberContent": "4 g",
+    "proteinContent": "15 g",
+    "saturatedFatContent": "1 g",
+    "servingSize": "1 serving",
+    "sodiumContent": "245 mg",
+    "sugarContent": "6 g",
+    "transFatContent": "1 g",
+    "unsaturatedFatContent": "4 g"
+  },
+  "prepTime": "PT15M",
+  "recipeCategory": "Main Course",
+  "recipeCuisine": "American",
+  "recipeIngredient": [
+    "1 tbsp. olive oil",
+    "2 large leeks",
+    "1/2 c. white wine",
+    "4 oz. oyster mushrooms (coarsely chopped)",
+    "8 oz. button mushrooms (sliced)",
+    "2 Smoked Apple Sage Field Roast sausages (crumbled)",
+    "8 oz. whole wheat fettucini (cooked according to package)",
+    "salt and pepper to taste"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Heat oil in a large skillet over medium-high heat. Add leeks and 1/4 c. wine. Cover and cook 7-8 minutes."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add mushrooms and remaining wine. Cook about 8 minutes more, stirring frequently, until mushrooms are just beginning to brown. Add crumbled sausage to pan and cook 2-3 more minutes."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add fettucini to pan and toss. Season with salt and pepper."
+    }
+  ],
+  "recipeYield": "4",
+  "sameAs": [
+    "https://ohmyveggies.com/recipe-wild-mushroom-fettucini-with-smoked-apple-sage-sausage"
+  ],
+  "suitableForDiet": [
+    "https://schema.org/VeganDiet",
+    "https://schema.org/VegetarianDiet"
+  ],
+  "totalTime": "PT40M",
+  "updatedAt": "2022-12-05T01:48:32.027Z"
+}

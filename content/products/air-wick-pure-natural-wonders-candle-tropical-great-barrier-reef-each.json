@@ -1,0 +1,45 @@
+{
+  "@type": "Product",
+  "additionalProperty": [],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Air Wick"
+  },
+  "createdAt": "2022-12-06T04:56:58.290Z",
+  "gtin13": "9300701208745",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/236715.jpg",
+  "name": "Air Wick Pure Natural Wonders Candle Tropical Great Barrier Reef Each",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 16,
+    "lowPrice": 16,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T04:56:58.289Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 16,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/236715/air-wick-pure-natural-wonders-candle-tropical-great-barrier-reef"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/236715/air-wick-pure-natural-wonders-candle-tropical-great-barrier-reef"
+  ],
+  "sku": "236715",
+  "updatedAt": "2022-12-06T04:56:58.289Z"
+}

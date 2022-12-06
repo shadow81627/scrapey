@@ -1,0 +1,50 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Wholegrain cereals and/or cereal by-products and/or vegetable by-products; Meat and meat by-products (poultry and/or beef and/or fish and/or lamb and/or pork) and/or poultry by-products; Vitamins, Minerals and Amino acids; Food colours; flavours."
+    },
+    {
+      "name": "Size",
+      "value": "1kg"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.70 per 100G"
+    }
+  ],
+  "brand": "Friskies",
+  "createdAt": "2022-12-05T18:25:35.872Z",
+  "description": "Friskies Seafood Sensations Adult Cat Food",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/7/4/2740664.jpg",
+  "name": "Seafood Sensations Adult Cat Food",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 7,
+    "lowPrice": 7,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-05T18:25:35.871Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "7.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/friskies-seafood-sensations-adult-cat-food"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/friskies-seafood-sensations-adult-cat-food"
+  ],
+  "sku": "2740664",
+  "updatedAt": "2022-12-05T18:25:35.871Z"
+}

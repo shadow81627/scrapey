@@ -1,0 +1,54 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Flour, Butter, Eggs, Sugar, Orange Juice, Vanilla Powder, Baking Powder, Orange Rind."
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "13.0"
+    },
+    {
+      "name": "Size",
+      "value": "250g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.76 per 100G"
+    }
+  ],
+  "brand": "Olympian",
+  "createdAt": "2022-12-04T19:09:01.401Z",
+  "description": "Also known as the Greek Easter Cookie, these delicately baked biscuits are traditionally served on a platter with red dyed eggs to celebrate the occasion. Today they are enjoyed by all the family, especially dunked in milk or a hot drink.",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/1/8/5/1855809.jpg",
+  "name": "Vanilla Twists Koulourakia Greek Biscuits",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 4.4,
+    "lowPrice": 4.4,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-04T19:09:01.401Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "4.40",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/olympian-koulourakia"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/olympian-koulourakia"
+  ],
+  "sku": "1855809",
+  "updatedAt": "2022-12-04T19:09:01.401Z"
+}

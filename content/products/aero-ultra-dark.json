@@ -1,0 +1,50 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "225mL"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$8.40 per 100mL"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Australia"
+    }
+  ],
+  "brand": "Bondi Sands",
+  "createdAt": "2022-12-04T16:31:02.326Z",
+  "description": "Bondi Sands Aero Ultra Dark",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/7/3/3732297.jpg",
+  "name": "Aero Ultra Dark",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 18.9,
+    "lowPrice": 18.9,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-04T16:31:02.326Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "18.90",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/bondi-sands-aero-ultra-dark"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/bondi-sands-aero-ultra-dark"
+  ],
+  "sku": "3732297",
+  "updatedAt": "2022-12-04T16:31:02.326Z"
+}

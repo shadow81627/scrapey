@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "3 pack"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.00 per 1Ea"
+    }
+  ],
+  "brand": "Reusable",
+  "createdAt": "2022-12-06T01:10:28.729Z",
+  "description": "Reusable Mesh Produce Bag",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/0/0/5005668.jpg",
+  "name": "Mesh Produce Bag",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3,
+    "lowPrice": 3,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/OutOfStock",
+        "availabilityStarts": "2022-12-06T01:10:28.729Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "3.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/produce-bag"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/produce-bag"
+  ],
+  "sku": "5005668",
+  "updatedAt": "2022-12-06T01:10:28.729Z"
+}

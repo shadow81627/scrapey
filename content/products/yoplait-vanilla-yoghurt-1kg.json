@@ -1,0 +1,60 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "586.00kJ",
+      "carbohydrateContent": "20.80g",
+      "dietary_fibre": "0.00g",
+      "fatContent": "3.00g",
+      "name": "nutrition",
+      "proteinContent": "7.00g",
+      "saturatedFatContent": "1.90g",
+      "servingSize": "100 g",
+      "sodiumContent": "77.00mg",
+      "sugarContent": "20.20g"
+    }
+  ],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Yoplait"
+  },
+  "createdAt": "2022-12-05T21:43:18.550Z",
+  "description": "Yoplait Vanilla Yoghurt is natrually nutritious with real vanilla, goodness of milk and 8 essential nutrients<br><br>Yoplait is one of Australia’s leading yoghurt brand. It believes that choosing to see the bright side of life helps us grow and is rooted in the purpose of adding a little of enjoyment to help us bloom every day. It lives it purpose by offering a delicious range of products that are made with real fruit, packed with the goodness of milk, has no artificial colours, flavours or preservatives and are adapted to meet the needs of the entire family. Loved by Australians since 1982, Yoplait is a delicious and healthy yoghurt designed for the whole family. It is made with the goodness of milk, real fruit and has 8 nutrients making it a wholesome breakfast, snack or treat. It’s made in Victoria, Australia and is available in flavours including Vanilla, Strawberry, Mango, Passionfruit and Berries.<br><br>Yoplait Yoghurt Vanilla is a delicious and healthy yoghurt with 8 nutrients that the whole family can enjoy with breakfast, as a snack, treat or in a smoothie. The 1kg pack is perfect for the whole family.<br><br>Made with real vanilla and goodness of milk<br><br>loved by Australians since 1982<br><br>8 essential nutrients<br><br>simple & delicious yoghurt for the whole family<br><br>no artifical flavours, colours or preservatives<br><br>Made in Victoria, Australia.<br><br>1kg share tub for the whole family",
+  "gtin13": "9300658405488",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/253798.jpg",
+  "name": "Yoplait Vanilla Yoghurt 1Kg",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 4,
+    "lowPrice": 4,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-12-05T21:43:18.549Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 4,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/253798/yoplait-vanilla-yoghurt"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/253798/yoplait-vanilla-yoghurt"
+  ],
+  "sku": "253798",
+  "updatedAt": "2022-12-05T21:43:18.549Z"
+}

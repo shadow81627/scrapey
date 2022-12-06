@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "1 pack"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$18.00 per 1Ea"
+    }
+  ],
+  "brand": "Lux And Bones",
+  "createdAt": "2022-12-05T12:12:42.277Z",
+  "description": "Lux And Bones Arthouse Collection Leash, 1.2m. Original hand drawn designs by Melbourne artist Alexia K, printed onto cotton canvas, backed with nylon. Lux & Bones leashes are both strong and beautiful.",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/4/3/6/4362761.jpg",
+  "name": "Arthouse Collection Leash",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 18,
+    "lowPrice": 18,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-05T12:12:42.277Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "18.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/arthouse-collection-leash"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/arthouse-collection-leash"
+  ],
+  "sku": "4362761",
+  "updatedAt": "2022-12-05T12:12:42.277Z"
+}

@@ -1,0 +1,50 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "325g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$2.46 per 100G"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Made in Italy"
+    }
+  ],
+  "brand": "Rana",
+  "createdAt": "2022-12-05T19:49:46.377Z",
+  "description": "Made with fresh & quality ingredients. Enjoy convenient and ready to cook Rana Spinach & Ricotta Tortellini.",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/0/9/3091046.jpg",
+  "name": "Spinach & Ricotta Tortellini",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 8,
+    "lowPrice": 8,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-05T19:49:46.376Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "8.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/rana-spinach-ricotta-tortellini"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/rana-spinach-ricotta-tortellini"
+  ],
+  "sku": "3091046",
+  "updatedAt": "2022-12-05T19:49:46.376Z"
+}

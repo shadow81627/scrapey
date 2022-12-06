@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "40 pack"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.53 per 1Ea"
+    }
+  ],
+  "brand": "Vittoria",
+  "createdAt": "2022-12-05T02:19:48.524Z",
+  "description": "Vittoria Oro Nespresso Compatible Capsules",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/4/8/2/4824437.jpg",
+  "name": "Oro Nespresso Compatible Capsules",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 21,
+    "lowPrice": 21,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/OutOfStock",
+        "availabilityStarts": "2022-12-05T02:19:48.524Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "21.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/compatible-capsules"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/compatible-capsules"
+  ],
+  "sku": "4824437",
+  "updatedAt": "2022-12-05T02:19:48.524Z"
+}

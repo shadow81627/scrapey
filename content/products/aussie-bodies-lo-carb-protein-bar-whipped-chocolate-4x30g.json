@@ -1,0 +1,66 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "413kJ",
+      "carbohydrateContent": "0.7g",
+      "dietary_fibre": "5.6g",
+      "fatContent": "3.6g",
+      "name": "nutrition",
+      "proteinContent": "9g",
+      "saturatedFatContent": "2g",
+      "servingSize": "100 g",
+      "sodiumContent": "50mg",
+      "sugarContent": "0.3g"
+    }
+  ],
+  "aggregateRating": {
+    "@context": "http://schema.org",
+    "@type": "AggregateRating",
+    "ratingCount": 22,
+    "ratingValue": 4.40909090909091
+  },
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Aussie Bodies"
+  },
+  "createdAt": "2022-12-06T01:25:21.758Z",
+  "description": "9g PROTEIN* 0.3g SUGARS* 0.7g CARBS* No artificial colours, flavours or preservatives.<BR><BR>Our Pro-active Nutrition products help your shape body from the inside out.<BR><BR>Proactive Nutrition<BR><BR>Great Tasting<BR><BR>Guilt-Free Indulgence<BR><BR>Source of Protein",
+  "gtin13": "9317296341627",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/630089.jpg",
+  "name": "Aussie Bodies Lo Carb Protein Bar Whipped Chocolate 4x30g",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 8,
+    "lowPrice": 8,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T01:25:21.755Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 8,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/630089/aussie-bodies-lo-carb-protein-bar-whipped-chocolate"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/630089/aussie-bodies-lo-carb-protein-bar-whipped-chocolate"
+  ],
+  "sku": "630089",
+  "updatedAt": "2022-12-06T01:25:21.756Z"
+}

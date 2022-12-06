@@ -1,0 +1,50 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "190g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$2.32 per 100G"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Made in New Zealand from Imported Ingredients."
+    }
+  ],
+  "brand": "Aunt Betty's",
+  "createdAt": "2022-12-05T20:41:00.611Z",
+  "description": "Aunt Betty's Gooey Caramel Steamy Puds 2 Pack",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/9/9/5/9958146.jpg",
+  "name": "Gooey Caramel Steamy Puds 2 Pack",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 4.4,
+    "lowPrice": 4.4,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-05T20:41:00.610Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "4.40",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/aunt-bettys-gooey-caramel-pudding-2-pack"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/aunt-bettys-gooey-caramel-pudding-2-pack"
+  ],
+  "sku": "9958146",
+  "updatedAt": "2022-12-05T20:41:00.610Z"
+}

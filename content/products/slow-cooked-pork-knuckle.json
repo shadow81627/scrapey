@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "approx. 1Kg"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$13.00 per 1Kg"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2022-12-05T10:31:30.541Z",
+  "description": "Coles Slow Cooked Pork Knuckle",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/7/6/3766255.jpg",
+  "name": "Slow Cooked Pork Knuckle",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 13,
+    "lowPrice": 13,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-05T10:31:30.541Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "13.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-pork-knuckle-cured-slow-coked"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/coles-pork-knuckle-cured-slow-coked"
+  ],
+  "sku": "3766255",
+  "updatedAt": "2022-12-05T10:31:30.541Z"
+}

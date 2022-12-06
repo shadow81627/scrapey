@@ -1,0 +1,45 @@
+{
+  "@type": "Product",
+  "additionalProperty": [],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Schick"
+  },
+  "createdAt": "2022-12-05T16:01:06.991Z",
+  "description": "Look great on-the-go! Schick Hydro Silk Disposable Razor expertly shapes eyebrows, gently exfoliates and removes fine hairs. <br><br><p><strong>Product Features:</strong></p><ul><li>The set includes 3 razors and 1 Precision Cover for precise eyebrow shaping.</li></ul>",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/1073846137.jpg",
+  "name": "Schick 3EACH",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 12,
+    "lowPrice": 12,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-12-05T16:01:06.991Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 12,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/1073846137/schick-hydro-silk-touch-up-disposable-razors-3-pack"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/1073846137/schick-hydro-silk-touch-up-disposable-razors-3-pack"
+  ],
+  "sku": "1073846137",
+  "updatedAt": "2022-12-05T16:01:06.991Z"
+}

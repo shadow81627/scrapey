@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "130g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$7.31 per 100G"
+    }
+  ],
+  "brand": "HBAF",
+  "createdAt": "2022-12-05T06:23:27.195Z",
+  "description": "HBAF Honey Butter Almonds",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/4/9/6/4969644.jpg",
+  "name": "Honey Butter Almonds",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 9.5,
+    "lowPrice": 9.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/OutOfStock",
+        "availabilityStarts": "2022-12-05T06:23:27.195Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "9.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/honey-butter-almonds"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/honey-butter-almonds"
+  ],
+  "sku": "4969644",
+  "updatedAt": "2022-12-05T06:23:27.195Z"
+}

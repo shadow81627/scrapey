@@ -1,0 +1,54 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Wheat Flour, Water, Processed Meats (Bacon (18%) (Pork, Water, Potato Starch, Wheat Starch, Salt, Soy Protein, Pork Protein, Wheat Gluten, Mineral Salts (450, 451, 508), Thickener (407a), Antioxidant (316), Hydrolysed Vegetable Protein, Sugar, Fermented Rice, Natural Flavour, Preservative (250), Humectant(1520), Smoke Flavour)), Mozzarella Cheese (17%) (Milk, Salt, Non Animal Rennet, Starter Culture), Tomato Paste, Flavours (Sugar, Salt, Natural Flavour,Thickener (415), Garlic Powder, Soybean Oil)), Vegetable Shortening, Canola Oil, Yeast, Salt, Soy Flour, Ascorbic Acid, Enzyme (Wheat)."
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "4.0"
+    },
+    {
+      "name": "Size",
+      "value": "500g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.50 per 100G"
+    }
+  ],
+  "brand": "McCain",
+  "createdAt": "2022-12-06T04:00:23.107Z",
+  "description": "A traditional regular crust family pizza topped with mozzarella cheese and bacon.",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/1/8/1/181572.jpg",
+  "name": "Frozen Cheese & Bacon Family Pizza",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 7.5,
+    "lowPrice": 7.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T04:00:23.107Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "7.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/mccain-pizza-family-cheese-bacon-frozen"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/mccain-pizza-family-cheese-bacon-frozen"
+  ],
+  "sku": "181572",
+  "updatedAt": "2022-12-06T04:00:23.107Z"
+}

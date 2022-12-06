@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "4 pack"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.53 per 1Ea"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2022-12-05T00:09:36.792Z",
+  "description": "Bring your birthday party to life with Coles Streamers, a colourful way to party and celebrate! 13m per roll.",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/4/2/4/4248733.jpg",
+  "name": "Streamers",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2.1,
+    "lowPrice": 2.1,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-05T00:09:36.791Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "2.10",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-streamers"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/coles-streamers"
+  ],
+  "sku": "4248733",
+  "updatedAt": "2022-12-05T00:09:36.791Z"
+}

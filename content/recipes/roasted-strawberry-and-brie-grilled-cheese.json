@@ -1,0 +1,73 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "2",
+    "ratingValue": "5"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Oh My Veggies"
+  },
+  "cookTime": "PT30M",
+  "createdAt": "2022-12-04T21:46:07.222Z",
+  "datePublished": "2016-05-16T08:44:34+00:00",
+  "description": "A summertime grilled cheese filled with roasted strawberries, brie and fresh basil.",
+  "image": [
+    "https://ohmyveggies.com/wp-content/uploads/2016/05/Roasted_strawberry_brie_grilled_cheese3.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2016/05/Roasted_strawberry_brie_grilled_cheese3-500x400.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2016/05/Roasted_strawberry_brie_grilled_cheese3-500x375.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2016/05/Roasted_strawberry_brie_grilled_cheese3-480x270.jpg"
+  ],
+  "keywords": "Grilled Cheese Sandwiches, Roasted Strawberry and Brie Grilled Cheese",
+  "name": "Roasted Strawberry and Brie Grilled Cheese",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "342 kcal",
+    "carbohydrateContent": "42 g",
+    "cholesterolContent": "35 mg",
+    "fatContent": "14 g",
+    "fiberContent": "5 g",
+    "proteinContent": "14 g",
+    "saturatedFatContent": "7 g",
+    "servingSize": "1 serving",
+    "sodiumContent": "517 mg",
+    "sugarContent": "14 g",
+    "transFatContent": "1 g",
+    "unsaturatedFatContent": "7 g"
+  },
+  "prepTime": "PT10M",
+  "recipeCategory": "Appetizer",
+  "recipeCuisine": "American",
+  "recipeIngredient": [
+    "16 ounces strawberries (hulled and cut in half)",
+    "1/2 tablespoon olive oil",
+    "1 tablespoon honey",
+    "1 tablespoon balsamic vinegar",
+    "Pinch of salt",
+    "8 slices sturdy sandwich bread",
+    "5 ounces brie (sliced)",
+    "1/4 cup chopped fresh basil",
+    "1 cup lightly packed baby arugula",
+    "Softened butter"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Preheat the oven to 400oF."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add the strawberries to a rimmed baking sheet. Drizzle with the olive oil, honey and balsamic vinegar, then sprinkle with the salt. Toss to combine and spread in an even layer. Bake for about 20 to 25 minutes, stirring once halfway through, until tender and the berries have released most of their juices. Let cool for about 5 to 10 minutes."
+    }
+  ],
+  "recipeYield": "4",
+  "sameAs": [
+    "https://ohmyveggies.com/roasted-strawberry-and-brie-grilled-cheese"
+  ],
+  "suitableForDiet": [
+    "https://schema.org/VegetarianDiet"
+  ],
+  "totalTime": "PT40M",
+  "updatedAt": "2022-12-04T21:46:07.221Z"
+}

@@ -1,0 +1,54 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Cane Sugar."
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "125.0"
+    },
+    {
+      "name": "Size",
+      "value": "500g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.37 per 100G"
+    }
+  ],
+  "brand": "CSR",
+  "createdAt": "2022-12-04T18:18:36.566Z",
+  "description": "CSR Pure Icing Sugar",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/5/8/5583074.jpg",
+  "name": "Pure Icing Sugar",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 1.85,
+    "lowPrice": 1.85,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-04T18:18:36.565Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "1.85",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/csr-sugar-icing-pure"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/csr-sugar-icing-pure"
+  ],
+  "sku": "5583074",
+  "updatedAt": "2022-12-04T18:18:36.565Z"
+}

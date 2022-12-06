@@ -1,0 +1,58 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Carbonated Water, Sugar, Food Acids (330, 260), Flavour, Preservative (211), Colour (123)."
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "4.4"
+    },
+    {
+      "name": "Size",
+      "value": "1.1L"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.36 per 1L"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Made in Australia from Local and Imported Ingredients"
+    }
+  ],
+  "brand": "Schweppes",
+  "createdAt": "2022-12-04T14:16:47.118Z",
+  "description": "Schweppes Raspberry Flavoured Drink",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/2/7/3270216.jpg",
+  "name": "Raspberry Flavoured Drink",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 1.5,
+    "lowPrice": 1.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-04T14:16:47.117Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "1.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/schweppes-soft-drink-raspberry"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/schweppes-soft-drink-raspberry"
+  ],
+  "sku": "3270216",
+  "updatedAt": "2022-12-04T14:16:47.117Z"
+}

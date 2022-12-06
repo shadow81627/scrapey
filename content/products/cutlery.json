@@ -1,0 +1,42 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Unit Price",
+      "value": "$7.20 per 1Ea"
+    }
+  ],
+  "brand": "B.box",
+  "createdAt": "2022-12-05T20:58:32.486Z",
+  "description": "B.box Cutlery",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/2/4/5245082.jpg",
+  "name": "Cutlery",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 7.2,
+    "lowPrice": 7.2,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/OutOfStock",
+        "availabilityStarts": "2022-12-05T20:58:32.485Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "7.20",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/cutlery-5245082p-1"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/cutlery-5245082p-1"
+  ],
+  "sku": "5245082",
+  "updatedAt": "2022-12-05T20:58:32.485Z"
+}

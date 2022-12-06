@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "400g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.38 per 100G"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2022-12-05T18:26:29.774Z",
+  "description": "Coles Adult Cat Food Beef & Liver 400g. Essential vitamins and minerals, to support general wellbeing. Omega 3 and 6 for vitality, healthy skin and glowing coat.",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/9/1/2916090.jpg",
+  "name": "Cat Food Beef & Liver",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 1.5,
+    "lowPrice": 1.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-05T18:26:29.774Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "1.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-beef-liver-cat-food"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/coles-beef-liver-cat-food"
+  ],
+  "sku": "2916090",
+  "updatedAt": "2022-12-05T18:26:29.774Z"
+}

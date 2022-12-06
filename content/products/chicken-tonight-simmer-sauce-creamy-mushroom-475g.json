@@ -1,0 +1,60 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "453kJ",
+      "carbohydrateContent": "4.6g",
+      "dietary_fibre": "0.5g",
+      "fatContent": "9.8g",
+      "name": "nutrition",
+      "proteinContent": "0.5g",
+      "saturatedFatContent": "1g",
+      "servingSize": "100 g",
+      "sodiumContent": "404mg",
+      "sugarContent": "1g"
+    }
+  ],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Chicken Tonight"
+  },
+  "createdAt": "2022-12-05T08:09:10.064Z",
+  "description": "A great way to have Chicken Tonight is with this Creamy Mushroom Simmer Sauce! This sauce will beautifully complement any dish. Make a creamy mushroom pasta dish with Chicken Tonight Creamy Mushroom Simmer Sauce. It's sure to add flavour to your meal. Tired of the same old bland chicken? Try Chicken Tonight Creamy Mushroom Simmer Sauce. The sauce boast a rich and deep flavour, and an amazing aroma that will have your stomach grumbling in no time.\n-Suitable for Vegetarians \n-3 Health Star Rating \n-Servings Per Package: 4 \n-Use it to create a amazing meal\n-No artificial colours, flavours",
+  "gtin13": "9300462130088",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/023712.jpg",
+  "name": "Chicken Tonight Simmer Sauce Creamy Mushroom 475G",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3,
+    "lowPrice": 3,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-12-05T08:09:10.063Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 3,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/23712/chicken-tonight-simmer-sauce-creamy-mushroom"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/23712/chicken-tonight-simmer-sauce-creamy-mushroom"
+  ],
+  "sku": "23712",
+  "updatedAt": "2022-12-05T08:09:10.063Z"
+}

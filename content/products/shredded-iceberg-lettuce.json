@@ -1,0 +1,54 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "<strong>INGREDIENTS:</strong> 100% Australian Iceberg Lettuce"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "2.0"
+    },
+    {
+      "name": "Size",
+      "value": "200g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$10.00 per 1Kg"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2022-12-06T05:43:31.740Z",
+  "description": "Coles PROUDLY GROWN AUSTRALIANShredded IcebergPeppery & Tender - Sweet & Crisp: Position 5PERFECT FOR: Mexican style tacosLogo: GROWING TOGETHER AUSTRALIAN FARMERS",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/4/7/2470526.jpg",
+  "name": "Shredded Iceberg Lettuce",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2,
+    "lowPrice": 2,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T05:43:31.740Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "2.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles--shredded-iceberg-lettuce-prepacked"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/coles--shredded-iceberg-lettuce-prepacked"
+  ],
+  "sku": "2470526",
+  "updatedAt": "2022-12-06T05:43:31.740Z"
+}

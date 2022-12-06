@@ -1,0 +1,62 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Vegetables [Pumpkin (20%), Tomato, Sweet Potato (15%), Onion, Spinach], Brown Rice (21%), Lamb (10%), Water, Couscous (<b>Wheat</b>), Coriander.<b> <br></b> <b><br></b> <b>Contains: Wheat, Gluten.</b>"
+    },
+    {
+      "name": "Allergen",
+      "value": "Contains Gluten, Contains Wheat"
+    },
+    {
+      "name": "Dietary",
+      "value": "No Preservatives"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "1.0"
+    },
+    {
+      "name": "Size",
+      "value": "170g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.88 per 100G"
+    }
+  ],
+  "brand": "Heinz",
+  "createdAt": "2022-12-06T04:38:40.552Z",
+  "description": "Heinz Lamb & Veg 6+ Months",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/3/6/2366740.jpg",
+  "name": "Lamb & Veg 6+ Months",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 1.5,
+    "lowPrice": 1.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T04:38:40.552Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "1.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/heinz-lamb-veg-6-months"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/heinz-lamb-veg-6-months"
+  ],
+  "sku": "2366740",
+  "updatedAt": "2022-12-06T04:38:40.552Z"
+}

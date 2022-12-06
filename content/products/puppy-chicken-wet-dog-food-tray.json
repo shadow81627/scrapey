@@ -1,0 +1,50 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Chicken; beef &/or sheep &/or pork; rice; vegetables; gelling agents; minerals; vegetable fibre; vegetable oil; fish oil; vitamins; taurine; garlic; antioxidants; plant extracts."
+    },
+    {
+      "name": "Size",
+      "value": "100g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.80 per 100G"
+    }
+  ],
+  "brand": "Optimum",
+  "createdAt": "2022-12-05T12:39:47.029Z",
+  "description": "Optimum Puppy Chicken Wet Dog Food Tray",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/1/5/1/1513179.jpg",
+  "name": "Puppy Chicken Wet Dog Food Tray",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 1.8,
+    "lowPrice": 1.8,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-05T12:39:47.028Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "1.80",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/optimum-dog-food-puppy-chicken-rice-vegetables"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/optimum-dog-food-puppy-chicken-rice-vegetables"
+  ],
+  "sku": "1513179",
+  "updatedAt": "2022-12-05T12:39:47.028Z"
+}

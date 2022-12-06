@@ -1,0 +1,58 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "<strong>INGREDIENTS:</strong> Australian Popcorn (60%), Coconut Oil, Salt [Anticaking Agent (341)], Natural Butter Flavour, Natural Colour (Carotene)."
+    },
+    {
+      "name": "Allergen",
+      "value": "May Contain MILK, May Contain SOY"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "5.0"
+    },
+    {
+      "name": "Size",
+      "value": "100g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$2.20 per 100G"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2022-12-05T09:38:51.718Z",
+  "description": "Australian air popped popcorn, coated in a moreish butter flavouring.",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/1/5/3150860.jpg",
+  "name": "Butter Popcorn",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2.2,
+    "lowPrice": 2.2,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-05T09:38:51.718Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "2.20",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-popcorn-butter"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/coles-popcorn-butter"
+  ],
+  "sku": "3150860",
+  "updatedAt": "2022-12-05T09:38:51.718Z"
+}

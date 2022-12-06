@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "500 pack"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.01 per 1Ea"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2022-12-05T20:29:55.255Z",
+  "description": "White 1 ply FSC certified serviettes. Bulk 500 pack. Perfect for BBQs, picnics, parties and everyday use.",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/9/3/3932536.jpg",
+  "name": "White Serviettes",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 5,
+    "lowPrice": 5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-05T20:29:55.254Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "5.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/serviettes-3932536p-1"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/serviettes-3932536p-1"
+  ],
+  "sku": "3932536",
+  "updatedAt": "2022-12-05T20:29:55.254Z"
+}

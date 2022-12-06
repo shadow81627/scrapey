@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Dettol"
+  },
+  "createdAt": "2022-12-05T17:04:09.810Z",
+  "description": "Dettol Antibacterial Laundry Sanitiser Natural Eucalyptus removes 99.9% of germs. Effective even in a cold wash.<BR><BR>Dettol Laundry Sanitiser removes 99.9%* of bacteria such as Staphylococcus and E.coli in the wash in both hot and cold water. Bacteria such as E.coli that cause infections can be left on clothes increasing the risk of re-infection. Normal washing, especially at low temperatures does not entirely remove the problem. Dettol Laundry Sanitiser is ideal for dirty clothes such as sweaty sports gear, underwear, socks, work clothes, towels and linen that can harbour germs. Dettol Laundry Sanitiser helps break the cycle of re-infection and cross-infection of laundry. Dettol Laundry Sanitiser is also gentle on your clothes because it does not contain bleach, leaving laundry hygienically clean and fresh. <br /><br />",
+  "gtin13": "9300631649465",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/133145.jpg",
+  "name": "Dettol Antibacterial Laundry Sanitiser 1.5L",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 15,
+    "lowPrice": 15,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-12-05T17:04:09.809Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 15,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/133145/dettol-antibacterial-laundry-sanitiser"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/133145/dettol-antibacterial-laundry-sanitiser"
+  ],
+  "sku": "133145",
+  "updatedAt": "2022-12-05T17:04:09.809Z"
+}

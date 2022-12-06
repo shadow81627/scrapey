@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "10L"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.15 per 100mL"
+    }
+  ],
+  "brand": "Back",
+  "createdAt": "2022-12-05T12:23:41.744Z",
+  "description": "Back To Nature Small Animal Bedding & Litter",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/4/3/6/4366729.jpg",
+  "name": "To Nature Small Animal Bedding & Litter",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 15,
+    "lowPrice": 15,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-05T12:23:41.744Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "15.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/smll-anml-bddng-lttr"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/smll-anml-bddng-lttr"
+  ],
+  "sku": "4366729",
+  "updatedAt": "2022-12-05T12:23:41.744Z"
+}

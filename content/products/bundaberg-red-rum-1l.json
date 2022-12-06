@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Bundaberg"
+  },
+  "createdAt": "2022-12-05T22:36:50.204Z",
+  "description": "Bundaberg Red delivers an incredibly smooth taste and gets its name from the red gum used in the filtering process. A great addition to any bar, bottled in a larger 1 Litre bottle for Bundy Red enthusiasts.<br><br><strong>Spirit Type: </strong>Rum<br><strong>Varietal: </strong>Dark Rum<br><strong>Alcohol %: </strong>37<br><strong>Standard Drinks: </strong>29<br><strong>Country Of Origin: </strong>Australia",
+  "gtin13": "9311866009856",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/347699.jpg",
+  "name": "Bundaberg Red Rum 1L",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 59,
+    "lowPrice": 59,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-12-05T22:36:50.203Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 59,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/347699/bundaberg-red-rum"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/347699/bundaberg-red-rum"
+  ],
+  "sku": "347699",
+  "updatedAt": "2022-12-05T22:36:50.204Z"
+}

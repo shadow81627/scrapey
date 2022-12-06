@@ -1,0 +1,50 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Meats (Chicken, And/Or Turkey And/Or Liver And/Or Animal Protein), Vegetables (Peas, Carrots, Potatoes), Gelling agents, Starch, Vitamins & Minerals, Inulin, Flavours, Oil"
+    },
+    {
+      "name": "Size",
+      "value": "400g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.88 per 100G"
+    }
+  ],
+  "brand": "Farmers Market",
+  "createdAt": "2022-12-05T12:46:03.781Z",
+  "description": "Farmers Market Adult Wet Dog Food Chicken Loaf With Carrots and Peas",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/3/1/3319698.jpg",
+  "name": "Adult Wet Dog Food Chicken Loaf With Carrots and Peas",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3.5,
+    "lowPrice": 3.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-05T12:46:03.780Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "3.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/farmers-market-dog-food-gf-lf-wth-rst-crts-peas"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/farmers-market-dog-food-gf-lf-wth-rst-crts-peas"
+  ],
+  "sku": "3319698",
+  "updatedAt": "2022-12-05T12:46:03.780Z"
+}

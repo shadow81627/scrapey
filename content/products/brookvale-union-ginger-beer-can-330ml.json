@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Brookvale Union"
+  },
+  "createdAt": "2022-12-05T22:29:28.478Z",
+  "description": "Brookvale Union Ginger Beer 330ml is brimming with fresh flavour. Produced with authentic Australian ginger and natural ingredients, this ginger beer is ultra refreshing. Spicy yet mild, this brew masters the perfect balance of ingredients for delicious taste.<br> <br><strong>Alcohol %:</strong> 4 <br><strong>Standard Drinks:</strong> 1 <br><strong>Country Of Origin:</strong> Australia",
+  "gtin13": "9344844000439",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/544772.jpg",
+  "name": "Brookvale Union Ginger Beer Can 330ml",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 6.5,
+    "lowPrice": 6.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-12-05T22:29:28.477Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 6.5,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/544772/brookvale-union-ginger-beer-can"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/544772/brookvale-union-ginger-beer-can"
+  ],
+  "sku": "544772",
+  "updatedAt": "2022-12-05T22:29:28.477Z"
+}

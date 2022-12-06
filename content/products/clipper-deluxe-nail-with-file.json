@@ -1,0 +1,50 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Warning",
+      "value": "Sharp implements. KEEP OUT OF REACH OF CHILDREN"
+    },
+    {
+      "name": "Size",
+      "value": "1 pack"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$7.40 per 1Ea"
+    }
+  ],
+  "brand": "Manicare",
+  "createdAt": "2022-12-05T15:52:42.085Z",
+  "description": "Chrome plated nail clippers with curved cutting edges for long lasting performance. Includes a nail file.",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/7/4/2/7420117.jpg",
+  "name": "Clipper Deluxe Nail With File",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 7.4,
+    "lowPrice": 7.4,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-05T15:52:42.085Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "7.40",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/manicare-clipper-deluxe-nail"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/manicare-clipper-deluxe-nail"
+  ],
+  "sku": "7420117",
+  "updatedAt": "2022-12-05T15:52:42.085Z"
+}

@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "475mL"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$2.74 per 100mL"
+    }
+  ],
+  "brand": "Greenback",
+  "createdAt": "2022-12-05T07:13:15.248Z",
+  "description": "Greenback Protein Frozen Dessert Salted Caramel Tub",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/4/9/5493233.jpg",
+  "name": "Protein Frozen Dessert Salted Caramel Tub",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 13,
+    "lowPrice": 13,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/OutOfStock",
+        "availabilityStarts": "2022-12-05T07:13:15.247Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "13.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/dessert-slted-caramel-tub-5493233p-1"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/dessert-slted-caramel-tub-5493233p-1"
+  ],
+  "sku": "5493233",
+  "updatedAt": "2022-12-05T07:13:15.248Z"
+}

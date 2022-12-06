@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "235g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$59.58 per 1Kg"
+    }
+  ],
+  "brand": "Coles Deli Express",
+  "createdAt": "2022-12-05T23:37:30.742Z",
+  "description": "Coles Deli Express Entertaining Platter",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/4/7/1/4714745.jpg",
+  "name": "Entertaining Platter",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 14,
+    "lowPrice": 14,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-05T23:37:30.742Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "14.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/entertaining-platter"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/entertaining-platter"
+  ],
+  "sku": "4714745",
+  "updatedAt": "2022-12-05T23:37:30.742Z"
+}

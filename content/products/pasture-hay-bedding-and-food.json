@@ -1,0 +1,54 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Rye grass hay"
+    },
+    {
+      "name": "Warning",
+      "value": "Pet food only."
+    },
+    {
+      "name": "Size",
+      "value": "1kg"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.87 per 100G"
+    }
+  ],
+  "brand": "Peters",
+  "createdAt": "2022-12-05T18:08:06.025Z",
+  "description": "Peters Pasture Hay Bedding and Food",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/8/5/6/8567325.jpg",
+  "name": "Pasture Hay Bedding and Food",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 8.7,
+    "lowPrice": 8.7,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-05T18:08:06.024Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "8.70",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/peter-pasture-hay-bedding-and-food"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/peter-pasture-hay-bedding-and-food"
+  ],
+  "sku": "8567325",
+  "updatedAt": "2022-12-05T18:08:06.024Z"
+}

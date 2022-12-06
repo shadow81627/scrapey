@@ -1,0 +1,54 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Warning",
+      "value": "Household Warnings:rnCAUTIONrnCAUTIONrnCAUTIONrnCAUTIONrnrn"
+    },
+    {
+      "name": "Size",
+      "value": "2L"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.00 per 1L"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Product of Australia"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2022-12-05T23:32:31.446Z",
+  "description": "Coles Demineralized Water, 2L. For use in steam irons to prolong their life and performance. Not for drinking.",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/1/7/5173301.jpg",
+  "name": "Demineralised Water",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2,
+    "lowPrice": 2,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-05T23:32:31.445Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "2.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-smart-buy-water-demineralised"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/coles-smart-buy-water-demineralised"
+  ],
+  "sku": "5173301",
+  "updatedAt": "2022-12-05T23:32:31.445Z"
+}

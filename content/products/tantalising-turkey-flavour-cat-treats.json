@@ -1,0 +1,54 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Chicken by-product, Beef and/or Sheep by-products, Corn, Rice, Wheat Flour, Flavours (including Turkey Flavour), Dried Yeast, Vitamins, Minerals, Salt, Colour, Taurine, Antioxidants, Cheese Powder."
+    },
+    {
+      "name": "Contains",
+      "value": "Kibble"
+    },
+    {
+      "name": "Size",
+      "value": "85g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$5.88 per 100G"
+    }
+  ],
+  "brand": "Temptations",
+  "createdAt": "2022-12-05T11:55:57.031Z",
+  "description": "Temptations Tantalising Turkey Flavour Cat Treats",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/5/6/3566314.jpg",
+  "name": "Tantalising Turkey Flavour Cat Treats",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 5,
+    "lowPrice": 5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-05T11:55:57.030Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "5.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/temptations-cat-treats-tntlsng-turkey"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/temptations-cat-treats-tntlsng-turkey"
+  ],
+  "sku": "3566314",
+  "updatedAt": "2022-12-05T11:55:57.030Z"
+}

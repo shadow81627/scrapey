@@ -1,0 +1,79 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1",
+    "ratingValue": "5"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Oh My Veggies"
+  },
+  "cookTime": "PT30M",
+  "createdAt": "2022-12-04T14:42:19.750Z",
+  "datePublished": "2017-07-09T08:00:00+00:00",
+  "description": "This Moroccan spiced stew features tender chunks of eggplant, tomatoes, and peppers, served over couscous with a sprinkle of fresh mint.",
+  "image": [
+    "https://ohmyveggies.com/wp-content/uploads/2017/07/eggplant-tajine-2.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2017/07/eggplant-tajine-2-500x500.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2017/07/eggplant-tajine-2-500x375.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2017/07/eggplant-tajine-2-480x270.jpg"
+  ],
+  "keywords": "Eggplant Tajine, Moroccan spiced stew",
+  "name": "Vegetarian Eggplant Tajine",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "543 kcal",
+    "carbohydrateContent": "99 g",
+    "fatContent": "4 g",
+    "fiberContent": "15 g",
+    "proteinContent": "19 g",
+    "saturatedFatContent": "1 g",
+    "servingSize": "1 serving",
+    "sodiumContent": "507 mg",
+    "sugarContent": "9 g",
+    "unsaturatedFatContent": "2 g"
+  },
+  "prepTime": "PT5M",
+  "recipeCategory": "Main Course",
+  "recipeCuisine": "American",
+  "recipeIngredient": [
+    "1 medium white onion (diced)",
+    "1 vegetarian bullion cube",
+    "1 heaping tablespoon ras el hanout",
+    "Zest of 1 lemon",
+    "Kosher salt and cracked black pepper (to taste)",
+    "1/2 teaspoon granulated garlic",
+    "1 cup white wine (like pinot grigio)",
+    "1 15- ounce can chickpeas (drained)",
+    "4 cups large diced eggplant (1 large or 4 medium Japanese, peeled)",
+    "2 medium green peppers (diced)",
+    "1 15- ounce can stewed tomatoes",
+    "Sriracha hot sauce (to taste)",
+    "2 cups prepared couscous",
+    "Greek yogurt (mint and lemon zest (optional, to garnish)"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Preheat your oven to 350 degrees. In a large oven-proof skillet with high sides over high heat, sauté the onion, bullion cube, ras el hanout, lemon zest, salt, pepper, and granulated garlic in a dry pan. Once the onion starts to caramelize (about 3 minutes), add the wine and deglaze the pan. Reduce the liquid by half, and add the chickpeas, eggplant, green peppers, stewed tomatoes, and Sriracha. Stir to incorporate."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Place in the oven for 30 minutes."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Serve over couscous. Garnish with Greek yogurt, mint, and lemon zest."
+    }
+  ],
+  "recipeYield": "4",
+  "sameAs": [
+    "https://ohmyveggies.com/vegetarian-eggplant-tajine"
+  ],
+  "suitableForDiet": [
+    "https://schema.org/VegetarianDiet"
+  ],
+  "totalTime": "PT35M",
+  "updatedAt": "2022-12-04T14:42:19.749Z"
+}

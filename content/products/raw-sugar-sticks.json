@@ -1,0 +1,54 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Cane Sugar"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "50.0"
+    },
+    {
+      "name": "Size",
+      "value": "150g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.90 per 100G"
+    }
+  ],
+  "brand": "CSR",
+  "createdAt": "2022-12-05T13:27:12.984Z",
+  "description": "CSR Raw Sugar Sticks",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/9/1/2911701.jpg",
+  "name": "Raw Sugar Sticks",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2.85,
+    "lowPrice": 2.85,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-05T13:27:12.983Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "2.85",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/csr-raw-sugar-sticks"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/csr-raw-sugar-sticks"
+  ],
+  "sku": "2911701",
+  "updatedAt": "2022-12-05T13:27:12.983Z"
+}

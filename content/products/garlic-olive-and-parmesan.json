@@ -1,0 +1,50 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "120g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$5.75 per 100G"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Product of Australia"
+    }
+  ],
+  "brand": "Ricci's Bikkies",
+  "createdAt": "2022-12-05T17:30:36.280Z",
+  "description": "Savour the flavour of Ricci's original bikkies with our beautiful garlic, olive & parmesan flavour. Great for entertaining.",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/7/0/1/7017464.jpg",
+  "name": "Garlic Olive & Parmesan",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 6.9,
+    "lowPrice": 6.9,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-05T17:30:36.279Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "6.90",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/riccis-bikkies-turk-bread-garlic-parmesan"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/riccis-bikkies-turk-bread-garlic-parmesan"
+  ],
+  "sku": "7017464",
+  "updatedAt": "2022-12-05T17:30:36.280Z"
+}

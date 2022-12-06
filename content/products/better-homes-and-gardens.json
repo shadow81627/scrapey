@@ -1,0 +1,37 @@
+{
+  "@type": "Product",
+  "additionalProperty": [],
+  "brand": "Magazine",
+  "createdAt": "2022-12-05T13:12:30.030Z",
+  "description": "Cover may not depict edition offered for sale.",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/6/4/1/641210.jpg",
+  "name": "Better Homes & Gardens",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 7.5,
+    "lowPrice": 7.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-05T13:12:30.030Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "7.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/better-homes-gardens-magazine"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/better-homes-gardens-magazine"
+  ],
+  "sku": "641210",
+  "updatedAt": "2022-12-05T13:12:30.030Z"
+}

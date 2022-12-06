@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "50 pack"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.09 per 1Ea"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2022-12-06T01:19:40.674Z",
+  "description": "FSC birchwood timber Forks. Pack of 20. Perfect for BBQs, picnics, parties and everyday use.",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/9/6/3969922.jpg",
+  "name": "Timber Forks",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 4.5,
+    "lowPrice": 4.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T01:19:40.673Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "4.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/timber-forks"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/timber-forks"
+  ],
+  "sku": "3969922",
+  "updatedAt": "2022-12-06T01:19:40.673Z"
+}

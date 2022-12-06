@@ -1,0 +1,60 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "Approx.280kJ",
+      "carbohydrateContent": "Approx.15.6g",
+      "dietary_fibre": "-",
+      "fatContent": "Approx.0.1g",
+      "name": "nutrition",
+      "proteinContent": "Approx.0.3g",
+      "saturatedFatContent": "Approx.0.1g",
+      "servingSize": "100 g",
+      "sodiumContent": "Approx.330mg",
+      "sugarContent": "Approx.11.9g"
+    }
+  ],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "ABC"
+  },
+  "createdAt": "2022-12-05T07:05:03.320Z",
+  "description": "ABC Sweet Soy Sauce, also known as Kecap Manis, is an authentic Indonesian sauce that uses palm sugar in the production to create its thick and rich texture. The caramel-coloured sauce can be used for dipping or as a marinade to add an aromatic, sweet flavour to dishes. Its versatility in usage allows you to create multiple dishes with just one sauce.",
+  "gtin13": "711844110083",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/720977.jpg",
+  "name": "Abc Kecap Manis Sweet Soy Sauce 275mL",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2.3,
+    "lowPrice": 2.3,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-12-05T07:05:03.319Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 2.3,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/720977/abc-kecap-manis-sweet-soy-sauce"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/720977/abc-kecap-manis-sweet-soy-sauce"
+  ],
+  "sku": "720977",
+  "updatedAt": "2022-12-05T07:05:03.320Z"
+}

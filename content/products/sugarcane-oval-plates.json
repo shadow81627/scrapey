@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "10 pack"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.32 per 1Ea"
+    }
+  ],
+  "brand": "Green Choice",
+  "createdAt": "2022-12-05T00:04:20.590Z",
+  "description": "By-product of the sugar refining industryPlant-based & rapidly renewable compared to treesSuitable for home composting+",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/4/3/2/4320830.jpg",
+  "name": "Sugarcane Oval Plates",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3.2,
+    "lowPrice": 3.2,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-05T00:04:20.589Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "3.20",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/sugarcane-oval-plates"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/sugarcane-oval-plates"
+  ],
+  "sku": "4320830",
+  "updatedAt": "2022-12-05T00:04:20.589Z"
+}

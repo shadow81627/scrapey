@@ -1,0 +1,60 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "-",
+      "carbohydrateContent": "-",
+      "dietary_fibre": "-",
+      "fatContent": "-",
+      "name": "nutrition",
+      "proteinContent": "-",
+      "saturatedFatContent": "-",
+      "servingSize": "100 g",
+      "sodiumContent": "-",
+      "sugarContent": "-"
+    }
+  ],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Woolworths"
+  },
+  "createdAt": "2022-12-06T00:20:51.004Z",
+  "description": "Round green skinned fruit with brown netting, orange flesh and a sweet <br>and smooth texture.",
+  "gtin13": "0266962000001",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/112533.jpg",
+  "name": "Woolworths Rockmelon Large Half Each",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2.95,
+    "lowPrice": 2.95,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T00:20:51.004Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 2.95,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/112533/woolworths-rockmelon-large"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/112533/woolworths-rockmelon-large"
+  ],
+  "sku": "112533",
+  "updatedAt": "2022-12-06T00:20:51.004Z"
+}

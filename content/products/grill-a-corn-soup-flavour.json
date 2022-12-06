@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "80g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$3.94 per 100G"
+    }
+  ],
+  "brand": "Calbee",
+  "createdAt": "2022-12-05T06:15:18.186Z",
+  "description": "Calbee Grill A Corn Soup Flavour",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/0/5/5050061.jpg",
+  "name": "Grill A Corn Soup Flavour",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3.15,
+    "lowPrice": 3.15,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/OutOfStock",
+        "availabilityStarts": "2022-12-05T06:15:18.186Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "3.15",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/corn-soup-flavour"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/corn-soup-flavour"
+  ],
+  "sku": "5050061",
+  "updatedAt": "2022-12-05T06:15:18.186Z"
+}

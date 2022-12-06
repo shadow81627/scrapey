@@ -1,0 +1,58 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Allergen",
+      "value": "Contains Soybean, May Contain Peanuts, May Contain Tree Nuts"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "6.0"
+    },
+    {
+      "name": "Size",
+      "value": "450mL"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.89 per 100mL"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Product of Australia"
+    }
+  ],
+  "brand": "Proud & Punch",
+  "createdAt": "2022-12-05T03:50:07.187Z",
+  "description": "Proud & Punch Coconuts For Mango",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/2/5/3258662.jpg",
+  "name": "Coconuts For Mango",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 8.5,
+    "lowPrice": 8.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-05T03:50:07.186Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "8.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/peters-proud-punch-coconuts-for-mango"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/peters-proud-punch-coconuts-for-mango"
+  ],
+  "sku": "3258662",
+  "updatedAt": "2022-12-05T03:50:07.186Z"
+}

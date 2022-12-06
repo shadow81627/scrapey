@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "approx. 200g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$4.50 per 1Kg"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2022-12-06T03:07:05.792Z",
+  "description": "Coles Red Onions Loose",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/4/2/1/4218459.jpg",
+  "name": "Red Onions Loose",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 0.9,
+    "lowPrice": 0.9,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T03:07:05.792Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "0.90",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/onions-red-loose"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/onions-red-loose"
+  ],
+  "sku": "4218459",
+  "updatedAt": "2022-12-06T03:07:05.792Z"
+}

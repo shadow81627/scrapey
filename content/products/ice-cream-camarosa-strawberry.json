@@ -1,0 +1,54 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Allergen",
+      "value": "Contains Soybean, May Contain Peanuts, May Contain Wheat, May Contain Tree Nuts, Contains Milk"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "10.0"
+    },
+    {
+      "name": "Size",
+      "value": "1L"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.20 per 100mL"
+    }
+  ],
+  "brand": "Connoisseur",
+  "createdAt": "2022-12-04T16:31:47.874Z",
+  "description": "Camarosa strawberry is characterised by its deep red colour and sweetness. First Camarosa strawberries are crushed into a tangy puree, then combined into creamy ice cream that is swirled with a fragrant Camarosa strawberry sauce. Offering a sweet and aromatic flavour sensation.",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/7/1/3716508.jpg",
+  "name": "Ice Cream Camarosa Strawberry",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 12,
+    "lowPrice": 12,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-04T16:31:47.874Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "12.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/peters-connoisseur-ice-cream-strawberry"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/peters-connoisseur-ice-cream-strawberry"
+  ],
+  "sku": "3716508",
+  "updatedAt": "2022-12-04T16:31:47.874Z"
+}

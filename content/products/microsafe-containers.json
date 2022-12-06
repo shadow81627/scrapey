@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "5 pack"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$2.66 per 1Ea"
+    }
+  ],
+  "brand": "Decor",
+  "createdAt": "2022-12-06T03:28:12.305Z",
+  "description": "Decor Microsafe Containers",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/9/9/3996415.jpg",
+  "name": "Microsafe Containers",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 13.3,
+    "lowPrice": 13.3,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T03:28:12.305Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "13.30",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/containers-3996415p-1"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/containers-3996415p-1"
+  ],
+  "sku": "3996415",
+  "updatedAt": "2022-12-06T03:28:12.305Z"
+}

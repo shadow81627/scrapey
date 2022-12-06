@@ -1,0 +1,58 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Mung Bean Starch (87%), Water"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "2.0"
+    },
+    {
+      "name": "Size",
+      "value": "100g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$11.50 per 1Kg"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Product of China from Imported ingredients"
+    }
+  ],
+  "brand": "Double Phoenix",
+  "createdAt": "2022-12-05T06:16:56.289Z",
+  "description": "Double Phoenix Premium Bean Vermicelli",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/9/7/6/9765040.jpg",
+  "name": "Premium Bean Vermicelli",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 1.15,
+    "lowPrice": 1.15,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-05T06:16:56.288Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "1.15",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/double-phoenix-vermicelli-bean-premium"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/double-phoenix-vermicelli-bean-premium"
+  ],
+  "sku": "9765040",
+  "updatedAt": "2022-12-05T06:16:56.288Z"
+}

@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Pepperjack"
+  },
+  "createdAt": "2022-12-05T22:46:09.410Z",
+  "description": "This is a classic South Australian Shiraz. Pepperjack Barossa Shiraz is rich, smooth and supple with dark fruit flavours. It's a firm favourite with many an Aussie Shiraz lover, and it's easy to see why. A great drop to enjoy if you're eating out, or staying in for a casual meal.<br><br><strong>Varietal: </strong>Shiraz<br><strong>Liquor Style: </strong>Dry Red<br><strong>Region Of Origin: </strong>Barossa Valley<br><strong>Country Of Origin: </strong>Australia<br><strong>Vintage: </strong>2018*<br><strong>Alcohol %: </strong>14.5<br><strong>Standard Drinks: </strong>8.6",
+  "gtin13": "9300770033255",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/144469.jpg",
+  "name": "Pepperjack Shiraz Barossa 750mL",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 18,
+    "lowPrice": 18,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-12-05T22:46:09.409Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 18,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/144469/pepperjack-shiraz-barossa"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/144469/pepperjack-shiraz-barossa"
+  ],
+  "sku": "144469",
+  "updatedAt": "2022-12-05T22:46:09.409Z"
+}

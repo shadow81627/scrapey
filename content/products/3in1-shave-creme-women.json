@@ -1,0 +1,50 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "100g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$7.30 per 100G"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Australian Owned and Made"
+    }
+  ],
+  "brand": "TriShave",
+  "createdAt": "2022-12-06T05:18:00.142Z",
+  "description": "TriShave 3IN1 Shave Creme Women",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/9/8/3/9833457.jpg",
+  "name": "3IN1 Shave Creme Women",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 7.3,
+    "lowPrice": 7.3,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T05:18:00.141Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "7.30",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/tri-shave-her-shave-cream-3-in-1"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/tri-shave-her-shave-cream-3-in-1"
+  ],
+  "sku": "9833457",
+  "updatedAt": "2022-12-06T05:18:00.142Z"
+}

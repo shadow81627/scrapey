@@ -1,0 +1,50 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Warning",
+      "value": "Diamond flammable symbol . Extremely flammable box logo"
+    },
+    {
+      "name": "Size",
+      "value": "250mL"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$4.60 per 100mL"
+    }
+  ],
+  "brand": "Lynx",
+  "createdAt": "2022-12-04T15:49:44.869Z",
+  "description": "Lynx Antiperspirant Deodorant Black",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/4/5/0/4506420.jpg",
+  "name": "Antiperspirant Deodorant Black",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 11.5,
+    "lowPrice": 11.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-04T15:49:44.868Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "11.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/deodorant-black"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/deodorant-black"
+  ],
+  "sku": "4506420",
+  "updatedAt": "2022-12-04T15:49:44.868Z"
+}

@@ -1,0 +1,50 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Warning",
+      "value": "This product contains cadmium, mercury (excl Wa) and lead (excl Wa). Continued use of this product in agricultural situations may lead to residue levels in plant and animal products in excess of the maximum level specified by the Australian New Zealand Food Standards Code and the accumulation of cadmium, mercury (excl WA) and lead (excl WA) in soils."
+    },
+    {
+      "name": "Size",
+      "value": "500g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$11.00 per 1Kg"
+    }
+  ],
+  "brand": "Brunnings",
+  "createdAt": "2022-12-06T03:11:54.572Z",
+  "description": "Brunnings All Purpose NPK Fertiliser",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/8/6/7/8677979.jpg",
+  "name": "All Purpose NPK Fertiliser",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 5.5,
+    "lowPrice": 5.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T03:11:54.572Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "5.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/brunnings-all-purpose-npk-fertiliser"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/brunnings-all-purpose-npk-fertiliser"
+  ],
+  "sku": "8677979",
+  "updatedAt": "2022-12-06T03:11:54.572Z"
+}

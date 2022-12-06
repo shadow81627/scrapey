@@ -1,107 +1,148 @@
 {
   "@type": "Recipe",
-  "aggregateRating": {
-    "@type": "AggregateRating",
-    "ratingCount": "5",
-    "ratingValue": "5"
+  "articleSection": "Recipes",
+  "brand": {
+    "@type": "Thing",
+    "name": "The Kitchn"
   },
-  "author": {
-    "@type": "Person",
-    "name": "Alissa Saenz"
-  },
-  "cookTime": "PT40M",
+  "cookTime": "PT1500S",
   "createdAt": "2022-11-29T22:46:26.000Z",
-  "datePublished": "2022-03-30T09:53:52+00:00",
-  "description": "This easy eggplant curry is made with tender eggplant and hearty chickpeas in a creamy tomato-based sauce. It&#39;s bursting with flavor and easy to make!",
+  "creator": {
+    "@type": "Person",
+    "name": "Perry Santanachote"
+  },
+  "dateCreated": "2022-08-12T15:30:00-04:00",
+  "dateModified": "2022-08-09T12:57:15-04:00",
+  "datePublished": "2022-08-12T15:30:00-04:00",
+  "description": "This 30-minute eggplant curry tastes as if it was simmered for hours. Did we mention it just happens to be vegan?",
+  "headline": "Creamy Coconut Eggplant Curry",
+  "HowtoTip": {
+    "text": "Storage: Refrigerate leftovers in an airtight container for up to 5 days."
+  },
   "image": [
-    "https://www.connoisseurusveg.com/wp-content/uploads/2021/07/eggplant-curry-sq-1-of-1.jpg",
-    "https://www.connoisseurusveg.com/wp-content/uploads/2021/07/eggplant-curry-sq-1-of-1-500x500.jpg",
-    "https://www.connoisseurusveg.com/wp-content/uploads/2021/07/eggplant-curry-sq-1-of-1-500x375.jpg",
-    "https://www.connoisseurusveg.com/wp-content/uploads/2021/07/eggplant-curry-sq-1-of-1-480x270.jpg"
+    {
+      "@type": "ImageObject",
+      "url": "https://cdn.apartmenttherapy.info/image/upload/f_jpg,q_auto:eco,c_fill,g_auto,w_1500,ar_16:9/k%2FPhoto%2FRecipe%20Ramp%20Up%2F2022-08-Eggplant-Curry%2Feggplant-curry-1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "https://cdn.apartmenttherapy.info/image/upload/f_jpg,q_auto:eco,c_fill,g_auto,w_1500,ar_4:3/k%2FPhoto%2FRecipe%20Ramp%20Up%2F2022-08-Eggplant-Curry%2Feggplant-curry-1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "https://cdn.apartmenttherapy.info/image/upload/f_jpg,q_auto:eco,c_fill,g_auto,w_1500,ar_1:1/k%2FPhoto%2FRecipe%20Ramp%20Up%2F2022-08-Eggplant-Curry%2Feggplant-curry-1"
+    }
   ],
-  "keywords": "eggplant recipe, vegan curry recipe",
+  "keywords": [
+    "recipe",
+    "recipe library",
+    "vegetarian",
+    "Dairy-Free",
+    "Gluten-Free",
+    "vegan",
+    "pantry",
+    "vegetables",
+    "Main Dish",
+    "quick",
+    "sauce",
+    "One-Dish Meal",
+    "dinner",
+    "team:food",
+    "platform:search",
+    "course:main dish",
+    "dishtype:sauce",
+    "timing:quick",
+    "timing:30-minute",
+    "occasion:timing",
+    "occasion:weekday",
+    "mainingredients:vegetable",
+    "mainingredients:pantry",
+    "method:one-pot",
+    "method:cooking vessel",
+    "method:dutch oven",
+    "diet:dairy-free",
+    "diet:vegetarian",
+    "diet:gluten-free",
+    "diet:vegan",
+    "meal:dinner"
+  ],
   "name": "Creamy Coconut Eggplant Curry",
   "nutrition": {
     "@type": "NutritionInformation",
-    "calories": "404 kcal",
-    "carbohydrateContent": "33.2 g",
-    "fatContent": "29.7 g",
-    "fiberContent": "10.2 g",
-    "proteinContent": "7.4 g",
-    "saturatedFatContent": "16.6 g",
-    "servingSize": "1 cup",
-    "sodiumContent": "428 mg",
-    "sugarContent": "9.4 g"
+    "calories": "178 cal",
+    "carbohydrateContent": "12.5 g",
+    "cholesterolContent": "0 mg",
+    "fatContent": "14.7 g",
+    "fiberContent": "4.7 g",
+    "proteinContent": "3.4 g",
+    "saturatedFatContent": "12.6 g",
+    "servingSize": "Serves 6",
+    "sodiumContent": "534.7 mg",
+    "sugarContent": "5.5 g",
+    "unsaturatedFatContent": "0.0 g"
   },
-  "prepTime": "PT20M",
-  "recipeCategory": "Entree",
-  "recipeCuisine": "American",
+  "prepTime": "PT300S",
+  "publisher": {
+    "@type": "Organization",
+    "logo": {
+      "@type": "ImageObject",
+      "height": 46,
+      "url": "https://www.thekitchn.com/static/logos/publisher-logo.png",
+      "width": 180
+    },
+    "name": "Apartment Therapy, LLC."
+  },
+  "recipeCategory": "Main dish",
+  "recipeCuisine": [],
   "recipeIngredient": [
-    "5 tablespoons olive oil (or as needed), divided)",
-    "1 1/2 pounds eggplant, (cut into 1-inch pieces)",
-    "1 medium onion, (diced)",
-    "3 garlic cloves, (minced)",
-    "2 teaspoons freshly grated ginger",
-    "1/2 serrano pepper, (seeded and minced (optional)",
-    "2 teaspoons garam masala, (plus up to 1 additional tablespoon, to taste)",
+    "1 medium jalapeño pepper",
+    "1 large shallot",
+    "3 cloves garlic",
+    "1 pound globe eggplant (about 1 medium)",
+    "3 tablespoons neutral oil, such as vegetable, divided",
+    "2 teaspoons kosher salt, plus more as needed",
+    "2 teaspoons curry powder",
     "1 teaspoon ground cumin",
-    "1 teaspoon sweet paprika",
-    "1 (14 ounce or 400 gram) can fire roasted tomatoes",
-    "1 (14 ounce or 400 ml) can full-fat coconut milk",
-    "1 (14 ounce or 400 gram) can chickpeas, (drained and rinsed)",
-    "2 tablespoons tomato paste",
-    "1 teaspoon sugar",
-    "1 tablespoon lemon juice",
-    "1/2 teaspoon salt, (plus more to taste)",
-    "1/4 cup fresh cilantro",
-    "Cooked rice, (for serving)"
+    "1 teaspoon ground coriander",
+    "1 (about 14-ounce) can coconut milk",
+    "1 (14.5-ounce) can diced tomatoes",
+    "1/4 cup fresh cilantro leaves",
+    "Steamed rice, for serving",
+    "Lime wedges, for serving (optional)"
   ],
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "text": "Coat the bottom of a large nonstick skillet generously with olive oil and place it over medium heat."
+      "text": "Prepare the following, placing each in the same small bowl as you complete it: Mince 1 medium jalapeño pepper, 1 large shallot, and 3 garlic cloves."
     },
     {
       "@type": "HowToStep",
-      "text": "When the oil is hot, add eggplant pieces in an even layer. Don't crowd the skillet or pile the pieces on top of each other — cook the eggplant in batches if needed."
+      "text": "Trim and cut 1 pound eggplant into 1/2-inch cubes."
     },
     {
       "@type": "HowToStep",
-      "text": "Cook the eggplant for about 10 minutes, flipping halfway through, until the pieces are lightly browned."
+      "text": "Heat 2 tablespoons of the neutral oil in a small pot or large saucepan over medium heat until shimmering. Add the eggplant and 2 teaspoons kosher salt, and cook until the eggplant begins to brown and soften, about 5 minutes."
     },
     {
       "@type": "HowToStep",
-      "text": "While the eggplant cooks, coat the bottom of a large pot with 1 tablespoon of oil and place it over medium heat."
+      "text": "Make a well in the center of the pot. Add the remaining 1 tablespoon neutral oil to the well, then addd the jalapeño mixture into the well. Sauté until fragrant and soft, about 1 minute."
     },
     {
       "@type": "HowToStep",
-      "text": "Add the onion and cook it, stirring occasionally, for about 5 minutes, until soft and translucent."
+      "text": "Add 2 teaspoons curry powder, 1 teaspoon ground cumin, and 1 teaspoon ground coriander, and sauté until fragrant, about 30 seconds. Add 1 (about 14-ounce) can coconut milk and 1 (14.5-ounce) can diced tomatoes and their juices, and scrape any browned bits from the bottom of the pot. Bring to a gentle simmer, reducing the heat as needed."
     },
     {
       "@type": "HowToStep",
-      "text": "Stir in the garlic, ginger, serrano pepper (if using) and spices. Cook the mixture for about 1 minute, until very fragrant."
-    },
-    {
-      "@type": "HowToStep",
-      "text": "Stir in the cooked eggplant, fire roasted tomatoes, coconut milk, chickpeas, tomato paste, and sugar."
-    },
-    {
-      "@type": "HowToStep",
-      "text": "Raise the heat and bring the mixture to a boil. Lower the heat and allow it to simmer, uncovered, for about 20 minutes, until the sauce is thick and the eggplant is tender."
-    },
-    {
-      "@type": "HowToStep",
-      "text": "Remove the pot from heat. Stir in the lemon juice and salt. Taste-test and add more salt if desired."
-    },
-    {
-      "@type": "HowToStep",
-      "text": "Sprinkle with fresh cilantro and serve over rice."
+      "text": "Cover and simmer until the eggplant is tender and the sauce is creamy and thickened, about 15 minutes. Taste and season with more kosher salt as needed. Garnish with 1/4 cup fresh cilantro leaves and serve with steamed rice and lime wedges if desired."
     }
   ],
-  "recipeYield": "6",
+  "recipeYield": 4,
   "sameAs": [
-    "https://connoisseurusveg.com/eggplant-curry"
+    "https://thekitchn.com/eggplant-curry-recipe-23406005"
   ],
-  "totalTime": "PT60M",
-  "updatedAt": "2022-11-29T17:14:31.740Z"
+  "suitableforDiet": "https://schema.org/GlutenFreeDiet,https://schema.org/LowLactoseDiet,https://schema.org/VeganDiet,https://schema.org/VegetarianDiet",
+  "thumbnailUrl": "https://cdn.apartmenttherapy.info/image/upload/f_auto,q_auto:eco,c_fill,g_auto,w_1500,ar_3:2/k%2FPhoto%2FRecipe%20Ramp%20Up%2F2022-08-Eggplant-Curry%2Feggplant-curry-1",
+  "totalTime": "PT1800S",
+  "updatedAt": "2022-12-04T21:00:51.638Z",
+  "url": "https://www.thekitchn.com/eggplant-curry-recipe-23406005"
 }

@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "1 pack"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$23.00 per 1Ea"
+    }
+  ],
+  "brand": "Outdoor",
+  "createdAt": "2022-12-06T03:21:00.808Z",
+  "description": "OUTDOOR LIFE Gardening 15metre hose - The 15-meter garden hose is great for gardening, car washing, and regular cleaning around the house or yard. It comes with all hose accessories for ready to use.",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/9/9/3990066.jpg",
+  "name": "Life Garden Hose 15m",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 23,
+    "lowPrice": 23,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T03:21:00.807Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "23.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/outdor-life-garden-hose"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/outdor-life-garden-hose"
+  ],
+  "sku": "3990066",
+  "updatedAt": "2022-12-06T03:21:00.807Z"
+}

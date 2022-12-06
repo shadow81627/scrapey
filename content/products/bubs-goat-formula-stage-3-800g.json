@@ -1,0 +1,60 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "524kJ",
+      "carbohydrateContent": "13.7g",
+      "dietary_fibre": "-",
+      "fatContent": "5.7g",
+      "name": "nutrition",
+      "proteinContent": "4.8g",
+      "saturatedFatContent": "-",
+      "servingSize": "100 g",
+      "sodiumContent": "56mg",
+      "sugarContent": "-"
+    }
+  ],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Bubs"
+  },
+  "createdAt": "2022-12-05T23:33:52.576Z",
+  "description": "<p>Bubs Easy-digest Goat Milk Stage 3 is exclusively formulated for tiny Australian tummies aged 12 to 36 months.<BR><BR>Bubs formulation is made with the goodness of Australian goat milk, which naturally contains A2 Goat Protein. Goat milk naturally supports gentle digestion & may be a good alternative for those with sensitive tummies.<br/><br/>Bubs formulation is enriched with essential nutrients to support your childs growth and development: <br/><br/>• Prebiotic GOS<br/>• Omega-3 DHA & Omega-6 ARA <br/>• Plus 16 essential vitamins & minerals<BR><BR>Australian goat milk<BR><BR>A2 goat protein<BR><BR>Easy to digest<BR><BR>Naturally gentle<BR><BR>With prebiotics<BR><BR>With 16 vitamins & minerals</p>",
+  "gtin13": "9338078005551",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/023525.jpg",
+  "name": "Bubs Goat Formula Stage 3 800g",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 39,
+    "lowPrice": 39,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-12-05T23:33:52.575Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 39,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/23525/bubs-goat-formula-stage-3"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/23525/bubs-goat-formula-stage-3"
+  ],
+  "sku": "23525",
+  "updatedAt": "2022-12-05T23:33:52.575Z"
+}

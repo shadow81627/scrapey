@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Windex"
+  },
+  "createdAt": "2022-12-06T00:29:04.680Z",
+  "description": "Trusted by generations for a streak-free shine, Windex Original Glass Cleaner is a great solution for lightening, brightening and sparkling your home.<BR><BR>Windex Glass Cleaner starts working on dirt, grime, fingerprints and other messes even before you wipe.<br /> <br /> Works great on: Glass, mirrors, countertops, appliances, sealed granite, sealed marble, laminate, stainless steel.<br />  <br /> Give Life a Sparkle with Windex cleaners! <BR><BR>Perfect for cleaning glass, windows and more!<BR><BR>Removes fingerprints, smudges and smears<BR><BR>Leaves a streak-free shine!<BR><BR>Lightens and brightens your home leaving it sparkling clean<BR><BR>Starts working on smudges and smears even before you wipe",
+  "gtin13": "9300622105185",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/027210.jpg",
+  "name": "Windex Glass Cleaner Trigger 500mL",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 4.8,
+    "lowPrice": 4.8,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T00:29:04.679Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 4.8,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/27210/windex-glass-cleaner-trigger"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/27210/windex-glass-cleaner-trigger"
+  ],
+  "sku": "27210",
+  "updatedAt": "2022-12-06T00:29:04.679Z"
+}

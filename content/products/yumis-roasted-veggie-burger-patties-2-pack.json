@@ -1,0 +1,59 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "1750.00kJ",
+      "carbohydrateContent": "27.20g",
+      "dietary_fibre": "9.50g",
+      "fatContent": "12.50g",
+      "name": "nutrition",
+      "proteinContent": "11.10g",
+      "saturatedFatContent": "1.10g",
+      "servingSize": "100 g",
+      "sodiumContent": "385.00mg",
+      "sugarContent": "4.30g"
+    }
+  ],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Yumi's"
+  },
+  "createdAt": "2022-12-05T10:33:07.999Z",
+  "gtin13": "9317444004039",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/239185.jpg",
+  "name": "Yumi's Roasted Veggie Burger Patties 2 Pack",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 5.5,
+    "lowPrice": 5.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-12-05T10:33:07.998Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 5.5,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/239185/yumi-s-roasted-veggie-burger-patties"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/239185/yumi-s-roasted-veggie-burger-patties"
+  ],
+  "sku": "239185",
+  "updatedAt": "2022-12-05T10:33:07.998Z"
+}

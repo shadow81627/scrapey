@@ -1,0 +1,50 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "1L"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$2.00 per 100mL"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Product of Spain"
+    }
+  ],
+  "brand": "La Espanola",
+  "createdAt": "2022-12-05T05:07:22.645Z",
+  "description": "La Espanola Extra Virgin olive oil Superior category olive oil obtained directly from olives and solely by mechanical means",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/4/7/4/4746683.jpg",
+  "name": "Organic Extra Virgin Olive Oil",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 20,
+    "lowPrice": 20,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-05T05:07:22.644Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "20.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/extra-virgin-olive-oil-4746683p-1"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/extra-virgin-olive-oil-4746683p-1"
+  ],
+  "sku": "4746683",
+  "updatedAt": "2022-12-05T05:07:22.644Z"
+}

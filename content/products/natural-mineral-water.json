@@ -2,59 +2,49 @@
   "@type": "Product",
   "additionalProperty": [
     {
-      "name": "Ingredients",
-      "value": "Carbonated Natural Mineral Water."
-    },
-    {
       "name": "Size",
-      "value": "1.1L"
+      "value": "750mL"
     },
     {
       "name": "Unit Price",
-      "value": "$2.27 per 1L"
+      "value": "$3.13 per 1L"
     },
     {
       "name": "Country Of Origin",
-      "value": "Product of Australia"
+      "value": "Product of France"
     }
   ],
-  "brand": "Schweppes",
+  "brand": "Evian",
   "createdAt": "2020-10-12T05:22:04.000Z",
-  "description": "Schweppes Natural Mineral Water",
-  "image": {
-    "@type": "ImageObject",
-    "height": 300,
-    "mime": "image/jpeg",
-    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/0/1/3014974.jpg",
-    "width": 300
-  },
+  "description": "Evian Natural Mineral Water",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/1/1/7/1172067.jpg",
   "name": "Natural Mineral Water",
   "offers": {
     "@type": "AggregateOffer",
-    "highPrice": 2.5,
-    "lowPrice": 2.5,
+    "highPrice": 2.35,
+    "lowPrice": 2.35,
     "offerCount": 1,
     "offers": [
       {
         "@context": "http://schema.org",
         "@type": "Offer",
         "availability": "https://schema.org/InStock",
-        "availabilityStarts": "2022-11-29T04:19:24.161Z",
+        "availabilityStarts": "2022-12-04T14:11:35.658Z",
         "itemCondition": "https://schema.org/NewCondition",
         "offeredBy": "Coles",
-        "price": "2.50",
+        "price": "2.35",
         "priceCurrency": "AUD",
         "seller": {
           "@type": "Organization",
           "name": "Coles"
         },
-        "url": "https://shop.coles.com.au/a/national/product/schweppes-natural-mineral-water"
+        "url": "https://shop.coles.com.au/a/national/product/evian-water-spring-sports-cap"
       }
     ]
   },
   "sameAs": [
-    "https://shop.coles.com.au/a/national/product/schweppes-natural-mineral-water"
+    "https://shop.coles.com.au/a/national/product/evian-water-spring-sports-cap"
   ],
-  "sku": "3014974",
-  "updatedAt": "2022-11-29T04:19:24.162Z"
+  "sku": "1172067",
+  "updatedAt": "2022-12-04T14:11:35.658Z"
 }

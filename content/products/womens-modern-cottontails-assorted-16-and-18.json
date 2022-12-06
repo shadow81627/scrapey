@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "2 pack"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$5.00 per 1Ea"
+    }
+  ],
+  "brand": "Bonds",
+  "createdAt": "2022-12-05T00:48:53.690Z",
+  "description": "Bonds Womens Modern Cottontails Assorted 16 & 18",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/4/9/6/4962587.jpg",
+  "name": "Womens Modern Cottontails Assorted 16 & 18",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 10,
+    "lowPrice": 10,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/OutOfStock",
+        "availabilityStarts": "2022-12-05T00:48:53.689Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "10.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/cottontails-asstd-16-18"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/cottontails-asstd-16-18"
+  ],
+  "sku": "4962587",
+  "updatedAt": "2022-12-05T00:48:53.689Z"
+}

@@ -1,0 +1,60 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "770kJ",
+      "carbohydrateContent": "28.4g",
+      "dietary_fibre": "3.4g",
+      "fatContent": "4.8g",
+      "name": "nutrition",
+      "proteinContent": "4.8g",
+      "saturatedFatContent": "2.7g",
+      "servingSize": "100 g",
+      "sodiumContent": "255mg",
+      "sugarContent": "1.3g"
+    }
+  ],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Helga's"
+  },
+  "createdAt": "2022-12-05T21:22:50.482Z",
+  "description": "Helga's Wraps Traditional Wholemeal has lower sodium (25% less sodium than other leading brands compared to 540mg/100g average for 80% of the wraps market (February 2021)). Contains no artificial colours, flavours or preservatives and no added sugar. 60% of whole grain daily target intake (One serve (1 wrap) of Helga's Wholemeal Wraps contributes 60% towards the Grains & Legumes Nutrition Council 48g whole grain Daily Target Intake).<BR><BR>Helga's bakers begin with care by selecting the best quality ingredients, those that bring out the best taste in each other. From mixing, proving, pressing and baking, we allow their true flavours to shine through in our wraps.<br /><br />- Lower in Sodium (25% less sodium than other leading brands compared to 540mg/100g average for 80% of the wraps market (February 2021))<br />- Source of Fibre<br />- 60% of your whole grain, daily target intake (One serve (1 wrap) of Helga's Wholemeal Wraps contributes 60% towards the Grains & Legumes Nutrition Council 48g whole grain Daily Target Intake).<br />- Suitable for vegans<br />- No artificial colours, flavours or preservatives<br />- No added sugar",
+  "gtin13": "9310023145475",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/182092.jpg",
+  "name": "Helga's Traditional Wholemeal Wraps 8 Pack",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 4,
+    "lowPrice": 4,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-12-05T21:22:50.481Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 4,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/182092/helga-s-traditional-wholemeal-wraps"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/182092/helga-s-traditional-wholemeal-wraps"
+  ],
+  "sku": "182092",
+  "updatedAt": "2022-12-05T21:22:50.481Z"
+}

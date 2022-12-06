@@ -1,0 +1,54 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "<strong>INGREDIENTS:</strong> Roasted Nuts [<strong>Almonds</strong>, <strong>Walnuts</strong>, <strong>Cashew</strong> Nuts, <strong>Pecan</strong> Nuts, <strong>Hazelnut</strong>, <strong>Macadamia</strong> Nut], Sunflower Oil."
+    },
+    {
+      "name": "Allergen",
+      "value": "May Contain Pine, May Contain SULPHITES, Contains Walnut, Contains Pecan, May Contain EGG, May Contain MILK, May Contain SOY, May Contain SESAME, May Contain Brazil Nuts, Contains Macadamia Nuts, May Contain Wheat, Contains Almonds, Contains Hazelnuts, May Contain PEANUTS, Contains Cashew, May Contain Pistachios, May Contain Gluten"
+    },
+    {
+      "name": "Size",
+      "value": "approx. 100g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$29.00 per 1Kg"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2022-12-05T08:47:28.455Z",
+  "description": "Crunchy almonds roasted in high oleic sunflower oil with no added salt. A great snack or add them to platters, rice dishes or salads.",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/8/4/1/8412136.jpg",
+  "name": "Supreme Roasted Unsalted Mixed Nuts",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2.9,
+    "lowPrice": 2.9,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-05T08:47:28.455Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "2.90",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/scoop-weigh-mixed-nuts-supreme-unsalted"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/scoop-weigh-mixed-nuts-supreme-unsalted"
+  ],
+  "sku": "8412136",
+  "updatedAt": "2022-12-05T08:47:28.455Z"
+}

@@ -1,0 +1,54 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "INGREDIENTS: Chicken, Soybean Oil, Vitamins and Minerals, Thickeners. Chicken, Salmon, Soybean Oil, Vitamins and Minerals, Thickeners, Rice."
+    },
+    {
+      "name": "Warning",
+      "value": "Pet food only."
+    },
+    {
+      "name": "Size",
+      "value": "12 pack"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.18 per 100G"
+    }
+  ],
+  "brand": "Purr",
+  "createdAt": "2022-12-05T12:05:11.158Z",
+  "description": "Spoil your feline friend with a wide selection of gourmet flavours, a delicious meal theyll be sure to love.",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/7/0/3707880.jpg",
+  "name": "Chicken Selection Cat Food 12x85g",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 12,
+    "lowPrice": 12,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-05T12:05:11.157Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "12.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/purr-cat-fod-chicken-selection"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/purr-cat-fod-chicken-selection"
+  ],
+  "sku": "3707880",
+  "updatedAt": "2022-12-05T12:05:11.157Z"
+}

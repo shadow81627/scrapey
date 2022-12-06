@@ -1,0 +1,50 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Meats (including Pork &/or Chicken &/or Beef &/or Sheep), Binder (Cereal), Fish (including Tuna), Plant Fibre, Thickener, Vitamins & Minerals, Gelling Agents, Flavours, Salt, Amino Acid, Colouring Agents, Beta Carotene."
+    },
+    {
+      "name": "Size",
+      "value": "85g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.88 per 100G"
+    }
+  ],
+  "brand": "Dine",
+  "createdAt": "2022-12-05T12:03:04.793Z",
+  "description": "Dine Pulled Menu Gravy Indulgence Tuna Cat Food",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/1/9/5190446.jpg",
+  "name": "Pulled Menu Gravy Indulgence Tuna Cat Food",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 1.6,
+    "lowPrice": 1.6,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/OutOfStock",
+        "availabilityStarts": "2022-12-05T12:03:04.793Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "1.60",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/cat-food-gravy-indlgnc-tn"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/cat-food-gravy-indlgnc-tn"
+  ],
+  "sku": "5190446",
+  "updatedAt": "2022-12-05T12:03:04.793Z"
+}

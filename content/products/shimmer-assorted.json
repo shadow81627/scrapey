@@ -1,0 +1,42 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Unit Price",
+      "value": "$9.00 per 1Ea"
+    }
+  ],
+  "brand": "Steffi Love",
+  "createdAt": "2022-12-05T11:15:11.436Z",
+  "description": "Steffi Love Shimmer Assorted",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/4/9/5494860.jpg",
+  "name": "Shimmer Assorted",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 9,
+    "lowPrice": 9,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/OutOfStock",
+        "availabilityStarts": "2022-12-05T11:15:11.435Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "9.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/shimmer-assorted"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/shimmer-assorted"
+  ],
+  "sku": "5494860",
+  "updatedAt": "2022-12-05T11:15:11.435Z"
+}

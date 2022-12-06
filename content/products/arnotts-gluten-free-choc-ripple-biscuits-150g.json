@@ -1,0 +1,60 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "357.0kJ",
+      "carbohydrateContent": "13.2g",
+      "dietary_fibre": "0.6g",
+      "fatContent": "3.0g",
+      "name": "nutrition",
+      "proteinContent": "0.8g",
+      "saturatedFatContent": "2.0g",
+      "servingSize": "100 g",
+      "sodiumContent": "98.0mg",
+      "sugarContent": "6.3g"
+    }
+  ],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Arnott's"
+  },
+  "createdAt": "2022-12-05T14:14:24.343Z",
+  "description": "<p>Arnott’s Gluten Free Choc Ripple is the delicious, sweet biscuit that is perfect for dunking, with its rich cocoa flavour and delectable crunch. Delicious for gluten avoiders on its own or in your favourite baking recipe such as our Choc Ripple Log, so that even more Aussies can enjoy a tasty treat.<br/><br/>Gluten Free.<br/>Cocoa flavour.<br/>No artificial colours.<br/>No preservatives.<br/>Suitable for gluten avoiders.</p>",
+  "gtin13": "9310072032832",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/168908.jpg",
+  "name": "Arnott's Gluten Free Choc Ripple Biscuits 150g",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 4.7,
+    "lowPrice": 4.7,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-12-05T14:14:24.343Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 4.7,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/168908/arnott-s-gluten-free-choc-ripple-biscuits"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/168908/arnott-s-gluten-free-choc-ripple-biscuits"
+  ],
+  "sku": "168908",
+  "updatedAt": "2022-12-05T14:14:24.343Z"
+}

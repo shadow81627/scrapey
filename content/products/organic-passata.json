@@ -1,0 +1,58 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Organic tomatoes 99.5%, salt."
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "5.0"
+    },
+    {
+      "name": "Size",
+      "value": "560g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.48 per 100G"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Made in Italy"
+    }
+  ],
+  "brand": "Mutti",
+  "createdAt": "2022-12-06T05:41:35.429Z",
+  "description": "Mutti Organic Passata",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/5/9/3591130.jpg",
+  "name": "Organic Passata",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2.7,
+    "lowPrice": 2.7,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T05:41:35.428Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "2.70",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/mutti-organic-passata"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/mutti-organic-passata"
+  ],
+  "sku": "3591130",
+  "updatedAt": "2022-12-06T05:41:35.428Z"
+}

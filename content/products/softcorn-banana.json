@@ -1,0 +1,54 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Organic Corn Flour (72%), Organic Banana Powder (14%), Organic Sunflower Oil, Mineral (Iron), Organic Antioxidant (Organic Rosemary Extract)."
+    },
+    {
+      "name": "Size",
+      "value": "8g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$25.00 per 100G"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Made in the United Kingdom"
+    }
+  ],
+  "brand": "Little Bellies",
+  "createdAt": "2022-12-05T16:14:02.314Z",
+  "description": "Little Bellies Softcorn Banana",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/8/0/2800711.jpg",
+  "name": "Softcorn Banana",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2,
+    "lowPrice": 2,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-05T16:14:02.313Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "2.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/little-bellies-softcorn-banana"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/little-bellies-softcorn-banana"
+  ],
+  "sku": "2800711",
+  "updatedAt": "2022-12-05T16:14:02.313Z"
+}

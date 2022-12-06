@@ -1,0 +1,62 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "<strong>Pistachio</strong> Nuts."
+    },
+    {
+      "name": "Allergen",
+      "value": "May Be Present SOY, Contains TREE NUTS, Contains Pistachios, May Be Present OTHER TREE NUTS, May Be Present PEANUTS"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "2.0"
+    },
+    {
+      "name": "Size",
+      "value": "80g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$62.50 per 1Kg"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Product of USA"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2022-12-05T16:50:22.965Z",
+  "description": "Coles Pistachios 80 gram ready to go. Eat them on their own or add to other healthy products to create a trail Mix",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/0/4/3041219.jpg",
+  "name": "Pistachios",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 5,
+    "lowPrice": 5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-05T16:50:22.965Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "5.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-pistachio-kernels"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/coles-pistachio-kernels"
+  ],
+  "sku": "3041219",
+  "updatedAt": "2022-12-05T16:50:22.965Z"
+}

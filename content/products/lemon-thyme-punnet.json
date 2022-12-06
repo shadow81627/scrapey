@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "10g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$3.00 per 10G"
+    }
+  ],
+  "brand": "Fresh",
+  "createdAt": "2022-12-06T03:36:16.923Z",
+  "description": "Often used to add further flavour to chicken, seafood and vegetable dishes. STORAGE: To prolong the life of fresh herbs, wrap them loosely in a damp paper towel and store the bundle in a container in the fridge",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/1/2/3123186.jpg",
+  "name": "Lemon Thyme Punnet",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3,
+    "lowPrice": 3,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T03:36:16.923Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "3.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/fresh-lemon-thyme-punnet-3123186p"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/fresh-lemon-thyme-punnet-3123186p"
+  ],
+  "sku": "3123186",
+  "updatedAt": "2022-12-06T03:36:16.923Z"
+}

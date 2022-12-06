@@ -1,0 +1,42 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Unit Price",
+      "value": "$6.85 per 1Ea"
+    }
+  ],
+  "brand": "Vileda",
+  "createdAt": "2022-12-05T01:19:26.700Z",
+  "description": "Vileda Powerfibres Classic Duster",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/9/5/5/9559923.jpg",
+  "name": "Powerfibres Classic Duster",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 6.85,
+    "lowPrice": 6.85,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-05T01:19:26.699Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "6.85",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/vileda-duster-powerfibres-classic"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/vileda-duster-powerfibres-classic"
+  ],
+  "sku": "9559923",
+  "updatedAt": "2022-12-05T01:19:26.699Z"
+}

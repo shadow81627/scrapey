@@ -1,0 +1,50 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "500g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.70 per 100G"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Product of Thailand"
+    }
+  ],
+  "brand": "Suraya",
+  "createdAt": "2022-12-05T14:23:08.975Z",
+  "description": "Suraya palm sugar is made from natural ingredients composing of coconut juice, cane sugar and water. It is rich in nutritious value and it is very good for making syrups, cookies, cakes and topping for any puddings etc.",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/4/4/7/4476217.jpg",
+  "name": "Palm Sugar",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3.5,
+    "lowPrice": 3.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-05T14:23:08.974Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "3.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/palm-sugar"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/palm-sugar"
+  ],
+  "sku": "4476217",
+  "updatedAt": "2022-12-05T14:23:08.974Z"
+}

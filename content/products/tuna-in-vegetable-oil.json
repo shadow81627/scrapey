@@ -1,0 +1,62 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "INGREDIENTS: Skipjack Tuna (65%),Vegetable Oil (Soya) (18%), Water, Salt."
+    },
+    {
+      "name": "Allergen",
+      "value": "Contains FISH, Contains SOY"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "4.0"
+    },
+    {
+      "name": "Size",
+      "value": "425g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$8.24 per 1Kg"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Made in Thailand"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2022-12-05T20:59:48.963Z",
+  "description": "Coles Tuna In Vegetable Oil",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/9/0/5905013.jpg",
+  "name": "Tuna In Vegetable Oil",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3.5,
+    "lowPrice": 3.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-05T20:59:48.962Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "3.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-smart-buy-tuna-in-vegetable-oil"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/coles-smart-buy-tuna-in-vegetable-oil"
+  ],
+  "sku": "5905013",
+  "updatedAt": "2022-12-05T20:59:48.962Z"
+}

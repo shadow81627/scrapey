@@ -1,0 +1,58 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "<p><strong>INGREDIENTS:</strong> Green Beans, Broccoli Core (Broccoli), Carrot, Red Capsicum, Onion. (In variable proportions)</p>"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "6.6"
+    },
+    {
+      "name": "Warning",
+      "value": "PACKAGING MAY BE PERFORATED FOR PRODUCT AIRFLOW AND STACKING PURPOSES"
+    },
+    {
+      "name": "Size",
+      "value": "500g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.54 per 100G"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2022-12-05T15:19:24.527Z",
+  "description": "100% Australian Grown. We're very proud of our 100% Australian grown vegetables from Aussie farmers like Matthew, James, Justin and Michael. Carefully picked and snap frozen, our vegetables provide you with great quality produce, no matter what the season.",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/2/7/2270243.jpg",
+  "name": "Stir Fry Vegetables",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2.7,
+    "lowPrice": 2.7,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-05T15:19:24.527Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "2.70",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-frozen-stir-fry-vegetables"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/coles-frozen-stir-fry-vegetables"
+  ],
+  "sku": "2270243",
+  "updatedAt": "2022-12-05T15:19:24.527Z"
+}

@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "10 pack"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.35 per 1Ea"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2022-12-05T00:14:12.951Z",
+  "description": "Add some character and extra sparkle to your party or celebration with Coles celebration accessories range.",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/4/1/5/4156544.jpg",
+  "name": "Animal Cups",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3.5,
+    "lowPrice": 3.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-05T00:14:12.951Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "3.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-animal-party-cups"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/coles-animal-party-cups"
+  ],
+  "sku": "4156544",
+  "updatedAt": "2022-12-05T00:14:12.951Z"
+}

@@ -1,0 +1,60 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "442kJ",
+      "carbohydrateContent": "1.8g",
+      "dietary_fibre": "3.7g",
+      "fatContent": "3.5g",
+      "name": "nutrition",
+      "proteinContent": "10.2g",
+      "saturatedFatContent": "1.9g",
+      "servingSize": "100 g",
+      "sodiumContent": "100mg",
+      "sugarContent": "1.3g"
+    }
+  ],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Aussie Bodies"
+  },
+  "createdAt": "2022-12-06T01:24:34.172Z",
+  "description": "10g PROTEIN* 1.3g SUGARS* 1.8g CARBS* No artificial colours, flavours or preservatives.<BR><BR>Our Pro-active Nutrition products help your shape body from the inside out.<BR><BR>Proactive Nutrition<BR><BR>Great Tasting<BR><BR>Guilt-Free Indulgence<BR><BR>Source of Fibre<BR><BR>Source of Protein",
+  "gtin13": "9317296341986",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/173511.jpg",
+  "name": "Aussie Bodies Lo Carb Protein Bar Whipped Cookies & Cream 4x30g",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 8,
+    "lowPrice": 8,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T01:24:34.171Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 8,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/173511/aussie-bodies-lo-carb-protein-bar-whipped-cookies-cream"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/173511/aussie-bodies-lo-carb-protein-bar-whipped-cookies-cream"
+  ],
+  "sku": "173511",
+  "updatedAt": "2022-12-06T01:24:34.171Z"
+}

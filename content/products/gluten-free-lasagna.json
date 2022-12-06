@@ -1,0 +1,74 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Maize Starch, Soy Flour, Potato Starch, Rice Starch."
+    },
+    {
+      "name": "Contains",
+      "value": "Soy"
+    },
+    {
+      "name": "Allergen",
+      "value": "Contains Soy"
+    },
+    {
+      "name": "Dietary",
+      "value": "No Added Sugars, No Preservatives, 98% Fat Free"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "4.0"
+    },
+    {
+      "name": "Warning",
+      "value": "May contain traces of lupin. Product does not contain egg as an ingredient."
+    },
+    {
+      "name": "Size",
+      "value": "200g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$2.25 per 100G"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Produced in Italy"
+    }
+  ],
+  "brand": "San Remo",
+  "createdAt": "2022-12-05T05:50:52.179Z",
+  "description": "San Remo Gluten Free Lasagna",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/4/2/7/4275973.jpg",
+  "name": "Gluten Free Lasagna",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 4.5,
+    "lowPrice": 4.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-05T05:50:52.179Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "4.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/san-remo-pasta-lasagne-gluten-free"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/san-remo-pasta-lasagne-gluten-free"
+  ],
+  "sku": "4275973",
+  "updatedAt": "2022-12-05T05:50:52.179Z"
+}

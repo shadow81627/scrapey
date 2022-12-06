@@ -1,0 +1,60 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "630kJ",
+      "carbohydrateContent": "17.7g",
+      "dietary_fibre": "0.51g",
+      "fatContent": "7.9g",
+      "name": "nutrition",
+      "proteinContent": "2.3g",
+      "saturatedFatContent": "6.6g",
+      "servingSize": "100 g",
+      "sodiumContent": "40mg",
+      "sugarContent": "8.2g"
+    }
+  ],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Loacker"
+  },
+  "createdAt": "2022-12-05T14:36:15.632Z",
+  "description": "<p>Crispy wafer cubes with chocolate cream filling (74%).More than good* A cream made with chocolate refined with fine flavor cocoa from Ecuador. Our \"Cocoa Farming Program\" ensures both quality and sustainability.</p>",
+  "gtin13": "8000380005963",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/265955.jpg",
+  "name": "Loacker Quadratini Chocolate 125G",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2.75,
+    "lowPrice": 2.75,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-12-05T14:36:15.631Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 2.75,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/265955/loacker-quadratini-chocolate"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/265955/loacker-quadratini-chocolate"
+  ],
+  "sku": "265955",
+  "updatedAt": "2022-12-05T14:36:15.631Z"
+}

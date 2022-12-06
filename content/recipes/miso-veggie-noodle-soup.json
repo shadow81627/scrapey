@@ -1,0 +1,78 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1",
+    "ratingValue": "5"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Oh My Veggies"
+  },
+  "cookTime": "PT30M",
+  "createdAt": "2022-12-04T22:09:38.147Z",
+  "datePublished": "2017-01-18T09:24:46+00:00",
+  "description": "This light yet hearty miso veggie soup filled with carrots, mushrooms, broccoli and udon noodles. ",
+  "image": [
+    "https://ohmyveggies.com/wp-content/uploads/2017/01/Miso_veggie_soup3.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2017/01/Miso_veggie_soup3-500x400.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2017/01/Miso_veggie_soup3-500x375.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2017/01/Miso_veggie_soup3-480x270.jpg"
+  ],
+  "keywords": "Miso Veggie Noodle Soup, vegan noodle soup, vegetarian noodle soup",
+  "name": "Miso Veggie Noodle Soup",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "230 kcal",
+    "carbohydrateContent": "37 g",
+    "fatContent": "6 g",
+    "fiberContent": "6 g",
+    "proteinContent": "10 g",
+    "saturatedFatContent": "1 g",
+    "servingSize": "1 serving",
+    "sodiumContent": "1196 mg",
+    "sugarContent": "8 g",
+    "unsaturatedFatContent": "4 g"
+  },
+  "prepTime": "PT10M",
+  "recipeCategory": "Main Course",
+  "recipeCuisine": "American",
+  "recipeIngredient": [
+    "1 tablespoon olive oil",
+    "1 onion (chopped)",
+    "2 medium carrots (peeled and chopped)",
+    "4 ounces baby bella mushrooms (sliced)",
+    "3 cups bite-sized broccoli florets",
+    "4 cloves garlic (minced)",
+    "1 1-inch piece fresh ginger, grated",
+    "5 1/2 cups water",
+    "5 tablespoons white miso paste",
+    "1 5 ounce bag fresh baby spinach leaves",
+    "4 to 8 ounces udon noodles (cooked according to package directions, drained and rinsed well)",
+    "Lime wedges and red pepper flakes (for serving)"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Add the olive oil to a large stockpot set over medium heat. When hot, add in the onion and cook for 2 to 3 minutes, until softened. Add in the carrots, mushrooms and broccoli, and cook for another 3 minutes, until the vegetables are softened. Add in the garlic and ginger and cook for 30 seconds, until fragrant. Pour in the water and bring the mixture to a simmer. Continue to simmer, adjusting the heat as needed, for about 8 to 10 minutes, until the veggies are all tender."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Carefully ladle 1/2 cup of the liquid into a small bowl. Whisk in the miso paste until combined. Add the miso mixture, in addition to the spinach, back to the pot. Turn the heat to low and continue to cook for about 1 minute, stirring frequently, until the spinach is wilted. Remove from the heat."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Divide the cooked noodles among four bowls. Ladle an equal amount of the soup into each of the bowls. Serve with lime wedges and red pepper flakes, if desired."
+    }
+  ],
+  "recipeYield": "4",
+  "sameAs": [
+    "https://ohmyveggies.com/miso-veggie-noodle-soup"
+  ],
+  "suitableForDiet": [
+    "https://schema.org/VeganDiet",
+    "https://schema.org/VegetarianDiet"
+  ],
+  "totalTime": "PT40M",
+  "updatedAt": "2022-12-04T22:09:38.147Z"
+}

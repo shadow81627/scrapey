@@ -1,0 +1,65 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "Approx.1020kJ",
+      "carbohydrateContent": "Approx.43g",
+      "dietary_fibre": "Approx.3g",
+      "fatContent": "Approx.2g",
+      "name": "nutrition",
+      "proteinContent": "Approx.9g",
+      "saturatedFatContent": "&lt;1g",
+      "servingSize": "100 g",
+      "sodiumContent": "Approx.413mg",
+      "sugarContent": "Approx.3g"
+    }
+  ],
+  "aggregateRating": {
+    "@context": "http://schema.org",
+    "@type": "AggregateRating",
+    "ratingCount": 595,
+    "ratingValue": 4.4218487394958
+  },
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Woolworths"
+  },
+  "createdAt": "2022-12-06T00:23:34.541Z",
+  "gtin13": "9339687165049",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/085968.jpg",
+  "name": "Woolworths Stonebaked Turkish Pide Loaf 400G",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2.7,
+    "lowPrice": 2.7,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T00:23:34.539Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 2.7,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/85968/woolworths-stonebaked-turkish-pide-loaf"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/85968/woolworths-stonebaked-turkish-pide-loaf"
+  ],
+  "sku": "85968",
+  "updatedAt": "2022-12-06T00:23:34.539Z"
+}

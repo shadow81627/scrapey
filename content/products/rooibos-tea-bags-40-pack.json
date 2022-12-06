@@ -1,0 +1,50 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "100g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$5.00 per 100G"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Made in South Africa"
+    }
+  ],
+  "brand": "Freshpak",
+  "createdAt": "2022-12-05T19:41:08.328Z",
+  "description": "Widely renowned for its health benefits, Rooibos tea is naturally caffeine-free and serves as a rich, natural source of anti-oxidants. Because its naturally sweet, its also a healthy and tasty beverage for children. Freshpak is grown in the Cederberg Mountains on the West Coast of South Africa.",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/4/7/3/4735632.jpg",
+  "name": "Rooibos Tea Bags 40 Pack",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 5,
+    "lowPrice": 5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-05T19:41:08.328Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "5.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/roibos-tea-bags-40-pack"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/roibos-tea-bags-40-pack"
+  ],
+  "sku": "4735632",
+  "updatedAt": "2022-12-05T19:41:08.328Z"
+}

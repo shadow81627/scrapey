@@ -1,0 +1,60 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "216kJ",
+      "carbohydrateContent": "7.5g",
+      "dietary_fibre": "0.3g",
+      "fatContent": "2g",
+      "name": "nutrition",
+      "proteinContent": "0.8g",
+      "saturatedFatContent": "0.2g",
+      "servingSize": "100 g",
+      "sodiumContent": "0.2mg",
+      "sugarContent": "0.1g"
+    }
+  ],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Baby Bellies"
+  },
+  "createdAt": "2022-12-06T01:28:44.979Z",
+  "description": "<div>Baby Bellies Organic Round-a-bouts are deliciously crisp organic corn rings with sweetcorn. These delightful baby snacks melt in the mouth for safe self-feeding. Ideal for first stage snacking.<br> <br>Our TASTY TEXTURES range introduces subtle flavours and new texture experiences for mini mouths, and soft shapes that little fingers can hold. <br><br>Do what’s natural!<br>We believe nurturing comes naturally, so we simply provide good foods that parents trust throughout their child’s natural development.<br><br>Our Happy Bellies Pledge<br>•\tNo added sugar or salt<br>•\tNothing artificial<br>•\tOrganic baby grade*<br><br>*What is Baby Grade? Not just organic. It’s our extra commitment to you that all our organic ingredients, recipes and suppliers have been specially screened and selected to ensure they are appropriate and safe for growing little bellies.<br><br>Certified Organic.</div>",
+  "gtin13": "9337824001908",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/839243.jpg",
+  "name": "Baby Bellies Organic Round-a-bouts Sweetcorn 12G",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2,
+    "lowPrice": 2,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T01:28:44.978Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 2,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/839243/baby-bellies-organic-round-a-bouts-sweetcorn"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/839243/baby-bellies-organic-round-a-bouts-sweetcorn"
+  ],
+  "sku": "839243",
+  "updatedAt": "2022-12-06T01:28:44.978Z"
+}

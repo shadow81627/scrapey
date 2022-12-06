@@ -1,0 +1,65 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "284.00kJ",
+      "carbohydrateContent": "0.70g",
+      "dietary_fibre": "-",
+      "fatContent": "7.10g",
+      "name": "nutrition",
+      "proteinContent": "0.50g",
+      "saturatedFatContent": "5.10g",
+      "servingSize": "100 g",
+      "sodiumContent": "5.00mg",
+      "sugarContent": "0.50g"
+    }
+  ],
+  "aggregateRating": {
+    "@context": "http://schema.org",
+    "@type": "AggregateRating",
+    "ratingCount": 367,
+    "ratingValue": 4.86648501362398
+  },
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Woolworths"
+  },
+  "createdAt": "2022-12-05T20:57:50.149Z",
+  "gtin13": "9300633487201",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/048720.jpg",
+  "name": "Woolworths Thickened Cream 600mL",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 4.2,
+    "lowPrice": 4.2,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-12-05T20:57:50.147Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 4.2,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/48720/woolworths-thickened-cream"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/48720/woolworths-thickened-cream"
+  ],
+  "sku": "48720",
+  "updatedAt": "2022-12-05T20:57:50.147Z"
+}

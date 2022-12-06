@@ -1,0 +1,50 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "<strong>INGREDIENTS:</strong> <strong>Tuna</strong>, <strong>Prawn</strong>, Thickeners, Vitamins and Minerals (including Taurine)."
+    },
+    {
+      "name": "Size",
+      "value": "85g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.41 per 100G"
+    }
+  ],
+  "brand": "Purr",
+  "createdAt": "2022-12-05T12:39:05.351Z",
+  "description": "Purr Cat Food Chunky Tuna Prawn, 85g. Spoil your feline friend with a wide selection of gourmet flavours, a delicious meal they'll be sure to love.",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/9/1/0/9105008.jpg",
+  "name": "Gourmet Chunky Tuna & Prawn in Gravy Cat Food",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 1.2,
+    "lowPrice": 1.2,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-05T12:39:05.350Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "1.20",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/purr-cat-food-with-chunky-tuna-prawn-in-gravy"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/purr-cat-food-with-chunky-tuna-prawn-in-gravy"
+  ],
+  "sku": "9105008",
+  "updatedAt": "2022-12-05T12:39:05.350Z"
+}

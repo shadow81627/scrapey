@@ -1,0 +1,42 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Unit Price",
+      "value": "$69.00 per 1Ea"
+    }
+  ],
+  "brand": "Telstra",
+  "createdAt": "2022-12-04T23:40:19.775Z",
+  "description": "- 5.0\" display- 5MP rear camera- 2,000mAh battery- Blue Tick for better coverage in rural and regional areas- Locked to Telstra networkGeneral: Unless specified, handsets are locked, unlocking fee applies. Limit 1 per customer.",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/4/4/1/4418662.jpg",
+  "name": "Smart 2.1",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 69,
+    "lowPrice": 69,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-04T23:40:19.775Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "69.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/-4418662p-1"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/-4418662p-1"
+  ],
+  "sku": "4418662",
+  "updatedAt": "2022-12-04T23:40:19.775Z"
+}

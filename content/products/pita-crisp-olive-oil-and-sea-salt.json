@@ -1,0 +1,50 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "120g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$5.75 per 100G"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Product of Australia"
+    }
+  ],
+  "brand": "Ricci's Bikkies",
+  "createdAt": "2022-12-05T17:25:03.964Z",
+  "description": "Ricci's Bikkies Pita Crisp Olive Oil & Sea Salt",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/7/0/1/7017431.jpg",
+  "name": "Pita Crisp Olive Oil & Sea Salt",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 6.9,
+    "lowPrice": 6.9,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-05T17:25:03.963Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "6.90",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/riccis-bikkies-turk-bread-olive-oil-sea-salt"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/riccis-bikkies-turk-bread-olive-oil-sea-salt"
+  ],
+  "sku": "7017431",
+  "updatedAt": "2022-12-05T17:25:03.963Z"
+}

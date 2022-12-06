@@ -1,0 +1,60 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "-",
+      "carbohydrateContent": "-",
+      "dietary_fibre": "-",
+      "fatContent": "-",
+      "name": "nutrition",
+      "proteinContent": "-",
+      "saturatedFatContent": "-",
+      "servingSize": "100 g",
+      "sodiumContent": "-",
+      "sugarContent": "-"
+    }
+  ],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Vittoria"
+  },
+  "createdAt": "2022-12-05T09:48:37.077Z",
+  "description": "<p>Vittoria's original and iconic blend, Espresso has remained unchanged for over 50 years. This blend of 100% Arabica coffee beans is darkly roasted to deliver the strong flavour of traditional Italian espresso.<br/> <br/>Blend: 100% Arabica<br/> <br/>Roast: Medium to Dark<br/> <br/>Origins: Central and South America<br/> <br/>Tasting Notes: Honey, Toasty<br/> <br/>Best brewed with: Filter machines, stove top brewers, plungers & pour overs<br/></p>",
+  "gtin13": "9310631000821",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/094131.jpg",
+  "name": "Vittoria Espresso Ground Coffee 1Kg",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 37,
+    "lowPrice": 37,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-12-05T09:48:37.076Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 37,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/94131/vittoria-espresso-ground-coffee"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/94131/vittoria-espresso-ground-coffee"
+  ],
+  "sku": "94131",
+  "updatedAt": "2022-12-05T09:48:37.076Z"
+}

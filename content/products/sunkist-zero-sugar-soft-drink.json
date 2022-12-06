@@ -1,0 +1,42 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Country Of Origin",
+      "value": "MADE IN AUSTRALIA"
+    }
+  ],
+  "brand": "Schweppes",
+  "createdAt": "2022-12-05T01:52:52.081Z",
+  "description": "Quench your thirst with a glass of Sunkist Zero Sugar. This orange flavoured soft drink is full of flavour with zero sugar and no artificial colours or flavours. Bring it along to the beach, the park, or a backyard barbecue with friends.",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/4/4/0/4405398.jpg",
+  "name": "Sunkist Zero Sugar Soft Drink",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 29.5,
+    "lowPrice": 29.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-05T01:52:52.080Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "29.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/cube-sunkist-zero-sugar-soft-drink"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/cube-sunkist-zero-sugar-soft-drink"
+  ],
+  "sku": "4405398",
+  "updatedAt": "2022-12-05T01:52:52.080Z"
+}

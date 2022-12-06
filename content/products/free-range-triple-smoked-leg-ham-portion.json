@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "approx. 2.3kg"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$16.00 per 1Kg"
+    }
+  ],
+  "brand": "Coles Finest",
+  "createdAt": "2022-12-05T10:44:25.638Z",
+  "description": "Coles Finest Free Range Triple Smoked Leg Ham Portion",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/4/7/0/4700219.jpg",
+  "name": "Free Range Triple Smoked Leg Ham Portion",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 36.8,
+    "lowPrice": 36.8,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-05T10:44:25.637Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "36.80",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/leg-ham-portion"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/leg-ham-portion"
+  ],
+  "sku": "4700219",
+  "updatedAt": "2022-12-05T10:44:25.637Z"
+}

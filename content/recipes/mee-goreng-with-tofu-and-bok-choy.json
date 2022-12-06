@@ -1,0 +1,91 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "2",
+    "ratingValue": "5"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Oh My Veggies"
+  },
+  "cookTime": "PT25M",
+  "createdAt": "2022-12-05T02:20:09.648Z",
+  "datePublished": "2015-03-16T09:30:00+00:00",
+  "description": "A sweet-and-spicy Indonesian noodle dish from America&#39;s Test Kitchen&#39;s The Complete Vegetarian Cookbook.",
+  "image": [
+    "https://ohmyveggies.com/wp-content/uploads/2015/03/mee_goreng_recipe.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2015/03/mee_goreng_recipe-500x400.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2015/03/mee_goreng_recipe-500x375.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2015/03/mee_goreng_recipe-480x270.jpg"
+  ],
+  "keywords": "Asian noodle dish, Indonesian noodle dish, Mee Goreng with Tofu and Bok Choy",
+  "name": "Mee Goreng with Tofu and Bok Choy",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "525 kcal",
+    "carbohydrateContent": "67 g",
+    "fatContent": "22 g",
+    "fiberContent": "5 g",
+    "proteinContent": "17 g",
+    "saturatedFatContent": "16 g",
+    "servingSize": "1 serving",
+    "sodiumContent": "1184 mg",
+    "sugarContent": "22 g",
+    "unsaturatedFatContent": "3 g"
+  },
+  "prepTime": "PT20M",
+  "recipeCategory": "Main Course",
+  "recipeCuisine": "Asian",
+  "recipeIngredient": [
+    "1 pound fresh Chinese noodles",
+    "1/4 cup packed dark brown sugar",
+    "1/4 cup molasses",
+    "1/4 cup soy sauce",
+    "4 large shallots (2 minced and 2 sliced thin)",
+    "3 garlic cloves (minced)",
+    "2 teaspoons sambal oelek",
+    "14 ounces extra-firm tofu (cut into 1-inch cubes)",
+    "Salt and pepper",
+    "2 tablespoons cornstarch",
+    "5 tablespoons vegetable oil",
+    "1 pound bok choy (stalks and greens separated and sliced 1/2 inch thick)",
+    "4 scallions (sliced thin on bias)",
+    "Lime wedges"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Bring 4 quarts water to boil in large pot. Add noodles and cook, stirring often, until tender. Drain noodles and set aside."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Whisk sugar, molasses, and soy sauce together in bowl. In separate bowl, combine minced shallots, garlic, and sambal oelek."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Spread tofu over paper towel-lined baking sheet and let drain for 20 minutes. Gently pat tofu dry with paper towels, season with salt and pepper, then toss with cornstarch in bowl. Transfer coated tofu to strainer and shake gently over bowls to remove excess cornstarch. Heat 3 tablespoons oil in 12-inch nonstick skillet over medium-heat heat until just smoking. Add tofu and cook, turning as needed, until crisp and browned on all sides, 8 to 10 minutes; transfer to bowl."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add 1 tablespoon oil to now-empty skillet and heat until shimmering. Add sliced shallots and cook until golden, about 5 minutes; transfer to paper towel-lined plate."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add remaining 1 tablespoon oil to now-empty skillet and heat until shimmering. Add bok choy stalks and cook until crisp-tender, about 3 minutes. Clear center of skillet, add garlic mixture, and cook, mashing mixture into skillet until fragrant, about 30 seconds; stir into vegetables."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Stir in noodles, tofu, bok choy leaves, and scallions. Whisk sauce to recombine, add to skillet and cook, stirring constantly, until sauce is thickened, 1 to 2 minutes. Serve with lime wedges."
+    }
+  ],
+  "recipeYield": "4",
+  "sameAs": [
+    "https://ohmyveggies.com/mee-goreng-tofu"
+  ],
+  "suitableForDiet": [
+    "https://schema.org/VegetarianDiet"
+  ],
+  "totalTime": "PT45M",
+  "updatedAt": "2022-12-05T02:20:09.648Z"
+}

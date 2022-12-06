@@ -1,0 +1,60 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "76.00kJ",
+      "carbohydrateContent": "3.90g",
+      "dietary_fibre": "0.23g",
+      "fatContent": "0.10g",
+      "name": "nutrition",
+      "proteinContent": "0.30g",
+      "saturatedFatContent": "&lt; 0.1g",
+      "servingSize": "100 g",
+      "sodiumContent": "124.00mg",
+      "sugarContent": "3.70g"
+    }
+  ],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "MasterFoods"
+  },
+  "createdAt": "2022-12-05T06:54:47.509Z",
+  "description": "<p>Squeeze on Australia's Favourite Tomato Sauce 500ml at your next family BBQ.<br/><br/>Add the classic flavours of MasterFoods™ Tomato Sauce to your favourite foods with ease. A distinct, delicious blend of ripe tomatoes and a sprinkle of spices. Great on burgers, sausages, hot dogs and pies. This easy squeeze 500 ml bottle is perfect for picnics, travelling or barbecues. This delicious sauce contains no artificial colours, flavours or preservatives.<br/><br/>- No Artificial Colours, Flavours or Preservatives<br/><br/>- Vegan Friendly<br/><br/>- Gluten Free<br/><br/>- Make Dinnertime Matter with MasterFoods</p>",
+  "gtin13": "9310012021049",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/099633.jpg",
+  "name": "Masterfoods Tomato Sauce 500mL",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2.2,
+    "lowPrice": 2.2,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-12-05T06:54:47.509Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 2.2,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/99633/masterfoods-tomato-sauce"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/99633/masterfoods-tomato-sauce"
+  ],
+  "sku": "99633",
+  "updatedAt": "2022-12-05T06:54:47.509Z"
+}

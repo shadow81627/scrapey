@@ -1,0 +1,88 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1",
+    "ratingValue": "5"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Oh My Veggies"
+  },
+  "cookTime": "PT20M",
+  "createdAt": "2022-12-04T22:12:30.148Z",
+  "datePublished": "2014-08-17T08:34:10+00:00",
+  "description": "The sweet flavor of kohlrabi is brought out in this curry, where it is paired with fresh summer tomatoes, sweet corn, and tofu.",
+  "image": [
+    "https://ohmyveggies.com/wp-content/uploads/2014/08/spicy-curried-kohlrabi-corn-and-tofu-stir-fry-9.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2014/08/spicy-curried-kohlrabi-corn-and-tofu-stir-fry-9-500x400.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2014/08/spicy-curried-kohlrabi-corn-and-tofu-stir-fry-9-500x375.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2014/08/spicy-curried-kohlrabi-corn-and-tofu-stir-fry-9-480x270.jpg"
+  ],
+  "name": "Kohlrabi, Corn & Tofu Curry",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "288 kcal",
+    "carbohydrateContent": "33 g",
+    "fatContent": "14 g",
+    "fiberContent": "5 g",
+    "proteinContent": "13 g",
+    "saturatedFatContent": "2 g",
+    "servingSize": "1 serving",
+    "sodiumContent": "919 mg",
+    "sugarContent": "12 g",
+    "transFatContent": "1 g",
+    "unsaturatedFatContent": "12 g"
+  },
+  "prepTime": "PT10M",
+  "recipeCategory": "Main Course",
+  "recipeCuisine": "American",
+  "recipeIngredient": [
+    "1 tablespoon fresh ginger (minced )",
+    "2 garlic cloves (peeled and minced)",
+    "1 jalapeno (seeded and minced)",
+    "1 teaspoon white vinegar (distilled )",
+    "1/2 cup water (plus 4 tablespoons)",
+    "1 tablespoon soy sauce",
+    "3 tablespoons olive oil",
+    "1 teaspoon brown mustard seeds",
+    "2 medium tomatoes (coarsely chopped)",
+    "6 ears fresh corn (kernels removed)",
+    "1 medium kohlrabi (peeled and cut into 1/4-inch dice)",
+    "12 ounce extra-firm tofu",
+    "1 teaspoon salt",
+    "black pepper (to taste, freshly ground )",
+    "1 1/2 teaspoons garam masala"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "In a small bowl, whisk together the ginger, garlic, jalapeno, vinegar, 4 tablespoons of water and soy sauce. Set aside."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "In a large wok over medium-high heat, heat the oil. Add the mustard seeds to the pan and cook until they start to pop, about 30 seconds. Pour in the ginger-garlic mixture and heat through, about a minute. Stir in the tomatoes and cook over medium heat until the tomatoes are softened, 5-6 minutes."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add the corn, kohlrabi, tofu, 1/2 cup of water, salt and black pepper to the tomatoes. Bring to a simmer. Cover and cook on low heat for 10-12 minutes."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Stir in the garam masala and cook, uncovered, for another 2-3 minutes. Season to taste with salt and black pepper."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Serve over rice, quinoa, barley or your favorite grain."
+    }
+  ],
+  "recipeYield": "4",
+  "sameAs": [
+    "https://ohmyveggies.com/kohlrabi-corn-tofu-curry"
+  ],
+  "suitableForDiet": [
+    "https://schema.org/VegetarianDiet"
+  ],
+  "totalTime": "PT30M",
+  "updatedAt": "2022-12-04T22:12:30.147Z"
+}

@@ -1,0 +1,50 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Colour",
+      "value": "White"
+    },
+    {
+      "name": "Size",
+      "value": "60 Pack"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.04 per 1Ea"
+    }
+  ],
+  "brand": "Kleenex",
+  "createdAt": "2022-12-05T18:15:45.777Z",
+  "description": "Kleenex Aloe Vera & Vitamin E 3 Ply Facial Tissues Cube",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/7/4/5749166.jpg",
+  "name": "Aloe Vera & Vitamin E 3 Ply Facial Tissues Cube",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2.6,
+    "lowPrice": 2.6,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-05T18:15:45.776Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "2.60",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/kleenex-extra-care-facial-tissues-3-ply-aloe-vera-5749166p"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/kleenex-extra-care-facial-tissues-3-ply-aloe-vera-5749166p"
+  ],
+  "sku": "5749166",
+  "updatedAt": "2022-12-05T18:15:45.776Z"
+}

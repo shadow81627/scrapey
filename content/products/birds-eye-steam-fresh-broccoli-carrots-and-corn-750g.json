@@ -1,0 +1,66 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "344kJ",
+      "carbohydrateContent": "12.5g",
+      "dietary_fibre": "4.5g",
+      "fatContent": "0.9g",
+      "name": "nutrition",
+      "proteinContent": "3.6g",
+      "saturatedFatContent": "&lt;0.1g",
+      "servingSize": "100 g",
+      "sodiumContent": "29mg",
+      "sugarContent": "3.9g"
+    }
+  ],
+  "aggregateRating": {
+    "@context": "http://schema.org",
+    "@type": "AggregateRating",
+    "ratingCount": 76,
+    "ratingValue": 4.75
+  },
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Birds Eye"
+  },
+  "createdAt": "2022-12-06T00:46:34.933Z",
+  "description": "<p>- Great for your heart.</p><p>- Vitamin A, C and Folate help support your immune system.</p><p>- Dietary Fibre.</p><p>This Birds Eye Steam fresh mix is a source of Vitamin A, C and Folate when cooked It is recommended to consume a balanced diet which contains a high amount of fruit and vegetables.</p><p>Steam cooking locks in flavour and freshness for perfect vegetables.</p><p>1 steam bag = 2 of your 5 serves of vegetables.</p><p>1 Serve of vegetables = 75g.</p><p>The Australian Dietary Guidelines.</p><p>Perfect tossed with.</p><p>trimmed lamb cutlets and mash.</p>",
+  "gtin13": "9300462451909",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/322796.jpg",
+  "name": "Birds Eye Steam Fresh Broccoli, Carrots & Corn 750G",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 5,
+    "lowPrice": 5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T00:46:34.928Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 5,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/322796/birds-eye-steam-fresh-broccoli-carrots-corn"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/322796/birds-eye-steam-fresh-broccoli-carrots-corn"
+  ],
+  "sku": "322796",
+  "updatedAt": "2022-12-06T00:46:34.928Z"
+}

@@ -1,0 +1,50 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Tuna, Chicken, Crab, Thickeners, Carrot, Flavour, Colour."
+    },
+    {
+      "name": "Size",
+      "value": "40g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$3.50 per 100G"
+    }
+  ],
+  "brand": "Dine",
+  "createdAt": "2022-12-05T12:53:24.023Z",
+  "description": "Dine Melting Soup Tuna & Chicken Wet Cat Food Pouch",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/1/7/1/1711106.jpg",
+  "name": "Melting Soup Tuna & Chicken Wet Cat Food Pouch",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 1.4,
+    "lowPrice": 1.4,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-05T12:53:24.023Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "1.40",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/dine-bonito-chicken-melting-soup-cat-food"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/dine-bonito-chicken-melting-soup-cat-food"
+  ],
+  "sku": "1711106",
+  "updatedAt": "2022-12-05T12:53:24.023Z"
+}

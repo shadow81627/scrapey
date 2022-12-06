@@ -1,0 +1,50 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "345g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.45 per 100G"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Made in Malaysia"
+    }
+  ],
+  "brand": "Maggi",
+  "createdAt": "2022-12-05T18:43:58.858Z",
+  "description": "Maggi 2 Minute Wholegrain Chicken Flavour Noodles 5 Pack",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/1/3/6/1369946.jpg",
+  "name": "2 Minute Wholegrain Chicken Flavour Noodles 5 Pack",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 5,
+    "lowPrice": 5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-05T18:43:58.857Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "5.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/maggi-noodles-2-minute-wholegrain-chicken-5-pack"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/maggi-noodles-2-minute-wholegrain-chicken-5-pack"
+  ],
+  "sku": "1369946",
+  "updatedAt": "2022-12-05T18:43:58.857Z"
+}

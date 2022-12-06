@@ -1,0 +1,54 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "<strong>INGREDIENTS:</strong> Sugar, Tapioca Starch, Natural Colours (163, 100, 160a), Spirulina Concentrate, Glazing Agent (903)."
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "35.0"
+    },
+    {
+      "name": "Size",
+      "value": "350g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.09 per 100G"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2022-12-05T17:48:34.827Z",
+  "description": "BAKE & CREATE",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/4/4/2441776.jpg",
+  "name": "100's & 1000's",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3.8,
+    "lowPrice": 3.8,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-05T17:48:34.826Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "3.80",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-100s-1000s"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/coles-100s-1000s"
+  ],
+  "sku": "2441776",
+  "updatedAt": "2022-12-05T17:48:34.826Z"
+}

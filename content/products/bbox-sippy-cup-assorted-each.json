@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "B.Box"
+  },
+  "createdAt": "2022-12-06T02:00:46.205Z",
+  "description": "The sippy cup features our innovative b.box weighted straw that moves with the liquid – whatever angle the cup is tilted. Our redesigned straw has a unique two-way valve, ensuring easy drinking and NO leaks. The sippy cup ensures that tots can drink to the very last drop. They can also drink lying down, making it the ideal transition cup from bottle/breast feeding to milk in a cup. The perfect cup at home or on the go. Encourages independence with easy-grip handles and simple flip-top lid.",
+  "gtin13": "9353965019008",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/093219.jpg",
+  "name": "B.box Sippy Cup Assorted Each",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 12.8,
+    "lowPrice": 12.8,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/OutOfStock",
+        "availabilityStarts": "2022-12-06T02:00:46.205Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 12.8,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/93219/b-box-sippy-cup-assorted"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/93219/b-box-sippy-cup-assorted"
+  ],
+  "sku": "93219",
+  "updatedAt": "2022-12-06T02:00:46.205Z"
+}

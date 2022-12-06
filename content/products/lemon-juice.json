@@ -1,0 +1,58 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "INGREDIENTS: Reconstituted Lemon Juice (99.9%), Vitamin C (300), Natural Flavour, Preservative (223)."
+    },
+    {
+      "name": "Allergen",
+      "value": "Contains SULPHITES"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "50.0"
+    },
+    {
+      "name": "Size",
+      "value": "500mL"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.03 per 10mL"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2022-12-05T22:58:35.484Z",
+  "description": "Coles Lemon Juice 500ml for all your lemon juice needs in a handy ready to go bottle",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/9/0/6/9069356.jpg",
+  "name": "Lemon Juice",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 1.65,
+    "lowPrice": 1.65,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-05T22:58:35.483Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "1.65",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-juice-lemon"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/coles-juice-lemon"
+  ],
+  "sku": "9069356",
+  "updatedAt": "2022-12-05T22:58:35.483Z"
+}

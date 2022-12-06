@@ -1,0 +1,65 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "Approx.102kJ",
+      "carbohydrateContent": "Approx.5.8g",
+      "dietary_fibre": "-",
+      "fatContent": "&lt;0.1g",
+      "name": "nutrition",
+      "proteinContent": "Approx.0.1g",
+      "saturatedFatContent": "&lt;0.1g",
+      "servingSize": "100 g",
+      "sodiumContent": "&lt;5mg",
+      "sugarContent": "Approx.5.4g"
+    }
+  ],
+  "aggregateRating": {
+    "@context": "http://schema.org",
+    "@type": "AggregateRating",
+    "ratingCount": 771,
+    "ratingValue": 3.92607003891051
+  },
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Woolworths"
+  },
+  "createdAt": "2022-12-06T05:25:17.816Z",
+  "gtin13": "9300633645601",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/592111.jpg",
+  "name": "Woolworths Crown Mints 225G",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2,
+    "lowPrice": 2,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T05:25:17.815Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 2,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/592111/woolworths-crown-mints"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/592111/woolworths-crown-mints"
+  ],
+  "sku": "592111",
+  "updatedAt": "2022-12-06T05:25:17.815Z"
+}

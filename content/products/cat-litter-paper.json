@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "15L"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.33 per 1L"
+    }
+  ],
+  "brand": "Breeders Choice",
+  "createdAt": "2022-12-05T12:57:39.270Z",
+  "description": "Breeders Choice Cat Litter Paper",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/8/0/2/8029877.jpg",
+  "name": "Cat Litter Paper",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 20,
+    "lowPrice": 20,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-05T12:57:39.269Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "20.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/breeders-choice-cat-litter"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/breeders-choice-cat-litter"
+  ],
+  "sku": "8029877",
+  "updatedAt": "2022-12-05T12:57:39.269Z"
+}

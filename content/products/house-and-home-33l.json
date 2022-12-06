@@ -1,0 +1,45 @@
+{
+  "@type": "Product",
+  "additionalProperty": [],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "House & Home"
+  },
+  "createdAt": "2022-12-05T12:35:15.405Z",
+  "description": "Keep your laundry organised using the House & Home Flexi Laundry Basket. This basket is perfect for your every day laundry needs <br><br>Product Features: <ul><li>Built in handles</li><li>BPA free</li><li>Aerated design</li></ul>",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/1073950423.jpg",
+  "name": "House & Home 33L",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 10,
+    "lowPrice": 10,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/OutOfStock",
+        "availabilityStarts": "2022-12-05T12:35:15.405Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 10,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/1073950423/house-home-flexi-laundry-basket-33l-light-grey"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/1073950423/house-home-flexi-laundry-basket-33l-light-grey"
+  ],
+  "sku": "1073950423",
+  "updatedAt": "2022-12-05T12:35:15.405Z"
+}

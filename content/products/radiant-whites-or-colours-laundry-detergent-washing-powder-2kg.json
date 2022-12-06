@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Radiant"
+  },
+  "createdAt": "2022-12-05T11:31:47.735Z",
+  "description": "New & Improved Radiant Whites or Colours with more brightening power* and boosted fragrance. Specially formulated to brighten whites & colours while lifting dirt & tough stains to deliver an exceptional clean. Radiant's unique Colour Guard® technology combined with our advanced brightening system gives you sharper colours & brilliant whites wash after wash. Radiant keeps your colours looking newer for longer. *vs previous Radiant Whites or Colours",
+  "gtin13": "9300615092812",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/141938.jpg",
+  "name": "Radiant Whites Or Colours Laundry Detergent Washing Powder 2Kg",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 10,
+    "lowPrice": 10,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-12-05T11:31:47.734Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 10,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/141938/radiant-whites-or-colours-laundry-detergent-washing-powder"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/141938/radiant-whites-or-colours-laundry-detergent-washing-powder"
+  ],
+  "sku": "141938",
+  "updatedAt": "2022-12-05T11:31:47.734Z"
+}

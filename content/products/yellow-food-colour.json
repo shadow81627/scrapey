@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "50mL"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.24 per 10mL"
+    }
+  ],
+  "brand": "Queen",
+  "createdAt": "2022-12-04T18:17:54.484Z",
+  "description": "Perfect for when you need a lot of colour; our yellow food colour is great for a whole range of yellow desserts and icings. Also great for brightening up green and red, Queen Yellow Food Colour can be used to mix your own colours.",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/1/9/4/194519.jpg",
+  "name": "Yellow Food Colour",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 1.2,
+    "lowPrice": 1.2,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-04T18:17:54.483Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "1.20",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/queen-food-colouring-yellow"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/queen-food-colouring-yellow"
+  ],
+  "sku": "194519",
+  "updatedAt": "2022-12-04T18:17:54.483Z"
+}

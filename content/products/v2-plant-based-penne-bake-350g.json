@@ -1,0 +1,60 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "1840.00kJ",
+      "carbohydrateContent": "108.00g",
+      "dietary_fibre": "7.70g",
+      "fatContent": "11.60g",
+      "name": "nutrition",
+      "proteinContent": "19.20g",
+      "saturatedFatContent": "3.20g",
+      "servingSize": "100 g",
+      "sodiumContent": "700.00mg",
+      "sugarContent": "2.10g"
+    }
+  ],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "V2"
+  },
+  "createdAt": "2022-12-05T21:40:29.362Z",
+  "description": "Plant-based v2 Penne Bake is made with v2mince in a traditional tomato and vegetable sauce, seasoned with herbs and tossed through penne pasta. Ready in minutes with great taste.<br><br>At v2, we’re all about great tasting food and that’s something we can all agree on. Say hello to our newest tasty DINNER TIMESAVER!<br><br>We’re Australian-made from soy, with no arti­ficial colours or flavours, non-gmo and with the healthy bene­fits of protein and ­fibre. Did we mention that we’re also PACKED WITH FLAVOUR? Enjoy!<br><br>Ready in minutes. Great taste.<br><br>Good for you. Healthy choice.<br><br>Animal-free. Soy-based.",
+  "gtin13": "9356418001155",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/215556.jpg",
+  "name": "V2 Plant Based Penne Bake 350g",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 9,
+    "lowPrice": 9,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-12-05T21:40:29.362Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 9,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/215556/v2-plant-based-penne-bake"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/215556/v2-plant-based-penne-bake"
+  ],
+  "sku": "215556",
+  "updatedAt": "2022-12-05T21:40:29.362Z"
+}

@@ -1,0 +1,58 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "fruits (banana, strawberry (16%), blackberry), water, ground rice, coconut milk (4%), goji (0.5%), antioxidant (ascorbic acid), acidity regulator (citric acid), vegetable gum (guar gum)"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "1.0"
+    },
+    {
+      "name": "Size",
+      "value": "100g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.99 per 100G"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Made in New Zealand"
+    }
+  ],
+  "brand": "Only Organic",
+  "createdAt": "2022-12-05T08:10:59.275Z",
+  "description": "Only Organic Coconut Strawberry & Goji",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/0/1/3018556.jpg",
+  "name": "Coconut Strawberry & Goji",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 1.99,
+    "lowPrice": 1.99,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-05T08:10:59.274Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "1.99",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/only-organic-kindy-coconut-strawberry-goji"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/only-organic-kindy-coconut-strawberry-goji"
+  ],
+  "sku": "3018556",
+  "updatedAt": "2022-12-05T08:10:59.274Z"
+}

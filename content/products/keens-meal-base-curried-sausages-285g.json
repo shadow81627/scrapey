@@ -1,0 +1,60 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "86.0kJ",
+      "carbohydrateContent": "12.0g",
+      "dietary_fibre": "-",
+      "fatContent": "3.1g",
+      "name": "nutrition",
+      "proteinContent": "1.3g",
+      "saturatedFatContent": "&lt; 1.0g",
+      "servingSize": "100 g",
+      "sodiumContent": "467.0mg",
+      "sugarContent": "7.3g"
+    }
+  ],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Keen's"
+  },
+  "createdAt": "2022-12-05T08:13:00.521Z",
+  "description": "<p>Enjoy Keen’s famous heritage and bold flavours in our New Meal Bases. Ready in under 30 minutes, Keen’s Meal Bases provide an easy, tasty solution to weeknight dinners when you are short on time. They provide the perfect base while also being customisable for vegetarians, spice lovers or those who still like to be creative with their cooking, even when short on time. Available in family favourite, signature Keen’s dishes. </p><p><b>Curried Sausages Recipe </b> <br/>Serves: 3, Prep: 5 mins, Cook: 20 Mins <br/><b>All You Need</b> <br/>- 500 g beef sausages <br/><b>Suggested sides...</b> <br/>- Cooked Rice <br/>- Fresh Parsley <br/><b>How To</b> <br/>1. Brown sausages in a lightly greased hot pan. Remove and slice. <br/>2. Return sausages to pan add the Keen's meal base, stir through until just boiling. <br/>3. Reduce heat to low and simmer for 10-15 minutes or until sausages are cooked through. <br/>4. Serve with suggested sides. <br/>Tip- Be inspired and try pork, chicken or plant-based sausages in your curry. <br/>- Chilli rating: Mild <br/>- No added colours, flavours or preservatives <br/>- Serves 3<span id=\"selectionBoundary_1652658611467_24357136833802606\" class=\"rangySelectionBoundary\">?</span></p>",
+  "gtin13": "9300683508369",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/214007.jpg",
+  "name": "Keen's Meal Base Curried Sausages 285g",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3.5,
+    "lowPrice": 3.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-12-05T08:13:00.520Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 3.5,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/214007/keen-s-meal-base-curried-sausages"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/214007/keen-s-meal-base-curried-sausages"
+  ],
+  "sku": "214007",
+  "updatedAt": "2022-12-05T08:13:00.521Z"
+}

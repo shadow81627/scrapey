@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "1 pack"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$12.00 per 1Ea"
+    }
+  ],
+  "brand": "Tommee Tippee",
+  "createdAt": "2022-12-05T17:10:49.331Z",
+  "description": "Tommee Tippee Weighted Straw Toddler Cup 300ml",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/3/3/5331377.jpg",
+  "name": "Weighted Straw Toddler Cup 300ml",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 12,
+    "lowPrice": 12,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/OutOfStock",
+        "availabilityStarts": "2022-12-05T17:10:49.331Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "12.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/trainer-straw-cup-300ml"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/trainer-straw-cup-300ml"
+  ],
+  "sku": "5331377",
+  "updatedAt": "2022-12-05T17:10:49.331Z"
+}

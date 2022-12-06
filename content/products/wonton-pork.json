@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "350g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$25.72 per 1Kg"
+    }
+  ],
+  "brand": "Smile",
+  "createdAt": "2022-12-06T05:38:04.275Z",
+  "description": "Smile Wonton Pork",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/9/0/3908429.jpg",
+  "name": "Wonton Pork",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 9,
+    "lowPrice": 9,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/OutOfStock",
+        "availabilityStarts": "2022-12-06T05:38:04.274Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "9.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/smile-wonton-pork"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/smile-wonton-pork"
+  ],
+  "sku": "3908429",
+  "updatedAt": "2022-12-06T05:38:04.274Z"
+}

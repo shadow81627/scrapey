@@ -1,0 +1,50 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "250mL"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.80 per 100mL"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Made in Australia from local and imported ingredients"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2022-12-04T15:27:00.096Z",
+  "description": "Coles Lime Fresh Antibacterial Hand Wash kills 99.9% germs to leave your hands feeling fresh and soft. Suitable for use in the bathroom, kitchen and laundry. Dermatologically tested.",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/2/9/2292858.jpg",
+  "name": "Antibacterial Hand Wash Lime Fresh",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2,
+    "lowPrice": 2,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-04T15:27:00.096Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "2.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-citrus-lime-handwash-pump"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/coles-citrus-lime-handwash-pump"
+  ],
+  "sku": "2292858",
+  "updatedAt": "2022-12-04T15:27:00.096Z"
+}

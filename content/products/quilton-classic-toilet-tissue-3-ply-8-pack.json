@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Quilton"
+  },
+  "createdAt": "2022-12-06T00:04:55.797Z",
+  "description": "<div>Quilton - It's the big little luxury; Welcome to Australia's most loved toilet tissue. With 3 ply air quilted softness Quilton brings the big little luxury into your bathroom. No wonder Quilton is the country's best selling toilet tissue. Quilton Toilet Tissue is lightly scented on the core, not the paper.<br><br></div><div>Quilton is proudly Australian owned, manufactured mainly in Sydney and Brisbane and provides jobs for over 600 of our fellow Australians.<br><br></div><div>Thank you Australia for all your support!</div>",
+  "gtin13": "9311505883335",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/158767.jpg",
+  "name": "Quilton Classic Toilet Tissue 3 Ply 8 Pack",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 8.6,
+    "lowPrice": 8.6,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T00:04:55.797Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 8.6,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/158767/quilton-classic-toilet-tissue-3-ply"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/158767/quilton-classic-toilet-tissue-3-ply"
+  ],
+  "sku": "158767",
+  "updatedAt": "2022-12-06T00:04:55.797Z"
+}

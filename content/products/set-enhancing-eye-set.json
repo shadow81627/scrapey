@@ -1,0 +1,50 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Warning",
+      "value": "No"
+    },
+    {
+      "name": "Size",
+      "value": "1 pack"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$9.45 per 1Ea"
+    }
+  ],
+  "brand": "Eco Tools",
+  "createdAt": "2022-12-04T17:32:29.714Z",
+  "description": "The ENHANCING EYE SET is designed with 4 brush heads to shade, define, blend and smudge.",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/0/4/3041401.jpg",
+  "name": "Set Enhancing Eye Set",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 9.45,
+    "lowPrice": 9.45,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-04T17:32:29.713Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "9.45",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/eco-tools-enhancing-eye-brushes-set"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/eco-tools-enhancing-eye-brushes-set"
+  ],
+  "sku": "3041401",
+  "updatedAt": "2022-12-04T17:32:29.713Z"
+}

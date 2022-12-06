@@ -1,0 +1,42 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Unit Price",
+      "value": "$199.00 per 1Ea"
+    }
+  ],
+  "brand": "Optus",
+  "createdAt": "2022-12-04T23:41:57.272Z",
+  "description": "Locked to Optus network",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/3/4/5349951.jpg",
+  "name": "Samsung Galaxy A13 4G",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 199,
+    "lowPrice": 199,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/OutOfStock",
+        "availabilityStarts": "2022-12-04T23:41:57.272Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "199.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/part_5349951P"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/part_5349951P"
+  ],
+  "sku": "5349951",
+  "updatedAt": "2022-12-04T23:41:57.272Z"
+}

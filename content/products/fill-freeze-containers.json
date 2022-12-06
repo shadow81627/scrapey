@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "3 PACK"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$7.20 per 1Ea"
+    }
+  ],
+  "brand": "B.box",
+  "createdAt": "2022-12-05T20:58:11.249Z",
+  "description": "B.box Fill + Freeze Containers",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/4/2/5420546.jpg",
+  "name": "Fill + Freeze Containers",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 21.6,
+    "lowPrice": 21.6,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/OutOfStock",
+        "availabilityStarts": "2022-12-05T20:58:11.248Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "21.60",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/fill-freeze-containers"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/fill-freeze-containers"
+  ],
+  "sku": "5420546",
+  "updatedAt": "2022-12-05T20:58:11.248Z"
+}

@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "500 ML"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$28.80 per 1Ea"
+    }
+  ],
+  "brand": "B.box",
+  "createdAt": "2022-12-05T17:07:35.341Z",
+  "description": "B.box Insulated Drink Bottle 500mL",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/1/1/5118074.jpg",
+  "name": "Insulated Drink Bottle 500mL",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 28.8,
+    "lowPrice": 28.8,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/OutOfStock",
+        "availabilityStarts": "2022-12-05T17:07:35.341Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "28.80",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/bottle-5118074p-1"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/bottle-5118074p-1"
+  ],
+  "sku": "5118074",
+  "updatedAt": "2022-12-05T17:07:35.341Z"
+}

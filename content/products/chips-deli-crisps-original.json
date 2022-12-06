@@ -1,0 +1,50 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "100g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$4.30 per 100G"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Product of mixed origin"
+    }
+  ],
+  "brand": "Vege",
+  "createdAt": "2022-12-05T21:55:18.042Z",
+  "description": "Vege Chips Deli Crisps Original",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/8/9/2898261.jpg",
+  "name": "Chips Deli Crisps Original",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 4.3,
+    "lowPrice": 4.3,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-05T21:55:18.042Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "4.30",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/vege-deli-crips-original-blend"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/vege-deli-crips-original-blend"
+  ],
+  "sku": "2898261",
+  "updatedAt": "2022-12-05T21:55:18.042Z"
+}

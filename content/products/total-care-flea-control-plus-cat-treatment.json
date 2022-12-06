@@ -1,0 +1,58 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "120 g/L (S)-Methoprene, 100 g/L Fipronil"
+    },
+    {
+      "name": "Contains",
+      "value": "1 x 0.50mL Tube"
+    },
+    {
+      "name": "Size",
+      "value": "1 pack"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$20.00 per 1Ea"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "China"
+    }
+  ],
+  "brand": "Purina",
+  "createdAt": "2022-12-05T12:25:39.842Z",
+  "description": "Purina Total Care Flea Control Plus Cat Treatment",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/9/7/3971174.jpg",
+  "name": "Total Care Flea Control Plus Cat Treatment",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 20,
+    "lowPrice": 20,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-05T12:25:39.841Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "20.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/flea-control-plus-cat"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/flea-control-plus-cat"
+  ],
+  "sku": "3971174",
+  "updatedAt": "2022-12-05T12:25:39.841Z"
+}

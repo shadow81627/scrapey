@@ -1,62 +1,74 @@
 {
   "@type": "Recipe",
+  "author": {
+    "@type": "Person",
+    "name": "Fresh Ideas"
+  },
   "cookTime": "PT20M",
   "createdAt": "2022-11-22T22:53:07.000Z",
-  "datePublished": "2021-03-10",
+  "datePublished": "2022-09-26",
   "description": "Try our easy to follow Flaky Spinach & Cheese Triangles recipe. Absolutely delicious with the best ingredients from Woolworths.",
-  "image": {
-    "@type": "ImageObject",
-    "height": 1300,
-    "mime": "image/png",
-    "url": "https://foodhub.scene7.com/is/image/woolworthsltdprod/1904-flaky-spinach-and-cheese-triangles?wid=1300&hei=1300&fmt=png-alpha",
-    "width": 1300
-  },
-  "keywords": "Flaky Spinach & Cheese Triangles",
+  "image": [
+    "https://foodhub.scene7.com/is/image/woolworthsltdprod/1904-flaky-spinach-and-cheese-triangles:Square-1300x1300"
+  ],
+  "keywords": "Pastries,Pescatarian,Soy free,Tree nut free,Low sugar,Sesame free,Spinach,Peanut free",
   "name": "Flaky Spinach & Cheese Triangles Recipe | Woolworths",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "129 calories",
+    "carbohydrateContent": "7.9 g",
+    "fatContent": "8.7 g",
+    "fiberContent": "0.7 g",
+    "proteinContent": "4.5 g",
+    "saturatedFatContent": "5.6 g",
+    "sodiumContent": "320 millig",
+    "sugarContent": "0.6 g",
+    "transFatContent": "0.5 g"
+  },
   "prepTime": "PT30M",
-  "recipeCategory": "appetisers",
-  "recipeCuisine": "australian",
+  "recipeCategory": "Appetisers",
+  "recipeCuisine": "Australian",
   "recipeId": "8935",
   "recipeIngredient": [
-    "125 g butter",
-    "250 g frozen spinach",
-    "0.5 bunch mint",
-    "0.5 bunch continental parsley",
+    "125g butter, melted",
+    "250g frozen spinach, thawed",
+    "0.5 bunch mint, finely chopped",
+    "0.5 bunch continental parsley, finely chopped",
     "0.25 cup dill",
     "0.5 cup grated parmesan or pecorino",
     "10 sheets filo pastry",
-    "100 g feta",
+    "100g feta, crumbled",
     "0.75 cup ricotta",
-    "1 free range egg"
+    "1 free range egg, lightly beaten"
   ],
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Cover filo with a damp tea towel to prevent it drying out. Brush 2 filo sheets with some of the butter and layer on top of each other. Cut lengthways into 4 strips. Place 1 tbs filling at the end of each strip. Fold the end of pastry diagonally over filling to form a triangle. Continue folding until you reach the end. Brush triangles with a little butter and place on trays. Repeat with remaining pastry, butter and filling. Bake for 18-20 minutes or until golden. Serve garnished with extra dill."
+      "HowToTip": {},
+      "text": "Preheat oven to 200°C. Line 2 large baking trays with baking paper."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Cover filo with a damp tea towel to prevent it drying out. Brush 2 filo sheets with some of the butter and layer on top of each other. Cut lengthways into 4 strips. Place 1 tbs filling at the end of each strip. Fold the end of pastry diagonally over filling to form a triangle. Continue folding until you reach the end. Brush triangles with a little butter and place on trays. Repeat with remaining pastry, butter and filling. Bake for 18-20 minutes or until golden. Serve garnished with extra dill."
+      "HowToTip": {},
+      "text": "Drain spinach well, pressing with the back of a large spoon to remove excess water."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Cover filo with a damp tea towel to prevent it drying out. Brush 2 filo sheets with some of the butter and layer on top of each other. Cut lengthways into 4 strips. Place 1 tbs filling at the end of each strip. Fold the end of pastry diagonally over filling to form a triangle. Continue folding until you reach the end. Brush triangles with a little butter and place on trays. Repeat with remaining pastry, butter and filling. Bake for 18-20 minutes or until golden. Serve garnished with extra dill."
+      "HowToTip": {},
+      "text": "Place spinach in a bowl with herbs, cheeses and egg, mixing well to combine. Season."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
+      "HowToTip": {},
       "text": "Cover filo with a damp tea towel to prevent it drying out. Brush 2 filo sheets with some of the butter and layer on top of each other. Cut lengthways into 4 strips. Place 1 tbs filling at the end of each strip. Fold the end of pastry diagonally over filling to form a triangle. Continue folding until you reach the end. Brush triangles with a little butter and place on trays. Repeat with remaining pastry, butter and filling. Bake for 18-20 minutes or until golden. Serve garnished with extra dill."
     }
   ],
   "recipeNameId": "flaky-spinach-and-cheese-triangles",
   "recipeYield": "20",
   "sameAs": [
-    "https://woolworths.com.au/shop/find-recipes/spinach-triangles"
+    "https://woolworths.com.au/shop/recipes/flaky-spinach-and-cheese-triangles"
   ],
   "totalTime": "PT50M",
-  "updatedAt": "2022-11-24T15:38:09.704Z",
+  "updatedAt": "2022-12-05T07:15:54.267Z",
   "url": "https://www.woolworths.com.au/shop/recipes/flaky-spinach-and-cheese-triangles"
 }

@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "425g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.65 per 100G"
+    }
+  ],
+  "brand": "Latina",
+  "createdAt": "2022-12-04T15:50:26.227Z",
+  "description": "Latina Fresh Italian Tomato & Garlic Pasta Sauce",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/2/3/5233232.jpg",
+  "name": "Fresh Italian Tomato & Garlic Pasta Sauce",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 7,
+    "lowPrice": 7,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-04T15:50:26.226Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "7.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/latina-fresh-pasta-sauce-italian-tomato-garlic-5233232p"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/latina-fresh-pasta-sauce-italian-tomato-garlic-5233232p"
+  ],
+  "sku": "5233232",
+  "updatedAt": "2022-12-04T15:50:26.226Z"
+}

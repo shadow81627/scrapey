@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "450g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$17.78 per 1Kg"
+    }
+  ],
+  "brand": "Rocco's",
+  "createdAt": "2022-12-05T09:35:38.502Z",
+  "description": "Rocco's Smokey Bacon & Cheese Sausages",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/9/5/2951568.jpg",
+  "name": "Smokey Bacon & Cheese Sausages",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 8,
+    "lowPrice": 8,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-05T09:35:38.502Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "8.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/roccos-smokey-cheese-bacon-sausage"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/roccos-smokey-cheese-bacon-sausage"
+  ],
+  "sku": "2951568",
+  "updatedAt": "2022-12-05T09:35:38.502Z"
+}

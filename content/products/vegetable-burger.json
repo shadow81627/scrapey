@@ -1,0 +1,42 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Unit Price",
+      "value": "$2.00 per 1Ea"
+    }
+  ],
+  "brand": "Hedys",
+  "createdAt": "2022-12-06T02:21:59.219Z",
+  "description": "With 45 years of tradition in baking, Hawken Bakehouse is an all Australian family run business. From the beginning, our philosophy was simple, we use fresh locally sourced produce wherever we can to make wholesome food. The best products start with the best ingredients.",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/7/1/1/7110200.jpg",
+  "name": "Vegetable Burger",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2,
+    "lowPrice": 2,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T02:21:59.216Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "2.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-deli-vegie-burger"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/coles-deli-vegie-burger"
+  ],
+  "sku": "7110200",
+  "updatedAt": "2022-12-06T02:21:59.216Z"
+}

@@ -1,0 +1,66 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "725.00kJ",
+      "carbohydrateContent": "29.50g",
+      "dietary_fibre": "6.00g",
+      "fatContent": "2.00g",
+      "name": "nutrition",
+      "proteinContent": "6.10g",
+      "saturatedFatContent": "0.70g",
+      "servingSize": "100 g",
+      "sodiumContent": "259.00mg",
+      "sugarContent": "1.60g"
+    }
+  ],
+  "aggregateRating": {
+    "@context": "http://schema.org",
+    "@type": "AggregateRating",
+    "ratingCount": 1,
+    "ratingValue": 1
+  },
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Wonder"
+  },
+  "createdAt": "2022-12-05T21:18:12.396Z",
+  "description": "Make the ultimate sandwich with Wonder High Fibre, Vitamins & Minerals White Sliced Bread Sandwich. It's super soft, full of goodness and tastes great with your favourite fillings or spreads.<br><br>Wonder High Fibre, Vitamins & Minerals White Sliced Bread Sandwich goes well with all your favourite sandwich fillings. A soure of fibre, vitamins, minerals, iron, protein and zinc, this bread also contains no artificial preservatives and no added sugar. Pack a yummy chicken sandwich with tomatoes and lettuce in your lunchbox, enjoy with a creamy tuna spread or get your classic peanut butter and jelly fix with Wonder bread.<br><br>• Source of protein<br><br>• High in fibre<br><br>• With Vitamins and Minerals<br><br>• No artificial preservatives<br><br>• No added sugar",
+  "gtin13": "9310023138705",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/263669.jpg",
+  "name": "Wonder White Bread Vitamins & Minerals Sandwich 700G",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3.9,
+    "lowPrice": 3.9,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-12-05T21:18:12.396Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 3.9,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/263669/wonder-white-bread-vitamins-minerals-sandwich"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/263669/wonder-white-bread-vitamins-minerals-sandwich"
+  ],
+  "sku": "263669",
+  "updatedAt": "2022-12-05T21:18:12.396Z"
+}

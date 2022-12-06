@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Armada"
+  },
+  "createdAt": "2022-12-06T01:22:42.915Z",
+  "description": "Dine in style with this reusable cutlery set, the perfect way to have fun while saving the planet. Pack of 18.\n\nProduct weight:\nFork: 9g\nSpoon: 9.5g\nKnife: 8.5g\n\nProduct size:\nFork: 18.6cm\nSpoon: 18.6cm\nKnife: 18.7cm\n\nMaterial: PP Plastic",
+  "gtin13": "9339687266142",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/177590.jpg",
+  "name": "Armada Reusable Cutlery Set 18 Pack",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 6,
+    "lowPrice": 6,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/OutOfStock",
+        "availabilityStarts": "2022-12-06T01:22:42.914Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 6,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/177590/armada-reusable-cutlery-set"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/177590/armada-reusable-cutlery-set"
+  ],
+  "sku": "177590",
+  "updatedAt": "2022-12-06T01:22:42.914Z"
+}

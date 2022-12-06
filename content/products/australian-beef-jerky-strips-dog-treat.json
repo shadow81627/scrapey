@@ -1,0 +1,54 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Beef, Cereals, Humectant, Starch, Vitamins & Minerals, Natural Colour, Preservative, Natural Flavour, Fish Oil"
+    },
+    {
+      "name": "Contains",
+      "value": "Wheat, Fish 6"
+    },
+    {
+      "name": "Size",
+      "value": "165g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$4.24 per 100G"
+    }
+  ],
+  "brand": "Farmers Market",
+  "createdAt": "2022-12-05T12:32:35.842Z",
+  "description": "Farmers Market Australian Beef Jerky Strips Dog Treat",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/4/8/5488302.jpg",
+  "name": "Australian Beef Jerky Strips Dog Treat",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 7,
+    "lowPrice": 7,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/OutOfStock",
+        "availabilityStarts": "2022-12-05T12:32:35.842Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "7.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/astrln-beef-jerky-strips"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/astrln-beef-jerky-strips"
+  ],
+  "sku": "5488302",
+  "updatedAt": "2022-12-05T12:32:35.842Z"
+}

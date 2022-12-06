@@ -1,0 +1,60 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "566",
+      "carbohydrateContent": "12.7g",
+      "dietary_fibre": "-",
+      "fatContent": "8.2g",
+      "name": "nutrition",
+      "proteinContent": "1.9g",
+      "saturatedFatContent": "4.1g",
+      "servingSize": "100 g",
+      "sodiumContent": "1mg",
+      "sugarContent": "11.6g"
+    }
+  ],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Cadbury"
+  },
+  "createdAt": "2022-12-05T14:00:44.674Z",
+  "description": "Cadbury Old Gold Dark Chocolate Coated Almonds, the perfect gift to share this Fathers Day and Christmas<BR><BR>The 280g Cadbury Old Gold Dark Chocolate coated roasted Almonds are the perfect gift to share for Fathers Day and Christmas! <br />Delicately coated in Cadbury chocolate, enjoy with friends and family during the festive season.",
+  "gtin13": "9300617293804",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/167106.jpg",
+  "name": "Cadbury Old Gold Dark Chocolate Coated Almonds 280g",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 7,
+    "lowPrice": 7,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-12-05T14:00:44.672Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 7,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/167106/cadbury-old-gold-dark-chocolate-coated-almonds"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/167106/cadbury-old-gold-dark-chocolate-coated-almonds"
+  ],
+  "sku": "167106",
+  "updatedAt": "2022-12-05T14:00:44.672Z"
+}

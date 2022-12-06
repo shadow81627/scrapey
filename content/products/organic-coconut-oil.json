@@ -1,0 +1,54 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "100% Organic Virgin Coconut Oil."
+    },
+    {
+      "name": "Warning",
+      "value": "Product will solidify at temperatures below 25Â°C."
+    },
+    {
+      "name": "Size",
+      "value": "330mL"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.21 per 100mL"
+    }
+  ],
+  "brand": "Raw C",
+  "createdAt": "2022-12-04T15:57:06.578Z",
+  "description": "Raw C Organic Coconut Oil",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/2/1/3218828.jpg",
+  "name": "Organic Coconut Oil",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 4,
+    "lowPrice": 4,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-04T15:57:06.577Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "4.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/raw-c-organic-coconut-oil"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/raw-c-organic-coconut-oil"
+  ],
+  "sku": "3218828",
+  "updatedAt": "2022-12-04T15:57:06.577Z"
+}

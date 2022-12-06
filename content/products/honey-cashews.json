@@ -1,0 +1,54 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "<strong>INGREDIENTS:</strong> <strong>Cashew</strong> Nuts (73%), Sugar, Honey Powder (0.9%)."
+    },
+    {
+      "name": "Allergen",
+      "value": "Contains Cashew"
+    },
+    {
+      "name": "Size",
+      "value": "approx. 100g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$29.00 per 1Kg"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2022-12-05T08:44:21.789Z",
+  "description": "These cashews are delicious with a natural honey flavour roasted to perfection",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/8/7/2/8725969.jpg",
+  "name": "Honey Cashews",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2.9,
+    "lowPrice": 2.9,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-05T08:44:21.788Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "2.90",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/scoop-weigh-cashews-gourmet-honey"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/scoop-weigh-cashews-gourmet-honey"
+  ],
+  "sku": "8725969",
+  "updatedAt": "2022-12-05T08:44:21.788Z"
+}

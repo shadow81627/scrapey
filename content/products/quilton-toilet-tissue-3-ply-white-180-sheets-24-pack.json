@@ -1,0 +1,52 @@
+{
+  "@type": "Product",
+  "additionalProperty": [],
+  "aggregateRating": {
+    "@context": "http://schema.org",
+    "@type": "AggregateRating",
+    "ratingCount": 2,
+    "ratingValue": 2.5
+  },
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Quilton"
+  },
+  "createdAt": "2022-12-05T23:59:33.031Z",
+  "description": "Australian most loved toilet tissue brand <br>Australian owned  <br>3 ply softness and thickness <br>FSC / PEFC certified made from responsible forest resources <br>Suitable for all toilet systems",
+  "gtin13": "9311505824338",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/851925.jpg",
+  "name": "Quilton Toilet Tissue 3 Ply White 180 Sheets 24 Pack",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 13.6,
+    "lowPrice": 13.6,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-12-05T23:59:33.030Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 13.6,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/851925/quilton-toilet-tissue-3-ply-white-180-sheets"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/851925/quilton-toilet-tissue-3-ply-white-180-sheets"
+  ],
+  "sku": "851925",
+  "updatedAt": "2022-12-05T23:59:33.030Z"
+}

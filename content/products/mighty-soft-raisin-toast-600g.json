@@ -1,0 +1,60 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "870kJ",
+      "carbohydrateContent": "37.9g",
+      "dietary_fibre": "2.7g",
+      "fatContent": "2.1g",
+      "name": "nutrition",
+      "proteinContent": "5.8g",
+      "saturatedFatContent": "&lt;1.0g",
+      "servingSize": "100 g",
+      "sodiumContent": "190mg",
+      "sugarContent": "13.4g"
+    }
+  ],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Mighty Soft"
+  },
+  "createdAt": "2022-12-05T21:08:57.746Z",
+  "description": "Mighty Soft Raisin Toast Loaf is the ultimate breakfast when you're craving something sweet. This tasty loaf contains 25% real fruit and is made with no artificial preservatives.<BR><BR>Mighty Soft Raisin Toast is crafted from at least 70% Australian ingredients and is made with love. This tasty loaf has no artificial colours or flavours, and you can enjoy it for breakfast, lunch or even snack time.<BR><BR>• Raisin toast<BR><BR>• Made with love<BR><BR>• Contains 25% real fruit<BR><BR>• No artificial colours, flavours or preservatives<BR><BR>• Enjoy fresh or toasted with butter",
+  "gtin13": "9310023135988",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/236288.jpg",
+  "name": "Mighty Soft Raisin Toast 600G",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 6,
+    "lowPrice": 6,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-12-05T21:08:57.746Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 6,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/236288/mighty-soft-raisin-toast"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/236288/mighty-soft-raisin-toast"
+  ],
+  "sku": "236288",
+  "updatedAt": "2022-12-05T21:08:57.746Z"
+}

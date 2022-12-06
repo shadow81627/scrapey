@@ -1,0 +1,60 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "655.00kJ",
+      "carbohydrateContent": "17.50g",
+      "dietary_fibre": "3.91g",
+      "fatContent": "7.60g",
+      "name": "nutrition",
+      "proteinContent": "3.90g",
+      "saturatedFatContent": "2.50g",
+      "servingSize": "100 g",
+      "sodiumContent": "518.00mg",
+      "sugarContent": "11.60g"
+    }
+  ],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Kan Tong"
+  },
+  "createdAt": "2022-12-05T07:51:19.829Z",
+  "description": "Ignite your taste for adventure with Kan Tong.<br><br>Create a quick and delicious Stir Fry the whole family will love with Kan Tong Peanut Satay Cooking Sauce.  Packed full of flavour, it will transform your regular stir frys with a blend of creamy coconut milk and roasted peanuts, this tasty sauce will leave you wanting more!<br><br>- No Artificial Flavours or Colours<br><br>- No added MSG<br><br>- Made in Australia<br><br>- Serves 4",
+  "gtin13": "9310012040514",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/758381.jpg",
+  "name": "Kan Tong Peanut Satay Stir Fry Cooking Sauce 505G",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3.5,
+    "lowPrice": 3.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-12-05T07:51:19.828Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 3.5,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/758381/kan-tong-peanut-satay-stir-fry-cooking-sauce"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/758381/kan-tong-peanut-satay-stir-fry-cooking-sauce"
+  ],
+  "sku": "758381",
+  "updatedAt": "2022-12-05T07:51:19.828Z"
+}

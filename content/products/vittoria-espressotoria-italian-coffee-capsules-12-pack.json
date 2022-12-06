@@ -1,0 +1,60 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "-",
+      "carbohydrateContent": "-",
+      "dietary_fibre": "-",
+      "fatContent": "-",
+      "name": "nutrition",
+      "proteinContent": "-",
+      "saturatedFatContent": "-",
+      "servingSize": "100 g",
+      "sodiumContent": "-",
+      "sugarContent": "-"
+    }
+  ],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Vittoria"
+  },
+  "createdAt": "2022-12-05T09:54:27.636Z",
+  "description": "Vittoria Italian blend is a medium roast of 100% Arabica coffee beans from Central and South America with a balanced body and taste. Italian blend is a milder cup compared to darker roasts like Vittoria Espresso. 100% Arabica - Blend Best Served: Espresso, With Milk Tasting Notes: Raisin, Pear, Almond Origins: Central and South America Intensity: 11 Compatible with: Espressotoria System® coffee capsule machines",
+  "gtin13": "9310631628452",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/829332.jpg",
+  "name": "Vittoria Espressotoria Italian Coffee Capsules 12 Pack",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 5,
+    "lowPrice": 5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-12-05T09:54:27.636Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 5,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/829332/vittoria-espressotoria-italian-coffee-capsules"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/829332/vittoria-espressotoria-italian-coffee-capsules"
+  ],
+  "sku": "829332",
+  "updatedAt": "2022-12-05T09:54:27.636Z"
+}

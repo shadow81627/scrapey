@@ -1,0 +1,54 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Natural Artesian Water"
+    },
+    {
+      "name": "Size",
+      "value": "700mL"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$3.14 per 1L"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Product of Fiji"
+    }
+  ],
+  "brand": "Fiji",
+  "createdAt": "2022-12-05T19:20:05.383Z",
+  "description": "FIJI Natural Artesian Water The 700 mL bottle is perfect for fitness and travel, with a slim, sleek shape made to fit anywhereSlowly filtered by volcanic rock to create FIJI's soft, smooth tasteProtected and preserved naturally from external elements in a natural artesian aquifer",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/4/6/6/4661580.jpg",
+  "name": "Natural Artesian Water",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2.2,
+    "lowPrice": 2.2,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-05T19:20:05.383Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "2.20",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/water-700ml"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/water-700ml"
+  ],
+  "sku": "4661580",
+  "updatedAt": "2022-12-05T19:20:05.383Z"
+}

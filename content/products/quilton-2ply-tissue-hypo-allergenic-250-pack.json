@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Quilton"
+  },
+  "createdAt": "2022-12-05T23:58:55.771Z",
+  "description": "<div><strong><em>Tissues are now limited to 2 packs per customer, per shop.<br><br></em></strong><div>Our Hypo-allergenic Facial Tissues are made to help reduce the risk of allergic reactions making them ideal for those who suffer from mild skin irritations</div></div>",
+  "gtin13": "9311505825014",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/644239.jpg",
+  "name": "Quilton 2ply Tissue Hypo-allergenic 250 Pack",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2.9,
+    "lowPrice": 2.9,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-12-05T23:58:55.770Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 2.9,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/644239/quilton-2ply-tissue-hypo-allergenic"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/644239/quilton-2ply-tissue-hypo-allergenic"
+  ],
+  "sku": "644239",
+  "updatedAt": "2022-12-05T23:58:55.770Z"
+}

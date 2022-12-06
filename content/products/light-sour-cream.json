@@ -1,0 +1,58 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "<strong>INGREDIENTS:</strong> Skimmed <strong>Milk</strong>, <strong>Cream</strong>, Skimmed <strong>Milk</strong> Powder, Thickener (1442), Cultures."
+    },
+    {
+      "name": "Allergen",
+      "value": "Contains MILK"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "10.0"
+    },
+    {
+      "name": "Size",
+      "value": "500g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.84 per 100G"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2022-12-05T20:24:50.277Z",
+  "description": "Coles Dairy light sour cream, 500g. With 47% less fat than regular Coles sour cream but with all of the flavour! Enjoy as a dip or as a salad dressing.",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/6/7/3676990.jpg",
+  "name": "Light Sour Cream",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 4.2,
+    "lowPrice": 4.2,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-05T20:24:50.277Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "4.20",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-500g-light-sour-cream"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/coles-500g-light-sour-cream"
+  ],
+  "sku": "3676990",
+  "updatedAt": "2022-12-05T20:24:50.277Z"
+}

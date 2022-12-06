@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "12g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$91.67 per 100G"
+    }
+  ],
+  "brand": "Sun Zapper",
+  "createdAt": "2022-12-06T06:18:26.051Z",
+  "description": "Sun Zapper Skin Tone Zinc SPF 50+",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/9/9/2995949.jpg",
+  "name": "Skin Tone Zinc SPF 50+",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 11,
+    "lowPrice": 11,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T06:18:26.050Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "11.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/sun-zapper-zinc-stick-skin-tone-spf-50"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/sun-zapper-zinc-stick-skin-tone-spf-50"
+  ],
+  "sku": "2995949",
+  "updatedAt": "2022-12-06T06:18:26.050Z"
+}

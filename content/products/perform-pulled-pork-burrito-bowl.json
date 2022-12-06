@@ -1,0 +1,54 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "<p><strong>INGREDIENTS:</strong> Cooked Pork (33%) [Sow Stall Free Australian Pork (95%), Marinade (5%) (Maltodextrin, Sugar, Salt, Vegetable Powders Garlic Powder, Onion Powder, Corn Starch, Paprika, Coriander, Cumin, Chipotle Chilli, Red Capsicum, Cloves, Garlic, Orange Juice, Pepper, Dextrin, Anticaking Agents (551, 330), Vegetable Gum (415), Canola Oil, Natural Colour (Paprika Oleoresins), Chipotle Chilli Powder, Oregano)], Capsicum (22%), Sweet Corn (13%), Salsa Sauce (12%) [Tomato, Onion, Water, Thickeners (1442, 412), Canola Oil, Sugar, Coriander, Salt, Garlic, Vinegar, Chilli Flake, Basil, Cumin], Cannellini Beans (9%), Red Kidney Beans (9%).</p>"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "1.0"
+    },
+    {
+      "name": "Size",
+      "value": "330g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$2.73 per 100G"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2022-12-05T03:55:04.674Z",
+  "description": "with capsicum, sweet corn and salsa",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/5/5/5556297.jpg",
+  "name": "Perform Pulled Pork Burrito Bowl",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 9,
+    "lowPrice": 9,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/OutOfStock",
+        "availabilityStarts": "2022-12-05T03:55:04.673Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "9.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/pork-burrito-bowl"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/pork-burrito-bowl"
+  ],
+  "sku": "5556297",
+  "updatedAt": "2022-12-05T03:55:04.673Z"
+}

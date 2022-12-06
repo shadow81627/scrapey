@@ -1,0 +1,58 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "INGREDIENTS: Rolled Oats (100%)."
+    },
+    {
+      "name": "Allergen",
+      "value": "Contains CEREALS CONTAINING GLUTEN, Contains Oats"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "22.0"
+    },
+    {
+      "name": "Size",
+      "value": "900g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.18 per 100G"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2022-12-06T05:03:33.063Z",
+  "description": "Coles Rolled Oats",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/2/9/5290305.jpg",
+  "name": "Rolled Oats",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 1.65,
+    "lowPrice": 1.65,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T05:03:33.062Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "1.65",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-smart-buy-oats-rolled"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/coles-smart-buy-oats-rolled"
+  ],
+  "sku": "5290305",
+  "updatedAt": "2022-12-06T05:03:33.062Z"
+}

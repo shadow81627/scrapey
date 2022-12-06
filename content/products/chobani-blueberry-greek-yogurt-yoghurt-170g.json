@@ -1,0 +1,60 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "558kJ",
+      "carbohydrateContent": "18.3g",
+      "dietary_fibre": "0.17g",
+      "fatContent": "0.3g",
+      "name": "nutrition",
+      "proteinContent": "13.7g",
+      "saturatedFatContent": "0.1g",
+      "servingSize": "100 g",
+      "sodiumContent": "48mg",
+      "sugarContent": "16.8g"
+    }
+  ],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Chobani"
+  },
+  "createdAt": "2022-12-06T00:33:28.717Z",
+  "description": "<p>Chobani Blueberry Greek Yogurt  Plump blueberries are dropped into our low fat Greek Yogurt to create the perfect snack<BR><BR>With over 13 grams of protein in every pot its perfect on its own as an afternoon snack or a flavour filled addition to your morning muesli <br/><br/>At Chobani we believe yogurt should be simple just milk and cultures which we strain using a centuries old authentic process to make it deliciously thick It takes 3 cups of milk to make 1 cup of Chobani Yogurt which is why its so creamy and packed with protein All Chobani fruit pots contain this thick and creamy yogurt layered on a foundation of real fruit sure to delight your taste buds <br/><br/>No preservatives artificial colours or flavours <br/><br/>High in natural protein<br/></p>",
+  "gtin13": "894700010601",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/712001.jpg",
+  "name": "Chobani Blueberry Greek Yogurt Yoghurt 170g",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2,
+    "lowPrice": 2,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T00:33:28.717Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 2,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/712001/chobani-blueberry-greek-yogurt-yoghurt"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/712001/chobani-blueberry-greek-yogurt-yoghurt"
+  ],
+  "sku": "712001",
+  "updatedAt": "2022-12-06T00:33:28.717Z"
+}

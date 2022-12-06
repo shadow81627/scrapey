@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "70 pack"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$3.14 per 100Ea"
+    }
+  ],
+  "brand": "Kleenex",
+  "createdAt": "2022-12-05T16:02:00.851Z",
+  "description": "Kleenex Aloe Vera & Vitamin E 3 Ply Large & Thick Facial Tissues",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/3/7/2372797.jpg",
+  "name": "Aloe Vera & Vitamin E 3 Ply Large & Thick Facial Tissues",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2.2,
+    "lowPrice": 2.2,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-05T16:02:00.851Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "2.20",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/kleenex-large-n-thick-aloe-vera-facial-tissues"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/kleenex-large-n-thick-aloe-vera-facial-tissues"
+  ],
+  "sku": "2372797",
+  "updatedAt": "2022-12-05T16:02:00.851Z"
+}

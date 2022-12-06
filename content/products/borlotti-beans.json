@@ -1,0 +1,50 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "400g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$4.75 per 1Kg"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Made in Italy"
+    }
+  ],
+  "brand": "Annalisa",
+  "createdAt": "2022-12-04T19:04:57.173Z",
+  "description": "Annalisa Borlotti Beans, with their tender and compact pulp, are a typical food of our cuisine.",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/4/9/1/491478.jpg",
+  "name": "Borlotti Beans",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 1.9,
+    "lowPrice": 1.9,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-05T05:54:19.950Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "1.90",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/annalisa-beans-borlotti"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/annalisa-beans-borlotti"
+  ],
+  "sku": "491478",
+  "updatedAt": "2022-12-05T05:54:19.950Z"
+}

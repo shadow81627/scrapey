@@ -1,0 +1,50 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "100g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.60 per 100G"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Made in China from Imported ingredients"
+    }
+  ],
+  "brand": "Savour",
+  "createdAt": "2022-12-04T22:32:22.702Z",
+  "description": "Savour Wasabi Flavoured Peas",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/6/0/7/6070701.jpg",
+  "name": "Wasabi Flavoured Peas",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 1.6,
+    "lowPrice": 1.6,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-04T22:32:22.701Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "1.60",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/savour-peas-wasabi"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/savour-peas-wasabi"
+  ],
+  "sku": "6070701",
+  "updatedAt": "2022-12-04T22:32:22.702Z"
+}

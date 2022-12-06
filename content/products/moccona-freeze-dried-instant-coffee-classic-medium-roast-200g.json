@@ -1,0 +1,60 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "-",
+      "carbohydrateContent": "-",
+      "dietary_fibre": "-",
+      "fatContent": "-",
+      "name": "nutrition",
+      "proteinContent": "-",
+      "saturatedFatContent": "-",
+      "servingSize": "100 g",
+      "sodiumContent": "-",
+      "sugarContent": "-"
+    }
+  ],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Moccona"
+  },
+  "createdAt": "2022-12-05T09:47:51.046Z",
+  "description": "Experience the smooth taste of Moccona Classic Medium Roast. Its full-bodied flavour and rich aroma make it the perfect coffee to enjoy everyday.<BR><BR><ul><li>The perfect coffee to enjoy every day.<br /><br /></li><li>The heritage behind Moccona was born half a world away in the quaint Netherlands’ village of Joure in 1753. Originally sold in delicatessens and small specialty stores, it symbolised the little indulgence from Europe that added to the pleasures of everyday.<br /><br /></li><li>Known for its premium taste and elegant glass jar, Moccona has become a much-loved classic in homes all over Australia.<br /><br /></li><li>Moccona blends are created by bringing together the world’s finest beans: Arabica and the Robusta. The Arabica has a softer sweeter taste with berry and fruit tones while the Robusta bean has a deep rich flavour.<br /><br /></li><li>Together they bring the magical blend and character you expect from the perfect cup of coffee. Every time you smell the aroma of Moccona, you’ll be reminded of the great passion that drives us to create moments of pure indulgence - just for you.<br /><br /></li><li>Experience the smooth taste of Moccona Classic Medium Roast.<br /><br /></li><li>Its full-bodied flavour and rich aroma make it the perfect coffee to enjoy everyday.<br /><br /></li><li>At Moccona we care about coffee, the people who grow it and the planet it comes from.<br /><br /></li><li>Working together with our preferred partners like UTZ Certified, we help farmers prosper and help to preserve the environment.</li></ul>",
+  "gtin13": "8711000065723",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/035681.jpg",
+  "name": "Moccona Freeze Dried Instant Coffee Classic Medium Roast 200G",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 16,
+    "lowPrice": 16,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-12-05T09:47:51.046Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 16,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/35681/moccona-freeze-dried-instant-coffee-classic-medium-roast"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/35681/moccona-freeze-dried-instant-coffee-classic-medium-roast"
+  ],
+  "sku": "35681",
+  "updatedAt": "2022-12-05T09:47:51.046Z"
+}

@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "750mL"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$5.53 per 1L"
+    }
+  ],
+  "brand": "Santa Vittoria",
+  "createdAt": "2022-12-05T07:44:24.885Z",
+  "description": "Azzurra is the famous Italian blue bottle, found in many fine dining restaurants. Bottled at the source.",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/9/8/1/9811975.jpg",
+  "name": "Azurra Frizzante Sparkling Mineral Water",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 4.15,
+    "lowPrice": 4.15,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-05T07:44:24.885Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "4.15",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/santa-vittoria-azurra-mineral-water-sparkling"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/santa-vittoria-azurra-mineral-water-sparkling"
+  ],
+  "sku": "9811975",
+  "updatedAt": "2022-12-05T07:44:24.885Z"
+}

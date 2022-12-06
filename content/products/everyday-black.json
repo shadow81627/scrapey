@@ -1,0 +1,54 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Contains",
+      "value": "Black Tea."
+    },
+    {
+      "name": "Size",
+      "value": "100 pack"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.14 per 1Ea"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Blended and packed in Poland to the highest standards by Twinings of London using the finest imported and local ingredients."
+    }
+  ],
+  "brand": "Twinings",
+  "createdAt": "2022-12-05T02:24:40.402Z",
+  "description": "Twinings Everyday Black",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/5/8/5583915.jpg",
+  "name": "Everyday Black",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 13.5,
+    "lowPrice": 13.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/OutOfStock",
+        "availabilityStarts": "2022-12-05T02:24:40.401Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "13.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/black-tea-bag-100-pack"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/black-tea-bag-100-pack"
+  ],
+  "sku": "5583915",
+  "updatedAt": "2022-12-05T02:24:40.401Z"
+}

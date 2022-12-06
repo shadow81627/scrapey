@@ -1,0 +1,80 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1",
+    "ratingValue": "5"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Oh My Veggies"
+  },
+  "cookTime": "PT40M",
+  "createdAt": "2022-12-04T14:20:44.888Z",
+  "datePublished": "2019-02-20T06:00:31+00:00",
+  "description": "This Cream of Cauliflower Soup is packed with flavor from fresh veggies, shallots, and herbs simmered in a savory broth. It&#39;s creamy, comforting, totally delicious - and super easy to make.",
+  "image": [
+    "https://ohmyveggies.com/wp-content/uploads/2019/02/cauliflower-soup-1-1-scaled.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2019/02/cauliflower-soup-1-1-500x500.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2019/02/cauliflower-soup-1-1-500x375.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2019/02/cauliflower-soup-1-1-480x270.jpg"
+  ],
+  "keywords": "Cauliflower Soup, Cream of Cauliflower Soup",
+  "name": "Cream of Cauliflower Soup",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "126 kcal",
+    "carbohydrateContent": "24 g",
+    "fatContent": "3 g",
+    "fiberContent": "4 g",
+    "proteinContent": "4 g",
+    "saturatedFatContent": "1 g",
+    "servingSize": "1 serving",
+    "sodiumContent": "975 mg",
+    "sugarContent": "6 g",
+    "unsaturatedFatContent": "3 g"
+  },
+  "prepTime": "PT10M",
+  "recipeCategory": "Main Course",
+  "recipeCuisine": "American",
+  "recipeIngredient": [
+    "1 tbsp olive oil",
+    "1 onion (small, peeled and minced)",
+    "2 shallots (chopped)",
+    "2 cloves garlic (minced)",
+    "salt and pepper (to taste)",
+    "thyme (to taste)",
+    "1 head cauliflower (about 5-6 cups, chopped into small florets)",
+    "2 potatoes (peeled and roughly chopped)",
+    "6 cups vegetable broth",
+    "basil (fresh, for garnish)"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Heat the olive oil in a large pot over medium heat. Add the onion and shallots, and cook for 3-4 minutes, until softened."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add garlic, thyme, cauliflower, and potatoes. Stir and cook for 5-6 minutes, until just slightly softened. If the mixture seems to dry, add a bit more olive oil. Add salt and pepper, to taste."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add vegetable broth. Bring to a boil. Reduce to a simmer and cook for 30-40 minutes, until cauliflower and potatoes are fork tender."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Puree soup with an immersion blender. Or transfer to a traditional blender (carefully) for this step, and returning soup to the pot for serving. Serve topped with fresh basil."
+    }
+  ],
+  "recipeYield": "6",
+  "sameAs": [
+    "https://ohmyveggies.com/cream-of-cauliflower-soup"
+  ],
+  "suitableForDiet": [
+    "https://schema.org/VeganDiet",
+    "https://schema.org/VegetarianDiet"
+  ],
+  "totalTime": "PT50M",
+  "updatedAt": "2022-12-04T14:20:44.887Z"
+}

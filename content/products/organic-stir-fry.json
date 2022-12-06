@@ -1,0 +1,54 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "<p> &nbsp;Organic Cabbage (65%), Organic Carrot (20%), Organic Kale (15%).</p>"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "3.0"
+    },
+    {
+      "name": "Size",
+      "value": "300g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$18.33 per 1Kg"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2022-12-06T05:17:04.396Z",
+  "description": "Offering great taste, quality and value, you can also be assured that all of our Coles Brand Organic products are Certified Organic",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/9/5/7/9573356.jpg",
+  "name": "Organic Stir Fry",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 5.5,
+    "lowPrice": 5.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T05:17:04.396Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "5.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/fresh-coles-organic-stir-fry"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/fresh-coles-organic-stir-fry"
+  ],
+  "sku": "9573356",
+  "updatedAt": "2022-12-06T05:17:04.396Z"
+}

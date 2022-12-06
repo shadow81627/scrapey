@@ -1,0 +1,66 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "442kJ",
+      "carbohydrateContent": "7.6g",
+      "dietary_fibre": "-",
+      "fatContent": "0.4g",
+      "name": "nutrition",
+      "proteinContent": "17.6g",
+      "saturatedFatContent": "0.2g",
+      "servingSize": "100 g",
+      "sodiumContent": "58mg",
+      "sugarContent": "6.0g"
+    }
+  ],
+  "aggregateRating": {
+    "@context": "http://schema.org",
+    "@type": "AggregateRating",
+    "ratingCount": 1,
+    "ratingValue": 5
+  },
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Chobani"
+  },
+  "createdAt": "2022-12-05T21:37:43.729Z",
+  "description": "<p>Chobani Plain 05 Fat Greek Yogurt  Perfectly crafted using wholesome Australian milk with the addition of live cultures Delicious alone or as a blank canvas to any cooking creation it is so deliciously thick creamy and packed with protein<BR><BR>With over 16 grams of natural protein in every serve this is a great versatile lowfat greek yogurt that can be used as a healthy ingredient in cooking as a topping or served with fruit This Plain Greek Yogurt is perfect for adding to smoothies to create a thick and creamy beverage high in natural protein <br/><br/>At Chobani we believe yogurt should be simple just milk and cultures which we strain using a centuriesold authentic process to make it deliciously thick It takes 3 cups of milk to make 1 cup of Chobani Yogurt which is why its so creamy and packed with protein <br/><br/>No preservatives artificial colours or flavours<br/><br/> High in natural protein<span id=\"selectionBoundary_1647499907871_1331016609516258\" class=\"rangySelectionBoundary\">?</span><br/></p>",
+  "gtin13": "894700010663",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/717518.jpg",
+  "name": "Chobani Plain 0.5% Fat Greek Yogurt Yoghurt 907g",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 7,
+    "lowPrice": 7,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-12-05T21:37:43.728Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 7,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/717518/chobani-plain-0-5-fat-greek-yogurt-yoghurt"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/717518/chobani-plain-0-5-fat-greek-yogurt-yoghurt"
+  ],
+  "sku": "717518",
+  "updatedAt": "2022-12-05T21:37:43.728Z"
+}

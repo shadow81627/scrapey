@@ -1,0 +1,50 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "4 pack"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$8.75 per 1L"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Made in the United Kingdom"
+    }
+  ],
+  "brand": "Fever-Tree",
+  "createdAt": "2022-12-05T02:16:46.974Z",
+  "description": "Fever-Tree Premium Mixers Light Meditteranean Tonic 4x200mL",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/5/8/5582388.jpg",
+  "name": "Premium Mixers Light Meditteranean Tonic 4x200mL",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 7,
+    "lowPrice": 7,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/OutOfStock",
+        "availabilityStarts": "2022-12-05T02:16:46.973Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "7.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/tonic-water-4x200ml"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/tonic-water-4x200ml"
+  ],
+  "sku": "5582388",
+  "updatedAt": "2022-12-05T02:16:46.974Z"
+}

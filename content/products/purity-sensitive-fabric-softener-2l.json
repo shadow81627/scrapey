@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Purity"
+  },
+  "createdAt": "2022-12-05T11:39:18.280Z",
+  "description": "Purity Sensitive Front & Top Loader Fabric Softener is Australian made & owned and dermatologically tested. It contains plant-based formulation and no harsh chemicals.<BR><BR>Purity's caring formula is extra gentle, for softness and comfort you can feel.<br />Specially formulated for infants through to adults with sensitive skin.",
+  "gtin13": "9310692911029",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/088869.jpg",
+  "name": "Purity Sensitive Fabric Softener 2L",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 6.7,
+    "lowPrice": 6.7,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-12-05T11:39:18.279Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 6.7,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/88869/purity-sensitive-fabric-softener"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/88869/purity-sensitive-fabric-softener"
+  ],
+  "sku": "88869",
+  "updatedAt": "2022-12-05T11:39:18.279Z"
+}

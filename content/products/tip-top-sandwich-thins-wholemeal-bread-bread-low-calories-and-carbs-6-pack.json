@@ -1,0 +1,60 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "416.0kJ",
+      "carbohydrateContent": "15.8g",
+      "dietary_fibre": "3.1g",
+      "fatContent": "1.4g",
+      "name": "nutrition",
+      "proteinContent": "3.9g",
+      "saturatedFatContent": "0.2g",
+      "servingSize": "100 g",
+      "sodiumContent": "139.0mg",
+      "sugarContent": "1.2g"
+    }
+  ],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Tip Top"
+  },
+  "createdAt": "2022-12-05T21:09:39.555Z",
+  "description": "<p>Tip Top Sandwich Thins Wholemeal 6 Pack<br/><br/>Tip Top® is all about home-grown goodness. That's why we bake every day with Aussie wheat. We partner with Foodbank to share goodness with the community. And we use more sustainable packaging wherever we can so Australia stays beautiful for generations to come.<br/><br/>35% Less Calories and Carb than 1 Medium Wrap<br/><br/>1/3 of your Daily Target of Whole Grains<br/><br/>Source of Fibre<br/><br/>No artificial Colours, Flavours or Preservatives<br/><br/>FODMAP Friendly</p>",
+  "gtin13": "9339423007299",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/603317.jpg",
+  "name": "Tip Top Sandwich Thins Wholemeal Bread Bread Low Calories & Carbs 6 Pack",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3.7,
+    "lowPrice": 3.7,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-12-05T21:09:39.554Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 3.7,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/603317/tip-top-sandwich-thins-wholemeal-bread-bread-low-calories-carbs"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/603317/tip-top-sandwich-thins-wholemeal-bread-bread-low-calories-carbs"
+  ],
+  "sku": "603317",
+  "updatedAt": "2022-12-05T21:09:39.554Z"
+}

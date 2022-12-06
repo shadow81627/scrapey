@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "White King"
+  },
+  "createdAt": "2022-12-05T12:08:38.701Z",
+  "description": "White King Premium Bleach formula utilises surfactant technology to produce a superior clean.<BR><BR><p>White King Premium Bleach.</p><p>Kills 99.99% of germs (Evaluated against - P.aeruginosa, E.coli, P.vulgaris, S.aureus).</p><p>- Whitens and protects.</p><p>- Removes difficult stains.</p><p>- Removes mould and soap scum.</p><p>- Removes moss and grime.</p>",
+  "gtin13": "9333441000959",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/044100.jpg",
+  "name": "White King Bleach Standard 2.5L",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 4,
+    "lowPrice": 4,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-12-05T12:08:38.700Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 4,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/44100/white-king-bleach-standard"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/44100/white-king-bleach-standard"
+  ],
+  "sku": "44100",
+  "updatedAt": "2022-12-05T12:08:38.700Z"
+}

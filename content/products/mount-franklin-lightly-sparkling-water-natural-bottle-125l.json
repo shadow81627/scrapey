@@ -1,0 +1,60 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "0.0kJ",
+      "carbohydrateContent": "0.0g",
+      "dietary_fibre": "-",
+      "fatContent": "0.0g",
+      "name": "nutrition",
+      "proteinContent": "0.0g",
+      "saturatedFatContent": "0.0g",
+      "servingSize": "100 g",
+      "sodiumContent": "12.5mg",
+      "sugarContent": "0.0g"
+    }
+  ],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Mount Franklin"
+  },
+  "createdAt": "2022-12-05T22:23:43.914Z",
+  "description": "Mount Franklin Lightly Sparkling Water Natural Bottle 1.25L<BR><BR>Pure Australian Spring Water infused with delicate bubbles. No sugar, sweeteners, no preservatives and low kilojoule. Icy cold refreshment, perfect to enjoy with family and friends or on the go. They are the perfect choice for those who want to add a little sparkle to their day.<BR><BR>Australian Sparkling Spring Water<BR><BR>Hint of natural flavour<BR><BR>No sugar, no sweeteners, no preservatives<BR><BR>1.25L Bottle Soft Drink<BR><BR>Perfect for drinking with friends",
+  "gtin13": "9300624017585",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/332730.jpg",
+  "name": "Mount Franklin Lightly Sparkling Water Natural Bottle 1.25L",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 1.7,
+    "lowPrice": 1.7,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-12-05T22:23:43.913Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 1.7,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/332730/mount-franklin-lightly-sparkling-water-natural-bottle"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/332730/mount-franklin-lightly-sparkling-water-natural-bottle"
+  ],
+  "sku": "332730",
+  "updatedAt": "2022-12-05T22:23:43.913Z"
+}

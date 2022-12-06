@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "500g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$2.00 per 100G"
+    }
+  ],
+  "brand": "McCain",
+  "createdAt": "2022-12-05T03:52:44.673Z",
+  "description": "McCain Pub Size Double Meat Bacon Carbonara",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/6/4/5641374.jpg",
+  "name": "Pub Size Double Meat Bacon Carbonara",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 10,
+    "lowPrice": 10,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/OutOfStock",
+        "availabilityStarts": "2022-12-05T03:52:44.673Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "10.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/bacon-carbonara"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/bacon-carbonara"
+  ],
+  "sku": "5641374",
+  "updatedAt": "2022-12-05T03:52:44.673Z"
+}

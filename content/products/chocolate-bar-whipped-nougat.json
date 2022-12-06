@@ -1,0 +1,50 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "45g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$4.44 per 100G"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "MADE IN AUSTRALIA"
+    }
+  ],
+  "brand": "Milky Way",
+  "createdAt": "2022-12-05T19:33:33.034Z",
+  "description": "Milky Way Chocolate Bar Whipped Nougat",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/4/3/8/4382576.jpg",
+  "name": "Chocolate Bar Whipped Nougat",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2,
+    "lowPrice": 2,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-05T19:33:33.034Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "2.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/milky-bar"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/milky-bar"
+  ],
+  "sku": "4382576",
+  "updatedAt": "2022-12-05T19:33:33.034Z"
+}

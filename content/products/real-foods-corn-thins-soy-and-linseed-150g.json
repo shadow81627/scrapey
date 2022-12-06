@@ -1,0 +1,60 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "296.0kJ",
+      "carbohydrateContent": "11.6g",
+      "dietary_fibre": "1.5g",
+      "fatContent": "1.2g",
+      "name": "nutrition",
+      "proteinContent": "1.9g",
+      "saturatedFatContent": "0.2g",
+      "servingSize": "100 g",
+      "sodiumContent": "35.0mg",
+      "sugarContent": "0.1g"
+    }
+  ],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Real Foods"
+  },
+  "createdAt": "2022-12-05T14:32:36.220Z",
+  "description": "Looking for a snack that's healthy but not boring? Crispy and tasty, but also good for you? No need to compromise! Real Foods Corn Thins are both delicious and diet friendly because they're made from corn.\nImagine the glorious taste of sun-ripened maize, with added Soy, Linseed & Chia, popped then pressed into a crispbread slice. With Corn Thins you get all the delicious taste of popcorn - with none of the mess. They're healthy, too: all natural ingredients, good levels of fibre, and a Source of Omega 3.",
+  "gtin13": "9322969000022",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/003961.jpg",
+  "name": "Real Foods Corn Thins Soy And Linseed 150G",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2,
+    "lowPrice": 2,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-12-05T14:32:36.219Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 2,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/3961/real-foods-corn-thins-soy-and-linseed"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/3961/real-foods-corn-thins-soy-and-linseed"
+  ],
+  "sku": "3961",
+  "updatedAt": "2022-12-05T14:32:36.219Z"
+}

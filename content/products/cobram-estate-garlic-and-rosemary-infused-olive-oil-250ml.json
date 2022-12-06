@@ -1,0 +1,45 @@
+{
+  "@type": "Product",
+  "additionalProperty": [],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Cobram Estate"
+  },
+  "createdAt": "2022-12-05T21:52:55.803Z",
+  "gtin13": "810017170234",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/199663_1.jpg",
+  "name": "Cobram Estate Garlic & Rosemary Infused Olive Oil 250ml",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 7.7,
+    "lowPrice": 7.7,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-12-05T21:52:55.803Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 7.7,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/199663/cobram-estate-garlic-rosemary-infused-olive-oil"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/199663/cobram-estate-garlic-rosemary-infused-olive-oil"
+  ],
+  "sku": "199663",
+  "updatedAt": "2022-12-05T21:52:55.803Z"
+}

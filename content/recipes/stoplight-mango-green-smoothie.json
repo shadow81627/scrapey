@@ -1,0 +1,68 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "3",
+    "ratingValue": "5"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Minimalist Baker"
+  },
+  "createdAt": "2022-12-05T04:06:53.572Z",
+  "datePublished": "2013-05-14T05:00:57+00:00",
+  "description": "A layered multi-colored smoothie with frozen mango, strawberry, and spinach! The perfect healthy breakfast, snack, or dessert.",
+  "image": [
+    "https://minimalistbaker.com/wp-content/uploads/2013/05/mango-green-smoothie.jpg"
+  ],
+  "keywords": "green smoothie",
+  "name": "Stoplight Mango Green Smoothie",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "289 kcal",
+    "carbohydrateContent": "65 g",
+    "fatContent": "3.6 g",
+    "fiberContent": "10 g",
+    "proteinContent": "6 g",
+    "servingSize": "1 smoothie",
+    "sugarContent": "52 g"
+  },
+  "prepTime": "PT5M",
+  "recipeCategory": "Beverage",
+  "recipeCuisine": "Gluten-Free",
+  "recipeIngredient": [
+    "1 1/4 cups frozen mango pieces",
+    "1 cup frozen strawberries",
+    "1 cup fresh spinach",
+    "1 cup water / almond milk (I used half of each)",
+    "Frozen banana, honey, stevia, or agave (optional sweeteners)"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Place mango into a blender with milk or water and blend until smooth, adding more mango to thicken and more water or milk to thin."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Pour 2/3 of the smoothie into a serving container and then add strawberries to the blender. Blend until smooth, adding a bit more water or almond milk if needed. Taste to see if it needs to be sweetened. I added 1/2 a small frozen banana at this point."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Pour 3/4 of the smoothie into the serving glass on top of the mango layer."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Lastly, add spinach to the blender and blend until smooth. Pour into the serving glass, making three distinct layers."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Sip and enjoy, or freeze for later."
+    }
+  ],
+  "recipeYield": "1",
+  "sameAs": [
+    "https://minimalistbaker.com/stoplight-mango-green-smoothie"
+  ],
+  "totalTime": "PT5M",
+  "updatedAt": "2022-12-05T04:06:53.572Z"
+}

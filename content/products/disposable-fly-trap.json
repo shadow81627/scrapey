@@ -1,0 +1,42 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Unit Price",
+      "value": "$10.00 per 1Ea"
+    }
+  ],
+  "brand": "Buzz",
+  "createdAt": "2022-12-05T06:33:10.229Z",
+  "description": "This easy-to-use Disposable Fly Trap from The Buzz draws flies in where they become trapped and drown. It is poison-free and requires only water. With its simple to use design, it can be used effectively to last at least 4 weeks.",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/7/6/2765600.jpg",
+  "name": "Disposable Fly Trap",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 10,
+    "lowPrice": 10,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-05T06:33:10.229Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "10.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/buzz-disposable-fly-trap"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/buzz-disposable-fly-trap"
+  ],
+  "sku": "2765600",
+  "updatedAt": "2022-12-05T06:33:10.229Z"
+}

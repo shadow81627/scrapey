@@ -1,0 +1,66 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "Approx.51kJ",
+      "carbohydrateContent": "&lt;1g",
+      "dietary_fibre": "Approx.1.9g",
+      "fatContent": "&lt;1g",
+      "name": "nutrition",
+      "proteinContent": "Approx.2.1g",
+      "saturatedFatContent": "&lt;1g",
+      "servingSize": "100 g",
+      "sodiumContent": "Approx.68mg",
+      "sugarContent": "&lt;1g"
+    }
+  ],
+  "aggregateRating": {
+    "@context": "http://schema.org",
+    "@type": "AggregateRating",
+    "ratingCount": 285,
+    "ratingValue": 4.6280701754386
+  },
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Macro"
+  },
+  "createdAt": "2022-12-06T00:44:45.445Z",
+  "description": "<div>Add these organic spinach leaves into your favourite pasta sauce or give your breakfast omelette a boost by adding a handful to the mix, or try adding them to something more indulgent like this delicious recipe <a href=\"https://www.woolworths.com.au/shop/recipedetail/10371/chargrilled-lemon-chicken-with-spanakopita-rice\"target=\"_blank\"><b>Chargrilled Lemon Chicken With Spanakopita Rice</b></a></div>\nPacked with iron to keep you going; folate for immunity, these versatile greens are definitely handy to have around.<br><br>Iron to keep going (1)<br>Folate for immunity (1)<br>(1) As part of a healthy balanced diet.<br><br>1/2 cup = 1 serve of vegetables (2)<br>(2) One serve of vegetables is equal to approximately 75g. Australian Dietary Guidelines recommend 5 serves of vegetables per day.",
+  "gtin13": "9339687075317",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/817500.jpg",
+  "name": "Macro Organic Chopped Spinach Leaf Portions 450G",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 5,
+    "lowPrice": 5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T00:44:45.443Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 5,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/817500/macro-organic-chopped-spinach-leaf-portions"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/817500/macro-organic-chopped-spinach-leaf-portions"
+  ],
+  "sku": "817500",
+  "updatedAt": "2022-12-06T00:44:45.443Z"
+}

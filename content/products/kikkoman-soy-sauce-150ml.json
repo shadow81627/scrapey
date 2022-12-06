@@ -1,0 +1,60 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "62kJ",
+      "carbohydrateContent": "1.2g",
+      "dietary_fibre": "-",
+      "fatContent": "0g",
+      "name": "nutrition",
+      "proteinContent": "1.5g",
+      "saturatedFatContent": "0g",
+      "servingSize": "100 g",
+      "sodiumContent": "969mg",
+      "sugarContent": "0.2g"
+    }
+  ],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Kikkoman"
+  },
+  "createdAt": "2022-12-05T07:02:42.761Z",
+  "description": "Kikkoman Naturally Brewed Soy Sauce",
+  "gtin13": "49645309",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/036882.jpg",
+  "name": "Kikkoman Soy Sauce 150mL",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 4.7,
+    "lowPrice": 4.7,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-12-05T07:02:42.761Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 4.7,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/36882/kikkoman-soy-sauce"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/36882/kikkoman-soy-sauce"
+  ],
+  "sku": "36882",
+  "updatedAt": "2022-12-05T07:02:42.761Z"
+}

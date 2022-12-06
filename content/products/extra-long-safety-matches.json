@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "50 pack"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.06 per 1Ea"
+    }
+  ],
+  "brand": "Samba",
+  "createdAt": "2022-12-04T23:03:12.798Z",
+  "description": "Samba Extra Long Safety Matches",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/5/9/5595754.jpg",
+  "name": "Extra Long Safety Matches",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2.95,
+    "lowPrice": 2.95,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/OutOfStock",
+        "availabilityStarts": "2022-12-04T23:03:12.797Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "2.95",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/matches-5595754p-1"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/matches-5595754p-1"
+  ],
+  "sku": "5595754",
+  "updatedAt": "2022-12-04T23:03:12.797Z"
+}

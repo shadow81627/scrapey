@@ -1,0 +1,50 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Colour",
+      "value": "Beige"
+    },
+    {
+      "name": "Material",
+      "value": "Nylon"
+    },
+    {
+      "name": "Size",
+      "value": "1 pack"
+    }
+  ],
+  "brand": "Bonds",
+  "createdAt": "2022-12-05T14:59:29.916Z",
+  "description": "Bonds Australia offers the comfiest men's, women's, kids' and baby clothes, undies and socks at affordable prices. With everyday wardrobe essentials including tees, hoodies, and socks, Bonds has a style for every member of the family.",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/6/9/5696911.jpg",
+  "name": "Footlets Tan size 3-8",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2,
+    "lowPrice": 2,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-05T14:59:29.916Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "2.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/bonds-ladies-socks-footlets-suntan-size-4-7-5696911p"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/bonds-ladies-socks-footlets-suntan-size-4-7-5696911p"
+  ],
+  "sku": "5696911",
+  "updatedAt": "2022-12-05T14:59:29.916Z"
+}

@@ -1,0 +1,50 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Allergen",
+      "value": "Contains SULPHITES, Contains CRUSTACEA"
+    },
+    {
+      "name": "Size",
+      "value": "approx. 250g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$29.00 per 1Kg"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2022-12-04T19:57:49.249Z",
+  "description": "Coles Thawed Seafood MSC Raw King Prawns",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/8/4/3845180.jpg",
+  "name": "Thawed Seafood MSC Raw King Prawns",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 7.25,
+    "lowPrice": 7.25,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-04T19:57:49.248Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "7.25",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-thawed-seafod-msc-raw-king-prawn"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/coles-thawed-seafod-msc-raw-king-prawn"
+  ],
+  "sku": "3845180",
+  "updatedAt": "2022-12-04T19:57:49.249Z"
+}

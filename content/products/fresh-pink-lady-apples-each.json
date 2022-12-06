@@ -1,0 +1,45 @@
+{
+  "@type": "Product",
+  "additionalProperty": [],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization"
+  },
+  "createdAt": "2022-12-06T00:19:03.327Z",
+  "description": "<div>A firm, sweet, crisp apple with juicy flesh, the Pink Lady apple also plays well with your salads and sauces.<br><br><strong>How to Pick:</strong><br>Apples should be bright and crunchy, with a tight skin and juicy flesh. Our apples have a natural shine and no added wax.<br><br><strong>How to Store:</strong><br>Storing your apples in the fridge will keep them crisp and fresh for longer.<br>Consume apples within 2 weeks for the best eating experience.<br><br><strong>Where it's Grown:</strong><br>Our hand picked apples are 100% Australian grown. Our expert growers pick them from trees in the colder climate regions of Australia to ensure they have the best flavour, colour and firmness.<br><br></div><div><strong>Health Benefits:</strong><br>No matter the variety, apples contain fibre, that aids in healthy digestion, and vitamin C, to support the immune system*<br><br>*Based on one medium apple (150g), as part of a healthy balanced diet</div>",
+  "gtin13": "0265030000004",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/105919.jpg",
+  "name": "Fresh Pink Lady Apples Each",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 1.03,
+    "lowPrice": 1.03,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T00:19:03.326Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 1.03,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/105919/fresh-pink-lady-apples"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/105919/fresh-pink-lady-apples"
+  ],
+  "sku": "105919",
+  "updatedAt": "2022-12-06T00:19:03.326Z"
+}

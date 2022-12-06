@@ -1,0 +1,60 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "360.00kJ",
+      "carbohydrateContent": "11.70g",
+      "dietary_fibre": "0.60g",
+      "fatContent": "3.60g",
+      "name": "nutrition",
+      "proteinContent": "1.30g",
+      "saturatedFatContent": "0.50g",
+      "servingSize": "100 g",
+      "sodiumContent": "100.00mg",
+      "sugarContent": "0.40g"
+    }
+  ],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Arnott's"
+  },
+  "createdAt": "2022-12-05T21:53:16.995Z",
+  "description": "Arnott’s Cracker Chips Balsamic Vinegar & Sea Salt are perfectly balanced with the tang of balsamic vinegar and a sprinkling of Australian sea salt. Oven-roasted to perfection, it’s a savoury biscuit that delivers a crispy bite you’ll love.<br><br>Arnott’s Cracker Chips Balsamic Vinegar & Sea Salt are the perfect cross between a cracker and chip. These crunchy cracker chips are a delicious flavoursome snack for a moment of indulgence. Share a packet of these moreish crackers with friends when you’re enjoying an evening of socialising. Or grab them when you’re looking for an afternoon treat at the park.<br> <br> • Unique fusion of a cracker and a chip. <br> • A perfectly balanced of tangy balsamic vinegar and Australian sea salt.<br> • Oven roasted, never fried.<br> • No artificial colours or flavours<br><br>Oven roasted, never fried'<br><br>'Contains no artificial colours or flavours'<br><br>Truly Something Else",
+  "gtin13": "9310072030524",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/855495.jpg",
+  "name": "Arnott's Cracker Chips Sea Salt & Balsamic Vinegar 150G",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2.25,
+    "lowPrice": 2.25,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-12-05T21:53:16.994Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 2.25,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/855495/arnott-s-cracker-chips-sea-salt-balsamic-vinegar"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/855495/arnott-s-cracker-chips-sea-salt-balsamic-vinegar"
+  ],
+  "sku": "855495",
+  "updatedAt": "2022-12-05T21:53:16.994Z"
+}

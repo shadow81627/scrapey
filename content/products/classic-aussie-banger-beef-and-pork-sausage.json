@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "450g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$15.56 per 1Kg"
+    }
+  ],
+  "brand": "Three Aussie Farmers",
+  "createdAt": "2022-12-05T09:25:58.242Z",
+  "description": "Dan & Steph have put together a simple blend of quality Aussie beef and pork to make a snag that goes with everything! Just a good old fashioned sausage with subtle flavours of white pepper, marjoram and garlic, its sure to be a family favourite.",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/4/4/6/4469277.jpg",
+  "name": "Classic Aussie Banger Beef & Pork Sausage",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 7,
+    "lowPrice": 7,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-05T09:25:58.241Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "7.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/banger-bef-pork"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/banger-bef-pork"
+  ],
+  "sku": "4469277",
+  "updatedAt": "2022-12-05T09:25:58.241Z"
+}

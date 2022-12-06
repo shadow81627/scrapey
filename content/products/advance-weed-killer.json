@@ -1,0 +1,42 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "280mL"
+    }
+  ],
+  "brand": "Roundup",
+  "createdAt": "2022-12-06T03:19:02.359Z",
+  "description": "Roundup Advance Weed Killer",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/9/6/5/9659699.jpg",
+  "name": "Advance Weed Killer",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 17.2,
+    "lowPrice": 17.2,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T03:19:02.359Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "17.20",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/scotts-advance-concentrate"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/scotts-advance-concentrate"
+  ],
+  "sku": "9659699",
+  "updatedAt": "2022-12-06T03:19:02.359Z"
+}

@@ -1,0 +1,60 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "11",
+      "carbohydrateContent": "0",
+      "dietary_fibre": "-",
+      "fatContent": "0",
+      "name": "nutrition",
+      "proteinContent": "0",
+      "saturatedFatContent": "0",
+      "servingSize": "100 g",
+      "sodiumContent": "19mg",
+      "sugarContent": "0"
+    }
+  ],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Mount Franklin"
+  },
+  "createdAt": "2022-12-06T00:39:11.218Z",
+  "description": "<p>Pure Australia Spring Water infused with delicate bubbles and a hint of natural Lime flavour. No sugar, No sweeteners, No preservatives. Please recycle. <BR><BR>Australian Sparkling Spring Water<BR><BR>Hint of natural flavour<BR><BR>No sugar, no sweeteners, no preservatives<BR><BR>Multipack soft drink, 10 x 375mL Cans<BR><BR>Perfect for drinking with friends</p>",
+  "gtin13": "9300624034179",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/077938.jpg",
+  "name": "Mount Franklin Lightly Sparkling Water Lime Multipack Cans 375mL x10 Pack",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 9.05,
+    "lowPrice": 9.05,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T00:39:11.216Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 9.05,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/77938/mount-franklin-lightly-sparkling-water-lime-multipack-cans"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/77938/mount-franklin-lightly-sparkling-water-lime-multipack-cans"
+  ],
+  "sku": "77938",
+  "updatedAt": "2022-12-06T00:39:11.216Z"
+}

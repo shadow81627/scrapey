@@ -1,0 +1,58 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Whole Green Lentils"
+    },
+    {
+      "name": "Allergen",
+      "value": "May Contain Barley, May Contain Soybean, May Contain Rye, May Contain Wheat, May Contain Lupin, May Contain Oats, May Contain Gluten"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "7.5"
+    },
+    {
+      "name": "Size",
+      "value": "375g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.69 per 100G"
+    }
+  ],
+  "brand": "McKenzie's",
+  "createdAt": "2022-12-04T14:45:16.524Z",
+  "description": "McKenzie's Whole Green Lentils have a creamy, nutty taste and are quick to cook, even without soaking. They retain their shape after cooking so they are perfect for salads or chunky soups.",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/1/3/0/130050.jpg",
+  "name": "Whole Green Lentils",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2.6,
+    "lowPrice": 2.6,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-04T14:45:16.523Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "2.60",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/mckenzies-lentils-green-whole"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/mckenzies-lentils-green-whole"
+  ],
+  "sku": "130050",
+  "updatedAt": "2022-12-04T14:45:16.523Z"
+}

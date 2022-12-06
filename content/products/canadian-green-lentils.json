@@ -1,0 +1,58 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Green Lentils"
+    },
+    {
+      "name": "Allergen",
+      "value": "May Contain Tree Nuts"
+    },
+    {
+      "name": "Warning",
+      "value": "WARNING!: This product may contain traces of nuts"
+    },
+    {
+      "name": "Size",
+      "value": "1kg"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$5.40 per 1Kg"
+    }
+  ],
+  "brand": "Royal Fields",
+  "createdAt": "2022-12-05T18:49:35.861Z",
+  "description": "Green lentils. A nutritious addition to soups, casseroles or try them in a Bolognese sauce for added fibre. Great for vegetarian or vegan meals. Product of Australia.",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/9/8/8/9880504.jpg",
+  "name": "Canadian Green Lentils",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 5.4,
+    "lowPrice": 5.4,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-05T18:49:35.860Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "5.40",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/royal-fields-lentils-green"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/royal-fields-lentils-green"
+  ],
+  "sku": "9880504",
+  "updatedAt": "2022-12-05T18:49:35.861Z"
+}

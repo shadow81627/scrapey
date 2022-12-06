@@ -1,0 +1,50 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Chicken, Tuna, Thickeners, Flavour, Prawn & Colour"
+    },
+    {
+      "name": "Size",
+      "value": "4 pack"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$7.81 per 100G"
+    }
+  ],
+  "brand": "Dine",
+  "createdAt": "2022-12-05T11:53:57.268Z",
+  "description": "Dine Tuna & Prawn Flavour Creamy Treats Cat Food 12g",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/3/2/3322874.jpg",
+  "name": "Tuna & Prawn Flavour Creamy Treats Cat Food 12g",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3.75,
+    "lowPrice": 3.75,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-05T11:53:57.267Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "3.75",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/dine-creamy-treats-c-f-tuna-prawn-flavour"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/dine-creamy-treats-c-f-tuna-prawn-flavour"
+  ],
+  "sku": "3322874",
+  "updatedAt": "2022-12-05T11:53:57.267Z"
+}

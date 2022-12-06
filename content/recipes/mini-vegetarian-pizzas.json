@@ -1,0 +1,80 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1",
+    "ratingValue": "5"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Oh My Veggies"
+  },
+  "cookTime": "PT15M",
+  "createdAt": "2022-12-04T17:59:24.516Z",
+  "datePublished": "2019-06-12T06:00:34+00:00",
+  "description": "These Mini Vegetarian Pizzas recipe is perfect for making an easy, quick weeknight dinner. You can make them yourself or ask your kids to help you.",
+  "image": [
+    "https://ohmyveggies.com/wp-content/uploads/2019/05/mini-pizza_-scaled.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2019/05/mini-pizza_-500x500.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2019/05/mini-pizza_-500x375.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2019/05/mini-pizza_-480x270.jpg"
+  ],
+  "keywords": "Mini Vegetarian Pizzas, vegetarian pizza recipe",
+  "name": "Mini Vegetarian Pizzas",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "255 kcal",
+    "carbohydrateContent": "50 g",
+    "cholesterolContent": "5 mg",
+    "fatContent": "2 g",
+    "fiberContent": "2 g",
+    "proteinContent": "8 g",
+    "saturatedFatContent": "1 g",
+    "servingSize": "1 serving",
+    "sodiumContent": "903 mg",
+    "sugarContent": "2 g",
+    "unsaturatedFatContent": "2 g"
+  },
+  "prepTime": "PT15M",
+  "recipeCategory": "Main Course",
+  "recipeCuisine": "American",
+  "recipeIngredient": [
+    "1/4 cup butter",
+    "2 cups all-purpose flour",
+    "1/2 tbsp salt",
+    "8 tbsp milk",
+    "1 can tomato sauce",
+    "mozzarella cheese (grated)"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Cut the butter into small pieces and put in a dish with flour and salt. Knead together with your hands."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "When the dough begins to look like sand, add the milk."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Form a ball with the dough, then flatten with a rolling pin. With a glass, cut circles to make 8 mini pizzas."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Put the mini pizzas on a baking sheet. Top each pizza with sauce and cheese."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Bake at 350°F for 15 to 20 minutes."
+    }
+  ],
+  "recipeYield": "4",
+  "sameAs": [
+    "https://ohmyveggies.com/mini-vegetarian-pizzas"
+  ],
+  "suitableForDiet": [
+    "https://schema.org/VegetarianDiet"
+  ],
+  "totalTime": "PT30M",
+  "updatedAt": "2022-12-04T17:59:24.516Z"
+}

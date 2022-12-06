@@ -15,54 +15,48 @@
     },
     {
       "name": "Servings Per Pack",
-      "value": "50.0"
+      "value": "266.0"
     },
     {
       "name": "Size",
-      "value": "750mL"
+      "value": "4L"
     },
     {
       "name": "Unit Price",
-      "value": "$0.59 per 100mL"
+      "value": "$0.50 per 100mL"
     }
   ],
-  "brand": "Crisco",
+  "brand": "Gold'N Canola",
   "createdAt": "2020-10-12T05:22:04.000Z",
-  "description": "Crisco Canola Oil",
-  "image": {
-    "@type": "ImageObject",
-    "height": 300,
-    "mime": "image/jpeg",
-    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/7/3/0/73092.jpg",
-    "width": 300
-  },
+  "description": "Gold'N Canola Canola Oil",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/2/2/5222305.jpg",
   "name": "Canola Oil",
   "offers": {
     "@type": "AggregateOffer",
-    "highPrice": 4.4,
-    "lowPrice": 4.4,
+    "highPrice": 20,
+    "lowPrice": 20,
     "offerCount": 1,
     "offers": [
       {
         "@context": "http://schema.org",
         "@type": "Offer",
         "availability": "https://schema.org/InStock",
-        "availabilityStarts": "2022-11-29T03:18:01.449Z",
+        "availabilityStarts": "2022-12-06T00:01:23.519Z",
         "itemCondition": "https://schema.org/NewCondition",
         "offeredBy": "Coles",
-        "price": "4.40",
+        "price": "20.00",
         "priceCurrency": "AUD",
         "seller": {
           "@type": "Organization",
           "name": "Coles"
         },
-        "url": "https://shop.coles.com.au/a/national/product/crisco-canola-oil"
+        "url": "https://shop.coles.com.au/a/national/product/goldn-canola-canola-oil"
       }
     ]
   },
   "sameAs": [
-    "https://shop.coles.com.au/a/national/product/crisco-canola-oil"
+    "https://shop.coles.com.au/a/national/product/goldn-canola-canola-oil"
   ],
-  "sku": "73092",
-  "updatedAt": "2022-11-29T03:18:01.449Z"
+  "sku": "5222305",
+  "updatedAt": "2022-12-06T00:01:23.519Z"
 }

@@ -1,62 +1,72 @@
 {
   "@type": "Recipe",
+  "author": {
+    "@type": "Person",
+    "name": "Fresh Ideas"
+  },
   "cookTime": "PT20M",
   "createdAt": "2022-11-22T22:53:07.000Z",
-  "datePublished": "2021-03-10",
+  "datePublished": "2022-09-26",
   "description": "Try our easy to follow Cranberry & White Chocolate Shortbread recipe. Absolutely delicious with the best ingredients from Woolworths.",
-  "image": {
-    "@type": "ImageObject",
-    "height": 1300,
-    "mime": "image/png",
-    "url": "https://foodhub.scene7.com/is/image/woolworthsltdprod/1912-cranberry-and-white-chocolate-shortbread?wid=1300&hei=1300&fmt=png-alpha",
-    "width": 1300
-  },
-  "keywords": "Cranberry & White Chocolate Shortbread",
+  "image": [
+    "https://foodhub.scene7.com/is/image/woolworthsltdprod/1912-cranberry-and-white-chocolate-shortbread:Square-1300x1300"
+  ],
+  "keywords": "Shortbread,Pescatarian,Seafood free,Low salt,Egg free,Baking,Quick & easy dessert,Halal,Microwave,Christmas,Vegetarian,Chocolate",
   "name": "Cranberry & White Chocolate Shortbread Recipe | Woolworths",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "315 calories",
+    "carbohydrateContent": "35.9 g",
+    "fatContent": "17.6 g",
+    "proteinContent": "3.0 g",
+    "saturatedFatContent": "11.3 g",
+    "sodiumContent": "11 millig",
+    "sugarContent": "19.0 g"
+  },
   "prepTime": "PT10M",
-  "recipeCategory": "desserts",
-  "recipeCuisine": "british",
+  "recipeCategory": "Desserts",
+  "recipeCuisine": "British",
   "recipeId": "9948",
   "recipeIngredient": [
     "2.5 cup plain flour",
     "0.75 cup icing sugar mixture",
-    "250 g unsalted butter",
-    "100 g white chocolate",
+    "250g unsalted butter",
+    "100g white chocolate",
     "0.5 cup dried cranberries"
   ],
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Melt chocolate in microwave in 20 second intervals, stirring in between until smooth. Drizzle melted chocolate over shortbread fingers and sprinkle with extra cranberries. Allow chocolate to set completely. Store in an airtight container."
+      "HowToTip": {},
+      "text": "Blitz cranberries in a food processor to roughly chop, then remove to a large bowl and set aside."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Melt chocolate in microwave in 20 second intervals, stirring in between until smooth. Drizzle melted chocolate over shortbread fingers and sprinkle with extra cranberries. Allow chocolate to set completely. Store in an airtight container."
+      "HowToTip": {},
+      "text": "Pulse icing sugar mixture, flour and butter in food processor until dough starts to form. Transfer dough to bowl with cranberries and use your hands to gently mix cranberries into dough."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Melt chocolate in microwave in 20 second intervals, stirring in between until smooth. Drizzle melted chocolate over shortbread fingers and sprinkle with extra cranberries. Allow chocolate to set completely. Store in an airtight container."
+      "HowToTip": {},
+      "text": "Lightly dust a work surface with flour, then gently roll dough into a 1cm thick x 20cm square. Place onto a tray and freeze for 20 minutes or until solid."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Melt chocolate in microwave in 20 second intervals, stirring in between until smooth. Drizzle melted chocolate over shortbread fingers and sprinkle with extra cranberries. Allow chocolate to set completely. Store in an airtight container."
+      "HowToTip": {},
+      "text": "Preheat oven to 160°C. Line a baking tray with baking paper. Remove shortbread dough from fridge and, using a sharp knife, cut dough square in half, then cut each half into approximately seven shortbread fingers. Place shortbread fingers onto prepared tray and bake for 20 minutes or until golden around the edges. Remove from oven and allow to cool completely on tray."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
+      "HowToTip": {},
       "text": "Melt chocolate in microwave in 20 second intervals, stirring in between until smooth. Drizzle melted chocolate over shortbread fingers and sprinkle with extra cranberries. Allow chocolate to set completely. Store in an airtight container."
     }
   ],
   "recipeNameId": "cranberry-and-white-chocolate-shortbread",
   "recipeYield": "14",
   "sameAs": [
-    "https://woolworths.com.au/shop/find-recipes/cranberry-and-white-chocolate-cookies"
+    "https://woolworths.com.au/shop/recipes/cranberry-and-white-chocolate-shortbread"
   ],
   "totalTime": "PT30M",
-  "updatedAt": "2022-11-22T21:57:16.462Z",
+  "updatedAt": "2022-12-04T21:02:14.797Z",
   "url": "https://www.woolworths.com.au/shop/recipes/cranberry-and-white-chocolate-shortbread"
 }

@@ -1,0 +1,62 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Australian Wheat Flour, Vanilla Custard (22%) (Cream (Milk), Water, Sugar, Milk Solids, Starch, Thickener (1442), Mineral Salts (452, 339), Stabiliser (461), Natural Flavour, Natural Colour (160a), Vanilla Seed), Apples (17%), Margarine (Animal Fats and Oils, Water, Salt, Emulsifiers (Soy Lecithin, 471), Acidity Regulators (330, 331), Flavours, Antioxidant (307b (Soy)), Colour (160a)), Australian Sugar, Water, Thickeners (1422, 401, 412), Mineral Salts (450, 500, 452, 341), Acidity Regulators (297, 330), Dextrose, Emulsifier (Soy Lecithin), Natural Flavour, Wheat Starch."
+    },
+    {
+      "name": "Contains",
+      "value": "Milk, Wheat, Gluten, Soy."
+    },
+    {
+      "name": "Allergen",
+      "value": "Contains Gluten, Contains Soy, Contains Wheat, Contains Milk, May Be Present Egg"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "2.0"
+    },
+    {
+      "name": "Size",
+      "value": "225g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$2.00 per 100G"
+    }
+  ],
+  "brand": "Nanna's",
+  "createdAt": "2022-12-05T03:57:00.341Z",
+  "description": "Be transported back to your childhood with nostalgic recipes, inspired by Nanna's cookbook. Indulge in the delightful flavours of a classic, buttery apple turnover, filled with vanilla custard and lovingly baked into a snack sized pie.",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/4/8/6/4866200.jpg",
+  "name": "Apple Custard Snack Pie",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 4.5,
+    "lowPrice": 4.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/OutOfStock",
+        "availabilityStarts": "2022-12-05T03:57:00.340Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "4.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/apple-custard-snack-pie"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/apple-custard-snack-pie"
+  ],
+  "sku": "4866200",
+  "updatedAt": "2022-12-05T03:57:00.340Z"
+}

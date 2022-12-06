@@ -1,16 +1,42 @@
 {
   "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1",
+    "ratingValue": "5"
+  },
   "author": {
     "@type": "Person",
-    "name": "Kiersten"
+    "name": "Oh My Veggies"
   },
+  "cookTime": "PT5M",
   "createdAt": "2022-12-02T14:15:44.011Z",
-  "datePublished": "2017-04-08T07:00:00+00:00",
-  "description": "Recipe from Good Veg: Ebullient Vegetables, Global Flavors—A Modern Vegetarian Cookbook © Alice Hart, 2016, 2017. Photographs copyright © Emma Lee, 2016, 2017. Reprinted by permission of the publisher, The Experiment. Available wherever books are sold. theexperimentpublishing.com",
+  "datePublished": "2017-04-24T09:48:32+00:00",
+  "description": "These crispy sweet potato cakes are seasoned up with garlic, ginger and spicy chile peppers, and served with fresh cilantro, avocado and a squeeze of lime.",
   "image": [
-    "https://helloveggie.co/wp-content/uploads/2017/04/sweet_potato_cakes.jpg"
+    "https://ohmyveggies.com/wp-content/uploads/2017/04/Sweet-Potato-Cakes-with-Lime-and-Avocado-1.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2017/04/Sweet-Potato-Cakes-with-Lime-and-Avocado-1-500x500.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2017/04/Sweet-Potato-Cakes-with-Lime-and-Avocado-1-500x375.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2017/04/Sweet-Potato-Cakes-with-Lime-and-Avocado-1-480x270.jpg"
   ],
+  "keywords": "Sweet Potato Cakes, Sweet Potato Cakes with Lime and Avocado",
   "name": "Sweet Potato Cakes with Lime and Avocado",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "384 kcal",
+    "carbohydrateContent": "60 g",
+    "fatContent": "15 g",
+    "fiberContent": "15 g",
+    "proteinContent": "8 g",
+    "saturatedFatContent": "2 g",
+    "servingSize": "1 serving",
+    "sodiumContent": "105 mg",
+    "sugarContent": "11 g",
+    "unsaturatedFatContent": "12 g"
+  },
+  "prepTime": "PT15M",
+  "recipeCategory": "Main Course",
+  "recipeCuisine": "American",
   "recipeIngredient": [
     "3 medium sweet potatoes (peeled and coarsely grated (about 4 cups/600 g)",
     "1 small red onion (finely chopped)",
@@ -49,7 +75,12 @@
   ],
   "recipeYield": "4",
   "sameAs": [
-    "https://helloveggie.co/sweet-potato-cakes"
+    "https://ohmyveggies.com/sweet-potato-cakes-with-lime"
   ],
-  "updatedAt": "2022-12-02T14:15:44.010Z"
+  "suitableForDiet": [
+    "https://schema.org/VeganDiet",
+    "https://schema.org/VegetarianDiet"
+  ],
+  "totalTime": "PT20M",
+  "updatedAt": "2022-12-04T18:41:54.647Z"
 }

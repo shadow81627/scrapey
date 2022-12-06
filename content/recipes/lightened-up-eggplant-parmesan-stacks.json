@@ -1,0 +1,81 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1",
+    "ratingValue": "5"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Oh My Veggies"
+  },
+  "cookTime": "PT30M",
+  "createdAt": "2022-12-04T17:01:08.924Z",
+  "datePublished": "2012-07-16T07:00:08+00:00",
+  "description": "A lighter, healthier version of Eggplant Parmesan.",
+  "image": [
+    "https://ohmyveggies.com/wp-content/uploads/2012/07/lightened_up_eggplant_parmesan_stacks_on_plate.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2012/07/lightened_up_eggplant_parmesan_stacks_on_plate-500x367.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2012/07/lightened_up_eggplant_parmesan_stacks_on_plate-480x270.jpg"
+  ],
+  "keywords": "Eggplant Parmesan recipe, Eggplant Parmesan Stacks, healthy Eggplant Parmesan",
+  "name": "Lightened-Up Eggplant Parmesan Stacks",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "348 kcal",
+    "carbohydrateContent": "22 g",
+    "cholesterolContent": "47 mg",
+    "fatContent": "22 g",
+    "fiberContent": "6 g",
+    "proteinContent": "17 g",
+    "saturatedFatContent": "9 g",
+    "servingSize": "1 stack",
+    "sodiumContent": "486 mg",
+    "sugarContent": "7 g",
+    "unsaturatedFatContent": "11 g"
+  },
+  "prepTime": "PT10M",
+  "recipeCategory": "Main Course",
+  "recipeCuisine": "American",
+  "recipeIngredient": [
+    "1 large eggplant (sliced into 12 rounds (about 1/4-inch thick)",
+    "2 large tomatoes (sliced into 8 rounds (about 1/4-inch thick)",
+    "2 tbsp. + 2 tsp. olive oil (divided)",
+    "1 tsp. Italian seasoning",
+    "salt and pepper to taste",
+    "1/4 c. roughly chopped basil leaves",
+    "1 c. shredded mozzarella or Italian blend cheese",
+    "1/4 c. panko"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Preheat oven to 425 degrees. Line 2 rimmed baking sheets with parchment paper."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Place eggplant and tomato slices onto baking sheets. Brush with 2 tablespoons of olive oil, then sprinkle with Italian seasoning, salt and pepper. Bake for 20-25 minutes or until eggplant is golden brown, rotating sheets halfway through cooking time."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Remove sheets from oven (but don't turn it off!) and allow them to cool for about 5 minutes. Combine panko, 2 teaspoons of olive oil, salt and pepper in a small bowl."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Take 4 eggplant rounds and top each one with a tomato slice. Top with a tablespoon of cheese and a half tablespoon of basil and repeat with another eggplant round, tomato slice, cheese, and basil. Place an eggplant round on top of this, then top each stack with 2 tablespoons of cheese and 1 tablespoon of panko."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Return eggplant parmesan stacks to oven and heat 5-7 minutes, or until cheese has melted and panko is golden brown."
+    }
+  ],
+  "recipeYield": "4",
+  "sameAs": [
+    "https://ohmyveggies.com/recipe-lightened-up-eggplant-parmesan-stacks"
+  ],
+  "suitableForDiet": [
+    "https://schema.org/VegetarianDiet"
+  ],
+  "totalTime": "PT40M",
+  "updatedAt": "2022-12-04T17:01:08.923Z"
+}

@@ -2,42 +2,67 @@
   "@type": "Recipe",
   "aggregateRating": {
     "@type": "AggregateRating",
-    "ratingCount": "1",
-    "ratingValue": "5"
+    "ratingCount": "103",
+    "ratingValue": "4.62"
   },
   "author": {
     "@type": "Person",
-    "name": "Alissa"
+    "name": "Minimalist Baker"
   },
   "createdAt": "2022-12-01T03:56:25.774Z",
-  "datePublished": "2014-02-14T11:36:00+00:00",
-  "description": "You&#39;d never guess that this decadent vegan chocolate pudding was made from avocados!",
+  "datePublished": "2014-09-20T05:00:08+00:00",
+  "description": "Creamy, thick, nutritionally dense chocolate avocado peanut butter pudding! Just 6 ingredients, naturally sweetened with dates and banana, and so delicious.",
   "image": [
-    "https://www.connoisseurusveg.com/wp-content/uploads/2014/02/top-pub1.jpg"
+    "https://minimalistbaker.com/wp-content/uploads/2014/09/THICK-CREAMY-Chocolate-PB-Avocado-Pudding-Sweetened-with-dates-and-bananas-and-SO-amazingly-delicious-vegan-glutenfree-.jpg"
   ],
-  "keywords": "avocado, chocolate",
+  "keywords": "avocado pudding",
   "name": "Chocolate Peanut Butter Avocado Pudding",
-  "prepTime": "PT5M",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "386 kcal",
+    "carbohydrateContent": "29 g",
+    "fatContent": "29 g",
+    "fiberContent": "10 g",
+    "proteinContent": "9 g",
+    "saturatedFatContent": "11.3 g",
+    "servingSize": "1 serving",
+    "sodiumContent": "109 mg",
+    "sugarContent": "13.5 g"
+  },
+  "prepTime": "PT10M",
   "recipeCategory": "Dessert",
-  "recipeCuisine": "American",
+  "recipeCuisine": "Gluten-Free",
   "recipeIngredient": [
-    "1 very ripe avocado",
-    "1/4 cup cacao or cocoa powder",
-    "1 tsp. vanilla extract",
-    "2 tbsp. maple syrup",
-    "1 tbsp. creamy peanut butter",
-    "a few cacao nibs (for sprinkling, optional)"
+    "1 1/2 ripe avocados",
+    "1 large ripe banana",
+    "1/2 cup unsweetened cocoa or cacao powder",
+    "1/2 cup salted creamy or crunchy peanut butter (plus more for topping)",
+    "~1/2 cup sweetener of choice i.e. maple syrup, agave, date paste or honey if not vegan (amount will vary with preferred sweetness)",
+    "~1/4 cup almond milk or other non-dairy milk (slightly more if using dates)",
+    "Coconut Whipped Cream"
   ],
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "text": "Place avocado pulp in a small mixing bowl and mash well with a fork or potato masher. Add remaining ingredients and whisk until smooth."
+      "text": "Add all ingredients except coconut whip into a food processor and blend until creamy and smooth. Add more dairy-free milk to thin/help blend. Add more cocoa powder for a richer chocolate flavor. Add more sweetener of choice to enhance sweetness."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Divide between 6 small serving glasses (as original recipe is written), cover with plastic wrap (pressing the plastic wrap down on the pudding to prevent a skin from forming) and chill for a few hours, or overnight."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Before serving, top with coconut whipped cream and drizzle of salted peanut butter."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Leftovers will keep in the fridge up to a few days, though best when fresh."
     }
   ],
-  "recipeYield": "1",
+  "recipeYield": "6",
   "sameAs": [
-    "https://connoisseurusveg.com/chocolate-peanut-butter-avocado-pudding"
+    "https://minimalistbaker.com/chocolate-peanut-butter-avocado-pudding"
   ],
-  "totalTime": "PT5M",
-  "updatedAt": "2022-12-01T03:56:25.773Z"
+  "totalTime": "PT10M",
+  "updatedAt": "2022-12-05T22:10:59.576Z"
 }

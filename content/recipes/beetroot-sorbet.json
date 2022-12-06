@@ -1,0 +1,82 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1",
+    "ratingValue": "5"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Oh My Veggies"
+  },
+  "createdAt": "2022-12-04T15:42:49.472Z",
+  "datePublished": "2017-10-05T08:00:00+00:00",
+  "description": "Beets add nutrition, flavor, and a burst of vibrant color to this scrumptious vegan sorbet.",
+  "image": [
+    "https://ohmyveggies.com/wp-content/uploads/2017/10/beetroot-vanilla-sorbet-3-of-3.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2017/10/beetroot-vanilla-sorbet-3-of-3-500x500.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2017/10/beetroot-vanilla-sorbet-3-of-3-500x375.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2017/10/beetroot-vanilla-sorbet-3-of-3-480x270.jpg"
+  ],
+  "keywords": "Beetroot Sorbet, vegan sorbet",
+  "name": "Beetroot Sorbet",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "183 kcal",
+    "carbohydrateContent": "45 g",
+    "fatContent": "1 g",
+    "fiberContent": "2 g",
+    "proteinContent": "1 g",
+    "saturatedFatContent": "1 g",
+    "servingSize": "1 serving",
+    "sodiumContent": "60 mg",
+    "sugarContent": "43 g",
+    "unsaturatedFatContent": "2 g"
+  },
+  "prepTime": "PT45M",
+  "recipeCategory": "Dessert",
+  "recipeCuisine": "American",
+  "recipeIngredient": [
+    "10 1/2 oz oz cooked organic beetroot (roasted, steamed or boiled)",
+    "3/4 cup caster sugar (superfine sugar)",
+    "1/2 cup water",
+    "2 tsp organic lemon juice",
+    "2 tsp organic vanilla essence"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "If using an ice-cream maker, freeze the bowl ahead of time, according to the manufacturer’s instructions."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Purée the beetroot with a hand blender until smooth, then set aside."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "In a small saucepan over a medium-low heat, combine the sugar and water, stirring occasionally until completely dissolved. This could take about 5 minutes. Remove from the heat and leave to cool slightly."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "In a food processor, blend the cooled sugar syrup with the puréed beetroot, lemon juice and vanilla until smooth."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "If using an ice-cream maker, pour the cooled mixture into the pre-frozen bowl of the ice-cream maker and churn until thick, according to the manufacturer’s instructions, then either serve immediately or pour into a freezer-safe dish to store in the freezer."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "If not using an ice-cream maker, pour the cooled mixture into a large freezer-safe dish and freeze, mixing it well with a fork every half an hour over the next 4 hours. Transfer to the fridge for 15 minutes to soften before serving."
+    }
+  ],
+  "recipeYield": "4",
+  "sameAs": [
+    "https://ohmyveggies.com/beetroot-vanilla-sorbet"
+  ],
+  "suitableForDiet": [
+    "https://schema.org/VeganDiet",
+    "https://schema.org/VegetarianDiet"
+  ],
+  "totalTime": "PT285M",
+  "updatedAt": "2022-12-04T15:42:49.471Z"
+}

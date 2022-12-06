@@ -1,0 +1,54 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Potato (88%), canola oil, corn starch, salt, dextrose (from maize)."
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "9.0"
+    },
+    {
+      "name": "Size",
+      "value": "900g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$6.11 per 1Kg"
+    }
+  ],
+  "brand": "Birds Eye",
+  "createdAt": "2022-12-05T15:22:59.432Z",
+  "description": "Birds Eye Golden Crunch Potato Gems",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/0/5/5052500.jpg",
+  "name": "Golden Crunch Potato Gems",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 5.5,
+    "lowPrice": 5.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/OutOfStock",
+        "availabilityStarts": "2022-12-05T15:22:59.432Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "5.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/potato-gems"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/potato-gems"
+  ],
+  "sku": "5052500",
+  "updatedAt": "2022-12-05T15:22:59.432Z"
+}

@@ -1,0 +1,50 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "5kg"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.38 per 100G"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Grown in Pakistan Telephone +61 03 97035796"
+    }
+  ],
+  "brand": "Maharajah's Choice",
+  "createdAt": "2022-12-04T21:49:55.744Z",
+  "description": "Maharajah's Choice Calico Basmati Rice",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/7/2/1/7210045.jpg",
+  "name": "Calico Basmati Rice",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 19,
+    "lowPrice": 19,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-04T21:49:55.743Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "19.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/maharajahs-choice-rice-basmati-calico"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/maharajahs-choice-rice-basmati-calico"
+  ],
+  "sku": "7210045",
+  "updatedAt": "2022-12-04T21:49:55.744Z"
+}

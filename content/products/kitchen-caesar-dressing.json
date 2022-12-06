@@ -1,0 +1,58 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "<p><strong>INGREDIENTS:</strong> Canola Oil, Water, Aqua Faba (Chickpea Broth), Sugar, Vinegar, Salt, Dijon Mustard [Water, Mustard Seeds (18%), Salt, Sugar, Acidity Regulator (260), Turmeric], Garlic Puree [Garlic Puree, Acidity Regulator (330)], Worcestershire Sauce [Vinegar, Molasses, Water, Golden Syrup, Tamarind, Salt, Vegetable Powders (Garlic, Onion), Spices], Cultured Sugar, Lemon Juice from Concentrate, Stabiliser (415), Seaweed Extract [Maltodextrin, Seaweed Extract, Salt].</p>"
+    },
+    {
+      "name": "Allergen",
+      "value": "May Be Present EGG"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "10.0"
+    },
+    {
+      "name": "Size",
+      "value": "250mL"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.80 per 100mL"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2022-12-04T14:57:50.700Z",
+  "description": "From our kitchen to yours, Coles Kitchen offers you great-tasting food that is ready when you are",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/8/5/3856530.jpg",
+  "name": "Kitchen Caesar Dressing",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 4.5,
+    "lowPrice": 4.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-04T14:57:50.698Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "4.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-caesar-dressing-3856530p"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/coles-caesar-dressing-3856530p"
+  ],
+  "sku": "3856530",
+  "updatedAt": "2022-12-04T14:57:50.698Z"
+}

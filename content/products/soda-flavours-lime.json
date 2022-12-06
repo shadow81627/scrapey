@@ -1,0 +1,50 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "440mL"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$7.95 per 1L"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Made In Israel"
+    }
+  ],
+  "brand": "Sodastream",
+  "createdAt": "2022-12-05T19:27:33.394Z",
+  "description": "7Up is a lemonade style soft drink thats perfectly balanced with lemon and lime flavours to deliver a crisp, clean, refreshing taste.",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/9/1/3918670.jpg",
+  "name": "Soda Flavours Lime",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3.5,
+    "lowPrice": 3.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-05T19:27:33.393Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "3.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/7-up-flavour-mix"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/7-up-flavour-mix"
+  ],
+  "sku": "3918670",
+  "updatedAt": "2022-12-05T19:27:33.394Z"
+}

@@ -1,0 +1,66 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "101kJ",
+      "carbohydrateContent": "&lt;0.1g",
+      "dietary_fibre": "0.8g",
+      "fatContent": "0.2g",
+      "name": "nutrition",
+      "proteinContent": "0.8g",
+      "saturatedFatContent": "&lt;0.1g",
+      "servingSize": "100 g",
+      "sodiumContent": "260mg",
+      "sugarContent": "3.7g"
+    }
+  ],
+  "aggregateRating": {
+    "@context": "http://schema.org",
+    "@type": "AggregateRating",
+    "ratingCount": 515,
+    "ratingValue": 4.38252427184466
+  },
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Woolworths"
+  },
+  "createdAt": "2022-12-05T14:04:12.351Z",
+  "description": "<div>Woolworths Chunky Toamato Medium Salsa has no artificial colours no artificial flavours.</div>",
+  "gtin13": "9300633988623",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/311118.jpg",
+  "name": "Woolworths Medium Salsa 300G",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 1.5,
+    "lowPrice": 1.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-12-05T14:04:12.350Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 1.5,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/311118/woolworths-medium-salsa"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/311118/woolworths-medium-salsa"
+  ],
+  "sku": "311118",
+  "updatedAt": "2022-12-05T14:04:12.350Z"
+}

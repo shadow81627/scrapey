@@ -1,0 +1,58 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "<strong>INGREDIENTS:</strong> Donut [Wheat Flour (Thiamin, Folic Acid), Water, Sugar, Palm Oil**, <strong>Soy</strong> Flour, Vegetable Oil (Palm Oil**, Canola Oil, Natural Flavouring), <strong>Milk</strong> Solids, Raising Agent (450, 500, 341), <strong>Egg</strong> Yolk Powder, Salt, Emulsifier (471), <strong>Wheat</strong> Starch, Dextrose, Nutmeg, Thickener (415), Antioxidant (307), Cinnamon (0.01%)], Cinnamon Sugar (7%) [Sugar, <strong>Oat</strong> Fibre, Spices (Cinnamon (3.5%), Emulsifier (471, 481, 322), Canola Oil, <strong>Milk</strong> Solids]."
+    },
+    {
+      "name": "Allergen",
+      "value": "May Contain CEREALS CONTAINING GLUTEN, Contains SOY, May Contain SESAME, Contains MILK, Contains EGG, May Contain Lupin, May Contain PEANUTS, Contains Wheat, Contains Oats, May Contain TREE NUTS"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "6.0"
+    },
+    {
+      "name": "Size",
+      "value": "6 pack"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.42 per 1Ea"
+    }
+  ],
+  "brand": "Coles Bakery",
+  "createdAt": "2022-12-06T03:37:53.311Z",
+  "description": "The best kind of sweet treat, just make sure you have donuts enough to share.",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/4/7/7/4770699.jpg",
+  "name": "Cinnamon Donuts",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2.5,
+    "lowPrice": 2.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T03:37:53.303Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "2.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-bakery-donuts-cinnamon-baked-in-store"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/coles-bakery-donuts-cinnamon-baked-in-store"
+  ],
+  "sku": "4770699",
+  "updatedAt": "2022-12-06T03:37:53.303Z"
+}

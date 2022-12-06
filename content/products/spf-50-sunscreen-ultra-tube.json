@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "100mL"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$2.25 per 100mL"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2022-12-06T06:02:35.737Z",
+  "description": "Coles tube ultra sunscreen, SPF 50+. Provides broad protection against UVA/UVB and is 4 hours water resistant.",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/2/5/3256860.jpg",
+  "name": "SPF 50+ Sunscreen Ultra Tube",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2.25,
+    "lowPrice": 2.25,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T06:02:35.737Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "2.25",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-sunscreen-ultra-spf-50"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/coles-sunscreen-ultra-spf-50"
+  ],
+  "sku": "3256860",
+  "updatedAt": "2022-12-06T06:02:35.737Z"
+}

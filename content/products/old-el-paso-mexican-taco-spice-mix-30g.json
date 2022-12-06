@@ -1,0 +1,60 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "Approx.35kJ",
+      "carbohydrateContent": "Approx.1.5g",
+      "dietary_fibre": "Approx.0.2g",
+      "fatContent": "Approx.0.1g",
+      "name": "nutrition",
+      "proteinContent": "Approx.0.2g",
+      "saturatedFatContent": "Approx.0.01g",
+      "servingSize": "100 g",
+      "sodiumContent": "Approx.199mg",
+      "sugarContent": "Approx.1g"
+    }
+  ],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Old El Paso"
+  },
+  "createdAt": "2022-12-06T00:43:48.068Z",
+  "description": "Spice up your night with Old El Paso's taco spice mix. The perfect blend of tomatoes, cumin, and garlic adds delicious Mexican flavours to your favourite tacos. Just sprinkle the mix on 500g of lean minced beef, add 1 onion, then follow the instructions on the back of the pack. After heating the taco shells and stuffing them with your filling, you'll have made ready to eat tacos in less than 25 minutes — ideal for Taco Tuesday. Don’t forget to top with guacamole, cheese, sour cream, and salsa. Vegetarian? No problem. Simply swap the meat for beans. Perfect for a midweek Mexican feast or weekend get-togethers, share the rich flavours of Mexican cuisine with all your family and friends. Old El Paso Taco Spice Mix flavours up to 10 delicious tacos.",
+  "gtin13": "9300695001285",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/093444.jpg",
+  "name": "Old El Paso Mexican Taco Spice Mix 30G",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2.45,
+    "lowPrice": 2.45,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T00:43:48.067Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 2.45,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/93444/old-el-paso-mexican-taco-spice-mix"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/93444/old-el-paso-mexican-taco-spice-mix"
+  ],
+  "sku": "93444",
+  "updatedAt": "2022-12-06T00:43:48.067Z"
+}

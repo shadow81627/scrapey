@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "1 bunch"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$6.50 per 1Ea"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2022-12-06T05:10:35.988Z",
+  "description": "Offering great taste, quality and value, you can also be assured that all of our Coles Brand Organic products are Certified Organic",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/4/9/8/4981708.jpg",
+  "name": "Organic Celery",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 6.5,
+    "lowPrice": 6.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T05:10:35.987Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "6.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/organic-celery-bunch"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/organic-celery-bunch"
+  ],
+  "sku": "4981708",
+  "updatedAt": "2022-12-06T05:10:35.987Z"
+}

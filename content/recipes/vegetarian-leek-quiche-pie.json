@@ -1,0 +1,79 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1",
+    "ratingValue": "5"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Oh My Veggies"
+  },
+  "cookTime": "PT45M",
+  "createdAt": "2022-12-04T16:41:44.679Z",
+  "datePublished": "2019-02-13T06:00:19+00:00",
+  "description": "The eggs and cream in this leek pie give it a smooth, thick texture. This succulent salty pie recipe combines leeks—a delicious vegetable—with eggs to make this tasty quiche.",
+  "image": [
+    "https://ohmyveggies.com/wp-content/uploads/2019/02/quiche-1-scaled.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2019/02/quiche-1-500x500.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2019/02/quiche-1-500x375.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2019/02/quiche-1-480x270.jpg"
+  ],
+  "keywords": "Leek pie, Vegetarian Leek Quiche Pie, Vegetarian Quiche",
+  "name": "Vegetarian Leek Quiche Pie",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "269 kcal",
+    "carbohydrateContent": "7 g",
+    "cholesterolContent": "181 mg",
+    "fatContent": "23 g",
+    "fiberContent": "1 g",
+    "proteinContent": "10 g",
+    "saturatedFatContent": "13 g",
+    "servingSize": "1 serving",
+    "sodiumContent": "102 mg",
+    "sugarContent": "2 g",
+    "transFatContent": "1 g",
+    "unsaturatedFatContent": "8 g"
+  },
+  "prepTime": "PT15M",
+  "recipeCategory": "Brunch",
+  "recipeCuisine": "American",
+  "recipeIngredient": [
+    "2 tbsp butter",
+    "2 cups leeks (chopped)",
+    "salt and freshly ground pepper",
+    "pre-cooked quiche dough",
+    "4 big eggs",
+    "1 cup cream",
+    "1 cup Emmenthal cheese (grated)",
+    "1 pinch nutmeg"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Preheat oven to 375°F."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Heat the butter in a skillet over medium heat. Add the leeks, season with salt and pepper, and cook for 12 minutes or until softened. Remove the leeks from the skillet, drain well, and allow to cool a little."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Place quiche dough in a pie tin. Spread the leeks in the dough-lined tin and season well."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Mix the eggs with the cream. Pour over the leeks and cover with cheese. Sprinkle with nutmeg and bake for 25 to 30 minutes."
+    }
+  ],
+  "recipeYield": "6",
+  "sameAs": [
+    "https://ohmyveggies.com/vegetarian-leek-quiche-pie"
+  ],
+  "suitableForDiet": [
+    "https://schema.org/VegetarianDiet"
+  ],
+  "totalTime": "PT60M",
+  "updatedAt": "2022-12-04T16:41:44.678Z"
+}

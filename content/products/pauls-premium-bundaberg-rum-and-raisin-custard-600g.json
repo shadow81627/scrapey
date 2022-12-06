@@ -1,0 +1,60 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "500kJ",
+      "carbohydrateContent": "17.5g",
+      "dietary_fibre": "-",
+      "fatContent": "4.0g",
+      "name": "nutrition",
+      "proteinContent": "3.2g",
+      "saturatedFatContent": "2.6g",
+      "servingSize": "100 g",
+      "sodiumContent": "77mg",
+      "sugarContent": "14.4g"
+    }
+  ],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Pauls"
+  },
+  "createdAt": "2022-12-05T20:56:47.629Z",
+  "description": "Pauls Custard Bundaberg Rum & Raisin flavoured with Bundaberg rum.<BR><BR>Merry Christmas<br /><br />Pauls and Bundaberg Rum, two iconic Australian brands, have come together this Christmas to create a delicious premium custard. <br /><br />Pauls Bundaberg Rum Premium Rum & Raisin Flavoured Custard is a decadent, extra creamy custard with a classic rum and raisin flavour. It's perfect on its own, but why not try it dolloped on Christmas pudding, layered in a trifle or as a side with your favourite festive dessert. <br /><br />Make this Christmas delicious with Pauls and Bundaberg Rum. <br /><br />- Source of calcium.<br />- No added preservatives.<br />- Gluten-free.",
+  "gtin13": "9310036063988",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/127830.jpg",
+  "name": "Pauls Premium Bundaberg Rum & Raisin Custard 600g",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 4,
+    "lowPrice": 4,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-12-05T20:56:47.628Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 4,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/127830/pauls-premium-bundaberg-rum-raisin-custard"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/127830/pauls-premium-bundaberg-rum-raisin-custard"
+  ],
+  "sku": "127830",
+  "updatedAt": "2022-12-05T20:56:47.628Z"
+}

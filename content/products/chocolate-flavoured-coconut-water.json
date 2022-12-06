@@ -1,0 +1,58 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Coconut water (95%), coconut cream (2%), raw sugar, alkalised cocoa (1%), citrus fibre, natural chocolate flavour"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "4.0"
+    },
+    {
+      "name": "Size",
+      "value": "1L"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$5.50 per 1L"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Product of Thailand"
+    }
+  ],
+  "brand": "Cocobella",
+  "createdAt": "2022-12-05T19:22:48.150Z",
+  "description": "Cocobella Chocolate Flavoured Coconut Water",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/8/1/2819855.jpg",
+  "name": "Chocolate Flavoured Coconut Water",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 5.5,
+    "lowPrice": 5.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-05T19:22:48.150Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "5.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/cocobella-coconut-water-chocolate"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/cocobella-coconut-water-chocolate"
+  ],
+  "sku": "2819855",
+  "updatedAt": "2022-12-05T19:22:48.150Z"
+}

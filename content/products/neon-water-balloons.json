@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "200 pack"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.01 per 1Ea"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2022-12-05T00:00:31.781Z",
+  "description": "AGES 8+ YEARS",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/4/2/5/4250815.jpg",
+  "name": "Neon Water Balloons",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2.52,
+    "lowPrice": 2.52,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-05T00:00:31.781Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "2.52",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-neon-water-ballons"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/coles-neon-water-ballons"
+  ],
+  "sku": "4250815",
+  "updatedAt": "2022-12-05T00:00:31.781Z"
+}

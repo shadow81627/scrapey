@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "1 pair"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$19.95 per 1Ea"
+    }
+  ],
+  "brand": "Maseur",
+  "createdAt": "2022-12-05T00:41:00.421Z",
+  "description": "Maseur Heel & Arch Support Women",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/8/0/3809824.jpg",
+  "name": "Heel & Arch Support Women",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 19.95,
+    "lowPrice": 19.95,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-05T00:41:00.420Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "19.95",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/maseur-hel-arch-support"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/maseur-hel-arch-support"
+  ],
+  "sku": "3809824",
+  "updatedAt": "2022-12-05T00:41:00.420Z"
+}

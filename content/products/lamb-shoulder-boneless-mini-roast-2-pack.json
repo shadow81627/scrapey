@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "approx. 800g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$25.00 per 1Kg"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2022-12-04T17:06:57.501Z",
+  "description": "Coles Lamb Shoulder Boneless Mini Roast 2 pack",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/5/4/2544280.jpg",
+  "name": "Lamb Shoulder Boneless Mini Roast 2 pack",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 20,
+    "lowPrice": 20,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-04T17:06:57.500Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "20.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-boneless-mini-lamb-shoulder"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/coles-boneless-mini-lamb-shoulder"
+  ],
+  "sku": "2544280",
+  "updatedAt": "2022-12-04T17:06:57.500Z"
+}

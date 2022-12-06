@@ -1,0 +1,60 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "283.00kJ",
+      "carbohydrateContent": "15.70g",
+      "dietary_fibre": "-",
+      "fatContent": "0.20g",
+      "name": "nutrition",
+      "proteinContent": "0.20g",
+      "saturatedFatContent": "0.10g",
+      "servingSize": "100 g",
+      "sodiumContent": "4.00mg",
+      "sugarContent": "13.30g"
+    }
+  ],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Rafferty's Garden"
+  },
+  "createdAt": "2022-12-05T23:45:58.471Z",
+  "description": "We know that mums want the best for their babies so this pouch contains premium fruit and vegetables. Made in Australia with NOTHING ELSE except for Pear & Prune and no preservatives, no artificial colours or preservatives, no added salt or sugar, just delicious, nutritious goodness for your baby. With its smooth texture it’s the perfect first food for bubs trying pureed solid food for the first time. This Pear & Prune pouch is a tasty combination of fruit for your baby, packed with the goodness of pears and prunes to aid with constipation as well as a delicious snack!",
+  "gtin13": "9340156058977",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/064807.jpg",
+  "name": "Rafferty's Garden Baby Food Pouch Pear & Prune & Nothing Else 4+ Months 120g",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2.15,
+    "lowPrice": 2.15,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-12-05T23:45:58.470Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 2.15,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/64807/rafferty-s-garden-baby-food-pouch-pear-prune-nothing-else-4-months"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/64807/rafferty-s-garden-baby-food-pouch-pear-prune-nothing-else-4-months"
+  ],
+  "sku": "64807",
+  "updatedAt": "2022-12-05T23:45:58.470Z"
+}

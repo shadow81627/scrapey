@@ -1,0 +1,58 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Pine Chips,<30% Bentonite"
+    },
+    {
+      "name": "Ethical",
+      "value": "Australian Made and Owned"
+    },
+    {
+      "name": "Warning",
+      "value": "Do not swallow."
+    },
+    {
+      "name": "Size",
+      "value": "6L"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.33 per 1L"
+    }
+  ],
+  "brand": "Catlux",
+  "createdAt": "2022-12-06T04:43:33.951Z",
+  "description": "Catlux Light Clumping Cat Litter",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/9/5/5952079.jpg",
+  "name": "Light Clumping Cat Litter",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 8,
+    "lowPrice": 8,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T04:43:33.950Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "8.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/catlux-light-clumping-cat-litter"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/catlux-light-clumping-cat-litter"
+  ],
+  "sku": "5952079",
+  "updatedAt": "2022-12-06T04:43:33.950Z"
+}

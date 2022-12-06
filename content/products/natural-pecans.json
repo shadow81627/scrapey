@@ -1,0 +1,54 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "<b>INGREDIENTS:</b> <strong>Pecan</strong> Nuts."
+    },
+    {
+      "name": "Allergen",
+      "value": "Contains Pecan"
+    },
+    {
+      "name": "Size",
+      "value": "approx. 100g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$45.00 per 1Kg"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2022-12-05T08:52:32.708Z",
+  "description": "Pecans have a distinctly sweet and buttery flavour, and a mildly floral, forestry aroma. As well as munching them alone, try adding them to your sweet or savoury dish.",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/8/4/1/8412464.jpg",
+  "name": "Natural Pecans",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 4.5,
+    "lowPrice": 4.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-05T08:52:32.708Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "4.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/scoop-weigh-pecans"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/scoop-weigh-pecans"
+  ],
+  "sku": "8412464",
+  "updatedAt": "2022-12-05T08:52:32.708Z"
+}

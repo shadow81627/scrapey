@@ -1,0 +1,50 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Aqua, Glycerin, Cetearyl Alcohol, Panthenol, Niacinamide, Pantolactone, Xanthan Gum, Sodium Cocoyl Isethionate, Sodium Benzoate, Citric Acid. FIL.1747.V00"
+    },
+    {
+      "name": "Size",
+      "value": "500mL"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.90 per 100mL"
+    }
+  ],
+  "brand": "Cetaphil",
+  "createdAt": "2022-12-06T02:59:37.790Z",
+  "description": "Cetaphil Gentle Skin Cleanser",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/1/4/8/1481174.jpg",
+  "name": "Gentle Skin Cleanser",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 9.5,
+    "lowPrice": 9.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T02:59:37.789Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "9.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/cetaphil-gentle-skin-cleanser"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/cetaphil-gentle-skin-cleanser"
+  ],
+  "sku": "1481174",
+  "updatedAt": "2022-12-06T02:59:37.789Z"
+}

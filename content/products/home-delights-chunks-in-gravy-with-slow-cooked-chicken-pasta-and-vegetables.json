@@ -1,0 +1,50 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Meats (including Chicken &/or Beef &/or Sheep &/or Pork &/or Turkey), Vegetables, Pasta, Binder (including Beef &/or Sheep &/or Pork &/or Cereal Protein), Thickener, Gelling Agents, Vegetable Fibre, Colouring Agents, Vitamins & Minerals, Flavour."
+    },
+    {
+      "name": "Size",
+      "value": "100g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.35 per 100G"
+    }
+  ],
+  "brand": "My Dog",
+  "createdAt": "2022-12-05T12:43:39.684Z",
+  "description": "My Dog Home Delights Chunks In Gravy With Slow Cooked Chicken Pasta And Vegetables",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/4/4/7/4473478.jpg",
+  "name": "Home Delights Chunks In Gravy With Slow Cooked Chicken Pasta And Vegetables",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 1.35,
+    "lowPrice": 1.35,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-05T12:43:39.684Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "1.35",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/df-chnks-grv-chckn-pst-vg"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/df-chnks-grv-chckn-pst-vg"
+  ],
+  "sku": "4473478",
+  "updatedAt": "2022-12-05T12:43:39.684Z"
+}

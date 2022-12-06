@@ -1,0 +1,50 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Red Adzuki Bean."
+    },
+    {
+      "name": "Size",
+      "value": "375g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.01 per 100G"
+    }
+  ],
+  "brand": "Pandaroo",
+  "createdAt": "2022-12-05T10:37:13.803Z",
+  "description": "Pandaroo Asian Spices: Premium Grade Red Bean. Available in 375 grams. Product of Canada. Premium grade Red BeanAvailable in 375 grams Product of CanadaAustralian Owned",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/7/4/3740138.jpg",
+  "name": "Red Bean",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3.8,
+    "lowPrice": 3.8,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-05T10:37:13.802Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "3.80",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/pandaro-red-bean"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/pandaro-red-bean"
+  ],
+  "sku": "3740138",
+  "updatedAt": "2022-12-05T10:37:13.803Z"
+}

@@ -1,0 +1,62 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "INGREDIENTS: Hazelnuts."
+    },
+    {
+      "name": "Allergen",
+      "value": "May Be Present SOY, Contains TREE NUTS, Contains Hazelnuts, May Be Present OTHER TREE NUTS, May Be Present PEANUTS"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "5.0"
+    },
+    {
+      "name": "Size",
+      "value": "150g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$26.67 per 1Kg"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Product of Turkey"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2022-12-04T15:18:07.000Z",
+  "description": "Coles Hazelnuts 150 gram a great snack on their own or add to a trail mix",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/0/1/3017597.jpg",
+  "name": "Hazelnuts",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 4,
+    "lowPrice": 4,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-04T15:18:06.999Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "4.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-hazelnuts"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/coles-hazelnuts"
+  ],
+  "sku": "3017597",
+  "updatedAt": "2022-12-04T15:18:06.999Z"
+}

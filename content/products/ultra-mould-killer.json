@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "500mL"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.59 per 100mL"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2022-12-05T19:25:14.616Z",
+  "description": "Coles Mould Killer 500mL. Kills 99.9% of germs. Kills ingrained mould and safe to use on most bathroom surfaces.",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/7/4/2749670.jpg",
+  "name": "Ultra Mould Killer",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2.95,
+    "lowPrice": 2.95,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-05T19:25:14.616Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "2.95",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-mould-killer-2749670p"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/coles-mould-killer-2749670p"
+  ],
+  "sku": "2749670",
+  "updatedAt": "2022-12-05T19:25:14.616Z"
+}

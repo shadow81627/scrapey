@@ -1,0 +1,54 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "<p><strong>INGREDIENTS:</strong> Australian Vegetable Oil.</p>"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "50.0"
+    },
+    {
+      "name": "Size",
+      "value": "750mL"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.53 per 100mL"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2022-12-06T00:03:05.043Z",
+  "description": "Coles Blended Vegetable Oil 750 ml a great oil to allow you to deep fry your products",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/4/5/7/4574919.jpg",
+  "name": "Vegetable Oil Blended",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3.95,
+    "lowPrice": 3.95,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T00:03:05.042Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "3.95",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-brand-oil-vegetable-blended-4574919p"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/coles-brand-oil-vegetable-blended-4574919p"
+  ],
+  "sku": "4574919",
+  "updatedAt": "2022-12-06T00:03:05.042Z"
+}

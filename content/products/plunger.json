@@ -1,0 +1,42 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "1 pack"
+    }
+  ],
+  "brand": "Toolworx",
+  "createdAt": "2022-12-05T21:31:09.097Z",
+  "description": "TOOLWORX Kitchen Plunger - The rubber sink plunger produces a strong vacuum to fast and effectively assist in clogged sinks and toilets. Made from eco friendly rubber and FSC certified handle.",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/7/9/3799072.jpg",
+  "name": "Plunger",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3.75,
+    "lowPrice": 3.75,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/OutOfStock",
+        "availabilityStarts": "2022-12-05T21:31:09.096Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "3.75",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/tolworx-plunger"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/tolworx-plunger"
+  ],
+  "sku": "3799072",
+  "updatedAt": "2022-12-05T21:31:09.096Z"
+}

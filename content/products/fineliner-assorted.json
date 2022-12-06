@@ -1,0 +1,42 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "6 pack"
+    }
+  ],
+  "brand": "Intensity",
+  "createdAt": "2022-12-04T23:37:04.984Z",
+  "description": "Intensity Fineliner Assorted",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/6/6/3663194.jpg",
+  "name": "Fineliner Assorted",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 9,
+    "lowPrice": 9,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-04T23:49:46.762Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "9.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/intensity-fineliner-assorted-6pk"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/intensity-fineliner-assorted-6pk"
+  ],
+  "sku": "3663194",
+  "updatedAt": "2022-12-04T23:49:46.762Z"
+}

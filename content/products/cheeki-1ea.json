@@ -1,0 +1,45 @@
+{
+  "@type": "Product",
+  "additionalProperty": [],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Cheeki"
+  },
+  "createdAt": "2022-12-06T04:45:13.077Z",
+  "description": "<p>Cheeki's NEW insulated kids water bottles are made for keeping little adventurers cool and hydrated while they explore, play and learn. Made from premium 304 food grade stainless steel and featuring Cheeki's chip-resistant tough paint ensures these bottles can handle the bumps and drops of a day of play. The wide-mouth design is ideal for fast refills, dropping in ice cubes and easy cleaning. The durable lid features a soft rubber carry handle and an easy-to-use sipping spout which is perfect for little hands. Kids will also love the new colours and 3D printed designs that pop out.</p>\n<p>To help keep it clean we've included a FREE straw cleaning brush plus we've also added name stickers too!&nbsp;</p>",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/1073971933.jpg",
+  "name": "Cheeki 1EA",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 39.95,
+    "lowPrice": 39.95,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/OutOfStock",
+        "availabilityStarts": "2022-12-06T04:45:13.077Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 39.95,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/1073971933/400ml-insulated-little-adventurer-bottle-fairy"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/1073971933/400ml-insulated-little-adventurer-bottle-fairy"
+  ],
+  "sku": "1073971933",
+  "updatedAt": "2022-12-06T04:45:13.077Z"
+}

@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "480g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.78 per 100mL"
+    }
+  ],
+  "brand": "Hong Kong",
+  "createdAt": "2022-12-05T18:58:57.140Z",
+  "description": "Hong Kong Pork Dim Sims",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/2/9/5292231.jpg",
+  "name": "Pork Dim Sims",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3.75,
+    "lowPrice": 3.75,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/OutOfStock",
+        "availabilityStarts": "2022-12-05T18:58:57.139Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "3.75",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/pork-dim-sims"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/pork-dim-sims"
+  ],
+  "sku": "5292231",
+  "updatedAt": "2022-12-05T18:58:57.139Z"
+}

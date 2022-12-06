@@ -2,66 +2,75 @@
   "@type": "Recipe",
   "aggregateRating": {
     "@type": "AggregateRating",
-    "ratingCount": "1",
+    "ratingCount": "6",
     "ratingValue": "5"
   },
   "author": {
     "@type": "Person",
-    "name": "Linda & Alex"
+    "name": "Minimalist Baker"
   },
   "createdAt": "2022-12-01T23:52:56.804Z",
-  "datePublished": "2022-05-04T15:09:00+00:00",
-  "description": "This easy dairy-free tartar sauce is made with minimal ingredients in less than 15 minutes. Great with vegan fish sticks, crab cakes, or nuggets.",
+  "datePublished": "2021-06-07T03:00:00+00:00",
+  "description": "Easy vegan tartar sauce that’s creamy, tangy, and super flavorful. Perfect for dipping your favorite breaded creations. Just 7 ingredients required!",
   "image": [
-    "https://cdn.veganosity.com/wp-content/uploads/2022/05/Tarter-Sauce-R.jpg",
-    "https://www.veganosity.com/wp-content/uploads/2022/05/Tarter-Sauce-R-500x500.jpg",
-    "https://www.veganosity.com/wp-content/uploads/2022/05/Tarter-Sauce-R-500x375.jpg",
-    "https://www.veganosity.com/wp-content/uploads/2022/05/Tarter-Sauce-R-480x270.jpg"
+    "https://minimalistbaker.com/wp-content/uploads/2021/04/Vegan-Tartar-Sauce-SQUARE.jpg",
+    "https://minimalistbaker.com/wp-content/uploads/2021/04/Vegan-Tartar-Sauce-SQUARE-500x500.jpg",
+    "https://minimalistbaker.com/wp-content/uploads/2021/04/Vegan-Tartar-Sauce-SQUARE-500x375.jpg",
+    "https://minimalistbaker.com/wp-content/uploads/2021/04/Vegan-Tartar-Sauce-SQUARE-480x270.jpg"
   ],
-  "keywords": "dairy-free tartar sauce, vegan tartar sauce",
+  "keywords": "vegan tartar sauce",
   "name": "Easy Vegan Tartar Sauce",
   "nutrition": {
     "@type": "NutritionInformation",
-    "calories": "192 kcal",
-    "carbohydrateContent": "5 g",
-    "fatContent": "18 g",
-    "fiberContent": "1 g",
-    "proteinContent": "1 g",
-    "saturatedFatContent": "2 g",
+    "calories": "96 kcal",
+    "carbohydrateContent": "1.2 g",
+    "fatContent": "11.1 g",
+    "fiberContent": "0.2 g",
+    "proteinContent": "0.1 g",
+    "saturatedFatContent": "1.5 g",
     "servingSize": "1 tablespoon",
-    "sodiumContent": "298 mg",
-    "sugarContent": "2 g"
+    "sodiumContent": "183 mg",
+    "sugarContent": "0.8 g",
+    "unsaturatedFatContent": "8.6 g"
   },
   "prepTime": "PT15M",
-  "recipeCategory": "Condiment",
-  "recipeCuisine": "American",
+  "recipeCategory": "Sauce",
+  "recipeCuisine": "Gluten-Free",
   "recipeIngredient": [
-    "1/2 cup vegan mayonnaise (we use Follow Your Heart brand)",
-    "2 tablespoon sweet pickle relish",
-    "2 teaspoon lemon juice or white wine vinegar",
-    "1 tablespoon capers (chopped)",
-    "1 tablespoon fresh dill (minced)",
-    "1 teaspoon vegan Worcestershire sauce (we use Wizard's brand)",
-    "1/2 teaspoon Dijon mustard",
-    "Salt and pepper to taste"
+    "1/2 cup vegan mayo (or store-bought)",
+    "2 tsp dijon mustard",
+    "1 Tbsp lemon juice",
+    "1 tsp maple syrup",
+    "2 Tbsp finely diced dill pickles",
+    "2 Tbsp finely diced shallot",
+    "1 pinch each sea salt and black pepper"
   ],
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "text": "Finely chop the capers and mince the dill."
+      "text": "In a small bowl whisk together vegan mayo, mustard, lemon juice, and maple syrup until well combined."
     },
     {
       "@type": "HowToStep",
-      "text": "In a small bowl, whisk the 1/2 cup vegan mayo, 2 tbsp sweet pickle relish, 2 tsp lemon juice, 1 tbsp capers, 1 tbsp fresh dill, 1 tsp vegan Worcestershire sauce, 1/2 tsp Dijon mustard, and salt and pepper to taste until fully combined."
+      "text": "Add diced pickle, diced shallot, salt, and pepper and stir until evenly combined."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Taste and adjust seasonings as needed, adding more mustard for tang, maple syrup for sweetness, or black pepper for spice."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Enjoy with vegan crab cakes, onion rings, fries, or your favorite breaded creations!"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Best when fresh. Store leftovers in a sealed container in the refrigerator up to 3-4 days. Not freezer friendly."
     }
   ],
-  "recipeYield": "4",
+  "recipeYield": "8",
   "sameAs": [
-    "https://veganosity.com/easy-homemade-vegan-tartar-sauce"
-  ],
-  "suitableForDiet": [
-    "https://schema.org/VeganDiet"
+    "https://minimalistbaker.com/easy-vegan-tartar-sauce"
   ],
   "totalTime": "PT15M",
-  "updatedAt": "2022-12-01T23:52:56.803Z"
+  "updatedAt": "2022-12-05T10:25:26.519Z"
 }

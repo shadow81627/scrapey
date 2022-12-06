@@ -1,0 +1,79 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "3",
+    "ratingValue": "4.67"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Oh My Veggies"
+  },
+  "cookTime": "PT50M",
+  "createdAt": "2022-12-04T17:50:04.972Z",
+  "datePublished": "2018-03-29T09:26:50+00:00",
+  "description": "Clafoutis is a French dessert that pairs fresh fruits with a flan-like pastry topping. A little like a lighter cobbler, and oh-so-fresh-and-delicious!",
+  "image": [
+    "https://ohmyveggies.com/wp-content/uploads/2018/03/Strawberry-clafoutis-in-the-baking-dish.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2018/03/Strawberry-clafoutis-in-the-baking-dish-500x415.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2018/03/Strawberry-clafoutis-in-the-baking-dish-500x375.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2018/03/Strawberry-clafoutis-in-the-baking-dish-480x270.jpg"
+  ],
+  "keywords": "Clafoutis, French dessert, Strawberry Clafoutis",
+  "name": "Strawberry Clafoutis",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "234 kcal",
+    "carbohydrateContent": "37 g",
+    "cholesterolContent": "129 mg",
+    "fatContent": "5 g",
+    "fiberContent": "2 g",
+    "proteinContent": "9 g",
+    "saturatedFatContent": "2 g",
+    "servingSize": "1 serving",
+    "sodiumContent": "220 mg",
+    "sugarContent": "19 g",
+    "transFatContent": "1 g",
+    "unsaturatedFatContent": "3 g"
+  },
+  "prepTime": "PT5M",
+  "recipeCategory": "Dessert",
+  "recipeCuisine": "American",
+  "recipeIngredient": [
+    "1 1/2 cups strawberries (hulled)",
+    "2 teaspoons cornstarch",
+    "3 eggs",
+    "1 cup milk",
+    "2/3 cup all-purpose flour",
+    "1/4 cup white sugar (organic for vegan-friendly)",
+    "1 1/2 teaspoons vanilla extract",
+    "1/4 teaspoon salt"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Preheat oven to 350° F / 175o C. Grease a 2-quart baking dish."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Toss strawberries with cornstarch until evenly coated, then arrange berries, in bottom of dish and set aside."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "In a food processor, mix eggs, milk, flour, granulated sugar, vanilla, and salt. Pour batter over strawberries."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Bake until puffed, golden brown, and set in the center, about 50 minutes. Serve warm."
+    }
+  ],
+  "recipeYield": "4",
+  "sameAs": [
+    "https://ohmyveggies.com/strawberry-clafoutis"
+  ],
+  "suitableForDiet": [
+    "https://schema.org/VegetarianDiet"
+  ],
+  "totalTime": "PT55M",
+  "updatedAt": "2022-12-04T17:50:04.971Z"
+}

@@ -1,0 +1,74 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "2",
+    "ratingValue": "5"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Oh My Veggies"
+  },
+  "cookTime": "PT120M",
+  "createdAt": "2022-12-04T19:06:22.505Z",
+  "datePublished": "2015-02-11T10:25:00+00:00",
+  "description": "A homemade alternative to store-bought vegetarian chicken stock.",
+  "image": [
+    "https://ohmyveggies.com/wp-content/uploads/2015/02/vegetarian_chicken_stock_recipe.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2015/02/vegetarian_chicken_stock_recipe-500x400.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2015/02/vegetarian_chicken_stock_recipe-500x375.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2015/02/vegetarian_chicken_stock_recipe-480x270.jpg"
+  ],
+  "keywords": "homemade Chicken Stock, homemade Vegetarian Chicken Stock, Vegetarian Chicken Stock",
+  "name": "Vegetarian Chicken Stock",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "289 kcal",
+    "carbohydrateContent": "67 g",
+    "fatContent": "2 g",
+    "fiberContent": "15 g",
+    "proteinContent": "8 g",
+    "saturatedFatContent": "1 g",
+    "servingSize": "1 serving",
+    "sodiumContent": "443 mg",
+    "sugarContent": "24 g",
+    "unsaturatedFatContent": "2 g"
+  },
+  "prepTime": "PT5M",
+  "recipeCategory": "Soup",
+  "recipeCuisine": "American",
+  "recipeIngredient": [
+    "1 large onion (quartered)",
+    "4 large carrots (trimmed and cut into large pieces)",
+    "4 ribs celery (trimmed and cut into large pieces)",
+    "2 leeks (white and pale green parts only, halved and rinsed well)",
+    "2 cloves garlic (smashed)",
+    "8 sprigs thyme",
+    "8 sprigs parsley",
+    "1 bay leaf",
+    "5 whole peppercorns",
+    "18 cups water",
+    "1 teaspoon ground turmeric",
+    "1 teaspoon smoked paprika",
+    "Salt to taste (to make broth)"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Combine all of the ingredients through the water in a large stockpot over high heat. Bring to a boil, then reduce heat to low. Simmer for 2 hours, then stir in the turmeric and paprika. Let the stock cool."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Once cooled, set a fine mesh strainer over a large bowl or a second stockpot. Pour the stock through the strainer, then use the back of a wooden spoon to mash the vegetables to release as much liquid as possible. Discard the solids. If you're making broth, add salt to taste. Use the stock immediately or freeze in airtight plastic containers or freezer bags."
+    }
+  ],
+  "recipeYield": "2",
+  "sameAs": [
+    "https://ohmyveggies.com/vegetarian-chicken-stock"
+  ],
+  "suitableForDiet": [
+    "https://schema.org/VegetarianDiet"
+  ],
+  "totalTime": "PT125M",
+  "updatedAt": "2022-12-04T19:06:22.505Z"
+}

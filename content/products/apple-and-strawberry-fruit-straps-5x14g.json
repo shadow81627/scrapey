@@ -1,0 +1,54 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Apple (86%), Strawberry (14%)"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "5.0"
+    },
+    {
+      "name": "Size",
+      "value": "70g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$6.43 per 100G"
+    }
+  ],
+  "brand": "Fruit Wise",
+  "createdAt": "2022-12-05T21:53:38.223Z",
+  "description": "100% Fruit; No added sugar, colours or preservatives; Sulphur free; Naturally gluten free; Vegetarian; Vegan; Australian Made; Australian owned",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/2/7/5273033.jpg",
+  "name": "Apple & Strawberry Fruit Straps 5X14G",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 4.5,
+    "lowPrice": 4.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/OutOfStock",
+        "availabilityStarts": "2022-12-05T21:53:38.222Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "4.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/apple-strawberry-70g"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/apple-strawberry-70g"
+  ],
+  "sku": "5273033",
+  "updatedAt": "2022-12-05T21:53:38.222Z"
+}

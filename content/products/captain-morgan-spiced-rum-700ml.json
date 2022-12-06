@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Captain Morgan"
+  },
+  "createdAt": "2022-12-05T22:37:33.484Z",
+  "description": "Named after the famous swashbuckling pirate, Captain Morgan Original Spiced Gold Rum contains a secret blend of Caribbean rums, spices and natural flavours creating a unique taste sensation. Mix it with cola and slice of lime, your favourite mixer or serve it up in a rum cocktail.<br><br><strong>Spirit Type: </strong>Rum<br><strong>Varietal: </strong>Spiced Rum<br><strong>Alcohol %: </strong>35<br><strong>Standard Drinks: </strong>19.3<br><strong>Country Of Origin: </strong>Jamaica",
+  "gtin13": "6001398122095",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/906818.jpg",
+  "name": "Captain Morgan Spiced Rum 700mL",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 42,
+    "lowPrice": 42,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-12-05T22:37:33.483Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 42,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/906818/captain-morgan-spiced-rum"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/906818/captain-morgan-spiced-rum"
+  ],
+  "sku": "906818",
+  "updatedAt": "2022-12-05T22:37:33.483Z"
+}

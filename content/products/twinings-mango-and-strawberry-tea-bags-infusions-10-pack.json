@@ -1,0 +1,60 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "20kJ",
+      "carbohydrateContent": "&lt;1g",
+      "dietary_fibre": "-",
+      "fatContent": "&lt;1g",
+      "name": "nutrition",
+      "proteinContent": "&lt;1g",
+      "saturatedFatContent": "&lt;1g",
+      "servingSize": "100 g",
+      "sodiumContent": "10mg",
+      "sugarContent": "&lt;1g"
+    }
+  ],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Twinings"
+  },
+  "createdAt": "2022-12-04T18:30:59.984Z",
+  "description": "Twinings Infusions Mango & Strawberry is tropical & lush. Enjoy every day.<BR><BR>Float away to a tropical paradise...<br />The familiar sweetness of strawberry flavour dances with the exotic, rich aroma of mangoes to create this deliciously refreshing blend. Take a moment to pause your day and enjoy this summery infusion bursting with lush flavour.",
+  "gtin13": "70177227906",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/094341.jpg",
+  "name": "Twinings Mango & Strawberry Tea Bags Infusions 10 Pack",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3,
+    "lowPrice": 3,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-12-04T18:30:59.984Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 3,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/94341/twinings-mango-strawberry-tea-bags-infusions"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/94341/twinings-mango-strawberry-tea-bags-infusions"
+  ],
+  "sku": "94341",
+  "updatedAt": "2022-12-04T18:30:59.984Z"
+}

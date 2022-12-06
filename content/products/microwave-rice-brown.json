@@ -1,0 +1,58 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "<b>INGREDIENTS:</b> ;Cooked Brown Rice (98%), Sunflower Oil, Emulsifier (471 (Vegetable Oil))."
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "2.0"
+    },
+    {
+      "name": "Size",
+      "value": "250g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.70 per 100G"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Made in India"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2022-12-05T22:18:08.953Z",
+  "description": "Deliciously nutty and a source of fibre and protein.",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/8/4/7/8471408.jpg",
+  "name": "Microwave Rice Brown",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 1.75,
+    "lowPrice": 1.75,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-05T22:18:08.953Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "1.75",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-rice-brown-microwave"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/coles-rice-brown-microwave"
+  ],
+  "sku": "8471408",
+  "updatedAt": "2022-12-05T22:18:08.953Z"
+}

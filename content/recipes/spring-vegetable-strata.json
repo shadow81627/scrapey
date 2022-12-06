@@ -1,0 +1,89 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1",
+    "ratingValue": "5"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Oh My Veggies"
+  },
+  "cookTime": "PT60M",
+  "createdAt": "2022-12-04T16:48:14.398Z",
+  "datePublished": "2016-03-21T09:17:17+00:00",
+  "description": "Hello brunch! With Swiss chard and asparagus, this savory bread pudding is perfect for spring.",
+  "image": [
+    "https://ohmyveggies.com/wp-content/uploads/2016/03/Spring-Vegetable-Strata-4.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2016/03/Spring-Vegetable-Strata-4-500x400.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2016/03/Spring-Vegetable-Strata-4-500x375.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2016/03/Spring-Vegetable-Strata-4-480x270.jpg"
+  ],
+  "keywords": "savory bread pudding, Spring Vegetable Strata",
+  "name": "Spring Vegetable Strata",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "839 kcal",
+    "carbohydrateContent": "106 g",
+    "cholesterolContent": "159 mg",
+    "fatContent": "26 g",
+    "fiberContent": "18 g",
+    "proteinContent": "47 g",
+    "saturatedFatContent": "10 g",
+    "servingSize": "1 serving",
+    "sodiumContent": "1134 mg",
+    "sugarContent": "20 g",
+    "transFatContent": "1 g",
+    "unsaturatedFatContent": "14 g"
+  },
+  "prepTime": "PT25M",
+  "recipeCategory": "Appetizer",
+  "recipeCuisine": "American",
+  "recipeIngredient": [
+    "2 tablespoons olive oil",
+    "1 onion (thinly sliced)",
+    "1 teaspoon crushed red pepper flakes",
+    "1 pound asparagus (trimmed and cut into 1/2-inch lengths)",
+    "1 bunch of swiss chard (stems removed and leaves thinly sliced)",
+    "Salt and black pepper (to taste)",
+    "6 large eggs",
+    "3 cups milk",
+    "8 cups 1-inch cubed bakery-style whole wheat bread",
+    "1 1/2 cups shredded gruyere cheese"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Spray a 9x13-inch baking pan with cooking spray. Set aside. Preheat oven to 350oF."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Heat the oil in a large skillet over medium heat. Add in the onion and red pepper flakes. Sauté for 4-5 minutes, or until tender. Stir in the asparagus and cook for 2-3 minutes. Add in the swiss chard leaves and cook until wilted, 2-3 minutes. Season to taste with salt and black pepper. Set aside."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "In a large bowl, whisk together the eggs and milk. Season to taste with salt and black pepper. Set aside."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Place half of the bread cubes in the prepared baking dish. Top with half of the veggies and half of the cheese. Repeat with remaining bread, veggies, and cheese."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Pour the egg mixture over the bread, veggies, and cheese. Press down with a spatula to make sure all of the bread cubes get soaked. Do this every 5 minutes for 15 minutes."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Bake, uncovered, for 45-50 minutes or until golden brown and set. Let cool for 5 minutes before serving."
+    }
+  ],
+  "recipeYield": "8",
+  "sameAs": [
+    "https://ohmyveggies.com/spring-vegetable-strata"
+  ],
+  "suitableForDiet": [
+    "https://schema.org/VegetarianDiet"
+  ],
+  "totalTime": "PT85M",
+  "updatedAt": "2022-12-04T16:48:14.397Z"
+}

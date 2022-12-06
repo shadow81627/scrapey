@@ -1,0 +1,60 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "7.5kJ",
+      "carbohydrateContent": "&lt;1g",
+      "dietary_fibre": "-",
+      "fatContent": "&lt;1g",
+      "name": "nutrition",
+      "proteinContent": "&lt;1g",
+      "saturatedFatContent": "&lt;1g",
+      "servingSize": "100 g",
+      "sodiumContent": "&lt;10mg",
+      "sugarContent": "&lt;1g"
+    }
+  ],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Nerada"
+  },
+  "createdAt": "2022-12-05T09:43:27.953Z",
+  "description": "Mint has been used for centuries for a variety of purposes including as a beverage for its cool and refreshing flavour. Our organic Peppermint has been carefully selected and grown using only nature's natural resources.<br />100% Natural Ingredients<br />We like to do things the natural way. That’s why our deliciously refreshing teas & herbal infusions have been expertly created only using the finest organic ingredients from our trusted growing partners which makes them unique and delicious.",
+  "gtin13": "9310551002103",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/262170.jpg",
+  "name": "Nerada Organic Peppermint Tea Bags 40 Pack 60G",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 4.6,
+    "lowPrice": 4.6,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-12-05T09:43:27.952Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 4.6,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/262170/nerada-organic-peppermint-tea-bags"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/262170/nerada-organic-peppermint-tea-bags"
+  ],
+  "sku": "262170",
+  "updatedAt": "2022-12-05T09:43:27.952Z"
+}

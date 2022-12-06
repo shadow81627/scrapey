@@ -2,56 +2,61 @@
   "@type": "Recipe",
   "cookTime": "PT5M",
   "createdAt": "2022-11-24T22:03:11.000Z",
-  "datePublished": "2021-03-10",
+  "datePublished": "2022-09-26",
   "description": "Try our easy to follow Parmesan Zucchini Ribbons recipe. Absolutely delicious with the best ingredients from Woolworths.",
-  "image": {
-    "@type": "ImageObject",
-    "height": 1300,
-    "mime": "image/png",
-    "url": "https://foodhub.scene7.com/is/image/woolworthsltdprod/0912_parmesanzucchiniribbons?wid=1300&hei=1300&fmt=png-alpha",
-    "width": 1300
-  },
-  "keywords": "Parmesan Zucchini Ribbons",
+  "image": [
+    "https://foodhub.scene7.com/is/image/woolworthsltdprod/0912_parmesanzucchiniribbons:Square-1300x1300"
+  ],
+  "keywords": "Vegetable dishes,Pescatarian,Seafood free,Gluten free,Tree nut free,Egg free,Sesame free,Zucchini,Halal,Soy free,Wheat free,Vegetarian,Peanut free",
   "name": "Parmesan Zucchini Ribbons Recipe | Woolworths",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "167 calories",
+    "carbohydrateContent": "8.9 g",
+    "fatContent": "11.4 g",
+    "proteinContent": "6.3 g",
+    "sodiumContent": "540 millig",
+    "transFatContent": "0.3 g"
+  },
   "prepTime": "PT10M",
-  "recipeCategory": "side-dishes",
-  "recipeCuisine": "european",
+  "recipeCategory": "Side dishes",
+  "recipeCuisine": "Italian",
   "recipeId": "1297",
   "recipeIngredient": [
-    "1 kg zucchini",
-    "1 cup parmesan",
-    "1 pinch black pepper",
+    "1kg zucchini",
+    "1 cup parmesan, finely grated",
+    "1 pinch black pepper (to season)",
     "2 tbs olive oil",
-    "1 pinch pink salt ground"
+    "1 pinch pink salt ground (to taste)"
   ],
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Sprinkle with extra finely grated parmesan to serve."
+      "HowToTip": {},
+      "text": "Trim zucchini. Run a vegetable peeler down the length of zucchinis to form thin ribbons. Bring a large saucepan of water to the boil. Add zucchini. When water returns to the boil, remove pot from heat and drain."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Sprinkle with extra finely grated parmesan to serve."
+      "HowToTip": {},
+      "text": "Return zucchini to pan with olive oil and add cup of finely grated parmesan."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Sprinkle with extra finely grated parmesan to serve."
+      "HowToTip": {},
+      "text": "Season with salt and freshly ground black pepper and toss."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
+      "HowToTip": {},
       "text": "Sprinkle with extra finely grated parmesan to serve."
     }
   ],
   "recipeNameId": "parmesan-zucchini-ribbons",
   "recipeYield": "6",
   "sameAs": [
-    "https://woolworths.com.au/shop/find-recipes/zucchini-parmesan"
+    "https://woolworths.com.au/shop/recipes/parmesan-zucchini-ribbons"
   ],
   "totalTime": "PT15M",
-  "updatedAt": "2022-11-24T17:27:06.719Z",
+  "updatedAt": "2022-12-05T05:02:48.733Z",
   "url": "https://www.woolworths.com.au/shop/recipes/parmesan-zucchini-ribbons"
 }

@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "1 pack"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$2.25 per 1Ea"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2022-12-06T01:47:48.380Z",
+  "description": "Coles toothbrush and toothpaste case, travel friendly and suitable for most standard sized toothbrushes and toothpastes. Take your toothbrush and toothpaste with you when you travel, with ease.",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/5/9/3593791.jpg",
+  "name": "Toothbrush Toothpaste Case",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2.25,
+    "lowPrice": 2.25,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T01:47:48.380Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "2.25",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-toothbrush-paste-case"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/coles-toothbrush-paste-case"
+  ],
+  "sku": "3593791",
+  "updatedAt": "2022-12-06T01:47:48.380Z"
+}

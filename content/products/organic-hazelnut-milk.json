@@ -1,0 +1,50 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Allergen",
+      "value": "Contains Hazelnuts"
+    },
+    {
+      "name": "Size",
+      "value": "1L"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$3.50 per 1L"
+    }
+  ],
+  "brand": "Australia's Own",
+  "createdAt": "2022-12-05T06:41:24.839Z",
+  "description": "Were falling over our nuts for our Organic Hazelnut milk. With a natural source of antioxidants and a good source of calcium, you can go nuts- splash it in a smoothie or on your cereal. Give it a try and taste the Aussie goodness today!",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/3/1/5311369.jpg",
+  "name": "Organic Hazelnut Milk",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3.5,
+    "lowPrice": 3.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/OutOfStock",
+        "availabilityStarts": "2022-12-05T06:41:24.838Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "3.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/hazelnut-milk-1l-5311369p-1"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/hazelnut-milk-1l-5311369p-1"
+  ],
+  "sku": "5311369",
+  "updatedAt": "2022-12-05T06:41:24.838Z"
+}

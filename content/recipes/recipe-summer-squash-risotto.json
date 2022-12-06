@@ -1,0 +1,141 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": 2,
+    "ratingValue": 5
+  },
+  "articleSection": "Recipes",
+  "brand": {
+    "@type": "Thing",
+    "name": "The Kitchn"
+  },
+  "createdAt": "2022-12-06T04:50:58.377Z",
+  "creator": {
+    "@type": "Person",
+    "name": "Christine Gallary"
+  },
+  "dateCreated": "2017-05-29T12:30:00-04:00",
+  "dateModified": "2020-01-29T01:37:24-05:00",
+  "datePublished": "2017-05-29T12:30:00-04:00",
+  "description": "Grated zucchini and fresh basil partner up in this creamy Parmesan risotto.",
+  "headline": "Recipe: Summer Squash Risotto",
+  "HowtoTip": {
+    "text": "Storage: Leftovers can be stored in an airtight container in the refrigerator for up to 5 days."
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "https://cdn.apartmenttherapy.info/image/upload/f_jpg,q_auto:eco,c_fill,g_auto,w_1500,ar_16:9/k%2Farchive%2F4a89bcaa7556e85b4e9d5b92db3754485675258a"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "https://cdn.apartmenttherapy.info/image/upload/f_jpg,q_auto:eco,c_fill,g_auto,w_1500,ar_4:3/k%2Farchive%2F4a89bcaa7556e85b4e9d5b92db3754485675258a"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "https://cdn.apartmenttherapy.info/image/upload/f_jpg,q_auto:eco,c_fill,g_auto,w_1500,ar_1:1/k%2Farchive%2F4a89bcaa7556e85b4e9d5b92db3754485675258a"
+    }
+  ],
+  "keywords": [
+    "appetizer",
+    "cheese",
+    "dinner",
+    "garlic",
+    "Gluten-Free",
+    "herbs",
+    "italian",
+    "Main Dish",
+    "Olive Oil",
+    "onions",
+    "recipe",
+    "Rice & Grains",
+    "risotto",
+    "stovetop",
+    "summer",
+    "vegetables",
+    "vegetarian",
+    "european",
+    "course:main dish",
+    "course:appetizer",
+    "dishtype:risotto",
+    "cuisine:europe",
+    "cuisine:italian",
+    "method:stovetop",
+    "diet:vegetarian",
+    "diet:low-calorie",
+    "diet:gluten-free",
+    "diet:under 500 calories",
+    "diet:low-fat",
+    "diet:under 400 calories",
+    "meal:dinner",
+    "updated:2020-01-29"
+  ],
+  "name": "Recipe: Summer Squash Risotto",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "394 cal",
+    "carbohydrateContent": "59.6 g",
+    "cholesterolContent": "0 mg",
+    "fatContent": "10.9 g",
+    "fiberContent": "3.5 g",
+    "proteinContent": "7.4 g",
+    "saturatedFatContent": "2.2 g",
+    "servingSize": "Serves 6",
+    "sodiumContent": "118.0 mg",
+    "sugarContent": "3.0 g",
+    "unsaturatedFatContent": "0.0 g"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "logo": {
+      "@type": "ImageObject",
+      "height": 46,
+      "url": "https://www.thekitchn.com/static/logos/publisher-logo.png",
+      "width": 180
+    },
+    "name": "Apartment Therapy, LLC."
+  },
+  "recipeCategory": "Main dish",
+  "recipeCuisine": "Europe",
+  "recipeIngredient": [
+    "2 quarts (8 cups) low-sodium chicken or vegetable broth",
+    "1/4 cup olive oil",
+    "1 medium yellow onion, finely chopped",
+    "Kosher salt",
+    "Freshly ground white or black pepper",
+    "2 cups Arborio or Carnaroli rice",
+    "1 cup dry white wine",
+    "1 pound zucchini or summer squash, or combination",
+    "1/4 cup finely grated Parmesan cheese",
+    "1/4 cup thinly sliced fresh basil leaves",
+    "Parmesan cheese shavings, as garnish (optional)"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Place the broth in a medium saucepan over low heat and keep it at a very low simmer."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Heat the oil in a large, wide pot or Dutch oven over medium heat until shimmering. Add the onion and a large pinch each of salt and pepper and cook, stirring often, until the onion is softened, about 5 minutes. Add the rice and toast, stirring occasionally, until the kernels start to make a crackling sound, 1 to 2 minutes. Add the wine and simmer, stirring often, until completely absorbed, 2 to 4 minutes."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Pour a ladleful of the simmering broth over the rice. Let simmer, stirring frequently, until the rice absorbs the liquid. Continue adding broth a ladleful at a time, stirring and letting it absorb, until the rice is al dente, about 20 to 30 minutes (you might not use up all of the broth). Meanwhile, grate the zucchini or summer squash on the large holes of a box grater; set aside."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "When the rice is almost ready (2 to 3 minutes before), stir in the summer squash and continue cooking. When the rice is al dente, remove from heat and stir in the grated Parmesan and basil. Taste and season with more salt and pepper as needed. Serve immediately, topped with Parmesan shavings if using."
+    }
+  ],
+  "recipeYield": 6,
+  "sameAs": [
+    "https://thekitchn.com/recipe-summer-squash-risotto-244637"
+  ],
+  "suitableforDiet": "https://schema.org/GlutenFreeDiet,https://schema.org/LowCalorieDiet,https://schema.org/LowFatDiet,https://schema.org/VegetarianDiet",
+  "thumbnailUrl": "https://cdn.apartmenttherapy.info/image/upload/f_auto,q_auto:eco,c_fill,g_auto,w_1500,ar_3:2/k%2Farchive%2F4a89bcaa7556e85b4e9d5b92db3754485675258a",
+  "totalTime": "PT0S",
+  "updatedAt": "2022-12-06T04:50:58.376Z",
+  "url": "https://www.thekitchn.com/recipe-summer-squash-risotto-244637"
+}

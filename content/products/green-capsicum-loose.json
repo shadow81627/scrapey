@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "Approx. 250g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$10.90 per 1Kg"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2022-12-05T21:18:55.309Z",
+  "description": "Coles Green Capsicum Loose",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/7/2/1/7214862.jpg",
+  "name": "Green Capsicum Loose",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2.73,
+    "lowPrice": 2.73,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-05T21:18:55.308Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "2.73",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/capsicum-green-loose"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/capsicum-green-loose"
+  ],
+  "sku": "7214862",
+  "updatedAt": "2022-12-05T21:18:55.308Z"
+}

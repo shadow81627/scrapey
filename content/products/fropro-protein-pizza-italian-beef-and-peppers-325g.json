@@ -1,0 +1,59 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "Approx.1284kJ",
+      "carbohydrateContent": "Approx.25.8g",
+      "dietary_fibre": "-",
+      "fatContent": "Approx.11.5g",
+      "name": "nutrition",
+      "proteinContent": "Approx.25g",
+      "saturatedFatContent": "Approx.4.6g",
+      "servingSize": "100 g",
+      "sodiumContent": "Approx.855mg",
+      "sugarContent": "Approx.2.8g"
+    }
+  ],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Fropro"
+  },
+  "createdAt": "2022-12-05T22:05:14.342Z",
+  "gtin13": "9350539099008",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/203580.jpg",
+  "name": "Fropro Protein Pizza Italian Beef & Peppers 325g",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 12,
+    "lowPrice": 12,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/OutOfStock",
+        "availabilityStarts": "2022-12-05T22:05:14.341Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 12,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/203580/fropro-protein-pizza-italian-beef-peppers"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/203580/fropro-protein-pizza-italian-beef-peppers"
+  ],
+  "sku": "203580",
+  "updatedAt": "2022-12-05T22:05:14.341Z"
+}

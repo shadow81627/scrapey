@@ -1,0 +1,50 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "200g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$2.25 per 100G"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Made in France"
+    }
+  ],
+  "brand": "Toscano",
+  "createdAt": "2022-12-05T22:48:46.613Z",
+  "description": "Toscano Brioche Burger Bun",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/5/7/5574787.jpg",
+  "name": "Brioche Burger Bun",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 4.5,
+    "lowPrice": 4.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/OutOfStock",
+        "availabilityStarts": "2022-12-05T22:48:46.612Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "4.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/burger-bun"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/burger-bun"
+  ],
+  "sku": "5574787",
+  "updatedAt": "2022-12-05T22:48:46.612Z"
+}

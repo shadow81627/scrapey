@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Warning",
+      "value": "Do not use hot dishes on cold/wet surfaces, add liquids in hot dishes, on top of stove, abrasives, scourers powders."
+    },
+    {
+      "name": "Unit Price",
+      "value": "$6.00 per 1Ea"
+    }
+  ],
+  "brand": "Pyrex",
+  "createdAt": "2022-12-05T14:28:50.079Z",
+  "description": "Pyrex Classic Glass Bowl 1L",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/3/0/5306573.jpg",
+  "name": "Classic Glass Bowl 1L",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 6,
+    "lowPrice": 6,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-05T14:28:50.079Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "6.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/pyrex-mixing-bowl-1-litre"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/pyrex-mixing-bowl-1-litre"
+  ],
+  "sku": "5306573",
+  "updatedAt": "2022-12-05T14:28:50.079Z"
+}

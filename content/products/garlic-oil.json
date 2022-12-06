@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "250mL"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$3.08 per 100mL"
+    }
+  ],
+  "brand": "Cobram",
+  "createdAt": "2022-12-05T05:12:41.136Z",
+  "description": "Cobram Garlic Oil",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/8/2/3823938.jpg",
+  "name": "Garlic Oil",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 7.7,
+    "lowPrice": 7.7,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-05T05:12:41.136Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "7.70",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/cobram-garlic-oil-"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/cobram-garlic-oil-"
+  ],
+  "sku": "3823938",
+  "updatedAt": "2022-12-05T05:12:41.136Z"
+}

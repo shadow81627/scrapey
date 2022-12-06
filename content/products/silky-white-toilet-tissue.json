@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "16 pack"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.49 per 100Ea"
+    }
+  ],
+  "brand": "Sorbent",
+  "createdAt": "2022-12-06T00:35:09.872Z",
+  "description": "Sorbent Silky White Toilet Tissue",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/9/7/3974092.jpg",
+  "name": "Silky White Toilet Tissue",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 14,
+    "lowPrice": 14,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T00:35:09.872Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "14.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/silky-white"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/silky-white"
+  ],
+  "sku": "3974092",
+  "updatedAt": "2022-12-06T00:35:09.872Z"
+}

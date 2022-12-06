@@ -1,0 +1,70 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Peanut Oil."
+    },
+    {
+      "name": "Contains",
+      "value": "Peanuts"
+    },
+    {
+      "name": "Allergen",
+      "value": "May Be Present Sesame, May Be Present Tree Nuts, Contains Peanuts"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "50.0"
+    },
+    {
+      "name": "Warning",
+      "value": "Oil will become cloudy at low temperatures."
+    },
+    {
+      "name": "Size",
+      "value": "750mL"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.07 per 100mL"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Packed in Singapore"
+    }
+  ],
+  "brand": "Crisco",
+  "createdAt": "2022-12-05T05:10:04.915Z",
+  "description": "Crisco Peanut Oil",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/0/1/301404.jpg",
+  "name": "Peanut Oil",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 8,
+    "lowPrice": 8,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-05T05:10:04.914Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "8.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/crisco-peanut-oil-301404p"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/crisco-peanut-oil-301404p"
+  ],
+  "sku": "301404",
+  "updatedAt": "2022-12-05T05:10:04.914Z"
+}

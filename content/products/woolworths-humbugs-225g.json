@@ -1,0 +1,65 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "Approx.415kJ",
+      "carbohydrateContent": "Approx.24.4g",
+      "dietary_fibre": "-",
+      "fatContent": "&lt;0.1g",
+      "name": "nutrition",
+      "proteinContent": "&lt;0.1g",
+      "saturatedFatContent": "&lt;0.1g",
+      "servingSize": "100 g",
+      "sodiumContent": "&lt;5mg",
+      "sugarContent": "Approx.14.6g"
+    }
+  ],
+  "aggregateRating": {
+    "@context": "http://schema.org",
+    "@type": "AggregateRating",
+    "ratingCount": 450,
+    "ratingValue": 3.75777777777778
+  },
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Woolworths"
+  },
+  "createdAt": "2022-12-06T05:28:04.063Z",
+  "description": "Confectionery\n\nTake yourself back in time with these traditional aniseed flavoured sweets.",
+  "gtin13": "9300633645571",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/592098.jpg",
+  "name": "Woolworths Humbugs 225G",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": null,
+    "lowPrice": null,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/OutOfStock",
+        "availabilityStarts": "2022-12-06T05:28:04.060Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/592098/woolworths-humbugs"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/592098/woolworths-humbugs"
+  ],
+  "sku": "592098",
+  "updatedAt": "2022-12-06T05:28:04.060Z"
+}

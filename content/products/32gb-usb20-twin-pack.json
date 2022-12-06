@@ -1,0 +1,42 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Unit Price",
+      "value": "$28.00 per 1Ea"
+    }
+  ],
+  "brand": "Dynabook",
+  "createdAt": "2022-12-04T23:51:24.193Z",
+  "description": "Dynabook 32GB USB2.0 Twin Pack",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/2/5/5256985.jpg",
+  "name": "32GB USB2.0 Twin Pack",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 28,
+    "lowPrice": 28,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/OutOfStock",
+        "availabilityStarts": "2022-12-04T23:51:24.192Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "28.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/twin-pack-usb2-0"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/twin-pack-usb2-0"
+  ],
+  "sku": "5256985",
+  "updatedAt": "2022-12-04T23:51:24.192Z"
+}

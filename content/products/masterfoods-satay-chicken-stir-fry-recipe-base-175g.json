@@ -1,0 +1,60 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "131.0kJ",
+      "carbohydrateContent": "5.8g",
+      "dietary_fibre": "0.99g",
+      "fatContent": "0.5g",
+      "name": "nutrition",
+      "proteinContent": "0.7g",
+      "saturatedFatContent": "0.3g",
+      "servingSize": "100 g",
+      "sodiumContent": "411.0mg",
+      "sugarContent": "3.2g"
+    }
+  ],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "MasterFoods"
+  },
+  "createdAt": "2022-12-05T08:01:37.681Z",
+  "description": "<p>Make home cooking EASY with delicious MasterFoods Satay Chicken Stir Fry Recipe Base<br/><br/>Enjoy the classic satay flavours the whole family loves with MasterFoods™ Satay Chicken Stir Fry Recipe Base. Made with a carefully crafted blend of coconut, herbs and spices to deliver a rich, creamy satay sauce.<br/><br/>- Blended with MasterFoods™ Herbs & Spices<br/><br/>- No Artificial Colours or Flavours<br/> </p>",
+  "gtin13": "9310012035824",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/345635.jpg",
+  "name": "Masterfoods Satay Chicken Stir Fry Recipe Base 175G",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2.8,
+    "lowPrice": 2.8,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-12-05T08:01:37.680Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 2.8,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/345635/masterfoods-satay-chicken-stir-fry-recipe-base"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/345635/masterfoods-satay-chicken-stir-fry-recipe-base"
+  ],
+  "sku": "345635",
+  "updatedAt": "2022-12-05T08:01:37.680Z"
+}

@@ -1,0 +1,50 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Contains",
+      "value": "9Pk"
+    },
+    {
+      "name": "Size",
+      "value": "9 pack"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.11 per 1Ea"
+    }
+  ],
+  "brand": "Tena",
+  "createdAt": "2022-12-06T04:26:22.784Z",
+  "description": "Tena Men Active Fit Plus Navy Medium Pants",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/7/6/3760317.jpg",
+  "name": "Men Active Fit Plus Navy Medium Pants",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 10.01,
+    "lowPrice": 10.01,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T04:26:22.783Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "10.01",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/incontinence-pants-medium"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/incontinence-pants-medium"
+  ],
+  "sku": "3760317",
+  "updatedAt": "2022-12-06T04:26:22.783Z"
+}

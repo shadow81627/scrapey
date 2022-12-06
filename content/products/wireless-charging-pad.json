@@ -1,0 +1,50 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Contains",
+      "value": "FSC MATERIALS"
+    },
+    {
+      "name": "Size",
+      "value": "1 pack"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$20.80 per 1Ea"
+    }
+  ],
+  "brand": "Our Pure Planet",
+  "createdAt": "2022-12-05T01:30:04.745Z",
+  "description": "Our Pure Planet Wireless Charging Pad",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/7/4/3740477.jpg",
+  "name": "Wireless Charging Pad",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 20.8,
+    "lowPrice": 20.8,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-05T01:30:04.744Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "20.80",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/our-pure-planet-wireless-charging-pad"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/our-pure-planet-wireless-charging-pad"
+  ],
+  "sku": "3740477",
+  "updatedAt": "2022-12-05T01:30:04.744Z"
+}

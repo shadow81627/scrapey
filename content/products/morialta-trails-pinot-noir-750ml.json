@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Morialta Trails"
+  },
+  "createdAt": "2022-12-05T22:33:21.011Z",
+  "description": "Led by fresh red berry fruits and nuances of spice, Morialta Trails Pinot Noir is a delicious fruity blend finished with a silky tannin. With an enticing cherry brick colour, this wine is deliciously light and packed with flavour.<br><br><strong>Varietal: </strong>Pinot Noir<br><strong>Liquor Style: </strong>Medium Bodied Red<br><strong>Region Of Origin: </strong>Adelaide Hills<br><strong>Country Of Origin: </strong>Australia<br><strong>Vintage: </strong>2018*<br><strong>Alcohol %: </strong>14.5<br><strong>Standard Drinks: </strong>8.6<br><br><em>*Vintage may vary from store to store</em>",
+  "gtin13": "9339687089345",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/876527.jpg",
+  "name": "Morialta Trails Pinot Noir 750mL",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 23,
+    "lowPrice": 23,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-12-05T22:33:21.011Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 23,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/876527/morialta-trails-pinot-noir"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/876527/morialta-trails-pinot-noir"
+  ],
+  "sku": "876527",
+  "updatedAt": "2022-12-05T22:33:21.011Z"
+}

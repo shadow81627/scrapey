@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Bundaberg"
+  },
+  "createdAt": "2022-12-05T20:51:22.521Z",
+  "description": "Bundaberg Rum Underproof is an Aussie classic. It's made from 100% Queensland sugar cane and aged for a minimum of two years, it's been a much loved rum in Australia since it was first produced in 1888.<br><br><strong>Spirit Type: </strong>Rum<br><strong>Varietal: </strong>Overproof Rum<br><strong>Alcohol %: </strong>37<br><strong>Standard Drinks: </strong>20<br><strong>Country Of Origin: </strong>Australia",
+  "gtin13": "9311866005049",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/091195.jpg",
+  "name": "Bundaberg Underproof Rum 700mL",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 42,
+    "lowPrice": 42,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-12-05T20:51:22.520Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 42,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/91195/bundaberg-underproof-rum"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/91195/bundaberg-underproof-rum"
+  ],
+  "sku": "91195",
+  "updatedAt": "2022-12-05T20:51:22.520Z"
+}

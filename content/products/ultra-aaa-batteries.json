@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "20 pack"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.23 per 1Ea"
+    }
+  ],
+  "brand": "Duracell",
+  "createdAt": "2022-12-05T10:59:49.639Z",
+  "description": "Duracell Ultra Last up to 100% longer* *vs. ordinary carbon zinc AA/AAA batteries in 2015 IEC tests. Results may vary by device and usage pattern",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/7/4/3742224.jpg",
+  "name": "Ultra AAA Batteries",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 24.5,
+    "lowPrice": 24.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-05T10:59:49.638Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "24.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/duracell-ultra-a-20-pack-3742224p"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/duracell-ultra-a-20-pack-3742224p"
+  ],
+  "sku": "3742224",
+  "updatedAt": "2022-12-05T10:59:49.638Z"
+}

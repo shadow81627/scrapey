@@ -1,0 +1,72 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1",
+    "ratingValue": "5"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Oh My Veggies"
+  },
+  "cookTime": "PT10M",
+  "createdAt": "2022-12-04T14:48:32.365Z",
+  "datePublished": "2019-03-15T06:00:06+00:00",
+  "description": "A vegetarian pesto pizza topped with cremini mushrooms, roasted red peppers, and shaved asparagus.",
+  "image": [
+    "https://ohmyveggies.com/wp-content/uploads/2012/03/pesto_pizza_with_roasted_red_peppers_cremini_mushrooms_and_asparagus.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2012/03/pesto_pizza_with_roasted_red_peppers_cremini_mushrooms_and_asparagus-500x367.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2012/03/pesto_pizza_with_roasted_red_peppers_cremini_mushrooms_and_asparagus-480x270.jpg"
+  ],
+  "keywords": "pesto pizza, vegetarian pesto pizza, vegetarian pizza",
+  "name": "Pesto Pizza with Red Peppers, Mushrooms, & Asparagus",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "314 kcal",
+    "carbohydrateContent": "35 g",
+    "cholesterolContent": "13 mg",
+    "fatContent": "14 g",
+    "fiberContent": "2 g",
+    "proteinContent": "11 g",
+    "saturatedFatContent": "5 g",
+    "servingSize": "1 slice",
+    "sodiumContent": "739 mg",
+    "sugarContent": "2 g",
+    "unsaturatedFatContent": "2 g"
+  },
+  "prepTime": "PT15M",
+  "recipeCategory": "Main Course",
+  "recipeCuisine": "American",
+  "recipeIngredient": [
+    "1 prepared pizza crust",
+    "1 tsp olive oil",
+    "4 cremini mushrooms (sliced)",
+    "1/2 cup prepared pesto",
+    "3/4 cup Italian blend or Mozzarella cheese",
+    "1/3 cup roasted red peppers (sliced)",
+    "4 asparagus stalks (tips cut off and sliced into ribbons with a vegetable peeler)"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Preheat oven to temperature indicated on pizza crust. Place pizza crust on baking sheet."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Heat olive oil in a small skillet over medium heat. Add mushrooms and cook about 5 minutes, or until softened."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Spread pesto evenly onto pizza crust. Top with cheese, mushrooms, red peppers, and asparagus tips and ribbons. Bake until asparagus has softened and cheese has melted, about 10 minutes."
+    }
+  ],
+  "recipeYield": "6",
+  "sameAs": [
+    "https://ohmyveggies.com/pesto-pizza-with-red-peppers-mushrooms-asparagus"
+  ],
+  "suitableForDiet": [
+    "https://schema.org/VegetarianDiet"
+  ],
+  "totalTime": "PT25M",
+  "updatedAt": "2022-12-04T14:48:32.365Z"
+}

@@ -1,0 +1,60 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "1920kJ",
+      "carbohydrateContent": "56.7g",
+      "dietary_fibre": "11.2g",
+      "fatContent": "14.0g",
+      "name": "nutrition",
+      "proteinContent": "20.7g",
+      "saturatedFatContent": "3.9g",
+      "servingSize": "100 g",
+      "sodiumContent": "651mg",
+      "sugarContent": "6.0g"
+    }
+  ],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "V2"
+  },
+  "createdAt": "2022-12-05T21:40:08.024Z",
+  "description": "<p>Plant-based v2 Chilli Con Carne is flavourful, made with v2mince & beans in a spiced Mexican inspired tomato based sauce with capsicum & rice. Ready in minutes with great taste.<BR><BR>At v2, we’re all about great tasting food and that’s something we can all agree on. Say hello to our newest tasty DINNER TIMESAVER!<br/><br/><span id=\"selectionBoundary_1650950996534_6882555861680533\" class=\"rangySelectionBoundary\">?</span>Did we mention that we’re also PACKED WITH FLAVOUR? Enjoy!<BR><BR>Ready in minutes. Great taste.<BR><BR>Good for you. Healthy choice.<BR><BR>Animal-free. Soy-based.</p>",
+  "gtin13": "9356418001131",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/215734.jpg",
+  "name": "V2 Plant Based Chilli Con Carne 350g",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 9,
+    "lowPrice": 9,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-12-05T21:40:08.023Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 9,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/215734/v2-plant-based-chilli-con-carne"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/215734/v2-plant-based-chilli-con-carne"
+  ],
+  "sku": "215734",
+  "updatedAt": "2022-12-05T21:40:08.023Z"
+}

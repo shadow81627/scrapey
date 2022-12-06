@@ -1,0 +1,45 @@
+{
+  "@type": "Product",
+  "additionalProperty": [],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Baby Bellies"
+  },
+  "createdAt": "2022-12-06T01:29:26.510Z",
+  "gtin13": "9337824002219",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/627754.jpg",
+  "name": "Baby Bellies Organic Softcorn Banana 8G",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2,
+    "lowPrice": 2,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T01:29:26.510Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 2,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/627754/baby-bellies-organic-softcorn-banana"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/627754/baby-bellies-organic-softcorn-banana"
+  ],
+  "sku": "627754",
+  "updatedAt": "2022-12-06T01:29:26.510Z"
+}

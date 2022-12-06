@@ -1,0 +1,65 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "950.00kJ",
+      "carbohydrateContent": "12.90g",
+      "dietary_fibre": "1.06g",
+      "fatContent": "11.10g",
+      "name": "nutrition",
+      "proteinContent": "18.90g",
+      "saturatedFatContent": "1.40g",
+      "servingSize": "100 g",
+      "sodiumContent": "522.00mg",
+      "sugarContent": "1.20g"
+    }
+  ],
+  "aggregateRating": {
+    "@context": "http://schema.org",
+    "@type": "AggregateRating",
+    "ratingCount": 492,
+    "ratingValue": 4.17479674796748
+  },
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Chicken Sandwich"
+  },
+  "createdAt": "2022-12-05T21:29:27.013Z",
+  "gtin13": "0271921000008",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/666237.jpg",
+  "name": "Chicken Sandwich Chicken Sandwich Schnitzel Each",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 1.25,
+    "lowPrice": 1.25,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/OutOfStock",
+        "availabilityStarts": "2022-12-05T21:29:27.010Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 1.25,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/666237/chicken-sandwich-chicken-sandwich-schnitzel"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/666237/chicken-sandwich-chicken-sandwich-schnitzel"
+  ],
+  "sku": "666237",
+  "updatedAt": "2022-12-05T21:29:27.010Z"
+}

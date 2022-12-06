@@ -1,0 +1,50 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Contains",
+      "value": "24Pk"
+    },
+    {
+      "name": "Size",
+      "value": "24 pack"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.16 per 1Ea"
+    }
+  ],
+  "brand": "Tena",
+  "createdAt": "2022-12-06T04:19:14.881Z",
+  "description": "Tena Active Extra Long Liners",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/6/7/9/6792058.jpg",
+  "name": "Active Extra Long Liners",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3.85,
+    "lowPrice": 3.85,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T04:19:14.881Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "3.85",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/tena-active-incontinence-liners-extra-long"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/tena-active-incontinence-liners-extra-long"
+  ],
+  "sku": "6792058",
+  "updatedAt": "2022-12-06T04:19:14.881Z"
+}

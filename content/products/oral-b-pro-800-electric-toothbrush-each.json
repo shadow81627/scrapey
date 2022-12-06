@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Oral-B"
+  },
+  "createdAt": "2022-12-06T04:55:21.155Z",
+  "description": "Oral-B Pro 800 Electric Toothbrush helps remove up to 100% more plaque vs a regular manual toothbrush.<br><br>* Cleaning Action: 3D * Cleaning Mode: 1 - Daily Clean * Quadrant Timer: 4 x 30 seconds to help brush the recommended 2 minutes per day<br><br>Pressure Sensor<br><br>Electric Toothbrush Brush Head Rotations/min: Up to 8,800<br><br>Oscillations/min: Up to 20,000<br><br>Battery Life: Up to 10 days (2 min/2x day)<br><br>Waterproof Handle<br><br>1 Refill: Cross Action<br><br>Travel Case",
+  "gtin13": "4902430484855",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/083607.jpg",
+  "name": "Oral-b Pro 800 Electric Toothbrush Each",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 45,
+    "lowPrice": 45,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T04:55:21.154Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 45,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/83607/oral-b-pro-800-electric-toothbrush"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/83607/oral-b-pro-800-electric-toothbrush"
+  ],
+  "sku": "83607",
+  "updatedAt": "2022-12-06T04:55:21.154Z"
+}

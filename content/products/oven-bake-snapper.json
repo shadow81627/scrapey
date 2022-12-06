@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "270g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$40.74 per 1Kg"
+    }
+  ],
+  "brand": "Birds Eye",
+  "createdAt": "2022-12-05T03:27:27.786Z",
+  "description": "Birds Eye Oven Bake Snapper",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/4/8/5489509.jpg",
+  "name": "Oven Bake Snapper",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 11,
+    "lowPrice": 11,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/OutOfStock",
+        "availabilityStarts": "2022-12-05T03:27:27.786Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "11.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/snapper"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/snapper"
+  ],
+  "sku": "5489509",
+  "updatedAt": "2022-12-05T03:27:27.786Z"
+}

@@ -1,0 +1,77 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1",
+    "ratingValue": "5"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Oh My Veggies"
+  },
+  "cookTime": "PT15M",
+  "createdAt": "2022-12-04T23:31:15.420Z",
+  "datePublished": "2015-11-05T07:41:00+00:00",
+  "description": "Sweet and spicy roasted Brussels sprouts flavored with maple syrup and chipotle peppers. A simple, easy side dish.",
+  "image": [
+    "https://ohmyveggies.com/wp-content/uploads/2015/11/Smoky_maple_chipotle_brussels_sprouts3.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2015/11/Smoky_maple_chipotle_brussels_sprouts3-500x400.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2015/11/Smoky_maple_chipotle_brussels_sprouts3-500x375.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2015/11/Smoky_maple_chipotle_brussels_sprouts3-480x270.jpg"
+  ],
+  "keywords": "easy side dish, Smoky Maple Chipotle Brussels Sprouts, vegetarian side dish",
+  "name": "Smoky Maple Chipotle Brussels Sprouts",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "159 kcal",
+    "carbohydrateContent": "20 g",
+    "fatContent": "8 g",
+    "fiberContent": "5 g",
+    "proteinContent": "5 g",
+    "saturatedFatContent": "1 g",
+    "servingSize": "1 serving",
+    "sodiumContent": "177 mg",
+    "sugarContent": "10 g",
+    "unsaturatedFatContent": "7 g"
+  },
+  "prepTime": "PT10M",
+  "recipeCategory": "Side Dish",
+  "recipeCuisine": "American",
+  "recipeIngredient": [
+    "1 large shallot (diced)",
+    "1 pound Brussels sprouts (trimmed and halved lengthwise (quartered if large)",
+    "1 tablespoon olive oil",
+    "2 tablespoons maple syrup",
+    "1 teaspoon minced chipotle peppers in adobo sauce",
+    "1 large clove garlic (minced)",
+    "1/4 to 1/2 teaspoon salt",
+    "1/4 cup raw pecans (chopped)"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Preheat the oven to 400oF."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add the shallot and Brussels sprouts to a rimmed baking sheet."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "In a small bowl, whisk together the olive oil, maple syrup, chipotle peppers, garlic and salt. Drizzle the mixture over the veggies on the baking sheet, mix to combine and spread in an even layer."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Bake for about 15 minutes, stirring once halfway through, until tender. Sprinkle with the pecans."
+    }
+  ],
+  "recipeYield": "4",
+  "sameAs": [
+    "https://ohmyveggies.com/smoky-maple-chipotle-brussels-sprouts"
+  ],
+  "suitableForDiet": [
+    "https://schema.org/VegetarianDiet"
+  ],
+  "totalTime": "PT25M",
+  "updatedAt": "2022-12-04T23:31:15.420Z"
+}

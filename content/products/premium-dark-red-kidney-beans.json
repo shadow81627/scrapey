@@ -1,0 +1,58 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Kidney Beans."
+    },
+    {
+      "name": "Allergen",
+      "value": "May Contain Nuts, May Contain Gluten"
+    },
+    {
+      "name": "Warning",
+      "value": "May contain traces of Nuts. May contain Stones, Husks, and Products with Gluten."
+    },
+    {
+      "name": "Size",
+      "value": "1kg"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$6.10 per 1Kg"
+    }
+  ],
+  "brand": "Gaganis",
+  "createdAt": "2022-12-04T15:53:29.159Z",
+  "description": "Gaganis Premium Dark Red Kidney Beans",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/6/9/8/6984106.jpg",
+  "name": "Premium Dark Red Kidney Beans",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 6.1,
+    "lowPrice": 6.1,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-04T15:53:29.159Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "6.10",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/gaganis-beans-red-kidney-dark"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/gaganis-beans-red-kidney-dark"
+  ],
+  "sku": "6984106",
+  "updatedAt": "2022-12-04T15:53:29.159Z"
+}

@@ -1,0 +1,66 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "382.00kJ",
+      "carbohydrateContent": "10.80g",
+      "dietary_fibre": "1.7g",
+      "fatContent": "4.90g",
+      "name": "nutrition",
+      "proteinContent": "0.90g",
+      "saturatedFatContent": "2.60g",
+      "servingSize": "100 g",
+      "sodiumContent": "14.00mg",
+      "sugarContent": "5.80g"
+    }
+  ],
+  "aggregateRating": {
+    "@context": "http://schema.org",
+    "@type": "AggregateRating",
+    "ratingCount": 620,
+    "ratingValue": 4.36612903225806
+  },
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Woolworths"
+  },
+  "createdAt": "2022-12-05T14:17:30.241Z",
+  "description": "<p>- No artificial colours or flavours.</p>",
+  "gtin13": "9300633532093",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/497649.jpg",
+  "name": "Woolworths Chocolate Creme Wafers 125G",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 0.8,
+    "lowPrice": 0.8,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-12-05T14:17:30.238Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 0.8,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/497649/woolworths-chocolate-creme-wafers"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/497649/woolworths-chocolate-creme-wafers"
+  ],
+  "sku": "497649",
+  "updatedAt": "2022-12-05T14:17:30.238Z"
+}

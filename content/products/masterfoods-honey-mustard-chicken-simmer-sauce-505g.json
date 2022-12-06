@@ -1,0 +1,60 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "Per126g serve sauce: 638 kJ",
+      "carbohydrateContent": "Per126g serve sauce: 20.2 g",
+      "dietary_fibre": "2.14g",
+      "fatContent": "Per126g serve sauce: 6.4 g",
+      "name": "nutrition",
+      "proteinContent": "Per126g serve sauce: 3.0 g",
+      "saturatedFatContent": "Per126g serve sauce: 0.6 g",
+      "servingSize": "100 g",
+      "sodiumContent": "Per126g serve sauce: 464 mg",
+      "sugarContent": "Per126g serve sauce: 14.6 g"
+    }
+  ],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "MasterFoods"
+  },
+  "createdAt": "2022-12-05T08:21:16.675Z",
+  "description": "Crack the lid and let MasterFoods™ Honey Mustard Chicken Cooking Sauce transform your dish into a flavour packed family favourite<BR><BR>Create a delicious dinner with the ultimate crowd pleaser MasterFoods™ Honey Mustard Chicken Cooking Sauce Made with quality wholegrain mustard sweet honey and a touch of garlic its sure to be a dinner favourite<BR><BR>No Artificial Colours Flavours or Preservatives<BR><BR>Created with real MasterFoods™ Herbs  Spices",
+  "gtin13": "9310012041597",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/764856.jpg",
+  "name": "Masterfoods Honey Mustard Chicken Simmer Sauce 505G",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 4.5,
+    "lowPrice": 4.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-12-05T08:21:16.674Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 4.5,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/764856/masterfoods-honey-mustard-chicken-simmer-sauce"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/764856/masterfoods-honey-mustard-chicken-simmer-sauce"
+  ],
+  "sku": "764856",
+  "updatedAt": "2022-12-05T08:21:16.674Z"
+}

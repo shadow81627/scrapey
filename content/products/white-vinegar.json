@@ -1,0 +1,58 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "White vinegar (Naturally brewed from fermented spirit)."
+    },
+    {
+      "name": "Contains",
+      "value": "White vinegar (naturally brewed from fermented spirit)"
+    },
+    {
+      "name": "Dietary",
+      "value": "No Preservatives"
+    },
+    {
+      "name": "Size",
+      "value": "375mL"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.57 per 100mL"
+    }
+  ],
+  "brand": "Cornwell's",
+  "createdAt": "2022-12-06T00:05:55.789Z",
+  "description": "Cornwell's White Vinegar",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/4/3/2/432763.jpg",
+  "name": "White Vinegar",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2.15,
+    "lowPrice": 2.15,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T00:05:55.788Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "2.15",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/cornwells-vinegar-white"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/cornwells-vinegar-white"
+  ],
+  "sku": "432763",
+  "updatedAt": "2022-12-06T00:05:55.788Z"
+}

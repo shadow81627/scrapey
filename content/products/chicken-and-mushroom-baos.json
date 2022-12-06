@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "250g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$3.20 per 100G"
+    }
+  ],
+  "brand": "Diana Chan's",
+  "createdAt": "2022-12-05T07:15:11.754Z",
+  "description": "Diana Chan's Chicken & Mushroom Baos",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/3/0/5309301.jpg",
+  "name": "Chicken & Mushroom Baos",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 8,
+    "lowPrice": 8,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/OutOfStock",
+        "availabilityStarts": "2022-12-05T07:15:11.754Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "8.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/chicken-mushroom-baos"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/chicken-mushroom-baos"
+  ],
+  "sku": "5309301",
+  "updatedAt": "2022-12-05T07:15:11.754Z"
+}

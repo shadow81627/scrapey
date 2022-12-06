@@ -1,0 +1,58 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Pasteurized Milk, Salt, Starter Cultures, Non animal rennet"
+    },
+    {
+      "name": "Allergen",
+      "value": "Contains Milk"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "20.0"
+    },
+    {
+      "name": "Size",
+      "value": "500g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$21.80 per 1Kg"
+    }
+  ],
+  "brand": "Cheer",
+  "createdAt": "2022-12-05T08:00:30.099Z",
+  "description": "Our CHEER Mozzarella is perfectly stretchy for use in paninis, wraps, toasties & lasagnes. Mild Creamy flavour, for that perfect stretch.",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/4/3/8/4387627.jpg",
+  "name": "Mozzarella Cheese Block",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 10.9,
+    "lowPrice": 10.9,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-05T08:00:30.098Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "10.90",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/chese-block"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/chese-block"
+  ],
+  "sku": "4387627",
+  "updatedAt": "2022-12-05T08:00:30.098Z"
+}

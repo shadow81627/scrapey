@@ -1,0 +1,50 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "INGREDIENTS: Chicken, Liver, Potato Starch, Humectant, Sugar, Salmon Oil, Thickener, Salt, Bamboo Fibre, Potato Fibre, Natural Colour, Beetroot Powder, Green Tea Extract, Preservative, Natural Flavour, Antioxidant."
+    },
+    {
+      "name": "Size",
+      "value": "50g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$4.90 per 100G"
+    }
+  ],
+  "brand": "Purr",
+  "createdAt": "2022-12-05T12:26:44.779Z",
+  "description": "Spoil your feline friend with wide selection of gourmet meals and treats theyll be sure to love",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/8/3/3839778.jpg",
+  "name": "Cat Treat Chicken Dental",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2.45,
+    "lowPrice": 2.45,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-05T12:26:44.779Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "2.45",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/purr-cat-treat-chicken-functional-dental"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/purr-cat-treat-chicken-functional-dental"
+  ],
+  "sku": "3839778",
+  "updatedAt": "2022-12-05T12:26:44.779Z"
+}

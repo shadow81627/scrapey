@@ -1,0 +1,54 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Organic Acai Powder (30%), Blueberry Powder (7%) , Goji Powder (28%), Pomegranate Powder (7%), Inulin, Stevia, Citric Acid, Flavour."
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "10.0"
+    },
+    {
+      "name": "Size",
+      "value": "50g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$27.74 per 100G"
+    }
+  ],
+  "brand": "Nature's Way",
+  "createdAt": "2022-12-05T08:55:00.499Z",
+  "description": "Nature's Way Super Foods Acai",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/1/4/6/1466272.jpg",
+  "name": "Super Foods Acai",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 13.87,
+    "lowPrice": 13.87,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-05T08:55:00.499Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "13.87",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/natures-way-super-foods-acai"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/natures-way-super-foods-acai"
+  ],
+  "sku": "1466272",
+  "updatedAt": "2022-12-05T08:55:00.499Z"
+}

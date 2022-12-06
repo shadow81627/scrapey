@@ -1,0 +1,54 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Cream Cheese (Milk, Cream, Salt, Vegetable Gums (410, 412), Cultures), Honey 9%, Roasted Pistachio 6%, Preservative (200)."
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "4.0"
+    },
+    {
+      "name": "Size",
+      "value": "120g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$3.25 per 100G"
+    }
+  ],
+  "brand": "Moondarra",
+  "createdAt": "2022-12-05T10:23:27.142Z",
+  "description": "Moondarra Honey & Pistachio Cream Cheese",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/0/2/3029767.jpg",
+  "name": "Honey & Pistachio Cream Cheese",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3.9,
+    "lowPrice": 3.9,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-05T10:23:27.142Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "3.90",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/moondarra-cheese-honey-pistachio"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/moondarra-cheese-honey-pistachio"
+  ],
+  "sku": "3029767",
+  "updatedAt": "2022-12-05T10:23:27.142Z"
+}

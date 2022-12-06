@@ -1,0 +1,50 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Warning",
+      "value": "Caution: Sharp cutting edge."
+    },
+    {
+      "name": "Size",
+      "value": "15m"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.29 per 1M"
+    }
+  ],
+  "brand": "Multix",
+  "createdAt": "2022-12-05T16:41:41.496Z",
+  "description": "Multix Greener Brown Baking Paper 15m x 30cm",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/0/2/3026190.jpg",
+  "name": "Greener Brown Baking Paper 15m x 30cm",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 4.4,
+    "lowPrice": 4.4,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-05T16:41:41.495Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "4.40",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/multix-greener-brown-baking-paper"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/multix-greener-brown-baking-paper"
+  ],
+  "sku": "3026190",
+  "updatedAt": "2022-12-05T16:41:41.495Z"
+}

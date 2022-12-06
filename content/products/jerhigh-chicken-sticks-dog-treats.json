@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "100g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$6.00 per 100G"
+    }
+  ],
+  "brand": "Vitapet",
+  "createdAt": "2022-12-04T15:52:45.586Z",
+  "description": "Vitapet Jerhigh Chicken Sticks Dog Treats",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/8/2/5827022.jpg",
+  "name": "Jerhigh Chicken Sticks Dog Treats",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 6,
+    "lowPrice": 6,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-04T15:52:45.585Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "6.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/vitapet-jerhigh-dog-treat-sticks-w-chicken-meat"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/vitapet-jerhigh-dog-treat-sticks-w-chicken-meat"
+  ],
+  "sku": "5827022",
+  "updatedAt": "2022-12-04T15:52:45.585Z"
+}

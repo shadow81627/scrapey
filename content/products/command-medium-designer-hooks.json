@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "2 pack"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$7.40 per 1ea"
+    }
+  ],
+  "brand": "3M",
+  "createdAt": "2022-12-05T21:36:59.189Z",
+  "description": "3M Command Medium Designer Hooks",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/4/4/6/4460625.jpg",
+  "name": "Command Medium Designer Hooks",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 7.4,
+    "lowPrice": 7.4,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-05T21:36:59.188Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "7.40",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/command-medium-designer-hook"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/command-medium-designer-hook"
+  ],
+  "sku": "4460625",
+  "updatedAt": "2022-12-05T21:36:59.188Z"
+}

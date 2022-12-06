@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "350g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$2.57 per 100G"
+    }
+  ],
+  "brand": "Core Power Foods",
+  "createdAt": "2022-12-04T14:56:17.830Z",
+  "description": "Core Power Foods Deep South Beef Chilli",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/5/3/3533938.jpg",
+  "name": "Deep South Beef Chilli",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 9,
+    "lowPrice": 9,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-04T14:56:17.829Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "9.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/core-power-foods-deep-south-beef-chilli"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/core-power-foods-deep-south-beef-chilli"
+  ],
+  "sku": "3533938",
+  "updatedAt": "2022-12-04T14:56:17.829Z"
+}

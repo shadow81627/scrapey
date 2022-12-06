@@ -1,0 +1,42 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Unit Price",
+      "value": "$6.00 per 1Ea"
+    }
+  ],
+  "brand": "Mix",
+  "createdAt": "2022-12-05T15:04:04.448Z",
+  "description": "Mix All Over Shaper Bronze Ave. 15 denier appearance great for the office or everyday wear.",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/4/1/5/4150286.jpg",
+  "name": "All Over Shaper Bronze Average",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 6,
+    "lowPrice": 6,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-05T15:04:04.447Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "6.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/bronze-ave"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/bronze-ave"
+  ],
+  "sku": "4150286",
+  "updatedAt": "2022-12-05T15:04:04.447Z"
+}

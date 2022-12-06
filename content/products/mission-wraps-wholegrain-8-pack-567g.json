@@ -1,0 +1,66 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "Approx.888kJ",
+      "carbohydrateContent": "Approx.29.7g",
+      "dietary_fibre": "Approx.3.8g",
+      "fatContent": "Approx.6.8g",
+      "name": "nutrition",
+      "proteinContent": "Approx.6g",
+      "saturatedFatContent": "Approx.3.3g",
+      "servingSize": "100 g",
+      "sodiumContent": "Approx.639mg",
+      "sugarContent": "Approx.2g"
+    }
+  ],
+  "aggregateRating": {
+    "@context": "http://schema.org",
+    "@type": "AggregateRating",
+    "ratingCount": 1,
+    "ratingValue": 5
+  },
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Mission"
+  },
+  "createdAt": "2022-12-05T21:04:17.105Z",
+  "description": "<p>Mission Wholegrain Super Soft Wraps are super soft and super versatile! Ideal for lunch or dinner, they don’t split, making it easy to wrap and roll anything from a traditional recipe to last night’s leftovers.  They also come in a resealable pack to keep all that goodness and flavour fresher for longer. Mission Wholegrain Super Soft wraps contain no artificial colours and flavours and provide a source of fibre and protein Suitable for Vegetarians and Vegans</p>",
+  "gtin13": "9317224401393",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/384286.jpg",
+  "name": "Mission Wraps Wholegrain 8 Pack 567G",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 5.5,
+    "lowPrice": 5.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-12-05T21:04:17.104Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 5.5,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/384286/mission-wraps-wholegrain"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/384286/mission-wraps-wholegrain"
+  ],
+  "sku": "384286",
+  "updatedAt": "2022-12-05T21:04:17.105Z"
+}

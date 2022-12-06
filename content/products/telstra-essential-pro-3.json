@@ -1,0 +1,42 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Unit Price",
+      "value": "$129.00 per 1Ea"
+    }
+  ],
+  "brand": "Telstra",
+  "createdAt": "2022-12-05T01:36:51.733Z",
+  "description": "Locked to Telstra network",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/4/7/2/4727598.jpg",
+  "name": "Telstra Essential Pro 3",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 129,
+    "lowPrice": 129,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-05T01:36:51.733Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "129.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/-4727598p-1"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/-4727598p-1"
+  ],
+  "sku": "4727598",
+  "updatedAt": "2022-12-05T01:36:51.733Z"
+}

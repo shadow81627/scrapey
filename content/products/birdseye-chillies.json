@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "40g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$95.00 per 1Kg"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2022-12-05T19:16:20.112Z",
+  "description": "HEAT RATING: 4 USAGE: Small and mighty, these chillies are perfect for curries and thai dishes. STORAGE: To extend the life of chillies, gently pull out the stem and store in a sealed container in the fridge",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/9/3/3938860.jpg",
+  "name": "Birdseye Chillies",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3.8,
+    "lowPrice": 3.8,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-05T19:16:20.111Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "3.80",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/fresh-birdseye-chillies-40g"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/fresh-birdseye-chillies-40g"
+  ],
+  "sku": "3938860",
+  "updatedAt": "2022-12-05T19:16:20.111Z"
+}

@@ -1,0 +1,58 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Contains",
+      "value": "Roast & Ground coffee"
+    },
+    {
+      "name": "Allergen",
+      "value": "Contains Caffeine"
+    },
+    {
+      "name": "Size",
+      "value": "96g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$6.77 per 100G"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Made in Vietnam"
+    }
+  ],
+  "brand": "Nescafe",
+  "createdAt": "2022-12-05T11:51:17.111Z",
+  "description": "Nescafe Dolce Gusto Espresso Intenso Coffee Capsules 16 pack",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/3/5/3354510.jpg",
+  "name": "Dolce Gusto Espresso Intenso Coffee Capsules 16 pack",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 6.5,
+    "lowPrice": 6.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-05T11:51:17.110Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "6.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/nescafe-dolce-gusto-capsules-espresso-intenso"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/nescafe-dolce-gusto-capsules-espresso-intenso"
+  ],
+  "sku": "3354510",
+  "updatedAt": "2022-12-05T11:51:17.110Z"
+}

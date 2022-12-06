@@ -3,58 +3,60 @@
   "additionalProperty": [
     {
       "name": "Ingredients",
-      "value": "INGREDIENTS: ;Reconstituted Orange Juice (99.8%), Natural Flavour, Vitamin C, Food Acid (Citric Acid)."
+      "value": "Orange Juice (100%)"
+    },
+    {
+      "name": "Dietary",
+      "value": "No Added Sugars"
     },
     {
       "name": "Servings Per Pack",
-      "value": "8.0"
+      "value": "7.5"
     },
     {
       "name": "Size",
-      "value": "2L"
+      "value": "1.5L"
     },
     {
       "name": "Unit Price",
-      "value": "$1.08 per 1L"
+      "value": "$4.00 per 1L"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Refer to product packaging"
     }
   ],
-  "brand": "Coles",
+  "brand": "The Juice Brothers",
   "createdAt": "2020-10-12T05:22:04.000Z",
-  "description": "No Added Sugar Good Source of Vitamin C 2D",
-  "image": {
-    "@type": "ImageObject",
-    "height": 300,
-    "mime": "image/jpeg",
-    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/5/3/2531551.jpg",
-    "width": 300
-  },
+  "description": "Extraordinary tasting juice that cares? You're holding it!How do we care? Our manufacturing process results in zero food waste, and we invest in recyclable materials. We're also owned, grown and squeezed right here in Australia because we love what we do and want to keep it local.",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/1/8/3183778.jpg",
   "name": "Orange Juice",
   "offers": {
     "@type": "AggregateOffer",
-    "highPrice": 2.15,
-    "lowPrice": 2.15,
+    "highPrice": 6,
+    "lowPrice": 6,
     "offerCount": 1,
     "offers": [
       {
         "@context": "http://schema.org",
         "@type": "Offer",
         "availability": "https://schema.org/InStock",
-        "availabilityStarts": "2022-11-24T05:42:18.354Z",
+        "availabilityStarts": "2022-12-04T14:04:12.143Z",
         "itemCondition": "https://schema.org/NewCondition",
         "offeredBy": "Coles",
-        "price": "2.15",
+        "price": "6.00",
         "priceCurrency": "AUD",
         "seller": {
           "@type": "Organization",
           "name": "Coles"
         },
-        "url": "https://shop.coles.com.au/a/national/product/coles-orange-juice-2531551p"
+        "url": "https://shop.coles.com.au/a/national/product/the-juice-brothers-orange"
       }
     ]
   },
   "sameAs": [
-    "https://shop.coles.com.au/a/national/product/coles-orange-juice-2531551p"
+    "https://shop.coles.com.au/a/national/product/the-juice-brothers-orange"
   ],
-  "sku": "2531551",
-  "updatedAt": "2022-11-24T05:42:18.354Z"
+  "sku": "3183778",
+  "updatedAt": "2022-12-04T14:04:12.144Z"
 }

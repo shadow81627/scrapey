@@ -1,0 +1,45 @@
+{
+  "@type": "Product",
+  "additionalProperty": [],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Philips"
+  },
+  "createdAt": "2022-12-05T15:55:45.961Z",
+  "description": "Philips AquaTouch shaver 3000 gives you a convenient and comfortable wet or dry shave. With 5D Pivot &amp; Flex heads, ComfortCut blade system, and 60 minutes of shaving, this shaver can handle all your grooming needs. \n\nProduct Features:\n\nGet a comfortable dry or refreshing wet shave with Aquatec\n5D Pivot &amp; Flex Heads follow curves for a comfortable shave\n60 minutes of cordless shaving after a 1 hour charge\nPop-up trimmer for moustache and sideburn trimming\nSkin Protection System allows smooth gliding to protect skin",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/1073751627.jpg",
+  "name": "Philips Shaver Series 3000 Wet And Dry With Pop Up Trimmer 1EA",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 99,
+    "lowPrice": 99,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-12-05T15:55:45.961Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 99,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/1073751627/philips-shaver-series-3000-wet-and-dry-with-pop-up-trimmer"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/1073751627/philips-shaver-series-3000-wet-and-dry-with-pop-up-trimmer"
+  ],
+  "sku": "1073751627",
+  "updatedAt": "2022-12-05T15:55:45.961Z"
+}

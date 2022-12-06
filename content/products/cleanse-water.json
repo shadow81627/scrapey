@@ -1,0 +1,58 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Spring Water, Spring Water Enhanced With Flower Essence Dilution (Papaya, She Oak, Bush Iris, Bottlebrush)."
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "0.0"
+    },
+    {
+      "name": "Size",
+      "value": "1L"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$2.10 per 1L"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Produced and bottled in Australia"
+    }
+  ],
+  "brand": "Balance",
+  "createdAt": "2022-12-04T14:27:24.255Z",
+  "description": "Balance Cleanse Water",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/1/2/2123136.jpg",
+  "name": "Cleanse Water",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2.1,
+    "lowPrice": 2.1,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-04T14:27:24.254Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "2.10",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/balance-cleanse-water"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/balance-cleanse-water"
+  ],
+  "sku": "2123136",
+  "updatedAt": "2022-12-04T14:27:24.254Z"
+}

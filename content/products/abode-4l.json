@@ -1,0 +1,45 @@
+{
+  "@type": "Product",
+  "additionalProperty": [],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Abode"
+  },
+  "createdAt": "2022-12-06T04:47:11.626Z",
+  "description": "Our dishwashing liquid is a great smelling, creamy lathering product that has been formulated to be gentle on your hands and the environment whilst powerful enough to easily cut through grease and tough dried on food. With our ultra-concentrated formula, you only need the smallest amount to fill a sink of dishes, making it remarkably economical when compared to similar brands on the market.\n\nOur unique formulation contains no nasty chemicals such as coco-betaine, sodium lauryl/ laureth sulphate and ethoxylated ingredients and is designed to leave your dishes sparkling clean with no chemical residue. Leave your house smelling like a home, not a hospital.",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/1073984592.jpg",
+  "name": "Abode 4L",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 59.95,
+    "lowPrice": 59.95,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T04:47:11.626Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 59.95,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/1073984592/abode-dishwashing-liquid-lavender-mint-4l"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/1073984592/abode-dishwashing-liquid-lavender-mint-4l"
+  ],
+  "sku": "1073984592",
+  "updatedAt": "2022-12-06T04:47:11.626Z"
+}

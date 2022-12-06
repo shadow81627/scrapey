@@ -2,50 +2,62 @@
   "@type": "Recipe",
   "cookTime": "PT30M",
   "createdAt": "2022-11-29T09:04:31.000Z",
-  "datePublished": "2021-03-10",
+  "datePublished": "2022-09-26",
   "description": "Try our easy to follow Baked Custard Apple Crumble recipe. Absolutely delicious with the best ingredients from Woolworths.",
-  "image": "https://foodhub.scene7.com/is/image/woolworthsltdprod/0805_bakedcustardapplecrumble?wid=1300&hei=1300&fmt=png-alpha",
-  "keywords": "Baked Custard Apple Crumble",
+  "image": [
+    "https://foodhub.scene7.com/is/image/woolworthsltdprod/0805_bakedcustardapplecrumble:Square-1300x1300"
+  ],
+  "keywords": "Crumble,High fibre,High protein,Low salt,Apple",
   "name": "Baked Custard Apple Crumble Recipe | Woolworths",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "812 calories",
+    "carbohydrateContent": "118 g",
+    "fatContent": "32.8 g",
+    "fiberContent": "9.1 g",
+    "proteinContent": "11.2 g",
+    "sodiumContent": "92 millig",
+    "sugarContent": "94.2 g"
+  },
   "prepTime": "PT10M",
-  "recipeCategory": "desserts",
-  "recipeCuisine": "british",
+  "recipeCategory": "Desserts",
+  "recipeCuisine": "British",
   "recipeId": "1815",
   "recipeIngredient": [
-    "0.5 cup dates",
+    "0.5 cup dates, pitted, chopped",
     "0.5 cup plain flour",
-    "100 g unsalted butter",
+    "100g unsalted butter, cold",
     "2 custard apples",
     "0.25 tsp ground cinnamon",
-    "400 g can sliced apples",
-    "500 ml custard",
+    "400g can sliced apples",
+    "500ml custard (to serve)",
     "0.5 cup rolled oats",
     "0.5 cup brown sugar",
-    "0.33 cup hazelnuts"
+    "0.33 cup hazelnuts, roasted, chopped"
   ],
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Mix flour, oats, hazelnuts, sugar and cinnamon in a bowl. Coarsely grate butter over mixture. Rub butter through the dry mixture until crumble. Sprinkle crumble topping over fruit. Bake for 30 minutes until the topping is golden. Serve with warm custard or ice-cream."
+      "HowToTip": {},
+      "text": "Preheat oven to 180°C. Lightly grease a 6-cup ovenproof dish."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Mix flour, oats, hazelnuts, sugar and cinnamon in a bowl. Coarsely grate butter over mixture. Rub butter through the dry mixture until crumble. Sprinkle crumble topping over fruit. Bake for 30 minutes until the topping is golden. Serve with warm custard or ice-cream."
+      "HowToTip": {},
+      "text": "Break open the custard apples and, using a spoon, scoop out the flesh and discard seeds. Combine with canned apple and dates and transfer to prepared dish."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
+      "HowToTip": {},
       "text": "Mix flour, oats, hazelnuts, sugar and cinnamon in a bowl. Coarsely grate butter over mixture. Rub butter through the dry mixture until crumble. Sprinkle crumble topping over fruit. Bake for 30 minutes until the topping is golden. Serve with warm custard or ice-cream."
     }
   ],
   "recipeNameId": "baked-custard-apple-crumble",
   "recipeYield": "4",
   "sameAs": [
-    "https://woolworths.com.au/shop/find-recipes/apple-custard-crumble"
+    "https://woolworths.com.au/shop/recipes/baked-custard-apple-crumble"
   ],
   "totalTime": "PT40M",
-  "updatedAt": "2022-11-29T06:29:04.805Z",
+  "updatedAt": "2022-12-05T02:17:30.783Z",
   "url": "https://www.woolworths.com.au/shop/recipes/baked-custard-apple-crumble"
 }

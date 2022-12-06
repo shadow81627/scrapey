@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "1 pack"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$3.00 per 1Ea"
+    }
+  ],
+  "brand": "Colgate",
+  "createdAt": "2022-12-04T15:36:50.949Z",
+  "description": "Colgate Zig Zag Flex Medium Toothbrush",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/6/1/6/6163096.jpg",
+  "name": "Zig Zag Flex Medium Toothbrush",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3,
+    "lowPrice": 3,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-04T15:36:50.948Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "3.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/colgate-zig-zag-flex-toothbrush-adult-medium"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/colgate-zig-zag-flex-toothbrush-adult-medium"
+  ],
+  "sku": "6163096",
+  "updatedAt": "2022-12-04T15:36:50.948Z"
+}

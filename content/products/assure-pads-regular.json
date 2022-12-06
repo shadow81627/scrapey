@@ -1,0 +1,54 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Warning",
+      "value": "To avoid danger of suffocation, keep plastic bags away from babies and small children."
+    },
+    {
+      "name": "Size",
+      "value": "16 pack"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.22 per 1Ea"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Made in Belgium"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2022-12-06T04:15:47.688Z",
+  "description": "Coles Assure Pads Regular",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/7/1/3710716.jpg",
+  "name": "Assure Pads Regular",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3.5,
+    "lowPrice": 3.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T04:15:47.687Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "3.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-assure-pads-regular"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/coles-assure-pads-regular"
+  ],
+  "sku": "3710716",
+  "updatedAt": "2022-12-06T04:15:47.687Z"
+}

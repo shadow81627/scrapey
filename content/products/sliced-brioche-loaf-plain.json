@@ -1,0 +1,50 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "500g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.66 per 100G"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Made in France"
+    }
+  ],
+  "brand": "La Fournee Doree",
+  "createdAt": "2022-12-05T10:15:33.958Z",
+  "description": "Try our inimitable soft brioche, one of our best-selling items, in its most convenient format. Generous slices easy to spread or toast for the whole family.",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/4/7/3476925.jpg",
+  "name": "Sliced Brioche Loaf Plain",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 8.3,
+    "lowPrice": 8.3,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-05T10:15:33.957Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "8.30",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/tp-sliced-brioche-loaf"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/tp-sliced-brioche-loaf"
+  ],
+  "sku": "3476925",
+  "updatedAt": "2022-12-05T10:15:33.957Z"
+}

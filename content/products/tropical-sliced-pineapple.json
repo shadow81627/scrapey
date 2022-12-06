@@ -1,0 +1,62 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Pineapple (63%), Pineapple Juice."
+    },
+    {
+      "name": "Dietary",
+      "value": "No Added Sugars, No Preservatives"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "3.5"
+    },
+    {
+      "name": "Size",
+      "value": "425g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$7.29 per 1Kg"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Grown in Indonesia"
+    }
+  ],
+  "brand": "Golden Circle",
+  "createdAt": "2022-12-04T21:39:30.349Z",
+  "description": "Golden Circle Tropical Sliced Pineapple",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/2/4/2249815.jpg",
+  "name": "Tropical Sliced Pineapple",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3.1,
+    "lowPrice": 3.1,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-04T21:39:30.348Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "3.10",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/golden-circle-tropical-pineapple-slices-in-juice-canned"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/golden-circle-tropical-pineapple-slices-in-juice-canned"
+  ],
+  "sku": "2249815",
+  "updatedAt": "2022-12-04T21:39:30.348Z"
+}

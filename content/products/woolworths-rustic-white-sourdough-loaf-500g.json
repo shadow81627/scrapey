@@ -1,0 +1,66 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "Approx.518kJ",
+      "carbohydrateContent": "Approx.22.1g",
+      "dietary_fibre": "Approx.2.5g",
+      "fatContent": "Approx.1.3g",
+      "name": "nutrition",
+      "proteinContent": "Approx.4.4g",
+      "saturatedFatContent": "&lt;1g",
+      "servingSize": "100 g",
+      "sodiumContent": "Approx.185mg",
+      "sugarContent": "Approx.1.2g"
+    }
+  ],
+  "aggregateRating": {
+    "@context": "http://schema.org",
+    "@type": "AggregateRating",
+    "ratingCount": 637,
+    "ratingValue": 3.75510204081633
+  },
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Woolworths"
+  },
+  "createdAt": "2022-12-05T21:15:09.453Z",
+  "description": "Woolworths Country White Sourdough Vienna is made using Australian wheat flour and slowly developed for 22 hours for a great flavour and texture.\n\nSource of fibre for healthy digestion 1\n1 As part of a healthy balanced diet.",
+  "gtin13": "9339687087860",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/852257.jpg",
+  "name": "Woolworths Rustic White Sourdough Loaf 500G",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 5,
+    "lowPrice": 5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-12-05T21:15:09.447Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 5,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/852257/woolworths-rustic-white-sourdough-loaf"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/852257/woolworths-rustic-white-sourdough-loaf"
+  ],
+  "sku": "852257",
+  "updatedAt": "2022-12-05T21:15:09.447Z"
+}

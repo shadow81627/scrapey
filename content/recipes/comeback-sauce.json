@@ -2,69 +2,128 @@
   "@type": "Recipe",
   "aggregateRating": {
     "@type": "AggregateRating",
-    "ratingCount": "17",
-    "ratingValue": "4.71"
+    "ratingCount": 1,
+    "ratingValue": 5
   },
-  "author": {
-    "@type": "Person",
-    "name": "Beth - Budget Bytes"
+  "articleSection": "Recipes",
+  "brand": {
+    "@type": "Thing",
+    "name": "The Kitchn"
   },
   "createdAt": "2022-11-28T12:45:27.000Z",
-  "datePublished": "2020-06-11T10:00:04+00:00",
-  "description": "This creamy, tangy, sweet, and savory Comeback Sauce is great for dipping, drizzling, smearing, and smothering all of your favorite foods. ",
-  "image": {
-    "@type": "ImageObject",
-    "height": 600,
-    "mime": "image/jpeg",
-    "url": "https://www.budgetbytes.com/wp-content/uploads/2020/05/Comeback-Sauce-dip-close.jpg",
-    "width": 800
+  "creator": {
+    "@type": "Person",
+    "name": "Kristina Vänni"
   },
-  "keywords": "Burger Sauce, Fry Sauce, Homemade Sauce",
+  "dateCreated": "2021-11-01T17:30:00-04:00",
+  "dateModified": "2021-11-05T15:02:46-04:00",
+  "datePublished": "2021-11-01T17:30:00-04:00",
+  "description": "This ultra-creamy, tangy sauce only takes five minutes to put together. ",
+  "headline": "Comeback Sauce",
+  "HowtoTip": {
+    "text": "Storage: Refrigerate in an airtight container for up to 1 month."
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "https://cdn.apartmenttherapy.info/image/upload/f_jpg,q_auto:eco,c_fill,g_auto,w_1500,ar_16:9/k%2FPhoto%2FRecipe%20Ramp%20Up%2F2021-10-Comeback-Sauce%2Fcomeback-sauce"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "https://cdn.apartmenttherapy.info/image/upload/f_jpg,q_auto:eco,c_fill,g_auto,w_1500,ar_4:3/k%2FPhoto%2FRecipe%20Ramp%20Up%2F2021-10-Comeback-Sauce%2Fcomeback-sauce"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "https://cdn.apartmenttherapy.info/image/upload/f_jpg,q_auto:eco,c_fill,g_auto,w_1500,ar_1:1/k%2FPhoto%2FRecipe%20Ramp%20Up%2F2021-10-Comeback-Sauce%2Fcomeback-sauce"
+    }
+  ],
+  "keywords": [
+    "condiment",
+    "recipe",
+    "recipe library",
+    "sauce",
+    "southern",
+    "Gluten-Free",
+    "Seasonings",
+    "Root Vegetables",
+    "vegetables",
+    "herbs",
+    "quick",
+    "uncooked",
+    "team:food",
+    "platform:search",
+    "dishtype:sauce",
+    "cuisine:united states",
+    "cuisine:north america",
+    "cuisine:southern",
+    "timing:quick",
+    "mainingredients:vegetable",
+    "mainingredients:herbs",
+    "mainingredients:seasonings",
+    "mainingredients:onions",
+    "mainingredients:garlic",
+    "method:no-cook",
+    "diet:gluten-free"
+  ],
   "name": "Comeback Sauce",
   "nutrition": {
     "@type": "NutritionInformation",
-    "calories": "158.8 kcal",
-    "carbohydrateContent": "2.44 g",
-    "fatContent": "16.52 g",
-    "fiberContent": "0.06 g",
-    "proteinContent": "0.34 g",
-    "servingSize": "2 Tbsp",
-    "sodiumContent": "319.92 mg"
+    "calories": "158 cal",
+    "carbohydrateContent": "7.6 g",
+    "cholesterolContent": "0 mg",
+    "fatContent": "14.0 g",
+    "fiberContent": "0.9 g",
+    "proteinContent": "1.6 g",
+    "saturatedFatContent": "1.9 g",
+    "servingSize": "Serves 16",
+    "sodiumContent": "276.7 mg",
+    "sugarContent": "2.9 g",
+    "unsaturatedFatContent": "0.0 g"
   },
-  "prepTime": "PT5M",
+  "prepTime": "PT300S",
+  "publisher": {
+    "@type": "Organization",
+    "logo": {
+      "@type": "ImageObject",
+      "height": 46,
+      "url": "https://www.thekitchn.com/static/logos/publisher-logo.png",
+      "width": 180
+    },
+    "name": "Apartment Therapy, LLC."
+  },
   "recipeCategory": "Sauce",
-  "recipeCuisine": "American",
+  "recipeCuisine": "United states",
   "recipeIngredient": [
-    "1/2 cup mayonnaise ($0.80)",
-    "2 Tbsp ketchup ($0.10)",
-    "1/2 Tbsp Worcestershire sauce ($0.01)",
-    "1/2 tsp Dijon mustard ($0.02)",
-    "1/8 tsp hot sauce* ($0.02)",
-    "1/4 tsp smoked paprika ($0.02)",
-    "1/8 tsp garlic powder ($0.02)",
-    "1/8 tsp freshly cracked black pepper ($0.02)",
-    "1/8 tsp salt ($0.02)"
+    "1 large lemon",
+    "1/2 medium yellow onion",
+    "2 cloves garlic",
+    "1 cup mayonnaise",
+    "1/2 cup ketchup",
+    "1/2 cup chili sauce, such as Heinz",
+    "1/2 cup neutral oil, such as safflower or canola",
+    "1 tablespoon Worcestershire sauce",
+    "1 tablespoon paprika",
+    "1 teaspoon kosher salt",
+    "1 teaspoon freshly ground black pepper",
+    "1/2 teaspoon dry mustard"
   ],
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "text": "Combine all ingredients in a bowl and stir until evenly mixed. Serve immediately or refrigerate until ready to eat."
+      "text": "Prepare the following, adding each to a blender or food processor with the blade attachment as you complete it: Juice 1 large lemon until you have 1/4 cup, coarsely chop 1 medium yellow onion until you have 1/2 cup, and coarsely chop 2 garlic cloves."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add 1 cup mayonnaise, 1/2 cup ketchup, 1/2 cup chili sauce, 1/2 cup safflower oil, 1 tablespoon Worcestershire sauce, 1 tablespoon paprika, 1 teaspoon kosher salt, 1 teaspoon black pepper, and 1/2 teaspoon dry mustard. Blend until smooth, about 1 minute."
     }
   ],
-  "recipeYield": "5",
+  "recipeYield": null,
   "sameAs": [
-    "https://budgetbytes.com/comeback-sauce"
+    "https://thekitchn.com/comeback-sauce-recipe-23245832"
   ],
-  "totalTime": "PT5M",
-  "updatedAt": "2022-11-28T07:40:42.212Z",
-  "video": {
-    "@type": "VideoObject",
-    "contentUrl": "https://mediavine-res.cloudinary.com/video/upload/t_original/v1596143856/igkbzpo5xft2ezysvnef.mp4",
-    "description": "This creamy, tangy, sweet, and savory Comeback Sauce is great for dipping, drizzling, smearing, and smothering all of your favorite foods.",
-    "duration": "PT43S",
-    "embedUrl": "https://video.mediavine.com/videos/igkbzpo5xft2ezysvnef.js",
-    "name": "Comeback Sauce",
-    "thumbnailUrl": "https://mediavine-res.cloudinary.com/image/upload/s--ZSBd9TZ8--/c_limit,f_auto,fl_lossy,h_1080,q_auto,w_1920/v1596143918/m2yzsz3gfotikgnk8gcc.jpg",
-    "uploadDate": "2020-07-30T21:18:07+00:00"
-  }
+  "suitableforDiet": "https://schema.org/GlutenFreeDiet",
+  "thumbnailUrl": "https://cdn.apartmenttherapy.info/image/upload/f_auto,q_auto:eco,c_fill,g_auto,w_1500,ar_3:2/k%2FPhoto%2FRecipe%20Ramp%20Up%2F2021-10-Comeback-Sauce%2Fcomeback-sauce",
+  "totalTime": "PT300S",
+  "updatedAt": "2022-12-04T21:38:06.539Z",
+  "url": "https://www.thekitchn.com/comeback-sauce-recipe-23245832"
 }

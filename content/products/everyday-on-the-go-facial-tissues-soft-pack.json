@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "60 pack"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$2.83 per 100Ea"
+    }
+  ],
+  "brand": "Kleenex",
+  "createdAt": "2022-12-05T15:24:40.455Z",
+  "description": "Kleenex Everyday On The Go Facial Tissues Soft Pack",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/6/8/9/6891231.jpg",
+  "name": "Everyday On The Go Facial Tissues Soft Pack",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 1.7,
+    "lowPrice": 1.7,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-05T15:24:40.455Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "1.70",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/kleenex-facial-tissues-2-ply-white-softpack"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/kleenex-facial-tissues-2-ply-white-softpack"
+  ],
+  "sku": "6891231",
+  "updatedAt": "2022-12-05T15:24:40.455Z"
+}

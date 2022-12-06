@@ -1,49 +1,60 @@
 {
   "@type": "Recipe",
+  "author": {
+    "@type": "Person",
+    "name": "Customer - yogyo"
+  },
+  "cookTime": "PT0M",
   "createdAt": "2022-11-24T12:25:40.000Z",
-  "datePublished": "2021-05-11",
+  "datePublished": "2022-08-03",
   "description": "A very easy, no cooking slice.",
-  "image": "https://foodhub.scene7.com/is/image/woolworthsltdprod/djavnodjvtqdr3ho27yr?wid=2322&hei=2405&fmt=png-alpha",
-  "keywords": "Lattice Lemon Slice",
+  "image": [
+    "https://foodhub.scene7.com/is/image/woolworthsltdprod/djavnodjvtqdr3ho27yr:Square-1300x1300"
+  ],
+  "keywords": "Slice,Pescatarian,Seafood free,Tree nut free,Egg free,Lemon,Sesame free,Quick & easy dessert,Peanut free",
   "name": "Lattice Lemon Slice Recipe | Woolworths",
   "prepTime": "PT15M",
-  "recipeCategory": "desserts",
-  "recipeCuisine": "australian",
+  "recipeCategory": "Desserts",
+  "recipeCuisine": "Australian",
   "recipeId": "a0K2y0000016WQjEAM",
   "recipeIngredient": [
     "1 pkt lattice biscuits",
-    "250 g cream cheese",
-    "395 g condensed milk",
-    "1 lemon"
+    "250g cream cheese",
+    "395g condensed milk",
+    "1 lemon, juiced"
   ],
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Slice into squares."
+      "HowToTip": {},
+      "image": "https://foodhub.scene7.com/is/image/woolworthsltdprod/vujno2qptsbakh4vshuv?wid=3024&hei=2854&fmt=png-alpha",
+      "text": "Line tin with baking paper and place half of the biscuits face down."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Slice into squares."
+      "HowToTip": {},
+      "image": "https://foodhub.scene7.com/is/image/woolworthsltdprod/vok23hvhxes9nb0hyafk?wid=3024&hei=4032&fmt=png-alpha",
+      "text": "Mix or blend cream cheese, condensed milk and lemon juice until smooth."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
-      "text": "Slice into squares."
+      "HowToTip": {},
+      "image": "https://foodhub.scene7.com/is/image/woolworthsltdprod/pvivf1fpd6mmmyxdix0m?wid=2528&hei=3442&fmt=png-alpha",
+      "text": "Pour over biscuits and place remaining biscuits on top. Refrigerate until set. Approximately 4 hours."
     },
     {
       "@type": "HowToStep",
-      "HowToStep": {},
+      "HowToTip": {},
+      "image": "https://foodhub.scene7.com/is/image/woolworthsltdprod/i1syx2rswmiqomeqjudx?wid=2322&hei=2405&fmt=png-alpha",
       "text": "Slice into squares."
     }
   ],
   "recipeNameId": "lattice-lemon-slice",
   "recipeYield": "10",
   "sameAs": [
-    "https://woolworths.com.au/shop/find-recipes/easy-slice-recipes-with-condensed-milk"
+    "https://woolworths.com.au/shop/recipes/lattice-lemon-slice"
   ],
   "totalTime": "PT15M",
-  "updatedAt": "2022-11-24T12:13:08.096Z",
+  "updatedAt": "2022-12-04T16:24:25.206Z",
   "url": "https://www.woolworths.com.au/shop/recipes/lattice-lemon-slice"
 }

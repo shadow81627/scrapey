@@ -1,0 +1,58 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "<strong>INGREDIENTS:</strong> <strong>Walnuts</strong>."
+    },
+    {
+      "name": "Allergen",
+      "value": "Contains Walnut"
+    },
+    {
+      "name": "Size",
+      "value": "approx. 100g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$24.00 per 1Kg"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Grown in USA"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2022-12-05T08:32:45.346Z",
+  "description": "Our Californian grown Walnuts have been selected for their mild sweet flavour. As well as munching them alone, try adding them to your sweet or savoury dish.",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/8/4/1/8412668.jpg",
+  "name": "Natural Walnuts",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2.4,
+    "lowPrice": 2.4,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-05T08:32:45.346Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "2.40",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/scoop-weigh-walnuts"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/scoop-weigh-walnuts"
+  ],
+  "sku": "8412668",
+  "updatedAt": "2022-12-05T08:32:45.346Z"
+}

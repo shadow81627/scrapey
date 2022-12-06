@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "320g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$2.19 per 100G"
+    }
+  ],
+  "brand": "Gs",
+  "createdAt": "2022-12-04T20:07:52.871Z",
+  "description": "Gs Premium Garlic Pizza",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/1/7/5170846.jpg",
+  "name": "Premium Garlic Pizza",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 7,
+    "lowPrice": 7,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/OutOfStock",
+        "availabilityStarts": "2022-12-04T20:07:52.870Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "7.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/premium-garlic-pizza"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/premium-garlic-pizza"
+  ],
+  "sku": "5170846",
+  "updatedAt": "2022-12-04T20:07:52.870Z"
+}

@@ -1,0 +1,60 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "122.00kJ",
+      "carbohydrateContent": "122.00g",
+      "dietary_fibre": "2.81g",
+      "fatContent": "122.00g",
+      "name": "nutrition",
+      "proteinContent": "122.00g",
+      "saturatedFatContent": "122.00g",
+      "servingSize": "100 g",
+      "sodiumContent": "122.00mg",
+      "sugarContent": "122.00g"
+    }
+  ],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "MasterFoods"
+  },
+  "createdAt": "2022-12-05T08:26:15.176Z",
+  "description": "Crack the lid and let MasterFoods™ Mild Chicken Curry Cooking Sauce transform your dish into a flavour packed family favourite.<br><br>Create a hearty, flavoursome dinner for your family with MasterFoods™ Slow Cook Mild Chicken Curry Cooking Sauce.  Let the slow cooker do all the hard work for you while all the delicious flavours develop and infuse to create a delicious warming curry.<br><br>- No Artificial Colours, Flavours or Preservatives<br><br>- Created with real MasterFoods™ Herbs & Spices<br><br>- Easy and Delicious",
+  "gtin13": "9310012043072",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/777842.jpg",
+  "name": "Masterfoods Mild Chicken Curry Slow Cook Sauce 490G",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 4.5,
+    "lowPrice": 4.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-12-05T08:26:15.175Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 4.5,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/777842/masterfoods-mild-chicken-curry-slow-cook-sauce"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/777842/masterfoods-mild-chicken-curry-slow-cook-sauce"
+  ],
+  "sku": "777842",
+  "updatedAt": "2022-12-05T08:26:15.175Z"
+}

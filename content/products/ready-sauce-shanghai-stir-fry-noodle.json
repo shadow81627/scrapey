@@ -1,0 +1,50 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "120g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$2.00 per 100G"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Product of China"
+    }
+  ],
+  "brand": "Lee Kum Kee",
+  "createdAt": "2022-12-05T20:51:01.475Z",
+  "description": "Shanghai Stir-fry Noodle is a traditional chow mein originated in Southern China. Its sweet, savoury, tangy and aromatic tastes are perfectly balanced. This will surely to tingle your taste buds.",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/4/3/1/4312220.jpg",
+  "name": "Ready Sauce Shanghai Stir Fry Noodle",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2.4,
+    "lowPrice": 2.4,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-05T20:51:01.475Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "2.40",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/shanghai-stir-fry-nodle"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/shanghai-stir-fry-nodle"
+  ],
+  "sku": "4312220",
+  "updatedAt": "2022-12-05T20:51:01.475Z"
+}

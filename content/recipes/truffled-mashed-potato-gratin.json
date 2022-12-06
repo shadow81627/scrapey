@@ -1,0 +1,82 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1",
+    "ratingValue": "5"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Oh My Veggies"
+  },
+  "cookTime": "PT35M",
+  "createdAt": "2022-12-04T18:12:13.005Z",
+  "datePublished": "2012-02-20T07:25:02+00:00",
+  "description": "Truffled mashed potatoes topped with toasted panko and Parmesan cheese.",
+  "image": [
+    "https://ohmyveggies.com/wp-content/uploads/2012/02/truffled_mashed_potato_gratins_close.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2012/02/truffled_mashed_potato_gratins_close-500x413.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2012/02/truffled_mashed_potato_gratins_close-500x375.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2012/02/truffled_mashed_potato_gratins_close-480x270.jpg"
+  ],
+  "keywords": "mashed potato recipe, potato gratin recipe, Truffled Mashed Potato Gratin",
+  "name": "Truffled Mashed Potato Gratin",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "357 kcal",
+    "carbohydrateContent": "42 g",
+    "cholesterolContent": "12 mg",
+    "fatContent": "16 g",
+    "fiberContent": "4 g",
+    "proteinContent": "11 g",
+    "saturatedFatContent": "5 g",
+    "servingSize": "1 serving",
+    "sodiumContent": "366 mg",
+    "sugarContent": "3 g",
+    "unsaturatedFatContent": "12 g"
+  },
+  "prepTime": "PT15M",
+  "recipeCategory": "Side Dish",
+  "recipeCuisine": "American",
+  "recipeIngredient": [
+    "1 1/2 lbs. Yukon Gold potatoes (cut into 1-inch pieces (peeled or unpeeled--your choice)",
+    "1/4 c. whole milk",
+    "1 tbsp. butter",
+    "2 tbsp. white truffle oil",
+    "1 tbsp. olive oil",
+    "1/4 c. panko",
+    "1/4 c. Parmesan cheese (shredded)",
+    "salt and pepper to taste"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Preheat oven to 350 degrees."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Place potatoes and a dash of salt in a medium saucepan. Cover with water and bring to a boil. Reduce heat to low, cover, and simmer for 15 minutes or under tender. Cool slightly."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Transfer potatoes to large bowl and mash. Stir in milk, butter, truffle oil, salt, and pepper."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Put mashed potatoes in a gratin dish or individual ramekins. In a small bowl, combine olive oil, panko, and cheese; stir until well-coated."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Top mashed potatoes with panko mixture. Bake for 20 minutes or until panko mixture is golden brown."
+    }
+  ],
+  "recipeYield": "4",
+  "sameAs": [
+    "https://ohmyveggies.com/recipe-truffled-mashed-potato-gratin"
+  ],
+  "suitableForDiet": [
+    "https://schema.org/VegetarianDiet"
+  ],
+  "totalTime": "PT50M",
+  "updatedAt": "2022-12-04T18:12:13.004Z"
+}

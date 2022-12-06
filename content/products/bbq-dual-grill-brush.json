@@ -1,0 +1,42 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Unit Price",
+      "value": "$6.00 per 1Ea"
+    }
+  ],
+  "brand": "Grillman",
+  "createdAt": "2022-12-05T00:07:58.311Z",
+  "description": "Keep your BBQ clean and tidy with the Grillman 3-in-1 Grill Brush. Featuring a brass bristle head, a heavy duty scourer and stainless steel scraper, this Grillman grill bush will provide a thorough clean",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/1/6/2163221.jpg",
+  "name": "BBQ Dual Grill Brush",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 6,
+    "lowPrice": 6,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-05T00:07:58.310Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "6.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/grillman-dual-grill-brush"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/grillman-dual-grill-brush"
+  ],
+  "sku": "2163221",
+  "updatedAt": "2022-12-05T00:07:58.310Z"
+}

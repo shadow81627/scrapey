@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "30 pack"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.60 per 1Ea"
+    }
+  ],
+  "brand": "Armor All",
+  "createdAt": "2022-12-05T21:32:34.032Z",
+  "description": "Armor All Glass Wipes",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/4/5/0/4503546.jpg",
+  "name": "Glass Wipes",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 18,
+    "lowPrice": 18,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-05T21:32:34.032Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "18.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/glass-wipes-4503546p-1"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/glass-wipes-4503546p-1"
+  ],
+  "sku": "4503546",
+  "updatedAt": "2022-12-05T21:32:34.032Z"
+}

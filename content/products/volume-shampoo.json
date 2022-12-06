@@ -1,0 +1,50 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Aqua, Sodium Lauroyl Methyl Isethionate, Cocamidopropyl Betaine, Sodium Cocoyl Isethionate, Disodium Laureth Sulfosuccinate, PEG-12 Dimethicone, Glycol Distearate, PEG-150 Distearate, Hydrolyzed Rice Protein, Trideceth-9 PG-Amodimethicone, Polyquaternium-7, Amaranthus Caudatus Seed Extract, Hydrolyzed Jojoba Esters, Hydrolyzed Quinoa, Aloe Barbadensis Leaf Juice, Camellia Sinensis Leaf Extract, Butylene Glycol, Methyl Gluceth-20, Parfum, Olea Europaea Leaf Extract, Polyquaternium-10, Panthenol, Laureth-4, Phenoxyethanol, Sodium Benzoate, Glycerin, Ethylhexylglycerin, Potassium Sorbate, Disodium EDTA, Trideceth-12, Citric Acid, Benzyl Salicylate, Linalool."
+    },
+    {
+      "name": "Size",
+      "value": "300mL"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$6.67 per 100mL"
+    }
+  ],
+  "brand": "Zena",
+  "createdAt": "2022-12-04T14:43:42.730Z",
+  "description": "Zena Volume Shampoo",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/9/5/3958380.jpg",
+  "name": "Volume Shampoo",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 20,
+    "lowPrice": 20,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-04T14:43:42.729Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "20.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/volume-shampo"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/volume-shampo"
+  ],
+  "sku": "3958380",
+  "updatedAt": "2022-12-04T14:43:42.729Z"
+}

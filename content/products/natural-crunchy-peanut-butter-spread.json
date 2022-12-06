@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "375g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.93 per 100G"
+    }
+  ],
+  "brand": "Sanitarium",
+  "createdAt": "2022-12-06T03:52:22.944Z",
+  "description": "Sanitariums Natural Peanut Butter is made from all natural 100% roasted peanuts and nothing else. No preservatives, no stabilisers, no added sugar and no added salt  just peanuts.",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/7/9/5796870.jpg",
+  "name": "Natural Crunchy Peanut Butter Spread",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3.5,
+    "lowPrice": 3.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T03:52:22.944Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "3.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/sanitarium-peanut-butter-natural-crunchy"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/sanitarium-peanut-butter-natural-crunchy"
+  ],
+  "sku": "5796870",
+  "updatedAt": "2022-12-06T03:52:22.944Z"
+}

@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "24 pack"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.21 per 1Ea"
+    }
+  ],
+  "brand": "Waxworks",
+  "createdAt": "2022-12-04T22:52:37.343Z",
+  "description": "Waxworks Citronella Tea Lights",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/9/5/2959821.jpg",
+  "name": "Citronella Tea Lights",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 5,
+    "lowPrice": 5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-04T22:52:37.342Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "5.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/waxworks-citronella-tea-lights-2959821p"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/waxworks-citronella-tea-lights-2959821p"
+  ],
+  "sku": "2959821",
+  "updatedAt": "2022-12-04T22:52:37.342Z"
+}

@@ -2,51 +2,57 @@
   "@type": "Product",
   "additionalProperty": [
     {
+      "name": "Ingredients",
+      "value": "Pasteurised & Homogenised Milk. Fresh Milk from VIC & NSW."
+    },
+    {
+      "name": "Allergen",
+      "value": "Contains Milk"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "8.0"
+    },
+    {
       "name": "Size",
-      "value": "1L"
+      "value": "2L"
     },
     {
       "name": "Unit Price",
-      "value": "$2.70 per 1L"
+      "value": "$2.20 per 1L"
     }
   ],
-  "brand": "Dairy Farmers",
+  "brand": "Devondale",
   "createdAt": "2020-10-12T05:22:04.000Z",
-  "description": "Dairy Farmers Full Cream Milk",
-  "image": {
-    "@type": "ImageObject",
-    "height": 300,
-    "mime": "image/jpeg",
-    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/8/4/7/8476128.jpg",
-    "width": 300
-  },
+  "description": "Devondale products starts with fresh Australian milk from happy, healthy, free grazing cows to bring you what we believe to be the very best in taste and quality.",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/1/9/1/1913790.jpg",
   "name": "Full Cream Milk",
   "offers": {
     "@type": "AggregateOffer",
-    "highPrice": 2.7,
-    "lowPrice": 2.7,
+    "highPrice": 4.4,
+    "lowPrice": 4.4,
     "offerCount": 1,
     "offers": [
       {
         "@context": "http://schema.org",
         "@type": "Offer",
         "availability": "https://schema.org/InStock",
-        "availabilityStarts": "2022-11-24T23:33:56.721Z",
+        "availabilityStarts": "2022-12-04T15:06:09.949Z",
         "itemCondition": "https://schema.org/NewCondition",
         "offeredBy": "Coles",
-        "price": "2.70",
+        "price": "4.40",
         "priceCurrency": "AUD",
         "seller": {
           "@type": "Organization",
           "name": "Coles"
         },
-        "url": "https://shop.coles.com.au/a/national/product/dairy-farmers-milk-full-cream"
+        "url": "https://shop.coles.com.au/a/national/product/devondale-full-fat-milk"
       }
     ]
   },
   "sameAs": [
-    "https://shop.coles.com.au/a/national/product/dairy-farmers-milk-full-cream"
+    "https://shop.coles.com.au/a/national/product/devondale-full-fat-milk"
   ],
-  "sku": "8476128",
-  "updatedAt": "2022-11-24T23:33:56.721Z"
+  "sku": "1913790",
+  "updatedAt": "2022-12-04T15:06:09.949Z"
 }

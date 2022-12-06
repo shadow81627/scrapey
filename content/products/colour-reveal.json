@@ -1,0 +1,37 @@
+{
+  "@type": "Product",
+  "additionalProperty": [],
+  "brand": "Barbie",
+  "createdAt": "2022-12-05T11:11:02.392Z",
+  "description": "Barbie Colour Reveal",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/4/3/1/4310440.jpg",
+  "name": "Colour Reveal",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 30.5,
+    "lowPrice": 30.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-05T11:11:02.391Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "30.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/colour-reveal"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/colour-reveal"
+  ],
+  "sku": "4310440",
+  "updatedAt": "2022-12-05T11:11:02.392Z"
+}

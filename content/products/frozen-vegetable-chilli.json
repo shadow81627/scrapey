@@ -1,0 +1,58 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Green Chilli, frozen and packed while fresh"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "2.4"
+    },
+    {
+      "name": "Size",
+      "value": "312g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.64 per 100G"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Product of India"
+    }
+  ],
+  "brand": "Katoomba",
+  "createdAt": "2022-12-06T05:33:21.859Z",
+  "description": "Katoomba Frozen Vegetable Chilli",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/7/8/3785680.jpg",
+  "name": "Frozen Vegetable Chilli",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2,
+    "lowPrice": 2,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T05:33:21.859Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "2.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/katomba-gren-chilli-3785680p"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/katomba-gren-chilli-3785680p"
+  ],
+  "sku": "3785680",
+  "updatedAt": "2022-12-06T05:33:21.859Z"
+}

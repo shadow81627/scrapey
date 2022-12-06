@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "4 pack"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$3.20 per 1Ea"
+    }
+  ],
+  "brand": "Cook & Dine",
+  "createdAt": "2022-12-04T17:12:59.322Z",
+  "description": "Fold it. Arrange it. Lay it. Enjoy it. We've taken our passion and experience in food to curate a cook and dine range that helps you turn everyday ingredients into delicious recipes.",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/7/8/3784971.jpg",
+  "name": "Textured Hiball Glasses",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 12.8,
+    "lowPrice": 12.8,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-04T17:12:59.321Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "12.80",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/cok-dine-textured-hiball-glasses"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/cok-dine-textured-hiball-glasses"
+  ],
+  "sku": "3784971",
+  "updatedAt": "2022-12-04T17:12:59.321Z"
+}

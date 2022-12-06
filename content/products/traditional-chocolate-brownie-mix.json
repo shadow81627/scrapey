@@ -1,0 +1,54 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Sugar, Wheat Flour, Cocoa Powder (10%), Tapioca Starch, Canola Oil, Raising Agents (450, Sodium Bicarbonate)"
+    },
+    {
+      "name": "Dietary",
+      "value": "No Artificial Flavours or Colours"
+    },
+    {
+      "name": "Size",
+      "value": "380g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.63 per 100G"
+    }
+  ],
+  "brand": "Greens",
+  "createdAt": "2022-12-05T20:22:09.880Z",
+  "description": "Greens Traditional Chocolate Brownie Mix",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/1/2/8/1280230.jpg",
+  "name": "Traditional Chocolate Brownie Mix",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2.4,
+    "lowPrice": 2.4,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-05T20:22:09.879Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "2.40",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/greens-baking-mix-chocolate-brownie"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/greens-baking-mix-chocolate-brownie"
+  ],
+  "sku": "1280230",
+  "updatedAt": "2022-12-05T20:22:09.879Z"
+}

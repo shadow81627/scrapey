@@ -1,0 +1,50 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Servings Per Pack",
+      "value": "5.0"
+    },
+    {
+      "name": "Size",
+      "value": "500g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$21.00 per 1Kg"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2022-12-05T19:31:08.491Z",
+  "description": "With less than 5% fat, this lean mince is the healthy choice for recipes and a tasty one for meat-based sauces such as bolognaise. Coles Brand Fresh Beef is sourced from over 1,000 Aussie beef farmers. This range is 100% Australian grown with no added hormones.",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/8/8/5/8850654.jpg",
+  "name": "Beef 5 Star Extra Lean Mince",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 10.5,
+    "lowPrice": 10.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-05T19:31:08.490Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "10.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-beef-lean-5-star-mince"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/coles-beef-lean-5-star-mince"
+  ],
+  "sku": "8850654",
+  "updatedAt": "2022-12-05T19:31:08.490Z"
+}

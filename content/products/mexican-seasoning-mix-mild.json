@@ -1,0 +1,54 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Spices [Cumin (13%), Paprika, Chilli (3%)], Maize Flour, Sugar, Salt, Dextrose, Tomato Powder(4%), Herbs(4%), Garlic(3%), Onion(3%), Acidity Regulator (330), Anti-caking Agent (551), Colour (160c)."
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "10.0"
+    },
+    {
+      "name": "Size",
+      "value": "40g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$3.13 per 100G"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2022-12-06T02:51:02.476Z",
+  "description": "Coles mexican seasoning a great way to spice up your mexican meals. Try some on your tacos",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/3/6/2368610.jpg",
+  "name": "Mexican Seasoning Mix Mild",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 1.25,
+    "lowPrice": 1.25,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T02:51:02.475Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "1.25",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-mexican-seasoning"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/coles-mexican-seasoning"
+  ],
+  "sku": "2368610",
+  "updatedAt": "2022-12-06T02:51:02.476Z"
+}

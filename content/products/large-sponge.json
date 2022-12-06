@@ -1,0 +1,42 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Unit Price",
+      "value": "$6.00 per 1Ea"
+    }
+  ],
+  "brand": "Armor All",
+  "createdAt": "2022-12-05T21:28:02.880Z",
+  "description": "Armor All Large Sponge",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/9/8/9/9894892.jpg",
+  "name": "Large Sponge",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 6,
+    "lowPrice": 6,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-05T21:28:02.879Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "6.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/armorall-sponge-large"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/armorall-sponge-large"
+  ],
+  "sku": "9894892",
+  "updatedAt": "2022-12-05T21:28:02.879Z"
+}

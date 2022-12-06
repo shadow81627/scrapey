@@ -1,0 +1,60 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "Approx.446kJ",
+      "carbohydrateContent": "Approx.26.3g",
+      "dietary_fibre": "Approx.0g",
+      "fatContent": "Approx.0g",
+      "name": "nutrition",
+      "proteinContent": "Approx.0g",
+      "saturatedFatContent": "Approx.0g",
+      "servingSize": "100 g",
+      "sodiumContent": "Approx.13mg",
+      "sugarContent": "Approx.26.3g"
+    }
+  ],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "La Ice"
+  },
+  "createdAt": "2022-12-06T05:18:42.694Z",
+  "description": "Launched in 2000, LA Ice has gone on to become one of Australia’s favourite colas. With a rich caramel flavour and great cola taste, LA Ice has become the cola alternative for consumers looking for a change from the major cola brands.",
+  "gtin13": "9345905000092",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/842241.jpg",
+  "name": "La Ice Cola Bottle Bottle 2L",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2,
+    "lowPrice": 2,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T05:18:42.694Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 2,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/842241/la-ice-cola-bottle-bottle"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/842241/la-ice-cola-bottle-bottle"
+  ],
+  "sku": "842241",
+  "updatedAt": "2022-12-06T05:18:42.694Z"
+}

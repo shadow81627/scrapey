@@ -1,0 +1,60 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "344kJ",
+      "carbohydrateContent": "19.9g",
+      "dietary_fibre": "3.24g",
+      "fatContent": "0.4g",
+      "name": "nutrition",
+      "proteinContent": "0.7g",
+      "saturatedFatContent": "0.4g",
+      "servingSize": "100 g",
+      "sodiumContent": "3mg",
+      "sugarContent": "17.2g"
+    }
+  ],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Rafferty's Garden"
+  },
+  "createdAt": "2022-12-05T23:42:41.424Z",
+  "description": "We know that mums want the best for their babies so this pouch contains premium fruit and vegetables. Made in Australia with NOTHING ELSE except for Apple, Banana & Peach and no preservatives, no artificial colours or preservatives, no added salt or sugar, just delicious, nutritious goodness for your baby. With its smooth texture it’s the perfect first food for bubs trying pureed solid food for the first time. This Apple, Banana & Peach smooth pouch is a tasty fruit combo that's simply packed with fruit.",
+  "gtin13": "9421901088064",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/709557.jpg",
+  "name": "Rafferty's Garden Baby Food Pouch Apple, Banana & Peach Nothing Else 4+ Months 120g",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2.15,
+    "lowPrice": 2.15,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-12-05T23:42:41.423Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 2.15,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/709557/rafferty-s-garden-baby-food-pouch-apple-banana-peach-nothing-else-4-months"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/709557/rafferty-s-garden-baby-food-pouch-apple-banana-peach-nothing-else-4-months"
+  ],
+  "sku": "709557",
+  "updatedAt": "2022-12-05T23:42:41.424Z"
+}

@@ -1,0 +1,51 @@
+{
+  "@type": "Product",
+  "additionalProperty": [],
+  "aggregateRating": {
+    "@context": "http://schema.org",
+    "@type": "AggregateRating",
+    "ratingCount": 242,
+    "ratingValue": 3.99173553719008
+  },
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Plantitude"
+  },
+  "createdAt": "2022-12-05T10:31:09.138Z",
+  "gtin13": "9339687171071",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/092236.jpg",
+  "name": "Plantitude Chicken Free Crumbed Schnitzels 300g",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 6,
+    "lowPrice": 6,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-12-05T10:31:09.137Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 6,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/92236/plantitude-chicken-free-crumbed-schnitzels"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/92236/plantitude-chicken-free-crumbed-schnitzels"
+  ],
+  "sku": "92236",
+  "updatedAt": "2022-12-05T10:31:09.137Z"
+}

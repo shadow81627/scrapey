@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "750g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$5.20 per 1Kg"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2022-12-05T23:12:11.214Z",
+  "description": "Aussie Bananas earn their spot at the top of the shopping list by not only being the perfectly packaged on-the-go snack, they just happen to be full of nutrients too! Our kids pack bananas are the same great banana, just smaller sized",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/5/1/2511791.jpg",
+  "name": "Kids Pack Bananas",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3.9,
+    "lowPrice": 3.9,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-05T23:12:11.213Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "3.90",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-fresh-kids-pack-bananas"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/coles-fresh-kids-pack-bananas"
+  ],
+  "sku": "2511791",
+  "updatedAt": "2022-12-05T23:12:11.213Z"
+}

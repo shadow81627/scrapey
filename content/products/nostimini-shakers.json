@@ -1,0 +1,50 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Sea Salt, Spices, Herbs, Milled Rice, Milled Corn & Maize Maltodextrin, Cane Sugar, Vegetables, Natural Vegetable and Citrus Flavours, Yeast Extract, Vegetable Oil, Olive Oil."
+    },
+    {
+      "name": "Size",
+      "value": "175g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$3.14 per 100G"
+    }
+  ],
+  "brand": "Gaganis",
+  "createdAt": "2022-12-04T19:10:06.406Z",
+  "description": "Gaganis Nostimini Shakers",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/5/0/2505256.jpg",
+  "name": "Nostimini Shakers",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 5.5,
+    "lowPrice": 5.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-04T19:10:06.405Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "5.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/gaganis-nostimini-shakers"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/gaganis-nostimini-shakers"
+  ],
+  "sku": "2505256",
+  "updatedAt": "2022-12-04T19:10:06.405Z"
+}

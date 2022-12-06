@@ -1,0 +1,45 @@
+{
+  "@type": "Product",
+  "additionalProperty": [],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Airwick"
+  },
+  "createdAt": "2022-12-06T05:02:13.689Z",
+  "gtin13": "9300701817022",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/083514.jpg",
+  "name": "Airwick Pure New Car Air Freshener 2.5mL",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 5.6,
+    "lowPrice": 5.6,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T05:02:13.689Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 5.6,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/83514/airwick-pure-new-car-air-freshener"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/83514/airwick-pure-new-car-air-freshener"
+  ],
+  "sku": "83514",
+  "updatedAt": "2022-12-06T05:02:13.689Z"
+}

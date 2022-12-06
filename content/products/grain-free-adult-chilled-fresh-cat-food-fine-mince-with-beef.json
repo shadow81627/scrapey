@@ -1,0 +1,50 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Meat (Chicken, Kangaroo, Beef, and/or Pork), Flavour, Vitamins & Minerals, Amino Acids, Mineral Salt, Vegetable Oil, Gelling Agents, Food Acid, Natural Colour, Preservatives (223,202), Animal Fat, Taurine"
+    },
+    {
+      "name": "Size",
+      "value": "70g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$2.50 per 100G"
+    }
+  ],
+  "brand": "Fussy Cat",
+  "createdAt": "2022-12-05T12:45:42.323Z",
+  "description": "Fussy Cat Grain Free Adult Chilled Fresh Cat Food Fine Mince with Beef",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/5/7/3576409.jpg",
+  "name": "Grain Free Adult Chilled Fresh Cat Food Fine Mince with Beef",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 1.75,
+    "lowPrice": 1.75,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-05T12:45:42.322Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "1.75",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/fussy-cat-grainfree-cf-fine-mince-with-beef"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/fussy-cat-grainfree-cf-fine-mince-with-beef"
+  ],
+  "sku": "3576409",
+  "updatedAt": "2022-12-05T12:45:42.322Z"
+}

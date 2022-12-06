@@ -1,0 +1,50 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Warning",
+      "value": "Keep away from children, and supervise any use near children. Always dispose of in the rubbish bin, never dispose in the toilet."
+    },
+    {
+      "name": "Size",
+      "value": "200 pack"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.52 per 100Ea"
+    }
+  ],
+  "brand": "Swisspers",
+  "createdAt": "2022-12-06T01:37:06.878Z",
+  "description": "Swisspers Cotton Balls",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/9/7/9/9790569.jpg",
+  "name": "Cotton Balls",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3.04,
+    "lowPrice": 3.04,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T01:37:06.876Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "3.04",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/swisspers-cotton-balls"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/swisspers-cotton-balls"
+  ],
+  "sku": "9790569",
+  "updatedAt": "2022-12-06T01:37:06.877Z"
+}

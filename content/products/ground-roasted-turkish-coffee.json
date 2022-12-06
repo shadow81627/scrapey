@@ -1,0 +1,54 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Ground Roasted Turkish Coffee."
+    },
+    {
+      "name": "Size",
+      "value": "100g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$5.60 per 100G"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Product of Israel"
+    }
+  ],
+  "brand": "Elite",
+  "createdAt": "2022-12-04T18:35:26.487Z",
+  "description": "Elite Ground Roasted Turkish Coffee",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/9/1/5/9151672.jpg",
+  "name": "Ground Roasted Turkish Coffee",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 5.6,
+    "lowPrice": 5.6,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-04T18:35:26.486Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "5.60",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/elite-coffee-turkish-9151672p"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/elite-coffee-turkish-9151672p"
+  ],
+  "sku": "9151672",
+  "updatedAt": "2022-12-04T18:35:26.486Z"
+}

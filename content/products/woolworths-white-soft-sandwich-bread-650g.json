@@ -1,0 +1,66 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "Approx.616kJ",
+      "carbohydrateContent": "Approx.28g",
+      "dietary_fibre": "Approx.1.6g",
+      "fatContent": "Approx.1.2g",
+      "name": "nutrition",
+      "proteinContent": "Approx.4.9g",
+      "saturatedFatContent": "&lt;1g",
+      "servingSize": "100 g",
+      "sodiumContent": "Approx.210mg",
+      "sugarContent": "Approx.2.2g"
+    }
+  ],
+  "aggregateRating": {
+    "@context": "http://schema.org",
+    "@type": "AggregateRating",
+    "ratingCount": 7,
+    "ratingValue": 3.57142857142857
+  },
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Woolworths"
+  },
+  "createdAt": "2022-12-05T21:20:07.809Z",
+  "description": "White sandwich sliced bread  A source of fibre that'll keep your kids digestive systems happy (1), these slices are the perfect tummy filler. (1) As part of a healthy balanced diet.",
+  "gtin13": "9300633636838",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/581172.jpg",
+  "name": "Woolworths White Soft Sandwich Bread 650G",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2.2,
+    "lowPrice": 2.2,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-12-05T21:20:07.806Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 2.2,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/581172/woolworths-white-soft-sandwich-bread"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/581172/woolworths-white-soft-sandwich-bread"
+  ],
+  "sku": "581172",
+  "updatedAt": "2022-12-05T21:20:07.806Z"
+}

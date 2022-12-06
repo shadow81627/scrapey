@@ -1,0 +1,52 @@
+{
+  "@type": "Product",
+  "additionalProperty": [],
+  "aggregateRating": {
+    "@context": "http://schema.org",
+    "@type": "AggregateRating",
+    "ratingCount": 1,
+    "ratingValue": 4
+  },
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "VIVA"
+  },
+  "createdAt": "2022-12-06T00:28:19.480Z",
+  "description": "<p>VIVA Multi-Purpose Cleaning Towel – a versatile, fast-absorbing paper towel which helps you deal with mess quickly and effectively.<br/><br/>VIVA Multi-Purpose Cleaning Towel – a versatile, fast-absorbing paper towel which helps you deal with mess quickly and effectively. Use VIVA everyday and everywhere for any mess!<br/><br/><br/>Unique Quick Clean Texture Designed to absorb FAST<br/><br/>Cleans Even Better When Wet Allowing you to easily deal with life’s thrills and spills<br/><br/>Fast Absorbing An absorbent and durable paper towel ideal for a wide range of cleaning jobs.<br/><br/>FSC Certified  For responsible forest management<br/></p>",
+  "gtin13": "9310088006698",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/249921.jpg",
+  "name": "Viva Paper Towels 180 Sheets 3 Pack",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 4.5,
+    "lowPrice": 4.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T00:28:19.480Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 4.5,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/249921/viva-paper-towel-white-180-sheets"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/249921/viva-paper-towel-white-180-sheets"
+  ],
+  "sku": "249921",
+  "updatedAt": "2022-12-06T00:28:19.480Z"
+}

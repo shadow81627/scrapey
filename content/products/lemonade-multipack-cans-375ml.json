@@ -1,0 +1,54 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Carbonated Water, Sugar, Food Acids (330, 331), Natural Flavours, Preservative (211)."
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "10.0"
+    },
+    {
+      "name": "Size",
+      "value": "10 pack"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$2.00 per 1L"
+    }
+  ],
+  "brand": "Schweppes",
+  "createdAt": "2022-12-04T14:22:09.630Z",
+  "description": "Schweppes Lemonade Multipack Cans 375mL",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/6/8/2684155.jpg",
+  "name": "Lemonade Multipack Cans 375mL",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 7.5,
+    "lowPrice": 7.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-04T14:22:09.629Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "7.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/schweppes-lemonade-375ml-cans"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/schweppes-lemonade-375ml-cans"
+  ],
+  "sku": "2684155",
+  "updatedAt": "2022-12-04T14:22:09.629Z"
+}

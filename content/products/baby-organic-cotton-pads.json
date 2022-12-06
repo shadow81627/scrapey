@@ -1,0 +1,54 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "COMPOSITION: 100% Certified Organic cotton"
+    },
+    {
+      "name": "Warning",
+      "value": "Keep packaging away from babies & children to avoid suffocation, and supervise any use near children."
+    },
+    {
+      "name": "Size",
+      "value": "40 PACK"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.13 per 1Ea"
+    }
+  ],
+  "brand": "Swisspers",
+  "createdAt": "2022-12-06T00:59:50.338Z",
+  "description": "Swisspers Baby Organic Cotton Pads",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/3/8/5381262.jpg",
+  "name": "Baby Organic Cotton Pads",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 5,
+    "lowPrice": 5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/OutOfStock",
+        "availabilityStarts": "2022-12-06T00:59:50.338Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "5.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/organic-cotton-pads"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/organic-cotton-pads"
+  ],
+  "sku": "5381262",
+  "updatedAt": "2022-12-06T00:59:50.338Z"
+}

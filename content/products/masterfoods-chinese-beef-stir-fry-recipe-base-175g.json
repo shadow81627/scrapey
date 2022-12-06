@@ -1,0 +1,60 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "125.0kJ",
+      "carbohydrateContent": "6.2g",
+      "dietary_fibre": "0.99g",
+      "fatContent": "&lt; 0.1g",
+      "name": "nutrition",
+      "proteinContent": "0.7g",
+      "saturatedFatContent": "&lt; 0.1g",
+      "servingSize": "100 g",
+      "sodiumContent": "491.0mg",
+      "sugarContent": "3.7g"
+    }
+  ],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "MasterFoods"
+  },
+  "createdAt": "2022-12-05T08:03:22.670Z",
+  "description": "<p>Make home cooking EASY with delicious MasterFoods Chinese Beef Stir Fry Recipe Base<br/><br/>Take your tastebuds on a trip to Asia with MasterFoods™ Chinese Beef Stir Fry Recipe Base. Made with carefully selected aromatic ingredients including garlic, ginger and soy sauce.<br/><br/>- Blended with MasterFoods™ Herbs & Spices<br/><br/>- No Artificial Colours<br/> </p>",
+  "gtin13": "9310012026358",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/172092.jpg",
+  "name": "Masterfoods Chinese Beef Stir Fry Recipe Base 175G",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2.8,
+    "lowPrice": 2.8,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-12-05T08:03:22.669Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 2.8,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/172092/masterfoods-chinese-beef-stir-fry-recipe-base"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/172092/masterfoods-chinese-beef-stir-fry-recipe-base"
+  ],
+  "sku": "172092",
+  "updatedAt": "2022-12-05T08:03:22.669Z"
+}

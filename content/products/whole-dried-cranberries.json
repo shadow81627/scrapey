@@ -1,0 +1,58 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Cranberries, sugar, sunflower oil."
+    },
+    {
+      "name": "Allergen",
+      "value": "May Be Present Nuts, May Be Present Sesame Seeds"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "2.0"
+    },
+    {
+      "name": "Size",
+      "value": "100g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$90.00 per 1Kg"
+    }
+  ],
+  "brand": "Artisan",
+  "createdAt": "2022-12-05T17:33:24.561Z",
+  "description": "Matches perfectly with a buttery double or triple cream, bloomy rinsed cheese. Perfect addition to any platter.",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/0/5/3054480.jpg",
+  "name": "Whole Dried Cranberries",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 9,
+    "lowPrice": 9,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-05T17:33:24.559Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "9.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/artisan-whole-dried-cranberries"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/artisan-whole-dried-cranberries"
+  ],
+  "sku": "3054480",
+  "updatedAt": "2022-12-05T17:33:24.560Z"
+}

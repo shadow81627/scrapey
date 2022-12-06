@@ -1,0 +1,62 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "*sardines* (68%), extra virgin olive oil, salt. *Contains fish.*"
+    },
+    {
+      "name": "Allergen",
+      "value": "Contains Fish"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "1.0"
+    },
+    {
+      "name": "Size",
+      "value": "110g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$21.82 per 1Kg"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Made in United Kingdom"
+    }
+  ],
+  "brand": "John West",
+  "createdAt": "2022-12-05T22:46:33.639Z",
+  "description": "The natural taste of quality sardines in extra virgin olive oil.",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/1/2/4/124819.jpg",
+  "name": "Sardines in Oil",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2.4,
+    "lowPrice": 2.4,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-05T22:46:33.638Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "2.40",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/john-west-sardines-in-oil"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/john-west-sardines-in-oil"
+  ],
+  "sku": "124819",
+  "updatedAt": "2022-12-05T22:46:33.638Z"
+}

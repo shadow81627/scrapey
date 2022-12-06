@@ -1,0 +1,54 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "INGREDIENTS: Nutmeg, Coriander, Cumin, Cloves, Fennel, Cardamom, Cinnamon, Ginger, Black Pepper."
+    },
+    {
+      "name": "Size",
+      "value": "42g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.60 per 10G"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Packed in India"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2022-12-04T16:52:42.098Z",
+  "description": "Mix with olive oil as a rub or marinade for grilled meats, fish or chicken.",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/8/9/8/8987477.jpg",
+  "name": "Garam Masala",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2.5,
+    "lowPrice": 2.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-04T16:52:42.098Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "2.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-brand-garam-masala"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/coles-brand-garam-masala"
+  ],
+  "sku": "8987477",
+  "updatedAt": "2022-12-04T16:52:42.098Z"
+}

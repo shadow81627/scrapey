@@ -1,0 +1,58 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Carrot, peas, sweet corn."
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "13.0"
+    },
+    {
+      "name": "Size",
+      "value": "1 kg"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$5.50 per 1Kg"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Product of Mixed Origin"
+    }
+  ],
+  "brand": "Birds Eye",
+  "createdAt": "2022-12-05T15:14:14.869Z",
+  "description": "Birds Eye Snap Frozen Carrot Peas & Corn",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/0/7/5072778.jpg",
+  "name": "Snap Frozen Carrot Peas & Corn",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 5.5,
+    "lowPrice": 5.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-05T15:14:14.868Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "5.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/birds-eye-country-harvest-carrot-peas-corn-frozen"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/birds-eye-country-harvest-carrot-peas-corn-frozen"
+  ],
+  "sku": "5072778",
+  "updatedAt": "2022-12-05T15:14:14.868Z"
+}

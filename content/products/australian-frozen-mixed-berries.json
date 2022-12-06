@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "400g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.50 per 100G"
+    }
+  ],
+  "brand": "You Beaut",
+  "createdAt": "2022-12-05T18:57:19.206Z",
+  "description": "You Beaut Australian Frozen Mixed Berries",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/9/8/3989770.jpg",
+  "name": "Australian Frozen Mixed Berries",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 6,
+    "lowPrice": 6,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-05T18:57:19.206Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "6.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/frozen-mixed-berries"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/frozen-mixed-berries"
+  ],
+  "sku": "3989770",
+  "updatedAt": "2022-12-05T18:57:19.206Z"
+}

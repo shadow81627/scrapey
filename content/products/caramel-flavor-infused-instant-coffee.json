@@ -1,0 +1,62 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Coffee Beans, Natural Flavouring."
+    },
+    {
+      "name": "Allergen",
+      "value": "Contains Caffeine"
+    },
+    {
+      "name": "Warning",
+      "value": "Quality Seal - If Broken Do Not Purchase."
+    },
+    {
+      "name": "Size",
+      "value": "95g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$12.11 per 100G"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Made in the Netherlands with coffee from multiple origins"
+    }
+  ],
+  "brand": "Moccona",
+  "createdAt": "2022-12-04T21:13:13.644Z",
+  "description": "Moscone Coffee Caramel Experience a more indulgent coffee moment with a delicious hint of natural flavour.",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/9/9/2/9928848.jpg",
+  "name": "Caramel Flavor Infused Instant Coffee",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 11.5,
+    "lowPrice": 11.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-04T21:13:13.643Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "11.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/moccona-coffee-instant-caramel"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/moccona-coffee-instant-caramel"
+  ],
+  "sku": "9928848",
+  "updatedAt": "2022-12-04T21:13:13.643Z"
+}

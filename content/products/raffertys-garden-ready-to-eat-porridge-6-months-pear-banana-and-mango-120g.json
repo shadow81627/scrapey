@@ -1,0 +1,60 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "379.0kJ",
+      "carbohydrateContent": "15.3g",
+      "dietary_fibre": "2.04g",
+      "fatContent": "1.8g",
+      "name": "nutrition",
+      "proteinContent": "2.3g",
+      "saturatedFatContent": "0.7g",
+      "servingSize": "100 g",
+      "sodiumContent": "11.0mg",
+      "sugarContent": "8.3g"
+    }
+  ],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Rafferty's Garden"
+  },
+  "createdAt": "2022-12-05T23:47:20.610Z",
+  "description": "Our Banana, Pear & Mango Porridge is made with fresh milk, oats and fruit. This tasty pouch is a nutritious and convenient breakfast option for your baby.",
+  "gtin13": "9340156000501",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/498490.jpg",
+  "name": "Rafferty's Garden Ready To Eat Porridge 6 Months Pear Banana & Mango 120G",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2.15,
+    "lowPrice": 2.15,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-12-05T23:47:20.609Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 2.15,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/498490/rafferty-s-garden-ready-to-eat-porridge-6-months-pear-banana-mango"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/498490/rafferty-s-garden-ready-to-eat-porridge-6-months-pear-banana-mango"
+  ],
+  "sku": "498490",
+  "updatedAt": "2022-12-05T23:47:20.609Z"
+}

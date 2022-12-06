@@ -1,0 +1,50 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "4 pack"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$4.67 per 1L"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Made in Australia"
+    }
+  ],
+  "brand": "Bundaberg",
+  "createdAt": "2022-12-05T14:13:34.814Z",
+  "description": "Bundaberg Pineapple & Coconut Sparkling Drink Multipack Bottles 375mL",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/4/8/2481293.jpg",
+  "name": "Pineapple & Coconut Sparkling Drink Multipack Bottles 375mL",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 7,
+    "lowPrice": 7,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-05T14:13:34.814Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "7.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/bundaberg-brewed-pineapple-coconut-375ml-bottles"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/bundaberg-brewed-pineapple-coconut-375ml-bottles"
+  ],
+  "sku": "2481293",
+  "updatedAt": "2022-12-05T14:13:34.814Z"
+}

@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "30m"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.19 per 1M"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2022-12-05T16:38:57.935Z",
+  "description": "Coles Wrap Foil 30 Metre. Cover leftovers to enjoy another time. With sharp cutting edge for ease of use.",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/4/4/8/4486287.jpg",
+  "name": "Aluminium Foil Wrap 30m x 30cm",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 5.8,
+    "lowPrice": 5.8,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-05T16:38:57.934Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "5.80",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-wrap-aluminium-foil-4486287p"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/coles-wrap-aluminium-foil-4486287p"
+  ],
+  "sku": "4486287",
+  "updatedAt": "2022-12-05T16:38:57.934Z"
+}

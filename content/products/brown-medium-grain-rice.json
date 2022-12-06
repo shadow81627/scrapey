@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "250g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.20 per 100G"
+    }
+  ],
+  "brand": "Sunrice",
+  "createdAt": "2022-12-05T04:13:45.464Z",
+  "description": "Gluten freeWholegrain",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/4/8/5/4854370.jpg",
+  "name": "Brown Medium Grain Rice",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3,
+    "lowPrice": 3,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-05T04:13:45.463Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "3.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/sunrice-microwaveable-brown-rice"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/sunrice-microwaveable-brown-rice"
+  ],
+  "sku": "4854370",
+  "updatedAt": "2022-12-05T04:13:45.463Z"
+}

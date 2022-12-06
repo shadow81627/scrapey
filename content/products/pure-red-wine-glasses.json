@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "2 pack"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$17.00 per 1Ea"
+    }
+  ],
+  "brand": "Schott Zwiesel",
+  "createdAt": "2022-12-06T01:18:55.956Z",
+  "description": "Tritan® Crystal Glass.Exceptional brilliance. Shatter, scratch & chip resistant. 100% Dishwasher Safe. Lead free. Made in Germany.",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/0/2/5022838.jpg",
+  "name": "Pure Red Wine Glasses",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 34,
+    "lowPrice": 34,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T01:18:55.955Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "34.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/wine-glasses-5022838p-1"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/wine-glasses-5022838p-1"
+  ],
+  "sku": "5022838",
+  "updatedAt": "2022-12-06T01:18:55.955Z"
+}

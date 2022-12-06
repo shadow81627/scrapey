@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Byron Bay Brewery"
+  },
+  "createdAt": "2022-12-05T22:29:49.609Z",
+  "description": "Byron Bay Brewery offers up the taste of Byron with a classic, crisp lager. Created in the heart of Byron, capturing the young, vibrant lifestyle in the beach town suburb, this beer is perfect for spring gatherings, good music and good times.<br> <br><strong>Liquor Style:</strong> Craft Beer <br><strong>Alcohol %:</strong> 4.2 <br><strong>Standard Drinks:</strong> 1.2 <br><strong>Country Of Origin:</strong> Australia",
+  "gtin13": "9325528003175",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/060281.jpg",
+  "name": "Byron Bay Brewery Premium Lager Bottle 355mL",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 4.9,
+    "lowPrice": 4.9,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-12-05T22:29:49.609Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 4.9,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/60281/byron-bay-brewery-premium-lager-bottle"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/60281/byron-bay-brewery-premium-lager-bottle"
+  ],
+  "sku": "60281",
+  "updatedAt": "2022-12-05T22:29:49.609Z"
+}

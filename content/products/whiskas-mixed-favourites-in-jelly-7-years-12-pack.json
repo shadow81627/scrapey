@@ -1,0 +1,52 @@
+{
+  "@type": "Product",
+  "additionalProperty": [],
+  "aggregateRating": {
+    "@context": "http://schema.org",
+    "@type": "AggregateRating",
+    "ratingCount": 1,
+    "ratingValue": 1
+  },
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Whiskas"
+  },
+  "createdAt": "2022-12-05T23:10:29.209Z",
+  "description": "<p>It’s cat’s independent, free-spirited nature that we admire. But even an independent spirit needs love and care. And it’s their return to your arms that truly touches your heart. Whiskas® brand understands cats behaviours, needs and loves. That’s why we can help you care for them in the best way possible.<br/><br/>WHISKAS helps nurture your cat during their older years, with meals to feed their curiosity. Our WHISKAS 7+ Years range offers a variety of tailored meals that have been developed with smaller chunks that we know your cat will love. 100% Complete & Balanced with a combination of quality protein, vitamins and minerals in a juicy gravy or appertising jelly, specifically developed to help your cat maintain a healthy and balanced lifestyle. Providing 100% of your Cat's daily nutrition.<br/><br/>Contains Omega 6 and Zinc to help maintain a healthy skin and coat.<br/><br/>Promotes urinary tract health through a high moisture diet that ensures adequate water intake.<br/><br/>Calcium for maintaining strong bones.<br/><br/>Quality protein to help maintain ideal body condition.</p>",
+  "gtin13": "9334214053509",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/088204.jpg",
+  "name": "Whiskas Mixed Favourites In Jelly 7+ Years 12 Pack",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 9.5,
+    "lowPrice": 9.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-12-05T23:10:29.208Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 9.5,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/88204/whiskas-mixed-favourites-in-jelly-7-years"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/88204/whiskas-mixed-favourites-in-jelly-7-years"
+  ],
+  "sku": "88204",
+  "updatedAt": "2022-12-05T23:10:29.208Z"
+}

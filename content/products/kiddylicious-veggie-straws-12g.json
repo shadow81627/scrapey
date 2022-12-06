@@ -1,0 +1,60 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "Approx.288kJ",
+      "carbohydrateContent": "Approx.6.4g",
+      "dietary_fibre": "-",
+      "fatContent": "Approx.3.6g",
+      "name": "nutrition",
+      "proteinContent": "Approx.0.3g",
+      "saturatedFatContent": "Approx.0.3g",
+      "servingSize": "100 g",
+      "sodiumContent": "Approx.16mg",
+      "sugarContent": "Approx.0.1g"
+    }
+  ],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Kiddylicious"
+  },
+  "createdAt": "2022-12-05T23:38:14.877Z",
+  "description": "<p>Perfect finger food for toddlers 12 months +, tasty hollow veggie straws made with vegetables Healthier snack alternative to crisps for toddlers Fun and colourful hollow tubes, perfect for little hands Perfect finger food to encourage self feeding Suitable for coeliac. Gluten free, nut free and egg free with absolutely nothing artificialPortion sized packs to enjoy in between meals, at home and to view our full snacks/meals rangeKiddylicious snacks keep tiny tummies topped up between meals as well as supporting little ones' development. There is something for everyone from weaning for babies to infant finger food. We guarantee that our snacks will be bursting with lots of yummy flavours with different shapes and textures .For snacks on the go we've got it covered. Have you tried our:Kiddylicious Fruity Puffs for independent sitting 7+monthsKiddylicious  Smoothie Melts for Toddling 12+ Months</p>",
+  "gtin13": "5060040256138",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/056227.jpg",
+  "name": "Kiddylicious Veggie Straws 12G",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2,
+    "lowPrice": 2,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-12-05T23:38:14.876Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 2,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/56227/kiddylicious-veggie-straws"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/56227/kiddylicious-veggie-straws"
+  ],
+  "sku": "56227",
+  "updatedAt": "2022-12-05T23:38:14.877Z"
+}

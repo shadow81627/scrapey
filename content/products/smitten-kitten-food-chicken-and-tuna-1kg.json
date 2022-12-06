@@ -1,0 +1,52 @@
+{
+  "@type": "Product",
+  "additionalProperty": [],
+  "aggregateRating": {
+    "@context": "http://schema.org",
+    "@type": "AggregateRating",
+    "ratingCount": 2,
+    "ratingValue": 4
+  },
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Smitten"
+  },
+  "createdAt": "2022-12-05T23:06:57.293Z",
+  "description": "<div>We understand that cats are adventurous and energetic. They deserve the best care and nutrition to satisfy their individual needs. <br>Our recipes are specially formulated to satisfy their taste buds, nourish their bodies, and fuel their adventurous nature.<br><br>Each Smitten meals contains: <br><br>- Essential proteins, vitamins and minerals for everyday health.<br>- Omega 6 for a healthy skin and coat<br>- Added Taurine for healthy eyes & heart.  <br>- Balanced Calcium and Phosphorus for strong teeth and bones.  <br>- Contains Vitamin E to help support immune system.  <br>- Natural Fibre for healthy digestive system. <br>- No artificial colours.  <br>- No artificial flavours.  <br>- No preservatives added<br><br>Smitten Cat Food is formulated to meet the nutritional levels established by the Association of American Feed Control Officials (AAFCO) Cat Food Nutrient Profiles for growing kittens.</div>",
+  "gtin13": "9300633553821",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/481088.jpg",
+  "name": "Smitten Kitten Food Chicken & Tuna 1Kg",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3,
+    "lowPrice": 3,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/OutOfStock",
+        "availabilityStarts": "2022-12-05T23:06:57.292Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 3,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/481088/smitten-kitten-food-chicken-tuna"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/481088/smitten-kitten-food-chicken-tuna"
+  ],
+  "sku": "481088",
+  "updatedAt": "2022-12-05T23:06:57.292Z"
+}

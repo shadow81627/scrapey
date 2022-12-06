@@ -1,0 +1,54 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Blend of natural fruits, nuts, and seeds."
+    },
+    {
+      "name": "Warning",
+      "value": "Pet Food Only."
+    },
+    {
+      "name": "Size",
+      "value": "1.4kg"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.66 per 100G"
+    }
+  ],
+  "brand": "Bird Munchies",
+  "createdAt": "2022-12-05T18:11:32.695Z",
+  "description": "Bird Munchies Wild Block Bird Treat",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/7/5/9/7596984.jpg",
+  "name": "Wild Block Bird Treat",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 9.3,
+    "lowPrice": 9.3,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-05T18:11:32.695Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "9.30",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/bird-munchies-bird-treat-wild-block"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/bird-munchies-bird-treat-wild-block"
+  ],
+  "sku": "7596984",
+  "updatedAt": "2022-12-05T18:11:32.695Z"
+}

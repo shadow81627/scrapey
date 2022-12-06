@@ -1,0 +1,50 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Contains",
+      "value": "12 Blue Pens"
+    },
+    {
+      "name": "Size",
+      "value": "12 pack"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.46 per 1Ea"
+    }
+  ],
+  "brand": "Bic",
+  "createdAt": "2022-12-04T23:33:59.823Z",
+  "description": "Bic Cristal Original Blue",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/1/5/5154453.jpg",
+  "name": "Cristal Original Blue",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 5.5,
+    "lowPrice": 5.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/OutOfStock",
+        "availabilityStarts": "2022-12-04T23:33:59.822Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "5.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/blue-12pk"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/blue-12pk"
+  ],
+  "sku": "5154453",
+  "updatedAt": "2022-12-04T23:33:59.822Z"
+}

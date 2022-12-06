@@ -1,0 +1,83 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1",
+    "ratingValue": "5"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Oh My Veggies"
+  },
+  "cookTime": "PT40M",
+  "createdAt": "2022-12-05T02:05:00.346Z",
+  "datePublished": "2018-10-13T06:00:16+00:00",
+  "description": "Now that the weather is getting cooler, you can warm up with this excellent apples and carrot soup recipe.",
+  "image": [
+    "https://ohmyveggies.com/wp-content/uploads/2018/10/apple-and-carrot-soup-1-scaled.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2018/10/apple-and-carrot-soup-1-500x500.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2018/10/apple-and-carrot-soup-1-500x375.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2018/10/apple-and-carrot-soup-1-480x270.jpg"
+  ],
+  "keywords": "Apples and Carrot Soup, carrot soup recipe",
+  "name": "Apples and Carrot Soup",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "798 kcal",
+    "carbohydrateContent": "96 g",
+    "cholesterolContent": "163 mg",
+    "fatContent": "45 g",
+    "fiberContent": "15 g",
+    "proteinContent": "10 g",
+    "saturatedFatContent": "28 g",
+    "servingSize": "4 g",
+    "sodiumContent": "2538 mg",
+    "sugarContent": "37 g",
+    "unsaturatedFatContent": "15 g"
+  },
+  "prepTime": "PT15M",
+  "recipeCategory": "Side Dish",
+  "recipeCuisine": "American",
+  "recipeIngredient": [
+    "6 carrots",
+    "2 apples",
+    "2 potatoes",
+    "1 onion",
+    "1 teaspoon curry",
+    "Salt and pepper to taste",
+    "1 cup cream (milk for a lighter version)",
+    "5 cups vegetable broth",
+    "Basil (I use purple, but you can use whatever you have on hand)"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Wash and peel carrots, potatoes, and apples. Cut into small pieces."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Cut the onion and let it sweat with oil in a casserole dish."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add carrots, potatoes, apples, curry, and vegetable broth."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Bring to a boil, then simmer for 40 minutes."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Sprinkle with basil. Serve hot."
+    }
+  ],
+  "recipeYield": "2",
+  "sameAs": [
+    "https://ohmyveggies.com/apples-and-carrot-soup"
+  ],
+  "suitableForDiet": [
+    "https://schema.org/VegetarianDiet"
+  ],
+  "totalTime": "PT55M",
+  "updatedAt": "2022-12-05T02:05:00.345Z"
+}

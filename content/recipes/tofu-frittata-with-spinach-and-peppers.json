@@ -1,0 +1,83 @@
+{
+  "@type": "Recipe",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "4",
+    "ratingValue": "4"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Oh My Veggies"
+  },
+  "cookTime": "PT45M",
+  "createdAt": "2022-12-05T02:19:27.225Z",
+  "datePublished": "2015-07-08T09:07:39+00:00",
+  "description": "A veganized version of a classic brunch favorite. This egg-free frittata is made with savory baked tofu and is loaded with fresh summer veggies.",
+  "image": [
+    "https://ohmyveggies.com/wp-content/uploads/2015/07/Vegan-Frittata-4-of-6.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2015/07/Vegan-Frittata-4-of-6-500x400.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2015/07/Vegan-Frittata-4-of-6-500x375.jpg",
+    "https://ohmyveggies.com/wp-content/uploads/2015/07/Vegan-Frittata-4-of-6-480x270.jpg"
+  ],
+  "keywords": "egg-free frittata, Tofu Frittata, Tofu Frittata with Spinach and Peppers, vegan frittata",
+  "name": "Tofu Frittata with Spinach and Peppers",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "128 kcal",
+    "carbohydrateContent": "19 g",
+    "fatContent": "4 g",
+    "fiberContent": "4 g",
+    "proteinContent": "6 g",
+    "saturatedFatContent": "1 g",
+    "servingSize": "1 serving",
+    "sodiumContent": "533 mg",
+    "sugarContent": "4 g",
+    "unsaturatedFatContent": "4 g"
+  },
+  "prepTime": "PT10M",
+  "recipeCategory": "Breakfast",
+  "recipeCuisine": "American",
+  "recipeIngredient": [
+    "1-14 ounce package extra firm tofu (drained)",
+    "2 tablespoons soy sauce",
+    "2 tablespoons nutritional yeast flakes",
+    "1 tablespoon cornstarch",
+    "1/2 teaspoon ground turmeric (optional, for color)",
+    "1 tablespoon olive oil",
+    "1 medium red potato (about 8 ounces, finely diced)",
+    "1 onion (finely diced)",
+    "2 garlic cloves (minced)",
+    "2 scallions (chopped)",
+    "1 small red bell pepper (finely diced)",
+    "2 cups lightly packed baby spinach (sliced into thin strips (about 2 ounces)",
+    "1/4 teaspoon black pepper"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Place tofu, soy sauce, nutritional yeast, cornstarch and turmeric (if using) into the bowl of a food processor fitted with an S-blade. Process until smooth and creamy, stopping to scrape down sides of bowl as needed."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Coat a medium skillet with olive oil and place over medium heat. Add onion and potato. Sauté until lightly browned in spots, about 7 minutes. Remove from heat. Add garlic, scallions, bell pepper, spinach and black pepper. Fold in tofu mixture until evenly mixed."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Preheat oven to 375°F. Lightly oil 9 inch by 9 inch baking dish and transfer tofu and veggie mixture to dish. (If you're using an oven-safe skillet, you can skip this step.) Smooth out the top with a spatula."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Bake until firm in the center and lightly browned, about 35 minutes. Remove from oven and allow to sit 5-10 minutes before cutting."
+    }
+  ],
+  "recipeYield": "4",
+  "sameAs": [
+    "https://ohmyveggies.com/tofu-frittata-with-spinach-and-peppers"
+  ],
+  "suitableForDiet": [
+    "https://schema.org/VeganDiet",
+    "https://schema.org/VegetarianDiet"
+  ],
+  "totalTime": "PT55M",
+  "updatedAt": "2022-12-05T02:19:27.225Z"
+}

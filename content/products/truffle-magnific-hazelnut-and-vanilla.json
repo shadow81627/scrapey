@@ -1,0 +1,50 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "750g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.47 per 100G"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Product of Albania"
+    }
+  ],
+  "brand": "Kamila",
+  "createdAt": "2022-12-04T16:20:16.594Z",
+  "description": "Premium compound chocolate the world loves, filled with hazelnut and vanilla cream. Perfect for sharing.",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/8/1/3817414.jpg",
+  "name": "Truffle Magnific Hazelnut & Vanilla",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 11,
+    "lowPrice": 11,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-04T16:20:16.594Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "11.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/kamila-truffle-magnific-hazelnut-vanilla"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/kamila-truffle-magnific-hazelnut-vanilla"
+  ],
+  "sku": "3817414",
+  "updatedAt": "2022-12-04T16:20:16.594Z"
+}
