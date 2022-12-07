@@ -1,0 +1,62 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "South American flathead fillets (*fish*). *Contains fish.*"
+    },
+    {
+      "name": "Allergen",
+      "value": "Contains Fish"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "4.0"
+    },
+    {
+      "name": "Size",
+      "value": "500g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$15.00 per 1Kg"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Product of Argentina"
+    }
+  ],
+  "brand": "I&J",
+  "createdAt": "2022-12-06T20:33:18.335Z",
+  "description": "I&J The Finest Frozen South Atlantic Flathead Fillets",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/5/8/3580122.jpg",
+  "name": "The Finest Frozen South Atlantic Flathead Fillets",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 7.5,
+    "lowPrice": 7.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T20:33:18.335Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "7.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/i-j-flathead-fillets"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/i-j-flathead-fillets"
+  ],
+  "sku": "3580122",
+  "updatedAt": "2022-12-06T20:33:18.335Z"
+}

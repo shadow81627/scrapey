@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "4 pack"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.75 per 1Ea"
+    }
+  ],
+  "brand": "Duracell",
+  "createdAt": "2022-12-06T20:06:27.645Z",
+  "description": "Duracell Ultra Last up to 100% longer* *vs. ordinary carbon zinc AA/AAA batteries in 2015 IEC tests. Results may vary by device and usage pattern",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/7/9/6/7969210.jpg",
+  "name": "Ultra Alkaline AA Batteries",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 7,
+    "lowPrice": 7,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T20:06:27.644Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "7.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/duracell-ultra-alkaline-batteries-aa"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/duracell-ultra-alkaline-batteries-aa"
+  ],
+  "sku": "7969210",
+  "updatedAt": "2022-12-06T20:06:27.644Z"
+}

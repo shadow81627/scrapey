@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "30 pack"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.17 per 1Ea"
+    }
+  ],
+  "brand": "Tealight",
+  "createdAt": "2022-12-06T19:03:19.386Z",
+  "description": "Thirty tea light candles per pack. Each candle features white wax and cotton wick. Candles are unscented. Always carefully read safety warnings prior to use.",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/5/7/3575949.jpg",
+  "name": "Candles",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 5,
+    "lowPrice": 5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T19:03:19.385Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "5.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/tealight-candles-tealight-candles"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/tealight-candles-tealight-candles"
+  ],
+  "sku": "3575949",
+  "updatedAt": "2022-12-06T19:03:19.385Z"
+}

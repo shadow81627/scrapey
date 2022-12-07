@@ -1,0 +1,60 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "823.0kJ",
+      "carbohydrateContent": "1.0g",
+      "dietary_fibre": "-",
+      "fatContent": "15.0g",
+      "name": "nutrition",
+      "proteinContent": "11.0g",
+      "saturatedFatContent": "9.5g",
+      "servingSize": "100 g",
+      "sodiumContent": "126.0mg",
+      "sugarContent": "0.4g"
+    }
+  ],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Quest"
+  },
+  "createdAt": "2022-12-06T16:42:16.421Z",
+  "description": "Quest Peanut Butter Cups satisfy your sweet tooth with less than 1g of sugar, 11g of protein and 1g of carbs per serving. Can you believe it? Take a bite and find out for yourself.",
+  "gtin13": "1240000004328",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/153156.jpg",
+  "name": "Quest Peanut Butter Cups 42g",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 4.25,
+    "lowPrice": 4.25,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T16:42:16.421Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 4.25,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/153156/quest-peanut-butter-cups"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/153156/quest-peanut-butter-cups"
+  ],
+  "sku": "153156",
+  "updatedAt": "2022-12-06T16:42:16.421Z"
+}

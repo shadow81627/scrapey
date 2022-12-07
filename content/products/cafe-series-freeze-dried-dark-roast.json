@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "90g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$12.22 per 100G"
+    }
+  ],
+  "brand": "Robert Timms",
+  "createdAt": "2022-12-06T11:26:45.337Z",
+  "description": "Robert Timms Cafe Series Freeze Dried Dark Roast",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/7/6/3760690.jpg",
+  "name": "Cafe Series Freeze Dried Dark Roast",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 11,
+    "lowPrice": 11,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T11:26:45.336Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "11.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/robert-timms-cafe-series-freze-dried-dark-roast"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/robert-timms-cafe-series-freze-dried-dark-roast"
+  ],
+  "sku": "3760690",
+  "updatedAt": "2022-12-06T11:26:45.336Z"
+}

@@ -1,0 +1,52 @@
+{
+  "@type": "Product",
+  "additionalProperty": [],
+  "aggregateRating": {
+    "@context": "http://schema.org",
+    "@type": "AggregateRating",
+    "ratingCount": 3,
+    "ratingValue": 4.66666666666667
+  },
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Bondi Sands"
+  },
+  "createdAt": "2022-12-06T10:57:09.983Z",
+  "description": "Innovative Bondi Sands Gradual Tanning Milk. A dual-action formula hydrates and nourishes your skin whilst giving you a golden glow all year round. Enriched with Aloe Vera, Vitamin E and a delicious Cocoa Butter scent, this tanning milk is perfect for everyday use.",
+  "gtin13": "850278004084",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/795983.jpg",
+  "name": "Bondi Sands Tanning Gradual Tan 375mL",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 18,
+    "lowPrice": 18,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T10:57:09.982Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 18,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/795983/bondi-sands-tanning-gradual-tan"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/795983/bondi-sands-tanning-gradual-tan"
+  ],
+  "sku": "795983",
+  "updatedAt": "2022-12-06T10:57:09.982Z"
+}

@@ -1,0 +1,60 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "Per serve:575kJ, with 250mL skim milk: 943kJ, with 250mL low fat soy milk: 1158kJ",
+      "carbohydrateContent": "Per serve:5.3g, with 250mL skim milk: 17.8g, with 250mL low fat soy milk: 27.8g",
+      "dietary_fibre": "-",
+      "fatContent": "Per serve:1.2g, with 250mL skim milk: 1.4g, with 250mL low fat soy milk: 2.4g",
+      "name": "nutrition",
+      "proteinContent": "Per serve:26.0g, with 250mL skim milk: 35.3g, with 250mL low fat soy milk: 34.3g",
+      "saturatedFatContent": "Per serve:0.25g, with 250mL skim milk: 0.50g, with 250mL low fat soy milk: 0.50g",
+      "servingSize": "100 g",
+      "sodiumContent": "Per serve:244mg, with 250mL skim milk: 371mg, with 250mL low fat soy milk: 376mg",
+      "sugarContent": "Per serve:3.5g, with 250mL skim milk: 16.0g, with 250mL low fat soy milk: 6.7g"
+    }
+  ],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Nature's Way"
+  },
+  "createdAt": "2022-12-06T16:32:49.112Z",
+  "description": "Natures Way INSTANT NATURAL PROTEIN Instant Natural Protein is a delicious way to get your daily protein needs and support a healthy active lifestyle, energy and muscle recovery for general wellbeing.<br><br>It is 100% Vegan, with No additives, Gluten Free, Dairy Free, Free from wheat and Low in fat and sugar.<br><br>Instant Natural Protein is a delicious way of getting your protein needs with 26g of 100% Natural Soy Protein Isolate per serve making it the ideal choice for anyone looking to supplement their protein intake. It's ideal to support heart health and energy, sports muscle nutrition, tissue building and repair, hair skin and nails, cooking, and is 100% vegan.",
+  "gtin13": "9314807007584",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/192635.jpg",
+  "name": "Nature's Way Protein Powder Vanilla 375G",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 13.5,
+    "lowPrice": 13.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T16:32:49.111Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 13.5,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/192635/nature-s-way-protein-powder-vanilla"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/192635/nature-s-way-protein-powder-vanilla"
+  ],
+  "sku": "192635",
+  "updatedAt": "2022-12-06T16:32:49.111Z"
+}

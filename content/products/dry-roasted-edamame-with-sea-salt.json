@@ -1,0 +1,50 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "100g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$2.75 per 100G"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Product of China"
+    }
+  ],
+  "brand": "Hapi",
+  "createdAt": "2022-12-06T18:55:13.419Z",
+  "description": "Non GMO. Gluten free. Vegan. 25 grams of soy protein a day, as part of a diet low in saturated fat and cholesterol, may reduce the risk of heart disease.",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/7/4/3743544.jpg",
+  "name": "Dry Roasted Edamame With Sea Salt",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2.75,
+    "lowPrice": 2.75,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T18:55:13.419Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "2.75",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/hapi-dry-roasted-edamame-with-sea-salt-3743544p"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/hapi-dry-roasted-edamame-with-sea-salt-3743544p"
+  ],
+  "sku": "3743544",
+  "updatedAt": "2022-12-06T18:55:13.419Z"
+}

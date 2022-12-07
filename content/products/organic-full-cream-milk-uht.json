@@ -1,0 +1,58 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "<p> <b>INGREDIENTS: </b>Organic Australian Ultra Heat Treated <strong>Milk</strong>.</p>"
+    },
+    {
+      "name": "Allergen",
+      "value": "Contains MILK"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "4.0"
+    },
+    {
+      "name": "Size",
+      "value": "1L"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$2.30 per 1L"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2022-12-06T11:36:29.507Z",
+  "description": "Coles Organic Milk Uht Full Cream 1 Litre a handy milk to have on hand for when you may run out",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/9/4/5/9456002.jpg",
+  "name": "Organic Full Cream Milk UHT",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2.3,
+    "lowPrice": 2.3,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T11:36:29.507Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "2.30",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-milk-long-life-full-cream-organic"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/coles-milk-long-life-full-cream-organic"
+  ],
+  "sku": "9456002",
+  "updatedAt": "2022-12-06T11:36:29.507Z"
+}

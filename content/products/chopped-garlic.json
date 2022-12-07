@@ -1,0 +1,50 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Garlic (95%), Salt, Acidity Regulator (260, 330), Thickener (415), Preservative (223)."
+    },
+    {
+      "name": "Size",
+      "value": "375g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.13 per 10G"
+    }
+  ],
+  "brand": "The Food Company",
+  "createdAt": "2022-12-06T13:06:43.136Z",
+  "description": "Our chopped garlic complements any pizza topping and Asian cooking. It doesn't spit when tossed in a hot wok. Real garlic, real easyIntense flavour means you can use less and taste moreGluten-free",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/2/1/3219230.jpg",
+  "name": "Chopped Garlic",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 5,
+    "lowPrice": 5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T13:06:43.135Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "5.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/the-food-company-chopped-garlic"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/the-food-company-chopped-garlic"
+  ],
+  "sku": "3219230",
+  "updatedAt": "2022-12-06T13:06:43.136Z"
+}

@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "250mL"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$12.00 per 1L"
+    }
+  ],
+  "brand": "Remedy",
+  "createdAt": "2022-12-06T10:25:50.991Z",
+  "description": "Remedy Sodaly Orange Can",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/8/5/5850294.jpg",
+  "name": "Sodaly Orange Can",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3,
+    "lowPrice": 3,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/OutOfStock",
+        "availabilityStarts": "2022-12-06T10:25:50.990Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "3.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/can-250ml"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/can-250ml"
+  ],
+  "sku": "5850294",
+  "updatedAt": "2022-12-06T10:25:50.990Z"
+}

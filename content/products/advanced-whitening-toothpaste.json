@@ -1,0 +1,54 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Water, Sorbitol, Hydrated Silica, Calcium Pyrophosphate, PEG-12, Sodium Lauryl Sulfate, Flavour, Cellulose Gum, Potassium Hydroxide, Tetrasodium Pyrophosphate, Phosphoric Acid, Cocamidopropyl Betaine, Benzyl Alcohol, Sodium Saccharin, Sodium Fluoride."
+    },
+    {
+      "name": "Contains",
+      "value": "Contains the equivalent of 1000 ppm Fluoride"
+    },
+    {
+      "name": "Size",
+      "value": "115g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$4.78 per 100G"
+    }
+  ],
+  "brand": "Colgate",
+  "createdAt": "2022-12-06T08:49:47.179Z",
+  "description": "Colgate Advanced Whitening Toothpaste",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/4/8/4/4842417.jpg",
+  "name": "Advanced Whitening Toothpaste",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 5.5,
+    "lowPrice": 5.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/OutOfStock",
+        "availabilityStarts": "2022-12-06T08:49:47.178Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "5.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/whitening-toothpaste-4842417p-1"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/whitening-toothpaste-4842417p-1"
+  ],
+  "sku": "4842417",
+  "updatedAt": "2022-12-06T08:49:47.178Z"
+}

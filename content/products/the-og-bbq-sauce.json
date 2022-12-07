@@ -1,0 +1,54 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Tomato, apple, onion, apple juice, brown sugar, Worcestershire sauce, lemon, molasses, dates, tomato paste, treacle, tamarind, salt, yellow mustard seed, spices, chilli, mustard, honey, vinegar, vegetable gum."
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "10.0"
+    },
+    {
+      "name": "Size",
+      "value": "250g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$4.60 per 100G"
+    }
+  ],
+  "brand": "The Phat Butcher",
+  "createdAt": "2022-12-06T23:12:27.678Z",
+  "description": "The Phat Butcher The O.G. BBQ Sauce",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/4/3/1/4319649.jpg",
+  "name": "The O.G. BBQ Sauce",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 11.5,
+    "lowPrice": 11.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T23:12:27.677Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "11.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/the-o-g-bbq-sauce"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/the-o-g-bbq-sauce"
+  ],
+  "sku": "4319649",
+  "updatedAt": "2022-12-06T23:12:27.677Z"
+}

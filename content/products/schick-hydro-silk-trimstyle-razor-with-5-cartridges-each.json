@@ -1,0 +1,52 @@
+{
+  "@type": "Product",
+  "additionalProperty": [],
+  "aggregateRating": {
+    "@context": "http://schema.org",
+    "@type": "AggregateRating",
+    "ratingCount": 1,
+    "ratingValue": 5
+  },
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Schick"
+  },
+  "createdAt": "2022-12-06T17:00:45.127Z",
+  "description": "Schick Hydro Silk TrimStyle includes a hydrating* razor and bikini trimmer in one! On one end the razor features a Hydra-Boost serum with shea butter and sea minerals. The other end is a waterproof bikini trimmer that can be used in or out of the shower for convenient bikini maintenance.*Moisturises for up to 2 hours after shaving<BR><BR>Schick Hydro Silk TrimStyle includes a hydrating* razor and bikini trimmer in one! On one end the razor features a Hydra-Boost serum with shea butter and sea minerals. This moisturising serum is clinically proven to provide lasting hydration for up to 2 hours after shaving.<br/><br/>The other end is a waterproof bikini trimmer that can be used in or out of the shower for convenient bikini maintenance. Combining the uniquely designed Schick Hydro Silk razor with advanced trimming technology, this razor shaves, trims, and transforms with just the flip of a handle.<br/><br/>*Moisturises up to 2 hours after shaving<BR><BR>Designed to give you control over your shave<BR><BR>Waterproof Bikini Trimmer for easy, even trimming can be used in and out of the shower<BR><BR>Adjustable Comb with 4 trim lengths for a customised look & feel<BR><BR>5 Curve Sensing blades for our closest shave<BR><BR>Hydra-Boost Serum hydrates* & protects from irritation (*Moisturises for up to 2 hours after shaving)<BR><BR>Compatible with all Hydro Silk refills",
+  "gtin13": "4891228305277",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/175543.jpg",
+  "name": "Schick Hydro Silk Trimstyle Razor With 5 Cartridges Each",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 44,
+    "lowPrice": 44,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T17:00:45.127Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 44,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/175543/schick-hydro-silk-trimstyle-razor-with-5-cartridges"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/175543/schick-hydro-silk-trimstyle-razor-with-5-cartridges"
+  ],
+  "sku": "175543",
+  "updatedAt": "2022-12-06T17:00:45.127Z"
+}

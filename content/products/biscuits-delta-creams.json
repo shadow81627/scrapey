@@ -1,0 +1,50 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "250g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.40 per 100G"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Made in Australia"
+    }
+  ],
+  "brand": "Arnotts",
+  "createdAt": "2022-12-06T09:32:07.805Z",
+  "description": "Arnotts Biscuits Delta Creams",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/1/5/2/152880.jpg",
+  "name": "Biscuits Delta Creams",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3.5,
+    "lowPrice": 3.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T09:32:07.804Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "3.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/arnotts-biscuits-delta-cream"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/arnotts-biscuits-delta-cream"
+  ],
+  "sku": "152880",
+  "updatedAt": "2022-12-06T09:32:07.804Z"
+}

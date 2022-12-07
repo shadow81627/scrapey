@@ -1,0 +1,42 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Unit Price",
+      "value": "$14.50 per 1Ea"
+    }
+  ],
+  "brand": "Sistema",
+  "createdAt": "2022-12-06T13:38:30.927Z",
+  "description": "Sistema Ultra Container 1.4L",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/4/1/6/4163379.jpg",
+  "name": "Ultra Container 1.4L",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 14.5,
+    "lowPrice": 14.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T13:38:30.926Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "14.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/sistema-ultra-container-4163379p-1"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/sistema-ultra-container-4163379p-1"
+  ],
+  "sku": "4163379",
+  "updatedAt": "2022-12-06T13:38:30.926Z"
+}

@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "380g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.84 per 100G"
+    }
+  ],
+  "brand": "Kellogg's",
+  "createdAt": "2022-12-06T17:26:37.823Z",
+  "description": "Kellogg's Special K High Protein Breakfast Cereal",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/4/3/0/4308766.jpg",
+  "name": "Special K High Protein Breakfast Cereal",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 7,
+    "lowPrice": 7,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T17:26:37.822Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "7.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/high-protein-4308766p-1"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/high-protein-4308766p-1"
+  ],
+  "sku": "4308766",
+  "updatedAt": "2022-12-06T17:26:37.822Z"
+}

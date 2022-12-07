@@ -1,0 +1,50 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "32g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$5.00 per 100G"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Product of South Korea"
+    }
+  ],
+  "brand": "Lotte",
+  "createdAt": "2022-12-06T22:23:01.421Z",
+  "description": "Lotte Pepero white chocolate Coated Stick. From Koreas NO.1 brand, this tasty biscuit is the perfect snack.",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/8/8/3889787.jpg",
+  "name": "Pepero White Cookie",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 1.6,
+    "lowPrice": 1.6,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T22:23:01.421Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "1.60",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/lotte-peppero-white-cokie-40pk"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/lotte-peppero-white-cokie-40pk"
+  ],
+  "sku": "3889787",
+  "updatedAt": "2022-12-06T22:23:01.421Z"
+}

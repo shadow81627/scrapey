@@ -1,0 +1,52 @@
+{
+  "@type": "Product",
+  "additionalProperty": [],
+  "aggregateRating": {
+    "@context": "http://schema.org",
+    "@type": "AggregateRating",
+    "ratingCount": 34,
+    "ratingValue": 4.35294117647059
+  },
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Natures Organics"
+  },
+  "createdAt": "2022-12-06T11:28:25.517Z",
+  "description": "Plant based, Australian Made and Cruelty Free, naturally.<br>Fruits Wild Berry Shampoo contains plant derived ingredients that clean and soften your hair, restoring your its natural glow and vitality with an invigorating fragrance.",
+  "gtin13": "9310692034155",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/104197.jpg",
+  "name": "Natures Organics Fruits Shampoo Shine Wild Berry 500mL",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2,
+    "lowPrice": 2,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T11:28:25.516Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 2,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/104197/natures-organics-fruits-shampoo-shine-wild-berry"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/104197/natures-organics-fruits-shampoo-shine-wild-berry"
+  ],
+  "sku": "104197",
+  "updatedAt": "2022-12-06T11:28:25.516Z"
+}

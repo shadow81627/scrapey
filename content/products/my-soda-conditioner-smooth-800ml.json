@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "My Soda"
+  },
+  "createdAt": "2022-12-06T17:37:34.877Z",
+  "description": "Tame that frizz with My Soda Smooth Conditioner. Conscious haircare that is plant based, cruelty free & vegan.<br><br>Hair in need of some serious smoothing? <br>Give your hair a good old fashioned taming with our super smoothing plant based formula. Enriched with Organic Aloe Vera Juice to help increase shine. Rock that silky feel!<br><br>Good hair speaks louder than words!<br>No Parabens<br>No SLES & ALS<br>No Propylene Glycol<br>No Triclosan<br>No EDTA<br>No Harsh Detergents<br>No Petrochemical Cleansers<br>No Mineral Oils<br><br>Botanical actives.<br>Soap free.<br>Plant based.<br>Grey water safe.<br>Recycled plastic bottle.<br>Cruelty free / Vegan.<br><br>Botanical Actives<br><br>Plant Based<br><br>Soap Free<br><br>Grey Water Safe<br><br>Recycled Plastic Bottle<br><br>Cruelty Free & Vegan<br><br>Paraben & SLES Free",
+  "gtin13": "9310692831686",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/242549.jpg",
+  "name": "My Soda Conditioner Smooth 800ml",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 20,
+    "lowPrice": 20,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T17:37:34.877Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 20,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/242549/my-soda-conditioner-smooth"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/242549/my-soda-conditioner-smooth"
+  ],
+  "sku": "242549",
+  "updatedAt": "2022-12-06T17:37:34.877Z"
+}

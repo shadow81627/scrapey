@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "30g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$50.02 per 1Kg"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2022-12-06T07:54:10.261Z",
+  "description": "Coles Crumb & Cook Lemon & Herb",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/5/7/5576590.jpg",
+  "name": "Crumb & Cook Lemon & Herb",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 1.5,
+    "lowPrice": 1.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/OutOfStock",
+        "availabilityStarts": "2022-12-06T07:54:10.260Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "1.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/lemon-and-herb-crumb"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/lemon-and-herb-crumb"
+  ],
+  "sku": "5576590",
+  "updatedAt": "2022-12-06T07:54:10.260Z"
+}

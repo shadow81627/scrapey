@@ -1,0 +1,66 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "Approx. 861kJ",
+      "carbohydrateContent": "Approx. 5g",
+      "dietary_fibre": "Approx. 13g",
+      "fatContent": "Approx. 9g",
+      "name": "nutrition",
+      "proteinContent": "Approx. 21g",
+      "saturatedFatContent": "Approx. 2g",
+      "servingSize": "100 g",
+      "sodiumContent": "Approx. 211mg",
+      "sugarContent": "Approx. 1g"
+    }
+  ],
+  "aggregateRating": {
+    "@context": "http://schema.org",
+    "@type": "AggregateRating",
+    "ratingCount": 1,
+    "ratingValue": 4
+  },
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Quest"
+  },
+  "createdAt": "2022-12-06T16:25:28.714Z",
+  "description": "No other protein bar tastes like sneaking a spoonful of cookie dough straight from the bowl – that’s why Chocolate Chip Cookie Dough is one of our best-selling flavors.",
+  "gtin13": "888849000074",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/402198.jpg",
+  "name": "Quest Bar Choc Chip Cookie Dough 60G",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 4.5,
+    "lowPrice": 4.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T16:25:28.713Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 4.5,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/402198/quest-bar-choc-chip-cookie-dough"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/402198/quest-bar-choc-chip-cookie-dough"
+  ],
+  "sku": "402198",
+  "updatedAt": "2022-12-06T16:25:28.713Z"
+}

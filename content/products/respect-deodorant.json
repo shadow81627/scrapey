@@ -1,0 +1,50 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "BUTANE-ISOBUTANE-PROPANE, ALCOHOL DENAT., PARFUM/FRAGRANCE, PROPYLENE GLYCOL, TRIETHYL CITRATE, ETHYLHEXYLGLYCERIN, LIMONENE, LINALOOL, BENZYL SALICYLATE, COUMARIN, BHT, GERANIOL, ALPHA-ISOMETHYL IONONE, CITRAL, TOCOPHEROL."
+    },
+    {
+      "name": "Size",
+      "value": "150mL"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$2.67 per 100mL"
+    }
+  ],
+  "brand": "David Beckham",
+  "createdAt": "2022-12-06T15:33:08.782Z",
+  "description": "David Beckham Respect Deodorant",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/7/9/3796551.jpg",
+  "name": "Respect Deodorant",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 4,
+    "lowPrice": 4,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T15:33:08.782Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "4.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/david-beckham-respect-deodorant"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/david-beckham-respect-deodorant"
+  ],
+  "sku": "3796551",
+  "updatedAt": "2022-12-06T15:33:08.782Z"
+}

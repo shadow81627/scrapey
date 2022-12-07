@@ -1,0 +1,50 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Water*, Sodium Laureth Sulfate*, Glycerin*, Cocamidopropyl Betaine*, Sodium Chloride*, Fragrance, Cocamide MEA*, Glycol Distearate', Sodium Salicylate, Sodium Benzoate, Citric Acid*, Tetrasodium EDTA, Coco-Glucoside*, Polyquaternium-7, Glyceryl Oleate*, Glyceryl Stearate*, Nonfat Dry Milk*, Cocos Nucifera (Coconut) Fruit Extract*."
+    },
+    {
+      "name": "Size",
+      "value": "500mL"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.30 per 100mL"
+    }
+  ],
+  "brand": "Palmolive",
+  "createdAt": "2022-12-06T15:55:07.055Z",
+  "description": "Palmolive Naturals Coconut Body Wash",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/4/3/1/4310134.jpg",
+  "name": "Naturals Coconut Body Wash",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 6.5,
+    "lowPrice": 6.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T15:55:07.054Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "6.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coconut-body-wash"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/coconut-body-wash"
+  ],
+  "sku": "4310134",
+  "updatedAt": "2022-12-06T15:55:07.054Z"
+}

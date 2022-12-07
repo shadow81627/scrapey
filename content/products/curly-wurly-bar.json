@@ -1,0 +1,50 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "21.5g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$4.65 per 100G"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Made in Poland"
+    }
+  ],
+  "brand": "Cadbury",
+  "createdAt": "2022-12-06T21:22:47.305Z",
+  "description": "Cadbury Curly Wurly Bar",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/9/1/3912619.jpg",
+  "name": "Curly Wurly Bar",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 1,
+    "lowPrice": 1,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T21:22:47.305Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "1.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/cadbury-bar-curly-wurly"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/cadbury-bar-curly-wurly"
+  ],
+  "sku": "3912619",
+  "updatedAt": "2022-12-06T21:22:47.305Z"
+}

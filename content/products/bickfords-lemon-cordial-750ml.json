@@ -1,0 +1,60 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "Approx.400kJ",
+      "carbohydrateContent": "Approx.23.5g",
+      "dietary_fibre": "Approx.0g",
+      "fatContent": "Approx.0g",
+      "name": "nutrition",
+      "proteinContent": "&lt;0g",
+      "saturatedFatContent": "Approx.0g",
+      "servingSize": "100 g",
+      "sodiumContent": "Approx.20mg",
+      "sugarContent": "Approx.20g"
+    }
+  ],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Bickford's"
+  },
+  "createdAt": "2022-12-06T18:12:23.019Z",
+  "description": "Ideal for mixing or simply a great thirst quencher, Bickford's Lemon Juice Cordial has stood the test of time, melding the sumptuous citrus taste of ripe lemons with a perfectly balanced sweet finish to satisfy any thirst. Dilute with soda or plain water for a real thirst quenching taste, or use as a mixer with premium spirits or full flavoured cocktail ingredient.",
+  "gtin13": "9311755200739",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/193645_4.jpg",
+  "name": "Bickford's Lemon Cordial 750mL",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 4.5,
+    "lowPrice": 4.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T18:12:23.018Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 4.5,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/193645/bickford-s-lemon-cordial"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/193645/bickford-s-lemon-cordial"
+  ],
+  "sku": "193645",
+  "updatedAt": "2022-12-06T18:12:23.018Z"
+}

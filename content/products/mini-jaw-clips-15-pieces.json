@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "1 pack"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$4.20 per 1Ea"
+    }
+  ],
+  "brand": "Scunci",
+  "createdAt": "2022-12-06T14:17:46.489Z",
+  "description": "Scunci Mini Jaw Clips 15 pieces",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/5/8/3589273.jpg",
+  "name": "Mini Jaw Clips 15 pieces",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 4.2,
+    "lowPrice": 4.2,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T14:17:46.488Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "4.20",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/scunci-jaw-clips-mini"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/scunci-jaw-clips-mini"
+  ],
+  "sku": "3589273",
+  "updatedAt": "2022-12-06T14:17:46.488Z"
+}

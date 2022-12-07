@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Pantene"
+  },
+  "createdAt": "2022-12-06T11:38:10.106Z",
+  "description": "<p>Pantene ProV Daily Moisture Renewal Shampoo Moisturising Shampoo for Dry Hair 375ml<BR><BR>Pantene ProV Daily Moisture Renewal Shampoo has 0 silicones 0 grease to help give you lightweight smooth hair It helps to provide deep hydration from root to tip For dry hair; Infused with  ProV Formula it gently cleanses to strengthen hair from the inside out<BR><BR>Recommended for  Dry parched strands<BR><BR>Gives healthy looking shine  smoothness to hair<BR><BR>0 silicones 0 grease just lightweight smooth hair<BR><BR>Vitamin level tested by Swiss Vitamin Institute<BR><BR>Selected variants<BR><BR>Grease due to silicone</p>",
+  "gtin13": "4902430929851",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/081515.jpg",
+  "name": "Pantene Daily Moisture Renewal Nourishing Shampoo 375ml",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 6.3,
+    "lowPrice": 6.3,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T11:38:10.105Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 6.3,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/81515/pantene-daily-moisture-renewal-nourishing-shampoo"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/81515/pantene-daily-moisture-renewal-nourishing-shampoo"
+  ],
+  "sku": "81515",
+  "updatedAt": "2022-12-06T11:38:10.105Z"
+}

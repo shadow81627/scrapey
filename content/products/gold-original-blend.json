@@ -1,0 +1,54 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "100% Soluble Coffee. Made from Arabica and Robusta Beans."
+    },
+    {
+      "name": "Size",
+      "value": "400g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$4.50 per 100G"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Packaged in Australia from Imported ingredients"
+    }
+  ],
+  "brand": "Nescafe",
+  "createdAt": "2022-12-06T11:00:44.083Z",
+  "description": "Nescafe Gold Original Blend",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/5/7/5578314.jpg",
+  "name": "Gold Original Blend",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 18,
+    "lowPrice": 18,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/OutOfStock",
+        "availabilityStarts": "2022-12-06T11:00:44.083Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "18.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/blend-400g"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/blend-400g"
+  ],
+  "sku": "5578314",
+  "updatedAt": "2022-12-06T11:00:44.083Z"
+}

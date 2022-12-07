@@ -1,0 +1,52 @@
+{
+  "@type": "Product",
+  "additionalProperty": [],
+  "aggregateRating": {
+    "@context": "http://schema.org",
+    "@type": "AggregateRating",
+    "ratingCount": 6,
+    "ratingValue": 4.33333333333333
+  },
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Nair"
+  },
+  "createdAt": "2022-12-06T17:06:50.357Z",
+  "description": "Nair Easiwax Mini Wax Strips are designed to remove unwanted hair from the face and sensitive areas quickly and easily with long laster results.<BR><BR><p>Nair Easiwax Mini Wax Strips remove unwanted hair from the face and sensitive areas quickly and easily. With chamomile extract that require no preparation, these ready to use wax strips are easy, convenient and will leave your skin feeling smoother for longer. Made from high quality resin wax the strips are simply warmed between your palms in seconds and are reusable.<BR><BR>Removes hair as short as 3mm<BR><BR>Results that last up to 4 weeks<BR><BR>Wax is enriched with Chamomile extract<BR><BR>Cellophane strip for precise application<BR><BR>Dermatologically tested",
+  "gtin13": "9310320026507",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/073999.jpg",
+  "name": "Nair Hair Removal Wax Easiwax Mini Strips 20 Pack",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 9,
+    "lowPrice": 9,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T17:06:50.356Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 9,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/73999/nair-hair-removal-wax-easiwax-mini-strips"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/73999/nair-hair-removal-wax-easiwax-mini-strips"
+  ],
+  "sku": "73999",
+  "updatedAt": "2022-12-06T17:06:50.356Z"
+}

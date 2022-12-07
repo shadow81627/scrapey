@@ -1,0 +1,42 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Unit Price",
+      "value": "$2.72 per 1Ea"
+    }
+  ],
+  "brand": "Sellotape",
+  "createdAt": "2022-12-06T20:04:37.985Z",
+  "description": "Double sided tape features good holding power, with an easily removable backing liner. The backing liner allows for precise allocation of the tape. It is ideal for holding most forms of display and other presentation materials.",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/1/8/3188567.jpg",
+  "name": "Double Sided Tape",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2.72,
+    "lowPrice": 2.72,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T20:04:37.985Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "2.72",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/sellotape-double-sided-tape"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/sellotape-double-sided-tape"
+  ],
+  "sku": "3188567",
+  "updatedAt": "2022-12-06T20:04:37.985Z"
+}

@@ -1,0 +1,62 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Vegetable Stock (97%) (Water, Vegetables (Carrots, Celery, Cabbage), Garlic, Onions, Bay Leaves, Parsley, Thyme), Sugar, Salt, Glucose."
+    },
+    {
+      "name": "Dietary",
+      "value": "99% Fat Free, No Preservatives"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "4.0"
+    },
+    {
+      "name": "Warning",
+      "value": "Do not purchase if package is open or torn."
+    },
+    {
+      "name": "Size",
+      "value": "1L"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.45 per 100mL"
+    }
+  ],
+  "brand": "Campbell's",
+  "createdAt": "2022-12-06T16:59:25.761Z",
+  "description": "Campbell's Real Stock Vegetable Stock Salt Reduced",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/9/2/0/9209229.jpg",
+  "name": "Real Stock Vegetable Stock Salt Reduced",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 4.5,
+    "lowPrice": 4.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T16:59:25.760Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "4.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/campbells-stock-real-vegetable-salt-reduced"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/campbells-stock-real-vegetable-salt-reduced"
+  ],
+  "sku": "9209229",
+  "updatedAt": "2022-12-06T16:59:25.760Z"
+}

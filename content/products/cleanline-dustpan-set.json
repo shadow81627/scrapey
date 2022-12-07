@@ -1,0 +1,42 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Unit Price",
+      "value": "$9.00 per 1Ea"
+    }
+  ],
+  "brand": "Sabco",
+  "createdAt": "2022-12-06T19:36:22.690Z",
+  "description": "Cleaning is made easy with Sabco's Cleanline Dustpan Set. Rubber Blade, combined with thick, flagged bristles collect even the finest dirt and dust for a thorough clean and the soft grip handle makes for comfortable use.Zigzag edge to clean brush for a cleaner clean!",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/9/1/3912211.jpg",
+  "name": "Cleanline Dustpan Set",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 9,
+    "lowPrice": 9,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T19:36:22.689Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "9.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/dustpan-set"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/dustpan-set"
+  ],
+  "sku": "3912211",
+  "updatedAt": "2022-12-06T19:36:22.689Z"
+}

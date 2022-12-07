@@ -4,7 +4,7 @@
     {
       "@type": "NutritionInformation",
       "calories": "149kJ",
-      "carbohydrateContent": "<1g",
+      "carbohydrateContent": "&lt;1g",
       "dietary_fibre": "-",
       "fatContent": "2.6g",
       "name": "nutrition",
@@ -12,7 +12,7 @@
       "saturatedFatContent": "1.8g",
       "servingSize": "100 g",
       "sodiumContent": "50mg",
-      "sugarContent": "<1g"
+      "sugarContent": "&lt;1g"
     }
   ],
   "aggregateRating": {
@@ -27,15 +27,9 @@
     "name": "Woolworths"
   },
   "createdAt": "2020-11-25T21:33:46.000Z",
-  "description": "Hints & tipsAdd ricotta to create a deliciously creamy twist on any meal... Stir through pasta, spread over toast, bake in lasagne, dollop on grilled peaches, or whip through a cheesecake.",
+  "description": "<div>Hints & tips<br>Add ricotta to create a deliciously creamy twist on any meal... Stir through pasta, spread over toast, bake in lasagne, dollop on grilled peaches, or whip through a cheesecake.</div>",
   "gtin13": "9300633577490",
-  "image": {
-    "@type": "ImageObject",
-    "height": 1200,
-    "mime": "image/jpeg",
-    "url": "https://cdn0.woolworths.media/content/wowproductimages/large/474591.jpg",
-    "width": 1200
-  },
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/474591.jpg",
   "name": "Woolworths Ricotta Cheese Smooth 375G",
   "offers": {
     "@type": "AggregateOffer",
@@ -47,7 +41,7 @@
         "@context": "http://schema.org",
         "@type": "Offer",
         "availability": "http://schema.org/InStock",
-        "availabilityStarts": "2022-11-23T12:06:17.039Z",
+        "availabilityStarts": "2022-12-06T07:44:25.842Z",
         "itemCondition": "http://schema.org/NewCondition",
         "offeredBy": "Woolworths",
         "potentialAction": {
@@ -60,13 +54,13 @@
           "@type": "Organization",
           "name": "Woolworths"
         },
-        "url": "https://woolworths.com.au/shop/productdetails/474591/woolworths-ricotta-cheese"
+        "url": "https://woolworths.com.au/shop/productdetails/474591/woolworths-ricotta-cheesereviewPageNumber=62"
       }
     ]
   },
   "sameAs": [
-    "https://woolworths.com.au/shop/productdetails/474591/woolworths-ricotta-cheese"
+    "https://woolworths.com.au/shop/productdetails/474591/woolworths-ricotta-cheesereviewPageNumber=62"
   ],
   "sku": "474591",
-  "updatedAt": "2022-11-23T12:06:17.039Z"
+  "updatedAt": "2022-12-06T07:44:25.842Z"
 }

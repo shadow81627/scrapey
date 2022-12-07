@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Manicare"
+  },
+  "createdAt": "2022-12-06T14:38:55.734Z",
+  "description": "Stainless steel slant tweezers with 24k gold tips ideal for removing coarser eyebrow hair.<BR><BR>Finest quality stainless steel with non-slip grips ideal for removing coarser eyebrow hair. The 24k gold tip is ideal for those with allergies to silver. Includes protective storage pouch.",
+  "gtin13": "34533365008",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/566745.jpg",
+  "name": "Manicare Slant Tweezer Gold Tipped Each",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 11.6,
+    "lowPrice": 11.6,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T14:38:55.733Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 11.6,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/566745/manicare-slant-tweezer-gold-tipped"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/566745/manicare-slant-tweezer-gold-tipped"
+  ],
+  "sku": "566745",
+  "updatedAt": "2022-12-06T14:38:55.733Z"
+}

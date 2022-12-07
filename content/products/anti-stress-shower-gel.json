@@ -1,0 +1,50 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Water*, Sodium Laureth Sulfate*, Glycerin*, Cocamidopropyl Betaine*, Fragrance (contains Cananga Odorata Flower (Ylang Ylang) Oil*, Lavandula Angustifolia (Lavender) Oil*), Sodium Chloride*, Cocamide MEA*, Sodium Salicylate, Sodium Benzoate, Citric Acid*, Tetrasodium EDTA, Iris Germanica Root Extract*, CI 17200, CI 42090. *Ingredient of Natural Origin."
+    },
+    {
+      "name": "Size",
+      "value": "1L"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.00 per 100mL"
+    }
+  ],
+  "brand": "Palmolive",
+  "createdAt": "2022-12-06T15:49:09.318Z",
+  "description": "Palmolive Anti-Stress Shower Gel",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/7/5/5/7556695.jpg",
+  "name": "Anti-Stress Shower Gel",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 10,
+    "lowPrice": 10,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T15:49:09.318Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "10.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/palmolive-naturals-shower-gel-antistress"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/palmolive-naturals-shower-gel-antistress"
+  ],
+  "sku": "7556695",
+  "updatedAt": "2022-12-06T15:49:09.318Z"
+}

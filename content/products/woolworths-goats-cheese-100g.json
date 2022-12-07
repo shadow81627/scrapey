@@ -27,46 +27,39 @@
     "name": "Woolworths"
   },
   "createdAt": "2022-11-22T12:23:57.000Z",
-  "description": "Mild and Creamy - Perfect for a homemade Roasted Vegetable & Goats Cheese Quiche",
+  "description": "<div>Mild and Creamy - Perfect for a homemade <a href=\"https://www.woolworths.com.au/shop/recipedetail/1216/\" target=\"_blank\">Roasted Vegetable & Goats Cheese Quiche</a></div>",
   "gtin13": "9339687041374",
-  "image": {
-    "@type": "ImageObject",
-    "height": 1200,
-    "mime": "image/jpeg",
-    "url": "https://cdn0.woolworths.media/content/wowproductimages/large/682265.jpg",
-    "width": 1200
-  },
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/682265.jpg",
   "name": "Woolworths Goats Cheese 100G",
   "offers": {
     "@type": "AggregateOffer",
-    "highPrice": 0,
-    "lowPrice": 0,
+    "highPrice": null,
+    "lowPrice": null,
     "offerCount": 1,
     "offers": [
       {
         "@context": "http://schema.org",
         "@type": "Offer",
         "availability": "http://schema.org/OutOfStock",
-        "availabilityStarts": "2022-11-23T12:06:18.334Z",
+        "availabilityStarts": "2022-12-06T07:46:07.792Z",
         "itemCondition": "http://schema.org/NewCondition",
         "offeredBy": "Woolworths",
         "potentialAction": {
           "@context": "http://schema.org",
           "@type": "BuyAction"
         },
-        "price": "",
         "priceCurrency": "AUD",
         "seller": {
           "@type": "Organization",
           "name": "Woolworths"
         },
-        "url": "https://woolworths.com.au/shop/productdetails/682265/woolworths-goats-cheese"
+        "url": "https://woolworths.com.au/shop/productdetails/682265/woolworths-goats-cheesereviewPageNumber=4"
       }
     ]
   },
   "sameAs": [
-    "https://woolworths.com.au/shop/productdetails/682265/woolworths-goats-cheese"
+    "https://woolworths.com.au/shop/productdetails/682265/woolworths-goats-cheesereviewPageNumber=4"
   ],
   "sku": "682265",
-  "updatedAt": "2022-11-23T12:06:18.334Z"
+  "updatedAt": "2022-12-06T07:46:07.792Z"
 }

@@ -1,0 +1,50 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "250g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$8.00 per 100G"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Product of Thailand"
+    }
+  ],
+  "brand": "Jelly Belly",
+  "createdAt": "2022-12-06T21:01:56.899Z",
+  "description": "Jelly Belly Flavour Gift Box",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/4/3/2/4322643.jpg",
+  "name": "Flavour Gift Box",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 20,
+    "lowPrice": 20,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T21:01:56.899Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "20.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/flavour-gift-box"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/flavour-gift-box"
+  ],
+  "sku": "4322643",
+  "updatedAt": "2022-12-06T21:01:56.899Z"
+}

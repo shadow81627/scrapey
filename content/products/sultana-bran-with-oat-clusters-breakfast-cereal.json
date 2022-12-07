@@ -1,0 +1,66 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Whole grains 42% (wheat, rolled oats [6%]), wheat bran (22%), sultanas (17%), sugar, brown rice syrup, invert syrup, rice, barley malt extract, salt, vegetable oil, corn starch, minerals (iron, zinc oxide), vitamins (niacin, vitamin B6, riboflavin, folate)."
+    },
+    {
+      "name": "Contains",
+      "value": "Contains wheat, gluten. May contain peanuts, treenuts, sesame."
+    },
+    {
+      "name": "Allergen",
+      "value": "May Be Present Sesame, May Be Present Tree Nuts, May Be Present Peanuts, Contains Gluten, Contains Wheat"
+    },
+    {
+      "name": "Dietary",
+      "value": "High in Fibre"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "10.0"
+    },
+    {
+      "name": "Size",
+      "value": "480g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.46 per 100G"
+    }
+  ],
+  "brand": "Kellogg's",
+  "createdAt": "2022-12-06T17:27:35.174Z",
+  "description": "Kellogg's Sultana Bran With Oat Clusters Breakfast Cereal",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/1/0/5103951.jpg",
+  "name": "Sultana Bran With Oat Clusters Breakfast Cereal",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 7,
+    "lowPrice": 7,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/OutOfStock",
+        "availabilityStarts": "2022-12-06T17:27:35.174Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "7.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/with-oat-clusters-480g"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/with-oat-clusters-480g"
+  ],
+  "sku": "5103951",
+  "updatedAt": "2022-12-06T17:27:35.174Z"
+}

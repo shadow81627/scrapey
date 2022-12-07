@@ -1,0 +1,58 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Wheat, Sorghum, Black Sunflower Seed, Crushed Maize, Oats, Extruded Maize Pieces, Dried Banana Chips, Sultanas and / or Raisins, Paw Paw, Pineapple."
+    },
+    {
+      "name": "Allergen",
+      "value": "Contains Wheat, Contains Oats"
+    },
+    {
+      "name": "Warning",
+      "value": "Pet food only."
+    },
+    {
+      "name": "Size",
+      "value": "100g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$2.90 per 100G"
+    }
+  ],
+  "brand": "Peters",
+  "createdAt": "2022-12-06T08:03:04.078Z",
+  "description": "Peters Rabbit & Guinea Pig Crunchy Bar",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/9/2/7/9270580.jpg",
+  "name": "Rabbit & Guinea Pig Crunchy Bar",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2.9,
+    "lowPrice": 2.9,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T08:03:04.077Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "2.90",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/peters-rabbit-guinea-pig-crunchie-bar"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/peters-rabbit-guinea-pig-crunchie-bar"
+  ],
+  "sku": "9270580",
+  "updatedAt": "2022-12-06T08:03:04.077Z"
+}

@@ -1,0 +1,50 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "4 pack"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$8.75 per 1L"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Made in Australia from local and imported ingredients"
+    }
+  ],
+  "brand": "Lo Bros",
+  "createdAt": "2022-12-06T10:00:59.992Z",
+  "description": "Lo Bros Kombucha Pineapple Lime 4x250mL",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/4/8/5484822.jpg",
+  "name": "Kombucha Pineapple Lime 4x250mL",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 8.75,
+    "lowPrice": 8.75,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/OutOfStock",
+        "availabilityStarts": "2022-12-06T10:00:59.992Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "8.75",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/pineapple-lime-5484822p-1"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/pineapple-lime-5484822p-1"
+  ],
+  "sku": "5484822",
+  "updatedAt": "2022-12-06T10:00:59.992Z"
+}

@@ -3,7 +3,7 @@
   "additionalProperty": [
     {
       "name": "Ingredients",
-      "value": "INGREDIENTS: Cream (Milk), Water. Minimum 80% Milk fat"
+      "value": "<strong>INGREDIENTS:</strong> Australian <strong>Cream</strong><strong> </strong>and Water. Minimum 80% <strong>Milk</strong> Fat."
     },
     {
       "name": "Allergen",
@@ -19,44 +19,40 @@
     },
     {
       "name": "Unit Price",
-      "value": "$1.48 per 100G"
-    },
-    {
-      "name": "Country Of Origin",
-      "value": "Product of New Zealand"
+      "value": "$1.72 per 100G"
     }
   ],
   "brand": "Coles",
   "createdAt": "2022-11-29T13:20:22.000Z",
-  "description": "Coles Dairy unsalted butter, 250g. A rich, smooth and creamy butter. Ideal for baking your favourite cakes and adding and buttery goodness to your favourite savoury dishes. Product of New Zealand.",
-  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/1/6/3169879.jpg",
+  "description": "Coles Dairy Australian unsalted butter, 250g. Ideal for baking cookies and cakes or the base of a buttery creamy icing.",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/4/6/8/46883.jpg",
   "name": "Unsalted Butter",
   "offers": {
     "@type": "AggregateOffer",
-    "highPrice": 3.7,
-    "lowPrice": 3.7,
+    "highPrice": 4.3,
+    "lowPrice": 4.3,
     "offerCount": 1,
     "offers": [
       {
         "@context": "http://schema.org",
         "@type": "Offer",
-        "availability": "https://schema.org/OutOfStock",
-        "availabilityStarts": "2022-11-29T10:05:06.970Z",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T16:33:26.254Z",
         "itemCondition": "https://schema.org/NewCondition",
         "offeredBy": "Coles",
-        "price": "3.70",
+        "price": "4.30",
         "priceCurrency": "AUD",
         "seller": {
           "@type": "Organization",
           "name": "Coles"
         },
-        "url": "https://shop.coles.com.au/a/national/product/butter-unsalted"
+        "url": "https://shop.coles.com.au/a/national/product/coles-dairy-butter-unsalted-pat"
       }
     ]
   },
   "sameAs": [
-    "https://shop.coles.com.au/a/national/product/butter-unsalted"
+    "https://shop.coles.com.au/a/national/product/coles-dairy-butter-unsalted-pat"
   ],
-  "sku": "3169879",
-  "updatedAt": "2022-11-29T10:05:06.970Z"
+  "sku": "46883",
+  "updatedAt": "2022-12-06T16:33:26.254Z"
 }

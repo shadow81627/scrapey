@@ -1,0 +1,45 @@
+{
+  "@type": "Product",
+  "additionalProperty": [],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "El Avion"
+  },
+  "createdAt": "2022-12-06T18:44:15.276Z",
+  "description": "<p>This product is supplied by The Gourmet Pantry (Liquor License #36160581).</p><p>The perfect adidition to any kitchen for those Spanish culinary ventures. Gift Box includes Smoked paprika, Paella Seasoning and Saffron</p>",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/1073961480.jpg",
+  "name": "El Avion 1EA",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 29.95,
+    "lowPrice": 29.95,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T18:44:15.275Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 29.95,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/1073961480/el-avion-gift-pack-saffron-jar-1g-paella-mix-and-smoked-paprika-85g"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/1073961480/el-avion-gift-pack-saffron-jar-1g-paella-mix-and-smoked-paprika-85g"
+  ],
+  "sku": "1073961480",
+  "updatedAt": "2022-12-06T18:44:15.275Z"
+}

@@ -1,0 +1,66 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Whole Milk Powder (67%), Sugar (32%)."
+    },
+    {
+      "name": "Contains",
+      "value": "Cow's Milk."
+    },
+    {
+      "name": "Allergen",
+      "value": "May Be Present Soy, Contains Milk"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "6.0"
+    },
+    {
+      "name": "Size",
+      "value": "12 pack"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.75 per 1Ea"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Made in United Kingdom"
+    }
+  ],
+  "brand": "Starbucks",
+  "createdAt": "2022-12-06T17:55:52.896Z",
+  "description": "Starbucks Nescafe Dolce Gusto Vanilla Macchiato 132g",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/4/8/7/4875880.jpg",
+  "name": "Nescafe Dolce Gusto Vanilla Macchiato 132g",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 9,
+    "lowPrice": 9,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/OutOfStock",
+        "availabilityStarts": "2022-12-06T17:55:52.895Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "9.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/vanilla-macchiato"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/vanilla-macchiato"
+  ],
+  "sku": "4875880",
+  "updatedAt": "2022-12-06T17:55:52.895Z"
+}

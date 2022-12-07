@@ -1,0 +1,60 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "1.00kJ",
+      "carbohydrateContent": "4.00g",
+      "dietary_fibre": "0.94g",
+      "fatContent": "1.30g",
+      "name": "nutrition",
+      "proteinContent": "0.30g",
+      "saturatedFatContent": "0.20g",
+      "servingSize": "100 g",
+      "sodiumContent": "353.00mg",
+      "sugarContent": "3.60g"
+    }
+  ],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Ayam"
+  },
+  "createdAt": "2022-12-06T08:40:47.463Z",
+  "description": "A subtle mix of green chillies, herbs, and spices, balanced by the sourness of kaffir lime leaf and the savouriness of garlic and shallot. Use as a base for Thai dishes, including green curry, stir fries, fried rice, or noodles.",
+  "gtin13": "9556041608480",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/243740.jpg",
+  "name": "Ayam Paste Thai Green Curry 195G",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 4,
+    "lowPrice": 4,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T08:40:47.462Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 4,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/243740/ayam-paste-thai-green-curry"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/243740/ayam-paste-thai-green-curry"
+  ],
+  "sku": "243740",
+  "updatedAt": "2022-12-06T08:40:47.462Z"
+}

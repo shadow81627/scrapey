@@ -1,0 +1,50 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "100g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$5.00 per 100G"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Manufactured in France"
+    }
+  ],
+  "brand": "Lindt",
+  "createdAt": "2022-12-06T21:07:07.249Z",
+  "description": "Lindt Excellence Cranberry Almond & Hazelnut Dark Chocolate Block",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/6/1/3614610.jpg",
+  "name": "Excellence Cranberry Almond & Hazelnut Dark Chocolate Block",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 5,
+    "lowPrice": 5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T21:07:07.248Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "5.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/lindt-excellence-chocolate-milk-cberry-alm"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/lindt-excellence-chocolate-milk-cberry-alm"
+  ],
+  "sku": "3614610",
+  "updatedAt": "2022-12-06T21:07:07.249Z"
+}

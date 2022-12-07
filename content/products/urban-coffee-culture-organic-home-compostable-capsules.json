@@ -1,0 +1,50 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "10 pack"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.45 per 1Ea"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Packed in Australia"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2022-12-06T11:21:30.603Z",
+  "description": "Coles Urban Coffee Culture Organic Home Compostable Capsules",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/0/0/5009400.jpg",
+  "name": "Urban Coffee Culture Organic Home Compostable Capsules",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 4.5,
+    "lowPrice": 4.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/OutOfStock",
+        "availabilityStarts": "2022-12-06T11:21:30.603Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "4.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/organic-compostable-10pk"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/organic-compostable-10pk"
+  ],
+  "sku": "5009400",
+  "updatedAt": "2022-12-06T11:21:30.603Z"
+}

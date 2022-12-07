@@ -1,0 +1,52 @@
+{
+  "@type": "Product",
+  "additionalProperty": [],
+  "aggregateRating": {
+    "@context": "http://schema.org",
+    "@type": "AggregateRating",
+    "ratingCount": 1,
+    "ratingValue": 5
+  },
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "L'Oreal"
+  },
+  "createdAt": "2022-12-06T09:31:23.756Z",
+  "description": "L'Oréal Men Pure Power Carbon Wash helps fight 5 male skin imperfections: oily skin, spots, marks, blackheads and roughness. This deeply cleansing formula draws out excess sebum for an intense, squeaky clean.<br><br>L'Oréal Men Expert Pure Carbon Facial Wash is enriched with black Oak Charcoal, a well-known purifying active for oily skin and acne-prone skin. Its deeply cleansing formula intensely cleans skin to help fight the 5 signs of oily skin, leaving skin fresh and purified. Specially formulated for men's skin.<br><br>Enriched with purifying Oak Charcoal to provide a deep, intense clean<br><br>Fights the 5 oily skin imperfections: spots, marks, oiliness, blackheads and roughness.<br><br>Deeply cleansing formula draws out excess sebum<br><br>Smooth texture with a fresh fragrance<br><br>Skin is left fresh, purifed and matte",
+  "gtin13": "3600523708017",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/053385.jpg",
+  "name": "L'oreal Men Expert Pure Charcoal Wash 100mL",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 6.6,
+    "lowPrice": 6.6,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T09:31:23.756Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 6.6,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/53385/l-oreal-men-expert-pure-charcoal-wash"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/53385/l-oreal-men-expert-pure-charcoal-wash"
+  ],
+  "sku": "53385",
+  "updatedAt": "2022-12-06T09:31:23.756Z"
+}

@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Swisse"
+  },
+  "createdAt": "2022-12-06T15:32:02.408Z",
+  "description": "<p>Swisse Ultivite Men’s Multivitamin is a comprehensive multivitamin tailored for men. It supports general wellbeing, energy production and vitality.<br/><br/>Swisse Ultivite Men’s Multivitamin is scientifically formulated to provide a comprehensive blend of vitamins, minerals and herbs to support a healthy, active lifestyle. Tailored specifically for men, this multivitamin supports immune health and energy production, helps relieve fatigue, supports healthy muscle function and helps prevent dietary nutritional deficiencies.<br/><br/>Tailored for men to support general wellbeing.<br/><br/>Contains 45 vitamins, minerals, antioxidants, and herbs.<br/><br/>Supports healthy stress response in the body and mental function.<br/><br/>Supports energy production and vitality.</p>",
+  "gtin13": "93566728",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/307062.jpg",
+  "name": "Swisse Men's Ultivite Tablet 60 Pack",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 30,
+    "lowPrice": 30,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T15:32:02.408Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 30,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/307062/swisse-men-s-ultivite-tablet"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/307062/swisse-men-s-ultivite-tablet"
+  ],
+  "sku": "307062",
+  "updatedAt": "2022-12-06T15:32:02.408Z"
+}

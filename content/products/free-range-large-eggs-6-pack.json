@@ -1,0 +1,50 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Servings Per Pack",
+      "value": "3.0"
+    },
+    {
+      "name": "Size",
+      "value": "330g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.27 per 100G"
+    }
+  ],
+  "brand": "Manning Valley",
+  "createdAt": "2022-12-06T16:56:35.328Z",
+  "description": "Since 1989 Manning Valley ONLY produce premier grade Free Range Eggs from Australian farms and we believe Free Range farming is better for our chickens and better for you.",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/6/0/0/6004015.jpg",
+  "name": "Free Range Large Eggs 6 pack",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 4.2,
+    "lowPrice": 4.2,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T16:56:35.328Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "4.20",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/manning-valley-eggs-free-range-6-pack"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/manning-valley-eggs-free-range-6-pack"
+  ],
+  "sku": "6004015",
+  "updatedAt": "2022-12-06T16:56:35.328Z"
+}

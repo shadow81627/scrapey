@@ -2,55 +2,57 @@
   "@type": "Product",
   "additionalProperty": [
     {
+      "name": "Ingredients",
+      "value": "<strong>INGREDIENTS:</strong> Water, Coconut Extract (40%), Stabiliser (Guar Gum)."
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "10.0"
+    },
+    {
       "name": "Size",
       "value": "400mL"
     },
     {
       "name": "Unit Price",
-      "value": "$0.38 per 100mL"
+      "value": "$0.28 per 100mL"
     },
     {
       "name": "Country Of Origin",
-      "value": "Product of Thailand from Imported ingredients"
+      "value": "Product of Thailand"
     }
   ],
-  "brand": "TCC",
+  "brand": "Coles",
   "createdAt": "2020-10-12T05:22:04.000Z",
-  "description": "TCC Light Coconut Milk",
-  "image": {
-    "@type": "ImageObject",
-    "height": 300,
-    "mime": "image/jpeg",
-    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/7/0/5/7054482.jpg",
-    "width": 300
-  },
+  "description": "Coles light coconut milk, 400mL. Great for curries, drinks, desserts and sauces. With 26%* less Fat than regular.",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/4/2/2/4224677.jpg",
   "name": "Light Coconut Milk",
   "offers": {
     "@type": "AggregateOffer",
-    "highPrice": 1.5,
-    "lowPrice": 1.5,
+    "highPrice": 1.1,
+    "lowPrice": 1.1,
     "offerCount": 1,
     "offers": [
       {
         "@context": "http://schema.org",
         "@type": "Offer",
         "availability": "https://schema.org/InStock",
-        "availabilityStarts": "2020-11-15T03:47:53.978Z",
+        "availabilityStarts": "2022-12-06T22:17:04.008Z",
         "itemCondition": "https://schema.org/NewCondition",
         "offeredBy": "Coles",
-        "price": "1.50",
+        "price": "1.10",
         "priceCurrency": "AUD",
         "seller": {
           "@type": "Organization",
           "name": "Coles"
         },
-        "url": "https://shop.coles.com.au/a/national/product/tcc-milk-coconut-extract-lite"
+        "url": "https://shop.coles.com.au/a/national/product/light-coconut-milk"
       }
     ]
   },
   "sameAs": [
-    "https://shop.coles.com.au/a/national/product/tcc-milk-coconut-extract-lite"
+    "https://shop.coles.com.au/a/national/product/light-coconut-milk"
   ],
-  "sku": "7054482",
-  "updatedAt": "2020-11-15T03:47:53.978Z"
+  "sku": "4224677",
+  "updatedAt": "2022-12-06T22:17:04.008Z"
 }

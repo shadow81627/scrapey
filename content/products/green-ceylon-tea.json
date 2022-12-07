@@ -1,0 +1,50 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Green Tea"
+    },
+    {
+      "name": "Size",
+      "value": "100 pack"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.08 per 1Ea"
+    }
+  ],
+  "brand": "Lipton",
+  "createdAt": "2022-12-06T11:57:44.826Z",
+  "description": "Lipton Green Ceylon Tea",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/9/8/3986717.jpg",
+  "name": "Green Ceylon Tea",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 8.45,
+    "lowPrice": 8.45,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T11:57:44.826Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "8.45",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/-3986717p-1"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/-3986717p-1"
+  ],
+  "sku": "3986717",
+  "updatedAt": "2022-12-06T11:57:44.826Z"
+}

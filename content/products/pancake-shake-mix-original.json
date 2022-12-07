@@ -1,0 +1,50 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Wheat Flour, Sugar, Wheat Starch, Non Fat Milk Solids, Maltodextrin (from Maize), Raising Agents (450, Sodium Bicarbonate), Thickener [1422 (from Maize)], Anticaking Agent (341), Salt"
+    },
+    {
+      "name": "Size",
+      "value": "200g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.10 per 100G"
+    }
+  ],
+  "brand": "Green's",
+  "createdAt": "2022-12-06T07:00:12.770Z",
+  "description": "Green's Pancake Shake Mix Original",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/3/1/5318594.jpg",
+  "name": "Pancake Shake Mix Original",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2.2,
+    "lowPrice": 2.2,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T07:00:12.769Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "2.20",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/greens-pancake-shake-original"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/greens-pancake-shake-original"
+  ],
+  "sku": "5318594",
+  "updatedAt": "2022-12-06T07:00:12.769Z"
+}

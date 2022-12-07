@@ -1,0 +1,66 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "glucose syrup, sugar, hydrogenated vegetable oil, gelatine, reconstituted fruit juices (apple, strawberry, lemon) (1.9%), acids (citric acid, malic acid, lactic acid), emulsier (sucrose esters of fatty acids), flavourings, concentrates (black carrot, spirulina, saflower), colour (caramel IV), maltodextrin."
+    },
+    {
+      "name": "Contains",
+      "value": "May contain milk"
+    },
+    {
+      "name": "Allergen",
+      "value": "May Be Present Milk"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "50.0"
+    },
+    {
+      "name": "Size",
+      "value": "175g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$2.00 per 100G"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Made in Vietnam"
+    }
+  ],
+  "brand": "Chupa Chups",
+  "createdAt": "2022-12-06T20:51:06.630Z",
+  "description": "Chupa Chups Incredible Chew Bag",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/4/9/6/4963863.jpg",
+  "name": "Incredible Chew Bag",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3.5,
+    "lowPrice": 3.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/OutOfStock",
+        "availabilityStarts": "2022-12-06T20:51:06.630Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "3.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/chews"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/chews"
+  ],
+  "sku": "4963863",
+  "updatedAt": "2022-12-06T20:51:06.630Z"
+}

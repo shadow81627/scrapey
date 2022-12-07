@@ -1,0 +1,54 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Brown Basmati Rice."
+    },
+    {
+      "name": "Size",
+      "value": "1kg"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.52 per 100G"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Product of Pakistan"
+    }
+  ],
+  "brand": "Riviana",
+  "createdAt": "2022-12-06T18:47:32.089Z",
+  "description": "Riviana Brown Basmati Rice",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/0/1/2018222.jpg",
+  "name": "Brown Basmati Rice",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 5.2,
+    "lowPrice": 5.2,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T18:47:53.911Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "5.20",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/riviana-brown-basmati-rice"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/riviana-brown-basmati-rice"
+  ],
+  "sku": "2018222",
+  "updatedAt": "2022-12-06T18:47:53.912Z"
+}

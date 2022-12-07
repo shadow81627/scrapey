@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "50g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.90 per 100G"
+    }
+  ],
+  "brand": "Trident",
+  "createdAt": "2022-12-06T18:07:48.603Z",
+  "description": "Trident Thai Soups with Noodles are unique and developed from traditional authentic Thai recipes. These gluten free soups make a delicious low fat snack or can be served as an entree. Trident Chicken flavour Thai Soup is a clear soup with a fragrant chicken and garlic flavour.",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/3/7/5370823.jpg",
+  "name": "Thai Chicken Noodle Soup",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 0.95,
+    "lowPrice": 0.95,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T18:07:48.602Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "0.95",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/trident-soup-mix-thai-chicken-noodle"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/trident-soup-mix-thai-chicken-noodle"
+  ],
+  "sku": "5370823",
+  "updatedAt": "2022-12-06T18:07:48.602Z"
+}

@@ -1,0 +1,50 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "plastic and elastic"
+    },
+    {
+      "name": "Size",
+      "value": "5 pack"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.40 per 1Ea"
+    }
+  ],
+  "brand": "Scunci",
+  "createdAt": "2022-12-06T14:27:22.609Z",
+  "description": "Scunci Effortless Beauty Topsy Tail",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/3/8/2382666.jpg",
+  "name": "Effortless Beauty Topsy Tail",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 7,
+    "lowPrice": 7,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T14:27:22.609Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "7.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/scunci--topsy-tail"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/scunci--topsy-tail"
+  ],
+  "sku": "2382666",
+  "updatedAt": "2022-12-06T14:27:22.609Z"
+}

@@ -1,0 +1,54 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Water, Glycerin, Hydrated Silica, Sodium Lauryl Sulfate, Flavour, Cellulose Gum, Xanthan Gum, Sodium Saccharin, Sodium Flouride, Benzyl Alcohol, CI 74160, CI 74260, CI 77891."
+    },
+    {
+      "name": "Contains",
+      "value": "Contains the equivalent of 1000 ppm Fluoride. 1 Toothpaste"
+    },
+    {
+      "name": "Size",
+      "value": "165g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$2.12 per 100G"
+    }
+  ],
+  "brand": "Colgate",
+  "createdAt": "2022-12-06T08:45:35.844Z",
+  "description": "Colgate Triple Action Toothpaste",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/4/5/0/4504695.jpg",
+  "name": "Triple Action Toothpaste",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3.5,
+    "lowPrice": 3.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T08:45:35.843Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "3.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/triple-action"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/triple-action"
+  ],
+  "sku": "4504695",
+  "updatedAt": "2022-12-06T08:45:35.843Z"
+}

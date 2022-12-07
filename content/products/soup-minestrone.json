@@ -1,0 +1,50 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "500g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.60 per 100G"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Product of Italy"
+    }
+  ],
+  "brand": "Always Fresh",
+  "createdAt": "2022-12-06T18:17:13.136Z",
+  "description": "A taste of the good life. Classic Italian minestrone soup. Plant based and gluten free.",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/4/8/1/4818401.jpg",
+  "name": "Soup Minestrone",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3,
+    "lowPrice": 3,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/OutOfStock",
+        "availabilityStarts": "2022-12-06T18:17:13.135Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "3.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/minestrone-4818401p-1"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/minestrone-4818401p-1"
+  ],
+  "sku": "4818401",
+  "updatedAt": "2022-12-06T18:17:13.135Z"
+}

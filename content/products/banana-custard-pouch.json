@@ -1,0 +1,58 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "<strong>INGREDIENTS:</strong> Water, Sugar, Thickener (1442), <strong>Milk</strong> Powder, Banana Puree, Natural Colour (Lutein), Xanthan Gum (415), Banana (Natural Flavouring)."
+    },
+    {
+      "name": "Allergen",
+      "value": "Contains MILK"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "1.0"
+    },
+    {
+      "name": "Size",
+      "value": "90g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.06 per 100G"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2022-12-06T08:35:15.342Z",
+  "description": "Coles Custard Pouch 90 gram Banana perfect for lunch boxes real fruit puree or an after school snack",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/5/0/3501545.jpg",
+  "name": "Banana Custard Pouch",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 0.95,
+    "lowPrice": 0.95,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T08:35:15.341Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "0.95",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-custard-banana-pouch"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/coles-custard-banana-pouch"
+  ],
+  "sku": "3501545",
+  "updatedAt": "2022-12-06T08:35:15.341Z"
+}

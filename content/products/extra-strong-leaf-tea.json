@@ -1,0 +1,54 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Contains",
+      "value": "250g"
+    },
+    {
+      "name": "Size",
+      "value": "250g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.30 per 100G"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Blended and packed in Indonesia from Local and Imported Teas."
+    }
+  ],
+  "brand": "Bushells",
+  "createdAt": "2022-12-06T12:02:52.754Z",
+  "description": "Bushells Extra Strong Leaf Tea",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/6/6/9/6699143.jpg",
+  "name": "Extra Strong Leaf Tea",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3.25,
+    "lowPrice": 3.25,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T12:02:52.753Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "3.25",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/bushells-leaf-tea-extra-strong"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/bushells-leaf-tea-extra-strong"
+  ],
+  "sku": "6699143",
+  "updatedAt": "2022-12-06T12:02:52.753Z"
+}

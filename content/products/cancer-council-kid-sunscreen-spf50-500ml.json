@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Cancer Council"
+  },
+  "createdAt": "2022-12-06T11:04:27.132Z",
+  "description": "SPF50+ broad spectrum UVA and UVB protection. Fragrance and paraben free. Specially-formulated and dermatologically tested for delicate skin. Tested for 4 hours water resistance.",
+  "gtin13": "9321299105728",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/505442.jpg",
+  "name": "Cancer Council Kid Sunscreen Spf50+ 500mL",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 29,
+    "lowPrice": 29,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T11:04:27.131Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 29,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/505442/cancer-council-kid-sunscreen-spf50-"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/505442/cancer-council-kid-sunscreen-spf50-"
+  ],
+  "sku": "505442",
+  "updatedAt": "2022-12-06T11:04:27.131Z"
+}

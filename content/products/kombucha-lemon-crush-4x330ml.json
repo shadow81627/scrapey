@@ -1,0 +1,50 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Servings Per Pack",
+      "value": "4.0"
+    },
+    {
+      "name": "Size",
+      "value": "4 pack"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$5.19 per 1L"
+    }
+  ],
+  "brand": "Nexba",
+  "createdAt": "2022-12-06T10:04:12.958Z",
+  "description": "Nexba Kombucha lemon Crush 4X330mL",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/5/4/5546635.jpg",
+  "name": "Kombucha lemon Crush 4X330mL",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 6.85,
+    "lowPrice": 6.85,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/OutOfStock",
+        "availabilityStarts": "2022-12-06T10:04:12.957Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "6.85",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/kombucha-5546635p-1"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/kombucha-5546635p-1"
+  ],
+  "sku": "5546635",
+  "updatedAt": "2022-12-06T10:04:12.957Z"
+}

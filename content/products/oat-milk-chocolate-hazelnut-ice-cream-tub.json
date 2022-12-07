@@ -1,0 +1,50 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "473mL"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$2.22 per 100mL"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "MADE IN THE USA from local and imported ingredients"
+    }
+  ],
+  "brand": "Halo Top",
+  "createdAt": "2022-12-06T20:27:32.268Z",
+  "description": "Halo Top Oat Milk Chocolate Hazelnut Ice Cream Tub",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/8/3/3830376.jpg",
+  "name": "Oat Milk Chocolate Hazelnut Ice Cream Tub",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 10.5,
+    "lowPrice": 10.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T20:27:32.268Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "10.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/halo-top-oat-milk-chocolate-hazelnut"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/halo-top-oat-milk-chocolate-hazelnut"
+  ],
+  "sku": "3830376",
+  "updatedAt": "2022-12-06T20:27:32.268Z"
+}

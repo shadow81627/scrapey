@@ -1,0 +1,54 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Contains",
+      "value": "Ground coffee in capsules"
+    },
+    {
+      "name": "Size",
+      "value": "10 pack"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.70 per 1Ea"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Made in France with coffee from multiple origins"
+    }
+  ],
+  "brand": "L'Or",
+  "createdAt": "2022-12-06T17:52:19.138Z",
+  "description": "L'Or Espresso Vanilla Capsules",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/4/8/2/4823682.jpg",
+  "name": "Espresso Vanilla Capsules",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 7,
+    "lowPrice": 7,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/OutOfStock",
+        "availabilityStarts": "2022-12-06T17:52:19.138Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "7.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/vanilla-capsules"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/vanilla-capsules"
+  ],
+  "sku": "4823682",
+  "updatedAt": "2022-12-06T17:52:19.138Z"
+}

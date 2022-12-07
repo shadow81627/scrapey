@@ -1,0 +1,58 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Water, Guava Puree (29%), Sugar, Food Acid (Citric Acid), Vitamin C."
+    },
+    {
+      "name": "Dietary",
+      "value": "No Preservatives, Source of Vitamin C"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "5.0"
+    },
+    {
+      "name": "Size",
+      "value": "1L"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$3.10 per 1L"
+    }
+  ],
+  "brand": "Golden Circle ",
+  "createdAt": "2022-12-06T10:33:55.445Z",
+  "description": "Golden Circle  Guava Nectar Tetra Fruit Drink",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/4/8/0/4801850.jpg",
+  "name": "Guava Nectar Tetra Fruit Drink",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3.1,
+    "lowPrice": 3.1,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T10:33:55.444Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "3.10",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/golden-circle-guava-nectar"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/golden-circle-guava-nectar"
+  ],
+  "sku": "4801850",
+  "updatedAt": "2022-12-06T10:33:55.445Z"
+}

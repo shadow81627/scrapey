@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "350mL"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.80 per 100mL"
+    }
+  ],
+  "brand": "Tresemme",
+  "createdAt": "2022-12-06T13:43:33.008Z",
+  "description": "Tresemme Botanique Restore & Shine Shampoo",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/4/2/3421978.jpg",
+  "name": "Botanique Restore & Shine Shampoo",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 6.3,
+    "lowPrice": 6.3,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T14:26:23.621Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "6.30",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/tresemme-botanique-shampoo-restore"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/tresemme-botanique-shampoo-restore"
+  ],
+  "sku": "3421978",
+  "updatedAt": "2022-12-06T14:26:23.621Z"
+}

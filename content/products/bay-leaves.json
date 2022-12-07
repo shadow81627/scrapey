@@ -1,0 +1,58 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Bay Leaves"
+    },
+    {
+      "name": "Allergen",
+      "value": "May Be Present Nuts, May Be Present Sesame Seeds, May Be Present Gluten"
+    },
+    {
+      "name": "Size",
+      "value": "15g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.33 per 10G"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Packed in Australia from Imported Product"
+    }
+  ],
+  "brand": "Hoyts",
+  "createdAt": "2022-12-06T13:07:29.221Z",
+  "description": "Hoyts Bay Leaves",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/8/8/288055.jpg",
+  "name": "Bay Leaves",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2,
+    "lowPrice": 2,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T13:07:29.220Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "2.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/hoyts-bay-leaves-288055p"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/hoyts-bay-leaves-288055p"
+  ],
+  "sku": "288055",
+  "updatedAt": "2022-12-06T13:07:29.220Z"
+}

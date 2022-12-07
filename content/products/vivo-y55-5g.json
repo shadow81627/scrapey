@@ -1,0 +1,42 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Unit Price",
+      "value": "$249.00 per 1Ea"
+    }
+  ],
+  "brand": "Telstra",
+  "createdAt": "2022-12-06T08:29:20.539Z",
+  "description": "- 6.58\" FHD+ display- 50MP triple rear camera- 5,000mAh battery- 128GB internal memory- Android 12- NFC supported- Locked to Telstra networkGeneral: Unless specified, devices are locked, unlocking fee applies. Limit 1 per customer.",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/3/2/5328317.jpg",
+  "name": "Vivo Y55 5G",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 249,
+    "lowPrice": 249,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/OutOfStock",
+        "availabilityStarts": "2022-12-06T08:29:20.538Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "249.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/-5328317p-1"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/-5328317p-1"
+  ],
+  "sku": "5328317",
+  "updatedAt": "2022-12-06T08:29:20.538Z"
+}

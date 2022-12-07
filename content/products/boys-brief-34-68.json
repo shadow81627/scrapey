@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "5 pack"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.80 per 1Ea"
+    }
+  ],
+  "brand": "Bonds",
+  "createdAt": "2022-12-06T19:49:10.881Z",
+  "description": "Bonds Boys Brief 3/4 6/8",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/5/3/5536529.jpg",
+  "name": "Boys Brief 3/4 6/8",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 9,
+    "lowPrice": 9,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/OutOfStock",
+        "availabilityStarts": "2022-12-06T19:49:10.880Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "9.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/3-4-6-8"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/3-4-6-8"
+  ],
+  "sku": "5536529",
+  "updatedAt": "2022-12-06T19:49:10.880Z"
+}

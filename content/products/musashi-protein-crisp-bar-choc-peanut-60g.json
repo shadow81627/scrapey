@@ -1,0 +1,60 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "990.00kJ",
+      "carbohydrateContent": "9.50g",
+      "dietary_fibre": "5.60g",
+      "fatContent": "9.70g",
+      "name": "nutrition",
+      "proteinContent": "20.00g",
+      "saturatedFatContent": "3.40g",
+      "servingSize": "100 g",
+      "sodiumContent": "251.00mg",
+      "sugarContent": "3.60g"
+    }
+  ],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Musashi"
+  },
+  "createdAt": "2022-12-06T16:44:43.017Z",
+  "description": "Musashi Protein Crisp Choc Peanut consist of a unique combination of crispy and chunky pieces drizzled in milk chocolate.<br><br>MUSASHI PROTEIN CRISP is the next evolution in the protein bar taste and sensation experience. A delicious and convenient bar loaded with 20g of high quality protein, and a unique combination of crispy and chunky pieces drizzled in milk chocolate.<br> High Protein <br> Delicious Crisp texture<br><br>Low Sugar<br><br>High Protein<br><br>Choc Peanut<br><br>Musashi<br><br>Crisp<br><br>Snack",
+  "gtin13": "9400581051100",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/153164.jpg",
+  "name": "Musashi Protein Crisp Bar Choc Peanut 60g",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 4.5,
+    "lowPrice": 4.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T16:44:43.016Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 4.5,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/153164/musashi-protein-crisp-bar-choc-peanut"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/153164/musashi-protein-crisp-bar-choc-peanut"
+  ],
+  "sku": "153164",
+  "updatedAt": "2022-12-06T16:44:43.016Z"
+}

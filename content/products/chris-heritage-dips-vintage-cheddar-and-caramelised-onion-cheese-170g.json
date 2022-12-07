@@ -1,0 +1,60 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "Approx.274kJ",
+      "carbohydrateContent": "Approx.1g",
+      "dietary_fibre": "&lt;0.1g",
+      "fatContent": "Approx.6.2g",
+      "name": "nutrition",
+      "proteinContent": "Approx.1.6g",
+      "saturatedFatContent": "Approx.3.1g",
+      "servingSize": "100 g",
+      "sodiumContent": "Approx.71mg",
+      "sugarContent": "Approx.0.9g"
+    }
+  ],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Chris'"
+  },
+  "createdAt": "2022-12-06T18:18:18.708Z",
+  "description": "<div>Chri's Heritage Dips with Vintage Cheddar cheese and Basalmic Caramelised Onions<br>- Australian dairy product competition 2015 - Silver.</div><div>- Packing is used by terracotta.<br><br></div>",
+  "gtin13": "9312726002703",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/823696.jpg",
+  "name": "Chris' Heritage Dips Vintage Cheddar & Caramelised Onion Cheese 170G",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 7.5,
+    "lowPrice": 7.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T18:18:18.708Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 7.5,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/823696/chris-heritage-dips-vintage-cheddar-caramelised-onion-cheese"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/823696/chris-heritage-dips-vintage-cheddar-caramelised-onion-cheese"
+  ],
+  "sku": "823696",
+  "updatedAt": "2022-12-06T18:18:18.708Z"
+}

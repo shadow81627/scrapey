@@ -1,0 +1,58 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Yellow Split Lentils"
+    },
+    {
+      "name": "Allergen",
+      "value": "May Contain Barley, May Contain Soybean, May Contain Rye, May Contain Wheat, May Contain Lupin, May Contain Oats, May Contain Gluten"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "7.5"
+    },
+    {
+      "name": "Size",
+      "value": "375g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.69 per 100G"
+    }
+  ],
+  "brand": "McKenzie's",
+  "createdAt": "2022-12-06T16:14:13.794Z",
+  "description": "McKenzie's Yellow Split Lentils have a mild and sweet flavour. They don't require soaking and dissolve quickly during cooking to add body to soups, curries, dhals or stews.",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/2/9/2292279.jpg",
+  "name": "Yellow Lentils",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2.6,
+    "lowPrice": 2.6,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T16:14:13.794Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "2.60",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/mckenzies-yellow-lentils"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/mckenzies-yellow-lentils"
+  ],
+  "sku": "2292279",
+  "updatedAt": "2022-12-06T16:14:13.794Z"
+}

@@ -1,0 +1,50 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "125g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$2.72 per 100G"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Product of Italy"
+    }
+  ],
+  "brand": "Matilde Vicenzi",
+  "createdAt": "2022-12-06T17:08:34.410Z",
+  "description": "The finest and most luxurios pastry in a perfect and versatile snack-size portion, simply ideal for people looking for a ready-to-go sweet bite. With it's velvety hazelnut cream filling, the MiniSnack is a delicious moment of bliss to enjoy anywhere.",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/4/3/1/4317177.jpg",
+  "name": "Millefoglie D'italia Mini Snack Hazelnut Cream",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3.4,
+    "lowPrice": 3.4,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T17:08:34.409Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "3.40",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/d-italia-hazelnut-cream"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/d-italia-hazelnut-cream"
+  ],
+  "sku": "4317177",
+  "updatedAt": "2022-12-06T17:08:34.409Z"
+}

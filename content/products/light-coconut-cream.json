@@ -1,0 +1,58 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "<strong>INGREDIENTS:</strong> Coconut Extract (62%), Water, Stabiliser (Guar Gum)."
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "10.0"
+    },
+    {
+      "name": "Size",
+      "value": "400mL"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.28 per 100mL"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Product of Thailand"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2022-12-06T22:19:06.977Z",
+  "description": "Fresh Kitchen On the Go Pineapple",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/4/2/2/4224713.jpg",
+  "name": "Light Coconut Cream",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 1.1,
+    "lowPrice": 1.1,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T22:19:06.976Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "1.10",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/light-coconut-cream"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/light-coconut-cream"
+  ],
+  "sku": "4224713",
+  "updatedAt": "2022-12-06T22:19:06.976Z"
+}

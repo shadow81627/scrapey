@@ -1,0 +1,50 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Refer to www.henkel.com.au for full information"
+    },
+    {
+      "name": "Size",
+      "value": "600mL"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$2.67 per 100mL"
+    }
+  ],
+  "brand": "Somat",
+  "createdAt": "2022-12-06T19:04:38.886Z",
+  "description": "Somat Excellence Duo Power Lemon Dishwashing Gel",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/4/4/4/4447627.jpg",
+  "name": "Excellence Duo Power Lemon Dishwashing Gel",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 16,
+    "lowPrice": 16,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T19:04:38.886Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "16.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/lemon-4447627p-1"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/lemon-4447627p-1"
+  ],
+  "sku": "4447627",
+  "updatedAt": "2022-12-06T19:04:38.886Z"
+}

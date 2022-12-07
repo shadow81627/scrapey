@@ -1,0 +1,50 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "500g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$4.20 per 100G"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Packaged in Italy"
+    }
+  ],
+  "brand": "Lavazza",
+  "createdAt": "2022-12-06T11:08:17.711Z",
+  "description": "Lavazza Espresso Barista Perfetto Beans",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/4/8/7/4873658.jpg",
+  "name": "Espresso Barista Perfetto Beans",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 21,
+    "lowPrice": 21,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/OutOfStock",
+        "availabilityStarts": "2022-12-06T11:08:17.710Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "21.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/perfecto-beans"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/perfecto-beans"
+  ],
+  "sku": "4873658",
+  "updatedAt": "2022-12-06T11:08:17.710Z"
+}

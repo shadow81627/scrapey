@@ -1,0 +1,50 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Elastic"
+    },
+    {
+      "name": "Size",
+      "value": "10 pack"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.35 per 1Ea"
+    }
+  ],
+  "brand": "Scunci",
+  "createdAt": "2022-12-06T14:28:30.030Z",
+  "description": "Scunci Elastics All Hair",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/4/4/8/4481910.jpg",
+  "name": "Elastics All Hair",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3.45,
+    "lowPrice": 3.45,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T14:28:30.030Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "3.45",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/all-hair"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/all-hair"
+  ],
+  "sku": "4481910",
+  "updatedAt": "2022-12-06T14:28:30.030Z"
+}

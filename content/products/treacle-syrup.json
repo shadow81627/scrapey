@@ -1,0 +1,54 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Cane Sugar, Water."
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "121.0"
+    },
+    {
+      "name": "Size",
+      "value": "850g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.64 per 100G"
+    }
+  ],
+  "brand": "CSR",
+  "createdAt": "2022-12-06T07:03:09.319Z",
+  "description": "CSR Treacle Syrup",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/6/7/9/6790416.jpg",
+  "name": "Treacle Syrup",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 5.45,
+    "lowPrice": 5.45,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T07:03:09.318Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "5.45",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/csr-syrup-treacle"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/csr-syrup-treacle"
+  ],
+  "sku": "6790416",
+  "updatedAt": "2022-12-06T07:03:09.319Z"
+}

@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Centrum"
+  },
+  "createdAt": "2022-12-06T10:07:21.277Z",
+  "description": "Centrum For Women multivitamin and minerals are complete from A to Zinc and support healthy hair, skin and nails, energy, immunity and bone health.<br><br>Centrum for Women is a daily multivitamin specifically designed for women to support healthy skin, energy, healthy immune function and healthy bones. Each tablet contains multiple vitamins to help fill nutritional gaps.<br><br>Contains vitamin A, vitamin C & biotin to maintain healthy skin<br><br>Includes B vitamins and folic acid to support energy<br><br>With key antioxidants such as vitamins A, C & E, betacarotene, selenium and zinc to support healthy immune system function<br><br>With calcium, vitamin D, copper, zinc & manganese to help maintain healthy bones",
+  "gtin13": "9310488003204",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/750906.jpg",
+  "name": "Centrum Women Daily Multivitamin Supplements 60 Pack",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 21.5,
+    "lowPrice": 21.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T10:07:21.277Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 21.5,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/750906/centrum-women-daily-multivitamin-supplements"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/750906/centrum-women-daily-multivitamin-supplements"
+  ],
+  "sku": "750906",
+  "updatedAt": "2022-12-06T10:07:21.277Z"
+}

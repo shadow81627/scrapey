@@ -1,0 +1,54 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "<strong>INGREDIENTS:</strong> Broccoli."
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "2.0"
+    },
+    {
+      "name": "Size",
+      "value": "150g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$13.33 per 1Kg"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2022-12-06T22:56:12.543Z",
+  "description": "Broccoli Florets Romantic for Tram Track: Microwaveable Bag",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/3/1/2310971.jpg",
+  "name": "Kitchen Broccoli Florets",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2,
+    "lowPrice": 2,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T22:56:12.542Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "2.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-fresh-australian-broccoli-florets"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/coles-fresh-australian-broccoli-florets"
+  ],
+  "sku": "2310971",
+  "updatedAt": "2022-12-06T22:56:12.542Z"
+}

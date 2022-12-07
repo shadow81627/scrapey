@@ -1,0 +1,58 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Contains",
+      "value": "Ground coffee in capsules"
+    },
+    {
+      "name": "Allergen",
+      "value": "Contains Caffeine"
+    },
+    {
+      "name": "Size",
+      "value": "40 pack"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.55 per 1Ea"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Made in France with coffee from multiple origins"
+    }
+  ],
+  "brand": "L'Or",
+  "createdAt": "2022-12-06T11:13:10.020Z",
+  "description": "L'Or Espresso Supremo Capsules",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/4/8/2/4823660.jpg",
+  "name": "Espresso Supremo Capsules",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 22,
+    "lowPrice": 22,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/OutOfStock",
+        "availabilityStarts": "2022-12-06T11:13:10.019Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "22.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/supremo-capsules"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/supremo-capsules"
+  ],
+  "sku": "4823660",
+  "updatedAt": "2022-12-06T11:13:10.020Z"
+}

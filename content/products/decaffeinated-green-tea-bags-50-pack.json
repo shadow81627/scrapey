@@ -1,0 +1,58 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "100% Decaffeinated Green Tea."
+    },
+    {
+      "name": "Dietary",
+      "value": "High in Antioxidants"
+    },
+    {
+      "name": "Size",
+      "value": "87.5g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$5.37 per 100G"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "IMPORTED"
+    }
+  ],
+  "brand": "Tetley",
+  "createdAt": "2022-12-06T11:49:01.143Z",
+  "description": "Tetley Decaffeinated Green Tea Bags 50 pack",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/6/3/6/6369740.jpg",
+  "name": "Decaffeinated Green Tea Bags 50 pack",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 4.7,
+    "lowPrice": 4.7,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T11:49:01.143Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "4.70",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/tetley-tea-bags-green-decafinated"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/tetley-tea-bags-green-decafinated"
+  ],
+  "sku": "6369740",
+  "updatedAt": "2022-12-06T11:49:01.143Z"
+}

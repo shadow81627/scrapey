@@ -1,0 +1,50 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "250g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$3.84 per 100G"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Made in Australia from less than 10% Australian ingredients"
+    }
+  ],
+  "brand": "Sensory",
+  "createdAt": "2022-12-06T11:26:01.479Z",
+  "description": "Stellar is our darkest blend with a rich and syrupy body. Featuring bold flavours of dark chocolate, butterscotch and praline, Stellar is perfect for milk-based coffee or for those who like their espresso with a kick!",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/9/8/3984471.jpg",
+  "name": "Lab Stellar Coffee Beans",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 9.6,
+    "lowPrice": 9.6,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/OutOfStock",
+        "availabilityStarts": "2022-12-06T11:26:01.478Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "9.60",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coffe-beans"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/coffe-beans"
+  ],
+  "sku": "3984471",
+  "updatedAt": "2022-12-06T11:26:01.478Z"
+}

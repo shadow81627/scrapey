@@ -1,0 +1,50 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Contains",
+      "value": "183 ML"
+    },
+    {
+      "name": "Size",
+      "value": "183mL"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$4.21 per 100mL"
+    }
+  ],
+  "brand": "Magnum",
+  "createdAt": "2022-12-06T20:18:47.465Z",
+  "description": "Magnum Bites Ice Cream Almond",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/0/2/5027514.jpg",
+  "name": "Bites Ice Cream Almond",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 7.7,
+    "lowPrice": 7.7,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/OutOfStock",
+        "availabilityStarts": "2022-12-06T20:18:47.464Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "7.70",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/ice-cream-almond"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/ice-cream-almond"
+  ],
+  "sku": "5027514",
+  "updatedAt": "2022-12-06T20:18:47.464Z"
+}

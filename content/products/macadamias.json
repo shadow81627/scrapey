@@ -1,0 +1,54 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "<strong>INGREDIENTS:</strong> <strong>Macadamia </strong>Nuts."
+    },
+    {
+      "name": "Allergen",
+      "value": "May Be Present SOY, Contains TREE NUTS, Contains Macadamia Nuts, May Be Present OTHER TREE NUTS, May Be Present PEANUTS"
+    },
+    {
+      "name": "Size",
+      "value": "80g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$41.88 per 1Kg"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2022-12-06T16:23:51.428Z",
+  "description": "Coles Macadamias 80g. Macadamia nuts have a wonderful crunch and a deliciously creamy taste. Perfect for desserts and baking!",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/0/4/3041230.jpg",
+  "name": "Macadamias",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3.35,
+    "lowPrice": 3.35,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T16:23:51.427Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "3.35",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-macadamias"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/coles-macadamias"
+  ],
+  "sku": "3041230",
+  "updatedAt": "2022-12-06T16:23:51.428Z"
+}

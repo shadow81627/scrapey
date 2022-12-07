@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "250g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$4.20 per 100G"
+    }
+  ],
+  "brand": "Lavazza",
+  "createdAt": "2022-12-06T11:06:29.885Z",
+  "description": "Lavazza Cafe Italiano Classico Ground",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/0/2/5023863.jpg",
+  "name": "Cafe Italiano Classico Ground",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 10.5,
+    "lowPrice": 10.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T11:06:29.884Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "10.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/lavazza-cafe-italiano-classico-ground"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/lavazza-cafe-italiano-classico-ground"
+  ],
+  "sku": "5023863",
+  "updatedAt": "2022-12-06T11:06:29.884Z"
+}

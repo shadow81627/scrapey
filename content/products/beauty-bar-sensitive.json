@@ -1,0 +1,50 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Contains",
+      "value": "360 GR"
+    },
+    {
+      "name": "Size",
+      "value": "4 pack"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.18 per 1Ea"
+    }
+  ],
+  "brand": "Dove",
+  "createdAt": "2022-12-06T15:00:47.183Z",
+  "description": "Dove Beauty Bar Sensitive",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/2/5/5259407.jpg",
+  "name": "Beauty Bar Sensitive",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 4.7,
+    "lowPrice": 4.7,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/OutOfStock",
+        "availabilityStarts": "2022-12-06T15:00:47.183Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "4.70",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/sensitive-5259407p-1"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/sensitive-5259407p-1"
+  ],
+  "sku": "5259407",
+  "updatedAt": "2022-12-06T15:00:47.183Z"
+}

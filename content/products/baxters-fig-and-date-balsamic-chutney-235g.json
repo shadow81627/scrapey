@@ -1,0 +1,60 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "100.0kJ",
+      "carbohydrateContent": "5.5g",
+      "dietary_fibre": "0.33g",
+      "fatContent": "&lt; 0.1g",
+      "name": "nutrition",
+      "proteinContent": "&lt; 0.1g",
+      "saturatedFatContent": "&lt; 0.1g",
+      "servingSize": "100 g",
+      "sodiumContent": "31.0mg",
+      "sugarContent": "5.1g"
+    }
+  ],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Baxter's"
+  },
+  "createdAt": "2022-12-06T18:07:04.425Z",
+  "description": "<p>This Mediterranean inspired chutney is wonderful for a tapas style supper, perfect with a rich, nutty Pecorino Romano cheese, shaved slices of prosciutto, olives and warm chunks of cibatta rustica.\"Audrey Baxter</p>",
+  "gtin13": "9340398000512",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/622040.jpg",
+  "name": "Baxter's Fig & Date Balsamic Chutney 235G",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 4,
+    "lowPrice": 4,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T18:07:04.424Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 4,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/622040/baxter-s-fig-date-balsamic-chutney"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/622040/baxter-s-fig-date-balsamic-chutney"
+  ],
+  "sku": "622040",
+  "updatedAt": "2022-12-06T18:07:04.424Z"
+}

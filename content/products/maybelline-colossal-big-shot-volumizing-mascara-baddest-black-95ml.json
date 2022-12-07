@@ -1,0 +1,52 @@
+{
+  "@type": "Product",
+  "additionalProperty": [],
+  "aggregateRating": {
+    "@context": "http://schema.org",
+    "@type": "AggregateRating",
+    "ratingCount": 5,
+    "ratingValue": 4.8
+  },
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Maybelline"
+  },
+  "createdAt": "2022-12-06T14:35:34.943Z",
+  "description": "Get big shot volume from root-to-tip in just one quick coat with Maybelline Colossal Big Shot Mascara.<BR><BR>Maybelline Colossal Big Shot Volumizing Mascara features unique wavy bristles that get close to the root of the lashes to capture the biggest shot of volume yet.<BR><BR>Achieve full lash volume in one coat<BR><BR>The big shot brush features unique, wavy bristles that cradle lashes for a bold lash look<BR><BR>Washable mascara formula<BR><BR>No flake, no smudge formula removes easily without tugging or pulling<BR><BR>Ophthalmologist tested",
+  "gtin13": "41554493719",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/558977.jpg",
+  "name": "Maybelline Colossal Big Shot Volumizing Mascara - Baddest Black 9.5mL",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 10.5,
+    "lowPrice": 10.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T14:35:34.940Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 10.5,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/558977/maybelline-colossal-big-shot-volumizing-mascara-baddest-black"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/558977/maybelline-colossal-big-shot-volumizing-mascara-baddest-black"
+  ],
+  "sku": "558977",
+  "updatedAt": "2022-12-06T14:35:34.940Z"
+}

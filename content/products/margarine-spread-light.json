@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "500g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.05 per 100G"
+    }
+  ],
+  "brand": "Flora",
+  "createdAt": "2022-12-06T13:13:13.162Z",
+  "description": "Flora Light is made with sunflower seed oil, a source of Omega 6 and Vitamin E and contains 75% less saturated fat than butter.Flora Light margarine spread is made with sunflower seed oil and contains 75% less saturated fat than butter.",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/8/7/6/87643.jpg",
+  "name": "Margarine Spread Light",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 5.25,
+    "lowPrice": 5.25,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T13:13:13.162Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "5.25",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/flora-spread-margarine-sunflower-light-tub"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/flora-spread-margarine-sunflower-light-tub"
+  ],
+  "sku": "87643",
+  "updatedAt": "2022-12-06T13:13:13.162Z"
+}

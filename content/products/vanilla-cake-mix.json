@@ -3,11 +3,11 @@
   "additionalProperty": [
     {
       "name": "Ingredients",
-      "value": "INGREDIENTS: Wheat Flour, Sugar, Baking Powder [Raising Agents (450, 500, 341, 339), Wheaten Cornflour (Wheat)], Canola Oil, Natural Vanilla Flavour."
+      "value": "<p> Sugar, <strong>Wheat</strong> Flour, Palm Oil**&nbsp; Vegetable Emulsifiers (471, 477), Antioxidant (307)], Raising Agent (450, Sodium Carbonate), Tapioca Starch, Salt, Natural Flavouring.</p>, <p><strong>INGREDIENTS: Wheat</strong>&nbsp;Flour, Sugar, Wheaten Cornflour <strong>(Wheat)</strong>, Raising Agents (450, 500, 341, 339), Canola Oil, Tapioca Starch, Dextrose, Salt, Natural Vanilla Flavour (Contains <strong>Milk</strong>).</p>"
     },
     {
       "name": "Allergen",
-      "value": "Contains Wheat, Contains CEREALS CONTAINING GLUTEN"
+      "value": "May Contain SOY, Contains MILK, Contains CEREALS CONTAINING GLUTEN, Contains Wheat"
     },
     {
       "name": "Servings Per Pack",
@@ -15,50 +15,44 @@
     },
     {
       "name": "Size",
-      "value": "340g"
+      "value": "440g"
     },
     {
       "name": "Unit Price",
-      "value": "$0.26 per 100G"
+      "value": "$0.50 per 100G"
     }
   ],
   "brand": "Coles",
   "createdAt": "2020-10-12T05:22:04.000Z",
-  "description": "Coles Cake Mix Vanilla 340g. The easiest way to bake a fresh cake. Bake for your next event or even just as a treat.",
-  "image": {
-    "@type": "ImageObject",
-    "height": 300,
-    "mime": "image/jpeg",
-    "url": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/5/1/2517346.jpg",
-    "width": 300
-  },
+  "description": "Coles Vanilla Cake mIx baking Mix with Icing. A great stand by in the cupboard for when the baking urge takes hold.",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/1/9/3195449.jpg",
   "name": "Vanilla Cake Mix",
   "offers": {
     "@type": "AggregateOffer",
-    "highPrice": 0.9,
-    "lowPrice": 0.9,
+    "highPrice": 2.2,
+    "lowPrice": 2.2,
     "offerCount": 1,
     "offers": [
       {
         "@context": "http://schema.org",
         "@type": "Offer",
         "availability": "https://schema.org/InStock",
-        "availabilityStarts": "2022-11-24T06:20:46.943Z",
+        "availabilityStarts": "2022-12-06T09:45:04.947Z",
         "itemCondition": "https://schema.org/NewCondition",
         "offeredBy": "Coles",
-        "price": "0.90",
+        "price": "2.20",
         "priceCurrency": "AUD",
         "seller": {
           "@type": "Organization",
           "name": "Coles"
         },
-        "url": "https://shop.coles.com.au/a/national/product/coles-vanilla-cake-mix"
+        "url": "https://shop.coles.com.au/a/national/product/coles-vanilla-cake-mix-3195449p"
       }
     ]
   },
   "sameAs": [
-    "https://shop.coles.com.au/a/national/product/coles-vanilla-cake-mix"
+    "https://shop.coles.com.au/a/national/product/coles-vanilla-cake-mix-3195449p"
   ],
-  "sku": "2517346",
-  "updatedAt": "2022-11-24T06:20:46.943Z"
+  "sku": "3195449",
+  "updatedAt": "2022-12-06T09:45:04.947Z"
 }

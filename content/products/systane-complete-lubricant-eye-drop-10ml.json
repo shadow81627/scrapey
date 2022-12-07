@@ -1,0 +1,52 @@
+{
+  "@type": "Product",
+  "additionalProperty": [],
+  "aggregateRating": {
+    "@context": "http://schema.org",
+    "@type": "AggregateRating",
+    "ratingCount": 1,
+    "ratingValue": 5
+  },
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Systane"
+  },
+  "createdAt": "2022-12-06T16:00:09.449Z",
+  "description": "<p>Systane COMPLETE is the all-in-one drop to relieve all types of dry eyes^<BR><BR>Are you putting up with irritated, tired, sore, watery, dry eyes?<br/><br/>You may be suffering from dry eyes! Systane<sup></sup> range of lubricating eyedrops are designed to moisturise and relieve the symptoms of dry eyes.<br/><br/>Systane<sup></sup> COMPLETE is the all-in-one eye drop that replenishes all layersof the tear film. Systane<sup></sup> COMPLETE relieves irritated, tired, sore, watery,dry eyes for up to 8 hours<sup>^</sup>. Systane<sup></sup> COMPLETE uses unique technology<br/>to moisturise, restore and stabilise the tear film:<br/><br/>HP-Guar to allow retention of moisture and relieve dry eye symptoms<br/>Nano-sized lipid droplet technology to minimise blurring and provide surface coverage on your eyes<br/>*IQVIA 01 TEARS S1K SELL-IN VALUE MAT 2021-02. ^Dry eye and associated symptoms due to aqueous deficient, evaporative and mixed dry eye.<br/><br/>References: 1. Alcon Data on File, Study CDMGD0012401 (available on request). 2. TFOS DEWS II 2017. 3. Rangarajan et al. J Ocul Pharmacol Th.2019; 35(1): 32-37 (Sponsored by Novartis) 4. Springs, C. Dev Ophthalmol. 2010;45:139-147<BR><BR>Simple choice to relieve all types of dry eyes^<BR><BR>Replenishes all layers of tear film<BR><BR>Lasts up to 8 hours</p>",
+  "gtin13": "300650481182",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/083427.jpg",
+  "name": "Systane Complete Lubricant Eye Drop 10mL",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 18.8,
+    "lowPrice": 18.8,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/OutOfStock",
+        "availabilityStarts": "2022-12-06T16:00:09.449Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 18.8,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/83427/systane-complete-lubricant-eye-drop"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/83427/systane-complete-lubricant-eye-drop"
+  ],
+  "sku": "83427",
+  "updatedAt": "2022-12-06T16:00:09.449Z"
+}

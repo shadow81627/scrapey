@@ -1,0 +1,50 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "20 pack"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.23 per 1Ea"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Made in Poland"
+    }
+  ],
+  "brand": "Red Seal",
+  "createdAt": "2022-12-06T07:11:01.270Z",
+  "description": "Red Seal Variety Pack Hot Or Cold Brew Tea",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/7/0/3709422.jpg",
+  "name": "Variety Pack Hot Or Cold Brew Tea",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 4.5,
+    "lowPrice": 4.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T07:11:01.269Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "4.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/red-seal-variety-pack-hot-or-cold-brew-tea"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/red-seal-variety-pack-hot-or-cold-brew-tea"
+  ],
+  "sku": "3709422",
+  "updatedAt": "2022-12-06T07:11:01.269Z"
+}

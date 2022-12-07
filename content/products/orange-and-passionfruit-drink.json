@@ -1,0 +1,54 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Filtered Water, Reconstituted Orange Juice (19.5%), Cane Sugar, Reconstituted Passionfruit Juice (0.5%), Acidity Regulator (Citric Acid), Flavours, Preservative (202), Natural Colour (Annatto)."
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "1.0"
+    },
+    {
+      "name": "Size",
+      "value": "500mL"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$4.30 per 1L"
+    }
+  ],
+  "brand": "Mildura",
+  "createdAt": "2022-12-06T10:28:38.261Z",
+  "description": "Mildura Orange And Passionfruit Drink",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/4/7/2478867.jpg",
+  "name": "Orange And Passionfruit Drink",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2.15,
+    "lowPrice": 2.15,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T10:28:38.261Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "2.15",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/mildura-juice-orange-passionfruit"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/mildura-juice-orange-passionfruit"
+  ],
+  "sku": "2478867",
+  "updatedAt": "2022-12-06T10:28:38.261Z"
+}

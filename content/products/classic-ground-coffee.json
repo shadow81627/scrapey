@@ -1,0 +1,58 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Coffee beans"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "40.0"
+    },
+    {
+      "name": "Size",
+      "value": "200g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$3.15 per 100G"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Product of Lebanon"
+    }
+  ],
+  "brand": "Cafe Najjar",
+  "createdAt": "2022-12-06T12:00:23.662Z",
+  "description": "Cafe Najjar Classic Ground Coffee",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/9/8/8/9886410.jpg",
+  "name": "Classic Ground Coffee",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 6.3,
+    "lowPrice": 6.3,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T12:00:23.661Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "6.30",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/najjar-plain"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/najjar-plain"
+  ],
+  "sku": "9886410",
+  "updatedAt": "2022-12-06T12:00:23.661Z"
+}

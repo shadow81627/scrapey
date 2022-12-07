@@ -1,0 +1,50 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "40 pack"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.07 per 1Ea"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Made in China"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2022-12-06T08:31:44.041Z",
+  "description": "Coles Ultra Antibacterial Wipes Stand Up Pouch",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/9/9/3997349.jpg",
+  "name": "Ultra Antibacterial Wipes Stand Up Pouch",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2.6,
+    "lowPrice": 2.6,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T08:31:44.040Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "2.60",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/wipes-stand-up-pouch"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/wipes-stand-up-pouch"
+  ],
+  "sku": "3997349",
+  "updatedAt": "2022-12-06T08:31:44.040Z"
+}

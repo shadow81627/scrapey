@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Swisse"
+  },
+  "createdAt": "2022-12-06T15:29:57.587Z",
+  "description": "<p>Swisse Women’s Ultivite is a comprehensive women's multivitamin, tailored to support health and wellbeing, and to fill nutritional gaps.<br/></p><p>Swisse Women’s Ultivite is a premium quality formula that supports general health and wellbeing, and helps fill nutritional gaps. Tailored for women, it assists with energy production, stamina and vitality, and provides support during stress. This comprehensive multivitamin contains 50 vitamins, minerals, antioxidants, and herbs.</p><p>Scientifically formulated to support female wellbeing.<br/><br/>Contains 36 vitamins, minerals, antioxidants, and herbs.<br/><br/>Helps fill nutritional gaps when dietary intake is inadequate.<br/><br/>Supports general health and vitality.</p>",
+  "gtin13": "93566766",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/307061.jpg",
+  "name": "Swisse Ultivite Women's Tablets F1 60 Pack",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 30,
+    "lowPrice": 30,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T15:29:57.587Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 30,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/307061/swisse-ultivite-women-s-tablets-f1"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/307061/swisse-ultivite-women-s-tablets-f1"
+  ],
+  "sku": "307061",
+  "updatedAt": "2022-12-06T15:29:57.587Z"
+}

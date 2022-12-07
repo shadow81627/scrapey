@@ -1,0 +1,52 @@
+{
+  "@type": "Product",
+  "additionalProperty": [],
+  "aggregateRating": {
+    "@context": "http://schema.org",
+    "@type": "AggregateRating",
+    "ratingCount": 1,
+    "ratingValue": 4
+  },
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Maybelline"
+  },
+  "createdAt": "2022-12-06T14:48:51.843Z",
+  "description": "Maybelline Lasting Fix Setting Spray is the perfect final step to lock your makeup in place all day and night.<BR><BR>Maybelline Lasting Fix Makeup Setting Spray is a quick-drying mist that keeps makeup looking fresh by preventing melting and color fading. The lightweight, translucent and oil-free formula makes is ideal for all skin types.<BR><BR>Apply this weightless spray to set your makeup for a 16 hour long-lasting finish<BR><BR>Quick-drying mist leaves skin feeling soft and fresh with a matte finish<BR><BR>The oil-free mist boosts the wear of makeup to prevent melting and color fading<BR><BR>Transfer proof and sweat resistant<BR><BR>The perfect final step to any makeup",
+  "gtin13": "9344329171760",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/014151.jpg",
+  "name": "Maybelline Lasting Fix Make Up Setting Spray 100mL",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 19,
+    "lowPrice": 19,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T14:48:51.842Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 19,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/14151/maybelline-lasting-fix-make-up-setting-spray"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/14151/maybelline-lasting-fix-make-up-setting-spray"
+  ],
+  "sku": "14151",
+  "updatedAt": "2022-12-06T14:48:51.842Z"
+}

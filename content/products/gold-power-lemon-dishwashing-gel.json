@@ -1,0 +1,50 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Refer to www.henkel.com.au for full information"
+    },
+    {
+      "name": "Size",
+      "value": "700mL"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$2.29 per 100mL"
+    }
+  ],
+  "brand": "Somat",
+  "createdAt": "2022-12-06T19:05:00.913Z",
+  "description": "Somat Gold Power Lemon Dishwashing Gel",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/4/4/4/4447671.jpg",
+  "name": "Gold Power Lemon Dishwashing Gel",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 16,
+    "lowPrice": 16,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T19:05:00.913Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "16.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/-4447671p-1"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/-4447671p-1"
+  ],
+  "sku": "4447671",
+  "updatedAt": "2022-12-06T19:05:00.913Z"
+}

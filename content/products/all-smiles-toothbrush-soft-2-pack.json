@@ -1,0 +1,52 @@
+{
+  "@type": "Product",
+  "additionalProperty": [],
+  "aggregateRating": {
+    "@context": "http://schema.org",
+    "@type": "AggregateRating",
+    "ratingCount": 12,
+    "ratingValue": 3.66666666666667
+  },
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "All Smiles"
+  },
+  "createdAt": "2022-12-06T10:36:44.026Z",
+  "description": "<ul><li>Multi-level bristles to effectively clean the teeth and gums</li><li>Cheek & tongue cleaner helps remove odour-causing bacteria from the tongue.</li><li>Dentists recommend replacing your toothbrush every 8-10 weeks</li></ul>",
+  "gtin13": "9300633636692",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/581154.jpg",
+  "name": "All Smiles Toothbrush Soft 2 Pack",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2,
+    "lowPrice": 2,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T10:36:44.024Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 2,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/581154/all-smiles-toothbrush-soft"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/581154/all-smiles-toothbrush-soft"
+  ],
+  "sku": "581154",
+  "updatedAt": "2022-12-06T10:36:44.024Z"
+}

@@ -1,0 +1,54 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Water, Reconstituted Orange Juice (49%), Natural Flavours, Vitamin C, Food Acid (Citric Acid), Stabiliser (Pectin)."
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "10.0"
+    },
+    {
+      "name": "Size",
+      "value": "2L"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.95 per 1L"
+    }
+  ],
+  "brand": "Golden Circle",
+  "createdAt": "2022-12-06T10:37:40.661Z",
+  "description": "Golden Circle 50% Less Sugar Orange Juice",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/8/2/3820000.jpg",
+  "name": "50% Less Sugar Orange Juice",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3.9,
+    "lowPrice": 3.9,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T10:37:40.660Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "3.90",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/golden-circle-orange-50-less-sugar-2l"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/golden-circle-orange-50-less-sugar-2l"
+  ],
+  "sku": "3820000",
+  "updatedAt": "2022-12-06T10:37:40.661Z"
+}

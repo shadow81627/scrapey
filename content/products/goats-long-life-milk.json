@@ -1,0 +1,54 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "100% Goat milk"
+    },
+    {
+      "name": "Contains",
+      "value": "Contains Dairy"
+    },
+    {
+      "name": "Size",
+      "value": "1L"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$4.70 per 1L"
+    }
+  ],
+  "brand": "Living Planet",
+  "createdAt": "2022-12-06T11:40:59.150Z",
+  "description": "Living Planet Goats Long Life Milk",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/9/9/7/9972158.jpg",
+  "name": "Goats Long Life Milk",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 4.7,
+    "lowPrice": 4.7,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T11:40:59.149Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "4.70",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/living-planet-milk-long-life-goats"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/living-planet-milk-long-life-goats"
+  ],
+  "sku": "9972158",
+  "updatedAt": "2022-12-06T11:40:59.149Z"
+}

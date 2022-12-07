@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "340g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.91 per 100G"
+    }
+  ],
+  "brand": "Nestle",
+  "createdAt": "2022-12-06T17:32:34.259Z",
+  "description": "Made with 50% wholegrain wheat and corn, MILO DUO is a delicious combination of the original MILO Cereal with milky-vanilla curls, making it rich in calcium which is important for growing bones.30g serve of MILO DUO with 125mL of reduced fat milk provides 42% of your daily calcium needs",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/6/7/7/6778840.jpg",
+  "name": "Milo Duo",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 6.5,
+    "lowPrice": 6.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T17:32:34.259Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "6.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/nestle-milo-duo-6778840p"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/nestle-milo-duo-6778840p"
+  ],
+  "sku": "6778840",
+  "updatedAt": "2022-12-06T17:32:34.259Z"
+}

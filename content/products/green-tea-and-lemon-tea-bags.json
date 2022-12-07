@@ -1,0 +1,50 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "10 Pack"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.20 per 1Ea"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Blended and packed in Poland to the highest standards by Twinings of London using the finest imported and local ingredients."
+    }
+  ],
+  "brand": "Twining's",
+  "createdAt": "2022-12-06T11:50:44.264Z",
+  "description": "Add a little zing to your day...Harmoniously balanced, Green Tea & Lemon are perfect for each other.The flavour of lemon brings out the fragrant green tea in this delicious pairing. Enjoy this zesty and vibrant tea and let it fill your moment with a little burst of sunshine.",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/4/7/6/4760120.jpg",
+  "name": "Green Tea And Lemon Tea Bags",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2,
+    "lowPrice": 2,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T11:50:44.264Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "2.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/twinings-tea-bags-green-tea-lemon"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/twinings-tea-bags-green-tea-lemon"
+  ],
+  "sku": "4760120",
+  "updatedAt": "2022-12-06T11:50:44.264Z"
+}

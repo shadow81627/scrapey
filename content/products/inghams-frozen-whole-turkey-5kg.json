@@ -1,0 +1,66 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "855.00kJ",
+      "carbohydrateContent": "1.50g",
+      "dietary_fibre": "-",
+      "fatContent": "8.20g",
+      "name": "nutrition",
+      "proteinContent": "30.20g",
+      "saturatedFatContent": "1.60g",
+      "servingSize": "100 g",
+      "sodiumContent": "576.00mg",
+      "sugarContent": "1.50g"
+    }
+  ],
+  "aggregateRating": {
+    "@context": "http://schema.org",
+    "@type": "AggregateRating",
+    "ratingCount": 4,
+    "ratingValue": 4.75
+  },
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Ingham's"
+  },
+  "createdAt": "2022-12-06T18:23:59.740Z",
+  "description": "Ingham's Frozen Whole Turkey, lightly marinated for a succulent roast, every time.<br><br>- No added hormones.<br>- 100% Aussie Turkey.<br>- Grown on rural NSW farms.<br><br>Ingham's is dedicated to providing the best quality turkey that is at the heart of your table. Ingham's is passionate about the quality and health of their turkeys, providing great tasting food and sharing meals with family and friends.<br> <br>Generations of families have grown up enjoying Ingham's, united at the heart of the table by great meals. Tables are where we connect, talk and share our lives with the people that matter most to us.<br> <br>Ingham's, Love 'em.<br><br>Ingham's is dedicated to providing the best quality turkey that is at the heart of your table. Ingham's is passionate about the quality and health of their turkeys, providing great tasting food and sharing meals with family and friends. <br><br>Generations of families have grown up enjoying Ingham's, united at the heart of the table by great meals. Tables are where we connect, talk and share our lives with the people that matter most to us. Ingham's, Love em.",
+  "gtin13": "9310037220502",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/029487.jpg",
+  "name": "Ingham's Frozen Whole Turkey 5kg",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 35,
+    "lowPrice": 35,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/OutOfStock",
+        "availabilityStarts": "2022-12-06T18:23:59.739Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 35,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/29487/ingham-s-frozen-whole-turkey"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/29487/ingham-s-frozen-whole-turkey"
+  ],
+  "sku": "29487",
+  "updatedAt": "2022-12-06T18:23:59.739Z"
+}

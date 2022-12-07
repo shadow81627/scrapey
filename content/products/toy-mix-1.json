@@ -1,0 +1,42 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Unit Price",
+      "value": "$3.15 per 1Ea"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2022-12-06T19:14:53.810Z",
+  "description": "Suitable for Ages 3+ Years - contains 3 bubble wands to dip and create bubbles around you!",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/7/3/3733314.jpg",
+  "name": "Toy Mix 1",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3.15,
+    "lowPrice": 3.15,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T19:14:53.809Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "3.15",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-toy-mix-1-coles-toy-mix-1"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/coles-toy-mix-1-coles-toy-mix-1"
+  ],
+  "sku": "3733314",
+  "updatedAt": "2022-12-06T19:14:53.809Z"
+}

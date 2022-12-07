@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "1 pack"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$15.00 per 1Ea"
+    }
+  ],
+  "brand": "Gillette",
+  "createdAt": "2022-12-06T14:55:33.188Z",
+  "description": "Benefit from over 100 years of class leading innovation and quality Remember, quality blades are sharper (and stay sharper too!). They last longer and you use less which means each shave is saving you money.",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/4/6/5/4658393.jpg",
+  "name": "Aqua 5 Razor 2 Up",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 15,
+    "lowPrice": 15,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T14:55:33.187Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "15.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/2up-1pk"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/2up-1pk"
+  ],
+  "sku": "4658393",
+  "updatedAt": "2022-12-06T14:55:33.187Z"
+}

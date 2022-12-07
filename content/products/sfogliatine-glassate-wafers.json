@@ -1,0 +1,50 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "135g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$2.52 per 100G"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Made in Italy"
+    }
+  ],
+  "brand": "I Dolci Di Montagna",
+  "createdAt": "2022-12-06T17:07:12.480Z",
+  "description": "Authentic Italian biscuit made with the purest ingredients. Sfogliatine Glazed Puffs are covered with a glaze and decorated with apricot jam. Cute elongated shape ideal as a tasty snack or served with ice cream or as an accompaniment to a hot drink such as tea or coffee",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/8/3/0/8303312.jpg",
+  "name": "Sfogliatine Glassate Wafers",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3.4,
+    "lowPrice": 3.4,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T17:07:12.480Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "3.40",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/dolci-di-montagna-wafers-sfogliatine-glazed"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/dolci-di-montagna-wafers-sfogliatine-glazed"
+  ],
+  "sku": "8303312",
+  "updatedAt": "2022-12-06T17:07:12.480Z"
+}

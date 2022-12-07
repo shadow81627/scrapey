@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "440g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.14 per 100G"
+    }
+  ],
+  "brand": "Monetta",
+  "createdAt": "2022-12-06T09:19:46.036Z",
+  "description": "Monetta Vanilla Or Tiramisu Assorted Wafers",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/7/6/2/7620976.jpg",
+  "name": "Vanilla Or Tiramisu Assorted Wafers",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 5,
+    "lowPrice": 5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/OutOfStock",
+        "availabilityStarts": "2022-12-06T09:19:46.035Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "5.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/vanilla-or-tiramisu"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/vanilla-or-tiramisu"
+  ],
+  "sku": "7620976",
+  "updatedAt": "2022-12-06T09:19:46.035Z"
+}

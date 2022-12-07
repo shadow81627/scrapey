@@ -1,0 +1,50 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "500g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$4.20 per 100G"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Packaged in Italy"
+    }
+  ],
+  "brand": "Lavazza",
+  "createdAt": "2022-12-06T11:23:56.347Z",
+  "description": "Caffè Decaffeinato 500g Our best quality beans are decaffeinated through a natural process. This will ensure that they retain their full aromatic profile.",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/4/9/3/4930490.jpg",
+  "name": "Caffe Decaffeinato Beans",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 21,
+    "lowPrice": 21,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/OutOfStock",
+        "availabilityStarts": "2022-12-06T11:23:56.346Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "21.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/decafeinato-beans"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/decafeinato-beans"
+  ],
+  "sku": "4930490",
+  "updatedAt": "2022-12-06T11:23:56.346Z"
+}

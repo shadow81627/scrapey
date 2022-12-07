@@ -1,0 +1,50 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "125g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$2.40 per 100G"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Product of India"
+    }
+  ],
+  "brand": "Queen Victoria",
+  "createdAt": "2022-12-06T12:11:46.383Z",
+  "description": "Queen Victoria Tea English Breakfast Loose Leaf 125g. The British tradition of enjoying a blend of strong black teas at breakfast goes back centuries. Our classic English Breakfast tea is full-bodied, bright and bold, with a malted finish.",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/9/8/3984835.jpg",
+  "name": "English Breakfast Loose Leaf Tea",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3,
+    "lowPrice": 3,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T12:11:46.382Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "3.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/english-bf-lose-leaf"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/english-bf-lose-leaf"
+  ],
+  "sku": "3984835",
+  "updatedAt": "2022-12-06T12:11:46.383Z"
+}

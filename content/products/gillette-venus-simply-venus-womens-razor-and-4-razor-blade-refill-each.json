@@ -1,0 +1,52 @@
+{
+  "@type": "Product",
+  "additionalProperty": [],
+  "aggregateRating": {
+    "@context": "http://schema.org",
+    "@type": "AggregateRating",
+    "ratingCount": 9,
+    "ratingValue": 3.22222222222222
+  },
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Gillette"
+  },
+  "createdAt": "2022-12-06T17:00:23.147Z",
+  "description": "<p>Gillette Simply Venus Razor for less nicks and cuts. Lubrastrip with a Touch of Aloe for Glide<br/><br/></p><p>Gillette Simply Venus closer shave with less nicks and cuts (vs. Gilette Daily Classic).</p><p>1. 3 blades for a closer shave.</p><p>2. Pivoting head to fit easily into hard to shave areas.</p><p>3. Lubrastrip with a Touch of Aloe for Glide</p><p><br/>3 blades for a closer shave.<br/><br/>Pivoting head to fit easily into hard to shave areas.<br/><br/>Moisture strip, with a touch of aloe, for glide.<br/><br/>Simply Venus cartridges only fit Simply Venus handles.<br/><br/>Refills not sold separately.</p>",
+  "gtin13": "7702018366262",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/895452.jpg",
+  "name": "Gillette Venus Simply Venus Women's Razor & 4 Razor Blade Refill Each",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3.5,
+    "lowPrice": 3.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T17:00:23.146Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 3.5,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/895452/gillette-venus-simply-venus-women-s-razor-4-razor-blade-refill"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/895452/gillette-venus-simply-venus-women-s-razor-4-razor-blade-refill"
+  ],
+  "sku": "895452",
+  "updatedAt": "2022-12-06T17:00:23.146Z"
+}

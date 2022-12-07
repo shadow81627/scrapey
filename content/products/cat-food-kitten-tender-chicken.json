@@ -1,0 +1,54 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Meats (including Chicken &/or Beef &/or Sheep &/or Pork); Cheese; Binders (including derived from Beef &/or Sheep &/or Pork &/or Cereal); Gelling Agents; Vitamins & Minerals; Sunflower Oil; Colouring Agents; Flavours; Amino Acids; Plant Extracts."
+    },
+    {
+      "name": "Contains",
+      "value": "Loaf"
+    },
+    {
+      "name": "Size",
+      "value": "85g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.12 per 100G"
+    }
+  ],
+  "brand": "Dine",
+  "createdAt": "2022-12-07T00:37:50.956Z",
+  "description": "Dine Cat Food Kitten Tender Chicken",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/7/5/9/7599574.jpg",
+  "name": "Cat Food Kitten Tender Chicken",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 0.95,
+    "lowPrice": 0.95,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-07T00:37:50.955Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "0.95",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/dine-kitten-food-chicken"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/dine-kitten-food-chicken"
+  ],
+  "sku": "7599574",
+  "updatedAt": "2022-12-07T00:37:50.955Z"
+}

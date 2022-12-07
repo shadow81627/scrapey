@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Sukin"
+  },
+  "createdAt": "2022-12-06T13:33:24.167Z",
+  "description": "<p>A nourishing combination of roseship, avocado and wheat germ leaves skin feeling clean and soothed. Our indulgent Cream Cleanser works to remove makeup, oil and dirt build up on the skin. A blend of Rosehip, Avocado, Sesame and Wheat Germ Oils nourish and hydrate, while an infusion of Aloe Vera, Cocoa Butter, Nettle and Horsetail leaves skin feeling soothed, clean and refreshed. Naturally created with: No petrolatum / mineral oils, synthetic fragrances, animal derivatives, artificial colours, harsh detergents, propylene glycol, MEA / DEA / TEA, phthalates, triclosan, sulphates, parabens, silicones and EDTA</p>",
+  "gtin13": "9327693000362",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/859165.jpg",
+  "name": "Sukin Signature Cream Cleanser Pump 125mL",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 15,
+    "lowPrice": 15,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T13:33:24.166Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 15,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/859165/sukin-signature-cream-cleanser-pump"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/859165/sukin-signature-cream-cleanser-pump"
+  ],
+  "sku": "859165",
+  "updatedAt": "2022-12-06T13:33:24.166Z"
+}

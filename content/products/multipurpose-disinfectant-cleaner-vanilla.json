@@ -1,0 +1,54 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Ethanol 70%, Non Hazardous ingredients 30%"
+    },
+    {
+      "name": "Contains",
+      "value": "70% v/v ethanol"
+    },
+    {
+      "name": "Size",
+      "value": "500mL"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.35 per 100mL"
+    }
+  ],
+  "brand": "Diggers",
+  "createdAt": "2022-12-07T00:33:07.009Z",
+  "description": "Diggers Multi-Purpose Surface Cleaner is a hospital grade disinfectant and cleaning agent proven to kill 99.9% of germs. Containing natural scented methylated spirits to deodorise as you clean leaving behind a fresh vanilla scent.",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/4/2/3/4232824.jpg",
+  "name": "Multipurpose Disinfectant Cleaner Vanilla",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 6.75,
+    "lowPrice": 6.75,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-07T00:33:07.009Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "6.75",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/cleaner-vanilla"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/cleaner-vanilla"
+  ],
+  "sku": "4232824",
+  "updatedAt": "2022-12-07T00:33:07.009Z"
+}

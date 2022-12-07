@@ -1,0 +1,50 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "50g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.90 per 100G"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Made in Thailand"
+    }
+  ],
+  "brand": "Trident",
+  "createdAt": "2022-12-06T18:19:39.909Z",
+  "description": "Trident Thai Soups with Noodles are unique and developed from traditional authentic Thai recipes. These gluten free soups make a delicious low fat snack or can be served as an entree. Trident Hot & Spicy Thai Soup is a clear style soup.",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/4/8/0/4803481.jpg",
+  "name": "Packet Soup Miso",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 0.95,
+    "lowPrice": 0.95,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/OutOfStock",
+        "availabilityStarts": "2022-12-06T18:19:39.909Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "0.95",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/miso"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/miso"
+  ],
+  "sku": "4803481",
+  "updatedAt": "2022-12-06T18:19:39.909Z"
+}

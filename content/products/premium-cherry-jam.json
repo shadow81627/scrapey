@@ -1,0 +1,66 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "INGREDIENTS: Sugar, Cherry (50%), Acidity Regulator (Citric Acid), Pectin."
+    },
+    {
+      "name": "Allergen",
+      "value": "May Be Present EGG, May Be Present MILK"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "23.0"
+    },
+    {
+      "name": "Warning",
+      "value": "May contain pits or pit fragments"
+    },
+    {
+      "name": "Size",
+      "value": "345g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.68 per 100G"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Made in Belgium"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2022-12-06T09:53:39.050Z",
+  "description": "Coles premium cherry jam a Soft set jam full of juicy cherries. Delicious on toast",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/8/1/3816422.jpg",
+  "name": "Premium Cherry Jam",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2.35,
+    "lowPrice": 2.35,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T09:53:39.049Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "2.35",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-premium-cherry-jam"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/coles-premium-cherry-jam"
+  ],
+  "sku": "3816422",
+  "updatedAt": "2022-12-06T09:53:39.050Z"
+}

@@ -1,0 +1,50 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "100g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$3.00 per 100G"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Made in Germany"
+    }
+  ],
+  "brand": "Milka",
+  "createdAt": "2022-12-06T17:12:07.143Z",
+  "description": "For a deliciously creamy chocolate experience like no other, snap up this tasty block of Milka chocolate. Made with 100% alpine milk, this block-o-chock offers the ultimate mouth watering sensation.",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/3/0/3303563.jpg",
+  "name": "Hazelnut Milk Chocolate",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3,
+    "lowPrice": 3,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T17:12:07.142Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "3.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/milka-oreo-milk-chocolate"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/milka-oreo-milk-chocolate"
+  ],
+  "sku": "3303563",
+  "updatedAt": "2022-12-06T17:12:07.142Z"
+}

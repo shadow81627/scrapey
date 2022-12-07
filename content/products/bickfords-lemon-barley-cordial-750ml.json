@@ -1,0 +1,60 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "433kJ",
+      "carbohydrateContent": "25.3g",
+      "dietary_fibre": "0g",
+      "fatContent": "0g",
+      "name": "nutrition",
+      "proteinContent": "&lt;1g",
+      "saturatedFatContent": "0g",
+      "servingSize": "100 g",
+      "sodiumContent": "6.0mg",
+      "sugarContent": "25.3g"
+    }
+  ],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Bickford's"
+  },
+  "createdAt": "2022-12-06T18:12:44.479Z",
+  "description": "Bickford's Lemon Barley Cordial brings together the fresh taste of ripe lemons with the rich, smooth flavour of cooked barley. Dilute with soda or plain water for a real thirst quenching taste, or use as a mixer with premium spirits.",
+  "gtin13": "9311755000100",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/003154.jpg",
+  "name": "Bickford's Lemon Barley Cordial 750mL",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 4.5,
+    "lowPrice": 4.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T18:12:44.478Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 4.5,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/3154/bickford-s-lemon-barley-cordial"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/3154/bickford-s-lemon-barley-cordial"
+  ],
+  "sku": "3154",
+  "updatedAt": "2022-12-06T18:12:44.478Z"
+}

@@ -1,0 +1,42 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "1 pack"
+    }
+  ],
+  "brand": "Bonds",
+  "createdAt": "2022-12-06T19:46:08.291Z",
+  "description": "Bonds Skinny Legging Mix Colour Medium/Large",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/1/7/2/1721926.jpg",
+  "name": "Skinny Legging Mix Colour Medium/Large",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 10,
+    "lowPrice": 10,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T19:46:08.291Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "10.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/bonds-skinny-legging-mix-colour-talls-x-tall"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/bonds-skinny-legging-mix-colour-talls-x-tall"
+  ],
+  "sku": "1721926",
+  "updatedAt": "2022-12-06T19:46:08.291Z"
+}

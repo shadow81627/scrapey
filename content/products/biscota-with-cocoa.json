@@ -1,0 +1,54 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Flour, Sugar, Orange Juice, Vegetable Oil, Cinnamon, Vanilla Powder, Cocoa Powder."
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "16.0"
+    },
+    {
+      "name": "Size",
+      "value": "250g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$2.10 per 100G"
+    }
+  ],
+  "brand": "Olympian",
+  "createdAt": "2022-12-06T17:13:51.124Z",
+  "description": "A traditionally baked delicacy enriched with 100% premium dark cocoa. Vegan delicacy which can be enjoyed with a cup of coffee.",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/0/8/3083343.jpg",
+  "name": "Biscota With Cocoa",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 5.25,
+    "lowPrice": 5.25,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T17:13:51.123Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "5.25",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/olympian-biscota-cocoa"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/olympian-biscota-cocoa"
+  ],
+  "sku": "3083343",
+  "updatedAt": "2022-12-06T17:13:51.123Z"
+}

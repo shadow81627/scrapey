@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Garnier"
+  },
+  "createdAt": "2022-12-06T11:40:36.074Z",
+  "description": "For stronger, healthier hair. Paraben free.<BR><BR>Garnier Fructis Normal Strength & Shine Shampoo is enriched with Grapefruit Extract, Vitamin B3 and B6 to help strengthen the hair fibre from the root, visibly restoring health to your hair. Paraben free and dermatologically tested.<br><br>RESULT:  Stronger, healthier hair wash after wash.<br/><br/>All Garnier products are officially approved by Cruelty Free International.<br/>Since 1989, Garnier has been committed to a world without animal testing.<BR><BR>Enriched with Superfruits<BR><BR>Paraben Free<BR><BR>Silicone Free<BR><BR>Grapefruit extract<BR><BR>With vitamins B3 & B6",
+  "gtin13": "8901526536962",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/802536.jpg",
+  "name": "Garnier Fructis Normal Strength & Shine Shampoo 315mL",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3.75,
+    "lowPrice": 3.75,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T11:40:36.073Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 3.75,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/802536/garnier-fructis-normal-strength-shine-shampoo"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/802536/garnier-fructis-normal-strength-shine-shampoo"
+  ],
+  "sku": "802536",
+  "updatedAt": "2022-12-06T11:40:36.073Z"
+}

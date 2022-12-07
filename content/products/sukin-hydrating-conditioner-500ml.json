@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Sukin"
+  },
+  "createdAt": "2022-12-06T11:45:53.606Z",
+  "description": "<p>Shea butter, coconut, sesame & olive oils nourish, strengthen add shine to dry, damaged hair. Our Hydrating Conditioner is rich in moisturising Shea Butter, Coconut and Sesame Oils to help nourish, strengthen and repair repair dry and damaged hair. An infusion of Olive Oil and Vitamin E add lustre to dull hair and help reduce frizz. Hair is left feeling deeply hydrated, soft and more manageable, while an aroma of Coconut and Lime invigorates the senses. Naturally created with:No petrolatum / mineral oils, synthetic fragrances, animal derivatives, artificial colours, harsh detergents, propylene glycol, MEA / DEA / TEA, phthalates, triclosan, sulphates, parabens, silicones and EDTA</p>",
+  "gtin13": "9327693006890",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/104337.jpg",
+  "name": "Sukin Hydrating Conditioner 500mL",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 19,
+    "lowPrice": 19,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T11:45:53.605Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 19,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/104337/sukin-hydrating-conditioner"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/104337/sukin-hydrating-conditioner"
+  ],
+  "sku": "104337",
+  "updatedAt": "2022-12-06T11:45:53.605Z"
+}

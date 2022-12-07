@@ -1,0 +1,58 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Maize Starch, <b>Wheat</b> Starch, Sugar, Salt, Colours (102, 110, 150d), Flavours.<br><br><b>Contains: Wheat, Gluten.</b>"
+    },
+    {
+      "name": "Allergen",
+      "value": "Contains Gluten, Contains Wheat"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "116.0"
+    },
+    {
+      "name": "Size",
+      "value": "350g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.79 per 100G"
+    }
+  ],
+  "brand": "Foster Clarks",
+  "createdAt": "2022-12-06T08:33:24.756Z",
+  "description": "Foster Clarks Powder Custard",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/1/2/2/122234.jpg",
+  "name": "Powder Custard",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2.75,
+    "lowPrice": 2.75,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T08:33:24.755Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "2.75",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/foster-clarks-custard-powder"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/foster-clarks-custard-powder"
+  ],
+  "sku": "122234",
+  "updatedAt": "2022-12-06T08:33:24.755Z"
+}

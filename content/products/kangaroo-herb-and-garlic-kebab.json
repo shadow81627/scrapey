@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "360g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$26.39 per 1Kg"
+    }
+  ],
+  "brand": "K-Roo",
+  "createdAt": "2022-12-06T23:03:11.804Z",
+  "description": "Macro Meats aims to showcase kangaroo meat as a premium product for health conscious and flavour- loving consumers.",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/7/7/3771980.jpg",
+  "name": "Kangaroo Herb And Garlic Kebab",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 9.5,
+    "lowPrice": 9.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T23:03:11.804Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "9.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/macro-meats-kangaro-herb-and-garlic-kebab"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/macro-meats-kangaro-herb-and-garlic-kebab"
+  ],
+  "sku": "3771980",
+  "updatedAt": "2022-12-06T23:03:11.804Z"
+}

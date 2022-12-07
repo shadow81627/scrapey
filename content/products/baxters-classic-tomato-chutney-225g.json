@@ -1,0 +1,60 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "61.0kJ",
+      "carbohydrateContent": "3.3g",
+      "dietary_fibre": "0.33g",
+      "fatContent": "&lt; 0.1g",
+      "name": "nutrition",
+      "proteinContent": "0.2g",
+      "saturatedFatContent": "&lt; 0.1g",
+      "servingSize": "100 g",
+      "sodiumContent": "77.0mg",
+      "sugarContent": "3.0g"
+    }
+  ],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Baxter's"
+  },
+  "createdAt": "2022-12-06T18:08:10.333Z",
+  "description": "\"Based on mother's own delicious recipe, we added juicy red peppers to create a contemporary accompaniment that is perfect for barbecues, salads and sandwiches.\"\nAudrey Baxter",
+  "gtin13": "9340398000529",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/622043.jpg",
+  "name": "Baxter's Classic Tomato Chutney 225G",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 4,
+    "lowPrice": 4,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T18:08:10.332Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 4,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/622043/baxter-s-classic-tomato-chutney"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/622043/baxter-s-classic-tomato-chutney"
+  ],
+  "sku": "622043",
+  "updatedAt": "2022-12-06T18:08:10.332Z"
+}

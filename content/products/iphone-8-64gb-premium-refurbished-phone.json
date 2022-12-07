@@ -1,0 +1,42 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Unit Price",
+      "value": "$429.00 per 1Ea"
+    }
+  ],
+  "brand": "Apple",
+  "createdAt": "2022-12-06T08:22:03.322Z",
+  "description": "Unlocked",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/9/8/3988905.jpg",
+  "name": "iPhone 8 64GB Premium Refurbished Phone",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 429,
+    "lowPrice": 429,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T08:22:03.321Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "429.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/64gb-refurbished-phone"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/64gb-refurbished-phone"
+  ],
+  "sku": "3988905",
+  "updatedAt": "2022-12-06T08:22:03.322Z"
+}

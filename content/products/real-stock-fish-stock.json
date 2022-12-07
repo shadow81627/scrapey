@@ -1,0 +1,70 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Fish Stock (98%), (Water, Fish, Shrimp), Salt, Glucose, Reconstituted Lemon Juice, Fennel, Pepper, Thyme, Lactic Acid."
+    },
+    {
+      "name": "Contains",
+      "value": "Fish and crustacea (shrimp)."
+    },
+    {
+      "name": "Allergen",
+      "value": "Contains Crustacea, Contains Fish"
+    },
+    {
+      "name": "Dietary",
+      "value": "99% Fat Free, No Preservatives"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "2.0"
+    },
+    {
+      "name": "Warning",
+      "value": "Do not purchase if package is open or torn."
+    },
+    {
+      "name": "Size",
+      "value": "500mL"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.55 per 100mL"
+    }
+  ],
+  "brand": "Campbell's",
+  "createdAt": "2022-12-06T23:00:00.587Z",
+  "description": "Campbell's Real Stock Fish Stock",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/1/1/9/1190182.jpg",
+  "name": "Real Stock Fish Stock",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2.75,
+    "lowPrice": 2.75,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T23:00:00.586Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "2.75",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/campbells-stock-real-fish"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/campbells-stock-real-fish"
+  ],
+  "sku": "1190182",
+  "updatedAt": "2022-12-06T23:00:00.586Z"
+}

@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "BIC"
+  },
+  "createdAt": "2022-12-06T17:09:40.726Z",
+  "description": "The BIC Soleil Sensitive Advanced razor features 5 flexible blades that adjust to your curves to deliver a flawlessly smooth shave. The BIC Soleil Sensitive Advanced razor also features 360° water activated moisture strips for an enhanced glide. The pivoting head and rubber handle provide added control while the enhanced Comfort Shield helps protect against irritation.\n\n- Enhanced Comfort Shield helps protect against irritation\n- Five flexible blades for a close and efficient shave\n- Pivoting head and rubber handle for added control\n- Water activated moisture strips for enhanced glide\n- Enriched with Aloe",
+  "gtin13": "70330743274",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/140272.jpg",
+  "name": "Bic Soleil Sensitive Advanced Disposable Razors 2 pack",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 7.7,
+    "lowPrice": 7.7,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/OutOfStock",
+        "availabilityStarts": "2022-12-06T17:09:40.725Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 7.7,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/140272/bic-soleil-sensitive-advanced-disposable-razors"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/140272/bic-soleil-sensitive-advanced-disposable-razors"
+  ],
+  "sku": "140272",
+  "updatedAt": "2022-12-06T17:09:40.725Z"
+}

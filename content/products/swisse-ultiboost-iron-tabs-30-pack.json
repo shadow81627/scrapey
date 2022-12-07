@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Swisse"
+  },
+  "createdAt": "2022-12-06T15:34:06.402Z",
+  "description": "Swisse Ultiboost Iron helps maintain healthy blood and helps prevent dietary iron deficiency, which can lead to tiredness and fatigue. It is also enriched with vitamin C to support the absorption of dietary iron. This premium quality supplement contains a low-constipation form of iron that's gentle on the tummy.",
+  "gtin13": "9311770588522",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/345778.jpg",
+  "name": "Swisse Ultiboost Iron Tabs 30 Pack",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 13,
+    "lowPrice": 13,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T15:34:06.402Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 13,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/345778/swisse-ultiboost-iron-tabs"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/345778/swisse-ultiboost-iron-tabs"
+  ],
+  "sku": "345778",
+  "updatedAt": "2022-12-06T15:34:06.402Z"
+}

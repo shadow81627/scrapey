@@ -1,0 +1,60 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "-",
+      "carbohydrateContent": "-",
+      "dietary_fibre": "-",
+      "fatContent": "-",
+      "name": "nutrition",
+      "proteinContent": "-",
+      "saturatedFatContent": "-",
+      "servingSize": "100 g",
+      "sodiumContent": "-",
+      "sugarContent": "-"
+    }
+  ],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Voost"
+  },
+  "createdAt": "2022-12-06T15:30:41.505Z",
+  "description": "VÖOST Vitamin C Contains 1000mg Vitamin C and Helps Support a Healthy Immune System<BR><BR><p>VÖOST the great tasting vitamin BOOST<br /><br />We're passionate about all things effervescent and we're on a mission to make vitamin supplements a bit more appealing! We're armed with the world's largest range of effervescent vitamins and minerals to help you find just the right one to suit your needs.<br /><br />Simple to use. Premium formulation. Great tasting.</p><BR><BR>VÖOST Vitamin C Helps Reduce Free Radicals Formed in the Body<BR><BR>VÖOST Vitamin C Helps Support Immune System Health<BR><BR>VÖOST Vitamin C Helps Enhance Absorption of Dietary Iron<BR><BR>VÖOST Vitamin C Helps Support Skin Health<BR><BR>VÖOST Vitamin C Helps Support Collagen Formation<BR><BR>VÖOST Vitamin C Helps Support Connective Tissue Health<BR><BR>VÖOST Vitamin C Helps Relieve the Severity of Common Cold Symptoms When Taken Regularly<BR><BR>VÖOST Vitamin C Helps Relieve Common Cold Duration When Taken Regularly",
+  "gtin13": "9347580000237",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/674971.jpg",
+  "name": "Voost Effervescent Vitamin C Tablets 20 Pack",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 8.99,
+    "lowPrice": 8.99,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T15:30:41.504Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 8.99,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/674971/voost-effervescent-vitamin-c-tablets"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/674971/voost-effervescent-vitamin-c-tablets"
+  ],
+  "sku": "674971",
+  "updatedAt": "2022-12-06T15:30:41.504Z"
+}

@@ -1,0 +1,54 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "100% Organic raw cacao powderThat's it nothing more, no preservatives, no nasty stuff."
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "8.0"
+    },
+    {
+      "name": "Size",
+      "value": "125g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$8.00 per 100G"
+    }
+  ],
+  "brand": "Nature's Way",
+  "createdAt": "2022-12-06T22:54:05.649Z",
+  "description": "Nature's Way Super Foods Raw Organic Cacao Powder",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/1/4/8/1484401.jpg",
+  "name": "Super Foods Raw Organic Cacao Powder",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 10,
+    "lowPrice": 10,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T22:54:05.649Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "10.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/natures-way-super-food-raw-organic-cacao-powder"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/natures-way-super-food-raw-organic-cacao-powder"
+  ],
+  "sku": "1484401",
+  "updatedAt": "2022-12-06T22:54:05.649Z"
+}

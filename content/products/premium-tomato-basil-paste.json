@@ -1,0 +1,58 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Concentrated tomato (96%), basil (2.5%), salt, natural basil extract (0.4%)."
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "3.0"
+    },
+    {
+      "name": "Size",
+      "value": "130g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.62 per 100G"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Made in Italy"
+    }
+  ],
+  "brand": "Providore",
+  "createdAt": "2022-12-06T08:37:26.364Z",
+  "description": "Providore Premium Tomato Basil Paste",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/9/4/3946734.jpg",
+  "name": "Premium Tomato Basil Paste",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2.1,
+    "lowPrice": 2.1,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T08:37:26.363Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "2.10",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/basil-paste"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/basil-paste"
+  ],
+  "sku": "3946734",
+  "updatedAt": "2022-12-06T08:37:26.363Z"
+}

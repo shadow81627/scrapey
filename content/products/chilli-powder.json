@@ -1,0 +1,58 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Chilli"
+    },
+    {
+      "name": "Allergen",
+      "value": "May Be Present Nuts, May Be Present Sesame Seeds, May Be Present Gluten"
+    },
+    {
+      "name": "Size",
+      "value": "50g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.40 per 10G"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Packed in Australia from Imported Product"
+    }
+  ],
+  "brand": "Hoyts",
+  "createdAt": "2022-12-06T13:09:07.952Z",
+  "description": "Has a hot warm taste. Used for cheese, hams, vegetables beans, mayonnaise, omelette, souffles, hamburgers, chicken with rice. If you like it hot, with this you will get it!",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/1/8/318021.jpg",
+  "name": "Chilli Powder",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2,
+    "lowPrice": 2,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T13:09:07.951Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "2.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/hoyts-chilli-powder"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/hoyts-chilli-powder"
+  ],
+  "sku": "318021",
+  "updatedAt": "2022-12-06T13:09:07.951Z"
+}

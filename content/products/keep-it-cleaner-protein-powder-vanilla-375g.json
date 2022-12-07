@@ -1,0 +1,66 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "425kj",
+      "carbohydrateContent": "1.5g",
+      "dietary_fibre": "-",
+      "fatContent": "0",
+      "name": "nutrition",
+      "proteinContent": "21.7g",
+      "saturatedFatContent": "0",
+      "servingSize": "100 g",
+      "sodiumContent": "91mg",
+      "sugarContent": "1.5g"
+    }
+  ],
+  "aggregateRating": {
+    "@context": "http://schema.org",
+    "@type": "AggregateRating",
+    "ratingCount": 11,
+    "ratingValue": 4.45454545454545
+  },
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Keep It Cleaner"
+  },
+  "createdAt": "2022-12-06T16:39:23.711Z",
+  "description": "<div>Hey there!<br>I am the protein powder you've been waiting<br>for... trust me. I don't have any ingredients you wouldn't recognise, which means I'm healthy, but don't worry, I'm also extremely tasty! All of my other flavours are worth a try too, let me be your protein punch in all your smoothies.</div>",
+  "gtin13": "9352357001546",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/026087.jpg",
+  "name": "Keep It Cleaner Protein Powder Vanilla 375G",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 33,
+    "lowPrice": 33,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T16:39:23.709Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 33,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/26087/keep-it-cleaner-protein-powder-vanilla"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/26087/keep-it-cleaner-protein-powder-vanilla"
+  ],
+  "sku": "26087",
+  "updatedAt": "2022-12-06T16:39:23.710Z"
+}

@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "1L"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.68 per 100mL"
+    }
+  ],
+  "brand": "Aveeno",
+  "createdAt": "2022-12-06T07:43:39.097Z",
+  "description": "Aveeno Active Naturals Skin Relief Fragrance Free Moisturising Lotion",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/8/8/3883099.jpg",
+  "name": "Active Naturals Skin Relief Fragrance Free Moisturising Lotion",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 16.75,
+    "lowPrice": 16.75,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T15:13:46.056Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "16.75",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/aveno-skin-relief-lotion"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/aveno-skin-relief-lotion"
+  ],
+  "sku": "3883099",
+  "updatedAt": "2022-12-06T15:13:46.056Z"
+}

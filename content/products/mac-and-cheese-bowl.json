@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "105g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$2.86 per 100G"
+    }
+  ],
+  "brand": "The Big Cheese",
+  "createdAt": "2022-12-06T18:33:49.162Z",
+  "description": "The Big Cheese Mac & Cheese Bowl",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/4/4/4/4448506.jpg",
+  "name": "Mac & Cheese Bowl",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3,
+    "lowPrice": 3,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/OutOfStock",
+        "availabilityStarts": "2022-12-06T18:33:49.161Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "3.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/mac-cheese-bowl"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/mac-cheese-bowl"
+  ],
+  "sku": "4448506",
+  "updatedAt": "2022-12-06T18:33:49.162Z"
+}

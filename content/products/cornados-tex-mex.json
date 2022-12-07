@@ -1,0 +1,54 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Servings Per Pack",
+      "value": "4.4"
+    },
+    {
+      "name": "Size",
+      "value": "110g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$3.91 per 100G"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Made in Australia"
+    }
+  ],
+  "brand": "CC's",
+  "createdAt": "2022-12-06T21:54:35.460Z",
+  "description": "CC's Cornados Tex Mex",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/4/8/5/4855780.jpg",
+  "name": "Cornados Tex Mex",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 4.3,
+    "lowPrice": 4.3,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T21:54:35.459Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "4.30",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/tex-mex"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/tex-mex"
+  ],
+  "sku": "4855780",
+  "updatedAt": "2022-12-06T21:54:35.459Z"
+}

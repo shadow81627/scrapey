@@ -1,0 +1,51 @@
+{
+  "@type": "Product",
+  "additionalProperty": [],
+  "aggregateRating": {
+    "@context": "http://schema.org",
+    "@type": "AggregateRating",
+    "ratingCount": 390,
+    "ratingValue": 4.13333333333333
+  },
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Balnea"
+  },
+  "createdAt": "2022-12-06T17:56:35.268Z",
+  "gtin13": "9339687157730",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/083806.jpg",
+  "name": "Balnea Body Wash Jasmine Coconut & Vanilla 500mL",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 6,
+    "lowPrice": 6,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/OutOfStock",
+        "availabilityStarts": "2022-12-06T17:56:35.266Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 6,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/83806/balnea-body-wash-jasmine-coconut-vanilla"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/83806/balnea-body-wash-jasmine-coconut-vanilla"
+  ],
+  "sku": "83806",
+  "updatedAt": "2022-12-06T17:56:35.266Z"
+}

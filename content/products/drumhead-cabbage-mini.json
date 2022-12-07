@@ -1,0 +1,42 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Unit Price",
+      "value": "$4.90 per 1Ea"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2022-12-06T15:47:05.626Z",
+  "description": "Large and round with tightly packed bluish green leaves which soften when they are cooked but can also be eaten raw. Mini cabbages are a fridge friendly size and best stored in the crisper.",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/1/4/7/1475874.jpg",
+  "name": "Drumhead Cabbage Mini",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 4.9,
+    "lowPrice": 4.9,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T15:47:05.625Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "4.90",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-fresh-cabbage---drumhead-mini"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/coles-fresh-cabbage---drumhead-mini"
+  ],
+  "sku": "1475874",
+  "updatedAt": "2022-12-06T15:47:05.625Z"
+}

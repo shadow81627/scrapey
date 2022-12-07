@@ -1,0 +1,58 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "ACTIVE INGREDIENT: Eucalyptus Oil 100mg/g."
+    },
+    {
+      "name": "Warning",
+      "value": "Household Warnings: Flammable"
+    },
+    {
+      "name": "Size",
+      "value": "500mL"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$2.30 per 100mL"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Made in Australia"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2022-12-06T16:26:49.196Z",
+  "description": "Coles Eucalyptus Solution 10%",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/8/4/3844392.jpg",
+  "name": "Eucalyptus Solution 10%",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 11.5,
+    "lowPrice": 11.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T16:26:49.196Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "11.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-eucalyptus-solution-10-3844392p"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/coles-eucalyptus-solution-10-3844392p"
+  ],
+  "sku": "3844392",
+  "updatedAt": "2022-12-06T16:26:49.196Z"
+}

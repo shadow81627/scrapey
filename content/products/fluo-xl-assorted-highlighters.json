@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "4 pack"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$2.10 per 1Ea"
+    }
+  ],
+  "brand": "Sharpie",
+  "createdAt": "2022-12-06T19:13:29.024Z",
+  "description": "Sharpie Fluo XL Assorted Highlighters",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/1/8/4/1842283.jpg",
+  "name": "Fluo XL Assorted Highlighters",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 8.4,
+    "lowPrice": 8.4,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T19:13:29.023Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "8.40",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/sharpie-fluo-xl-highlighters-1842283p"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/sharpie-fluo-xl-highlighters-1842283p"
+  ],
+  "sku": "1842283",
+  "updatedAt": "2022-12-06T19:13:29.023Z"
+}

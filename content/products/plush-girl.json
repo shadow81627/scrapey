@@ -1,0 +1,42 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Unit Price",
+      "value": "$18.00 per 1Ea"
+    }
+  ],
+  "brand": "Elf On The Shelf",
+  "createdAt": "2022-12-06T09:03:07.086Z",
+  "description": "Elf On The Shelf Plush Girl",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/4/9/5497314.jpg",
+  "name": "Plush Girl",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 18,
+    "lowPrice": 18,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T09:03:07.085Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "18.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/plush-girl-5497314p-1"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/plush-girl-5497314p-1"
+  ],
+  "sku": "5497314",
+  "updatedAt": "2022-12-06T09:03:07.085Z"
+}

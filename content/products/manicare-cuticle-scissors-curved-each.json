@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Manicare"
+  },
+  "createdAt": "2022-12-06T14:52:16.663Z",
+  "description": "<p>Cuticle Scissors-Curved.</p><p>Finest quality stainless steel cuticle scissors with precision, thinner & shorter blades to safely & easily trim excess skin from the nail base where healthy nail growth begins. With a satin steel finish & black coated handles, these professional scissors are durable, functional & long-lasting.</p><p>Beauty Tips</p><p>-Overgrown cuticles should be trimmed to prevent further tearing of cuticle & avoid the development of painful hangnails.</p><p>-May be used on toenail cuticles.</p><p>-Apply Manicare Cuticle Oil after use to replenish moisture to the nail bed & cuticles. </p>",
+  "gtin13": "34533314006",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/566744.jpg",
+  "name": "Manicare Cuticle Scissors Curved Each",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 12,
+    "lowPrice": 12,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T14:52:16.663Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 12,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/566744/manicare-cuticle-scissors-curved"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/566744/manicare-cuticle-scissors-curved"
+  ],
+  "sku": "566744",
+  "updatedAt": "2022-12-06T14:52:16.663Z"
+}

@@ -1,0 +1,37 @@
+{
+  "@type": "Product",
+  "additionalProperty": [],
+  "brand": "Wiltshire",
+  "createdAt": "2022-12-06T20:10:06.921Z",
+  "description": "Wiltshire Staysharp Santoku Knife",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/4/9/3/4933567.jpg",
+  "name": "Staysharp Santoku Knife",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 18.9,
+    "lowPrice": 18.9,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/OutOfStock",
+        "availabilityStarts": "2022-12-06T20:10:06.920Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "18.90",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/santoku-knife"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/santoku-knife"
+  ],
+  "sku": "4933567",
+  "updatedAt": "2022-12-06T20:10:06.920Z"
+}

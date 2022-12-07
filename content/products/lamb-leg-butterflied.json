@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "approx. 1.1kg"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$20.00 per 1Kg"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2022-12-06T16:42:38.078Z",
+  "description": "Lamb Leg butteflied for your convenienceAll our Coles Brand fresh is 100% Australian grown, and proudly sourced from Aussie farms",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/8/3/3838800.jpg",
+  "name": "Lamb Leg Butterflied",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 22,
+    "lowPrice": 22,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T16:42:38.077Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "22.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-lamb-butterflied-leg"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/coles-lamb-butterflied-leg"
+  ],
+  "sku": "3838800",
+  "updatedAt": "2022-12-06T16:42:38.077Z"
+}

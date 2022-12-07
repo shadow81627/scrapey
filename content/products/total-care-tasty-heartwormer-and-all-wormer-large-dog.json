@@ -1,0 +1,50 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Contains",
+      "value": "3 x Chews"
+    },
+    {
+      "name": "Size",
+      "value": "3 pack"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$13.67 per 1Ea"
+    }
+  ],
+  "brand": "Purina",
+  "createdAt": "2022-12-07T00:33:43.628Z",
+  "description": "Purina Total Care Tasty Heartwormer & All Wormer Large Dog",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/5/3/3537553.jpg",
+  "name": "Total Care Tasty Heartwormer & All Wormer Large Dog",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 41,
+    "lowPrice": 41,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-07T00:33:43.627Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "41.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/purina-total-care-trtmnt-tst-hrtwrmr-allwrmr-lrg"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/purina-total-care-trtmnt-tst-hrtwrmr-allwrmr-lrg"
+  ],
+  "sku": "3537553",
+  "updatedAt": "2022-12-07T00:33:43.627Z"
+}

@@ -1,0 +1,50 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "190g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$2.11 per 100G"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Made in Australia"
+    }
+  ],
+  "brand": "Sour Patch",
+  "createdAt": "2022-12-06T21:21:46.596Z",
+  "description": "Sour Patch Kids Berry",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/5/0/5500791.jpg",
+  "name": "Kids Berry",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 4,
+    "lowPrice": 4,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/OutOfStock",
+        "availabilityStarts": "2022-12-06T21:21:46.596Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "4.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/berry-5500791p-1"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/berry-5500791p-1"
+  ],
+  "sku": "5500791",
+  "updatedAt": "2022-12-06T21:21:46.596Z"
+}

@@ -1,0 +1,42 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Unit Price",
+      "value": "$89.00 per 1Ea"
+    }
+  ],
+  "brand": "Telstra",
+  "createdAt": "2022-12-06T08:26:56.767Z",
+  "description": "- 2.8\" big main screen 4GX Flip Phone- 1.77\" external screen for convenience- Clear 2MP camera- 1600mAh big battery- Locked to Telstra networkGeneral: Unless specified, handsets are locked, unlocking fee applies. Limit 1 per customer.",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/8/0/3807750.jpg",
+  "name": "Flip 3 4GX",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 89,
+    "lowPrice": 89,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T08:26:56.766Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "89.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/telstra-flip-3-4gx-"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/telstra-flip-3-4gx-"
+  ],
+  "sku": "3807750",
+  "updatedAt": "2022-12-06T08:26:56.766Z"
+}

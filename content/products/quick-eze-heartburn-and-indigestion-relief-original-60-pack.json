@@ -1,0 +1,60 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "-",
+      "carbohydrateContent": "-",
+      "dietary_fibre": "-",
+      "fatContent": "-",
+      "name": "nutrition",
+      "proteinContent": "-",
+      "saturatedFatContent": "-",
+      "servingSize": "100 g",
+      "sodiumContent": "-",
+      "sugarContent": "-"
+    }
+  ],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Quick-Eze"
+  },
+  "createdAt": "2022-12-06T15:23:15.652Z",
+  "description": "QUICKEZE MULTIPACK (5X12 LOZ)<br><br>QUICK-EZE Original antacid tablets help provide rapid relief from heartburn and acid indigestion by neutralising stomach acid fast. Proudly made in Australia, QUICK-EZE Original antacid tablets contain active ingredients Calcium Carbonate, Magnesium Trisilicate and Magnesium Carbonate Hydrate, and no artificial colours. Each pack contains 60 tablets, conveniently packed in 5 sticks of 12, perfect to take on-the-go. Heartburn and Indigestion can be triggered by a number of factors such as lifestyle, diet and pregnancy. You can help prevent Heartburn & Indigestion by avoiding spicy, fatty or greasy foods; eating in moderation; lowering your stress levels; and not eating late at night.<br><br>Magnesium Carbonate Hydrate ; No artificial colours ; Made in Australia ; 60 individually wrapped tablets, packed in 5 sticks of 12 ; Heartburn and Indigestion can be triggered by a number of factors such as lifestyle, diet and pregnancy.<br><br>No artificial colours<br><br>Made in Australia<br><br>60 individually wrapped tablets, packed in 5 sticks of 12<br><br>Heartburn and Indigestion can be triggered by a number of factors such as lifestyle, diet and pregnancy.",
+  "gtin13": "9300684016207",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/098611.jpg",
+  "name": "Quick-eze Heartburn & Indigestion Relief Original 60 Pack",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 7.5,
+    "lowPrice": 7.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/OutOfStock",
+        "availabilityStarts": "2022-12-06T15:23:15.652Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 7.5,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/98611/quick-eze-heartburn-indigestion-relief-original"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/98611/quick-eze-heartburn-indigestion-relief-original"
+  ],
+  "sku": "98611",
+  "updatedAt": "2022-12-06T15:23:15.652Z"
+}

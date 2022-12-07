@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "John Frieda"
+  },
+  "createdAt": "2022-12-06T11:34:26.461Z",
+  "description": "John Frieda Volume Lift Conditioner gently detangles & nourishes without weighing hair down. Formulated with Air-Silk Technology, our lightweight formula provides softness without compromising your voluminous style, for hair that moves freely. Volume Lift products are safe for colour-treated hair and built to fight flat, fine hair. 1. FOR FINE OR FLAT HAIR - John Frieda Volume Lift Conditioner, with Air-silk technology, enhances fullness. 2. ENHANCES VOLUME IN 1 USE - Maximize the fullness of your hair with Volume Lift full style hair preparation. 3. FOR COLOUR-TREATED HAIR - Safe to use on colour-treated hair to fight limp hair. 4. SOFTENS HAIR - Volumizing conditioner leaves hair soft with touchable movement and bounce.",
+  "gtin13": "717226131738",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/316790.jpg",
+  "name": "John Frieda Volume Lift Conditioner Conditioner 250ml",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 18,
+    "lowPrice": 18,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T11:34:26.461Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 18,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/316790/john-frieda-volume-lift-conditioner-conditioner"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/316790/john-frieda-volume-lift-conditioner-conditioner"
+  ],
+  "sku": "316790",
+  "updatedAt": "2022-12-06T11:34:26.461Z"
+}

@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "750mL"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$10.00 per 1L"
+    }
+  ],
+  "brand": "Remedy",
+  "createdAt": "2022-12-06T20:16:21.165Z",
+  "description": "Remedy Kombucha Pink Lady Apple",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/4/9/7/4973030.jpg",
+  "name": "Kombucha Pink Lady Apple",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 7.5,
+    "lowPrice": 7.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/OutOfStock",
+        "availabilityStarts": "2022-12-06T20:16:21.165Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "7.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/lady-apple"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/lady-apple"
+  ],
+  "sku": "4973030",
+  "updatedAt": "2022-12-06T20:16:21.165Z"
+}

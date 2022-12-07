@@ -1,0 +1,58 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Thyme, Sage, Marjoram, Herbs"
+    },
+    {
+      "name": "Allergen",
+      "value": "May Be Present Nuts, May Be Present Sesame Seeds, May Be Present Gluten"
+    },
+    {
+      "name": "Size",
+      "value": "25g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.78 per 10G"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Packed in Australia from Imported Product"
+    }
+  ],
+  "brand": "Hoyts",
+  "createdAt": "2022-12-07T00:12:33.344Z",
+  "description": "Mixed Herbs are blended from the finest herbs, Use in salad dressings. Sprinkle on roasts, poultry, fish Add to soups, stews and minced meat.",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/8/6/286843.jpg",
+  "name": "Mixed Herbs",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 1.95,
+    "lowPrice": 1.95,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-07T00:12:33.343Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "1.95",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/hoyts-mixed-herbs-286843p"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/hoyts-mixed-herbs-286843p"
+  ],
+  "sku": "286843",
+  "updatedAt": "2022-12-07T00:12:33.343Z"
+}

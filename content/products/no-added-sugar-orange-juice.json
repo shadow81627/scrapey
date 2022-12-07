@@ -1,0 +1,62 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Reconstituted Orange Juice and Orange Juice (99.9%), Preservative (202), Natural Flavours, Vitamin C, Acidity Regulator (330)."
+    },
+    {
+      "name": "Contains",
+      "value": "Contains fresh, reconstituted and from time to time, cold-stored juice."
+    },
+    {
+      "name": "Dietary",
+      "value": "No Added Sugars"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "15.0"
+    },
+    {
+      "name": "Size",
+      "value": "3L"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$2.33 per 1L"
+    }
+  ],
+  "brand": "Daily Juice",
+  "createdAt": "2022-12-06T10:22:01.051Z",
+  "description": "Daily Juice No Added Sugar Orange Juice",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/7/0/0/7009375.jpg",
+  "name": "No Added Sugar Orange Juice",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 7,
+    "lowPrice": 7,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T10:22:01.050Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "7.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/the-daily-juice-company-orange-juice"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/the-daily-juice-company-orange-juice"
+  ],
+  "sku": "7009375",
+  "updatedAt": "2022-12-06T10:22:01.051Z"
+}

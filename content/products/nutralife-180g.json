@@ -1,0 +1,45 @@
+{
+  "@type": "Product",
+  "additionalProperty": [],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Nutralife"
+  },
+  "createdAt": "2022-12-06T09:56:28.983Z",
+  "description": "Gut Relief is a great tasting formula that combines the power of prebiotics with key nutrients and plant extracts – slippery elm, marshmallow, aloe vera - to help:\n\n— Soothe gut irritation\n\n— Relieve indigestion\n\n— Maintain healthy liver and digestive function\n\n— And it may also help relieve constipation &amp; flatulence\n\n \n\nIt works in 3 ways by:\n\n1.     Soothing the intestinal lining\n\n2.     Protecting the gut lining\n\n3.     And stimulating the growth of good bacterial in the colon- thanks to the action of prebiotics\n\n \n\nNutra-Life Gut Relief comes in a great orange and mango flavoured powder format.",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/1073862096.jpg",
+  "name": "Nutralife 180G",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 41.59,
+    "lowPrice": 41.59,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T09:56:28.982Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 41.59,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/1073862096/nutralife-gut-relief-180g"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/1073862096/nutralife-gut-relief-180g"
+  ],
+  "sku": "1073862096",
+  "updatedAt": "2022-12-06T09:56:28.982Z"
+}

@@ -1,0 +1,54 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Pork, Water, Cure [Salt, Sugar, Mineral Salts (451, 450), Antioxidant (316), Preservative (250)], Wood Smoke."
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "4.0"
+    },
+    {
+      "name": "Size",
+      "value": "200g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$31.00 per 1Kg"
+    }
+  ],
+  "brand": "Primo",
+  "createdAt": "2022-12-06T20:37:12.273Z",
+  "description": "Primo Triple Smoked Pan-Sized Bacon",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/0/5/3055461.jpg",
+  "name": "Triple Smoked Pan-Sized Bacon",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 6.2,
+    "lowPrice": 6.2,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T20:37:12.272Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "6.20",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/primo-triple-smk-pansize-bacon"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/primo-triple-smk-pansize-bacon"
+  ],
+  "sku": "3055461",
+  "updatedAt": "2022-12-06T20:37:12.272Z"
+}

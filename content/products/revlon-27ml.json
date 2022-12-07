@@ -1,0 +1,45 @@
+{
+  "@type": "Product",
+  "additionalProperty": [],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Revlon"
+  },
+  "createdAt": "2022-12-06T17:48:30.386Z",
+  "description": "Revlon PhotoReady Perfecting Face Primers are revolutionary, lightweight primers that help soften skin and diffuse light to help minimize flaws and even out skin texture. They create a perfect canvas so that your foundation will glide on more evenly and smoothly.<br><br><p><strong>Product features:</strong></p> <ul> <li>Lightweight</li> <li>Creates a perfect canvas for your foundation to glide on smoothly</li> <li>Softens the skin and diffuses light to help minimize flaws</li> <li>Evens out skin texture</li> </ul>",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/1073834144.jpg",
+  "name": "Revlon 27ML",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 32.95,
+    "lowPrice": 32.95,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T17:48:30.385Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 32.95,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/1073834144/revlon-photoready-perfecting-primer"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/1073834144/revlon-photoready-perfecting-primer"
+  ],
+  "sku": "1073834144",
+  "updatedAt": "2022-12-06T17:48:30.385Z"
+}

@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Banana Boat"
+  },
+  "createdAt": "2022-12-06T11:18:05.174Z",
+  "description": "<p>Banana Boat Kids Pump SPF 50+ can keep up with your kids all summer long! This non-greasy, fragrance free, gentle sunscreen is perfect for your children’s delicate skin.<br/><br/>SPF 50+ broad spectrum UVA/UVB protection<br/>Tested for 4 Hours Water Resistance <br/>Won’t run into eyes<br/>Non-greasy & fragrance free<br/>Large pump ideal for a long Summer in the sun <br/> Fragrance free & easy to apply</p>",
+  "gtin13": "9330344001625",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/763646.jpg",
+  "name": "Banana Boat Kids Sunscreen Spf 50+ 400G",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 24.5,
+    "lowPrice": 24.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T11:18:05.174Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 24.5,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/763646/banana-boat-kids-sunscreen-spf-50-"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/763646/banana-boat-kids-sunscreen-spf-50-"
+  ],
+  "sku": "763646",
+  "updatedAt": "2022-12-06T11:18:05.174Z"
+}

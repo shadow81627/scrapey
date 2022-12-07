@@ -1,0 +1,54 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Contains",
+      "value": "50 Pack"
+    },
+    {
+      "name": "Warning",
+      "value": "Sterile unless individual wrapper is opened or damaged.<br><br>Skin should be clean and dry before using dressing. Change dressing daily. Single use only.<br><br>The packaging of this product contains natural rubber latex which may cause allergic reactions."
+    },
+    {
+      "name": "Size",
+      "value": "50 pack"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.10 per 1Ea"
+    }
+  ],
+  "brand": "Band-Aid",
+  "createdAt": "2022-12-06T15:45:45.082Z",
+  "description": "Band-Aid Assorted Plastic Shapes",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/6/2/3628488.jpg",
+  "name": "Assorted Plastic Shapes",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 5,
+    "lowPrice": 5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T15:45:45.081Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "5.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/band-aid-brand-assorted-shapes"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/band-aid-brand-assorted-shapes"
+  ],
+  "sku": "3628488",
+  "updatedAt": "2022-12-06T15:45:45.081Z"
+}

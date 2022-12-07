@@ -1,0 +1,50 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "180g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$2.22 per 100G"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Made in Australia"
+    }
+  ],
+  "brand": "Lifesavers",
+  "createdAt": "2022-12-06T21:15:30.091Z",
+  "description": "Lifesavers 5 Flavours Jelly Beans Bag",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/3/1/5319418.jpg",
+  "name": "5 Flavours Jelly Beans Bag",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 4,
+    "lowPrice": 4,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/OutOfStock",
+        "availabilityStarts": "2022-12-06T21:15:30.091Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "4.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/bag-jelly-beans"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/bag-jelly-beans"
+  ],
+  "sku": "5319418",
+  "updatedAt": "2022-12-06T21:15:30.091Z"
+}

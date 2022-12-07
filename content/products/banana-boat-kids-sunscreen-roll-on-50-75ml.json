@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Banana Boat"
+  },
+  "createdAt": "2022-12-06T11:13:44.697Z",
+  "description": "<p>A solution for squirming kids! </p><p><br/></p> <p>Banana Boat Kids Roll-on SPF 50+ Sunscreen assists Mum & Dad in easy application and is fun for kids to self-apply! SPF 50+ is safe to use on kids and provides our highest UVA/UVB Broad Spectrum Protection from the Sun’s harmful UVA/UVB rays. Plus, it’s non-greasy, fragrance free & mild & gentle on your children’s delicate skin so the kids are free to have fun!<br/><br/>SPF 50+ broad spectrum UVA/UVB protection<br/>Our most advanced protection for your babies<br/>Tested for 4 Hours Water Resistance <br/>Non-greasy and fragrance free<br/>Easy to apply roll-on, for both Mum and kids.</p>",
+  "gtin13": "9330344001687",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/748810.jpg",
+  "name": "Banana Boat Kids Sunscreen Roll On 50+ 75mL",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 12,
+    "lowPrice": 12,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T11:13:44.696Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 12,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/748810/banana-boat-kids-sunscreen-roll-on-50-"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/748810/banana-boat-kids-sunscreen-roll-on-50-"
+  ],
+  "sku": "748810",
+  "updatedAt": "2022-12-06T11:13:44.696Z"
+}

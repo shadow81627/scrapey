@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "290g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$29.31 per 1Kg"
+    }
+  ],
+  "brand": "Small Batch",
+  "createdAt": "2022-12-06T23:11:02.315Z",
+  "description": "Small Batch Beef Burger Le Parisien",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/7/0/5703507.jpg",
+  "name": "Beef Burger Le Parisien",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 8.5,
+    "lowPrice": 8.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/OutOfStock",
+        "availabilityStarts": "2022-12-06T23:11:02.315Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "8.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/le-parisien"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/le-parisien"
+  ],
+  "sku": "5703507",
+  "updatedAt": "2022-12-06T23:11:02.315Z"
+}

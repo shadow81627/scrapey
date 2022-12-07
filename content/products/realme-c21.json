@@ -1,0 +1,42 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Unit Price",
+      "value": "$139.00 per 1Ea"
+    }
+  ],
+  "brand": "Optus",
+  "createdAt": "2022-12-06T08:26:11.366Z",
+  "description": "Locked to Optus Network",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/4/3/0/4304459.jpg",
+  "name": "realme C21",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 139,
+    "lowPrice": 139,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T08:26:11.366Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "139.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/real-me-c21-blue"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/real-me-c21-blue"
+  ],
+  "sku": "4304459",
+  "updatedAt": "2022-12-06T08:26:11.366Z"
+}

@@ -1,0 +1,50 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "3 pack"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.30 per 1Ea"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Made in China"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2022-12-06T15:40:09.820Z",
+  "description": "Coles Stainless Steel Scourers 3pk. Heavy duty, durable and powerful for stuck on grease and grime.",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/0/5/3056282.jpg",
+  "name": "Stainless Steel Scourers",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 0.9,
+    "lowPrice": 0.9,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T15:40:09.820Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "0.90",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-stainless-steel-scourers-3pk"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/coles-stainless-steel-scourers-3pk"
+  ],
+  "sku": "3056282",
+  "updatedAt": "2022-12-06T15:40:09.820Z"
+}

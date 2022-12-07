@@ -1,0 +1,58 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "INGREDIENTS: Australian Pork (75%), Australian No Added Hormones Beef(19%), Salt, Spices (Contains Garlic, Pepper, Chilli), Dextrose (Maize or Tapioca), Skimmed Milk Powder, Lactose, Mineral Salt (451), Antioxidant (316), Preservatives (251, 250), Rosemary Extract, Starter Culture, Wood Smoke."
+    },
+    {
+      "name": "Allergen",
+      "value": "Contains MILK"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "4.0"
+    },
+    {
+      "name": "Size",
+      "value": "200g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$25.00 per 1Kg"
+    }
+  ],
+  "brand": "Thomson's Deli",
+  "createdAt": "2022-12-06T23:47:07.110Z",
+  "description": "Made to a traditional recipe with Australian pork and beef, smoked and seasoned with chilli and pepper",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/2/6/3269261.jpg",
+  "name": "Pepperoni Salami",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 5,
+    "lowPrice": 5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T23:47:07.109Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "5.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-pepperoni-3269261p"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/coles-pepperoni-3269261p"
+  ],
+  "sku": "3269261",
+  "updatedAt": "2022-12-06T23:47:07.109Z"
+}

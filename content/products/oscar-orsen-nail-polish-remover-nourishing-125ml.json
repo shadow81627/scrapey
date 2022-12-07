@@ -1,0 +1,51 @@
+{
+  "@type": "Product",
+  "additionalProperty": [],
+  "aggregateRating": {
+    "@context": "http://schema.org",
+    "@type": "AggregateRating",
+    "ratingCount": 448,
+    "ratingValue": 4.52455357142857
+  },
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Oscar Orsen"
+  },
+  "createdAt": "2022-12-06T14:53:22.415Z",
+  "gtin13": "9300633226817",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/381675.jpg",
+  "name": "Oscar Orsen Nail Polish Remover Nourishing 125mL",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2.8,
+    "lowPrice": 2.8,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T14:53:22.413Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 2.8,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/381675/oscar-orsen-nail-polish-remover-nourishing"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/381675/oscar-orsen-nail-polish-remover-nourishing"
+  ],
+  "sku": "381675",
+  "updatedAt": "2022-12-06T14:53:22.413Z"
+}

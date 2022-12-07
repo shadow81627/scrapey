@@ -1,0 +1,54 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "INGREDIENTS: Oregano."
+    },
+    {
+      "name": "Size",
+      "value": "10g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.80 per 10G"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Packed in India from imported ingredients"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2022-12-06T16:08:32.396Z",
+  "description": "Sprinkle over chopped tomatoes, cucumber, capsicums and fetta dressed with lemon juice for an authentic Greek salad.",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/8/9/8/8982881.jpg",
+  "name": "Oregano Leaves",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 1.8,
+    "lowPrice": 1.8,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T16:08:32.395Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "1.80",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-brand-oregano-leaves"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/coles-brand-oregano-leaves"
+  ],
+  "sku": "8982881",
+  "updatedAt": "2022-12-06T16:08:32.395Z"
+}

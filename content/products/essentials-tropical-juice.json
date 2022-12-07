@@ -1,0 +1,54 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Pear juice (45.5%), orange juice (33%), apple juice (10%), pineapple juice (5%), mango puree (3%), banana puree (3%) passionfruit puree (0.5%)."
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "4.0"
+    },
+    {
+      "name": "Size",
+      "value": "1L"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$4.00 per 1L"
+    }
+  ],
+  "brand": "Impressed",
+  "createdAt": "2022-12-06T10:34:53.479Z",
+  "description": "Impressed Essentials Tropical Juice",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/4/8/4/4845663.jpg",
+  "name": "Essentials Tropical Juice",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 4,
+    "lowPrice": 4,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/OutOfStock",
+        "availabilityStarts": "2022-12-06T10:34:53.478Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "4.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/tropical-juice"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/tropical-juice"
+  ],
+  "sku": "4845663",
+  "updatedAt": "2022-12-06T10:34:53.478Z"
+}

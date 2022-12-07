@@ -1,0 +1,50 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "50 pack"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.06 per 1Ea"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Product of India"
+    }
+  ],
+  "brand": "Queen Victoria",
+  "createdAt": "2022-12-06T12:07:43.896Z",
+  "description": "Queen Victoria English Breakfast Tea Bags 50 Pack. The British tradition of enjoying a blend of strong black teas at breakfast goes back centuries. Our classic English Breakfast tea is full-bodied, bright and bold, with a malted finish.",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/9/8/3984675.jpg",
+  "name": "English Breakfast Tea Bags",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3,
+    "lowPrice": 3,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T12:07:43.896Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "3.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/english-breakfast"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/english-breakfast"
+  ],
+  "sku": "3984675",
+  "updatedAt": "2022-12-06T12:07:43.896Z"
+}

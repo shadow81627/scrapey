@@ -1,0 +1,54 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Servings Per Pack",
+      "value": "4.0"
+    },
+    {
+      "name": "Size",
+      "value": "473mL"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$2.22 per 100mL"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "MADE IN THE USA from local and imported ingredients"
+    }
+  ],
+  "brand": "Halo Top",
+  "createdAt": "2022-12-06T20:25:00.292Z",
+  "description": "Halo Top Salted Caramel Tub",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/4/8/5488834.jpg",
+  "name": "Salted Caramel Tub",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 10.5,
+    "lowPrice": 10.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/OutOfStock",
+        "availabilityStarts": "2022-12-06T20:25:00.291Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "10.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/salted-caramel-tub"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/salted-caramel-tub"
+  ],
+  "sku": "5488834",
+  "updatedAt": "2022-12-06T20:25:00.291Z"
+}

@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "1.25L"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$7.00 per 1L"
+    }
+  ],
+  "brand": "Remedy",
+  "createdAt": "2022-12-06T10:08:39.139Z",
+  "description": "Remedy Kombucha Orange Squeeze",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/4/9/5490870.jpg",
+  "name": "Kombucha Orange Squeeze",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 8.75,
+    "lowPrice": 8.75,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/OutOfStock",
+        "availabilityStarts": "2022-12-06T10:08:39.139Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "8.75",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/orange-squeeze"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/orange-squeeze"
+  ],
+  "sku": "5490870",
+  "updatedAt": "2022-12-06T10:08:39.139Z"
+}

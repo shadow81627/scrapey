@@ -1,0 +1,62 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "High Fructose Corn Syrup, Water, Corn Syrup, Flavour, Acidity Regulator (330), Preservative (211), Thickener (415), Colour (129)."
+    },
+    {
+      "name": "Dietary",
+      "value": "99% Fat Free"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "31.0"
+    },
+    {
+      "name": "Size",
+      "value": "623g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.64 per 100G"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Made in United States of America"
+    }
+  ],
+  "brand": "Hershey's",
+  "createdAt": "2022-12-06T16:18:23.485Z",
+  "description": "Hershey's Strawberry Flavour Syrup",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/2/8/3287649.jpg",
+  "name": "Strawberry Flavour Syrup",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 4,
+    "lowPrice": 4,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T16:18:23.485Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "4.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/hersheys-strawberry-syrup"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/hersheys-strawberry-syrup"
+  ],
+  "sku": "3287649",
+  "updatedAt": "2022-12-06T16:18:23.485Z"
+}

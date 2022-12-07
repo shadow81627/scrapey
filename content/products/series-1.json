@@ -1,0 +1,42 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Unit Price",
+      "value": "$7.60 per 1Ea"
+    }
+  ],
+  "brand": "Scrunchmiez",
+  "createdAt": "2022-12-06T19:08:25.879Z",
+  "description": "Scrunchmiez Series 1",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/4/4/7/4477785.jpg",
+  "name": "Series 1",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 7.6,
+    "lowPrice": 7.6,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T19:08:25.879Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "7.60",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/scrunchmiez"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/scrunchmiez"
+  ],
+  "sku": "4477785",
+  "updatedAt": "2022-12-06T19:08:25.879Z"
+}

@@ -1,0 +1,42 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Unit Price",
+      "value": "$12.50 per 1Ea"
+    }
+  ],
+  "brand": "Sabco",
+  "createdAt": "2022-12-07T00:21:44.141Z",
+  "description": "Innovative dual chamber bucket.Wash side  rinses and removes dirt and hair for a clean pad every time.Dry side  for hygienic hands-free wringing and perfect water control.Soft microfibre pad for streak-free results on all hard floors.",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/9/1/3913553.jpg",
+  "name": "Clean Ease Flat Mop Refill",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 12.5,
+    "lowPrice": 12.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-07T00:21:44.141Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "12.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/flat-mop-refill"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/flat-mop-refill"
+  ],
+  "sku": "3913553",
+  "updatedAt": "2022-12-07T00:21:44.141Z"
+}

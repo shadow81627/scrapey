@@ -1,0 +1,50 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "150mL"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$5.67 per 100mL"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Made in United States of America"
+    }
+  ],
+  "brand": "Mcilhenny",
+  "createdAt": "2022-12-06T21:59:27.271Z",
+  "description": "Mcilhenny Tabasco Buffalo Sauce",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/4/2/7/4276772.jpg",
+  "name": "Tabasco Buffalo Sauce",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 8.5,
+    "lowPrice": 8.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T21:59:27.271Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "8.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/buffalo-sauce"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/buffalo-sauce"
+  ],
+  "sku": "4276772",
+  "updatedAt": "2022-12-06T21:59:27.271Z"
+}

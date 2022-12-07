@@ -1,0 +1,52 @@
+{
+  "@type": "Product",
+  "additionalProperty": [],
+  "aggregateRating": {
+    "@context": "http://schema.org",
+    "@type": "AggregateRating",
+    "ratingCount": 2,
+    "ratingValue": 4.5
+  },
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Maybelline"
+  },
+  "createdAt": "2022-12-06T14:41:48.069Z",
+  "description": "<p>Keep skin fresh, clean, and shine-free for hours with Maybelline Shine Free Oil Control Loose Powder.<BR><BR>Maybelline Shine Free Oil Control Loose Powder glides on smoothly for an even, flawless, and matte finish. This advanced 100% oil-free formula keeps skin fresh, clean, and shine-free for hours.<BR><BR>Loose powder with puff applicator<BR><BR>Keeps skin looking fresh and shine free for hours<BR><BR>Sheer, matte finish<BR><BR>Suitable for acne-prone skin<BR><BR>Not suitable for dry skin types</p>",
+  "gtin13": "41554566505",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/161620.jpg",
+  "name": "Maybelline Shine Free Oil Control Loose Powder - Medium 19.8G",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 18,
+    "lowPrice": 18,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T14:41:48.069Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 18,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/161620/maybelline-shine-free-oil-control-loose-powder-medium"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/161620/maybelline-shine-free-oil-control-loose-powder-medium"
+  ],
+  "sku": "161620",
+  "updatedAt": "2022-12-06T14:41:48.069Z"
+}

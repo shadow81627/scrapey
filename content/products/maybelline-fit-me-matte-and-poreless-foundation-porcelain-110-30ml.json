@@ -1,0 +1,52 @@
+{
+  "@type": "Product",
+  "additionalProperty": [],
+  "aggregateRating": {
+    "@context": "http://schema.org",
+    "@type": "AggregateRating",
+    "ratingCount": 2,
+    "ratingValue": 4.5
+  },
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Maybelline"
+  },
+  "createdAt": "2022-12-06T14:40:18.718Z",
+  "description": "<p>Maybelline Fit Me Matte & Poreless Liquid Foundation is a lightweight foundation formulated for your individual skin tone and texture, and controls shine and blurs pores throughout the day.<BR><BR>Looking for the perfect foundation fit? Maybelline's Fit Me Matte & Poreless Liquid Foundation is all about your individual skin tone and texture. Ideal for normal to oily skin types, this ultra-lightweight formula features flexible micro-powders to control shine and blur pores throughout the day. With its medium coverage, the liquid foundation leaves a natural finish on the skin that's never flat or cakey. This oil-free mattifying foundation is available in 40 shades and is dermatologist and allergy tested.<BR><BR>Goes beyond skin tone, it also matches the texture of normal to oily skin<BR><BR>Formulated with micro-powders to control shine and blur pores<BR><BR>Provides a poreless-looking finish that lasts all day<BR><BR>Oil-free, matte foundation<BR><BR>Available in 40 shades to fit a wide range of skin tones</p>",
+  "gtin13": "9344329115351",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/622358.jpg",
+  "name": "Maybelline Fit Me Matte & Poreless Foundation - Porcelain 110 30mL",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 13,
+    "lowPrice": 13,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T14:40:18.717Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 13,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/622358/maybelline-fit-me-matte-poreless-foundation-porcelain-110"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/622358/maybelline-fit-me-matte-poreless-foundation-porcelain-110"
+  ],
+  "sku": "622358",
+  "updatedAt": "2022-12-06T14:40:18.717Z"
+}

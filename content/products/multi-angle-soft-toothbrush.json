@@ -1,0 +1,50 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "2 pack"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.00 per 1Ea"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Made in China"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2022-12-06T08:56:39.816Z",
+  "description": "Multi Angle Tooth brushes 2 pack Advanced Deep Multi-Angle Cleaning Helps freshen breath with textured tongue & cheeks cleaner on back of toothbrush. Different colour options available. SOFT",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/6/0/2606606.jpg",
+  "name": "Multi Angle Soft Toothbrush",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2,
+    "lowPrice": 2,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T08:56:39.816Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "2.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-multi-angle-soft-toothbrush"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/coles-multi-angle-soft-toothbrush"
+  ],
+  "sku": "2606606",
+  "updatedAt": "2022-12-06T08:56:39.816Z"
+}

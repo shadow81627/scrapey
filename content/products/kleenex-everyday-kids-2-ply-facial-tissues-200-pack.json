@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Kleenex"
+  },
+  "createdAt": "2022-12-06T13:56:03.175Z",
+  "description": "<br><br>Kleenex Everyday tissues, for everyday laughs, tears, sniffles and family moments.<br><br>Fun and vibrant designs starring popular Disney characters.<br><br>2-ply tissues, 200 sheets per box, 20.5cm x 19.5cm <br><br>Our Kleenex Facial Tissues are Aussie made and we’re proud of it; they’ve been made at our Millicent mill in South Australia since 1966. This means support for local communities, including hundreds of local employees and their families, each year.<br><br>FSC® Certified, ensuring responsible forest management, meeting the most rigorous environmental and social standard for responsible forest management. <br><br>Actual packaging designs may vary from image shown.",
+  "gtin13": "9310088013177",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/062777.jpg",
+  "name": "Kleenex Everyday Kids 2 Ply Facial Tissues 200 Pack",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2.2,
+    "lowPrice": 2.2,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T13:56:03.174Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 2.2,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/62777/kleenex-facial-tissue-kids"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/62777/kleenex-facial-tissue-kids"
+  ],
+  "sku": "62777",
+  "updatedAt": "2022-12-06T13:56:03.174Z"
+}

@@ -1,0 +1,50 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "300g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.33 per 100G"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Made In Australia"
+    }
+  ],
+  "brand": "Pascall",
+  "createdAt": "2022-12-06T21:05:18.964Z",
+  "description": "Pascall Jubes",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/4/9/5493801.jpg",
+  "name": "Jubes",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 4,
+    "lowPrice": 4,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/OutOfStock",
+        "availabilityStarts": "2022-12-06T21:05:18.963Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "4.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/jubes"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/jubes"
+  ],
+  "sku": "5493801",
+  "updatedAt": "2022-12-06T21:05:18.963Z"
+}

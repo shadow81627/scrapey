@@ -1,0 +1,52 @@
+{
+  "@type": "Product",
+  "additionalProperty": [],
+  "aggregateRating": {
+    "@context": "http://schema.org",
+    "@type": "AggregateRating",
+    "ratingCount": 18,
+    "ratingValue": 4.5
+  },
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Garnier"
+  },
+  "createdAt": "2022-12-06T11:26:23.041Z",
+  "description": "Hydrate and repair dry hair with Garnier Fructis Hair Food Treatment Banana.98% natural. 3-way hair mask. Its VEGAN* and contains vegetable oils.<BR><BR>Garnier Fructis Nourishing Banana Hair Food for dry hair deeply hydrates and repairs, for soft and healthy hair.  Use it as a hair mask, intense conditioner or leave-in treatment. <br /><br />Enriched with Banana and no nasties; <br />NO parabens<br />NO silicones<br />NO artificial colourants. <br /><br />Its VEGAN* and contains vegetable oils. <br /><br />Use it 3 ways: as a mask, intense conditioner or leave-in treatment.<br />*vegan formula without animal origin or derived components<br /><br />RESULT: Leaves hair feeling healthy and smooth with no weigh-down.<br/><br/>All Garnier products are officially approved by Cruelty Free International.<br/>Since 1989, Garnier has been committed to a world without animal testing.<BR><BR>Multi-usage: intense conditioner, hair mask and leave-in treatment<BR><BR>Suitable for dry hair<BR><BR>98% natural origin formula<BR><BR>No silicone<BR><BR>No paraben<BR><BR>No artifical colourants<BR><BR>Vegan<BR><BR>Dermatologically tested",
+  "gtin13": "3600542143585",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/682765.jpg",
+  "name": "Garnier Fructis Hair Food Nourishing Banana 390mL",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 7,
+    "lowPrice": 7,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T11:26:23.040Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 7,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/682765/garnier-fructis-hair-food-nourishing-banana"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/682765/garnier-fructis-hair-food-nourishing-banana"
+  ],
+  "sku": "682765",
+  "updatedAt": "2022-12-06T11:26:23.040Z"
+}

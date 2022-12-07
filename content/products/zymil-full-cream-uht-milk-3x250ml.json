@@ -1,0 +1,58 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Full cream milk, enzyme (lactase)"
+    },
+    {
+      "name": "Contains",
+      "value": "Milk"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "1.0"
+    },
+    {
+      "name": "Size",
+      "value": "750mL"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.40 per 100mL"
+    }
+  ],
+  "brand": "Pauls",
+  "createdAt": "2022-12-06T11:44:00.627Z",
+  "description": "Milk is a natural source of protein, vitamins and minerals essential for good health, but if milk doesn't always agree with you, then Pauls Zymil could be your answer.",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/3/1/5310800.jpg",
+  "name": "Zymil Full Cream UHT Milk 3x250mL",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3,
+    "lowPrice": 3,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/OutOfStock",
+        "availabilityStarts": "2022-12-06T11:44:00.626Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "3.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/cream-uht-milk-3x-250ml"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/cream-uht-milk-3x-250ml"
+  ],
+  "sku": "5310800",
+  "updatedAt": "2022-12-06T11:44:00.626Z"
+}

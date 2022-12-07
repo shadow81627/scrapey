@@ -1,0 +1,66 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Milk, Salt, Cultures, Enzyme (Non-Animal Rennet)."
+    },
+    {
+      "name": "Contains",
+      "value": "Milk."
+    },
+    {
+      "name": "Allergen",
+      "value": "Contains Milk"
+    },
+    {
+      "name": "Dietary",
+      "value": "Source of Calcium"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "15.0"
+    },
+    {
+      "name": "Size",
+      "value": "250g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$28.00 per 1Kg"
+    }
+  ],
+  "brand": "Bega",
+  "createdAt": "2022-12-06T22:38:11.091Z",
+  "description": "100% Natural.A smooth, creamy textured Colby ideal for melting and grilling.",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/1/4/4/1446286.jpg",
+  "name": "Easy Melt Colby Slices",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 7,
+    "lowPrice": 7,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T22:38:11.090Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "7.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/bega-cheese-easy-melt-colby-slices"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/bega-cheese-easy-melt-colby-slices"
+  ],
+  "sku": "1446286",
+  "updatedAt": "2022-12-06T22:38:11.090Z"
+}

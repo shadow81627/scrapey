@@ -1,0 +1,50 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Refer to www.henkel.com.au for full information"
+    },
+    {
+      "name": "Size",
+      "value": "50g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$12.00 per 100G"
+    }
+  ],
+  "brand": "Bref",
+  "createdAt": "2022-12-06T07:36:45.828Z",
+  "description": "Bref Blue Active Toilet Cleaner Eucalyptus",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/0/3/3032819.jpg",
+  "name": "Blue Active Toilet Cleaner Eucalyptus",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 6,
+    "lowPrice": 6,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T07:36:45.828Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "6.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/bref-blue-active-toilet-cleaner-eucalyptus"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/bref-blue-active-toilet-cleaner-eucalyptus"
+  ],
+  "sku": "3032819",
+  "updatedAt": "2022-12-06T07:36:45.828Z"
+}

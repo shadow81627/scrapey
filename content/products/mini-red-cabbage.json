@@ -1,0 +1,42 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Unit Price",
+      "value": "$5.90 per 1Ea"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2022-12-06T15:47:27.421Z",
+  "description": "Vibrant plum coloured cabbage, perfect for coleslaw or stir fries. Mini cabbages are a fridge friendly size and best stored in the crisper.",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/1/4/7/1473970.jpg",
+  "name": "Mini Red Cabbage",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 5.9,
+    "lowPrice": 5.9,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T15:47:27.408Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "5.90",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-fresh-cabbage---red-mini-whole-1473970p"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/coles-fresh-cabbage---red-mini-whole-1473970p"
+  ],
+  "sku": "1473970",
+  "updatedAt": "2022-12-06T15:47:27.409Z"
+}

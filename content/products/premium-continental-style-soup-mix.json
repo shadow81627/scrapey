@@ -1,0 +1,58 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Peas, Lentils, Chick Peas, Beans."
+    },
+    {
+      "name": "Allergen",
+      "value": "May Contain Nuts, May Contain Gluten"
+    },
+    {
+      "name": "Warning",
+      "value": "May contain traces of Nuts. May contain Stones, Husks, and Products with Gluten."
+    },
+    {
+      "name": "Size",
+      "value": "1kg"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$5.95 per 1Kg"
+    }
+  ],
+  "brand": "Gaganis",
+  "createdAt": "2022-12-06T16:31:42.557Z",
+  "description": "Premium Continental Style Soup Mix is an Italian inspired blend of peas, chickpeas beans, and lentils. Perfect to add texture and body to a classic Minestrone Soup.  Selected quality beans Blend of peas, chickpeas beans, and lentils 1kg",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/6/9/9/6994187.jpg",
+  "name": "Premium Continental Style Soup Mix",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 5.95,
+    "lowPrice": 5.95,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T16:31:42.556Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "5.95",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/gaganis-mixed-soup-continental"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/gaganis-mixed-soup-continental"
+  ],
+  "sku": "6994187",
+  "updatedAt": "2022-12-06T16:31:42.556Z"
+}

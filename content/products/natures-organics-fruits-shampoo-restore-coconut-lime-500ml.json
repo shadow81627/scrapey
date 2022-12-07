@@ -1,0 +1,52 @@
+{
+  "@type": "Product",
+  "additionalProperty": [],
+  "aggregateRating": {
+    "@context": "http://schema.org",
+    "@type": "AggregateRating",
+    "ratingCount": 12,
+    "ratingValue": 4.16666666666667
+  },
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Natures Organics"
+  },
+  "createdAt": "2022-12-06T11:32:23.675Z",
+  "description": "Plant based, Australian Made and Cruelty Free, naturally.<br>Fruits Coconut & Lime Shampoo contains plant derived conditioning ingredients that help restore moisture to your hair, with a fresh fruity fragrance.",
+  "gtin13": "9310692039150",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/683388.jpg",
+  "name": "Natures Organics Fruits Shampoo Restore Coconut Lime 500mL",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2,
+    "lowPrice": 2,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T11:32:23.673Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 2,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/683388/natures-organics-fruits-shampoo-restore-coconut-lime"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/683388/natures-organics-fruits-shampoo-restore-coconut-lime"
+  ],
+  "sku": "683388",
+  "updatedAt": "2022-12-06T11:32:23.674Z"
+}

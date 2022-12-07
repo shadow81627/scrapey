@@ -1,0 +1,52 @@
+{
+  "@type": "Product",
+  "additionalProperty": [],
+  "aggregateRating": {
+    "@context": "http://schema.org",
+    "@type": "AggregateRating",
+    "ratingCount": 5,
+    "ratingValue": 3.4
+  },
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Veet"
+  },
+  "createdAt": "2022-12-06T17:10:39.546Z",
+  "description": "<p>Veet Spawax Stripless Wax Refill pampers you with Purple Lily and Sugar Fig Fragrances.</p><p><span style=\"background-color: transparent;\">Experience salon-perfect smoothness with Veet Spawax. The professional quality wax warming system that melts the wax and maintains it at the ideal temperature, giving you salon-perfect results at home.</span><br/></p><p>Formulated for smooth application, simply apply the warm wax and allow it to become dry to the touch. The wax can easily be removed in one go, waxes hairs as short as 2mm - no wax strips are required. And with the aroma of Purple Lily and Sugar Fig you can enjoy a pampering waxing experience with the beautiful end result of touchably smooth skin.</p>",
+  "gtin13": "5011417562260",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/926301.jpg",
+  "name": "Veet Spawax Stripless Wax Refill Hair Removal Lily & Sugar 150g",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 7.5,
+    "lowPrice": 7.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T17:10:39.545Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 7.5,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/926301/veet-spawax-stripless-wax-refill-hair-removal-lily-sugar"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/926301/veet-spawax-stripless-wax-refill-hair-removal-lily-sugar"
+  ],
+  "sku": "926301",
+  "updatedAt": "2022-12-06T17:10:39.545Z"
+}

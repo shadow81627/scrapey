@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Contains",
+      "value": "10Pk"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.23 per 1Ea"
+    }
+  ],
+  "brand": "Tena",
+  "createdAt": "2022-12-06T14:49:14.373Z",
+  "description": "Tena Womens Pants Low Waist Noir Medium",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/4/2/2/4226989.jpg",
+  "name": "Womens Pants Low Waist Noir Medium",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 12.32,
+    "lowPrice": 12.32,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T14:49:14.373Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "12.32",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/pants-medium-noir"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/pants-medium-noir"
+  ],
+  "sku": "4226989",
+  "updatedAt": "2022-12-06T14:49:14.373Z"
+}

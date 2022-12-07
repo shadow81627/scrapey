@@ -1,0 +1,58 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "<p> Water, Vinegar, Sunflower Oil [contains Antioxidant (320)], Sugar, Balsamic Vinegar (9%) [Wine Vinegar, Grape Must], Lemon Juice, Salt, Red Capsicum, Garlic, Natural Caramel Colour, Xanthan Gum, Parsley.</p>"
+    },
+    {
+      "name": "Allergen",
+      "value": "May Contain EGG, May Contain MILK"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "15.0"
+    },
+    {
+      "name": "Size",
+      "value": "300mL"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.60 per 100mL"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2022-12-06T23:54:40.770Z",
+  "description": "Coles Balsamic Dressing 300 Ml a great addition to your salad to add that extra zing",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/4/5/2459400.jpg",
+  "name": "Balsamic Dressing",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 1.8,
+    "lowPrice": 1.8,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T23:54:40.769Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "1.80",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-balsamic-dressing"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/coles-balsamic-dressing"
+  ],
+  "sku": "2459400",
+  "updatedAt": "2022-12-06T23:54:40.769Z"
+}

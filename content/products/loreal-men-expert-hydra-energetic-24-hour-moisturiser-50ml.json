@@ -1,0 +1,52 @@
+{
+  "@type": "Product",
+  "additionalProperty": [],
+  "aggregateRating": {
+    "@context": "http://schema.org",
+    "@type": "AggregateRating",
+    "ratingCount": 3,
+    "ratingValue": 5
+  },
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "L'Oreal"
+  },
+  "createdAt": "2022-12-06T09:35:21.165Z",
+  "description": "L'Oréal Men Expert Hydra Energetic Daily Moisturiser gives skin an instant energy boost and fights the 5 signs of fatigue: dark circles, tired features, loss of firmness, roughness and dullness.<br><br>L'Oréal Paris Men Expert Hydra Energetic 24H Anti-Fatigue Moisturiser is enriched with energising Guarana and Vitamin C to instantly energise and awaken tired skin. Its lightweight, non-greasy and cooling texture provides skin with 24 hours of lasting hydration and energy. 91% of men say skin looks instantly fresher.95% of men agree skin has a fresh healthy glow after just 4 weeks.**Instrumental test<br><br>Hydrates and energises tired skin for 24hrs<br><br>Fights dryness and tired features<br><br>Improves appearance of dark circles<br><br>Packed with Guarana and Vitamin C for the ultimate hit of energy<br><br>Delivers an instant healthy glow",
+  "gtin13": "3600520297866",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/230026.jpg",
+  "name": "L'oreal Men Expert Hydra Energetic 24 Hour Moisturiser 50mL",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 10.8,
+    "lowPrice": 10.8,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T09:35:21.164Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 10.8,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/230026/l-oreal-men-expert-hydra-energetic-24-hour-moisturiser"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/230026/l-oreal-men-expert-hydra-energetic-24-hour-moisturiser"
+  ],
+  "sku": "230026",
+  "updatedAt": "2022-12-06T09:35:21.164Z"
+}

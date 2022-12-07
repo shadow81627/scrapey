@@ -1,0 +1,52 @@
+{
+  "@type": "Product",
+  "additionalProperty": [],
+  "aggregateRating": {
+    "@context": "http://schema.org",
+    "@type": "AggregateRating",
+    "ratingCount": 31,
+    "ratingValue": 4.41935483870968
+  },
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Natures Organics"
+  },
+  "createdAt": "2022-12-06T11:33:43.264Z",
+  "description": "Plant based, Australian Made and Cruelty Free, naturally.<br>Fruits Wild Berry Conditioner contains plant derived ingredients that clean and soften your hair, restoring your its natural glow and vitality with an invigorating fragrance.",
+  "gtin13": "9310692034254",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/104200.jpg",
+  "name": "Natures Organics Fruits Conditioner Shine Wild Berry 500mL",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2,
+    "lowPrice": 2,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T11:33:43.262Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 2,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/104200/natures-organics-fruits-conditioner-shine-wild-berry"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/104200/natures-organics-fruits-conditioner-shine-wild-berry"
+  ],
+  "sku": "104200",
+  "updatedAt": "2022-12-06T11:33:43.262Z"
+}

@@ -1,0 +1,60 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "-",
+      "carbohydrateContent": "-",
+      "dietary_fibre": "-",
+      "fatContent": "-",
+      "name": "nutrition",
+      "proteinContent": "-",
+      "saturatedFatContent": "-",
+      "servingSize": "100 g",
+      "sodiumContent": "-",
+      "sugarContent": "-"
+    }
+  ],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Bickford's"
+  },
+  "createdAt": "2022-12-06T18:15:03.944Z",
+  "description": "Created to take the tastebuds to a happier place, perennial favourites pineapple, passionfruit and orange are artfully blended to refresh and revive. Tantalisingly tropical to the very last drop.",
+  "gtin13": "9349277000599",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/046667.jpg",
+  "name": "Bickford's Tropical Cordial 750mL",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 4.5,
+    "lowPrice": 4.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T18:15:03.944Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 4.5,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/46667/bickford-s-tropical-cordial"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/46667/bickford-s-tropical-cordial"
+  ],
+  "sku": "46667",
+  "updatedAt": "2022-12-06T18:15:03.944Z"
+}

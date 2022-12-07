@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "400mL"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$4.00 per 100mL"
+    }
+  ],
+  "brand": "Head & Shoulders",
+  "createdAt": "2022-12-06T13:53:55.368Z",
+  "description": "Head & Shoulders Supreme Scalp Repair Conditioner",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/1/6/3164139.jpg",
+  "name": "Supreme Scalp Repair Conditioner",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 16,
+    "lowPrice": 16,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T13:53:55.367Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "16.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/head-shoulders-supreme-conditioner-smooth-3164139p"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/head-shoulders-supreme-conditioner-smooth-3164139p"
+  ],
+  "sku": "3164139",
+  "updatedAt": "2022-12-06T13:53:55.368Z"
+}

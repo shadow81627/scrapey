@@ -1,0 +1,50 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "1 pack"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$13.60 per 1Ea"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Made in China"
+    }
+  ],
+  "brand": "Purina",
+  "createdAt": "2022-12-07T00:42:28.804Z",
+  "description": "Purina Total Care Knot Remover & Flea Comb Dog",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/9/7/3971221.jpg",
+  "name": "Total Care Knot Remover & Flea Comb Dog",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 13.6,
+    "lowPrice": 13.6,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-07T00:42:28.804Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "13.60",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/knot-remover-flea-dog"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/knot-remover-flea-dog"
+  ],
+  "sku": "3971221",
+  "updatedAt": "2022-12-07T00:42:28.804Z"
+}

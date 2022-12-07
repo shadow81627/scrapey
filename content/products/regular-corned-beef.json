@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "340g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$19.12 per 1Kg"
+    }
+  ],
+  "brand": "Hamper",
+  "createdAt": "2022-12-06T06:45:06.194Z",
+  "description": "Hamper Regular Corned Beef",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/1/1/8/118612.jpg",
+  "name": "Regular Corned Beef",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 6.5,
+    "lowPrice": 6.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T06:45:06.194Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "6.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/hamper-corned-beef-118612p"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/hamper-corned-beef-118612p"
+  ],
+  "sku": "118612",
+  "updatedAt": "2022-12-06T06:45:06.194Z"
+}

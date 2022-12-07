@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "500g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$2.00 per 100G"
+    }
+  ],
+  "brand": "Flora",
+  "createdAt": "2022-12-06T06:36:41.792Z",
+  "description": "This contains 2g of plant sterols, the optimal amount per day proven to lower cholesterol.More than 3g of plant sterols per day do not provide additional benefits. If you are on cholesterol lowering medication please consult your doctor while using Flora ProActiv.",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/8/0/8/8085029.jpg",
+  "name": "ProActiv Margarine Spread Buttery",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 10,
+    "lowPrice": 10,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T06:36:41.792Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "10.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/flora-spread-margarine-pro-activ-buttery-tub"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/flora-spread-margarine-pro-activ-buttery-tub"
+  ],
+  "sku": "8085029",
+  "updatedAt": "2022-12-06T06:36:41.792Z"
+}

@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "1 pack"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$35.00 per 1Ea"
+    }
+  ],
+  "brand": "Air Wick",
+  "createdAt": "2022-12-06T19:38:47.378Z",
+  "description": "Air Wick Essential Mist Prime Peace",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/4/8/8/4883083.jpg",
+  "name": "Essential Mist Prime Peace",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 35,
+    "lowPrice": 35,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/OutOfStock",
+        "availabilityStarts": "2022-12-06T19:38:47.377Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "35.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/prime-peace"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/prime-peace"
+  ],
+  "sku": "4883083",
+  "updatedAt": "2022-12-06T19:38:47.377Z"
+}

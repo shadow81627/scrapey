@@ -1,0 +1,42 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "1 pack"
+    }
+  ],
+  "brand": "Bonds",
+  "createdAt": "2022-12-06T19:46:44.808Z",
+  "description": "NEW",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/1/3/3137497.jpg",
+  "name": "Textured Rib Legging Medium/ Long",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 9,
+    "lowPrice": 9,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T19:46:44.807Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "9.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/bonds-text-rib-legging-l79624-med-long"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/bonds-text-rib-legging-l79624-med-long"
+  ],
+  "sku": "3137497",
+  "updatedAt": "2022-12-06T19:46:44.807Z"
+}

@@ -1,0 +1,54 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Cane Sugar"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "250.0"
+    },
+    {
+      "name": "Size",
+      "value": "1kg"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.33 per 100G"
+    }
+  ],
+  "brand": "CSR",
+  "createdAt": "2022-12-06T07:02:45.600Z",
+  "description": "CSR Dark Brown Sugar",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/4/4/7/447829.jpg",
+  "name": "Dark Brown Sugar",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3.3,
+    "lowPrice": 3.3,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T07:02:45.599Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "3.30",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/csr-sugar-brown-dark"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/csr-sugar-brown-dark"
+  ],
+  "sku": "447829",
+  "updatedAt": "2022-12-06T07:02:45.599Z"
+}

@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "555g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.08 per 100G"
+    }
+  ],
+  "brand": "Greens",
+  "createdAt": "2022-12-06T09:43:36.514Z",
+  "description": "Greens has partnered with your favourite ice-cream brand, Golden Gaytime to make your favourite tasty treats. Greens Golden Gaytime Brownie Mix includes a delicious toffee-flavoured icing mix and iconic Golden Gaytime crumbs to sprinkle on top.",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/4/5/1/4510031.jpg",
+  "name": "Gaytime Blondie Brownie Mix",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 6,
+    "lowPrice": 6,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T09:43:36.513Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "6.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/blondie-brownie-mix"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/blondie-brownie-mix"
+  ],
+  "sku": "4510031",
+  "updatedAt": "2022-12-06T09:43:36.513Z"
+}

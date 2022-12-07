@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Sally Hansen"
+  },
+  "createdAt": "2022-12-06T17:48:08.689Z",
+  "description": "<p>Strengthening, for weak and thin nails. Removes nail polish in just 1 dip & twist!<BR><BR>Strengthening, for weak and thin nails.<br/><br/>An enriched formula that quickly and gently removes nail polish with essential nutirents to help promote strong, healthy-looking nails and cuticles everytime you use it.<br/><br/>A special blend of Pro-Vitamin B5, Vitamin E, and Hydrolyzed Wheat Protein fortifies and improves soft, weak, thin, nails. Helps keeps nails strong and healthy looking.<BR><BR>Removes nail polish in just 1 dip & twist!<BR><BR>Promotes strong and healthy nails and cuticles.<BR><BR>Nourishing formula to fortify weak nails.<BR><BR>Fast and gentle removal.<BR><BR>Promotes strong looking nails.</p>",
+  "gtin13": "3614224962111",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/823170.jpg",
+  "name": "Sally Hansen Instant Nail Polish Remover Strengthening 75mL",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 10,
+    "lowPrice": 10,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T17:48:08.689Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 10,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/823170/sally-hansen-instant-nail-polish-remover-strengthening"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/823170/sally-hansen-instant-nail-polish-remover-strengthening"
+  ],
+  "sku": "823170",
+  "updatedAt": "2022-12-06T17:48:08.689Z"
+}

@@ -1,0 +1,50 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Contains",
+      "value": "175mL"
+    },
+    {
+      "name": "Size",
+      "value": "175mL"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$10.86 per 100mL"
+    }
+  ],
+  "brand": "Toni & Guy",
+  "createdAt": "2022-12-06T14:26:01.286Z",
+  "description": "Toni & Guy Treatment Scalp Care Scrub",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/9/7/3978130.jpg",
+  "name": "Treatment Scalp Care Scrub",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 19,
+    "lowPrice": 19,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T14:26:01.285Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "19.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/scalp-care-scrub"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/scalp-care-scrub"
+  ],
+  "sku": "3978130",
+  "updatedAt": "2022-12-06T14:26:01.285Z"
+}

@@ -1,0 +1,62 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Pink *salmon*, salt. *Contains fish.*"
+    },
+    {
+      "name": "Allergen",
+      "value": "Contains Fish"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "2.0"
+    },
+    {
+      "name": "Size",
+      "value": "210g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$26.19 per 1Kg"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Product of United States of America"
+    }
+  ],
+  "brand": "John West",
+  "createdAt": "2022-12-06T18:41:11.077Z",
+  "description": "Succulent premium grade pink salmon",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/1/2/4/124717.jpg",
+  "name": "Wild Alaskan Pink Salmon",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 5.5,
+    "lowPrice": 5.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T18:41:11.076Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "5.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/john-west-salmon-pink-124717p"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/john-west-salmon-pink-124717p"
+  ],
+  "sku": "124717",
+  "updatedAt": "2022-12-06T18:41:11.076Z"
+}

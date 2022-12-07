@@ -1,0 +1,52 @@
+{
+  "@type": "Product",
+  "additionalProperty": [],
+  "aggregateRating": {
+    "@context": "http://schema.org",
+    "@type": "AggregateRating",
+    "ratingCount": 18,
+    "ratingValue": 4.72222222222222
+  },
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Australian Botanical"
+  },
+  "createdAt": "2022-12-06T12:26:40.688Z",
+  "description": "No petro chemicals, sodium lauryl sulphate, animal fats, parabens, propylene glycol, testing on animals, EDTA, HEDP, phalates",
+  "gtin13": "9328276000199",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/694601.jpg",
+  "name": "Australian Botanical Sea Salt Soap 200G",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 4,
+    "lowPrice": 4,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T12:26:40.687Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 4,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/694601/australian-botanical-sea-salt-soap"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/694601/australian-botanical-sea-salt-soap"
+  ],
+  "sku": "694601",
+  "updatedAt": "2022-12-06T12:26:40.687Z"
+}

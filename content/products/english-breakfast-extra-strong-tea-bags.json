@@ -1,0 +1,50 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "10 pack"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.20 per 1Ea"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Product of India"
+    }
+  ],
+  "brand": "Queen Victoria",
+  "createdAt": "2022-12-06T12:14:10.719Z",
+  "description": "Queen Victoria English Breakfast Extra Strong Tea Bags 10 Pack. A richer variation to our classic English Breakfast tea, this blend has an added intensity to deliver an even bolder cup.",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/9/8/3984584.jpg",
+  "name": "English Breakfast Extra Strong Tea Bags",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2,
+    "lowPrice": 2,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T12:14:10.717Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "2.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/english-bf-extra-strong-3984584p-1"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/english-bf-extra-strong-3984584p-1"
+  ],
+  "sku": "3984584",
+  "updatedAt": "2022-12-06T12:14:10.717Z"
+}

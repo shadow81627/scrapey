@@ -1,0 +1,50 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "90g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$4.28 per 100G"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Made in Australia from local and imported ingredients"
+    }
+  ],
+  "brand": "Jumpy's",
+  "createdAt": "2022-12-06T13:24:37.486Z",
+  "description": "Jumpy's Chicken 5 pack",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/9/1/3/9139462.jpg",
+  "name": "Chicken 5 pack",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3.85,
+    "lowPrice": 3.85,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T13:24:37.485Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "3.85",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/jumpys-snacks-chicken-multipacks"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/jumpys-snacks-chicken-multipacks"
+  ],
+  "sku": "9139462",
+  "updatedAt": "2022-12-06T13:24:37.485Z"
+}

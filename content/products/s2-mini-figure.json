@@ -1,0 +1,42 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "2 pack"
+    }
+  ],
+  "brand": "Bluey",
+  "createdAt": "2022-12-06T19:42:36.477Z",
+  "description": "Bluey S2 Mini Figure",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/7/6/3768670.jpg",
+  "name": "S2 Mini Figure",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 12.8,
+    "lowPrice": 12.8,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T19:42:36.477Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "12.80",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/bluey-s2-mini-figure"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/bluey-s2-mini-figure"
+  ],
+  "sku": "3768670",
+  "updatedAt": "2022-12-06T19:42:36.477Z"
+}

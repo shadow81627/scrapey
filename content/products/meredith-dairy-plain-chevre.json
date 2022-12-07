@@ -1,0 +1,58 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Pasteurised Goats Milk, Salt, Cultures and Non-Animal Rennet."
+    },
+    {
+      "name": "Allergen",
+      "value": "Contains Dairy, Contains Cheese"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "7.5"
+    },
+    {
+      "name": "Size",
+      "value": "150g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$60.00 per 1Kg"
+    }
+  ],
+  "brand": "Coles Deli",
+  "createdAt": "2022-12-06T09:49:58.441Z",
+  "description": "Coles Deli Meredith Dairy Plain Chevre",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/6/6/7/6670935.jpg",
+  "name": "Meredith Dairy Plain Chevre",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 9,
+    "lowPrice": 9,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T09:49:58.441Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "9.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/meredith-cheese-chevre"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/meredith-cheese-chevre"
+  ],
+  "sku": "6670935",
+  "updatedAt": "2022-12-06T09:49:58.441Z"
+}

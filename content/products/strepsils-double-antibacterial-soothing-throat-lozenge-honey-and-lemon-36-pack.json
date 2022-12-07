@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Strepsils"
+  },
+  "createdAt": "2022-12-06T15:58:00.175Z",
+  "description": "<p>Strepsils Sore Throat Relief Honey & Lemon soothes throat discomfort and provides double antibacterial action.<br/></p><p>Uses<br/>- For fast, soothing and effective relief from the discomfort of sore throats and minor mouth infections. <br/>- Contains two antibacterial agents to help kill bacteria that can cause sore throats and mouth infections.</p>",
+  "gtin13": "9300631373575",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/303925.jpg",
+  "name": "Strepsils Double Antibacterial? Soothing Throat Lozenge Honey And Lemon 36 Pack",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 12,
+    "lowPrice": 12,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T15:58:00.174Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 12,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/303925/strepsils-double-antibacterial-soothing-throat-lozenge-honey-and-lemon"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/303925/strepsils-double-antibacterial-soothing-throat-lozenge-honey-and-lemon"
+  ],
+  "sku": "303925",
+  "updatedAt": "2022-12-06T15:58:00.174Z"
+}

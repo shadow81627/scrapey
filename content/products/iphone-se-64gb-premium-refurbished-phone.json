@@ -1,0 +1,42 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Unit Price",
+      "value": "$299.00 per 1Ea"
+    }
+  ],
+  "brand": "Apple",
+  "createdAt": "2022-12-06T08:23:09.756Z",
+  "description": "Unlocked",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/6/9/5698848.jpg",
+  "name": "iPhone SE 64GB Premium Refurbished Phone",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 299,
+    "lowPrice": 299,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/OutOfStock",
+        "availabilityStarts": "2022-12-06T08:23:09.755Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "299.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/refurbished-phone-2020"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/refurbished-phone-2020"
+  ],
+  "sku": "5698848",
+  "updatedAt": "2022-12-06T08:23:09.755Z"
+}

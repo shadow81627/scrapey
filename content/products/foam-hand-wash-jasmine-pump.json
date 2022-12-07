@@ -1,0 +1,50 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Water, Sodium Laureth Sulfate, Glycerin, Cocamidopropyl Betaine, PEG-7 Glyceryl Cocoate, Cocamide MEA, Fragrance, Sodium Salicylate, Sodium Benzoate, Citric Acid, Tetrasodium EDTA, Jasminum Officinale (Jasmine) Flower/Leaft Extract."
+    },
+    {
+      "name": "Size",
+      "value": "400mL"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.88 per 100mL"
+    }
+  ],
+  "brand": "Palmolive",
+  "createdAt": "2022-12-06T15:08:10.068Z",
+  "description": "Palmolive Foam Hand Wash Jasmine Pump",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/2/5/5257092.jpg",
+  "name": "Foam Hand Wash Jasmine Pump",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3.5,
+    "lowPrice": 3.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/OutOfStock",
+        "availabilityStarts": "2022-12-06T15:08:10.068Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "3.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/pump-jasmine"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/pump-jasmine"
+  ],
+  "sku": "5257092",
+  "updatedAt": "2022-12-06T15:08:10.068Z"
+}

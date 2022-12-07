@@ -1,0 +1,50 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "160g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$2.81 per 100G"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Made in Australia"
+    }
+  ],
+  "brand": "Allen's",
+  "createdAt": "2022-12-06T21:17:14.221Z",
+  "description": "Allen's Freckles Chocolate",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/5/4/5544345.jpg",
+  "name": "Freckles Chocolate",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 4.5,
+    "lowPrice": 4.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/OutOfStock",
+        "availabilityStarts": "2022-12-06T21:17:14.221Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "4.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/freckles"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/freckles"
+  ],
+  "sku": "5544345",
+  "updatedAt": "2022-12-06T21:17:14.221Z"
+}

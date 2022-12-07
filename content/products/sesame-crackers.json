@@ -1,0 +1,50 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "250g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$2.56 per 100G"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Product of Israel"
+    }
+  ],
+  "brand": "Osem",
+  "createdAt": "2022-12-06T17:01:52.862Z",
+  "description": "Osem Sesame Crackers",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/0/7/5077851.jpg",
+  "name": "Sesame Crackers",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 6.4,
+    "lowPrice": 6.4,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T17:01:52.861Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "6.40",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/osem-crackers-sesame"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/osem-crackers-sesame"
+  ],
+  "sku": "5077851",
+  "updatedAt": "2022-12-06T17:01:52.861Z"
+}

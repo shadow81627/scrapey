@@ -1,0 +1,60 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "648.00kJ",
+      "carbohydrateContent": "11.00g",
+      "dietary_fibre": "0.35g",
+      "fatContent": "11.80g",
+      "name": "nutrition",
+      "proteinContent": "1.20g",
+      "saturatedFatContent": "8.80g",
+      "servingSize": "100 g",
+      "sodiumContent": "23.00mg",
+      "sugarContent": "10.80g"
+    }
+  ],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Lindt"
+  },
+  "createdAt": "2022-12-06T18:26:24.157Z",
+  "description": "Indulge in a moment of bliss with LINDOR Milk, the finest Lindt milk chocolate with a delicate chocolate shell and irresistibly smooth melting milk filling, created by the Lindt Master Chocolatier. Perfect for those everyday special me moments.<br><br>Wherever and whenever you take a LINDOR moment, it just seems to make life feel so much more sublime. When you unwrap LINDOR and break its delicate chocolate shell, the irresistibly smooth filling starts to melt gently carrying you away in a moment of bliss. LINDOR, created by the Lindt Master Chocolatiers.<br><br> At Lindt, we take pride in the chocolate we have so passionately created since 1845. We aim to make the finest chocolate that is matched by equally high ethical and sustainability standards, taking care at every step from bean to bar. That way, you are able to wholeheartedly indulge your senses, every single time.<br><br> Our sustainability program, the Lindt and Sprüngli Farming Program enables us to trace our cocoa beans right back to the farmers. This allows us to support farmers, their families and communities on the ground according to their specific local needs. 100% of our cocoa beans are traceable back to their origin and externally verified.<br><br>Lindt LINDOR- smooth-melting Milk chocolate truffles, 125g<br><br>Melt away into a moment of bliss with our irresistibly smooth LINDOR milk chocolate balls.<br><br>With decades of expertise, the Lindt Master Chocolatiers capture perfection in Swiss chocolate.<br><br>Perfect for indulging in a blissful moment all to yourself.",
+  "gtin13": "9323966105161",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/249701.jpg",
+  "name": "Lindt Lindor Chocolate Balls Milk 125G Bag",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 5,
+    "lowPrice": 5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T18:26:24.157Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 5,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/249701/lindt-lindor-chocolate-balls-milk"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/249701/lindt-lindor-chocolate-balls-milk"
+  ],
+  "sku": "249701",
+  "updatedAt": "2022-12-06T18:26:24.157Z"
+}

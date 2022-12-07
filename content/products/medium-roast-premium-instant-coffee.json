@@ -1,0 +1,58 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Pure soluble coffee, finely ground coffee 2%."
+    },
+    {
+      "name": "Allergen",
+      "value": "Contains Caffeine"
+    },
+    {
+      "name": "Size",
+      "value": "90g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$13.33 per 100G"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Made in Spain. Filled and Packed in France"
+    }
+  ],
+  "brand": "Starbucks",
+  "createdAt": "2022-12-06T11:15:37.485Z",
+  "description": "Starbucks Medium Roast Premium Instant Coffee",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/7/7/3771798.jpg",
+  "name": "Medium Roast Premium Instant Coffee",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 12,
+    "lowPrice": 12,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T11:15:37.484Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "12.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/starbucks-medium-roast-premium-instant-coffe"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/starbucks-medium-roast-premium-instant-coffe"
+  ],
+  "sku": "3771798",
+  "updatedAt": "2022-12-06T11:15:37.484Z"
+}

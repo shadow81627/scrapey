@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "1L"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$2.70 per 1L"
+    }
+  ],
+  "brand": "Golden Circle",
+  "createdAt": "2022-12-06T10:23:42.596Z",
+  "description": "Golden Circle Fruit Drink Pineapple And Orange",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/8/0/280097.jpg",
+  "name": "Fruit Drink Pineapple And Orange",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2.7,
+    "lowPrice": 2.7,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T10:23:42.595Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "2.70",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/golden-circle-fruit-drink-pine-orange"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/golden-circle-fruit-drink-pine-orange"
+  ],
+  "sku": "280097",
+  "updatedAt": "2022-12-06T10:23:42.595Z"
+}

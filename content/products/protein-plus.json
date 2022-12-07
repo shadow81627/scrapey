@@ -1,0 +1,62 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Filtered Water, Organic Whole Soybeans (Min. 21%), Mineral (Calcium Phosphate), Natural Flavour, Sea Salt."
+    },
+    {
+      "name": "Dietary",
+      "value": "No Added Sugars"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "4.0"
+    },
+    {
+      "name": "Warning",
+      "value": "The protein in this product is derived from Australian grown whole organic soybeans. It may appear as white sediment so make sure you shake the product well before consuming it."
+    },
+    {
+      "name": "Size",
+      "value": "1L"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$3.00 per 1L"
+    }
+  ],
+  "brand": "Vitasoy",
+  "createdAt": "2022-12-06T11:37:13.206Z",
+  "description": "Vitasoy Protein Plus",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/8/0/2807142.jpg",
+  "name": "Protein Plus",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3,
+    "lowPrice": 3,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T11:37:13.205Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "3.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/vitasoy-protein-plus"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/vitasoy-protein-plus"
+  ],
+  "sku": "2807142",
+  "updatedAt": "2022-12-06T11:37:13.206Z"
+}

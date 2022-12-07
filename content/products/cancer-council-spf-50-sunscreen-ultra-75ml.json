@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Cancer Council"
+  },
+  "createdAt": "2022-12-06T11:11:18.402Z",
+  "description": "SPF50+ broad spectrum UVA and UVB protection.\nAdvanced formula for ultra performance.\nFragrance free.\nSuitable for all skin types.\nTested for 4 hours water resistance.\nMade in Australia.",
+  "gtin13": "9321299108149",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/765320.jpg",
+  "name": "Cancer Council Spf 50+ Sunscreen Ultra 75mL",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 10.4,
+    "lowPrice": 10.4,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T11:11:18.401Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 10.4,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/765320/cancer-council-spf-50-sunscreen-ultra"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/765320/cancer-council-spf-50-sunscreen-ultra"
+  ],
+  "sku": "765320",
+  "updatedAt": "2022-12-06T11:11:18.402Z"
+}

@@ -1,0 +1,54 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Carbonated Water, Sugar, Food Acid (330), Flavours, Preservative (211), Colours (150d, 102, 122, 110)."
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "4.0"
+    },
+    {
+      "name": "Size",
+      "value": "4 pack"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$5.83 per 1L"
+    }
+  ],
+  "brand": "Schweppes",
+  "createdAt": "2022-12-06T20:17:26.785Z",
+  "description": "Schweppes Agrum  Blood Orange Mixers Soft Drink 300mL",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/7/3/7/7377110.jpg",
+  "name": "Agrum Blood Orange Mixers Soft Drink 300mL",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 7,
+    "lowPrice": 7,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T20:17:26.785Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "7.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/softdrink-agrum-bld-orng"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/softdrink-agrum-bld-orng"
+  ],
+  "sku": "7377110",
+  "updatedAt": "2022-12-06T20:17:26.785Z"
+}

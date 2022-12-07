@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "10 pack"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.00 per 1Ea"
+    }
+  ],
+  "brand": "Boxed",
+  "createdAt": "2022-12-06T09:02:45.087Z",
+  "description": "Boxed Cards Forever Friends",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/4/5/5455096.jpg",
+  "name": "Cards Forever Friends",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 10,
+    "lowPrice": 10,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T09:02:45.087Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "10.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/forever-friends"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/forever-friends"
+  ],
+  "sku": "5455096",
+  "updatedAt": "2022-12-06T09:02:45.087Z"
+}

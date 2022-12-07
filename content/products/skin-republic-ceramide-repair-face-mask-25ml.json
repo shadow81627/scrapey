@@ -1,0 +1,45 @@
+{
+  "@type": "Product",
+  "additionalProperty": [],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Skin Republic"
+  },
+  "createdAt": "2022-12-06T17:51:19.996Z",
+  "gtin13": "8809462429617",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/238589.jpg",
+  "name": "Skin Republic Ceramide Repair Face Mask 25ml",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 6,
+    "lowPrice": 6,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T17:51:19.996Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 6,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/238589/skin-republic-ceramide-repair-face-mask"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/238589/skin-republic-ceramide-repair-face-mask"
+  ],
+  "sku": "238589",
+  "updatedAt": "2022-12-06T17:51:19.996Z"
+}

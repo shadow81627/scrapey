@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Unit Price",
+      "value": "$5.00 per 1Ea"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Made in China"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2022-12-06T07:27:44.244Z",
+  "description": "The perfect simple addition to any cake, place on top or bottom to give your cake a personal touch!",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/6/6/3669011.jpg",
+  "name": "Happy Birthday Acrylic Plaque Gold & Silver",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 5,
+    "lowPrice": 5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T07:27:44.236Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "5.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/happy-birthday-acrylic-plaque-gold-silver"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/happy-birthday-acrylic-plaque-gold-silver"
+  ],
+  "sku": "3669011",
+  "updatedAt": "2022-12-06T07:27:44.236Z"
+}

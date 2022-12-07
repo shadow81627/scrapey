@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "100g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$21.00 per 1Kg"
+    }
+  ],
+  "brand": "Thomson's",
+  "createdAt": "2022-12-06T23:47:59.616Z",
+  "description": "Thomsons Deli products are great value and perfect for a tasty and convenient breakfast, lunch or dinner.",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/0/0/5005500.jpg",
+  "name": "Deli Shaved Leg Ham",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2.1,
+    "lowPrice": 2.1,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/OutOfStock",
+        "availabilityStarts": "2022-12-06T23:47:59.615Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "2.10",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/shaved-leg-ham"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/shaved-leg-ham"
+  ],
+  "sku": "5005500",
+  "updatedAt": "2022-12-06T23:47:59.615Z"
+}

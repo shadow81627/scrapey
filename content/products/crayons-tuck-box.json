@@ -1,0 +1,42 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "24 pack"
+    }
+  ],
+  "brand": "Crayola",
+  "createdAt": "2022-12-06T07:01:23.298Z",
+  "description": "The Crayola Crayon Pack contains 24 bright and vibrant crayons. These crayons are easy to hold and hard to break which make them perfect for the classroom or at home. The colourful crayons are made to last up to 35% longer than regular crayons.",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/1/8/4/1841236.jpg",
+  "name": "Crayons Tuck Box",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2.75,
+    "lowPrice": 2.75,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T07:01:23.297Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "2.75",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/crayola-crayons-tuck-box-1841236p"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/crayola-crayons-tuck-box-1841236p"
+  ],
+  "sku": "1841236",
+  "updatedAt": "2022-12-06T07:01:23.297Z"
+}

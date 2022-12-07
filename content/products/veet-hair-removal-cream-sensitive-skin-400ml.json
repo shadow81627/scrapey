@@ -1,0 +1,52 @@
+{
+  "@type": "Product",
+  "additionalProperty": [],
+  "aggregateRating": {
+    "@context": "http://schema.org",
+    "@type": "AggregateRating",
+    "ratingCount": 6,
+    "ratingValue": 4.66666666666667
+  },
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Veet"
+  },
+  "createdAt": "2022-12-06T16:56:13.382Z",
+  "description": "<p>Veet PURE sensitive hair removal cream for legs and body contains no more ammonia smell** giving you beautifully smooth skin without the lingering malodour.<br/><br/>Veet PURE creams range has a refined formula: refined to be just what you need for touchably smooth skin* in your hair removal regime. <br/><br/> Our purest smell with no more ammonia smell**<br/><br/>Refined formula* hair removal cream<br/><br/>Our purest smell: no more ammonia smell**<br/><br/>Touchably smooth skin<br/><br/>Suitable for sensitive skin</p>",
+  "gtin13": "5011417544099",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/274316.jpg",
+  "name": "Veet Hair Removal Cream Sensitive Skin 400mL",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 10.5,
+    "lowPrice": 10.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T16:56:13.381Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 10.5,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/274316/veet-hair-removal-cream-sensitive-skin"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/274316/veet-hair-removal-cream-sensitive-skin"
+  ],
+  "sku": "274316",
+  "updatedAt": "2022-12-06T16:56:13.381Z"
+}

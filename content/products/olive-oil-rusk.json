@@ -1,0 +1,54 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Flour, Water, Extra Virgin olive Oil, Yeast, Salt, Bread Improver, Sugar, Vitamin E Oil."
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "15.0"
+    },
+    {
+      "name": "Size",
+      "value": "260g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$2.31 per 100G"
+    }
+  ],
+  "brand": "Olympian",
+  "createdAt": "2022-12-06T17:03:59.426Z",
+  "description": "Olympians Olive Oil Rusk is kneaded with Extra Virgin Olive Oil. Enjoy for breakfast, lunch or dinner. A healthy snack to enjoy with Feta cheese or cream cheese: unique and light.",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/7/3/3736447.jpg",
+  "name": "Olive Oil Rusk",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 6,
+    "lowPrice": 6,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T17:03:59.425Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "6.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/olive-oil-rusk"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/olive-oil-rusk"
+  ],
+  "sku": "3736447",
+  "updatedAt": "2022-12-06T17:03:59.425Z"
+}

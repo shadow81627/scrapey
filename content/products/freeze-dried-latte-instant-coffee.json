@@ -1,0 +1,54 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "100% Arabica Freeze Dried Instant Coffee"
+    },
+    {
+      "name": "Size",
+      "value": "400g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$8.00 per 100G"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Made in Germany"
+    }
+  ],
+  "brand": "Vittoria",
+  "createdAt": "2022-12-06T22:29:48.496Z",
+  "description": "Vittoria Freeze Dried Latte Instant Coffee",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/4/8/2/4824379.jpg",
+  "name": "Freeze Dried Latte Instant Coffee",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 32,
+    "lowPrice": 32,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/OutOfStock",
+        "availabilityStarts": "2022-12-06T22:29:48.495Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "32.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/latte-instant-coffee-4824379p-1"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/latte-instant-coffee-4824379p-1"
+  ],
+  "sku": "4824379",
+  "updatedAt": "2022-12-06T22:29:48.495Z"
+}

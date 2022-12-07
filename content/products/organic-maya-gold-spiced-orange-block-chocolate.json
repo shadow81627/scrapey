@@ -1,0 +1,50 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "90g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$5.00 per 100G"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Made in I Poland"
+    }
+  ],
+  "brand": "Green & Blacks",
+  "createdAt": "2022-12-06T21:14:06.246Z",
+  "description": "Green & Blacks Organic Maya Gold 60% Cocoa is Dark Chocolate with orange and spice flavour. Rich, dark chocolate with a hit of orange, vanilla, cinnamon and nutmeg.",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/1/0/5100261.jpg",
+  "name": "Organic Maya Gold Spiced Orange Block Chocolate",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 4.5,
+    "lowPrice": 4.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/OutOfStock",
+        "availabilityStarts": "2022-12-06T21:14:06.246Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "4.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/maya-gold-spiced-orange"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/maya-gold-spiced-orange"
+  ],
+  "sku": "5100261",
+  "updatedAt": "2022-12-06T21:14:06.246Z"
+}

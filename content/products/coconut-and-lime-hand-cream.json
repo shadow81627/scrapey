@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "100mL"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$12.00 per 100mL"
+    }
+  ],
+  "brand": "Beach Road",
+  "createdAt": "2022-12-06T06:31:09.549Z",
+  "description": "Coconut oil will lock in moisture to your skin while Kaffir Lime helps to protect the skin with a delightful and sweet scent.",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/4/3/3/4335430.jpg",
+  "name": "Coconut & Lime Hand Cream",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 12,
+    "lowPrice": 12,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T06:31:09.549Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "12.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coconut-lime-hand-cream"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/coconut-lime-hand-cream"
+  ],
+  "sku": "4335430",
+  "updatedAt": "2022-12-06T06:31:09.549Z"
+}

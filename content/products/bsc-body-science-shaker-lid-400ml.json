@@ -1,0 +1,52 @@
+{
+  "@type": "Product",
+  "additionalProperty": [],
+  "aggregateRating": {
+    "@context": "http://schema.org",
+    "@type": "AggregateRating",
+    "ratingCount": 2,
+    "ratingValue": 4
+  },
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "BSc Body Science"
+  },
+  "createdAt": "2022-12-06T16:28:29.641Z",
+  "description": "BSc Shaker.  Mix Your Favourite Protein into a Smooth, Consistent Shake.",
+  "gtin13": "9330171006190",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/731379.jpg",
+  "name": "Bsc Body Science Shaker Lid 400ml",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 7,
+    "lowPrice": 7,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T16:28:29.641Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 7,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/731379/bsc-body-science-shaker-lid"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/731379/bsc-body-science-shaker-lid"
+  ],
+  "sku": "731379",
+  "updatedAt": "2022-12-06T16:28:29.641Z"
+}

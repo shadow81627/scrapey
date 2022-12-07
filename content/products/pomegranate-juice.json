@@ -1,0 +1,50 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "100% Reconstituted Pomegranate Juice."
+    },
+    {
+      "name": "Size",
+      "value": "1L"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$6.30 per 1L"
+    }
+  ],
+  "brand": "Sunraysia",
+  "createdAt": "2022-12-06T10:20:33.947Z",
+  "description": "Sunraysia Pomegranate Juice",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/5/3/2531992.jpg",
+  "name": "Pomegranate Juice",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 6.3,
+    "lowPrice": 6.3,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T10:20:33.946Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "6.30",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/sunraysia-pomegranate-juice"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/sunraysia-pomegranate-juice"
+  ],
+  "sku": "2531992",
+  "updatedAt": "2022-12-06T10:20:33.946Z"
+}

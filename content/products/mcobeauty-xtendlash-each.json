@@ -1,0 +1,52 @@
+{
+  "@type": "Product",
+  "additionalProperty": [],
+  "aggregateRating": {
+    "@context": "http://schema.org",
+    "@type": "AggregateRating",
+    "ratingCount": 24,
+    "ratingValue": 4.33333333333333
+  },
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "MCoBeauty"
+  },
+  "createdAt": "2022-12-06T14:42:45.834Z",
+  "description": "<p><strong style=\"font-family: Montserrat, sans-serif;\">WHAT IS IT?<strong><p><p><br><p><p>MCoBeauty's best-selling, award-winning innovative tubular mascara that will maximise length, curl and volume without flaking or smudging.<p><p>MCoBeauty's #1 top-selling mascara! (Data as of Quantium Data for Woolworths 13 weeks running sales at week end 20421)<p><p><br><p><p><br><p><p><strong style=\"font-family: Montserrat, sans-serif;\">WHAT IT DOES:<strong><p><p><br><p><ul><li>The glossy formula creates water-resistant 'tubes' around each and every lash for maximum length, definition and hold<li><li>Binds to lashes and will not run, smudge, clump or flake<li><li>Defines lashes to create incredible volume and length<li><li>Ultra-pigmented black tubular formula provides intense definition<li><li>Removes effortlessly with warm water and gentle pressure<li><ul><p><br><p><p><br><p><p><strong style=\"font-family: Montserrat, sans-serif;\">WHY YOU'LL LOVE IT:<strong><p><p><br><p><ul><li>Won't flake or smudge<li><li>Tubular formula<li><li>Water resistant and tear-proof<li><li>Ultra black, glossy finish<li><li>Buildable formula mimics mini lash extensions<li><li>Safe for sensitive eyes and those who wear contact lenses<li><li>Slides off with just warm water<li><ul>",
+  "gtin13": "9331880005214",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/763392.jpg",
+  "name": "Mcobeauty Xtendlash Each",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 24,
+    "lowPrice": 24,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T14:42:45.833Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 24,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/763392/mcobeauty-xtendlash"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/763392/mcobeauty-xtendlash"
+  ],
+  "sku": "763392",
+  "updatedAt": "2022-12-06T14:42:45.833Z"
+}

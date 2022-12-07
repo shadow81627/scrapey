@@ -1,0 +1,52 @@
+{
+  "@type": "Product",
+  "additionalProperty": [],
+  "aggregateRating": {
+    "@context": "http://schema.org",
+    "@type": "AggregateRating",
+    "ratingCount": 3,
+    "ratingValue": 4.33333333333333
+  },
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Rimmel"
+  },
+  "createdAt": "2022-12-06T14:42:24.282Z",
+  "description": "<p>2 in 1 primer and setting spray that can be applied underneath or over the top of your makeup.  <br/> Want the London look? Rimmel London offers a revolution with a 2 in 1 primer & setting spray with INSTA Fix & Go, that can be applied underneath or over the top of your makeup. It dries quickly with just one application & locks your makeup into place for all day staying power. <br/> 2 in 1 primer & makeup setting spray <br/> Locks makeup into place for up to 8 hours. <br/> Helped prolong the wear of makeup with just one application. <br/>Prevents colour from smudging or settling into fine lines for all day staying power</p>",
+  "gtin13": "3614223189496",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/610125.jpg",
+  "name": "Rimmel Insta Fix & Go Primer & Setting Spray 100mL",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 8,
+    "lowPrice": 8,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T14:42:24.281Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 8,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/610125/rimmel-insta-fix-go-primer-setting-spray"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/610125/rimmel-insta-fix-go-primer-setting-spray"
+  ],
+  "sku": "610125",
+  "updatedAt": "2022-12-06T14:42:24.281Z"
+}

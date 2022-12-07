@@ -1,0 +1,50 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "400g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.75 per 100G"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Made in New Zealand"
+    }
+  ],
+  "brand": "Vegie Delights",
+  "createdAt": "2022-12-07T00:00:39.925Z",
+  "description": "Vegie Delights Mince",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/5/9/2599147.jpg",
+  "name": "Mince",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 7,
+    "lowPrice": 7,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-07T00:00:39.924Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "7.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/vegie-delights-gluten-free-vege-savoury-mince"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/vegie-delights-gluten-free-vege-savoury-mince"
+  ],
+  "sku": "2599147",
+  "updatedAt": "2022-12-07T00:00:39.924Z"
+}

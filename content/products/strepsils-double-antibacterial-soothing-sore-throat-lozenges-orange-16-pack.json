@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Strepsils"
+  },
+  "createdAt": "2022-12-06T16:02:38.089Z",
+  "description": "Strepsils Sore Throat Relief Orange soothes throat discomfort and provides double antibacterial action.<BR><BR><p>Uses<br />- For fast, soothing and effective relief from the discomfort of sore throats and minor mouth infections. <br />- Contains two antibacterial agents to help kill bacteria that can cause sore throats and mouth infections.</p>",
+  "gtin13": "9300711074347",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/332283.jpg",
+  "name": "Strepsils Double Antibacterial Soothing Sore Throat Lozenges Orange 16 Pack",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 6,
+    "lowPrice": 6,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T16:02:38.089Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 6,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/332283/strepsils-double-antibacterial-soothing-sore-throat-lozenges-orange"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/332283/strepsils-double-antibacterial-soothing-sore-throat-lozenges-orange"
+  ],
+  "sku": "332283",
+  "updatedAt": "2022-12-06T16:02:38.089Z"
+}

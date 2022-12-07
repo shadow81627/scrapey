@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "2 pack"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$2.80 per 1Ea"
+    }
+  ],
+  "brand": "Scunci",
+  "createdAt": "2022-12-06T14:17:24.563Z",
+  "description": "Scunci Effortless Beauty Zigzag Headband",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/3/8/2382815.jpg",
+  "name": "Effortless Beauty Zigzag Headband",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 5.6,
+    "lowPrice": 5.6,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T14:17:24.562Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "5.60",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/scunci-zigzag-headband"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/scunci-zigzag-headband"
+  ],
+  "sku": "2382815",
+  "updatedAt": "2022-12-06T14:17:24.562Z"
+}

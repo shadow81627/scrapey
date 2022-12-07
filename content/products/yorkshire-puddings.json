@@ -1,0 +1,50 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "220g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$27.00 per 100G"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Made in United Kingdom"
+    }
+  ],
+  "brand": "Table & Tale",
+  "createdAt": "2022-12-06T22:35:43.354Z",
+  "description": "Table & Tales Yorkshire Puddings is easy and convenient. Ready to be cooked in to a delicious dish.",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/8/9/3896330.jpg",
+  "name": "Yorkshire Puddings",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 5.4,
+    "lowPrice": 5.4,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T22:35:43.353Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "5.40",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/table-tale-yorkshire-puddings"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/table-tale-yorkshire-puddings"
+  ],
+  "sku": "3896330",
+  "updatedAt": "2022-12-06T22:35:43.353Z"
+}

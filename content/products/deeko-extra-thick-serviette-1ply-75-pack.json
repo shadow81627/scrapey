@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Deeko"
+  },
+  "createdAt": "2022-12-06T18:20:24.815Z",
+  "description": "Deeko 1ply White Lunch Napkins are 20% thicker than original Deeko 1ply napkins, making them ideal for everyday use.<BR><BR>Dedicated to great times for over 60 years, Deeko's extra thick napkins are suitable for all occasions where quality, as well as quantity, matters.<BR><BR>20% thicker than our original Deeko 1ply napkin<BR><BR>Everyday value<BR><BR>PEFC - Made from sustainably sourced materials",
+  "gtin13": "9310004261910",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/031424.jpg",
+  "name": "Deeko Extra Thick Serviette 1ply 75 Pack",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3,
+    "lowPrice": 3,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T18:20:24.815Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 3,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/31424/deeko-extra-thick-serviette-1ply"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/31424/deeko-extra-thick-serviette-1ply"
+  ],
+  "sku": "31424",
+  "updatedAt": "2022-12-06T18:20:24.815Z"
+}

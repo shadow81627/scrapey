@@ -1,0 +1,45 @@
+{
+  "@type": "Product",
+  "additionalProperty": [],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Stuff"
+  },
+  "createdAt": "2022-12-06T12:42:26.111Z",
+  "gtin13": "9358732000180",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/232544.jpg",
+  "name": "Stuff For Your Pits Men's Natural Deodorant Spearmint & Pine 50ml",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 6.3,
+    "lowPrice": 6.3,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T12:42:26.110Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 6.3,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/232544/stuff-for-your-pits-men-s-natural-deodorant-spearmint-pine"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/232544/stuff-for-your-pits-men-s-natural-deodorant-spearmint-pine"
+  ],
+  "sku": "232544",
+  "updatedAt": "2022-12-06T12:42:26.111Z"
+}

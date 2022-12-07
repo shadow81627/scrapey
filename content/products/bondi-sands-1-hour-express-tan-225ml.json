@@ -1,0 +1,52 @@
+{
+  "@type": "Product",
+  "additionalProperty": [],
+  "aggregateRating": {
+    "@context": "http://schema.org",
+    "@type": "AggregateRating",
+    "ratingCount": 5,
+    "ratingValue": 4.8
+  },
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Bondi Sands"
+  },
+  "createdAt": "2022-12-06T10:55:10.298Z",
+  "description": "Sand, sea and sun, the enviable Australian image.\nExperience a sun-kissed Australian tan in just 1 hour with Bondi Sands Express Self Tanning Foam. Infused with a scent of coconut, this ultra lightweight aerosol foam will leave your skin glowing like a day on Bondi beach.",
+  "gtin13": "850278004534",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/803748.jpg",
+  "name": "Bondi Sands 1 Hour Express Tan 225mL",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 25,
+    "lowPrice": 25,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T10:55:10.296Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 25,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/803748/bondi-sands-1-hour-express-tan"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/803748/bondi-sands-1-hour-express-tan"
+  ],
+  "sku": "803748",
+  "updatedAt": "2022-12-06T10:55:10.296Z"
+}

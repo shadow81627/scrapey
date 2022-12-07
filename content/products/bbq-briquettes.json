@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "4kg"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$3.00 per 1Kg"
+    }
+  ],
+  "brand": "Weber",
+  "createdAt": "2022-12-06T19:00:27.892Z",
+  "description": "Weber BBQ Briquettes",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/2/5/3253421.jpg",
+  "name": "BBQ Briquettes",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 12,
+    "lowPrice": 12,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T19:00:27.891Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "12.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/weber-bbq-briquettes"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/weber-bbq-briquettes"
+  ],
+  "sku": "3253421",
+  "updatedAt": "2022-12-06T19:00:27.892Z"
+}

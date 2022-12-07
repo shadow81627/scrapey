@@ -1,0 +1,50 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Please visit our website for details"
+    },
+    {
+      "name": "Size",
+      "value": "1.8L"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$13.89 per 1L"
+    }
+  ],
+  "brand": "Dynamo",
+  "createdAt": "2022-12-06T06:54:26.353Z",
+  "description": "Dynamo Professional Eucalyptus 7 In 1 Laundry Liquid",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/9/2/3921653.jpg",
+  "name": "Professional Eucalyptus 7 In 1 Laundry Liquid",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 25,
+    "lowPrice": 25,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T06:54:26.352Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "25.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/dynamo-professional-7-in-1-eucalyptus"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/dynamo-professional-7-in-1-eucalyptus"
+  ],
+  "sku": "3921653",
+  "updatedAt": "2022-12-06T06:54:26.353Z"
+}

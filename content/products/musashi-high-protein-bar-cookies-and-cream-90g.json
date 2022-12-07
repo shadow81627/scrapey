@@ -1,0 +1,66 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "1410.00kJ",
+      "carbohydrateContent": "2.60g",
+      "dietary_fibre": "0.00g",
+      "fatContent": "6.80g",
+      "name": "nutrition",
+      "proteinContent": "45.50g",
+      "saturatedFatContent": "4.10g",
+      "servingSize": "100 g",
+      "sodiumContent": "189.00mg",
+      "sugarContent": "2.20g"
+    }
+  ],
+  "aggregateRating": {
+    "@context": "http://schema.org",
+    "@type": "AggregateRating",
+    "ratingCount": 4,
+    "ratingValue": 4.25
+  },
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Musashi"
+  },
+  "createdAt": "2022-12-06T16:41:32.863Z",
+  "description": "<p>Musashi High Protein Cookies and Cream is delicious chocolate-coated bar with tasty flavoured centre and 45g of high-quality protein.<BR><BR>MUSASHI HIGH PROTEIN bar packs 45g of protein with less than 3g of carbs in a convenient, delicious milk chocolate coated bar with a cookies and cream flavoured centre. Great for when you need your protein hit post-workout, or as a powerful nutritious snack on-the-go.<BR><BR>Advanced Protein Blend<BR><BR>Low Carb.</p>",
+  "gtin13": "9300605098909",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/798290.jpg",
+  "name": "Musashi High Protein Bar Cookies And Cream 90g",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 5.5,
+    "lowPrice": 5.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T16:41:32.862Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 5.5,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/798290/musashi-high-protein-bar-cookies-and-cream"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/798290/musashi-high-protein-bar-cookies-and-cream"
+  ],
+  "sku": "798290",
+  "updatedAt": "2022-12-06T16:41:32.862Z"
+}

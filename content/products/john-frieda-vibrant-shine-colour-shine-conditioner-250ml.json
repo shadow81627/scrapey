@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "John Frieda"
+  },
+  "createdAt": "2022-12-06T11:32:44.941Z",
+  "description": "John Frieda Shine Conditioner is Infused with rosehip oil and our Shine-Enhancing Complex. Adds a lightweight shine to the surface of the hair strand for enhanced glossy hair across a range of shades and textures. Safe for use on natural or colour-treated hair. 1. BOOST HAIR SHINE - Reveal glossy, impossibly shiny hair by adding this hydrating conditioner for a silicone free shine that won't weigh down your style. 2. VIBRANT SHINE PRODUCTS - For silky smooth hair, use this detangling conditioner in conjunction with our full suite of Vibrant Shine products. 3. HYDRATING CONDITIONER - Our salon-quality hair conditioner for natural and colour treated hair works to reveal a healthier, silkier style. 4. FORMULATED WITHOUT PARABENS, SILICONE OR SLESSLS SULFATES",
+  "gtin13": "717226278662",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/202463.jpg",
+  "name": "John Frieda Vibrant Shine Colour Shine Conditioner 250ml",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 18,
+    "lowPrice": 18,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T11:32:44.941Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 18,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/202463/john-frieda-vibrant-shine-colour-shine-conditioner"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/202463/john-frieda-vibrant-shine-colour-shine-conditioner"
+  ],
+  "sku": "202463",
+  "updatedAt": "2022-12-06T11:32:44.941Z"
+}

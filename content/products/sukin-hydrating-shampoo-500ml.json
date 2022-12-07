@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Sukin"
+  },
+  "createdAt": "2022-12-06T11:41:24.344Z",
+  "description": "<p>Shea butter & coconut fight frizz while nourishing and repairing dry & damaged hair. Our Hydrating Shampoo is infused with moisturising Shea Butter and Coconut Extract to help nourish and condition the scalp while repairing dry and damaged hair. Added Olive Oil helps to strengthen hair, reduce frizz and add shine, while an aroma of Coconut and Lime invigorates the senses. Naturally created with: No petrolatum / mineral oils, synthetic fragrances, animal derivatives, artificial colours, harsh detergents, propylene glycol, MEA / DEA / TEA, phthalates, triclosan, sulphates, parabens, silicones, EDTA</p>",
+  "gtin13": "9327693006883",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/104336.jpg",
+  "name": "Sukin Hydrating Shampoo 500mL",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 19,
+    "lowPrice": 19,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T11:41:24.344Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 19,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/104336/sukin-hydrating-shampoo"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/104336/sukin-hydrating-shampoo"
+  ],
+  "sku": "104336",
+  "updatedAt": "2022-12-06T11:41:24.344Z"
+}

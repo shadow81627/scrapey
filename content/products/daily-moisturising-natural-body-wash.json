@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "354mL"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.62 per 100mL"
+    }
+  ],
+  "brand": "Aveeno",
+  "createdAt": "2022-12-06T15:18:15.743Z",
+  "description": "Aveeno Daily Moisturising Natural Body Wash",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/7/5/0/7502801.jpg",
+  "name": "Daily Moisturising Natural Body Wash",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 5.75,
+    "lowPrice": 5.75,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T15:18:15.743Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "5.75",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/aveeno-naturals-bodywash-daily-moisturising"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/aveeno-naturals-bodywash-daily-moisturising"
+  ],
+  "sku": "7502801",
+  "updatedAt": "2022-12-06T15:18:15.743Z"
+}

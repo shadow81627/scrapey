@@ -1,0 +1,54 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "<p><strong>INGREDIENTS:</strong> Rainforest Alliance Certified Roasted and Ground Coffee.</p>"
+    },
+    {
+      "name": "Size",
+      "value": "10 pack"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.40 per 1Ea"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Made in Italy"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2022-12-06T11:29:31.688Z",
+  "description": "Coles Urban Coffee Culture Strong Caffitaly Compatible Coffee Capsules",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/7/4/3745211.jpg",
+  "name": "Urban Coffee Culture Strong Caffitaly Compatible Coffee Capsules",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 4,
+    "lowPrice": 4,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T11:29:31.687Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "4.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-urban-coffe-culture-strong-caffitaly"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/coles-urban-coffe-culture-strong-caffitaly"
+  ],
+  "sku": "3745211",
+  "updatedAt": "2022-12-06T11:29:31.687Z"
+}

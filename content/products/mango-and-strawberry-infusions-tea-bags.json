@@ -1,0 +1,50 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "10 pack"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.20 per 1Ea"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Blended and packed in Poland to the highest standards by Twinings of London using the finest imported ingredients."
+    }
+  ],
+  "brand": "Twining's",
+  "createdAt": "2022-12-06T07:11:24.437Z",
+  "description": "Float away to a tropical paradise...The familiar sweetness of strawberry flavour dances with the exotic, rich aroma of mangoes to create this deliciously refreshing blend. Take a moment to pause your day and enjoy this summery infusion bursting with lush flavour.",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/7/0/3708769.jpg",
+  "name": "Mango & Strawberry Infusions Tea Bags",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2,
+    "lowPrice": 2,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T07:11:24.436Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "2.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/twinings-tea-bags-mango-strawberry"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/twinings-tea-bags-mango-strawberry"
+  ],
+  "sku": "3708769",
+  "updatedAt": "2022-12-06T07:11:24.436Z"
+}

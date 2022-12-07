@@ -1,0 +1,54 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Contains",
+      "value": "32 Tampons"
+    },
+    {
+      "name": "Warning",
+      "value": "Tampon use has been associated with Toxic Shock Syndrome (TSS). TSS is a rare but serious disease that may cause death. Read and keep the enclosed information. Please do not flush product or packaging. Do not flush down the toilet. Do not use if wrapper is open or damaged."
+    },
+    {
+      "name": "Size",
+      "value": "32 pack"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.22 per 1Ea"
+    }
+  ],
+  "brand": "U by Kotex",
+  "createdAt": "2022-12-06T15:43:19.419Z",
+  "description": "U by Kotex Tampons Super",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/6/0/4/6041838.jpg",
+  "name": "Tampons Super",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 7,
+    "lowPrice": 7,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T15:43:19.418Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "7.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/u-by-kotex-tampons-super"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/u-by-kotex-tampons-super"
+  ],
+  "sku": "6041838",
+  "updatedAt": "2022-12-06T15:43:19.418Z"
+}

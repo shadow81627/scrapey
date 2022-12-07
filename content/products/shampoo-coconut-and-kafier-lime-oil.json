@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "500mL"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$2.10 per 100mL"
+    }
+  ],
+  "brand": "Beach Road Naturals",
+  "createdAt": "2022-12-06T15:59:25.957Z",
+  "description": "Beach Road Naturals Shampoo Coconut & Kafier Lime Oil",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/4/4/5/4453040.jpg",
+  "name": "Shampoo Coconut & Kafier Lime Oil",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 10.5,
+    "lowPrice": 10.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T15:59:25.956Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "10.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/shampo-coco-kafier-lime"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/shampo-coco-kafier-lime"
+  ],
+  "sku": "4453040",
+  "updatedAt": "2022-12-06T15:59:25.956Z"
+}

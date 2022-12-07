@@ -1,0 +1,58 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Meat including Pork (73%), Water, Premix (Potato Starch, Tapioca Starch, Salt, Modified Starch (1442), Soy Protein, Mineral Salts (451, 341, 450, 452), Dextrose Spices, Antioxidant (316), Sodium Nitrite (250), Fermented Red Rice), Food Acid (325), Sucrose, Smoke Flavours, Vegetable Gum (412_, Anticaking Agent (551), manufactured Meat"
+    },
+    {
+      "name": "Allergen",
+      "value": "Contains Soy"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "20.0"
+    },
+    {
+      "name": "Size",
+      "value": "1kg"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$3.50 per 1Kg"
+    }
+  ],
+  "brand": "Thomson's Deli",
+  "createdAt": "2022-12-06T23:48:39.526Z",
+  "description": "Seasoned ham and chicken flavoured knob with a fine texture for slicing. Slice thinly and serve cold on a sandwich with corn relish. Slice thickly, fry and serve with a slice of cheese in a brioche bun, or with eggs, mushrooms, tomato and toast for a delicious breakfast.",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/1/0/2/1026564.jpg",
+  "name": "Ham And Chicken Luncheon",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3.5,
+    "lowPrice": 3.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T23:48:39.526Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "3.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/dandy-knob-chicken-ham"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/dandy-knob-chicken-ham"
+  ],
+  "sku": "1026564",
+  "updatedAt": "2022-12-06T23:48:39.526Z"
+}

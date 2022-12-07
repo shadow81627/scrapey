@@ -1,0 +1,58 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Lentils (French Style Lentils, Yellow Lentils), Freekeh, Dehydrated Beans"
+    },
+    {
+      "name": "Allergen",
+      "value": "May Contain Soybean, May Contain Lupin, Contains Gluten"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "7.0"
+    },
+    {
+      "name": "Size",
+      "value": "350g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$1.13 per 100G"
+    }
+  ],
+  "brand": "McKenzie's",
+  "createdAt": "2022-12-06T16:13:51.909Z",
+  "description": "McKenzie's SuperBlend Fibre Freekeh Lentils & Beans",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/6/6/2668320.jpg",
+  "name": "SuperBlend Fibre Freekeh Lentils & Beans",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3.95,
+    "lowPrice": 3.95,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T16:13:51.908Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "3.95",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/mckenzies-super-blend-fibre"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/mckenzies-super-blend-fibre"
+  ],
+  "sku": "2668320",
+  "updatedAt": "2022-12-06T16:13:51.908Z"
+}

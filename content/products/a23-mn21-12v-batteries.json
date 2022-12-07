@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "2 pack"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$4.00 per 1Ea"
+    }
+  ],
+  "brand": "Duracell",
+  "createdAt": "2022-12-07T00:14:30.300Z",
+  "description": "Duracell Coppertop 21 12V Alkaline batteries have an unqiue Duralock Power Preserve Technology",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/1/5/8/1584213.jpg",
+  "name": "A23 MN21 12V Batteries",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 8,
+    "lowPrice": 8,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-07T00:14:30.299Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "8.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/duracell-batteries-a23-12v"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/duracell-batteries-a23-12v"
+  ],
+  "sku": "1584213",
+  "updatedAt": "2022-12-07T00:14:30.299Z"
+}

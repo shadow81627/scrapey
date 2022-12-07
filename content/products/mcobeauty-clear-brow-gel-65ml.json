@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "MCoBeauty"
+  },
+  "createdAt": "2022-12-06T14:31:44.125Z",
+  "description": "<p><strong style=\"color: rgb(38, 38, 38); font-size: 12px;\">SIMPLY SWIPE, SET AND FORGET</strong></p><p><span style=\"color: rgb(38, 38, 38); font-size: 13px;\">Lock your brows perfectly into place with the MCoBeauty CLEAR BROW GEL, a long-wear transparent gel formula that grooms, defines and sets brows, creating a fuller-looking finish when used either alone or with your favourite brow product.</span></p><p><strong style=\"color: rgb(0, 0, 0); font-size: 12px;\">QUICK FACTS:</strong></p><ul><li><span style=\"color: rgb(38, 38, 38); font-size: 13px;\">GENTLY COMBS BROWS INTO PLACE</span></li><li><span style=\"color: rgb(38, 38, 38); font-size: 13px;\">INSTANTLY CONTROLS BROW HAIRS</span></li><li><span style=\"color: rgb(38, 38, 38); font-size: 13px;\">QUICK-DRYING</span></li></ul><p><strong style=\"color: rgb(0, 0, 0);\">DIRECTIONS:</strong></p><p><span style=\"color: rgb(38, 38, 38); font-size: 13px;\">Apply directly to brows using upward strokes. Use alone or after applying your favourite coloured brow product. Apply a light layer for a more flexible hold, or apply more intensely to achieve a more sculpted, laminated brow look.</span></p>",
+  "gtin13": "9331880019792",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/246804.jpg",
+  "name": "Mcobeauty Clear Brow Gel 6.5ml",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 16,
+    "lowPrice": 16,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/OutOfStock",
+        "availabilityStarts": "2022-12-06T14:31:44.124Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 16,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/246804/mcobeauty-clear-brow-gel"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/246804/mcobeauty-clear-brow-gel"
+  ],
+  "sku": "246804",
+  "updatedAt": "2022-12-06T14:31:44.124Z"
+}

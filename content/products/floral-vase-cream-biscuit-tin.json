@@ -1,0 +1,50 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "300g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$3.33 per 100G"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Made in India"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2022-12-06T09:28:25.194Z",
+  "description": "Coles Floral Vase Cream Biscuit Tin",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/8/0/3801390.jpg",
+  "name": "Floral Vase Cream Biscuit Tin",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 10,
+    "lowPrice": 10,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T09:28:25.193Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "10.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/floral-vase-cream-biscuit-tin"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/floral-vase-cream-biscuit-tin"
+  ],
+  "sku": "3801390",
+  "updatedAt": "2022-12-06T09:28:25.193Z"
+}

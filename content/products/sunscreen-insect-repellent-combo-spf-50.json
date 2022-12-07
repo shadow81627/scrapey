@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "100mL"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$12.00 per 100mL"
+    }
+  ],
+  "brand": "RID",
+  "createdAt": "2022-12-06T18:56:33.285Z",
+  "description": "RID Sunscreen Insect Repellent Combo SPF 50+",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/4/0/5409259.jpg",
+  "name": "Sunscreen Insect Repellent Combo SPF 50+",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 12,
+    "lowPrice": 12,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/OutOfStock",
+        "availabilityStarts": "2022-12-06T18:56:33.284Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "12.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/spf-50-tube"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/spf-50-tube"
+  ],
+  "sku": "5409259",
+  "updatedAt": "2022-12-06T18:56:33.284Z"
+}

@@ -1,0 +1,45 @@
+{
+  "@type": "Product",
+  "additionalProperty": [],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Woolworths"
+  },
+  "createdAt": "2022-12-06T11:04:48.497Z",
+  "gtin13": "9300633359386",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/742303.jpg",
+  "name": "Woolworths Kids Sunscreen Spf 50+ Roll On 75mL",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 4,
+    "lowPrice": 4,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T11:04:48.496Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 4,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/742303/woolworths-kids-sunscreen-spf-50-roll-on"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/742303/woolworths-kids-sunscreen-spf-50-roll-on"
+  ],
+  "sku": "742303",
+  "updatedAt": "2022-12-06T11:04:48.497Z"
+}

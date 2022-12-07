@@ -5,14 +5,14 @@
       "@type": "NutritionInformation",
       "calories": "Approx.292kJ",
       "carbohydrateContent": "Approx.16.8g",
-      "dietary_fibre": "<0.1g",
+      "dietary_fibre": "&lt;0.1g",
       "fatContent": "Approx.0.1g",
       "name": "nutrition",
       "proteinContent": "Approx.0.1g",
-      "saturatedFatContent": "<0.1g",
+      "saturatedFatContent": "&lt;0.1g",
       "servingSize": "100 g",
-      "sodiumContent": "<5mg",
-      "sugarContent": "<0.1g"
+      "sodiumContent": "&lt;5mg",
+      "sugarContent": "&lt;0.1g"
     }
   ],
   "aggregateRating": {
@@ -27,14 +27,9 @@
     "name": "Essentials"
   },
   "createdAt": "2020-11-25T21:33:46.000Z",
+  "description": "<p></p>",
   "gtin13": "9300633391287",
-  "image": {
-    "@type": "ImageObject",
-    "height": 1200,
-    "mime": "image/jpeg",
-    "url": "https://cdn0.woolworths.media/content/wowproductimages/large/039128.jpg",
-    "width": 1200
-  },
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/039128.jpg",
   "name": "Essentials Cornflour 500G",
   "offers": {
     "@type": "AggregateOffer",
@@ -46,7 +41,7 @@
         "@context": "http://schema.org",
         "@type": "Offer",
         "availability": "http://schema.org/InStock",
-        "availabilityStarts": "2022-11-23T21:56:33.655Z",
+        "availabilityStarts": "2022-12-06T08:24:28.198Z",
         "itemCondition": "http://schema.org/NewCondition",
         "offeredBy": "Woolworths",
         "potentialAction": {
@@ -59,13 +54,13 @@
           "@type": "Organization",
           "name": "Woolworths"
         },
-        "url": "https://woolworths.com.au/shop/productdetails/39128/essentials-cornflour"
+        "url": "https://woolworths.com.au/shop/productdetails/39128/essentials-cornflourreviewPageNumber=10"
       }
     ]
   },
   "sameAs": [
-    "https://woolworths.com.au/shop/productdetails/39128/essentials-cornflour"
+    "https://woolworths.com.au/shop/productdetails/39128/essentials-cornflourreviewPageNumber=10"
   ],
   "sku": "39128",
-  "updatedAt": "2022-11-23T21:56:33.655Z"
+  "updatedAt": "2022-12-06T08:24:28.198Z"
 }

@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "120g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$29.17 per 1Kg"
+    }
+  ],
+  "brand": "Coles Finest",
+  "createdAt": "2022-12-06T07:58:15.655Z",
+  "description": "Coles Finest Deli Express Australian Pitted Kalamata With Fennel & Orange",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/6/5/5651356.jpg",
+  "name": "Deli Express Australian Pitted Kalamata With Fennel & Orange",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3.5,
+    "lowPrice": 3.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/OutOfStock",
+        "availabilityStarts": "2022-12-06T07:58:15.655Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "3.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/pitted-kalamata-5651356p-1"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/pitted-kalamata-5651356p-1"
+  ],
+  "sku": "5651356",
+  "updatedAt": "2022-12-06T07:58:15.655Z"
+}

@@ -1,0 +1,52 @@
+{
+  "@type": "Product",
+  "additionalProperty": [],
+  "aggregateRating": {
+    "@context": "http://schema.org",
+    "@type": "AggregateRating",
+    "ratingCount": 29,
+    "ratingValue": 4.6551724137931
+  },
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Swisspers"
+  },
+  "createdAt": "2022-12-06T16:12:29.068Z",
+  "description": "Swisspers market leading premium cotton tips now with a paper stem. <br> <p>Swisspers Cotton Tips are made from 100% cotton and sustainably sourced paper stems. In addition to cleaning the outer ear, they are ideal for precision application and touch-ups of make-up.</p><p>The stiff paper stem gives you greater control compared to a standard plastic stem - plus switching to paper stems reduces single-use plastics in our environment. The re-sealable plastic bag uses 90% less plastic than a conventional tub and can be recycled at a RedCycle soft plastics collection points.</p>",
+  "gtin13": "9329414724281",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/805123.jpg",
+  "name": "Swisspers Cotton Tips With Paper Stems 120 Pack",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3.2,
+    "lowPrice": 3.2,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T16:12:29.067Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 3.2,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/805123/swisspers-cotton-tips-with-paper-stems"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/805123/swisspers-cotton-tips-with-paper-stems"
+  ],
+  "sku": "805123",
+  "updatedAt": "2022-12-06T16:12:29.067Z"
+}

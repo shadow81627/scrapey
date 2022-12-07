@@ -1,0 +1,62 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Vannamei *prawns* (99%), water, salt. *Contains crustacea.*"
+    },
+    {
+      "name": "Allergen",
+      "value": "Contains Crustacea"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "2.0"
+    },
+    {
+      "name": "Size",
+      "value": "500g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$32.00 per 1Kg"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Product of China"
+    }
+  ],
+  "brand": "I&J",
+  "createdAt": "2022-12-06T08:04:45.334Z",
+  "description": "I&J Whole Prawns",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/9/7/3977421.jpg",
+  "name": "Whole Prawns",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 16,
+    "lowPrice": 16,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T08:04:45.333Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "16.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/whole-prawns"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/whole-prawns"
+  ],
+  "sku": "3977421",
+  "updatedAt": "2022-12-06T08:04:45.333Z"
+}

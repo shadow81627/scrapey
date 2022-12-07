@@ -1,0 +1,62 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Each bottle contains the juice of: Apple (33%)^, Yellow Carrot (32%)^, Sweet Potato (28%)^, Pineapple (5%)^, Lemon (<1%)^, Vitamin C, Food Acid (Malic Acid), Turmeric (<1%), Natural Flavour. ^Reconstituted Juice."
+    },
+    {
+      "name": "Dietary",
+      "value": "No Added Sugars, No Preservatives, No Artificial Flavours or Colours, Source of Vitamin C"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "5.0"
+    },
+    {
+      "name": "Warning",
+      "value": "Do not purchase unless cap and neckband are intact."
+    },
+    {
+      "name": "Size",
+      "value": "1.25L"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$4.80 per 1L"
+    }
+  ],
+  "brand": "Campbell's V8",
+  "createdAt": "2022-12-06T10:31:31.100Z",
+  "description": "Campbell's V8 Powerblend Immunity Juice",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/4/7/5/4750523.jpg",
+  "name": "Powerblend Immunity Juice",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 6,
+    "lowPrice": 6,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T10:31:31.099Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "6.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/immunity-juice-1-25l"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/immunity-juice-1-25l"
+  ],
+  "sku": "4750523",
+  "updatedAt": "2022-12-06T10:31:31.099Z"
+}

@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "1 pack"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$15.75 per 1Ea"
+    }
+  ],
+  "brand": "Audeeo",
+  "createdAt": "2022-12-06T20:05:25.547Z",
+  "description": "Audeeo Refresh True Wireless Headphones",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/9/6/3969718.jpg",
+  "name": "Refresh True Wireless Headphones",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 15.75,
+    "lowPrice": 15.75,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T20:05:25.546Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "15.75",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/bud-black*"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/bud-black*"
+  ],
+  "sku": "3969718",
+  "updatedAt": "2022-12-06T20:05:25.546Z"
+}

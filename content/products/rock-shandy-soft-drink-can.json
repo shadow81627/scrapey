@@ -1,0 +1,50 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "330mL"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$7.27 per 1L"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Product of Ireland"
+    }
+  ],
+  "brand": "Club",
+  "createdAt": "2022-12-06T17:17:34.126Z",
+  "description": "Club Rock Shandy is a refreshing mix of orange and lemon in a soft drink. Suitable for vegetarians.",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/1/6/5/1655402.jpg",
+  "name": "Rock Shandy Soft Drink Can",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2.4,
+    "lowPrice": 2.4,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T17:17:34.125Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "2.40",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/club-rock-shandy"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/club-rock-shandy"
+  ],
+  "sku": "1655402",
+  "updatedAt": "2022-12-06T17:17:34.126Z"
+}

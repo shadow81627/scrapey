@@ -1,0 +1,50 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "10 pack"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$0.20 per 1Ea"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Product of India"
+    }
+  ],
+  "brand": "Queen Victoria",
+  "createdAt": "2022-12-06T06:53:38.843Z",
+  "description": "Queen Victoria Earl Grey Tea Bags 10 Pack. This quintessential British-style tea is infused with oil from the rind of bergamot orange creating a refreshing citrus flavour, with hints of orange, lemon, grapefruit and lime.",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/9/8/3984595.jpg",
+  "name": "Earl Grey Tea Bags",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 2,
+    "lowPrice": 2,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T06:53:38.843Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "2.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/earl-grey-3984595p-1"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/earl-grey-3984595p-1"
+  ],
+  "sku": "3984595",
+  "updatedAt": "2022-12-06T06:53:38.843Z"
+}

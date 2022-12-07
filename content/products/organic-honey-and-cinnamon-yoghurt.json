@@ -2,24 +2,12 @@
   "@type": "Product",
   "additionalProperty": [
     {
-      "name": "Ingredients",
-      "value": "Organic milk, organic raw sugar, water, organic cream, organic honey (3%), milk solids, organic milk solids, rice starch, cinnamon, citric acid, live cultures (incl. probiotic acidophilus and bifidus)."
-    },
-    {
-      "name": "Contains",
-      "value": "Milk"
-    },
-    {
-      "name": "Allergen",
-      "value": "Contains Milk"
-    },
-    {
       "name": "Size",
       "value": "700g"
     },
     {
       "name": "Unit Price",
-      "value": "$1.00 per 100G"
+      "value": "$0.79 per 100G"
     }
   ],
   "brand": "Five:AM",
@@ -29,18 +17,18 @@
   "name": "Organic Honey & Cinnamon Yoghurt",
   "offers": {
     "@type": "AggregateOffer",
-    "highPrice": 7,
-    "lowPrice": 7,
+    "highPrice": 5.5,
+    "lowPrice": 5.5,
     "offerCount": 1,
     "offers": [
       {
         "@context": "http://schema.org",
         "@type": "Offer",
         "availability": "https://schema.org/InStock",
-        "availabilityStarts": "2022-11-29T10:47:25.528Z",
+        "availabilityStarts": "2022-12-06T06:36:15.670Z",
         "itemCondition": "https://schema.org/NewCondition",
         "offeredBy": "Coles",
-        "price": "7.00",
+        "price": "5.50",
         "priceCurrency": "AUD",
         "seller": {
           "@type": "Organization",
@@ -51,8 +39,8 @@
     ]
   },
   "sameAs": [
-    "https://shop.coles.com.au/a/national/product/five%3Aam-yoghurt-honey-cinnamon?adId=display_eXYK9SfAuG5-bdWeGQuznb-1cgYKCgoIMTQzNjEwM1ASABoMCIydkZwGEMrmw5kDIgIIAQ%3D%3D"
+    "https://shop.coles.com.au/a/national/product/five:am-yoghurt-honey-cinnamon"
   ],
   "sku": "1436103",
-  "updatedAt": "2022-11-29T10:47:25.528Z"
+  "updatedAt": "2022-12-06T06:36:15.671Z"
 }

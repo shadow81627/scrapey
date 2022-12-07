@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Manicare"
+  },
+  "createdAt": "2022-12-06T14:37:49.326Z",
+  "description": "Pink precision tweezers with ultra-fine slant tips for accurate tweezing.<BR><BR>Ultra-fine slant tips featuring stainless steel, precision ground, for accurate tweezing. These tweezers have a professional length design for optimum control. Designed to be washable, sanitizable and rust-proof.  Includes protective storage pouch.",
+  "gtin13": "3221160944554",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/566749.jpg",
+  "name": "Manicare Precision Tweezers Pink Each",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 10.8,
+    "lowPrice": 10.8,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T14:37:49.325Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 10.8,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/566749/manicare-precision-tweezers-pink"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/566749/manicare-precision-tweezers-pink"
+  ],
+  "sku": "566749",
+  "updatedAt": "2022-12-06T14:37:49.325Z"
+}

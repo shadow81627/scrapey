@@ -1,0 +1,54 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "INGREDIENTS: Wheat Flour, Water, Linseed (7%), Soybean (5%), Salt, Malt [Barley, Malted Barley], Wheat Bran, Wheat Malt Flour, Yeast, Vitamins [Folic Acid, Thiamin]."
+    },
+    {
+      "name": "Allergen",
+      "value": "Contains SOY, Contains Barley, Contains CEREALS CONTAINING GLUTEN, Contains Wheat"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "5.0"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$3.00 per 1Ea"
+    }
+  ],
+  "brand": "Coles Bakery",
+  "createdAt": "2022-12-06T07:41:58.363Z",
+  "description": "This product is baked in store daily. Due to the short shelf life of the product it is not available for delivery before 2pm.",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/4/9/3498859.jpg",
+  "name": "Stone Baked By Laurent Soybean & Linseed Sourdough Vienna",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3,
+    "lowPrice": 3,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T07:41:58.362Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "3.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/stonebaked-by-laurent-soy-linseed-sd-vienna"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/stonebaked-by-laurent-soy-linseed-sd-vienna"
+  ],
+  "sku": "3498859",
+  "updatedAt": "2022-12-06T07:41:58.362Z"
+}

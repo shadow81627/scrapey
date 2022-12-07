@@ -1,0 +1,42 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "1 pack"
+    }
+  ],
+  "brand": "Bonds Womens Undershort",
+  "createdAt": "2022-12-06T19:24:46.558Z",
+  "description": "Bonds Womens Undershort WOMENS UNDERSHORT SIZE 12/14",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/5/6/5567511.jpg",
+  "name": "WOMENS UNDERSHORT SIZE 12/14",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 7.5,
+    "lowPrice": 7.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/OutOfStock",
+        "availabilityStarts": "2022-12-06T19:24:46.557Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "7.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/size-12-14-1pk"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/size-12-14-1pk"
+  ],
+  "sku": "5567511",
+  "updatedAt": "2022-12-06T19:24:46.557Z"
+}

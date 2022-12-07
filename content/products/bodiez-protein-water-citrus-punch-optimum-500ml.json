@@ -1,0 +1,59 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "Approx.547kJ",
+      "carbohydrateContent": "&lt;1g",
+      "dietary_fibre": "-",
+      "fatContent": "&lt;1g",
+      "name": "nutrition",
+      "proteinContent": "Approx.30g",
+      "saturatedFatContent": "&lt;1g",
+      "servingSize": "100 g",
+      "sodiumContent": "Approx.40mg",
+      "sugarContent": "&lt;1g"
+    }
+  ],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Bodiez"
+  },
+  "createdAt": "2022-12-06T16:30:56.894Z",
+  "description": "<p>The BODIE'Z Optimum Range is a revolutionary world first, scientifically created for the athlete in you. A high protein hit that's refreshing and light on the stomach. Easily consumed before, during and after a workout. At BODIE'Z we are dedicated to creating revolutionary drinks with optimised benefits to help you unlock your potential. We endeavour to source premium ingredients and use the latest technology to create unique and tailored formulas that suit your every need.</p>",
+  "gtin13": "9349282000584",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/171535.jpg",
+  "name": "Bodiez Protein Water Citrus Punch Optimum 500ml",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": null,
+    "lowPrice": null,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/OutOfStock",
+        "availabilityStarts": "2022-12-06T16:30:56.893Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/171535/bodiez-protein-water-citrus-punch-optimum"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/171535/bodiez-protein-water-citrus-punch-optimum"
+  ],
+  "sku": "171535",
+  "updatedAt": "2022-12-06T16:30:56.893Z"
+}

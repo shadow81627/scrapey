@@ -1,0 +1,50 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "75g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$4.00 per 100G"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Made in United Kingdom FROM LOCAL AND IMPORTED INGREDIENTS"
+    }
+  ],
+  "brand": "Shippam's",
+  "createdAt": "2022-12-06T17:21:58.050Z",
+  "description": "Shippam's Crab Spread",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/8/6/9/8696237.jpg",
+  "name": "Crab Spread",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 3,
+    "lowPrice": 3,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T17:21:58.049Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "3.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/shippams-spread-crab"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/shippams-spread-crab"
+  ],
+  "sku": "8696237",
+  "updatedAt": "2022-12-06T17:21:58.049Z"
+}

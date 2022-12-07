@@ -1,0 +1,50 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "Fish broth, Tuna whole loin, Imitation crab meat, Shrimp, Fish extract, Thickening agents (Modified tapioca starch, Guar gum, Carrageenan), Vitamin E."
+    },
+    {
+      "name": "Size",
+      "value": "40g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$4.50 per 100G"
+    }
+  ],
+  "brand": "Fancy Feast",
+  "createdAt": "2022-12-07T00:43:46.846Z",
+  "description": "Fancy Feast Royale Broths Tuna Surimi Prawn Cat Food",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/8/9/9/8998043.jpg",
+  "name": "Royale Broths Tuna Surimi Prawn Cat Food",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 1.8,
+    "lowPrice": 1.8,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-07T00:43:46.845Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "1.80",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/fancy-feast-broths-cat-food-tuna-prawn"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/fancy-feast-broths-cat-food-tuna-prawn"
+  ],
+  "sku": "8998043",
+  "updatedAt": "2022-12-07T00:43:46.845Z"
+}

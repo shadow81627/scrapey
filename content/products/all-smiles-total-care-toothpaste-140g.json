@@ -1,0 +1,52 @@
+{
+  "@type": "Product",
+  "additionalProperty": [],
+  "aggregateRating": {
+    "@context": "http://schema.org",
+    "@type": "AggregateRating",
+    "ratingCount": 399,
+    "ratingValue": 3.53383458646617
+  },
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "All Smiles"
+  },
+  "createdAt": "2022-12-06T10:40:03.418Z",
+  "description": "<div>All Smiles Total Care toothpaste provides protection for your teeth and gums, removes plaque and leaves you with fresh breath and a brighter smile.</div>",
+  "gtin13": "9300633636760",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/581163.jpg",
+  "name": "All Smiles Total Care Toothpaste 140G",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 1.5,
+    "lowPrice": 1.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/OutOfStock",
+        "availabilityStarts": "2022-12-06T10:40:03.415Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 1.5,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/581163/all-smiles-total-care-toothpaste"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/581163/all-smiles-total-care-toothpaste"
+  ],
+  "sku": "581163",
+  "updatedAt": "2022-12-06T10:40:03.415Z"
+}

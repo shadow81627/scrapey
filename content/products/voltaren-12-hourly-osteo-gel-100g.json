@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Voltaren"
+  },
+  "createdAt": "2022-12-06T15:54:21.867Z",
+  "description": "Voltaren Osteo Gel 12 Hourly is for the temporary relief of local pain and inflammation associated with mild forms of osteoarthritis of the knees and fingers.",
+  "gtin13": "9310130317307",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/082708.jpg",
+  "name": "Voltaren 12 Hourly Osteo Gel 100G",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 32,
+    "lowPrice": 32,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T15:54:21.866Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 32,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/82708/voltaren-12-hourly-osteo-gel"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/82708/voltaren-12-hourly-osteo-gel"
+  ],
+  "sku": "82708",
+  "updatedAt": "2022-12-06T15:54:21.867Z"
+}

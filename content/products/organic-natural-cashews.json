@@ -1,0 +1,62 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Ingredients",
+      "value": "<strong>INGREDIENTS:</strong> ;Organic ;<strong>Cashews ;</strong>(100%)"
+    },
+    {
+      "name": "Allergen",
+      "value": "May Be Present SOY, Contains TREE NUTS, May Be Present MILK, May Be Present OTHER TREE NUTS, May Be Present PEANUTS, Contains Cashew, May Be Present SESAME, May Be Present CEREALS CONTAINING GLUTEN"
+    },
+    {
+      "name": "Servings Per Pack",
+      "value": "6.0"
+    },
+    {
+      "name": "Warning",
+      "value": "Food Warnings: Despite careful inspection some fragments of shell may remain."
+    },
+    {
+      "name": "Size",
+      "value": "180g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$31.11 per 1Kg"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2022-12-06T16:25:06.793Z",
+  "description": "Coles Organic Natural Cashews",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/5/7/3571890.jpg",
+  "name": "Organic Natural Cashews",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 5.6,
+    "lowPrice": 5.6,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T16:25:06.792Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "5.60",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-organic-cashews-natural"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/coles-organic-cashews-natural"
+  ],
+  "sku": "3571890",
+  "updatedAt": "2022-12-06T16:25:06.792Z"
+}

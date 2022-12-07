@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "1 pack"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$18.55 per 1Ea"
+    }
+  ],
+  "brand": "Audeeo",
+  "createdAt": "2022-12-06T19:40:55.238Z",
+  "description": "Audeeo Velocity Wired Gaming Mouse",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/9/6/3969650.jpg",
+  "name": "Velocity Wired Gaming Mouse",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 18.55,
+    "lowPrice": 18.55,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T19:40:55.237Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "18.55",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/gaming-mouse"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/gaming-mouse"
+  ],
+  "sku": "3969650",
+  "updatedAt": "2022-12-06T19:40:55.237Z"
+}

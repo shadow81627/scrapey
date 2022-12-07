@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "2 pack"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$2.75 per 1Ea"
+    }
+  ],
+  "brand": "Bonds",
+  "createdAt": "2022-12-06T19:25:08.380Z",
+  "description": "Bonds Mens Naf Crew 11+",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/5/3/5534115.jpg",
+  "name": "Mens Naf Crew 11+",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 5.5,
+    "lowPrice": 5.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/OutOfStock",
+        "availabilityStarts": "2022-12-06T19:25:08.368Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "5.50",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/crew-2pk-11-"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/crew-2pk-11-"
+  ],
+  "sku": "5534115",
+  "updatedAt": "2022-12-06T19:25:08.368Z"
+}

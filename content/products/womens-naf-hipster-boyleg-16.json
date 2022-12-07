@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "2 pack"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$5.50 per 1Ea"
+    }
+  ],
+  "brand": "Bonds",
+  "createdAt": "2022-12-06T19:54:49.259Z",
+  "description": "Bonds Womens Naf Hipster Boyleg 16",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/5/3/5536518.jpg",
+  "name": "Womens Naf Hipster Boyleg 16",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 11,
+    "lowPrice": 11,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/OutOfStock",
+        "availabilityStarts": "2022-12-06T19:54:49.259Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "11.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/hipster-boyleg-2pk-16"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/hipster-boyleg-2pk-16"
+  ],
+  "sku": "5536518",
+  "updatedAt": "2022-12-06T19:54:49.259Z"
+}

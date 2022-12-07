@@ -1,0 +1,45 @@
+{
+  "@type": "Product",
+  "additionalProperty": [],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Woolworths"
+  },
+  "createdAt": "2022-12-06T11:02:03.394Z",
+  "gtin13": "9300633359409",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/742305.jpg",
+  "name": "Woolworths Sunscreen Spf 50+ 1L",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 8.5,
+    "lowPrice": 8.5,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T11:02:03.393Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 8.5,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/742305/woolworths-sunscreen-spf-50-"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/742305/woolworths-sunscreen-spf-50-"
+  ],
+  "sku": "742305",
+  "updatedAt": "2022-12-06T11:02:03.393Z"
+}

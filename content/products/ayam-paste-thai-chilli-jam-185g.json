@@ -1,0 +1,60 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "@type": "NutritionInformation",
+      "calories": "1.00kJ",
+      "carbohydrateContent": "5.20g",
+      "dietary_fibre": "2.34g",
+      "fatContent": "4.30g",
+      "name": "nutrition",
+      "proteinContent": "0.60g",
+      "saturatedFatContent": "0.70g",
+      "servingSize": "100 g",
+      "sodiumContent": "75.00mg",
+      "sugarContent": "5.00g"
+    }
+  ],
+  "brand": {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Ayam"
+  },
+  "createdAt": "2022-12-06T08:38:22.904Z",
+  "description": "A combination of spicy, sweet, and sour. Use as a base for tom yum soup, meat and vegetable stir fries, marinades, and salad dressings.",
+  "gtin13": "9556041612067",
+  "image": "https://cdn0.woolworths.media/content/wowproductimages/large/789329.jpg",
+  "name": "Ayam Paste Thai Chilli Jam 185G",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 4,
+    "lowPrice": 4,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T08:38:22.903Z",
+        "itemCondition": "http://schema.org/NewCondition",
+        "offeredBy": "Woolworths",
+        "potentialAction": {
+          "@context": "http://schema.org",
+          "@type": "BuyAction"
+        },
+        "price": 4,
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Woolworths"
+        },
+        "url": "https://woolworths.com.au/shop/productdetails/789329/ayam-paste-thai-chilli-jam"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://woolworths.com.au/shop/productdetails/789329/ayam-paste-thai-chilli-jam"
+  ],
+  "sku": "789329",
+  "updatedAt": "2022-12-06T08:38:22.903Z"
+}

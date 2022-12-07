@@ -1,0 +1,46 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "180g"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$4.44 per 100G"
+    }
+  ],
+  "brand": "Coles",
+  "createdAt": "2022-12-06T23:03:59.743Z",
+  "description": "Coles Beef Quick VSP Porterhouse Steak",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/2/9/3293415.jpg",
+  "name": "Beef Quick VSP Porterhouse Steak",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 8,
+    "lowPrice": 8,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "availabilityStarts": "2022-12-06T23:03:59.742Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "8.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/coles-quick-cook-beef-porterhouse"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/coles-quick-cook-beef-porterhouse"
+  ],
+  "sku": "3293415",
+  "updatedAt": "2022-12-06T23:03:59.742Z"
+}

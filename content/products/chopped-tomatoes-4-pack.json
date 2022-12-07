@@ -1,0 +1,50 @@
+{
+  "@type": "Product",
+  "additionalProperty": [
+    {
+      "name": "Size",
+      "value": "1.6kg"
+    },
+    {
+      "name": "Unit Price",
+      "value": "$2.50 per 1Kg"
+    },
+    {
+      "name": "Country Of Origin",
+      "value": "Made in Italy"
+    }
+  ],
+  "brand": "Napolina",
+  "createdAt": "2022-12-06T18:31:19.935Z",
+  "description": "Napolina Chopped Tomatoes 4 Pack",
+  "image": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/0/7/5075470.jpg",
+  "name": "Chopped Tomatoes 4 Pack",
+  "offers": {
+    "@type": "AggregateOffer",
+    "highPrice": 4,
+    "lowPrice": 4,
+    "offerCount": 1,
+    "offers": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Offer",
+        "availability": "https://schema.org/OutOfStock",
+        "availabilityStarts": "2022-12-06T18:31:19.934Z",
+        "itemCondition": "https://schema.org/NewCondition",
+        "offeredBy": "Coles",
+        "price": "4.00",
+        "priceCurrency": "AUD",
+        "seller": {
+          "@type": "Organization",
+          "name": "Coles"
+        },
+        "url": "https://shop.coles.com.au/a/national/product/chopped-tomatoes-4pk"
+      }
+    ]
+  },
+  "sameAs": [
+    "https://shop.coles.com.au/a/national/product/chopped-tomatoes-4pk"
+  ],
+  "sku": "5075470",
+  "updatedAt": "2022-12-06T18:31:19.934Z"
+}
